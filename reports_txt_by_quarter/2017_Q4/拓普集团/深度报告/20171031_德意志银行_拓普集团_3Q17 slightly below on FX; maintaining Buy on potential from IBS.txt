@@ -1,52 +1,47 @@
-p
-Tuopu
 Rating
+Date
+Company
 Buy
-Valuation & Risks
-Automobiles & Components
-Price at 26 Oct 2017 (CNY)
-31.20
-Price target - 12mth (CNY)
-34.90
-52-week range (CNY)
-35.00 - 26.63
-Shanghai Composite
-3,408
+Tuopu
 Results
 Asia
 China
-Company
-Tuopu
 Reuters
 Bloomberg
 Exchange
 Ticker
+Automobiles & Components
 601689.SS
 601689 CH
 SHH
-601689
-Date
-28 October 2017
-Deutsche Bank
-Markets Research
 3Q17 slightly below on FX; maintaining
 Buy on potential from IBS
-6% proﬁt YoY with strong top-line growth oﬀset by margin and FX
+Valuation & Risks
+Fei Sun, CFA
+6% profit YoY with strong top-line growth offset by margin and FX
+Research Analyst
 3Q17 gross revenue edged up 25.8% YoY to RMB1.2bn, likely driven by strong
 orders from local brands OEM customers, such as Geely, SAIC Roewe, and
-GAC Trumpchi. Gross proﬁt rose 20.0% YoY to RMB324.2m with a 1.3ppt YoY
-gross proﬁt margin contraction, mainly due to product mix deterioration with less
+GAC Trumpchi. Gross profit rose 20.0% YoY to RMB324.2m with a 1.3ppt YoY
+Vincent Ha, CFA
+gross profit margin contraction, mainly due to product mix deterioration with less
+Research Analyst
 contribution from shock absorber and intelligent braking segments, in our view.
-Together with a ﬂattish SG&A to sales ratio in 3Q17, oﬀset by FX losses (due to
-RMB appreciation vs. USD) and lower other operating income, 3Q17 net proﬁt
+Together with a flattish SG&A to sales ratio in 3Q17, offset by FX losses (due to
+RMB appreciation vs. USD) and lower other operating income, 3Q17 net profit
+Yuki Lu
 increased only mildly, 5.8% YoY to RMB164.1m.
-On a 9M17 basis, Tuopu's net proﬁt of RMB551.1m was up 30.1% YoY and
+Research Associate
+On a 9M17 basis, Tuopu's net profit of RMB551.1m was up 30.1% YoY and
 accounted for 70% of our full-year FY17 forecast and 67% of the Bloomberg
+Price/price relative
 consensus FY17 estimate. Therefore, we consider the results as a slight miss to
 both our and consensus expectations.
 Deutsche Bank view – Buy on growth potential from ADAS
-We believe Tuopu will continue to beneﬁt from the rapid growth momentum
+We believe Tuopu will continue to benefit from the rapid growth momentum
 at its key OEM customers and expect Noise, Vibration and Harshness (NVH)
+Shanghai Composite (Rebased)
+Tuopu
 parts to remain the company's major revenue contributor. In addition, we remain
 optimistic on the growth potential of Intelligent Braking System (IBS) and Electric
 Vacuum Pump (EVP) products.
@@ -54,159 +49,21 @@ Our target price is set at a target 26x FY18E P/E (unchanged), near with its mid
 cycle P/E of 28x. Key downside risks: weaker-than-expected auto sales volume;
 failure to record new order awards for IBS/EVP products; and unexpected increase
 in raw material prices.
-Fei Sun, CFA
-Research Analyst
-+852-2203 6130
-Vincent Ha, CFA
-Research Analyst
-+852-2203 6247
-Yuki Lu
-Research Associate
-+852-2203 5925
-Price/price relative
-Tuopu
-Shanghai Composite (Rebased)
-2016
-2017
-20
-40
-0
-60
-Performance (%)
-1m
-3m 12m
-Absolute
-11.4
-2.6
-8.0
-Shanghai Composite
-1.9
-4.9
-9.3
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-16.3
-Net debt/equity (%)
--30.5
-Book value/share (CNY)
-8.69
 Price/book (x)
-3.6
 Net interest cover (x)
-–
-Operating proﬁt margin (%)
-17.9
+Operating profit margin (%)
 Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+Deutsche Bank does and seeks to do business with companies covered in its res Distributed on: 27/10/2017 16:27:07 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
 ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE'S
 REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC), EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
-Distributed on: 27/10/2017 16:27:07 GMT
-0bed7b6cf11c
-28 October 2017
-Automobiles & Components
-Tuopu
-Figure 1: Tuopu - quarterly results summary
-(RMBm)
-1Q16
-2Q16
-3Q16
-4Q16
-1Q17
-2Q17
-3Q17
-Revenue 
-789.6
-877.6
-957.3
-1,313.2
-1,166.4
-1,170.0
-1,204.0
-YoY(%)
-15.8%
-15.7%
-40.5%
-48.3%
-47.7%
-33.3%
-25.8%
-Gross profit
-237.0
-271.2
-270.0
-420.7
-342.6
-340.5
-324.2
-YoY(%)
-27.8%
-23.2%
-44.7%
-63.4%
-44.6%
-25.5%
-20.0%
-Gross profit margin (%)
-30.0%
-30.9%
-28.2%
-32.0%
-29.4%
-29.1%
-26.9%
-Operating profit
-119.0
-149.0
-137.9
-259.8
-194.3
-187.1
-158.5
-Net profit
-125.7
-142.9
-155.1
-192.0
-172.6
-214.4
-164.1
-YoY(%)
-39.9%
-16.3%
-92.7%
-66.5%
-37.3%
-50.0%
-5.8%
-Source: Company data
-Page 2
-Deutsche Bank AG/Hong Kong
-28 October 2017
-Automobiles & Components
-Tuopu
-Model updated: 25 August 2017
-Running the numbers
-Asia
-China
-Automobiles & Components
 Tuopu
 Reuters: 601689.SS
 Bloomberg: 601689 CH
 Buy
-Price (26 Oct 17)
-CNY 31.20
-Target Price
-CNY 34.90
-52 Week range
-CNY 26.63 - 35.00
-Market cap (m)
-CNYm 20,252
- USDm 3,053.1
 Company Profile
 Ningbo Tuopu Group Co., Ltd. is a China-based company
 principally engaged in the research, development, manufacture
@@ -215,600 +72,17 @@ automotive components. The company's products include shock
 absorbers, suspension, interior functional parts, aluminium alloy
 control arms and intelligent braking systems. The company
 distributes its products in both domestic and overseas markets.
-Price Performance
-Tuopu
-Shanghai Composite (Rebased)
-Jul '15
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-10
-20
-30
-40
-50
-Margin Trends
-EBITDA Margin
-EBIT Margin
-14
-15
-16
-17E
-18E
-19E
-20
-15
-17.5
-22.5
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-14
-15
-16
-17E
-18E
-19E
-0
-10
-20
-30
-40
-15
-20
-25
-30
-10
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-14
-15
-16
-17E
-18E
-19E
--40
--20
-0
-20
-143.99165670410864
-144.99165670411
-145.99165670411
-146.99165670411
-Fei Sun, CFA
-+852 2203 6130
-fei.sun@db.com
-Fiscal year end 31-Dec
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Financial Summary
-DB EPS (CNY)
-0.77
-0.66
-0.95
-1.13
-1.34
-1.59
-Reported EPS (CNY)
-0.77
-0.66
-0.95
-1.13
-1.34
-1.59
-DPS (CNY)
-0.23
-0.62
-0.00
-0.33
-0.40
-0.48
-BVPS (CNY)
-2.8
-4.9
-5.2
-8.7
-9.6
-10.7
-Weighted average shares (m)
-520
-622
-649
-696
-728
-728
-Average market cap (CNYm)
-na
-14,672
-17,268
-20,252
-20,252
-20,252
-Enterprise value (CNYm)
-na
-14,217
-17,091
-18,268
-18,945
-19,906
-Valuation Metrics
-P/E (DB) (x)
-na
-35.9
-28.0
-27.5
-23.3
-19.6
-P/E (Reported) (x)
-na
-35.9
-28.0
-27.5
-23.3
-19.6
-P/BV (x)
-0.00
-5.61
-5.66
-3.59
-3.24
-2.90
-FCF Yield (%)
-na
-nm
-nm
-nm
-nm
-nm
-Dividend Yield (%)
-na
-2.6
-0.0
-1.0
-1.3
-1.5
-EV/Sales (x)
-nm
-4.7
-4.3
-3.6
-3.0
-2.6
-EV/EBITDA (x)
-nm
-24.4
-20.1
-16.7
-14.4
-12.6
-EV/EBIT (x)
-nm
-30.5
-24.8
-19.9
-17.0
-14.9
-Income Statement (CNYm)
-Sales revenue
-2,737
-3,007
-3,938
-5,131
-6,317
-7,606
-Gross profit
-893
-966
-1,361
-1,703
-2,082
-2,493
-EBITDA
-567
-582
-852
-1,092
-1,317
-1,580
-Depreciation
-97
-112
-154
-164
-193
-227
-Amortisation
-3
-4
-8
-8
-11
-14
-EBIT
-468
-467
-690
-920
-1,114
-1,339
-Net interest income(expense)
--3
-9
-25
-10
-34
-25
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Profit before tax
-464
-476
-715
-930
-1,148
-1,364
-Income tax expense
-65
-66
-99
-139
-172
-205
-Minorities
-1
-1
-0
-0
-0
-0
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-399
-409
-616
-790
-976
-1,159
-DB adjustments (including dilution)
-0
-0
-0
-0
-0
-0
-DB Net profit
-399
-409
-616
-790
-976
-1,159
-Cash Flow (CNYm)
-Cash flow from operations
-459
-238
-276
-498
-755
-923
-Net Capex
--381
--429
--742
--850
--1,139
--1,536
-Free cash flow
-78
--191
--465
--351
--385
--613
-Equity raised/(bought back)
-0
-1,392
-0
-2,395
-0
-0
-Dividends paid
--378
--125
--403
--237
--293
--348
-Net inc/(dec) in borrowings
-255
-90
-200
-200
-200
-200
-Other investing/financing cash flows
--7
--854
-585
--100
--100
--100
-Net cash flow
--52
-313
--83
-1,907
--577
--860
-Change in working capital
--33
--265
--484
--412
--425
--477
-Balance Sheet (CNYm)
-Cash and other liquid assets
-95
-422
-330
-2,237
-1,659
-799
-Tangible fixed assets
-972
-1,240
-1,549
-2,030
-2,671
-3,521
-Goodwill/intangible assets
-129
-180
-388
-583
-879
-1,324
-Associates/investments
-60
-59
-72
-72
-72
-72
-Other assets
-1,282
-2,229
-2,608
-3,469
-4,310
-5,262
-Total assets
-2,537
-4,130
-4,946
-8,391
-9,591
-10,978
-Interest bearing debt
-255
-0
-200
-300
-400
-500
-Other liabilities
-782
-949
-1,350
-1,747
-2,163
-2,638
-Total liabilities
-1,037
-949
-1,550
-2,047
-2,563
-3,138
-Shareholders' equity
-1,475
-3,156
-3,372
-6,320
-7,003
-7,815
-Minorities
-25
-25
-25
-25
-25
-25
-Total shareholders' equity
-1,500
-3,181
-3,396
-6,344
-7,028
-7,839
-Net debt
-160
--422
--130
--1,937
--1,259
--299
-Key Company Metrics
-Sales growth (%)
-nm
-9.9
-30.9
-30.3
-23.1
-20.4
-DB EPS growth (%)
-na
--14.4
-44.4
-19.6
-18.2
-18.8
-EBITDA Margin (%)
-20.7
-19.4
-21.6
-21.3
-20.9
-20.8
-EBIT Margin (%)
-17.1
-15.5
-17.5
-17.9
-17.6
-17.6
-Payout ratio (%)
-30.1
-93.8
-0.0
-28.7
-30.0
-30.0
-ROE (%)
-27.0
-17.6
-18.9
-16.3
-14.7
-15.6
-Capex/sales (%)
-13.9
-14.3
-18.8
-16.6
-18.0
-20.2
-Capex/depreciation (x)
-3.8
-3.7
-4.6
-4.9
-5.6
-6.4
-Net debt/equity (%)
-10.7
--13.3
--3.8
--30.5
--17.9
--3.8
-Net interest cover (x)
-144.0
-nm
-nm
-nm
-nm
-nm
 Source: Company data, Deutsche Securities estimates
-Deutsche Bank AG/Hong Kong
-Page 3
-28 October 2017
-Automobiles & Components
-Tuopu
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Tuopu
-601689.SS
-30.98 (CNY) 27 Oct 2017
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg, and other vendors. Other
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at http://gm.db.com/ger/disclosure/
-DisclosureDirectory.eqsr. Aside from within this report, important conﬂict disclosures can also be found at https://gm/db.com/equities under the "Disclosures Lookup" and "Legal"
-tabs. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Fei Sun
-Historical recommendations and target price. Tuopu (601689.SS)
-(as of 10/26/2017)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-1
-2
-Jan '16
-Jan '17
-Jul '15
-Jul '16
-Jul '17
-0.00
-10.00
-20.00
-30.00
-40.00
-50.00
-1.
-06/11/2017
-Buy, Target Price Change CNY 35,40 Fei Sun, CFA
-2.
-08/25/2017
-Buy, Target Price Change CNY 34,90 Fei Sun, CFA
-Page 4
-Deutsche Bank AG/Hong Kong
-28 October 2017
-Automobiles & Components
-Tuopu
+compensation for providing a specific recommendation or view in this report. Fei Sun
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -817,35 +91,30 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Deutsche Bank AG/Hong Kong
-Page 5
-28 October 2017
 Automobiles & Components
 Tuopu
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of these websites.
-?
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies or otherwise.
-Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
-paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment banking, trading
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
 and principal trading revenues.
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
-ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high conviction belief
 by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
 less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
 our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
@@ -853,233 +122,190 @@ or events that may have a near-term or medium-term impact on the market price of
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
-the frequency of changes in market conditions and in both general and company speciﬁc economic prospects make it
-diﬃcult to update research at deﬁned intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
 the Research Department Management and as such the majority of reports are published at irregular intervals. This report
-is provided for informational purposes only and does not take into account the particular investment objectives, ﬁnancial
-situations, or needs of individual clients. It is not an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments
-or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst ’ s
-judgment. The ﬁnancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions. Prices and availability of ﬁnancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
+or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst ^\prime s
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
 instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
-aﬀect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
 are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
 and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
 The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
 to our research is available on our website under Disclaimer found on the Legal tab.
-??
-Page 6
-Deutsche Bank AG/Hong Kong
-28 October 2017
-Automobiles & Components
-Tuopu
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed rate instruments (thus receiving these cash ﬂows),
-increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus cause a loss.
-The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the higher will be the
-loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the most common adverse
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
 macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
-(including changes in assets holding limits for diﬀerent types of investors), changes in tax policies, currency convertibility
-(which may constrain currency conversion, repatriation of proﬁts and/or the liquidation of positions), and settlement issues
-related to local clearing houses are also important risk factors to be considered. The sensitivity of ﬁxed income instruments
-to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to FX depreciation, or to
-speciﬁed interest rates – these are common in emerging markets. It is important to note that the index ﬁxings may -- by
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates – these are common in emerging markets. It is important to note that the index fixings may -- by
 construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
-proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. It is also important to acknowledge
-that funding in a currency that diﬀers from the currency in which coupons are denominated carries FX risk. Naturally,
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
 options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
 The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
 including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
-investors should take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
 contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
 result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
 than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
-to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options”, at http://
-www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the website please contact
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
 your Deutsche Bank representative for a copy of this important document.
-?
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
-exchange rates can be volatile and are subject to large ﬂuctuations; ( ii) the value of currencies may be aﬀected by
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
 numerous market factors, including world and national economic, political and regulatory events, events in equity and
 debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are
-aﬀected by the currency of an underlying security, eﬀectively assume currency risk.
-?
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
-investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at https://
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
 gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
 provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
 Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
 as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
 decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
 strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Deutsche Bank AG/Hong Kong
-Page 7
-28 October 2017
-Automobiles & Components
-Tuopu
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
-??
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany 's Federal
 Financial Supervisory Authority.
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
-??
 India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
 as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
 warnings from the SEBI for breaches of Indian regulations.
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period.
 Korea: Distributed by Deutsche Securities Korea Co.
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raﬄes
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
 Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
 from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor, expert investor or institutional investor (as deﬁned in the applicable Singapore laws and regulations),
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
 they accept legal responsibility to such person for its contents.
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
-Page 8
-Deutsche Bank AG/Hong Kong
-28 October 2017
 Automobiles & Components
 Tuopu
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
 the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
 Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
 any appraisal or evaluation activity requiring a license in the Russian Federation.
-?
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
-the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the ﬁnancial services activities that
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
 fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are only available to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any ﬁnancial product
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
 referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
-refer to Australian speciﬁc research disclosures and related information at https://australia.db.com/australia/content/
 research-information.html
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
 Corporations Act and New Zealand Financial Advisors Act respectively.
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2017 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 9
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Research
+Global Head of Economics
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
 1 Great Winchester Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
-United States of America
-Tel: (1) 212 250 2500

@@ -1,134 +1,240 @@
-当前价： 15597 元
-同 花 顺（300033） 计算机
-目标价： 18711 元（6 个月）
-高Beta 属性，AI 赋能助公司业绩高增长
-52 周内股价区间(元)
- 业绩总结：2020 年H1 实现营业收入99 亿元，同比增长412%；归属于上市
-公司股东的净利润44 亿元，同比增长66%；Q2 单季度实现营业收入6 亿元，
-同比增长46%；实现归母净利润31 亿元，同比增长902%。
- 持续加大研发投入，AI 科技赋能优化用户体验。公司持续加大对新技术和新应
-用的研发投入，促进人工智能技术与现有业务的融合创新，优化用户体验，提
-升用户黏性的同时进一步构筑技术壁垒。公司不断优化同花顺AI 开放平台上的
-推荐算法，为客户推送更优质、匹配度更高的资讯。创造性的开发了股票盘中
-弹幕，增加了移动端的交互体验。不断提升用户体验使公司在移动端积攒了大
-量的人气，同时也提升了用户的黏性。公司还积极拓展非金融类的人工智能使
-用场景，在疫情期间推出的智能疫情防控回访机器人等产品，在防疫抗役中发
- 客户资源持续优化扩大，流量护城河优势明显。公司现有业务平台覆盖众多机
-构客户方面以及个人用户。个人用户方面，同花顺金融服务网拥有注册用户约
-52 亿人，每日使用同花顺网上行情免费客户端的平均人数约为1406 万人，每
-周活跃用户数约为1825 万人。庞大的客户基数，有利于实现TO C 端强流量变
-现能力。此外，公司在智能投顾方面前瞻性布局已有金融大师、财富先锋等产
-品，作为公司储备项目，基于公司受众客户的规模巨大，未来业绩可期。
- 打造泛金融平台，基金代理业务稳步增长。公司加大的营销推广的力度，进一
-步优化和充实了爱基金平台上相关产品的品种和数量和质量。2020 年H1
-2142 支，有利于泛金融平台的打造，以及基金代理业务发展。
- 盈利预测与投资建议。我们预计2020-2022 年的摊销EPS 分别为243 元、311
-元、404 元，未来三年归母净利润将保持342%的复合增长率。考虑到公司作
-为科技赋能金融的先行者，强市场关联度和在智能资管领域潜力，公司长期拓
-展空间可观，给予公司2020 年77 倍PE，对应目标价18711 元，首次覆盖给
-归属母公司净利润（百万元）
-每股收益EPS（元）
-同花顺（300033）2020 年半年报点评
-1 AI 赋能金融先行者
-公司是国内领先的互联网金融信息服务提供商，由1994 年创立的杭州核新软件技术有
-限公司发展而来，并于09 年登陆创业板上市。上市之后公司加速发展，完善业务布局。2010
-年推出iFinD 布局金融信息平台。公司专注为第三方提供服务以及提供数据服务，主要包括
-网上行情及交易系统开发及服务、金融资讯与数据服务、手机金融信息服务、基金销售服务、
-研究机构、上市公司等机构客户，以及广大个人投资者。公司利用自身平台成为链接到券商
-的交易入口，因其独立性，公司本身不经营线下券商，券商也无后顾之忧。
-随着移动互联网红利不断释放，网民手机上网的比例不断提升；金融科技不断成熟，尤
-其以云计算、大数据、人工智能、区块链等领域关键技术的突破和迅猛发展，公司不断探索
-更便捷的、更多场景下应用的AI金融的结合产品。公司基于现有的业务、技术、用户、数
-据等多方面优势，积极探索和开发基于人工智能、大数据、云计算等前沿技术的产品和应用，
-例如问财、同花顺App、产业链图谱、人工智能客服、智能推荐等等产品，不断优化用
-户体验。2018 年，公司构建的同花顺AI 开放平台，上线多款AI 语音产品，将产品延伸至了
-非金融行业。同花顺App 更以其人性化，智能化的交互，成为目前拥有全国最大股民数量的
-图1：同花顺的AI 产品
-公司目前主要业务包括增值电信业务、网上行情交易系统服务、基金代销服务及其他，
-其中基金代销服务及其他业务包括广告业务、金融电商。分产品来看：
-1） 增值电信业务主要是通过程序（人工智能算法、大数据）向个人和机构提供财经资
-讯、行情信息和交易策略等在内的金融数据服务。
-2） 网上行情交易系统销售是向券商为主的客户销售交易系统。
-3） 广告业务包括券商开户导流、信用卡广告业务等。
-4） 金融电商是基金代销、保险代销业务。
-同花顺（300033）2020 年半年报点评
-图2：公司2015-2019 主营业务收入结构情况
-图3：公司2015-2019 主营业务毛利润情况
-2019 年，公司业务收入主要来自于三大部分，增值电信业务占508%；交易系统的销
-售占比92%；广告业务和金融电商即基金代销服务及其他业务合计占40%。2020 年H1，
-公司增值电信业务实现营收58 亿，同比增长322%；交易系统的销售实现07 亿，同比增
-长311%；广告业务实现营收15 亿，同比增长118%；金融电商实现营收19 亿，同比增
-长153%。从公司当前业务规模和未来市场需求趋势来看，增值电信业务有望继续增长，基
-金代销服务及其他业务预计会爆发式增长。
-公司业绩情况：从公司历史业绩来看，公司业绩增长迅猛。公司在2006-2019 年实现
-了跨越式发展，营收从02 亿提升至174 亿，CAGR 为41%；归母净利润从01 亿提升至
-9 亿，CAGR 为43%。公司属于高Beta 属性的标的，公司业绩与资本市场相关性强，08
-年、15 年等多轮牛市助推公司业绩高速增长。从盈利能力方面来看，产品综合毛利率稳定
-在90%上下。公司2015-2019 销售期间费用率分别为27%、261%、37%、417%、382%。
-公司持续对研发高于同行的投入，夯实科技赋能金融的战略指引。2015-2019 年研发费用占
-比从193%上升至267%。管理费用、财务费用控制方面均居行业前列，财务费用持续维持
-图4：公司2015-2020H1 营业收入及增速
-图5：公司2015-2020H1 归母净利润及增速
-同花顺（300033）2020 年半年报点评
-图6：公司2015-2019 主要业务毛利率及综合毛利率
-图7：公司2015-2019 费率变化
-持续加大研发投入，AI 科技赋能优化用户体验
-公司加大对新技术和新应用的研发投入，促进人工智能技术与现有业务的融合创新，进
-一步构筑技术壁垒。2020 年上半年公司研发投入同比增加25%。公司不断优化同花顺AI
-开放平台上的推荐算法，为客户推送更优质、匹配度更高的资讯。创造性的开发了股票盘中
-弹幕，增加了移动端的交互体验。不断提升的用户体验使公司在移动端积攒了大量的人气，
-同时也提升了用户的黏性。这对公司后续针对C 端的业务拓展打下基础。
-公司还积极拓展非金融类的人工智能使用场景，目前可对外提供30 项人工智能技术和
-司在疫情期间推出的智能疫情防控回访机器人、智能疫情问答机器人、疫情地图、健康打卡
-系统、发热门诊线上预诊系统等一系列产品，在防疫抗役中发挥了积极作用。
-客户资源持续优化扩大，流量护城河优势明显
-公司现有业务平台覆盖了资本市场不同类型的客户群体。机构客户方面，公司产品及服
-司、政府、科研院所、上市公司等机构客户；个人用户方面，目前同花顺金融服务网拥有注
-册用户约52 亿人，每日使用同花顺网上行情免费客户端的平均人数约为1406 万人，每周
-活跃用户数约为1825 万人。庞大的客户基数，叠加高付费转换率，公司流量变现能力将进
-此外，在全球领先资管巨头纷纷介入智能投顾业务趋势下，国内的智能投顾的资产规模
-和渗透率相对来说比较低，而公司在智能投顾方面前瞻性布局已有金融大师、财富先锋等产
-品，作为公司储备项目。基于公司受众客户的规模巨大，智能投顾业务未来业绩可期。
-打造泛金融平台，基金代理业务稳步增长
-公司进一步优化和充实了爱基金平台上相关产品的品种和数量，提升产品质量。2020
-品2142 支。2020 年上半年公司销售费用为13 亿，同比增长458%。牛市之下的高市场活
-跃度叠加营销推广的力度增强，有利于泛金融平台的打造，以及基金代理业务发展。
-同花顺（300033）2020 年半年报点评
-假设1：公司不断加深在金融科技方面的建设。根据智研咨询数据，预计未来3 年互联
-网金融信息服务行业增速保持15%-20%的增长，公司有望受益于金融科技行业高速发展。
-假设2：在资本市场高景气度，增值电信业务有望受益于投资者对金融资讯的旺盛需求。
-预计未来三年，增值电信业务新增订单增长18%左右，带来20-22 年对应的收入增长25%
-假设3：交易系统销售业务受益于券商对系统行情需求的增加。同Wind16 年披露的62%
-的净利率相比，预计同花顺iFinD 业务净利率未来3 年内接近48%。为机构金融数据业务带
-基于以上假设，我们预测公司2020-2022 年分业务收入如下表：
-我们预计2020-2022 年的摊销EPS 分别为243 元、311 元、404 元，未来三年归母
-净利润将保持342%的复合增长率。考虑到公司作为科技赋能金融的先行者，强市场关联度
-和在智能资管领域潜力，公司长期拓展空间可观，给予公司2020 年77 倍PE，对应目标价
-18711 元，首次覆盖给予买入评级。
-同花顺（300033）2020 年半年报点评
-同花顺（300033）2020 年半年报点评
-附表：财务预测与估值
-现金流量表（百万元）
-资产负债表（百万元）
-EBITDA销售收入
-销售商品提供劳务收到现金营业收入
-同花顺（300033）2020 年半年报点评
-诺不曾因，不因，也将不会因本报告中的具体推荐意见或观点而直接或间接获取任何形式的补偿。
-买入：未来6 个月内，个股相对沪深300 指数涨幅在20%以上
-持有：未来6 个月内，个股相对沪深300 指数涨幅介于10%与20%之间
-中性：未来6 个月内，个股相对沪深300 指数涨幅介于-10%与10%之间
-回避：未来6 个月内，个股相对沪深300 指数涨幅介于-20%与-10%之间
-卖出：未来6 个月内，个股相对沪深300 指数涨幅在-20%以下
-强于大市：未来6 个月内，行业整体回报高于沪深300 指数5%以上
-跟随大市：未来6 个月内，行业整体回报介于沪深300 指数-5%与5%之间
-弱于大市：未来6 个月内，行业整体回报低于沪深300 指数-5%以下
-用，若您并非本公司客户中的专业投资者，为控制投资风险，请取消接收、订阅或使用本报告中的任何信息。本公司
-也不会因接收人收到、阅读或关注自媒体推送本报告中的内容而视其为客户。本公司或关联机构可能会持有报告中提
-本报告中的信息均来源于公开资料，本公司对这些信息的准确性、完整性或可靠性不作任何保证。本报告所载的
-升可跌，过往表现不应作为日后的表现依据。在不同时期，本公司可发出与本报告所载资料、意见及推测不一致的报
-告，本公司不保证本报告所含信息保持在最新状态。同时，本公司对本报告所含信息可在不发出通知的情形下做出修
-改，投资者应当自行关注相应的更新或修改。
-见均不构成对任何个人的投资建议。投资者应结合自己的投资目标和财务状况自行判断是否采用本报告所载内容和信
-息并自行承担风险，本公司及雇员对投资者使用本报告及其内容而造成的一切后果不承担任何法律责任。
-告及附录的，本公司将保留向其追究法律责任的权利。
-同花顺（300033）2020 年半年报点评
+。でもできまりませんにルースト
+i Tu Pia Pia Pia Pia Pia Pia Pia Pia Pia Pia
+· Tibe a n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n i li Riberi n
+”——『heilen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen einen
+në.Pin
+『記事で記載を記述に記載を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+”『『
+illa
+n. "- "- "- "- "- "- "- "- "- "- "- "- "-
+| 事情 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次 | 第一次
+· "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile "E" a Tile
+『上電子で表現をです。ではです。ではでするでするでするでするでするでするでするでするでするでする
+ilia-la-lia-la-la-la-la-la-la-la-la-la-la-la-la-la
+『上で表現である。『正で記録でする。『正で記録でする。『正で記録である。
+· "B"
+· 『上『上『
+a Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Tin Familie Ti
+事事。『上記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+- " " " " " " " " " " " " " " " " " " "
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を記している。
+音楽器を
+音・『記『記『記『記『記『ににににににににに
+『『記事で記事で記事で記事で記事で記事である。「事事で記事で記事で記事で記事で記事で記事で記事である。「事事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。」
+君事。『上記』『上記』『上記』『上記』『上記』
+用。The line line line line line line line lin
+- "E-" a"" e-"" e-"" e-"" e-"" e-"" e-"" e-"
+第一条Time April 1111111111111111111
+是看一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+5. st. in Land in Indian and in Indian and in Indian and in Indian and in Indian and in Indian and in Indian and in Indian and in Indian and Indian and Indian and Indian and Indian and Indian and Indian and Indian and Ind
+第一条 The state of Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Levil and Lev
+në.
+事。『中で記録を記述している。『中で記述している。「中で記述している。」
+事事・『上電子』『上間・『上間・『上間・『上間・『上間・『上間・『上間・『上間・
+a·Fa·Fa·Fa·Fa·Fa·Fa·Fa·Fa·Fa·Fa·Fa·Fa·Fa
+手物では、
+- 『『『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事で
+！Pin line në në në në në në në në në në në në në
+· " " " " " " " " " " " " " " " " " " "
+- Signa and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andreas and Andr
+表
+- The line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in line are no in l
+電子 - The line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line are line
+電子 The Time Time Time Time Time Time Time Tim
+- """" a Tie "" " "" " " " " " " " " " " " " " " "
+『上電子のでは、『上電子のでは、では、では、では、では、では、では、では、では、では、
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+” ——『中華』『正一郎』『正一郎』
+i.l.
+事。高売高売『in line”『in line”
+事物・『記事の『記事の『記事の『記事の『記事の『記事の『記事の『記事の
+キー・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・
+n 情報 l a l ml ml ml ml ml m
+事事。『事事』『事事』『事事』
+・・・・・・・・・・・・・・・・・・・
+『記『記『記『記『記『記『記『ににににに
+- Pape a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a Tine a T
+事。『正十二年『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』
+a∏r. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir. 18 mir.
+· The source of the source of the source of the source of the source of the source of the source of the source of the source of the source of the source of the source of the source of the source of the source of the sourc
+n n n n n n n n n n n n n n n n n n n
+- The a The Raine a The Raine a The Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Rain
+事。事。事。事。事。事。事。事。事。事。事。事。事。事
+”『Pi
+· 『中国· 『中国· 『中国· 『中国· 『中国· 『中国· 『中国· 『中国
+事事。『上事事』『上事事』『上事事』
+事事。『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、『正皇帝では、
+『・『上『上『上『上『上『上『上『上『上
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+第一章『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+” ————————————————————————————————————
+” 『『 · · · · · · · · · · · · · · · · · ·
+。『中で記載 である。『中で記載 である。『中で記載 である。
+1. Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The Parin Earling The P
+事事 la la la la la la la la la la la la la
+胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・胃・
+- 『聖神·皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 - 『皇帝 -
+。ドーマール『上ー』『上ー』『上ー』『上ー』『上ー』『上ー』『上ー』『上ー』
+事事。『上事事』『上事事』『上事事』
+男。『上で記録 The The The The The The The The The The
+第一年『一年『中で記録の記録の記録の記録の記録の記録の記録の記録の記録の記録の記録の記録の記録の記
+事。『『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』に記事のにのにのにのにのにのに
+・・・・・・・・・・・・・・・・・・・
+事事。『事事』『事事』『事事』『事事』『事事』
+電子 The The The The The The The The The The
+a ""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+· 『上帝中語『上帝中語『中語
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+in Tubelling.
+· Ballen all na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na l
+。『正皇帝』『正皇帝』『正皇帝』『正皇帝』
+一下
+- The arm in line and in line and in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in line arm in
+- The arm and a line and a line and a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+. Parket arm. I arm. The arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I
+事事。『記事事』『記事事』『記事事』
+事事。『事事』『記書記述記述記述記述記述記述記述記述記述記述記述記述記述記述記述記述記述記述記
+電子 a ii li li li li li li li li li li li li
+司下。司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·[Fin] 司·
+系列 - The All Park Park Park Park Park Park Park Park
+音楽である。『上で記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記
+事事。『上事事』『中では「上事事』
+言い。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『事事
+司、
+コト
+コー
+コー
+コー
+ニー
+コー
+ニー
+ニー
+ニー
+ニー
+ニー
+ニー
+ニー
+ニー
+ニー
+ニ
+号 - 間上 電子 - 電子 - 電子 - 電子 - 電子 - 電子 - 電子 - 電子
+那里·斯里·斯里·斯里·斯里·斯里·斯里·斯里·斯里·斯里·斯里·斯里·斯里·斯里
+" " " " " " " " " " " " " " " " " " "
+『中では、では、では、では、では、では、では、では、では、では、
+事事。『正事』『正事』『正事』『正事』
+，『『『『『『『『『『『『『『『『『『『
+羽車・・・・・・・・・・・・・・・・・・・
+第一条
+表現『記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+電子 The The The The The The The The The The
+ille 17be
+· "Ea-quille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pille" a "Pill
+i⊸ina −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −irena −iren
+事事。 「事事」 「事事」 「事事」 「事事」 「事事」 「事事」 「事事」 「
+· The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same of it. I a. The same
+三番 The The The The The The The The The The
+預，音···················
+" " " " " " " " " " " " " " " " " " "
+事業の主張を持ちます。「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。」「事業の主張を持ちます。
+事業1111111111111111111
+”——R—Pi—Pi—Pi—Pi—Pi—Pi—Pi—Pi—Pi—Pi—Pi—Pi—Pi—
+事事では『上電子 The The The The The The The The The The
+· Pa n li - R- Pi - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R n li - R
+”Figura 1.
+『『記『上『上『上『上『上『上『上『上『
+a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.P
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『単電子『上間『上間『上間にににににににににににににににににに
+音楽 - Tabe PaPa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Tabe Pa - Ta
+”上零台上。“in”上零台上。
+in li n
+.P. "E" " " " " " " " " " " " " " " " " "
+aがle aがle aがle aがle aがle aがle aがle a le a
+電子である。「上ででは、では、では、では、では、では、では、では、では、では、
+in The The The The The The The The The The
+n. " " " " " " " " " " " " " " " " " " "
+、『・『上間・『上間・ににににににににににににににににににに
+青春: - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 -
+第一条 The The The The The The The The The The
+në.
+第二条 では、1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できまった」1. 「上できま
+” “Page” a”用。“I” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page” “Page”
+標・です。です。です。です。です。です。です。です。です。です。
+a∏e 17º a∏e a∏e a∏e a∏e an an an an an an an an an an an an an
+表 n in line a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a Th
+事事。『ina la la la la la la la la la la la la la
+a." "
+事事。有限。『上記記』『上記記』『上記記』『上記記』
+- The Tarin la The Tarin la The Tarin la The Tarin la The Tarin la The Tarin la The Tarin la The Tarin la The The Tarin la The Tarin la The The Tarin la The The The Tarin la The The The The The The The The The The
+a The arm.
+事。『正記』『正記』『正記』『正記』『正記』『正記』『正記』『正記』
+用 着手事事。用上下，那样看到了。用一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+電車電車『in Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Bapin la Tin Ba
+事事。『上事事』『上事事』『上事事』『上事事』
+事。『中国·上帝句子』『中国·上帝句子』
+音響・電子 a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Ti
+事事。『中華記録 a Thia Para Para Para Para Para Para Para Pa
+音いで、『記記記録 a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The
+『『『上『上『上『上『上『上『上『上『上
+第一条第一条第一条第一条第一条第一条第一条第一条第一条第一条
+事事。『上歌句』『上歌句』『上歌句』『上歌句』
+では、では、では、では、では、では、では、では、では、では、
+事事。『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者『事事の記述者
+ahiena.『inalesa. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena. ahiena
+”『inea ninea”『inea ninea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『inea”『ine
+e-ï---l'--------------------------------
+-ï" -
+- Tain a Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bair la Pin Bai
+· Pa The Pin Pin Pin Pin Pin Pin Pin Pin Pin Pin
+- """ " " " " " " " " " " " " " " " " "
+· III。1. The nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a line nur a lin
+· "E" a"/-"E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E" a"/- "E"
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+事で記載を開始。『旧事で記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記
+- "" - "" - "" - "" - "" - "" - "" - "
+" " a Thi
+a.Pin Pin Pin Pin Pin Pin Pin Pin Pin Pin
+ã−å−å−å−å−å−å−å−å−å−å−å−å−å−å−å−å−å−å−å
+nënënënënënënënënënënënënënënënënënënë

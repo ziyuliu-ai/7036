@@ -1,397 +1,533 @@
-市场价格（ 人民币）：1024 元
-目标价格（ 人民币）：1263 元
-已上市流通A 股(亿股)
-年内股价最高最低(元)
-雅砻江中游开启水电新周期，火电低谷已过
-公司基本情况(人民币)
-归母净利润(百万元)
-ROE(归属母公司)(摊薄)
-拥核心资产，雅砻江中游开启十年水电装机增长：公司作为国投公司电力业
-务唯一资本运作平台，拥有雅砻江水电、国投大朝山等核心资产。随着两河
-口、杨房沟电站陆续投产，营收端可抵减今年来水偏枯的影响，预计2021-
-2023 年水电营收分别达1968 亿元、2219 亿元和2322 亿元，增速分别为
-126%、1275%、465%。中游新投产电站水电消纳：已投产的两河口水电
-全部留四川消纳、杨房沟水电全部外输至江西消纳、我们认为未投产的水电
-消纳以外送江西为主，测算上网电价0338 元Kwh。上网电价：今年上半
-年，公司水电上网电价同比增长1164%，我们认为近期水电上网电价会保
-持相对稳定，中长期来看，大水电的稀缺性将进一步凸显，随着电力市场化
-进程加速，我们预计十四五后半段，公司平均水电上网电价有望提升。
-火电业绩短期受煤价影响，效率提升趋势不改：受高煤价影响，公司火电板
-块业绩短期承压。前三季度公司归母净利润下降3358%，毛利率较2020 年
-底下降8pct。我们认为火电板块低谷已过，测算全年煤炭入炉成本增长小于
-40%，原因1）火电装机规模陆续减少，机组呈大型化优质化，效率提升会
-部分对冲煤价上涨的成本压力；2）公司毛利的70%来自水电，火电成本的
-波动对整体影响仍呈持续下降趋势；3）四季度电煤价格有所回落，煤电上
-网电价上浮范围扩大的政策落地、中长协重签在即，火电业绩将边际改善。
-高质量发展战略持续推进，风光仍是增量主力：转型升级，高质量发
-展是十四五期间的重要发展战略，2019 年后，风电、光伏合计贡献
-90%以上的新增装机容量。我们预计至2025 年，公司风电、光伏累计装机
-将达4300 万KW，新能源装机占比将达213%；2030 年占比将达396%。
-雅砻江水电、风电、光伏新增装机将带来确定性业绩增量，预计21-23 年归
-母净利润分别为447664707 亿元，对应EPS 为064095102 元，相对
-估值法，给予公司2022 年18 倍PB 估值，目标价1295 元；绝对估值法
-下，目标价1230 元；目标价取均值1263 元。给予公司买入评级。
-来水持续偏枯、新水电站建设成本超预期、电煤价格持续高位，回落程度不
-及预期、上网电价上涨不及预期。
-国投电力 (600886SH)   买入（首次评级）
-一、优势显著，装机结构逐渐优化 4
-11 国投公司唯一电力平台，握优质核心资产 4
-12 水火主导，风光高增 5
-13 业绩短期承压、长期价值属性增强 9
-二、水电开启新投产，新能源装机持续高增 12
-21 两杨投产，雅砻江水电开启新周期增长 12
-22 升级转型战略推进，新能源装机将持续高增 14
-盈利预测与投资建议 15
-盈利预测 15
-投资建议及估值18
-风险提示 19
-图表1：近十年公司装机容量及结构变化 4
-图表2：公司控股装机规模及新能源装机占比预测（万KW，%） 5
-图表3：公司控股水电站详情5
-图表4：公司水电控股装机规模（万KW） 6
-图表5：2020 年公司控股装机结构 6
-图表6：水电营收规模及雅砻江营收占比（亿元、%） 6
-图表7：公司水电营收及毛利占比6
-图表8：公司在运行火电机组情况7
-图表9：公司火电机组转让情况 7
-图表10： 火电控股装机规模（万KW） 7
-图表11：火电上网电量及增速（亿Kwh、%） 7
-图表12： 火电机组利用小时数（小时）8
-图表13：火电营收及毛利率（亿元、%） 8
-图表14：公司风电光伏装机容量及增速8
-图表15：公司风电光伏装机容量占比 8
-图表16：公司风电营收及毛利率（亿元、%） 9
-图表17：公司光伏营收及毛利率（亿元、%） 9
-图表18：公司营收及增速（亿元、%） 9
-图表19：公司归母净利润及增速（亿元、%） 9
-图表20：近十年公司毛利率、净利率 10
-图表21：公司收现比变化10
-图表22：经营活动现金净流量与净利润比 10
-图表23：公司及全国平均机组利用小时数（小时）  11
-图表24：公司各机组利用小时数（小时）  11
-图表25：公司度电耗标煤量（gkwh）  11
-图表26：雅砻江水电开发进程及规划 12
-图表27：两河口水电站 12
-图表28：杨房沟水电站 12
-图表29：雅砻江水电装机容量及占水电装机份额（万KW，%） 13
-图表30：雅砻江水电上网电价（元kwh） 13
-图表31：跨省高压直流输电参数 14
-图表32：风电、光伏的新增装机容量贡献率14
-图表33：水电装机规模预测（万KW） 15
-图表34：公司水电营收预测（亿元） 16
-图表35：公司火电机组装机容量预测（万KW） 16
-图表36：公司火电机组上网电价预测（元Kwh） 17
-图表37：公司火电营收预测（亿元） 17
-图表38：公司新能源营收预测（亿元）17
-图表39：可比公司估值比较（市净率法） 18
-图表40：绝对估值法核心假设18
-图表41：DCF 估值结果 19
-一、优势显著，装机结构逐渐优化
-11 国投公司唯一电力平台，握优质核心资产
- 资产优质的综合电力公司：发电业务为公司的核心业务，占公司营业总收
-入 95%以上，公司作为国投公司电力业务唯一资本运作平台，持续快速发
-展。通过资产注入，公司取得了雅砻江水电、国投大朝山等核心资产。公
-司电力板块呈现水电为主、火电为辅、风光快速增长的局面。
- 控股装机规模持续提升，结构持续优化。十年来，公司控股装机规模由
-2011 年的1276 万KW 增至2020 年的3183 万KW，复合增速达1069%。
-公司控股装机结构持续优化，增量沿着水电-火电-风光的顺序，我们将
-2011 年至今公司控股装机容量增长分为三阶段。第一阶段：水电主导
-（2012 年至2015 年）：核心资产逐步并入，包括官地、锦屏、桐子林。
-水电控股装机规模由2012 年的1625 万KW 增长至2015 年的2707 万
-KW，贡献了主要控股装机增量。第二阶段：火电补增（2015 年至2018
-年），安徽宣城、广西钦州、福建湄洲湾二期及天津北疆电站并入，火电控
-股装机规模由2014 年的910 万KW 增长至2018 年的1576 万KW，火电
-装机容量达到峰值。第三阶段：火电剥离，风光主导（2018 年后），新疆
-哈密风电、德昌风电、青海风电、广西风电陆续投产，至2020 年末，公
-司风电装机容量214 万KW，较2018 年增长943%；浙江湖州、陕西定
-边、江苏响水等多地光伏项目并入，至2020 年末，公司光伏控股装机103
-万KW，较2018 年增长1159%。2020 年，公司剥离部分火电机组，火电
-装机容量较2019 年下降216%，已无30 万KW 以下的机组，火电装机结
-未来水电、风光将带来主要新增装机容量。预计21 年至23 年，水电装机
-容量占比将达556%、560%、544%；风光装机占比将达1099%、
-图表1：近十年公司装机容量及结构变化
-图表2：公司控股装机规模及新能源装机占比预测（万KW，%）
-12 水火主导，风光高增
- 水电：高毛利贡献，业绩主要来自雅砻江下游电站。水电板块，公司控股
-核心资产雅砻江水电、大朝山、小三峡等电站，且雅砻江水电是雅砻江流
-域水电开发的唯一主体，公司优势明显。至2021 年10 月底，公司控股水
-电装机规模197745 万KW，占总装机的556%，装机规模位于国内第三。
-公司历年水电营收占比50%左右，贡献70%以上毛利，盈利能力和稳定性
-优于其他电源，雅砻江下游电站历年营收占比超过水电整体的85%。
-新增装机计划清晰，聚集雅砻江中游。2021 年，公司两河口水电站（5、
-6、4）机组、杨房沟机组（1、2）陆续投产，合计新增装机容量300
-万KW。在建水电站包括两河口水电站（1—3）、卡拉水电站、孟底沟水
-电站。经历了五年的水电新装机停滞，公司未来十年水电新增装机计划清
-图表3：公司控股水电站详情
-雅砻江下游（52%）
-雅砻江中游（52%）
-两河口水电站（5、6、4）
-两河口水电站（1-3）
-甘肃小三峡（60%）
-云南大朝山（50%）
-图表4：公司水电控股装机规模（万KW）
-图表5：2020 年公司控股装机结构
-图表6：水电营收规模及雅砻江营收占比（亿元、%）
-图表7：公司水电营收及毛利占比
- 火电：结构持续优化，剥离小功率机组。2015 年至今，公司火电机组经历
-了先投产后剥离的过程，结构持续优化，目前公司控股火电无 30 万KW
-以下机组，百万千瓦级机组占控股火电装机容量的 6753%，机组分布于
-天津、福建、广西、贵州等省区。公司不断提高火电机组的节能环保水平，
-脱硫、脱硝、除尘装置配备率均达
-配备率均达 100%，2020 年末，公司具备超低排放
-能力的机组装机占比接近 95%。
-增产阶段：2015 年 7 月，国投宣城二期 166 万KW 机组于投产； 2016
-年 7 月、9 月，国投钦州二期 2100 万KW 机组相继投产；2017 年 7 月、
-9 月，湄洲湾二期 2100 万KW 机组相继投产；2018 年 6 月，水电联产
-循环经济模式的国投北疆二期 2100 万KW 超临界装机全部投产。2018
-年末，公司已投产控股火电装机累计 157560 万KW，达到峰值。剥离阶
-段：2019 年11 月，公司转让国投北部湾电站64 万KW；2020 年1 月，
-国投伊犁、靖远二期、国投宣城、淮北国安和甘肃张掖一齐转让，2019 年
-及2020 年公司累计转让火电机组3914 万KW。
-2020 年，公司火电营收1669 亿元，同比下降216%，主要受机组剥离，
-总装机容量下降影响。2016 年至2020 年，随着火电机组结构持续优化，
-火电利用小时数触底反弹，火电毛利率走势与利用小时变动趋同。
-图表8：公司在运行火电机组情况
-运营状态 装机容量（万千瓦）
-2018 年全部投产完毕
-2017 年全部投产完毕
-2014 年一、二期投产完毕
-2006 年全部投产完毕
-2014 年全部投产完毕
-图表9：公司火电机组转让情况
-图表10： 火电控股装机规模（万KW）
-图表11：火电上网电量及增速（亿Kwh、%）
-图表12： 火电机组利用小时数（小时）
-图表13：火电营收及毛利率（亿元、%）
- 风光：新投产持续增加，装机快速增长。2015 年，公司控股风电、光伏装
-机分别为6045 万KW、128 万KW；2020 年，风电、光伏控股装机分别
-为21395 万KW、1032 万KW，五年复合装机增速分别为2876%和
-5705%。2015 年末，风光装机占比为263%；至2021 年上半年，公司风
-光装机达32695 万KW，装机占比达1024%，2018 年后，风电和光伏贡
-2020 年，公司风电新增装机7095 万KW，包括宁夏中宁风电（5 万KW）、
-四川德昌风电（4095 万KW）、广西浦北风电二期（10 万KW）、新疆哈
-密风电（10 万KW）、青海共和风电（5 万KW）；2020 年，公司通过并购
-新增光伏装机314 万KW，包括江苏光伏（12 万KW）、陕西定边光伏
-（15 万KW）、张家口晶科新能源（44 万KW）。
-风电光伏营收持续高增。2020 年，公司风电营收1474 亿元，同比增长
-2696%，五年复合增速为3370%；光伏营收1006 亿元，同比增长
-4580%，五年复合增速为450%。2020 年，公司风电及光伏的毛利率分
-别为5550%、5626%，较2019 年相对持平，稳定在高位，预计随着未
-来风光装机的高增，运营效率提升会进一步拉动新能源板块毛利率。
-图表14：公司风电光伏装机容量及增速
-图表15：公司风电光伏装机容量占比
-图表16：公司风电营收及毛利率（亿元、%）
-图表17：公司光伏营收及毛利率（亿元、%）
-13 业绩短期承压、长期价值属性增强
- 来水偏枯，煤价高企，业绩短期承压：2020 年，公司营收3932 亿元，同
-比减少73%，主要系部分火电机组剥离，装机容量减少所致。2021 年前
-三季度，营收32310 亿元，同比增长888%，扣非归母净利润3233 亿元，
-同比下降2938%。今年公司利润同比下降的主要原因：用电需求高景气，
-但上半年来水偏枯，上半年火电上网电量26379 亿Kwh，同比增长
-1386%，但动力煤价格高企，火电子公司成本增加，普遍出现亏损，其中
-云顶湄洲湾、国投津能、国投钦州净利润分别同比下降7354%、9812%、
-4887%。我们预计2021 年全年煤炭成本上涨幅度小于40%，明年火电毛
-利率将恢复至10%左右。
- 长期业绩波动减小，现金流优秀，价值属性增强：随着火电机组结构优化，
-装机容量占比下降，公司近年归母净利润增速企稳，且毛利率、净利率稳
-定在40%、20%左右，波动呈收敛趋势。随着火电装机占比进一步下降，
-火电业绩的不确定性影响正在降低，公司高分红价值属性进一步凸显。
-2015-2020 年，公司的销售商品提供劳务收到的现金与营业收入之比在
-1094%-1166%之间，经营活动现金净流量与净利润比例在 2042%-
-2891%之间。截至2021 年Q3，国投电力销售商品提供劳务收到的现金
-占营收之比为 9914%，2004 年后首次低于100%；经营活动现金净流量
-占净利润比例为 20076%，较2020 年底有所下降，系电煤成本大幅上涨
-所致。截至2021 年Q3，公司经营性现金净流量12188 亿元，仍较为充
-沛，为后续工程建设提供资金保障，亦为稳定的股利分配政策提供支撑。
-图表18：公司营收及增速（亿元、%）
-图表19：公司归母净利润及增速（亿元、%）
-CAGR：450%
-CAGR：3370%
-图表20：近十年公司毛利率、净利率
-图表21：公司收现比变化
-图表22：经营活动现金净流量与净利润比
- 机组结构优化，整体利用小时数触底反弹：2015 年至2020 年，受火电机
-组装机容量增加影响，公司发电设备利用小时数呈现触底反弹的情况。
-2018 年后，火电机组结构持续优化，公司机组利用小时数稳定在4600 小
-时以上，进一步拉大较全国均值的优势。
-未来水电、风光装机陆续增加，火电机组结构稳定，预计整体利用小时数
-稳中有进。1）水电、风电：水电和风电作为清洁能源，具有优先上网优势，
-近年利用小时持续增加，2020 年水电、风电利用小时数分别较2015 年增
-加686 小时、933 小时。2020 年公司水电利用小时数为5278 小时，远高
-于全国均值（3827 小时）；风电利用小时数2239 小时，高于全国均值
-（2073 小时）。判断未来水电及光伏利用小时数将保持稳中有进的趋势。2）
-火电：机组结构优化后，火电利用小时数触底反弹。2020 年，公司火电机
-组利用小时数为4645 小时，高于全国均值（4216 小时）。预计十四五
-期间，现存火电机组运行将保持相对稳定，利用小时数将保持稳定；十四
-五后，随着风光装机比例进一步提升，火电利用小时数将逐渐下行。3）
-光伏：2015 年至今，公司光伏利用小时数微降。2020 年，公司光伏利用
-小时数为1434 小时，高于全国均值（1281 小时）。预计在光伏装机高增的
-过程中，光伏利用小时会保持相对稳定。
-图表23：公司及全国平均机组利用小时数（小时）
-图表24：公司各机组利用小时数（小时）
- 火电机组单位耗煤逐渐下降：2015 年至2020 年，公司度电标煤耗量由
-31328gkwh 逐步下降至29823gkwh，呈逐渐下降趋势，发电效率逐渐
-提高，领先行业水平。
-图表25：公司度电耗标煤量（gkwh）
-合计利用小时数（小时）
-二、水电开启新投产，新能源装机持续高增
-21 两杨投产，雅砻江水电开启新周期增长
- 雅砻江中游拉动未来水电装机增长。雅砻江是中国水能资源最富集的河流
-之一，在全国规划的十三大水电基地中排名第三，雅砻江流域水能蕴藏巨
-大，且阶梯补偿效应显著。截至2021 年10 月末，雅砻江电站装机容量达
-1770 万KW，占公司控股水电装机容量的8951%。
-公司按照先易后难的顺序，从下游至中游至上游逐渐开发，规划建设 22
-座水电站，总装机规模 3000 万KW。2016 年，随着桐子林水电站投产，
-下游水电站建设完毕；2021 年，随着杨房沟水电站275 万KW 机组、两
-河口水电站（5、6、4）350 万KW 机组投产，雅砻江中游开启新投
-产周期。根据规划，2021 年至2032 年，中游电站开发完毕后，雅砻江水
-电装机容量将达26565 万KW，较2020 年末增长8071%。
-图表26：雅砻江水电开发进程及规划
-累计装机规模（万千瓦）
-锦屏一级、锦屏二级、官地、桐子林
-两河口、杨房沟、卡拉、孟底沟、牙根一级、
-温波、木能达、格尼、木罗等10 座电站
-图表27：两河口水电站
-图表28：杨房沟水电站
-装机：未来绝大部分增量均来自雅砻江。两杨投产，2021 年雅砻江中游新
-增300 万KW 装机容量，预计2022 年两河口剩余水电站（1—3）全部
-投产完毕；2025 年卡拉水电站、牙根一级水电站投产；2027 年牙根二级
-水电站、楞古水电站投产；2032 年孟底沟水电站投产。未来十年，绝大部
-分水电新增装机均来自雅砻江中游，预计至2032 年，雅砻江水电装机容
-量占比将达水电的9681%。
-图表29：雅砻江水电装机容量及占水电装机份额（万KW，%）
- 雅砻江水电消纳：1）下游 ：二滩和桐子林水电站总装机390 万KW，未
-配特高压，全部留川消纳；锦屏一级、锦屏二级、官地水电站，总装机
-1080 万KW，其中640 万KW 通过锦苏直流800KV 特高压直送江苏、
-200 万KW 送重庆、240 万KW 留川消纳。2）中游：根据规划，已投产的
-两河口水电全部留川消纳；杨房沟水电全部外输至江西消纳；假设未投产
-的中游电站电量均外输至江西。
- 上网电量：两杨投产带来约160 万千瓦时增量。按照雅砻江中游电站投产
-计划，假定1）新投产机组自投产开始两年投产完毕，每年年中投产一半
-的目标容量；2）已建成电站的厂用电率与2020 年保持一致，雅砻江中游
-电站厂用电率为05%。按各机组的发电量测算，2021 年至2023 年，雅
-砻江水电上网电量分别为760 万Kwh、913 万Kwh、924 万Kwh。2023
-年发电量较2020 年增长约160 万Kwh。
- 上网电价：短期企稳，长期向上。受政策让利及市场化交易等因素影响，
-雅砻江水电上网电价近年来有所下降，水电整体上网电价也由2015 年的
-0276 元kwh 降至2019 年的0244 元kwh，2019 年后开始企稳回升；
-2021 年上半年，水电上网电价为0276 元kwh，同比增长1164%。随着
-2021 年两河口水电站、杨房沟水电站投产运行，梯级补偿效益进一步提升，
-预期短期水电上网电价将企稳。中长期来看，大水电的稀缺性未来进一步
-凸显，雅砻江水电优质的调节能力、煤电价锚点上浮的拉动效应，都会使
-水电上网价格长期稳中向上，水电盈利能力将增强。
-图表30：雅砻江水电上网电价（元kwh）
-雅砻江装机容量（万千瓦）
-雅砻江中游水电上网电价：1）两河口：因两河口全部留川消纳，上网电价
-参考同在四川消纳的二滩、桐子林电站，取024 元Kwh。2）其余电站：
-雅砻江中游水电站，除两河口外大部分外送江西消纳。取上网电价（基准
-电价-输配电价）（1-线损率），江西基准上网电价为04143 元Kwh，参
-考跨省线路的输配电价格及线损率，参考现有的几条跨省高压输电的价格
-和线损率均值，取雅中其余电站输配电价526 分Kwh，线损率为667%，
-上网电价为0338 元Kwh。
-图表31：跨省高压直流输电参数
-输配电价格（分Kwh）
-锦屏、官地机组输配至江苏
-22 升级转型战略推进，新能源装机将持续高增
- 加速整合，新能源贡献主要装机增量：转型升级，高质量发展是公司
-十四五期间的发展战略，装机增量也沿着水—火—新能源进行发
-展。公司通过资本运作，陆续并购风电、光伏企业，2019 年、2020 年、
-2021 年H1，分别收购新能源企业2 家、8 家、5 家。2019 年后，风电、
-光伏合计贡献90%以上的新增装机容量。
- 十四五末，新能源装机占比将超20%：在雅砻江中游按进度开发投产，
-火电机组在十四五期间维持稳定背景下，预计十四五、十五五
-期间，风电、光伏装机复合增速仍将保持20%以上。预计至2025 年，公
-司累计装机将达4300 万KW，新能源装机占比将达213%；至2030 年，
-公司累计装机容量将达6300 万KW，新能源装机占比将达396%。
-图表32：风电、光伏的新增装机容量贡献率
-水电：持续受益于装机容量增长，上网电价稳中有进
- 装机容量：2021 年Q3-Q4，两河口，杨房沟机组投产，全年装机容量将
-提升300 万KW，达1977 万KW。假定未来十年水电装机增量均来自雅砻
-江中游，水电装机容量将按照雅砻江中游投产进度有序增长。
- 上网电量：上网电量装机容量利用小时数（1-厂用电率）。今年整体来
-水偏枯，预计二滩、桐子林、官地、锦屏一期、锦屏二期电站全年利用小
-时数分别下降315%、295%、558%、650%、645%。新机组利用小时
-数按照发电量及装机容量倒推计算、随着新机组陆续投产，调节能力进一
-步加强，预计存量机组未来水电利用小时将保持相对稳定。水电较为成熟，
-预计厂用电率将保持稳定。
- 上网电价：截至2021 年Q3，各电站上网电价有所提升，预计2021 全年
-让利情况会下降，整体上网电价有所升高，预计十四五期间水电上网
-电价稳中有进。我们认为长期水电上网电价中枢提升的逻辑：1）未来优质
-水电稀缺性将进一步显现，电力现货市场参与度提升，具有调节能力的优
-质水电上网电价中枢会有所提升； 2）政策陆续出台，火电上网电价浮动
-比例提升，会拉动价格低位的水电上网电价向上。
-图表33：水电装机规模预测（万KW）
-图表34：公司水电营收预测（亿元）
-火电：装机相对稳定，上网电价中枢上移
- 装机容量：随着近年装机结构的优化，公司火电机组短期装机容量保持平
-稳，在建工程火电项目包括钦州三期机组166 万KW，预计2024 年投产。
-假设除钦州三期机组外，无其他新增火电机组。
- 上网电量： 2021 年，水电整体偏枯，各机组火电利用小时数有所增加。
-假设：1）近年用电需求仍将保持相对稳健增长，十四五期间火电机组
-利用小时数相对稳定；2）十四五后随着新能源及水电机组陆续投产，
-火电机组利用小时数将稳中有降；3）厂用电量保持稳定。
- 上网电价：10 月12 日，发改委发布关于进一步深化燃煤发电上网电价
-市场化改革的通知，将燃煤发电市场交易价格浮动范围扩大为上下浮动原
-则上均不超过20%。假设十四五期间，公司火电年度上网电价均值提
-高2%，十四五后火电上网电价保持相对稳定。
-图表35：公司火电机组装机容量预测（万KW）
-图表36：公司火电机组上网电价预测（元Kwh）
-图表37：公司火电营收预测（亿元）
-新能源：风光装机保持高增速，上网电价相对稳定
- 装机容量：预计公司风电、光伏装机容量仍将保持高增速。假设条件：在
-十四五期间，2021 年风电装机容量增速50%、2021 年后风电装机容
-量增速保持在20%以上；光伏装机增速保持在30%。
- 上网电量：假定风电、光伏利用小时数、厂用电量均保持相对稳定，上网
-电量将主要受益于装机容量的增长。
- 上网电价：假设风光上网电价保持稳定。
-图表38：公司新能源营收预测（亿元）
- 我们分别采用相对估值法、绝对估值法对公司进行估值。结合两种估值结
-果，分别得到每股价值1295 元、1230 元，取均值得2022 年目标价
-1263 元，给予公司买入评级。
-水电业务为公司带来主要利润，相对估值法采用PB 估值。预计公司2021-
-2023 年BPS 为719、775、836，对应PB 为142、132、122。
-我们选取5 家可比公司对国投电力进行估值，包括华能水电、长江电力、川
-投能源、桂冠电力、三峡能源。可比公司与国投电力业务相近。预计可比公
-司2021 年PB 均值为245。给予公司2022 年18 倍PB，目标价1295 元。
-图表39：可比公司估值比较（市净率法）
- 核心假设：考虑公司的营收结构，火电机组成本（燃料、折旧、人工等），
-水电机组成本（折旧、人工等），风电光伏成本。参数假设：税率取15%、
-权益资本占比30%、风险系数取075、无风险溢价取3%（十年期国债收
-益率）、风险溢价7%、债务成本4%，计算得到加权资产成本（WACC）
-为492%。DCF 估值得到公司每股价值1230 元。
-图表40：绝对估值法核心假设
-图表41：DCF 估值结果
-EBIT(1-所得税率)
- 来水偏枯的风险。今年整体来水偏枯，若来水情况恢复不及时，可能影响
-公司水电业务营收及净利润。
- 新水电站建设成本超预期风险。水电开发由易至难，若新建电站成本超预
-期，可能影响公司盈利能力。
- 电煤价格持续高位风险。今年动力煤价格高企，公司利润波动主要来自火
-电业务成本大幅提升，若未来动力煤价格回落不及预期，可能影响公司火
- 上网电价上涨不及预期风险。若未来公司上网电价上涨不及预期，在中高
-煤价下，可能导致整体盈利能力不及预期。
-附录：三张报表预测摘要
-损益表（人民币百万元）
-资产负债表（人民币百万元）
-息税前利润（EBIT）
-现金流量表（人民币百万元）
-市场中相关报告评级比率分析说明：
-市场中相关报告投资建议为买入得1 分，为
-增持得2 分，为中性得3 分，为减持得4
-分，之后平均计算得出最终评分，作为市场平均投资建
-最终评分与平均投资建议对照：
-100  买入； 10120增持 ； 20130中性
-30140减持
-历史推荐和目标定价(人民币)
-买入：预期未来612 个月内上涨幅度在15%以上；
-增持：预期未来612 个月内上涨幅度在5%15%；
-中性：预期未来612 个月内变动幅度在 -5%5%；
-减持：预期未来612 个月内下跌幅度在5%以上。
-均不得以任何方式对本报告的任何部分制作任何形式的复制、转发、转载、引用、修改、仿制、刊发，或以任何侵
-报告进行任何有悖原意的删节和修改。
-的资料、意见、预测均反映报告初次公开发布时的判断，在不作事先通知的情况下，可能会随时调整。
-操作建议做出任何担保，在任何时候均不构成对任何人的个人推荐。
-这些公司正在提供或争取提供多种金融服务。
-本报告反映编写分析员的不同设想、见解及分析方法，故本报告所载观点可能与其他类似研究报告的观点及市
-此报告仅限于中国大陆使用。
-嘉里建设广场T3-2402
+章 · Pa · Pa · Pa · Pa · Pa · Pa · Pa · P
+事事。『in Pape line』『in Pape line』
+· Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Rapa - Ra
+- "I" - "E" - "" - "" - "" - "" - "" - "
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+- 『he li-li-li-li-li-li-li-li-li-li-li-li-li-l
+ille 3.
+ē."
+· Ris a Ris Ris Ris Ris Ris Ris Ris Ris Ris Ris
+· in a li a li a li a li a li a li a li a
+· "E"
+”事等。“in affie”。
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+事事 la la la la la la la la la la la la la
+” ——”『ine” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in” n”in”
+『『『『『『『『『『『『『『『『『『『
+，1. nair1. nair1. nair
+等等。···································
+『上電子』『正で記録でする。『正で記録でする。「正で記録でする。」「記録である。「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録である。」「記録で
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+a.""
+三事。『上書の記憶報告記憶報告記憶報告記憶報告記憶報告記憶報告記憶報告記憶報告記憶報告記憶報告
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+në lësië.
+『『『『『『『『『『『『『『『『『『『
+事事。『inea-like『inea-like』
+网·E————————————————————————————————————
+· The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state o
+- 『heipelongia nileaではではではです。「inea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nilea nil
+- 『herinePauline” ールロールで「in line” ールロールールールールールールールールールールールールールールールールールール
+清記記記記に記に記ににににににににににに
+· 『上電子』『上電子』
+■ 推
+電
+車
+車
+に
+で
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『『『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記『記事記『記事記『記事記『記事記のにのにのにのにのにのにのにのにのにの
+第一年1111111111111111111
+në.
+『記載
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+· Pa Pa Pa Pa Pa Pa Pa Pa Pa Pa Pa Pa Pa
+ille
+- The arm and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and
+” ————————————————————————————————————
+”电子电子
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+- Time a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a m
+『・『・『・『・『・『・『・『・『・『・『・『・『・『
+音響・電子 a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Raine a The Rain
+『上電子』『記事で記事で記事であります。『記事で記事であります。『記事で記事であります。
+可上。『inalianalanalanalanalanalanalanalanalana
+『『・『上間『上間『上間『上間『上間『上間『上間
+20 = 1 = 1 = 1 = 1 = 1 = 1 = 1 = 1 = 1 =
+音いません Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time
+· "a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a "li-"a
+『heipela nikePinike『inike
+『上で『上で『上で『上でにににににににににににににににににに
+事事。『上歌句』『上歌句』『上歌句』
+『上で記録の『上で記録を記述と記述と記述を記述と記述と記述と記述と記述と記述と記述と記述と記述と記述と記述と記述と記述と記
+『『『記事でありまります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事で
+表で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+" " " " " " " " " " " " " " " " " " "
+· III。III。III。III。III。III。III。III
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+です。『ine neine”『ine neine”『ine neine”
+着事でを持た。『ine afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afile afi
+- "" a"" e"" e"" e"" e"" e"" e"" e"" e""
+『上電子』『記事では、では、では、では、では、では、では、では、では、では、
+『上電子』『中では、では、では、では、では、では、では、では、では、では、
+”『上電子』『正記』
+në.
+『『『記事で記事で記事で記事である。『記事で記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。
+· Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+事事事事事事事事事事
+-" " " " " " " " " " " " " " " " " " "
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+写一个写一个写一个写一个写一个写一个写一个写一个写一个写一个写一个写一个写一个写
+『中で記録 a line line line line line line line line
+電子である。Pape Tine
+- 『『神聖・『神聖・『神聖・『神聖・『神聖・『神聖・『神聖・『神聖・『神聖・『神聖・
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一
+『上電子』『irela juine”『irela juine”『irela juine”
+「上電力をでするでするでするでするでするでするでするでするでするでする
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+” “『 · · · · · · · · · · · · · · · · · · ·
+nën-lën qër lën e
+”『arika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『irika『i
+” “Rah” “是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事で
+・で記します。Pagin line 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mi
+『『『『『『『『『『『『『『『『『『『
+第一条であった。「in line line line line line line line li
+a.". a"".
+肌 Na The arine në lë në lë lë lë lë lë lë lë lë lë lë lë lë lë
+『『『『上『上『上『上『上『上『上『上『
+第二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十
+『『『『『『『『『『『『『『『『『『『
+a Tie Rafie na li in in in in in in in in in in in in in
+事事。1. a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a zin a z
+音。『記に記に記にににににににににににににに
+”事情。『ina la la la la la la la la la la la la la
+是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+· 『上帝『上帝『中記中記』
+『『『『『『『『『『『『『『『『『『『
+事事。『inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela-inela
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+i.Pa
+” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “P
+ing.ing.
+”『herber”『ine la la la la la la la la la la la la la
+- "R"- "R"- "R"- "R"- "R"- "R"- "R"- "R
+" " a " " " " " " " " " " " " " " " " "
+" "Bagin" a "li" " "Bagin" " " " " " " " " " " " " " " " " " "
+『
+・
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+『記事で記述ではではではで記述で記述で記述で記述に記述に記述に記述に記述
+『『記事で記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『
+『記事で記述『inal nuinel” によって。『inal nuinel” によって。『inal nuinel” によって。『inal nuinel” によって、これでは、これでは、これでは、これでは、これでは、これでは、これでは、これでは
+· "E "E "E "E "E "E "E "E "E "E "E "E "E
+a∏e 17 − 18 − 18 − 18 − 18 − 18 − 18 − 18 −
+四点，四点，一点，一点，一点，一点，一点，一点，一点，一点，一点，一
+『上電子』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『inela juine』『ine
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+å.Pärlina jürlä
+『『『『『『『『『『『『『『『『『『『
+· Il-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-ng-li-
+” “In a li " " " " " " " " " " " " " " " " " "
+- The aire- aire- aire
+事事。『inelana narie』『inelana narie』
+”『a”『a”『a”『a”『a”『a”『a”『a”『a”『a
+” “『『ina nu” “
+e "le" = "" e "" e "" e "" e "" e "" e "
+” “Rah” “是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+言い。『中語・『中語・『中語・『中語・『中語・『中語・『中語・『中語・『中語・『中語・
+”上零台上。Pin in line
+= ample and in a special special special special special special special special special special special special special special special special special special special special special special special special special spec
+『『『記事で記事で記事で記事である『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事
+電車で表現。Pina line afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine
+『『『『『『『『『『『『『『『『『『『
+事情。『上記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+第一年間・『中国・『中国・『中国・『中国・『中国・『中国・『中国・『中国・『中国・『中国
+”——Rapin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Palin Pa
+事事。『上記』『上記』『上記』『上記』『上記』『上記』『上記』『上記』
+第一次 a/ir a/line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir line a/ir
+『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是『i—learine”是
+2世『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+2. The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state
+|| これでは、| Time line | Pin line line line line line line line li
+- 『he arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arik
+『上で記録を持たいます。『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、『ルマラーでは、
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+事事。『上で記録のでは。「上で記載を記述である。「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」「上で記載を記述である。」
+· II-li · · · · · · · · · · · · · · · · · · ·
+『・『・『上『上『上『上『上『上『上『上
+· 『上帝『市場· · · · · · · · · · · · · · · · · · ·
+”——8.Pin————————————————————————————————————
+në.Perënë në në përënë në në përënë në në në në në në në në në në në në
+- 『『・『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『とにににににににににににににににににに
+『『記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。
+- The Time Time Time Time Time Time Time Tim
+a.l." = "E" in "l" = "" = "" = "" = "" = "" = "" = ""
+表現。1. Ray a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim a Thim
+看いた。
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+音います。『中では『中では『中では『中では『中では『中では『中では『中では
+| 言い| The line | Ariberta | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris | Paris |
+第一次で記に記に記に記にたにたにたにたにたにたたたうたうたうた
+署・1111111111111111111
+表現表現記記記記記記に記ににににににににににに
+『上電子『iwed-aire』『iwed-aire』
+『『『『『『『『『『『『『『『『『『『
+- 『『中で、『中で、『中で、『中で、『中で、『中で、『中で、『中で
+『・『・『上間にルコにルコにルコにルコにルコにルコにルコにル
+事事。『上電子 The The The The The The The The The The
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+.Pape numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numapen numape
+· 『『 · · · · · · · · · · · · · · · · ·
+Tie Tie Tie Tie Tie Tie Tie Tie Tie Tie
+a.""
+” learine1. in a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+- "II" aPin ju një
+『上電子『上電子『上電子
+『上電子』『正電子』『正電子』
+· 『中国本語中語· 宣布· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語· 『中国本語》
+- 『『記事・『中では『中では『中では『中では『中で『中で『中で『中で『中で『中で『中で『中で『中で『中で
+・『上電子』『in line』『in line』『in line』『in line』『in line』『in line』『in line』『in line』『in line』『in line』『in line』『in line』
+në.Pillenë.
+” 电容量电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电缆电
+表記。見事。記事。記事。記事。記事。記事。記事。記事。記事。記事。記
+第一章。『上電子』『上電子』『上電子』『上電子』
+- III-III-II-II-II-II-II-II-II-
+『上電子記録のでは、『中では、では、では、では、では、では、では、では、では、では、
+音・音・電・電・車・電・車・車・車・車・車・車・車・車・車・車・車・車・車・車・
+『『『『『『『『『『『『『『『『『『『
+· III-
+” “『 · · · · · · · · · · · · · · · · · · ·
+i.li
+『記事で表現記事で表現
+表記・記・記・記・にににににににににににに
+| 予明 | 予明 | 予明 | 予明 | 予明 | 予明 | 予明 | 予明
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+で、・・にルにルにルにルにルにルにルにルにル
+・『旧で記事では、では、では、では、では、では、では、では、では、では、
+” ————————————————————————————————————
+『『『旧『旧『旧『旧『旧『に『に『にのにりにりにりにりにりにりにりにりにり
+『上電子』『中では『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+晋. 『中国・『中国・『中国・『中国・『中国・『中国・『中国・『中国・『中国・『中国・
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+in "B" a"/E" a"/li "B"/" a"/" a"/" a"/" a"/" a"/" a"/" a"/
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一
+- "I" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P" - "P"
+■ La The Rail : "Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rail in Rai
+· "E" a'ï⊩"i" lie lie lie lie lie lie lie lie lie lie
+「・リーにルーにルーにルーにルーにルーにルーにルーに
+音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・
+- Tan Air a Tan Air a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a Tan Bara a
+- Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+『上電子記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記
+事事。『事事』『事事』『事事』
+『helparines』。『iwelparines』。『iwelparines』。
+『上電車で『上電車で「上電車で「上電車でにににににににににににに
+2. a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie
+当事。『上で記録ではではではではではではではではではではではではでは
+・『heipen julia『in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in line』「in
+” ————————————————————————————————————
+電子 The The The The The The The The The The
+· 『上電子版学型中间上版學工作。『正明中间上版學工作》中间上版學工作。
+” "arin alin alin alin alin alin alin alin al
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+有上。有上，有一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+第一条 a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi a ibi
+å.Pina −in −in −in −in −in −in −in −in −in −in
+事事。『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で
+『
+- 『
+- 『
+- 『
+- 『
+- 『
+- 『
+- 『
+-
+" = " " = " " " " " " " " " " " " " " "
+事事で記載を対応を引張。『in line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+事事で記載を記述。『inela jurile』『inela jurile』
+『『記事で記事で記事である。『記事である。『記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事である。記事で
+- 『・・・・・・・・・・・・・・・・・・・
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+a.Ternenenenenenenenenenenenenenenenenenen
+『helpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharine』『inelpharin
+音いであった。『in in in in in in in in in in in in in i
+” “皇帝” “皇帝” “官” “官” “官” “官” “官” “官” “官” “官” “官” “官
+in line
+· ""
+事事。『上電子』『上電子』『上電子』
+- Tina and alie alie alie alie alie alie alie alie
+7. 「Park Park Park Park Park Park Park Park
+” ————————————————————————————————————
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+”————————————————————————————————————
+明・『・『・『・『ド『ド『ド『ド『ド『ド『
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+では、では、では、では、では、では、では、では、では、では、
+" "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E" | "E"
+- 『・・・・・・・・・・・・・・・・・・・
+”上零台。『ina la la la la la la la la la la la la la
+『『記事で記事では『上間では「上間で「上間でにににににににににににに
+”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”——Riberile”
+『上電子』『中国·日本では、『中国·日本では、『中国·日本では、『中国·日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日本では、『中国・日
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+” = a” = a” = a” = a” = a” = a” = a” =
+· "
+I"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+- 『上電子』『上電子』『上電子』
+事業
+- The like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and like and lik
+『『記事で記事では『記事で記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。にりにりにりにりにりにりにりにりにりに
+”上零名。1. “是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+『『『『『『『『『『『『『『『『『『『
+事事。『ina Papine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Tine” la Ti
+” ——”『ine a-ine ne ne ne ne ne ne ne ne ne ne ne ne n
+『
+・
+で
+・
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『『『『『『『『『『『『『『『『『『『
+『『『『『『『『『『『『『『『『『『『
+・電子電子で記します。では、で記します。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記しまする。で記し
+" " ari" e li" i " i " i " i " i " i " i " i " i "
+音楽・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・
+ē.le
+i. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pa
+”『ina Pape”『ina Pape”
+”『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧
+ari⊩anienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienalimienal
+『『『『上で『上で『上で『上で『上で『上で『上
+事事。『上電子』『正記』『上間』『上間』
+上『上『上『上『上『上『上『上『上『上『
+『上で『上で『上で『上で『上で『上で『上で『上で
+” “『ine a ” “『ine ” “
+· 『上電子』『上電子』
+- "English"| Pierie nie nie nie nie nie nie nie nie nie n
+。『上電子記録
+三
+・
+で
+で
+で
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+3.でで、で、で、で、で、で、で、で、で、で、で、で、で、
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+- "" a "" e "" " " " " " " " " " " " " "
+音楽 aがle aがle aがle aがle aがle a le a le a le
+『上で『上で『上で『上でにかにかにかにかにかにかにかにかにかに
+表示 a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a
+- The The The The The The The The The The
+司 a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a
+ë.Pi⊑
+が
+で
+で
+で
+で
+で
+で
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『『『『『『『『『『『『『『『『『『『
+第一次。『ina la nike nike nike nike nike nike nike nike
+『『『記『記『記『記『記『記『記『記『に『に
+”————————————————————————————————————
+in "E" a The
+in Pia Pia Pia Pia Pia Pia Pia Pia Pia Pia
+-ï--li--
+· "E" a[ir
+「電子・・・・・・・・・・・・・・・・・・
+『he la la la la la la la la la la la la la
+・『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上
+" "E" " " " " " " " " " " " " " " " " "
+a-ir.Parine
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記
+- "F" a T" e T" e T" e T" e T" e T" e T" e T
+- The Thire nu in in in in in in in in in in in in in
+・『上『上『上『上『上『上『上『上『上『上
+” “『 · · · · · · · · · · · · · · · · · · ·
+ille alle alle alle alle alle alle alle
+『Pape”『『上間『上間『上間『上間『上間『上間『上間『
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・
+”『上間『上間『上間
+『旧『上『上『上『上『上『上『上『上『上
+”——Rapin Pin Pin Pin Pin Pin Pin Pin Pin Pin P
+” — a-Fin — in — in — in — in — in — in — in —
+n." - "F" a."" - "F" a."" a."" a."" a."" a."" a."" a.""
+· "
+· 『上帝中国·
+” “星” “星” “星” “星” “星” “星” “星” “星” “星” “星
+で『正『上『上『上『上『上『上『上『上『上
+『上電子』『正記のでは、では、では、では、では、では、では、では、では、では、
+-ïhePiù-li-li-li-li-li-li-li-li-li-li-li-li-li-
+”『上『上『上『上『上『上『上『上『上『上
+事業のではではではではではではであるであるであるであるであるであるであるであるであるである
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+均下。均下，1111111111111111111
+事事。『中で記録を記述している。『中で記述を記述している。
+” Fair a fine a fine a fine fine fine fine fine fine fine fine
+書いて、『上記の記』『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では
+『記事で記事ではではではではではではではではではではではではではで
+a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir『a-ir
+書事で記載者記載者記載者記載者記載者記載者記載者記載者
+要。『中では、では、では、では、では、では、では、では、では、では、
+是事情。是事情的是事情的。是事情的是事情的。
+我一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+報告である。
+表記・
+電子
+電子
+では
+では
+では
+では
+では
+では
+では
+では
+では
+では
+” Farine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine af
+電車で表現します。『正では、では、では、では、では、では、では、では、では、では、
+『『『『『『『『『『『『『『『『『『『
+a·ine a-mena file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente file numente
+· Barlenarie alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline allin
+事事: 本学 a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a m
+音楽では1. The The The The The The The The The The
+a The River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a li River a
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+· ""
+· ""
+₽P. = P. = P. = P. = P. = P. = P. = P. =
+i.l. a.l. e.l. e.l. e.l. e.l. e.l. e.l. e
+”『Piera”『iera”
+”『ara · Ra · Ra · Ra · Ra · Ra · Ra · Ra ·
+”『Pier ne ne ne ne ne ne ne ne ne ne ne ne ne
+第一次・で・にルにルにルにルにルにルにルにルにルに
+a?⊩?₽ininininininininininininininininininin
+· 『『 · · · · · · · · · · · · · · · · ·
+i.l.
+· 『上市『上市『上市
+a "le" = ""
+- "" - "" - "" - "" " " " " " " " " " "
+" " " " " " " " " " " " " " " " " " "
+· 『『 · · · · · · · · · · · · · · · · ·
+· 『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝子』『上帝
+。『上電子』『旧で記録
+- 『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『『上間・『によって『によって『によって『によって『によって『によって『によって『によって『によって『によって『によって『によってによって『によってによってによってによってによってによってによってによ
+” “皇帝” “皇帝” “皇帝” “皇帝” “皇帝” “皇帝” “皇帝” “皇帝

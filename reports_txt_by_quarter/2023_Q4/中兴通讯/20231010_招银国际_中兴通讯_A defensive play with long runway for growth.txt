@@ -1,1246 +1,164 @@
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-1 
- 
-MN 
- 
-10 Oct 2023 
-CMB International Global Markets | Equity Research | Company Update 
- 
-ZTE (000063 CH) 
- 
- 
- 
-A defensive play with long runway for growth  
- 
- ZTE’s recent update on AI-related development: At a recent investor relations 
-event, the Company shed light on its progress in AI development for the B2B sector. 
-The Company featured a foundational AI model, a R&D model (AI-assisted 
-programming), a telecom model (streamline telecom carriers’ operations), and an 
-industry-specific model (focusing on urban governance) aimed to be rolled out 
-between year-end and early 2024. Capitalizing on the AI momentum spurred by 
-ChatGPT in 1H23, the Company is set to debut new computational products and is 
-on track to launch an AI server, specifically engineered for intensive model training. 
- We observe rising popularity of satellite communication, as Huawei’s 
-Mate60Pro could support satellite calling. ZTE's Axon 50 Ultra can also facilitate 
-two-way communication (messages) via the BeiDou satellite system. In a recent 
-milestone, ZTE partnered with China Telecom, UNISOC and Vivo and achieved the 
-first-ever domestic 5G NTN (non-terrestrial network) field test in China. This 
-accomplishment signifies the successful establishment of a bi-directional connection 
-for 5G NTN mobile phones, directly linked to satellites in a real-world setting. We 
-believe ZTE will be a key beneficiary in this market, considering more consumer 
-electronics will be equipped with satellite communications. 
- 5G to 6G, into the next chapter: With increasing interest in satellite 
-communications, the market is waiting for the progress of 6G development. CAICT 
-predicted that the number of 6G terminal connections of various types will increase 
-by more than 30 times compared to 2022, and the average monthly traffic will 
-increase by more than 130 times, which will significantly drive the demand for 
-telecommunication equipment. Given ZTE’s strong presence in the relevant fields, 
-it is well-positioned to extend its leadership into the 6G competition. 
- H-share: maintain BUY with unchanged TP of HK$29.4. We update TP of A-
-share to RMB39.5 based on 16.5x (3-year avg.) rollover FY24E P/E. Maintain 
-BUY. Currently, the Company is experiencing steady growth, marked by a 
-continuous increase in market share and a noticeable enhancement in gross profit 
-margins. Key areas of focus include: 1) the Company's progress in the server 
-market, especially for AI servers, 2) the development and commercialization 
-progress of foundational large models in their v2.0 iteration, 3) R&D efforts in 
-satellite communication, as well as investment opportunities in related industry 
-chains, and 4) the latest development in the realm of 6G. Potential risks include 
-China-US trade tensions, additional component restriction/technology ban, and 5G 
-deployment delays. 
-Target Price 
- 
-RMB39.5 
-(Previous TP 
- 
-RMB41.7) 
-Up/Downside 
- 
-+20.9% 
-Current Price 
- 
-RMB32.68 
-China Technology 
-Lily YANG, Ph.D 
-(852) 3916 3716 
-lilyyang@cmbi.com.hk 
- 
-Kevin ZHANG 
-(852) 3761 8727 
-kevinzhang@cmbi.com.hk 
- 
-Stock Data 
- 
-Mkt Cap (RMB mn) 
-151,833.3 
-Avg 3 mths t/o (RMB mn) 
-2,669.8 
-52w High/Low (HK$) 
-45.54/20.52 
-Total Issued Shares (mn) 
-NA 
-Source: FactSet 
- 
- 
-Shareholding Structure 
- 
-ZTE Holdings 
-23.86% 
-National Social Security Fund 
-1.82% 
-Source: Bloomberg 
- 
-Share Performance 
-Absolute
-Relative 
-1-mth 
--3.5%
--0.4% 
-3-mth 
--24.5%
--19.2% 
-6-mth 
--2.9%
-9.8% 
-Source: FactSet 
-12-mth Price Performance 
- 
- Source: FactSet 
- 
-Earnings Summary 
- 
- 
- 
- 
- 
-(YE 31 Dec) 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E 
-Revenue (RMB mn) 
-114,522  
-122,954  
-132,278  
-144,074  
-156,765  
- YoY growth (%) 
-12.9% 
-7.4% 
-7.6% 
-8.9% 
-8.8% 
-Gross margin (%) 
-35.2% 
-37.2% 
-41.2% 
-41.0% 
-40.7% 
-Net profit (RMB mn) 
-6,813 
-7,867 
-9,886 
-11,653 
-13,312 
- YoY growth (%) 
-59.9 
-15.5 
-25.7 
-17.9 
-14.2 
-P/E (x) 
-26.5 
-22.8 
-19.0 
-16.5 
-14.3 
-ROE (%) 
-13.2 
-13.4 
-14.4 
-14.7 
-14.5 
-Diluted EPS (RMB) 
-1.47 
-1.71 
-2.05 
-2.40 
-2.74 
-Net gearing(%) 
-Net cash 
-Net cash 
-Net cash 
-Net cash 
-Net cash 
-Source: Company data, Bloomberg, CMBIGM estimates 
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-2
- 
- 
- 
-ZTE has a broad presence in the AI server ecosystem  
-In the field of computational infrastructure, ZTE already has a full range of servers and 
-storage products, including general servers, GPU servers, liquid-cooled servers, as well as 
-all-flash storage products and hybrid flash storage products, spanning across the majority 
-of AI server ecosystem. 
-Figure 1: AI Server Value Chain 
- 
- 
- 
- 
- 
- 
-Source: CMBIGM estimates 
- 
-CPU
-GPU
-RAM
-LAN 
-Switch
-Database
-Operating 
-system
-Middleware
-Hard drive
-Battery
-OA
-Key Components
-Software
-PCB
-Upstream
-DPU
-AI Servers
-Midstream
-Internet Companies
-Applications
-Cloud Service Providers
-Gov’t Agencies
-Financial 
-Institutions
-Telecom
-Downstream
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-3
-While the industry is currently focused on large-scale generic models, the real concern for 
-businesses should be on their value in specific industry applications. In view of this, ZTE is 
-set to offer AI infrastructure services tailored to foundational models that span a wide range 
-of knowledge zones. Not only will they provide comprehensive support for model training 
-and logical reasoning, but also introduce specialized models targeting specific industry 
-needs, ensuring an overall smooth digital transformation.  
- 
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-4
-ZTE joining the satellite communication league 
-In 2022, amid a sluggish mobile market, satellite communication emerged as a vital 
-breakthrough for many handset companies. Apple’s iPhone 14 series introduced a satellite 
-communication feature, albeit limited to only sending messages. Around the same time, 
-Huawei launched its Mate50Pro, marking the company's entry into satellite communication 
-phones. And in early 2023, ZTE released its Axon 50 Ultra that supported satellite 
-messaging communication. This overall trend could also imply that satellite communication 
-offers opportunities not just for handsets but also for various other consumer electronic 
-products. As the mobile satellite communication value chain continues to evolve, there are 
-significant prospects for telecom carriers, mobile companies, hardware & software 
-developers, etc., to unlock the full potential of this new tech. 
-Figure 2: Satellite Communication Value Chain 
- 
- 
- 
- 
-Source: CMBIGM estimates  
- 
-Satellite Manufacturing
-Manufacturing
-Other key areas
-中国航天科工集团
-RF chip
-Raw material
-Other electronic 
-components
-Satellite Launching
-Rocket Manufacturing
-中国航天科工集团
-Ground Equip. Manufacturing
-Ground Station
-Ground terminal 
-core chip
-Telecom carrier 
-Equip.
-Satellite Operation & Service
-National Defence
-Satellite Applications Service Provider
-Telecom Carriers
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-5
-ZTE to benefit from the transition from 5G to 6G 
-In 2020, ZTE entered into an agreement with China Unicom to collaborate on 6G 
-technology. The Company outlined a research phase from 2020 to 2023 to explore network 
-demands, structural aspects, and technological capabilities for 6G. By June 2023, the 
-company publicly announced the commencement of research on crucial 6G technologies. 
-ZTE anticipated that 6G would be a seamless evolution, building upon the success of 5G 
-and 5G-advanced paradigm. Consequently, ZTE believed that their well-established 
-technological expertise in 5G-related domains could be effectively extended to the realm 
-of 6G. 
-Figure 3: 6G Network Value Chain 
- 
-Source: CMBIGM estimates 
- 
-    
-Service Providers
-Core Network
-Transmission Network
-Access Network
-Telecom Carriers
-Connection & Equipment
-Downstream Applications
-Smart City
-Internet of 
-Cars
-Smart Industry
-Smart Medical
-Livestreaming
-Smart 
-Buildings
-Smart Mining
-Gaming
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-6
-Financial Summary 
-INCOME STATEMENT 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Revenue 
-101,451 
-114,522 
-122,954 
-132,278 
-144,074 
-156,765 
-Cost of goods sold 
-(69,379) 
-(74,160) 
-(77,228) 
-(77,724) 
-(85,000) 
-(92,954) 
-Gross profit 
-32,071 
-40,362 
-45,727 
-54,554 
-59,074 
-63,811 
-Operating expenses 
-(26,483) 
-(31,828) 
-(35,166) 
-(42,715) 
-(46,308) 
-(50,152) 
-Selling expense 
-(7,579) 
-(8,733) 
-(9,173) 
-(10,052) 
-(10,804) 
-(11,599) 
-Admin expense 
-(4,995) 
-(5,445) 
-(5,333) 
-(5,501) 
-(5,920) 
-(6,363) 
-SG&A expense 
-(685) 
-(787) 
-(951) 
-(1,497) 
-(1,631) 
-(1,775) 
-R&D expense 
-(14,797) 
-(18,804) 
-(21,602) 
-(27,836) 
-(30,318) 
-(32,989) 
-Others 
-1,573 
-1,941 
-1,893 
-2,171 
-2,365 
-2,573 
-Operating profit 
-5,589 
-8,534 
-10,561 
-11,839 
-12,765 
-13,659 
-Other income 
-238 
-250 
-196 
-163 
-177 
-193 
-Other expense 
-(644) 
-(427) 
-(239) 
-(258) 
-(281) 
-(306) 
-Gain/loss on financial assets at FVTPL 
-39 
-1,099 
-(1,142) 
-(431) 
-0  
-0  
-Investment gain/loss 
-906 
-1,564 
-1,087 
-(417) 
-0  
-0  
-Other gains/(losses) 
-(643) 
-(1,558) 
-(1,548) 
-(897) 
-(1,409) 
-(1,390) 
-EBIT 
-5,485 
-9,462 
-8,915 
-9,999 
-11,253 
-12,156 
-Net Interest income/(expense) 
-(421) 
-(963) 
-(163) 
-1,265 
-2,027 
-3,013 
-Other income/expense 
-(164) 
-(979) 
-(657) 
-0  
-0  
-0  
-Pre-tax profit 
-5,064 
-8,499 
-8,752 
-11,264 
-13,280 
-15,169 
-Income tax 
-(342) 
-(1,463) 
-(960) 
-(1,230) 
-(1,454) 
-(1,658) 
-After tax profit 
-4,722 
-7,036 
-7,792 
-10,034 
-11,827 
-13,511 
-Minority interest  
-(446) 
-(223) 
-75 
-(148) 
-(174) 
-(199) 
-Others 
-(16) 
-0  
-0  
-0  
-0  
-0  
-Net profit 
-4,260 
-6,813 
-7,867 
-9,886 
-11,653 
-13,312 
-Net dividends 
-926 
-1,390 
-1,840 
-965 
-973 
-973 
-BALANCE SHEET 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Current assets 
-106,977 
-127,871 
-137,874 
-146,851 
-162,909 
-179,050 
-Cash & equivalents 
-31,403 
-39,071 
-47,072 
-56,006 
-69,553 
-85,527 
-Restricted cash 
-4,256 
-11,642 
-9,274 
-8,387 
-8,387 
-8,387 
-Account receivables 
-17,043 
-18,863 
-19,098 
-19,317 
-19,761 
-20,612 
-Inventories 
-33,689 
-36,317 
-45,235 
-44,201 
-44,292 
-42,295 
-Prepayment 
-322 
-607 
-279 
-506 
-535 
-591 
-Financial assets at FVTPL 
-1,037 
-1,361 
-514 
-431 
-471 
-512 
-Other current assets 
-19,226 
-20,011 
-16,402 
-18,003 
-19,910 
-21,127 
-Non-current assets 
-43,658 
-40,892 
-43,080 
-42,190 
-43,718 
-45,376 
-PP&E 
-12,954 
-12,810 
-13,877 
-14,594 
-15,402 
-16,315 
-Right-of-use assets 
-1,047 
-815 
-1,080 
-1,031 
-1,008 
-1,009 
-Deferred income tax 
-3,437 
-3,195 
-3,719 
-3,773 
-4,124 
-4,480 
-Investment in JVs & assos 
-3,749 
-3,699 
-3,765 
-3,794 
-3,984 
-4,176 
-Intangibles 
-11,440 
-10,548 
-9,926 
-9,563 
-9,019 
-8,393 
-Goodwill 
-186 
-0  
-0  
-0  
-0  
-0  
-Financial assets at FVTPL 
-1,537 
-1,175 
-1,028 
-1,028 
-1,028 
-1,028 
-Other non-current assets 
-9,307 
-8,650 
-9,685 
-8,407 
-9,153 
-9,975 
-Total assets 
-150,635 
-168,763 
-180,954 
-189,041 
-206,626 
-224,426 
- 
- 
- 
- 
- 
- 
-Current liabilities 
-78,685 
-74,395 
-78,424 
-72,759 
-80,938 
-86,590 
-Short-term borrowings 
-8,947 
-10,559 
-9,962 
-6,005 
-7,446 
-8,055 
-Account payables 
-36,780 
-32,869 
-13,520 
-13,737 
-15,606 
-15,719 
-Tax payable 
-1,216 
-878 
-17,700 
-15,016 
-16,413 
-17,827 
-Other current liabilities 
-3,949 
-4,545 
-18,167 
-18,425 
-20,077 
-21,750 
-Contract liabilities 
-27,793 
-25,544 
-19,075 
-19,576 
-21,397 
-23,240 
-Non-current liabilities 
-30,117 
-36,791 
-42,987 
-46,595 
-45,063 
-44,674 
-Long-term borrowings 
-22,614 
-29,908 
-35,126 
-38,334 
-36,033 
-34,866 
-Bond payables 
-0  
-0  
-0  
-0  
-0  
-0  
-Obligations under finance leases 
-718 
-532 
-789 
-741 
-810 
-880 
-Deferred income 
-134 
-150 
-87 
-86 
-94 
-102 
-Other non-current liabilities 
-6,651 
-6,200 
-6,985 
-7,434 
-8,126 
-8,826 
-Total liabilities 
-108,803 
-111,185 
-121,410 
-119,354 
-126,002 
-131,264 
- 
- 
- 
- 
- 
- 
-Share capital 
-4,613 
-4,731 
-4,736 
-4,827 
-4,865 
-4,865 
-Capital surplus 
-(115) 
-0  
-0  
-0  
-0  
-0  
-Retained earnings 
-14,824 
-20,651 
-27,309 
-35,351 
-46,035 
-58,369 
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-7
-Other reserves 
-23,974 
-26,100 
-26,596 
-28,459 
-28,501 
-28,506 
-Total shareholders equity 
-43,297 
-51,482 
-58,641 
-68,637 
-79,401 
-91,740 
-Minority interest 
-2,826 
-1,806 
-902 
-1,050 
-1,223 
-1,422 
-Total equity and liabilities 
-154,925 
-164,473 
-180,954 
-189,041 
-206,626 
-224,426 
-  
- 
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-8
-CASH FLOW 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Operating 
- 
- 
- 
- 
- 
- 
-Profit before taxation 
-4,722 
-7,036 
-7,792 
-10,034 
-11,827 
-13,511 
-Depreciation & amortization 
-3,971 
-4,588 
-4,386 
-4,783 
-5,289 
-5,728 
-Tax paid 
-(963) 
-258 
-(587) 
-(56) 
-(343) 
-(347) 
-Change in working capital 
-(1,001) 
-2,357 
-(8,471) 
-1,926 
-(111) 
-(235) 
-Others 
-3,504 
-1,484 
-4,458 
-3 
-6,480 
-7,154 
-Net cash from operations 
-10,233 
-15,724 
-7,578 
-16,690 
-23,143 
-25,810 
- 
- 
- 
- 
- 
- 
-Investing 
- 
- 
- 
- 
- 
- 
-Capital expenditure 
-(6,472) 
-(5,686) 
-(4,952) 
-(5,678) 
-(6,195) 
-(6,735) 
-Acquisition of subsidiaries/ investments 
-(620) 
-(5,127) 
-3,636 
-(795) 
-(230) 
-(233) 
-Net proceeds from disposal of short-term 
-investments 
-9 
-221 
-24 
-542 
-605 
-658 
-Others 
-(10,218) 
-(450) 
-(471) 
-878 
-0  
-0  
-Net cash from investing  
-(17,300) 
-(11,042) 
-(1,762) 
-(5,053) 
-(5,820) 
-(6,310) 
- 
- 
- 
- 
- 
- 
-Financing 
- 
- 
- 
- 
- 
- 
-Dividend paid 
-(2,951) 
-(2,618) 
-(3,688) 
-(3,904) 
-(2,992) 
-(2,968) 
-Net borrowings 
-(1,294) 
-5,309 
-5,442 
-(749) 
-(860) 
-(559) 
-Proceeds from share issues 
-14,167 
-538 
-171 
-1,950 
-77 
-0  
-Others 
-(10,211) 
-(450) 
-(471) 
-(10) 
-0  
-0  
-Net cash from financing  
-(290) 
-2,779 
-1,455 
-(2,712) 
-(3,776) 
-(3,526) 
- 
- 
- 
- 
- 
- 
-Net change in cash 
- 
- 
- 
- 
- 
- 
-Cash at the beginning of the year 
-28,506 
-31,403 
-39,071 
-47,072 
-56,006 
-69,553 
-Exchange difference 
-37 
-(242) 
-260 
-0  
-0  
-0  
-Others 
-2,861 
-7,910 
-7,741 
-8,934 
-13,546 
-15,974 
-Cash at the end of the year 
-31,403 
-39,071 
-47,072 
-56,006 
-69,553 
-85,527 
-GROWTH 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Revenue 
-11.8% 
-12.9% 
-7.4% 
-7.6% 
-8.9% 
-8.8% 
-Gross profit 
-(4.9%) 
-25.8% 
-13.3% 
-19.3% 
-8.3% 
-8.0% 
-Operating profit 
-(39.9%) 
-52.7% 
-23.7% 
-12.1% 
-7.8% 
-7.0% 
-EBIT 
-(32.5%) 
-72.5% 
-(5.8%) 
-12.2% 
-12.5% 
-8.0% 
-Net profit 
-(17.3%) 
-59.9% 
-15.5% 
-25.7% 
-17.9% 
-14.2% 
-PROFITABILITY 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Gross profit margin 
-31.6% 
-35.2% 
-37.2% 
-41.2% 
-41.0% 
-40.7% 
-Operating margin 
-5.5% 
-7.5% 
-8.6% 
-8.9% 
-8.9% 
-8.7% 
-Return on equity (ROE) 
-11.8% 
-14.4% 
-14.3% 
-15.5% 
-15.7% 
-15.6% 
-GEARING/LIQUIDITY/ACTIVITIES 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Net debt to equity (x) 
-1.7 
-1.2 
-1.1 
-0.8 
-0.6 
-0.4 
-Current ratio (x) 
-1.4 
-1.7 
-1.8 
-2.0 
-2.0 
-2.1 
-VALUATION 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-P/E 
-22.4 
-12.9 
-8.5 
-10.7 
-9.1 
-8.0 
-P/E (diluted) 
-22.4 
-12.9 
-8.5 
-10.7 
-9.1 
-8.0 
-Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets. 
- 
- 
-10 Oct 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-9
- 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in 
-this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as 
-an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
-CMBIGM  Rati ngs  
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIGM 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Global Markets Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
-CMB International Global Markets Limited (“CMBIGM”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned 
-subsidiary of China Merchants Bank) 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIGM 
-does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position 
-or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the 
-report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the 
-performance of underlying assets or other variable market factors.  CMBIGM recommends that investors should independently evaluate particular investments 
-and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM 
-or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in 
-securities or enter into any transaction.  Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be 
-liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone 
-making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. 
-CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides 
-the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notic e. CMBIGM may issue other 
-publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical 
-methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in 
-this report. 
-CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with 
-the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report 
-and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM. 
-Additional information on recommended securities is available upon request. 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, 
-etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.  
-For recipients of this document in the United States 
-CMBIGM is not a registered broker-dealer in the United States.  As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports 
-and the independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified 
-as a research analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules 
-intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is 
-intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 
-1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report 
-by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to 
-effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.  
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined 
-in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its 
-respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. 
-Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities 
-and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. 
-Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+ZTE (000063 CH)
+A defensive play with long runway for growth
+BUY (Maintain)
+Target Price
+RMB39.5
+ZTE's recent update on Al-related development: At a recent investor relations
+(Previous TP
+RMB41.7)
+event, the Company shed light on its progress in Al development for the B2B sector.
+Up/Downside
++20.9%
+The Company featured a foundational Al model, a R&D model (Al-assisted
+RMB32.68
+Current Price
+programming), a telecom model (streamline telecom carriers' operations), and an
+industry-specific model (focusing on urban governance) aimed to be rolled out
+China Technology
+between year-end and early 2024. Capitalizing on the Al momentum spurred by
+Lily YANG, Ph.D
+ChatGPT in 1H23, the Company is set to debut new computational products and is
+on track to launch an AI server, specifically engineered for intensive model training.
+We observe rising popularity of satellite communication, as Huawei's
+Kevin ZHANG
+Mate60Pro could support satellite calling. ZTE's Axon 50 Ultra can also facilitate
+two-way communication (messages) via the BeiDou satellite system. In a recent
+milestone, ZTE partnered with China Telecom, UNISOC and Vivo and achieved the
+Stock Data
+first-ever domestic 5G NTN (non-terrestrial network) field test in China. This
+accomplishment signifies the successful establishment of a bi-directional connection
+for 5G NTN mobile phones, directly linked to satellites in a real-world setting. We
+believe ZTE will be a key beneficiary in this market, considering more consumer
+electronics will be equipped with satellite communications.
+Shareholding Structure
+5G to 6G, into the next chapter: With increasing interest in satellite
+communications, the market is waiting for the progress of 6G development. CAICT
+predicted that the number of 6G terminal connections of various types will increase
+Share Performance
+by more than 30 times compared to 2022, and the average monthly traffic will
+increase by more than 130 times, which will significantly drive the demand for
+telecommunication equipment. Given ZTE's strong presence in the relevant fields,
+Source: FactSet
+it is well-positioned to extend its leadership into the 6G competition.
+H-share: maintain BUY with unchanged TP of HK$29.4. We update TP of A-
+12-mth Price Performance
+(RM
+000063 CHSZCOMP (Rebased)
+share to RMB39.5 based on 16.5x (3-year avg.) rollover FY24E P/E. Maintain
+BUY. Currently, the Company is experiencing steady growth, marked by a
+continuous increase in market share and a noticeable enhancement in gross profit
+margins. Key areas of focus include: 1) the Company's progress in the server
+market, especially for AI servers, 2) the development and commercialization
+progress of foundational large models in their v2.0 iteration, 3) R&D efforts in
+Source: FactSet
+satellite communication, as well as investment opportunities in related industry
+chains, and 4) the latest development in the realm of 6G. Potential risks include
+China-US trade tensions, additional component restriction/technology ban, and 5G
+deployment delays.
+Earnings Summary
+ZTE has a broad presence in the AI server ecosystem
+In the field of computational infrastructure, ZTE already has a full range of servers and
+storage products, including general servers, GPU servers, liquid-cooled servers, as well as
+all-flash storage products and hybrid flash storage products, spanning across the majority
+of Al server ecosystem.
+Source: CMBIGM estimates
+While the industry is currently focused on large-scale generic models, the real concern for
+businesses should be on their value in specific industry applications. In view of this, ZTE is
+set to offer Al infrastructure services tailored to foundational models that span a wide range
+of knowledge zones. Not only will they provide comprehensive support for model training
+and logical reasoning, but also introduce specialized models targeting specific industry
+needs, ensuring an overall smooth digital transformation.
+ZTE joining the satellite communication league
+In 2022, amid a sluggish mobile market, satellite communication emerged as a vital
+breakthrough for many handset companies. Apple's iPhone 14 series introduced a satellite
+communication feature, albeit limited to only sending messages. Around the same time,
+Huawei launched its Mate50Pro, marking the company's entry into satellite communication
+phones. And in early 2023, ZTE released its Axon 50 Ultra that supported satellite
+messaging communication. This overall trend could also imply that satellite communication
+offers opportunities not just for handsets but also for various other consumer electronic
+products. As the mobile satellite communication value chain continues to evolve, there are
+significant prospects for telecom carriers, mobile companies, hardware & software
+developers, etc., to unlock the full potential of this new tech.
+Source: CMBIGM estimates
+ZTE to benefit from the transition from 5G to 6G
+In 2020, ZTE entered into an agreement with China Unicom to collaborate on 6G
+technology. The Company outlined a research phase from 2020 to 2023 to explore network
+demands, structural aspects, and technological capabilities for 6G. By June 2023, the
+company publicly announced the commencement of research on crucial 6G technologies.
+ZTE anticipated that 6G would be a seamless evolution, building upon the success of 5G
+and 5G-advanced paradigm. Consequently, ZTE believed that their well-established
+technological expertise in 5G-related domains could be effectively extended to the realm
+of 6G.
+Source: CMBIGM estimates
+Financial Summary
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in
+this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as
+an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIGM
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Global Markets Limited
+CMB International Global Markets Limited ("CMBIGM") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
+subsidiary of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIGM
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the
+report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIGM recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM
+or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides
+the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIGM may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report
+and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.
+For recipients of this document in the United States
+CMBIGM is not a registered broker-dealer in the United States. As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports
+and the independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified
+as a research analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules
+intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is
+intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of
+1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report
+by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to
+effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined
+in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its
+respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations.
+Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities
+and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law.
+Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

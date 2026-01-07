@@ -1,709 +1,139 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-ACCESS KEY TO OUR REPORTS ON BLOOMBERG: CMBR 
- 
-China Insurance Sector 
- 
-Wenjie Ding, PhD 
-(852) 3900 0856 
-dingwenjie@cmbi.com.hk 
- 
-Hanbo Xu 
-(852) 3761 8725 
-xuhanbo@cmbi.com.hk  
- 
- 
- 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
- 735,324
-Avg 3 mths t/o (RMB mn) 
- 426.76
-52w High/Low (RMB)   
- 33.00/ 19.78
-Total Issued Shares (mn) 
-1,500 (A)
- 
-7,441(H)
-Source: Bloomberg 
- 
-Shareholding Structure 
-China Life Insurance (Group) 
-68.37% 
-Free float 
-31.63% 
-Source: HKEx 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-12.4% 
-3.6%
-3-mth 
-1.6% 
-2.4%
-6-mth 
-47.1% 
-11.0%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Bloomberg 
- 
-Auditor: Ernst & Young 
- 
-Related Reports 
-1. 
-“Coordinated 
-scale 
-and 
-value 
-growth” – 24 Apr 2019 
-2. 
-“Anticipating 
-NBV 
-recovery 
-in 
-2019” – 29 Mar 2019 
-3. 
-“Steadfast reform focusing on value 
-creation” – 25 Feb 2019 
- 
-0
-5
-10
-15
-20
-25
-30
-35
-7/2018
-11/2018
-3/2019
-7/2019
-601628 CH
- SHSZ300  (rebased)
-(RMB)
-BUY (Initiation) 
-Target Price 
-RMB33.10 
-Up/Downside 
-  +14.0% 
-Current Price 
-RMB29.03 
- 
-1 
-     4 Jul 2019 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SUMMARY. During our visit last week, China Life impressed us with detailed 
-measures and recent achievements of its revitalization plan regarding two major 
-tasks this year - sales force development and investment yield improvement. 
-Premium growth has been largely in line and NBV growth outlook is positive. We are 
-optimistic about business recovery of the Company and initiate it’s A-share with BUY 
-rating. Target price is RMB33.10. 
- 
-Positive NBV and margin outlook. 1) Although GWP growth lost steam in Mar 
-(-6.3% YoY) and Apr (-30.8% YoY) primarily due to last year’s high base and 
-decline of renewal premiums, FYP restored double-digit growth in May, 
-according to the Company. 2) NBV margin improvement is likely to continue 
-thanks to higher share of longer-duration and protection-type products. The 
-Company recorded stellar NBV growth of 28.3% in 1Q19. We forecast NBV to 
-increase 14.1% during the whole year.   
- 
-Agent reform- to integrate bancassurance sales force in 2H19. China Life 
-was the only lifer among major peers that achieved agent headcount growth in 
-1Q19. Exclusive individual agents reached 1.537 million and total sales force 
-1.89 million at the end of 1Q19, compared to 1.44 million/1.78 million at YE2018. 
-In 2H19, the Company plans to consolidate its bancassurance sales force, 
-among which ~90% are selling similar products as exclusive individual agents. 
-China Life will also continue to promote differentiated sales to match customer 
-needs, strengthen footing in higher-tier cities while maintaining leading position 
-in lower-tier ones and optimize incentive packages for agents.  
- 
-Beef up equity investment performance. The Company is determined to 
-address weak spots in equity investment, which used to cause large swings in 
-net profit. Measures include 1) implementing market-based employment and 
-valuation system, 2) strictly monitoring third-party entrustment, 3) increasing the 
-percentage of long-term equity investment.  
- 
-Initiate BUY with TP at RMB33.10. Given clear roadmap and solid steps of the 
-Company’s reform plan, we suggest investors to accumulate and bet on business 
-improvement. We initiate A-share of the Company based on H-share TP plus 50% 
-premium (close to 1-year historical avg. A/H premium). The A-share stock is 
-currently trading at 0.93x FY19E P/EV (vs. peers’ average of 0.90x). Our TP 
-corresponds to 1.06x/0.97x FY19/20E P/EV.  
- 
-Earnings Summary 
-(YE 31 Dec) 
-FY17A 
-FY18A 
-FY19E 
-FY20E 
-FY21E 
-GWP (RMB mn) 
-511,966  
-535,826  
-585,110  
-643,924  
-705,432  
-YoY growth (%) 
-18.9  
-4.7  
-9.2  
-10.1  
-9.6  
-Total income (RMB mn) 
-643,355  
-627,419  
-750,211  
-822,316  
-898,645  
-Net profit (RMB mn) 
-32,253  
-11,395  
-34,700  
-40,884  
-45,026  
-EPS (RMB) 
-1.13  
-0.39  
-1.20  
-1.42  
-1.56  
-YoY Growth (%) 
-71.2 
--65.2 
-205.5 
-18.0 
-10.3 
-P/B (x) 
-1.54  
-1.56  
-1.36  
-1.26  
-1.18  
-P/EV (x) 
-0.67  
-0.62  
-0.56  
-0.51  
-0.47  
-Yield (%) 
- 2.3  
- 0.9  
- 2.8  
- 3.3  
- 3.6  
-ROEV (%) 
- 13.7  
- 9.9  
- 11.4  
- 11.2  
- 11.1  
-Source: Company data, CMBIS estimates 
- 
-China Life (601628 CH) 
-Revitalization efforts on track 
-4 Jul 2019 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Focus Charts  
-Figure 1: GWP growth, cumulative YoY 
- 
-Source: Company data, CMBIS 
-Figure 2: GWP declined 6.3%/30.8%in Mar/Apr 
- 
-Source: Company data, CMBIS 
- 
-Figure 3: P/EV  
- 
-Source: Company data, CMBIS 
-Figure 4: A/H premium  
- 
-Source: Company data, CMBIS 
- 
- 
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-2014-07
-2015-07
-2016-07
-2017-07
-2018-07
-Forward P/EV (A-share)
--30%
--20%
--10%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-2/7/2014
-2/7/2015
-2/7/2016
-2/7/2017
-2/7/2018
-2/7/2019
-4 Jul 2019 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Financial Summary  
-Income statement 
- 
- 
- 
-  Key ratios 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY17A 
-FY18A 
-FY19E FY20E FY21E  YE 31 Dec (RMB mn) 
-FY17A FY18A FY19E FY20E FY21E 
-Gross written premium 
-511,966 
-535,826 
-585,110 
-643,924 
-705,432  Growth (%) 
- 
- 
- 
- 
- 
-Net premiums earned 
-506,910 
-532,023 
-579,172 
-637,294 
-698,229  GWP growth 
- 18.9 
- 4.7 
- 9.2 
- 10.1 
- 9.6 
-Investment income 
-128,952 
-87,298 
-162,196 
-175,290 
-189,755  Total income growth 
- 19.0 
- (2.5) 
- 19.6 
- 9.6 
- 9.3 
-Other operating income 
-7,493 
-8,098 
-8,843 
-9,732 
-10,661  Net profit growth 
- 68.6 
- (64.7) 
- 204.5 
- 17.8 
- 10.1 
-Total income 
-643,355 
-627,419 
-750,211 
-822,316 
-898,645  EV growth 
- 12.6 
- 8.3 
- 10.8 
- 9.5 
- 9.4 
- 
- 
- 
- 
- 
-  Net investment yield 
- 4.9 
- 4.6 
- 4.4 
- 4.4 
- 4.4 
-Insurance claims and reserves 
- (466,043) 
- (479,219) 
- (532,160)  (578,491)  (631,813)  Total investment yield 
- 5.2 
- 3.3 
- 5.3 
- 5.3 
- 5.3 
-Policyholder dividends 
- (21,871) 
- (19,646) 
- (36,501) 
- (39,448) 
- (42,703)  Investment assets growth 
- 12.2 
- 12.7 
- 9.4 
- 8.1 
- 8.3 
-Other operating expenses 
- (120,913) 
- (122,378) 
- (141,063)  (155,493)  (169,707)   
- 
- 
- 
- 
- 
-Total expenses 
- (608,827) 
- (621,243) 
- (709,724)  (773,432)  (844,223)  Underwriting (%) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  FYRP growth 
- 20.4 
- (7.7) 
- 11.7 
- 8.8 
- 6.7 
-Associates and JVs 
- 7,143 
- 7,745 
- 7,977 
- 8,217 
- 8,463  Agent FYRP growth 
- 21.1 
- (12.2) 
- 10.0 
- 7.0 
- 5.0 
-Pre-tax profit 
-41,671 
-13,921 
-48,464 
-57,100 
-62,885  Agent FYRP/FYRP 
- 79.8 
- 75.9 
- 74.8 
- 73.5 
- 72.3 
- 
- 
- 
- 
- 
-  Renewal growth 
- 28.9 
- 26.6 
- 11.1 
- 11.6 
- 11.3 
-Income tax 
- (8,919) 
- (1,985) 
- (12,116) 
- (14,275) 
- (15,721)  Renewal/overall GWP 
- 56.3 
- 68.1 
- 69.2 
- 70.2 
- 71.3 
-Less: Minority interests 
- 499 
- 541 
- 1,647 
- 1,941 
- 2,138  NBV growth 
- 21.9 
- (17.6) 
- 14.1 
- 8.9 
- 6.9 
-Net profit 
-32,253 
-11,395 
-34,700 
-40,884 
-45,026  NBV margin (Agent, APE) 
- 47.3 
- 42.2 
- 44.0 
- 44.4 
- 44.9 
-  
-  
-  
-  
-  
-  
- NBV margin (Bancassurance, APE) 
- 23.2 
- 24.3 
- 24.5 
- 24.5 
- 24.5 
-Balance sheet 
-  
-  
-  
-  
-  
- 
-YE 31 Dec (RMB mn) 
-FY17A 
-FY18A 
-FY19E FY20E FY21E  Returns (%) 
- 
- 
- 
- 
- 
-Investment assets 
- 2,753,124 
- 3,104,014 
- 3,394,519  3,670,880  3,977,321  ROEV 
- 13.7 
- 9.9 
- 11.4 
- 11.2 
- 11.1 
-other assets 
- 144,467 
- 150,389 
- 191,388 
- 214,476 
- 235,654  ROE 
- 10.3 
- 3.6 
- 10.2 
- 10.8 
- 11.1 
-Total assets 
- 2,897,591 
- 3,254,403 
- 3,585,907  3,885,356  4,212,975  Solvency (%) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Core solvency ratio 
- 277.6 
- 250.6 
- 281.5 
- 280.5 
- 284.6 
-Insurance liabilities 
- 2,025,133 
- 2,216,031 
- 2,438,247  2,674,621  2,924,659  Comprehensive solvency ratio 
- 277.7 
- 250.6 
- 292.0 
- 290.1 
- 293.7 
-Other liabilities 
- 547,148 
- 715,082 
- 777,246 
- 812,927 
- 861,423   
- 
- 
- 
- 
- 
-Total liabilities 
- 2,572,281 
- 2,931,113 
- 3,215,493  3,487,549  3,786,082  Per share  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  EPS (RMB) 
- 1.13 
- 0.39 
- 1.20 
- 1.42 
- 1.56 
-Shareholders' equity 
- 320,933 
- 318,371 
- 364,778 
- 391,755 
- 420,398  DPS (RMB) 
- 0.40 
- 0.16 
- 0.49 
- 0.57 
- 0.63 
-Minority interest 
- 4,377 
- 4,919 
- 5,636 
- 6,053 
- 6,495  EVPS (RMB) 
- 25.97 
- 28.13 
- 31.16 
- 34.13 
- 37.33 
-Total equity 
- 325,310 
- 323,290 
- 370,414 
- 397,808 
- 426,893  BVPS (RMB) 
- 11.35 
- 11.26 
- 12.91 
- 13.86 
- 14.87 
-Source: Company data, CMBIS estimates 
- 
- 
- 
- 
- 
- 
-4 Jul 2019 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  
-CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, 
-financial position or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from 
-that which is contained in the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a 
-result of their dependence on the performance of underlying assets or other variable market factors.  CMBIS recommends that investors should 
-independently evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to 
-make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of 
-CMBIS or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security 
-or any interest in securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers 
-or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information 
-contained in this report.  Anyone making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available 
-and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. 
-CMBIS provides the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. 
-CMBIS may issue other publications having information and/ or conclusions different from this report.  These publications reflect different assumption, 
-point-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent 
-with the recommendations or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself 
-and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business 
-relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect 
-the objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only 
-and this publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written 
-consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) 
-Order 2005 (as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, 
-Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities 
-Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy 
-of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.  
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser 
-as defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute 
-reports produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of 
-the Financial Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or 
-an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents 
-of the report to such persons only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising 
-from, or in connection with the report. 
+CMB International Securities | Equity Research | Company Update
+行 全
+A Wholly Owned Subsidiary Of China Merchants Bank
+China Life (601628 CH)
+BUY (Initiation)
+Revitalization efforts on track
+Target Price
+RMB33.10
+Up/Downside
++14.0%
+Current Price
+RMB29.03
+SUMMARY. During our visit last week, China Life impressed us with detailed
+measures and recent achievements of its revitalization plan regarding two major
+China Insurance Sector
+tasks this year - sales force development and investment yield improvement.
+Premium growth has been largely in line and NBV growth outlook is positive. We are
+Wenjie Ding, PhD
+optimistic about business recovery of the Company and initiate it's A-share with BUY
+rating. Target price is RMB33.10.
+Positive NBV and margin outlook. 1) Although GWP growth lost steam in Mar
+Hanbo Xu
+(-6.3% YoY) and Apr (-30.8% YoY) primarily due to last year's high base and
+decline of renewal premiums, FYP restored double-digit growth in May,
+according to the Company. 2) NBV margin improvement is likely to continue
+thanks to higher share of longer-duration and protection-type products. The
+Company recorded stellar NBV growth of 28.3% in 1Q19. We forecast NBV to
+Stock Data
+increase 14.1% during the whole year.
+Agent reform- to integrate bancassurance sales force in 2H19. China Life
+was the only lifer among major peers that achieved agent headcount growth in
+1Q19. Exclusive individual agents reached 1.537 million and total sales force
+Source: Bloomberg
+1.89 million at the end of 1Q19, compared to 1.44 million/1.78 million at YE2018.
+In 2H19, the Company plans to consolidate its bancassurance sales force,
+Shareholding Structure
+among which ~90% are selling similar products as exclusive individual agents.
+China Life will also continue to promote differentiated sales to match customer
+needs, strengthen footing in higher-tier cities while maintaining leading position
+in lower-tier ones and optimize incentive packages for agents.
+Share Performance
+Beef up equity investment performance. The Company is determined to
+address weak spots in equity investment, which used to cause large swings in
+net profit. Measures include 1) implementing market-based employment and
+Source: Bloomberg
+valuation system, 2) strictly monitoring third-party entrustment, 3) increasing the
+percentage of long-term equity investment.
+12-mth Price Performance
+Initiate BUY with TP at RMB33.10. Given clear roadmap and solid steps of the
+Company's reform plan, we suggest investors to accumulate and bet on business
+improvement. We initiate A-share of the Company based on H-share TP plus 50%
+premium (close to 1-year historical avg. A/H premium). The A-share stock is
+currently trading at 0.93x FY19E P/EV (vs. peers' average of 0.90x). Our TP
+corresponds to 1.06x/0.97x FY19/20E P/EV.
+Earnings Summary
+Source: Bloomberg
+Auditor: Ernst & Young
+Related Reports
+"Coordinated scale and value
+"Anticipating NBV recovery in
+"Steadfast reform focusing on value
+Source: Company data, CMBIS estimates
+Focus Charts
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives.
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from
+that which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a
+result of their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should
+independently evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to
+make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of
+CMBIS or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security
+or any interest in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers
+or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information
+contained in this report. Anyone making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available
+and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness.
+CMBIS provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice.
+CMBIS may issue other publications having information and/or conclusions different from this report. These publications reflect different assumption,
+point-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent
+with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself
+and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business
+relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect
+the objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only
+and this publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written
+consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion)
+Order 2005 (as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies,
+Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities
+Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy
+of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser
+as defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute
+reports produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of
+the Financial Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or
+an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents
+of the report to such persons only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising
+from, or in connection with the report.

@@ -1,114 +1,62 @@
-Shanghai Pharma
-Health Care
-Health Care
-Results
-Asia
-China
-Industry
-Shanghai Pharma
-Date
-1 November 2017
 Deutsche Bank
 Markets Research
+Asia
+Date
+Industry
+China
+Shanghai Pharma
+Health Care
+Results
+Health Care
 In-line quarter led by manufacturing
 business
-Solid OCF generation in 3Q17
-Shanghai Pharma reported revenue / core proﬁt of RMB33.3bn / 685m in 3Q17,
-representing YoY growth of 7.9% / 0.5% respectively, moderating from 1H17
+Jack Hu, PhD
+Research Analyst
+Shanghai Pharma reported revenue / core profit of RMB33.3bn / 685m in 3Q17,
 growth of 10%/11%. Growth in the distribution arm was dragged down by two
-invoice policy and broad reform headwinds, while anemic proﬁt growth was due
+Megan Xu
+invoice policy and broad reform headwinds, while anemic profit growth was due
+Research Associate
 to the high base last year from JV contributions. The manufacturing segment
 remained the bright spot with 22% growth in 3Q17, or 11% on an organic
 basis. Contributions from Vitaco and acquired assets in 3Q17 were approximately
 RMB280m and RMB65m, respectively. We highlight the solid cash generation
-abilities of SPH, with RMB1.1bn OCF inﬂow in 3Q17, compared with RMB850m
-inﬂow in 3Q16. We maintain Buy on SPH-H on its valuation and growth outlook;
+abilities of SPH, with RMB1.1bn OCF inflow in 3Q17, compared with RMB850m
+inflow in 3Q16. We maintain Buy on SPH-H on its valuation and growth outlook;
 Hold for SPH-A.
 Distribution decelerated, while manufacturing continues to deliver
 Pharma distribution registered a growth deceleration in 3Q17, registering YoY
 growth of -9.6%, compared to 10%/16% in 1H17/2016. On the contrary, organic
 growth at the manufacturing arm accelerated to 11% YoY in 3Q17, compared
 to 7%/5% in 1H17/2016. Executives expect to capture opportunities arising from
-the outﬂow of prescription drugs, supported by the derivative business, including
+the outflow of prescription drugs, supported by the derivative business, including
 commercial healthcare insurance and Yiyao e-commerce.
 Margin expansion driven by higher DS contributions
 GM/OPM increased to 12.1% and 3.9% in 3Q17, compared to 11.3%/3.4%
 in 3Q16. Gross margin expansion was driven by a growth acceleration at
 DS and a lower contribution from the IDS segment. OPM improvements are
 largely attributed to lower selling/marketing expenses and improving operational
-eﬃciency. Going forward, management expects ﬁnancing costs to trend upward
+efficiency. Going forward, management expects financing costs to trend upward
 slightly, on the back of an upward interest rate revision cycle. AR and inventory
-days were largely stable, registering 97/51 days in 3Q17, compared with 96/49
 days in 3Q16. AP days increased from 83 days in 3Q16 to 100 days this quarter,
 suggesting enhanced operational liquidity despite reform challenges.
 Maintaining PT of HKD24.5 for SPH-H and RMB21.3 for SPH-A; risks
 We derive our target price from 16.5x 2018E EPS. We believe SPH deserves a
 slight premium for its high earnings visibility and future acquisition opportunities,
 compared to peers trading at 15x with 12% growth in 2018E (vs. the 10% we
-Jack Hu, PhD
-Research Analyst
-+852-2203 6208
-Megan Xu
-Research Associate
-+852-2203 5928
-Companies featured
-Shanghai
-Pharmaceuticals
-(2607.HK),HKD20.15
-Buy
-2016A 2017E 2018E
-P/E (x)
-13.9
-16.1
-14.7
-EV/EBITDA (x)
-9.1
-7.8
-6.8
-Price/book (x)
-1.3
-1.4
-1.3
-Shanghai
-Pharmaceuticals
-(601607.SS),CNY25.02
-Hold
-2016A 2017E 2018E
-P/E (x)
-15.6
-23.6
-21.5
-EV/EBITDA (x)
-11.1
-11.4
-10.0
-Price/book (x)
-1.7
-2.0
-1.9
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+Deutsche Bank does and seeks to do business with companies covered in its residistributed on: 01/11/2017 05:51:07 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE ’ S
-REPUBLIC OF CHINA (“THE PRC”) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
+are located in appendix 1. MCI (P) 083/04/2017. The content may not be distributed in the people ' s
+REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC), EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
-Distributed on: 01/11/2017 05:51:07 GMT
-0bed7b6cf11c
-1 November 2017
 Health Care
 Shanghai Pharma
 model for SH Pharma). Upside/ downside risks include price cuts, M&A progress
-and ASP erosion in ﬂagship products.
-Page 2
-Deutsche Bank AG/Hong Kong
-1 November 2017
-Health Care
-Shanghai Pharma
+and ASP erosion in flagship products.
 3Q17 recap
 We highlight the following key updates during 3Q17:
-■
 Impact of two-invoice system: Management expects the gradual
 implementation to continue to exert pressure on its IDS segment, while
 the DS businesses are likely to enjoy above-industry growth and further
@@ -117,616 +65,47 @@ be close to RMB10bn in FY2018, as reform implementation accelerates.
 Nevertheless, GM is likely to continue to trend higher as the percentage
 of DS increases in the next few quarters. We remind investors that DS/
 IDS remain steady at c. 70% / 30%, respectively.
-■
-Distribution: DS delivered signiﬁcant outperformance vs. IDS in
+Distribution: DS delivered significant outperformance vs. IDS in
 provinces with policy implementation. According to the company, it
 achieved 8%+/ 14.7%/ 24.3% in Anhui/ Hunan and Shaanxi provinces
 respectively. For Anhui in particular, DS growth stood above 8% while
 IDS recorded only 4.5% during the same period. In the aforementioned
 three provinces, SPH achieved market share expansion as a result of a
 favorable policy.
-■
 Manufacturing business: SH Pharma achieved organic growth
 acceleration in its manufacturing franchise at 11%/ 7%/ 5% in
 3Q17/ 1H17/ 2016, respectively. Notably, sales from Vitaco registered
 RMB280m in 3Q17, while two more acquisitions from Gansu and Tianjin
 generated RMB65m to the top line.
-■
 On M&A: Shanghai Pharma is actively reviewing favorable targets for
 acquisitions, with the following selection criteria: 1) an expanding
 footprint in previously non-covered regions; 2) companies with a
-competitive edge in speciﬁc disease TA. On overseas acquisitions, SH
+competitive edge in specific disease TA. On overseas acquisitions, SH
 Pharma will focus mainly on companies with specialty pharma, patented
 drugs or products with high entry barriers.
-■
 Geographical breakdown: Zero mark-up policy in Beijing reduced
 overall ASP by 9-10% during Apr-Sep 17, and volume growth stood at
-approximately 10%, maintaining ﬂat YoY growth for Beijing revenue.
+approximately 10%, maintaining flat YoY growth for Beijing revenue.
 Executives believe that the majority of the negative impact is already
-reﬂected in the ﬁrst few months. Going forward, SH Pharma expects
+reflected in the first few months. Going forward, SH Pharma expects
 stable growth in the distribution arm from the Beijing region.
-Deutsche Bank AG/Hong Kong
-Page 3
-1 November 2017
-Health Care
-Shanghai Pharma
-Model updated: 01 November 2017
-Running the numbers
-Asia
-China
-Health Care
 Shanghai Pharmaceuticals
 Reuters: 2607.HK
 Bloomberg: 2607 HK
 Buy
-Price (31 Oct 17)
-HKD 20.15
-Target Price
-HKD 24.50
-52 Week range
-HKD 16.80 - 23.55
-Market cap (m)
-HKDm 54,182
- USDm 6,944.6
 Company Profile
 Shanghai Pharmaceuticals is the second-largest pharmaceutical
 distributor and third-largest pharmaceutical manufacturing
 company in China. Its pharmaceutical business includes
-chemical, biopharmaceutical and TCM products. Additionally, the
+chemical, biopharmaceutical and TCM products, Additionally, the
 company has the largest retail drug store operation in the eastern
 region of China.
-Price Performance
-Shanghai Pharmaceuticals
-HANG SENG INDEX (Rebased)
-Jan '16
-Jan '17
-Jul '16
-Jul '17
-15
-20
-25
-10
 Margin Trends
-EBITDA Margin
-EBIT Margin
-14
-15
-16
-17E
-18E
-19E
-3
-3.5
-4
-4.5
-5
-5.5
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-14
-15
-16
-17E
-18E
-19E
-0
-5
-10
-15
-20
-10
-9.5
-9.75
-10.25
-10.5
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-14
-15
-16
-17E
-18E
-19E
--10
--5
-0
--15
-5
-4
-5
-6
-7
-8
-Jack Hu, PhD
-+852 2203 6208
-jack.hu@db.com
-Fiscal year end 31-Dec
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Financial Summary
-DB EPS (CNY)
-0.80
-0.94
-1.09
-1.06
-1.16
-1.29
-Reported EPS (CNY)
-0.96
-1.07
-1.19
-1.19
-1.30
-1.42
-DPS (CNY)
-0.38
-0.38
-0.43
-0.42
-0.45
-0.50
-BVPS (CNY)
-10.3
-11.1
-11.8
-12.5
-13.4
-14.3
-Weighted average shares (m)
-2,689
-2,689
-2,689
-2,689
-2,689
-2,689
-Average market cap (CNYm)
-36,734
-41,687
-40,639
-46,033
-46,033
-46,033
-Enterprise value (CNYm)
-33,527
-40,102
-41,861
-46,611
-45,093
-43,969
-Valuation Metrics
-P/E (DB) (x)
-17.0
-16.5
-13.9
-16.1
-14.7
-13.3
-P/E (Reported) (x)
-14.2
-14.5
-12.7
-14.4
-13.2
-12.0
-P/BV (x)
-1.34
-1.22
-1.29
-1.37
-1.28
-1.20
-FCF Yield (%)
-nm
-nm
-nm
-5.2
-7.3
-6.6
-Dividend Yield (%)
-2.8
-2.5
-2.8
-2.4
-2.7
-2.9
-EV/Sales (x)
-0.4
-0.4
-0.3
-0.4
-0.3
-0.3
-EV/EBITDA (x)
-8.9
-9.2
-9.1
-7.8
-6.8
-6.0
-EV/EBIT (x)
-10.9
-11.0
-11.1
-9.3
-8.0
-7.1
-Income Statement (CNYm)
-Sales revenue
-92,399
-105,517
-120,765
-129,846
-134,467
-145,881
-Gross profit
-11,176
-12,538
-13,897
-16,045
-17,061
-18,631
-EBITDA
-3,749
-4,377
-4,609
-5,960
-6,662
-7,275
-Depreciation
-551
-576
-617
-725
-809
-885
-Amortisation
-135
-170
-207
-220
-221
-189
-EBIT
-3,063
-3,631
-3,785
-5,014
-5,632
-6,201
-Net interest income(expense)
--396
--509
--525
--1,145
--1,328
--1,481
-Associates/affiliates
-413
-617
-1,233
-647
-712
-783
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
-720
-433
-426
-101
-54
-58
-Profit before tax
-3,800
-4,172
-4,919
-4,617
-5,069
-5,562
-Income tax expense
-808
-807
-809
-920
-1,014
-1,112
-Minorities
-401
-487
-633
-491
-568
-623
-Other post-tax income/(expense)
-0
-0
--280
-0
-0
-0
-Net profit
-2,591
-2,877
-3,196
-3,206
-3,488
-3,827
-DB adjustments (including dilution)
--430
--347
--271
--350
--360
--370
-DB Net profit
-2,161
-2,530
-2,926
-2,856
-3,128
-3,457
-Cash Flow (CNYm)
-Cash flow from operations
-578
-611
-1,218
-3,643
-4,410
-3,919
-Net Capex
--1,291
--1,720
--2,119
--1,266
--1,061
--889
-Free cash flow
--713
--1,110
--901
-2,376
-3,349
-3,029
-Equity raised/(bought back)
-0
-0
-0
-11
-0
-0
-Dividends paid
--1,024
--1,030
--1,156
--1,122
--1,221
--1,339
-Net inc/(dec) in borrowings
-807
-2,163
-1,675
-2,621
-2,000
-2,000
-Other investing/financing cash flows
--525
-64
-84
--759
--734
--707
-Net cash flow
--1,455
-87
--298
-3,128
-3,394
-2,983
-Change in working capital
--2,339
--2,704
--2,488
--694
-130
--742
-Balance Sheet (CNYm)
-Cash and other liquid assets
-11,608
-12,039
-11,967
-15,095
-18,489
-21,472
-Tangible fixed assets
-5,473
-6,580
-7,460
-8,803
-9,854
-10,650
-Goodwill/intangible assets
-6,356
-6,872
-8,685
-8,537
-8,392
-8,288
-Associates/investments
-2,934
-3,916
-4,501
-5,128
-5,820
-6,583
-Other assets
-37,970
-44,938
-50,131
-52,668
-52,883
-59,733
-Total assets
-64,341
-74,344
-82,743
-90,231
-95,439
-106,726
-Interest bearing debt
-8,059
-10,492
-12,477
-15,099
-17,099
-19,099
-Other liabilities
-25,183
-30,044
-33,431
-35,712
-36,085
-42,261
-Total liabilities
-33,241
-40,536
-45,908
-50,810
-53,183
-61,360
-Shareholders' equity
-27,822
-29,930
-31,623
-33,718
-35,985
-38,472
-Minorities
-3,277
-3,878
-5,212
-5,702
-6,270
-6,893
-Total shareholders' equity
-31,099
-33,808
-36,834
-39,420
-42,255
-45,366
-Net debt
--3,550
--1,547
-510
-4
--1,390
--2,373
-Key Company Metrics
-Sales growth (%)
-18.1
-14.2
-14.5
-7.5
-3.6
-8.5
-DB EPS growth (%)
-4.5
-17.1
-15.6
--2.4
-9.5
-10.5
-EBITDA Margin (%)
-4.1
-4.1
-3.8
-4.6
-5.0
-5.0
-EBIT Margin (%)
-3.3
-3.4
-3.1
-3.9
-4.2
-4.3
-Payout ratio (%)
-39.5
-35.8
-36.2
-35.0
-35.0
-35.0
-ROE (%)
-9.6
-10.0
-10.4
-9.8
-10.0
-10.3
-Capex/sales (%)
-1.4
-1.6
-1.8
-1.0
-0.8
-0.6
-Capex/depreciation (x)
-1.9
-2.3
-2.6
-1.3
-1.0
-0.8
-Net debt/equity (%)
--11.4
--4.6
-1.4
-0.0
--3.3
--5.2
-Net interest cover (x)
-7.7
-7.1
-7.2
-4.4
-4.2
-4.2
 Source: Company data, Deutsche Securities estimates
-Page 4
-Deutsche Bank AG/Hong Kong
-1 November 2017
-Health Care
-Shanghai Pharma
-Model updated: 01 November 2017
-Running the numbers
-Asia
-China
-Health Care
 Shanghai Pharmaceuticals
 Reuters: 601607.SS
 Bloomberg: 601607 CH
 Hold
-Price (31 Oct 17)
-CNY 25.02
-Target Price
-CNY 21.30
-52 Week range
-CNY 19.08 - 28.88
-Market cap (m)
-CNYm 67,277
- USDm 10,150
 Company Profile
 Shanghai Pharmaceuticals is the second-largest pharmaceutical
 distributor and third-largest pharmaceutical manufacturing
@@ -734,629 +113,44 @@ company in China. Its pharmaceutical business includes
 chemical, biopharmaceutical and TCM products. Additionally, the
 company has the largest retail drug store operation in the eastern
 region of China.
-Price Performance
-Shanghai Pharmaceuticals
-Shanghai Composite (Rebased)
-Jan '16
-Jan '17
-Jul '16
-Jul '17
-15
-20
-25
-30
-10
-Margin Trends
-EBITDA Margin
-EBIT Margin
-14
-15
-16
-17E
-18E
-19E
-3
-3.5
-4
-4.5
-5
-5.5
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-14
-15
-16
-17E
-18E
-19E
-0
-5
-10
-15
-20
-9.5
-10
-10.5
-11
-11.5
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-14
-15
-16
-17E
-18E
-19E
--10
--5
-0
--15
-5
-4
-5
-6
-7
-8
-Jack Hu, PhD
-+852 2203 6208
-jack.hu@db.com
-Fiscal year end 31-Dec
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Financial Summary
-DB EPS (CNY)
-0.80
-0.94
-1.19
-1.06
-1.16
-1.29
-Reported EPS (CNY)
-0.96
-1.07
-1.29
-1.19
-1.30
-1.42
-DPS (CNY)
-0.38
-0.38
-0.43
-0.42
-0.45
-0.50
-BVPS (CNY)
-10.3
-11.1
-11.8
-12.5
-13.4
-14.3
-Weighted average shares (m)
-2,689
-2,689
-2,689
-2,689
-2,689
-2,689
-Average market cap (CNYm)
-35,986
-56,775
-49,875
-67,277
-67,277
-67,277
-Enterprise value (CNYm)
-32,780
-55,189
-51,096
-67,855
-66,336
-65,213
-Valuation Metrics
-P/E (DB) (x)
-16.7
-22.4
-15.6
-23.6
-21.5
-19.5
-P/E (Reported) (x)
-13.9
-19.7
-14.3
-21.0
-19.3
-17.6
-P/BV (x)
-1.58
-1.79
-1.66
-2.00
-1.87
-1.75
-FCF Yield (%)
-nm
-nm
-nm
-3.5
-5.0
-4.5
-Dividend Yield (%)
-2.8
-1.8
-2.3
-1.7
-1.8
-2.0
-EV/Sales (x)
-0.4
-0.5
-0.4
-0.5
-0.5
-0.4
-EV/EBITDA (x)
-8.7
-12.6
-11.1
-11.4
-10.0
-9.0
-EV/EBIT (x)
-10.7
-15.2
-13.5
-13.5
-11.8
-10.5
-Income Statement (CNYm)
-Sales revenue
-92,399
-105,517
-120,765
-129,846
-134,467
-145,881
-Gross profit
-11,176
-12,538
-13,897
-16,045
-17,061
-18,631
-EBITDA
-3,749
-4,377
-4,609
-5,960
-6,662
-7,275
-Depreciation
-551
-576
-617
-725
-809
-885
-Amortisation
-135
-170
-207
-220
-221
-189
-EBIT
-3,063
-3,631
-3,785
-5,014
-5,632
-6,201
-Net interest income(expense)
--396
--509
--525
--1,145
--1,328
--1,481
-Associates/affiliates
-413
-617
-1,233
-647
-712
-783
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
-720
-433
-426
-101
-54
-58
-Profit before tax
-3,800
-4,172
-4,919
-4,617
-5,069
-5,562
-Income tax expense
-808
-807
-809
-920
-1,014
-1,112
-Minorities
-401
-487
-633
-491
-568
-623
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-2,591
-2,877
-3,476
-3,206
-3,488
-3,827
-DB adjustments (including dilution)
--430
--347
--271
--350
--360
--370
-DB Net profit
-2,161
-2,530
-3,206
-2,856
-3,128
-3,457
-Cash Flow (CNYm)
-Cash flow from operations
-578
-611
-1,218
-3,643
-4,410
-3,919
-Net Capex
--1,291
--1,720
--2,119
--1,266
--1,061
--889
-Free cash flow
--713
--1,110
--901
-2,376
-3,349
-3,029
-Equity raised/(bought back)
-0
-0
-0
-11
-0
-0
-Dividends paid
--1,024
--1,030
--1,156
--1,122
--1,221
--1,339
-Net inc/(dec) in borrowings
-807
-2,163
-1,675
-2,621
-2,000
-2,000
-Other investing/financing cash flows
--525
-64
-84
--759
--734
--707
-Net cash flow
--1,455
-87
--298
-3,128
-3,394
-2,983
-Change in working capital
--2,339
--2,704
--2,488
--694
-130
--742
-Balance Sheet (CNYm)
-Cash and other liquid assets
-11,608
-12,039
-11,967
-15,095
-18,489
-21,472
-Tangible fixed assets
-5,473
-6,580
-7,460
-8,803
-9,854
-10,650
-Goodwill/intangible assets
-6,356
-6,872
-8,685
-8,537
-8,392
-8,288
-Associates/investments
-2,934
-3,916
-4,501
-5,128
-5,820
-6,583
-Other assets
-37,970
-44,938
-50,131
-52,668
-52,883
-59,733
-Total assets
-64,341
-74,344
-82,743
-90,231
-95,439
-106,726
-Interest bearing debt
-8,059
-10,492
-12,477
-15,099
-17,099
-19,099
-Other liabilities
-25,183
-30,044
-33,431
-35,712
-36,085
-42,261
-Total liabilities
-33,241
-40,536
-45,908
-50,810
-53,183
-61,360
-Shareholders' equity
-27,822
-29,930
-31,623
-33,718
-35,985
-38,472
-Minorities
-3,277
-3,878
-5,212
-5,702
-6,270
-6,893
-Total shareholders' equity
-31,099
-33,808
-36,834
-39,420
-42,255
-45,366
-Net debt
--3,550
--1,547
-510
-4
--1,390
--2,373
-Key Company Metrics
-Sales growth (%)
-18.1
-14.2
-14.5
-7.5
-3.6
-8.5
-DB EPS growth (%)
-4.5
-17.1
-26.7
--10.9
-9.5
-10.5
-EBITDA Margin (%)
-4.1
-4.1
-3.8
-4.6
-5.0
-5.0
-EBIT Margin (%)
-3.3
-3.4
-3.1
-3.9
-4.2
-4.3
-Payout ratio (%)
-39.5
-35.8
-33.3
-35.0
-35.0
-35.0
-ROE (%)
-9.6
-10.0
-11.3
-9.8
-10.0
-10.3
-Capex/sales (%)
-1.4
-1.6
-1.8
-1.0
-0.8
-0.6
-Capex/depreciation (x)
-1.9
-2.3
-2.6
-1.3
-1.0
-0.8
-Net debt/equity (%)
--11.4
--4.6
-1.4
-0.0
--3.3
--5.2
-Net interest cover (x)
-7.7
-7.1
-7.2
-4.4
-4.2
-4.2
 Source: Company data, Deutsche Securities estimates
-Deutsche Bank AG/Hong Kong
-Page 5
-1 November 2017
 Health Care
 Shanghai Pharma
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Shanghai Pharmaceuticals
-601607.SS
-25.02 (CNY) 31 Oct 2017
-14
-Shanghai Pharmaceuticals
-2607.HK
-20.15 (HKD) 31 Oct 2017
-13, 14
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg, and other vendors. Other
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at http://gm.db.com/ger/disclosure/
-DisclosureDirectory.eqsr. Aside from within this report, important conﬂict disclosures can also be found at https://gm/db.com/equities under the "Disclosures Lookup" and "Legal"
-tabs. Investors are strongly encouraged to review this information before investing.
 Important Disclosures Required by U.S. Regulators
 Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
 See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
-14.
-Deutsche Bank and/or its aﬃliate(s) has received non-investment banking related compensation from this
+Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this
 company within the past year.
 Important Disclosures Required by Non-U.S. Regulators
 Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
 See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
-13.
-As of the end of the preceding week, Deutsche Bank and/or its aﬃliate(s) owns one percent or more of a class of
+As of the end of the preceding week, Deutsche Bank and/or its affiliate(s) owns one percent or more of a class of
 common equity securities of this company.
 For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
 research, please see the most recently published company report or visit our global disclosure look-up page on our website
-at http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst about the subject
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst about the subject
 issuers and the securities of those issuers. In addition, the undersigned lead analyst has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Jack Hu
-Page 6
-Deutsche Bank AG/Hong Kong
-1 November 2017
-Health Care
-Shanghai Pharma
+compensation for providing a specific recommendation or view in this report. Jack Hu
 Historical recommendations and target price. Shanghai Pharmaceuticals (601607.SS)
-(as of 10/31/2017)
 Current Recommendations
 Buy
 Hold
 Sell
 Not Rated
 Suspended Rating
-** Analyst is no longer at
 Deutsche Bank
-Date
-Security price
-1 2
-3 4
-5
-6
-Jan '16
-May '16
-Sep '16
-Jan '17
-May '17
-Sep '17
-0.00
-10.00
-20.00
-30.00
-40.00
-1.
 03/07/2016
 Hold, Target Price Change CNY 15,10 Jack Hu, Ph.D
-4.
 08/15/2016
 Hold, Target Price Change CNY 18,10 Jack Hu, Ph.D
-2.
 03/21/2016
 Hold, Target Price Change CNY 14,80 Linc Yiu**
-5.
 09/14/2016
 Hold, Target Price Change CNY 19,80 Jack Hu, Ph.D
-3.
 07/31/2016
 Hold, Target Price Change CNY 16,90 Jack Hu, Ph.D
-6.
 01/08/2017
 Hold, Target Price Change CNY 21,30 Jack Hu, Ph.D
 Historical recommendations and target price. Shanghai Pharmaceuticals (2607.HK)
@@ -1367,71 +161,30 @@ Hold
 Sell
 Not Rated
 Suspended Rating
-** Analyst is no longer at
 Deutsche Bank
-Date
-Security price
-1
-2 3
-4
-5 6
-7
-8
-9
-10
-Jan '16
-May '16
-Sep '16
-Jan '17
-May '17
-Sep '17
-0.00
-5.00
-10.00
-15.00
-20.00
-25.00
-30.00
-1.
 01/31/2016
 Hold, Target Price Change HKD 17,60 Jack Hu, Ph.D
-6.
 08/15/2016
 Hold, Target Price Change HKD 20,10 Jack Hu, Ph.D
-2.
 03/07/2016
 Hold, Target Price Change HKD 16,80 Jack Hu, Ph.D
-7.
-08/28/2016
 Hold, Target Price Change HKD 22,00 Jack Hu, Ph.D
-3.
+08/28/2016
+Upgraded to Buy, Target Price Change HKD 24,00 Jack
 03/21/2016
 Hold, Target Price Change HKD 16,30 Jack Hu, Ph.D
-8.
 01/08/2017
-Upgraded to Buy, Target Price Change HKD 24,00 Jack
 Hu, Ph.D
-4.
-04/29/2016
 Hold, Target Price Change HKD 17,10 Jack Hu, Ph.D
-9.
 04/28/2017
 Buy, Target Price Change HKD 25,10 Jack Hu, Ph.D
-5.
-07/31/2016
 Hold, Target Price Change HKD 18,80 Jack Hu, Ph.D
-10. 09/20/2017
 Buy, Target Price Change HKD 24,50 Jack Hu, Ph.D
-Deutsche Bank AG/Hong Kong
-Page 7
-1 November 2017
-Health Care
-Shanghai Pharma
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -1440,35 +193,30 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Page 8
-Deutsche Bank AG/Hong Kong
-1 November 2017
 Health Care
 Shanghai Pharma
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of these websites.
-?
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies or otherwise.
-Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
-paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment banking, trading
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
 and principal trading revenues.
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
-ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high conviction belief
 by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
 less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
 our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
@@ -1476,233 +224,197 @@ or events that may have a near-term or medium-term impact on the market price of
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
-the frequency of changes in market conditions and in both general and company speciﬁc economic prospects make it
-diﬃcult to update research at deﬁned intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
 the Research Department Management and as such the majority of reports are published at irregular intervals. This report
-is provided for informational purposes only and does not take into account the particular investment objectives, ﬁnancial
-situations, or needs of individual clients. It is not an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments
-or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst ’ s
-judgment. The ﬁnancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions. Prices and availability of ﬁnancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
+or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst ' s
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
 instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
-aﬀect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
 are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
 and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
 The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
 to our research is available on our website under Disclaimer found on the Legal tab.
-??
-Deutsche Bank AG/Hong Kong
-Page 9
-1 November 2017
 Health Care
 Shanghai Pharma
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed rate instruments (thus receiving these cash ﬂows),
-increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus cause a loss.
-The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the higher will be the
-loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the most common adverse
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
 macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
-(including changes in assets holding limits for diﬀerent types of investors), changes in tax policies, currency convertibility
-(which may constrain currency conversion, repatriation of proﬁts and/or the liquidation of positions), and settlement issues
-related to local clearing houses are also important risk factors to be considered. The sensitivity of ﬁxed income instruments
-to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to FX depreciation, or to
-speciﬁed interest rates – these are common in emerging markets. It is important to note that the index ﬁxings may -- by
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates – these are common in emerging markets. It is important to note that the index fixings may -- by
 construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
-proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. It is also important to acknowledge
-that funding in a currency that diﬀers from the currency in which coupons are denominated carries FX risk. Naturally,
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
 options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
 The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
 including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
-investors should take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
 contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
 result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
 than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
-to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options”, at http://
-www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the website please contact
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
 your Deutsche Bank representative for a copy of this important document.
-?
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
-exchange rates can be volatile and are subject to large ﬂuctuations; ( ii) the value of currencies may be aﬀected by
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
 numerous market factors, including world and national economic, political and regulatory events, events in equity and
 debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are
-aﬀected by the currency of an underlying security, eﬀectively assume currency risk.
-?
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
-investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at https://
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
 gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
 provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
 Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
 as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
 decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
 strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Page 10
-Deutsche Bank AG/Hong Kong
-1 November 2017
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 Health Care
 Shanghai Pharma
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
-??
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
 Financial Supervisory Authority.
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
-??
 India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
 as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
 warnings from the SEBI for breaches of Indian regulations.
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period.
 Korea: Distributed by Deutsche Securities Korea Co.
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raﬄes
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
 Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
 from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor, expert investor or institutional investor (as deﬁned in the applicable Singapore laws and regulations),
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
 they accept legal responsibility to such person for its contents.
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
-Deutsche Bank AG/Hong Kong
-Page 11
-1 November 2017
 Health Care
 Shanghai Pharma
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
 the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
 Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
 any appraisal or evaluation activity requiring a license in the Russian Federation.
-?
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
-the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the ﬁnancial services activities that
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
 fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are only available to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any ﬁnancial product
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
 referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
-refer to Australian speciﬁc research disclosures and related information at https://australia.db.com/australia/content/
 research-information.html
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
 Corporations Act and New Zealand Financial Advisors Act respectively.
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2017 Deutsche Bank AG
-Page 12
-Deutsche Bank AG/Hong Kong
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
+Steve Pollard
 Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
 Michael Spencer
 Head of APAC Research
-Global Head of Economics
-Steve Pollard
+Global Chief Operating Officer
 Head of Americas Research
+Global Head of Economics
+Research
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+60329 Frankfurt am Main
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500

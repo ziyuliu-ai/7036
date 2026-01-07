@@ -1,441 +1,175 @@
-证券研究报告·公司点评报告·软件开发 
- 
-东吴证券研究所 
- 
- 1 / 5 
-请务必阅读正文之后的免责声明部分 
- 
-同花顺（300033） 
-2025 年半年报点评：营收净利双高增长，AI
-生态构筑护城河  
- 
-2025 年08 月22 日 
-  
-证券分析师  孙婷
-执业证书：S0600524120001
-sunt@dwzq.com.cn
-证券分析师  张良卫
-执业证书：S0600516070001
-021-60199793
-zhanglw@dwzq.com.cn
-证券分析师  武欣姝
-执业证书：S0600524060001
-wuxs@dwzq.com.cn
- 
-  
-股价走势 
- 
- 
-市场数据 
- 
-收盘价(元) 
-400.82
-一年最低/最高价 
-93.80/426.88
-市净率(倍) 
-33.25
-流通A股市值(百万元)
-110,428.15
-总市值(百万元) 
-215,480.83
- 
- 
-基础数据 
- 
-每股净资产(元,LF) 
-12.05
-资产负债率(%,LF) 
-29.72
-总股本(百万股) 
-537.60
-流通A 股(百万股) 
-275.51
- 
- 
-相关研究 
- 
-《同花顺(300033)：2025 年一季报点
-评：整体业绩稳健，成本控制较强》 
-2025-04-25
-《同花顺(300033)：2024 年年报点评：
-市场活跃拉升整体业绩，AI B+C 端产
-品力稳健提升》 
-2025-02-25
- 
-买入（维持） 
-盈利预测与估值 
-2023A 
-2024A 
-2025E 
-2026E 
-2027E 
-营业总收入（百万元） 
-3,564  
-4,187  
-5,589  
-6,808  
-8,201  
-同比（%） 
-0.14% 
-17.47% 
-33.49% 
-21.81% 
-20.46% 
-归母净利润（百万元） 
-1,402  
-1,823  
-2,572  
-3,392  
-4,265  
-同比（%） 
--17.07% 
-30.00% 
-41.06% 
-31.87% 
-25.76% 
-EPS-最新摊薄（元/股） 
-2.61  
-3.39  
-4.78  
-6.31  
-7.93  
-P/E（现价&最新摊薄） 
-153.64  
-118.18  
-83.78  
-63.53  
-50.52  
-事件：公司发布2025 年半年报，实现营业总收入同比+28%至17.8 亿元，
-归母净利润同比+38%至5.0 亿元；2025Q2 单季度，公司实现营业总收入
-同比+34%至10.3 亿元，归母净利润同比+47%至3.8 亿元。 
-投资要点 
-◼ 市场持续活跃，互联网广告业务受益明显。分业务看，2025H1，①增值
-电信业务收入同比+12%至8.6 亿元，广告及互联网推广服务收入同比
-+83%至6.4 亿元； 2025 年上半年资本市场活跃，A 股日均交易额同比
-+60%至13,669 亿元，公司将产品与大模型技术深度融合，用户粘性持
-续改善，广告及互联网推广服务、增值电信业务直接受益。我们预计部
-分预售现金及业务款项未计入利润表内：25H1 公司合同负债同比+92%
-至23 亿元（为历史最高值），经营活动产生的现金流量净额同比+275%
-至11 亿元，销售商品、提供劳务收到的现金同比+73%至27 亿元。②
-软件销售及维护服务收入同比+8%至1.1 亿元，业务收入较为稳定；基
-金代销收入同比-0.04%至1.7 亿元，我们预计主要系基金管理费率、销
-售服务费率等基金投资成本持续下降，且渠道端分成比例有所变化。 
-◼ 整体成本上行，销售费用增长较快。①营业成本同比+10%至2.3 亿元；
-②研发费用同比-2%至5.8 亿元，研发费用率同比-10pct 至32.6%；③销
-售费用同比+38%至3.4 亿元，销售费用率同比+1.4pct 至18.8%，主要
-系公司加大营销力度，宣传推广费、销售人员薪酬等增加；④管理费用
-同比+9%至1.2 亿元，管理费用率同比-1.2pct 至7.0%。 
-◼ 构建AI+金融全新生态，巩固金融科技领先地位：①问财深度思考2.0
-实现重大升级：从单一推理模型演进为具备自主规划与推理能力的智能
-体，打造更理性的投资决策助手，引领AI 投顾迈入“理性思考”新阶
-段。②虚拟人技术取得关键突破：自研虚拟人手语生成系统获专利授权，
-融合深度学习与知识图谱实现高精度手语合成，已在金融营销场景成功
-落地。③智能投研平台AiFinD 持续优化：依托AI 技术对海量金融数
-据进行深度挖掘与智能分析，为机构投资者提供更全面、精准的投研支
-持。④发布全球首个深度融合实际业务的大模型金融评估基准
-BizFinBench，涵盖数值计算、链式推理、信息抽取、趋势预测与知识问
-答五大核心能力。 
-◼ 盈利预测与投资评级：基于资本市场活跃度持续向好，利好公司各项业
-务收入增长，我们小幅上调此前盈利预测，预计2025-2027 年公司归母
-净利润分别为26/34/43 亿元（前值为24/31/39 亿元），分别同比
-+41%/+32%/+26%，对应PE 分别为84/64/51 倍，维持“买入”评级。 
-◼ 风险提示：业务发展不及预期，AI 技术及应用发展不及预期。 
--5%
-28%
-61%
-94%
-127%
-160%
-193%
-226%
-259%
-292%
-325%
-2024/8/22
-2024/12/21
-2025/4/21
-2025/8/20
-同花顺
-沪深300
- 
-请务必阅读正文之后的免责声明部分 
-公司点评报告 
-东吴证券研究所 
- 
- 2 / 5 
-图1：2020-2025H1 同花顺营业总收入及增速 
- 
-图2：2020-2025H1 同花顺归母净利润及增速 
- 
- 
- 
-数据来源：Wind，东吴证券研究所 
- 
-数据来源：Wind，东吴证券研究所 
- 
-图3：2020-2025H1 同花顺合同负债及增速 
- 
-图4：2020-2025H1 同花顺销售、管理、研发费用率 
- 
- 
- 
-数据来源：Wind，东吴证券研究所 
- 
-数据来源：Wind，东吴证券研究所 
- 
-图5：2020-2025H1 同花顺经营活动产生的现金流量净额及增速 
- 
-数据来源：Wind，东吴证券研究所 
- 
-请务必阅读正文之后的免责声明部分 
-公司点评报告 
-东吴证券研究所 
- 
- 3 / 5 
- 
-图6：2020-2025H1 同花顺销售商品、提供劳务收到的现金及增速 
- 
-数据来源：Wind，东吴证券研究所 
-图7：2020-2025H1 同花顺分类业务收入（单位：亿元） 
- 
-数据来源：Wind，东吴证券研究所 
- 
- 
- 
- 
- 
- 
- 
-请务必阅读正文之后的免责声明部分 
-公司点评报告 
-东吴证券研究所 
- 
- 4 / 5 
-图8：同花顺盈利预测表（截至2025 年8 月22 日收盘） 
- 
-数据来源：公司公告，Wind，东吴证券研究所 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-单位：百万元
-2020
-2021
-2022
-2023
-2024
-2025E
-2026E
-2027E
-营业总收入
-2,844
-3,510
-3,559
-3,564
-4,187
-5,589
-6,808
-8,201
-增值电信业务收入
-1,285
-1,618
-1,538
-1,529
-1,616
-1,977
-2,393
-2,798
-广告及互联网业务推广服务收入
-836
-1,284
-1,527
-1,359
-2,025
-2,919
-3,648
-4,511
-软件销售及维护收入
-241
-296
-285
-438
-356
-355
-354
-353
-基金销售及其他交易手续费收入
-482
-312
-210
-239
-190
-338
-412
-538
-投资收益
-16
-0
-0
-1
-21
-21
-21
-21
-公允价值变动损益
-0
-0
-0
-0
-0
-0
-0
-0
-营业支出
-1,114
-1,467
-1,828
-2,125
-2,318
-2,852
-3,199
-3,662
-归属于母公司股东净利润
-1,724
-1,911
-1,691
-1,402
-1,823
-2,572
-3,392
-4,265
-归属于母公司股东净资产
-5,224
-6,477
-7,245
-7,319
-7,974
-8,631
-9,405
-10,256
-营业收入增速
-63.23%
-23.43%
-1.40%
-0.14%
-17.47%
-33.49%
-21.81%
-20.46%
-归属于母公司股东净利润增速
-92.05%
-10.86%
--11.51%
--17.07%
-30.00%
-41.06%
-31.87%
-25.76%
-ROE
-37.42%
-32.67%
-24.65%
-19.26%
-23.84%
-30.98%
-37.61%
-43.39%
-归属于母公司股东净资产增速
-30.93%
-23.97%
-11.87%
-1.02%
-8.95%
-8.24%
-8.96%
-9.05%
-EPS（元/股）
-3.21
-3.56
-3.15
-2.61
-3.39
-4.78
-6.31
-7.93
-BVPS（元/股）
-9.72
-12.05
-13.48
-13.61
-14.83
-16.06
-17.49
-19.08
-P/E（A）
-124.99
-112.75
-127.41
-153.64
-118.18
-83.78
-63.53
-50.52
-P/B（A）
-41.25
-33.27
-29.74
-29.44
-27.02
-24.97
-22.91
-21.01
-免责及评级说明部分 
- 
- 
-免责声明 
-东吴证券股份有限公司经中国证券监督管理委员会批准，已具备证券投资咨询业务资格。 
-本研究报告仅供东吴证券股份有限公司（以下简称“本公司”）的客户使用。本公司不
-会因接收人收到本报告而视其为客户。在任何情况下，本报告中的信息或所表述的意见并不
-构成对任何人的投资建议，本公司及作者不对任何人因使用本报告中的内容所导致的任何后
-果负任何责任。任何形式的分享证券投资收益或者分担证券投资损失的书面或口头承诺均为
-无效。 
-在法律许可的情况下，东吴证券及其所属关联机构可能会持有报告中提到的公司所发行
-的证券并进行交易，还可能为这些公司提供投资银行服务或其他服务。 
-市场有风险，投资需谨慎。本报告是基于本公司分析师认为可靠且已公开的信息，本公
-司力求但不保证这些信息的准确性和完整性，也不保证文中观点或陈述不会发生任何变更，
-在不同时期，本公司可发出与本报告所载资料、意见及推测不一致的报告。 
-本报告的版权归本公司所有，未经书面许可，任何机构和个人不得以任何形式翻版、复
-制和发布。经授权刊载、转发本报告或者摘要的，应当注明出处为东吴证券研究所，并注明
-本报告发布人和发布日期，提示使用本报告的风险，且不得对本报告进行有悖原意的引用、
-删节和修改。未经授权或未按要求刊载、转发本报告的，应当承担相应的法律责任。本公司
-将保留向其追究法律责任的权利。 
- 
-东吴证券投资评级标准 
-投资评级基于分析师对报告发布日后6 至12 个月内行业或公司回报潜力相对基准表现
-的预期（A 股市场基准为沪深 300 指数，香港市场基准为恒生指数，美国市场基准为标普 
-500 指数，新三板基准指数为三板成指（针对协议转让标的）或三板做市指数（针对做市转
-让标的），北交所基准指数为北证50 指数），具体如下： 
-公司投资评级： 
-买入：预期未来6 个月个股涨跌幅相对基准在15%以上； 
-增持：预期未来6 个月个股涨跌幅相对基准介于5%与15%之间； 
-中性：预期未来 6 个月个股涨跌幅相对基准介于-5%与5%之间； 
-减持：预期未来 6 个月个股涨跌幅相对基准介于-15%与-5%之间； 
-卖出：预期未来 6 个月个股涨跌幅相对基准在-15%以下。 
-行业投资评级： 
-增持： 预期未来6 个月内，行业指数相对强于基准5%以上； 
-中性： 预期未来6 个月内，行业指数相对基准-5%与5%； 
-减持： 预期未来6 个月内，行业指数相对弱于基准5%以上。 
-我们在此提醒您，不同证券研究机构采用不同的评级术语及评级标准。我们采用的是相
-对评级体系，表示投资的相对比重建议。投资者买入或者卖出证券的决定应当充分考虑自身
-特定状况，如具体投资目的、财务状况以及特定需求等，并完整理解和使用本报告内容，不
-应视本报告为做出投资决策的唯一因素。 
-东吴证券研究所 
-苏州工业园区星阳街5 号 
-邮政编码：215021 
-传真：（0512）62938527 
-公司网址： http://www.dwzq.com.cn 
+第一次 (
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+”『Piers a ”『Piers”『Piers”
+· 『上帝』『上帝』『上帝』
+· 『『上『上『上『上『上『上『上『上『上『
+a ""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+ē."Pē
+e”E−a”E−a”E−a”E−a”E−a”E−a”E−a”E−a”E−a”E−a
+e”⊩e”——in—in—in—in—in—in—in—in—in—in—in—in—in
+· line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all lin
+inapietele. 17E
+· "E
+in PipeliniPipeliniPipelini
+『『『『『『『『『『『『『『『『『『『
+e”E÷R
+”『上
+電車で表現で表現で表現で表現であった。『in a la nuire』
+” “Page” a”in a”in a”in a”in a”in a”in a”in a”i
+” “皇祖” “是” “自” “自” “自” “自” “自” “自” “自” “自” “自” “自
+i „F
+『
+- 『
+- 『
+- 『
+- 『
+- 『
+- 『
+- 『
+-
+” = The nu in le
+a Tie näre när länär när när när när när när när när när
+・・・・・・・・・・・・・・・・・・・
+illa quaPilla gir
+事事。『ina a juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina juil『ina
+『『『『『『『『『『『『『『『『『『『
+事事。『上電子記録『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子記録の『上電子
+事事で記載を記載した。『in la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni
+音り『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『heipelair』『
+『上電子『上間では「上間で「上間で「上間でにににににににににににに
+『『記事の記』と『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、
+· "E" = ""
+事事で記しています。『ina la la la la la la la la la la la la la
+系。
+· · · · · · · · · · · · · · · · · · ·
+・『上『上『上『上『上『上『上『上『上『上
+- III-Paul noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noine noin
+事事。『事事の記憶を引作。『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・
+『上で記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記
+。『上間・『上間・『上間・『上間・『上間・『上間・『上間・『上間・『上間・『上間・
+長記・記・記・記・記・記・記・記・記・記
+· III-liPagnalinianianianianianianianianianianianiania
+音響・電子電子電子電子電子電子
+事事情報『上電子記録『正記』
+” “『ina Para” “
+事事。『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellang nire』『inellan
+” “Ra” Pia” Pia” Pia” Pia” Pia” Pia” Pia” Pi
+事事。『中で記載を記載を記載します。『中で記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を記
+·『上電子記憶報子記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記
+『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+" " " " " " " " " " " " " " " " " " "
+。で開からで。で。で。で。で。で。で。で。で。で。で。で。で。
+■ III.
+” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Parine” “Pa
+。1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1Pinghedir1P
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+・『上『上『上『上『上『上『上『上『上『上
+in alle alle alle alle alle alle alle all
+- 『・『・『・『・『ド『ド『ド『ド『ド『ド
+· Bage nikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinika
+näpäääääääääääääääääääääääääääääääääää
+= Timea-iin equil
+”——『『in a ne ne ne ne ne ne ne ne ne ne ne ne ne
+” = The arm e në në në në në në në në në në në në në
+『・『・『ド『ド『ド『ド『ド『ド『ド『ド
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+· Bage all all all all all all all all all al
+” “『in a la n in la n la n la n la n la n la
+” “a” “a” “a” “a” “a” “a” “a” “a” “a” “a
+.『上電子記憶記述『上電子記憶記述』
+『headalleadineadineadineadineadineadineadineadin
+- 『hull-naire』『inal-naire』『inal-naire』
+inia.
+事事。『ina a la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+。『上記』『上記』『上記』
+男子では、では、では、では、では、では、では、では、では、では、
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+事事。『記事句』『記事句』『記事句』
+· Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bag
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.Pape a.P
+- Tin Air nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar
+aire aire aire aire aire aire aire aire
+制
+- The line line line line line line line lin
+音。『『記『記『記『記『記『記『記『にににに
+a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Ti
+。『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『一で、『一で、『一で、『一で、『一で、『一で、
+- 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・
+- The The Arie of Leading and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and Large and
+音。Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle arin Barle ari
+nirellarie.
+”『上間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中
+”『上電子』『上電子』
+『上で記録のでは、『上で記録のでは、では、「上で記録のでは、「上で記録のでは、「上で記録のでは、「上で記録のです。」」。
+事事情報『正明中語『正明中語『正明中語『正明中語
+『『『『『『『『『『『『『『『『『『『
+『・『・『上間『上間『上間『上間『上間『上間『
+- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-line- Time a-l
+en la Pille a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right a li Right
+· Barline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline alline a
+- """" a The
+- ""
+。Pinarie1. in
+- " " " " " " " " " " " " " " " " " " "
+『『『『『『『『『『『『『『『『『『『
+『『『『『『『『『『『『『『『『『『『
+司事
+・
+・
+は
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+· "E" a" "E" "E" "E" "E" "E" "E" "E" "E"
+a na a na na na na na na na na na na na
+· "- "- "- "- "- "- "- "- "- "- "- "- "-
+” ————————————————————————————————————
+” 『Pina na na na na na na na na na na na na n
+· 『『上電子』『直山 『上間 『中間 『中間 『中間 『中間 『中間 『中間 『中間 『中間 『中間 『中
+inënënënënënënënënënënënënënënënënënënë
+ar⊓enarina1º nürenarinarinarinarinarinarinarinarinarinari

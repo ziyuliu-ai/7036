@@ -1,138 +1,90 @@
-gy
-Hengrui Medicine
+Deutsche Bank
+Markets Research
 Rating
+Date
+Company
+Hengrui Medicine
 Buy
-Valuation & Risks
-Health Care
-Pharmaceuticals /
-Biotechnology
-Price at 6 Dec 2017 (CNY)
-65.36
-Price target - 12mth (CNY)
-78.10
-52-week range (CNY)
-75.84 - 45.26
-Shanghai Composite
-3,310
 Company Update
 Asia
 China
-Company
-Hengrui Medicine
 Reuters
 Bloomberg
 Exchange
 Ticker
+Health Care
 600276.SS
 600276 CH
 SHH
-600276
-Date
-11 December 2017
-Deutsche Bank
-Markets Research
+Pharmaceuticals /
+Biotechnology
 Pyrotinib P2 data better than Kadcyla
+Valuation & Risks
+Jack Hu, Ph.D.
 Pyrotinib data much better than T-DM1 and lapatinib
-The PFS beneﬁt (HR=0.374) surprised us despite previous qualitative comments
+Research Analyst
+The PFS benefit (HR=0.374) surprised us despite previous qualitative comments
 from Hengrui management. We believe it is highly likely Pyrotinib would be the
 golden standard in 2L Herceptin relapsed HER2 positive BC in China. To us,
+Megan Xu
 this is the second meaningful oncology clinical study from China ever, as trial
+Research Associate
 design followed a reasonable treatment paradigm that is NOT full of Chinese
 characteristics. After data release at SABCS, we have higher conviction that
 pyrotinib will be approved by CFDA based on P2 data.
+Price/price relative
 We highlight our views in the following
-■
 Among trastuzumab relapsed patients, HR was 0.374 while mPFS has
 not been reached in PC arm, vs. 7.1m in LC arm. The baseline PFS data
 seemed to be in line with historic data (6.4m from EMILIA, 7m from S Gori
 2016). The yet-to-be-reached mPFS should be more than 21m, according
 to the data release.
-■
-EMILIA study showed a PFS beneﬁt of 9.6m for T-DM1 vs. 6.4m for LC,
+EMILIA study showed a PFS benefit of 9.6m for T-DM1 vs. 6.4m for LC,
+Performance (%)
+3m 12m
 with a HR of 0.65. Our surprise came from a gap of 21m vs. 9.6m. If these
+Absolute
 data could be repeated in a P3 study, pyrotinib would become a golden
+Shanghai Composite
+Source: Deutsche Bank
 standard in 2L BC.
-■
+Key indicators (FY1)
 Previous studies indicated that TTP (from 1L Herceptin treatment) could
-be a predictive marker for PFS/OS beneﬁt second-line HER2 inhibitors.
+ROE (%)
+be a predictive marker for PFS/OS benefit second-line HER2 inhibitors.
+Net debt/equity (%)
 In this study, prior treatment of trastuzumab is associated with a longer
+Book value/share (CNY)
 mPFS (7.1m vs. 5.6m for trastuzumab naive) for LC arms; data were also
+Price/book (x)
 consistent in PC arms. In our view, this should raise a serious question
+Net interest cover (x)
 for Chinese regulators regarding the relevance of clinical data from those
-studies, speciﬁcally designed for Chinese patients today, who did not
+Operating profit margin (%)
+studies, specifically designed for Chinese patients today, who did not
+Source: Deutsche Bank
 follow NCCN treatment guidelines.
-■
 The additional questions include whether pyrotinib could be used in
-1L BC, or adjuvant setting, or used oﬀ-label in GC. For the ﬁrst two
+1L BC, or adjuvant setting, or used off-label in GC. For the first two
 questions, we believe further data are required. That being said, for GC
 setting, despite the failure of T-DM1 (GATSBY study, 2L GC) and lapatinib
-(EGF110656, 1L GC), we gained reasonable conﬁdence that pyrotinib
+(EGF110656, 1L GC), we gained reasonable confidence that pyrotinib
 might work based on impressive P2 data.
-Jack Hu, Ph.D.
-Research Analyst
-+852-2203 6208
-Megan Xu
-Research Associate
-+852-2203 5928
-Price/price relative
-Hengrui Medicine
-Shanghai Composite (Rebased)
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-25
-50
-75
-100
-Performance (%)
-1m
-3m 12m
-Absolute
--13.8 13.5 36.6
-Shanghai Composite
--2.8
--2.7
-3.0
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-22.8
-Net debt/equity (%)
--40.2
-Book value/share (CNY)
-5.44
-Price/book (x)
-12.0
-Net interest cover (x)
-–
-Operating proﬁt margin (%)
-26.8
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+Deutsche Bank does and seeks to do business with companies covered in its res Distributed on: 10/12/2017 20:45:09 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE ’ S
-REPUBLIC OF CHINA (“THE PRC”) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
+are located in appendix 1. MCI (P) 083/04/2017. The content may not be distributed in the people 'S
+REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC), EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
-Distributed on: 10/12/2017 20:45:09 GMT
-7T2se3r0Ot6kwoPa
-11 December 2017
 Pharmaceuticals / Biotechnology
 Hengrui Medicine
 We summarize P2 data presented at SABCS in the following page.
-Page 2
-Deutsche Bank AG/Hong Kong
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
 Updates from SABCS
 Overview of phase 2 study
 As of December 2017, 128 patients were enrolled in the HER2+ metastatic
 breast cancer, under open-label, randomized, parallel assignment setting. Dosing
 regimen in treatment arm is pyrotinib (400 mg QD) plus capecitabine (1,000 mg/
-sqm BID), while control arm is lapatinib (1,250mg QD) plue capecitabine (1,000
 mg/sqm BID). The study were conducted among second line and beyond patients,
 also excluded patients previously treated with lapatinib, neratinib, or other HER2+
 TKIs. Primary endpoint was ORR, with PFS, time to progression (TTP), DoR and
@@ -140,55 +92,15 @@ OR as secondary points.
 In addition, pyrotinib is under development for NSCLC and gastric cancer, which
 are currently in phase 2 and 1 stage respectively. We reiterate our peak sales
 estimate of RMB 2-2.8bn for the compound, on the back of Hengrui's established
-oncology franchise and solid academic promotion eﬀorts.
-We summarize the key clinical data in the following ﬁgures.
-Figure 1: PFS comparison between pyrotinib and
-lapatinib groups
+oncology franchise and solid academic promotion efforts.
+We summarize the key clinical data in the following figures.
 Figure 2: PFS subgroup analysis between prior anti-
 HER2 exposure and non-HER2 treated patients
 Source: Deutsche Bank, SABCS
 Source: Deutsche Bank, SABCS
-Figure 3: Summary of phase 2 trial eﬃcacy data
-P-value
-Subjects with prior trastuzumab
-N=35
-N=34
-mPFS
-NA
-7.1 months 
-0.0031
-Subjects without prior trastuzumab
-N=30
-N=29
-mPFS
-18.1 months 
-5.6 months 
-0.0013
-All patients 
-N=65
-N=63
-mPFS
-18.1 months 
-7.0 months 
-<0.0001
-ORR
-78.5%
-57.1%
-0.01
-TTP
-19.5 months 
-7.0 months 
-DoR
-16.7 months 
-8.4 months 
-Source: Deutsche Bank, SABCS
 Deutsche Bank AG/Hong Kong
-Page 3
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
 Notably, among patients without prior Herceptin treatment, the mPFS from PC
-were 18.1 months, compared with 5.6 months for the LC group. The beneﬁts
+were 18.1 months, compared with 5.6 months for the LC group. The benefits
 can also be reaped for patients with previous exposure to Herceptin treatment.
 The study suggest that pyrotinib exhibited PFS extension in PC arm, vs. LC arm
 irrespective of prior trastuzumab treatments.
@@ -196,702 +108,53 @@ Primary endpoint ORR, registered at 78.5% in PC group, vs. 57.1% from control
 group, with P-value of 0.01. For the higher response rates exhibited from control
 arm vs. previous studies, we attribute this to investigator's assessment. To be
 fair, the higher baseline ORR also represented a barrier for treatment arm to
-demonstrate a statistically signiﬁcant beneﬁt.
+demonstrate a statistically significant benefit.
 Summary of grade 3/4 adverse events
-As for the safety proﬁle comparison, most common grade 3/4 AEs including hand-
+As for the safety profile comparison, most common grade 3/4 AEs including hand-
 foot syndrome/ diarrhea/ neutrophil count decrease, with 24.6%, 15.4%, 9.2%
 registered in PC group; vs. 20.6%, 4.8%, 3.2%, respectively, in LC group. Other
 severe AEs include decreased appetite and multi-organ failure displayer similar
-proﬁle compared with lapatinib-treated group. Overall, P2 trial suggests pyrotinib
+profile compared with lapatinib-treated group. Overall, P2 trial suggests pyrotinib
 is well tolerated among HER2+ mBC patients, either as single drug or in combo
 with capecitabine, under MTD of 400mg QD.
-Figure 4: Comparison of grade 3/4 adverse events in phase 2 trial for pyrotinib
-vs. lapatinib
-All grade 3/4 AE
-63.1%
-47.6%
-Hand-foot syndrome 
-24.6%
-20.6%
-Diarrhea 
-15.4%
-4.8%
-Neutrophil count decrease
-9.2%
-3.2%
-WBC decrease
-7.7%
-1.6%
-Vomitting
-4.6%
-1.6%
-Aspartate aminotransferase increased
-3.1%
-3.2%
-Hemoglobin decreased 
-3.1%
-1.6%
-Source: Deutsche Bank, SABCS
-Page 4
-Deutsche Bank AG/Hong Kong
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
 Comparison of pyrotinib with previously approved compounds
 In comparison with the approved therapies, we highlight that Herceptin
 (trastuzumab) from Roche and Perjeta (pertuzumab) are the only compounds
-approved for ﬁrst line therapy of HER2+ mBC, according to the latest NCCN
+approved for first line therapy of HER2+ mBC, according to the latest NCCN
 guidelines. The former was also approved in China, while the latter is currently
-conducting phase 3 clinical study in China, with targeted enrollment of 240
-patients. Notably, SBP is the only domestic company that ﬁled IND application
+patients. Notably, SBP is the only domestic company that filed IND application
 for the drug.
 Kadcyla (T-DM1) and Tykerb (lapatinib) are the currently approved drugs for 2L
 HER2 mBC treatments. T-DM1 is another blockbuster developed by Roche, which
 achieved mPFS of 9.6m, vs. 6.4m compared to LC group. ORR were 43.6% vs.
 30.8% for treatment and control arms. As for lapatinib from Novartis, it is an
 aromatase inhibitor approved in 2007 by FDA for 2L treatment of HER2+ mBC, in
-combo with capecitabine. It recorded robust eﬃcacy results supported by mOS
+combo with capecitabine. It recorded robust efficacy results supported by mOS
 of 75 weeks, vs. 65.9 weeks from control arm. In addition, FDA also approved a
 pan-HER TKI neratinib, indicated for extended adjuvant treatment of BC, among
 early-stage HER2+ patients.
 We compare the clinical trials of 2L HER2+ mBC compounds vs. pyrotinib in the
 following table. We removed trastuzumab and neratinib from comparison due to
-diﬀerent indication and line of therapy.
-Figure 5: Comparison of clinical data for pyrotinib, lapatinib and T-DM1
-Pyrotinib 
-Lapatinib
-T-DM1/ado-trastuzumab 
-emtansine
-Company
-Hengrui
-Novartis
-Roche
-Study design
-Open-label, randomized, 
-parallel assignment
-Open-label, randomized
-Multicenter, randomized, open-
-label
-Dosing regimen
-Pyrotinib + capecitabine vs. 
-lapatinib + capecitabine 
-Lapatinib + capecitabine vs. 
-capecitabine T-DM1 vs. lapatinib + capecitabine 
-Line of therapy
-2L
-2L
-2L
-Patient population
-128
-399
-991
-Median TTP 
-19.5 months for treatment 
-group, vs. 7.0 months for 
-control group
-27.1 weeks for treatment group, 
-vs. 18.6 weeks for control group
-Median PFS
-18.1 months for treatment 
-group, vs. 7.0 months for 
-control group
-9.6 months for treatment group, 
-vs. 6.4 months for control group
-Median OS
-75.0 weeks for treatment group, 
-vs. 65.9 weeks for control group
-30.9 months for treatment group, 
-vs. 25.1 months for control group
-Response rate
-78.5% in treatment group, vs. 
-57.1% in control group
-23.7% for treatment group, vs. 
-13.9% for control group
-43.6% for treatment group, vs. 
-30.8% for control group
+different indication and line of therapy.
 Source: Deutsche Bank, SABCS
-TTP deﬁned as time from randomization to tumor progression or death related to breast cancer
-Deutsche Bank AG/Hong Kong
-Page 5
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
-Model updated: 07 November 2017
-Running the numbers
-Asia
-China
-Pharmaceuticals / Biotechnology
+TTP defined as time from randomization to tumor progression or death related to breast cancer
 Hengrui Medicine
 Reuters: 600276.SS
 Bloomberg: 600276 CH
 Buy
-Price (8 Dec 17)
-CNY 65.39
-Target Price
-CNY 78.10
-52 Week range
-CNY 45.26 - 75.84
-Market cap (m)
-CNYm 184,208
- USDm 27,841
 Company Profile
-Jiangsu Hengrui Medicine Co. Ltd. was established in 1970
 and its headquarters is in Lianyungang, Jiangsu province. The
 company is primarily involved in the manufacture and R&D
 of drugs, including those for oncology, muscle relaxation and
 anesthetics, contrast agents, electrolytes, and anti-infective drugs.
 Apart from its domestic business, Hengrui exports drugs to the
 US, Europe, and other countries.
-Price Performance
-Hengrui Medicine
-Shanghai Composite (Rebased)
-Jan '16
-Jan '17
-Jul '16
-Jul '17
-30
-40
-50
-60
-70
-80
-Margin Trends
-EBITDA Margin
-EBIT Margin
-14
-15
-16
-17E
-18E
-19E
-30
-20
-22.5
-25
-27.5
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-14
-15
-16
-17E
-18E
-19E
-0
-10
-20
-30
-40
-21
-22
-23
-24
-25
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-14
-15
-16
-17E
-18E
-19E
--60
--40
--20
-0
-Jack Hu, Ph.D.
-+852 2203 6208
-jack.hu@db.com
-Fiscal year end 31-Dec
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Financial Summary
-DB EPS (CNY)
-0.53
-0.77
-0.92
-1.12
-1.39
-1.78
-Reported EPS (CNY)
-0.54
-0.77
-0.92
-1.12
-1.39
-1.78
-DPS (CNY)
-0.04
-0.05
-0.07
-0.08
-0.10
-0.12
-BVPS (CNY)
-2.8
-3.5
-4.4
-5.4
-6.7
-8.4
-Weighted average shares (m)
-2,806
-2,817
-2,814
-2,817
-2,817
-2,817
-Average market cap (CNYm)
-73,425
-121,009
-127,361
-184,208
-184,208
-184,208
-Enterprise value (CNYm)
-70,340
-116,224
-122,854
-178,311
-176,267
-173,137
-Valuation Metrics
-P/E (DB) (x)
-49.1
-55.8
-49.2
-58.1
-46.9
-36.8
-P/E (Reported) (x)
-48.4
-55.7
-49.3
-58.3
-46.9
-36.8
-P/BV (x)
-10.36
-13.90
-10.34
-12.02
-9.71
-7.79
-FCF Yield (%)
-1.7
-1.6
-1.2
-0.9
-1.3
-1.9
-Dividend Yield (%)
-0.2
-0.1
-0.2
-0.1
-0.1
-0.2
-EV/Sales (x)
-9.4
-12.5
-11.1
-13.4
-10.6
-8.2
-EV/EBITDA (x)
-36.8
-44.0
-39.7
-46.1
-36.2
-28.1
-EV/EBIT (x)
-41.4
-48.0
-43.3
-49.9
-39.7
-30.8
-Income Statement (CNYm)
-Sales revenue
-7,452
-9,316
-11,094
-13,327
-16,551
-21,005
-Gross profit
-6,139
-7,944
-9,659
-11,588
-14,582
-18,547
-EBITDA
-1,912
-2,643
-3,094
-3,872
-4,875
-6,153
-Depreciation
-209
-218
-248
-292
-427
-526
-Amortisation
-4
-4
-7
-6
-7
-7
-EBIT
-1,699
-2,420
-2,838
-3,574
-4,441
-5,621
-Net interest income(expense)
-81
-148
-166
-138
-185
-255
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
--7
--7
-5
--15
-0
-0
-Other pre-tax income/(expense)
-27
-1
-4
-72
-33
-34
-Profit before tax
-1,800
-2,562
-3,013
-3,769
-4,659
-5,910
-Income tax expense
-227
-338
-379
-524
-647
-821
-Minorities
-57
-52
-45
-85
-85
-85
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-1,516
-2,172
-2,589
-3,160
-3,927
-5,004
-DB adjustments (including dilution)
--19
--1
-1
-9
-0
-0
-DB Net profit
-1,497
-2,171
-2,590
-3,168
-3,927
-5,004
-Cash Flow (CNYm)
-Cash flow from operations
-1,574
-2,277
-2,593
-2,762
-3,397
-4,406
-Net Capex
--298
--394
--1,110
--1,066
--993
--840
-Free cash flow
-1,276
-1,883
-1,482
-1,696
-2,404
-3,566
-Equity raised/(bought back)
-136
-19
-14
-0
-0
-0
-Dividends paid
--122
--150
--196
--221
--275
--350
-Net inc/(dec) in borrowings
--10
-0
--10
-0
-0
-0
-Other investing/financing cash flows
-1
--67
--1,512
-0
-0
-0
-Net cash flow
-1,280
-1,684
--221
-1,475
-2,129
-3,216
-Change in working capital
--198
--169
--259
--781
--1,049
--1,215
-Balance Sheet (CNYm)
-Cash and other liquid assets
-3,449
-5,133
-4,912
-6,387
-8,516
-11,732
-Tangible fixed assets
-1,624
-1,770
-2,474
-3,248
-3,814
-4,129
-Goodwill/intangible assets
-200
-196
-285
-279
-272
-265
-Associates/investments
-1
-79
-81
-81
-81
-81
-Other assets
-3,812
-4,319
-6,578
-7,453
-8,833
-10,457
-Total assets
-9,087
-11,497
-14,330
-17,448
-21,517
-26,664
-Interest bearing debt
-10
-0
-0
-0
-0
-0
-Other liabilities
-923
-1,139
-1,456
-1,549
-1,881
-2,290
-Total liabilities
-933
-1,139
-1,456
-1,549
-1,881
-2,290
-Shareholders' equity
-7,798
-9,931
-12,388
-15,327
-18,978
-23,632
-Minorities
-355
-426
-486
-572
-657
-742
-Total shareholders' equity
-8,154
-10,358
-12,874
-15,898
-19,635
-24,374
-Net debt
--3,439
--5,133
--4,912
--6,387
--8,516
--11,732
-Key Company Metrics
-Sales growth (%)
-20.1
-25.0
-19.1
-20.1
-24.2
-26.9
-DB EPS growth (%)
-23.4
-44.5
-19.3
-22.4
-23.9
-27.4
-EBITDA Margin (%)
-25.7
-28.4
-27.9
-29.1
-29.5
-29.3
-EBIT Margin (%)
-22.8
-26.0
-25.6
-26.8
-26.8
-26.8
-Payout ratio (%)
-8.1
-6.9
-7.5
-7.0
-7.0
-7.0
-ROE (%)
-21.4
-24.5
-23.2
-22.8
-22.9
-23.5
-Capex/sales (%)
-4.0
-4.2
-10.0
-8.0
-6.0
-4.0
-Capex/depreciation (x)
-1.4
-1.8
-4.4
-3.6
-2.3
-1.6
-Net debt/equity (%)
--42.2
--49.6
--38.2
--40.2
--43.4
--48.1
-Net interest cover (x)
-nm
-nm
-nm
-nm
-nm
-nm
 Source: Company data, Deutsche Securities estimates
-Page 6
-Deutsche Bank AG/Hong Kong
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Hengrui Medicine
-600276.SS
-65.39 (CNY) 8 Dec 2017
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at http://gm.db.com/ger/disclosure/
-DisclosureDirectory.eqsr. Aside from within this report, important conﬂict disclosures can also be found at https://gm.db.com/equities under the "Disclosures Lookup" and "Legal"
-tabs. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Jack Hu
+compensation for providing a specific recommendation or view in this report. Jack Hu
 Historical recommendations and target price. Hengrui Medicine (600276.SS)
 (as of 12/06/2017)
 Current Recommendations
@@ -900,75 +163,12 @@ Hold
 Sell
 Not Rated
 Suspended Rating
-** Analyst is no longer at
 Deutsche Bank
-Date
-Security price
-1
-2
-3
-4
-5
-6 7
-8 9
-10
-11
-12
-Jan '16
-May '16
-Sep '16
-Jan '17
-May '17
-Sep '17
-0.00
-20.00
-40.00
-60.00
-80.00
-100.00
-1.
-04/14/2016
-Buy, Target Price Change CNY 59,50 Jack Hu, Ph.D
-7.
-04/23/2017
-Buy, Target Price Change CNY 65,00 Jack Hu, Ph.D
-2.
-06/16/2016
-Buy, Target Price Change CNY 49,50 Jack Hu, Ph.D
-8.
-05/18/2017
-Buy, Target Price Change CNY 70,00 Jack Hu, Ph.D
-3.
-08/31/2016
-Buy, Target Price Change CNY 50,00 Jack Hu, Ph.D
-9.
-05/31/2017
-Buy, Target Price Change CNY 58,50 Jack Hu, Ph.D
-4.
-11/01/2016
-Buy, Target Price Change CNY 55,00 Jack Hu, Ph.D
-10. 08/30/2017
-Buy, Target Price Change CNY 60,50 Jack Hu, Ph.D
-5.
-03/15/2017
-Buy, Target Price Change CNY 60,00 Jack Hu, Ph.D
-11. 10/15/2017
-Buy, Target Price Change CNY 69,00 Jack Hu, Ph.D
-6.
-04/13/2017
-Buy, Target Price Change CNY 63,50 Jack Hu, Ph.D
-12. 11/07/2017
-Buy, Target Price Change CNY 78,10 Jack Hu, Ph.D
-Deutsche Bank AG/Hong Kong
-Page 7
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
-Equity Rating Key
 Equity rating dispersion and banking relationships
+Equity Rating Key
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -977,281 +177,224 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Page 8
-Deutsche Bank AG/Hong Kong
-11 December 2017
 Pharmaceuticals / Biotechnology
 Hengrui Medicine
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of those websites.
-??
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
-??
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies, perspectives
-or otherwise. Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes
-on. Analysts are paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives
+or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes
+on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
 banking, trading and principal trading revenues.
-??
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Trade ideas
-for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high-conviction belief by an
-analyst that a stock will outperform or underperform the market and/or a speciﬁed sector over a time frame of no less than
+analyst that a stock will outperform or underperform the market and/or a specified sector over a time frame of no less than
 two weeks and no more than six months. In addition to SOLAR ideas, analysts may occasionally discuss with our clients,
 and with Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or events that may
 have a near-term or medium-term impact on the market price of the securities discussed in this report, which impact
 may be directionally counter to the analysts' current 12-month view of total return or investment return as described
 herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient thereof
 if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the frequency of changes in market
-conditions and in both general and company-speciﬁc economic prospects make it diﬃcult to update research at deﬁned
+conditions and in both general and company-specific economic prospects make it difficult to update research at defined
 intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management, and the
 majority of reports are published at irregular intervals. This report is provided for informational purposes only and does
-not take into account the particular investment objectives, ﬁnancial situations, or needs of individual clients. It is not an
-oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments or to participate in any particular trading strategy.
-Target prices are inherently imprecise and a product of the analyst ’ s judgment. The ﬁnancial instruments discussed
+not take into account the particular investment objectives, financial situations, or needs of individual clients. It is not an
+offer or a solicitation of an offer to buy or sell any financial instruments or to participate in any particular trading strategy.
+Target prices are inherently imprecise and a product of the analyst ’s judgment. The financial instruments discussed
 in this report may not be suitable for all investors, and investors must make their own informed investment decisions.
-Prices and availability of ﬁnancial instruments are subject to change without notice, and investment transactions can lead
-to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial instrument is denominated in a currency other
-than an investor's currency, a change in exchange rates may adversely aﬀect the investment. Past performance is not
+Prices and availability of financial instruments are subject to change without notice, and investment transactions can lead
+to losses as a result of price fluctuations and other factors. If a financial instrument is denominated in a currency other
+than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not
 necessarily indicative of future results. Performance calculations exclude transaction costs, unless otherwise indicated.
 Unless otherwise indicated, prices are current as of the end of the previous trading session and are sourced from local
 exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from Deutsche Bank, subject companies, and
 other parties.
-??
 The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding
-organizational arrangements and information barriers we have established to prevent and avoid conﬂicts of interest with
+organizational arrangements and information barriers we have established to prevent and avoid conflicts of interest with
 respect to our research are available on our website under Disclaimer, found on the Legal tab.
-??
-Deutsche Bank AG/Hong Kong
-Page 9
-11 December 2017
-Pharmaceuticals / Biotechnology
-Hengrui Medicine
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed-rate instruments (thus receiving these cash
-ﬂows), increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus
-cause a loss. The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the
-higher will be the loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus
+cause a loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the
+higher will be the loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the
 most common adverse macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client
-segmentation, regulation (including changes in assets holding limits for diﬀerent types of investors), changes in tax
-policies, currency convertibility (which may constrain currency conversion, repatriation of proﬁts and/or liquidation of
-positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of ﬁxed-
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to
-FX depreciation, or to speciﬁed interest rates – these are common in emerging markets. The index ﬁxings may – by
+segmentation, regulation (including changes in assets holding limits for different types of investors), changes in tax
+policies, currency convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of
+positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by
 construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
-the proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed
-to a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. Funding in a currency that diﬀers
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed
+to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency that differs
 from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks typical to
 options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
 appropriateness of these products for use by investors depends on the investors' own circumstances, including their
 tax position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should
-take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the contents of this
+take expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
 publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
 high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
 amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not
 suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to
 access the website, please contact your Deutsche Bank representative for a copy of this important document.
-??
 Participants in foreign exchange transactions may incur risks arising from several factors, including: (i) exchange rates can
-be volatile and are subject to large ﬂuctuations; (ii) the value of currencies may be aﬀected by numerous market factors,
+be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous market factors,
 including world and national economic, political and regulatory events, events in equity and debt markets and changes in
 interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls, which could
-aﬀect the value of the currency. Investors in securities such as ADRs, whose values are aﬀected by the currency of an
-underlying security, eﬀectively assume currency risk.
-??
-Deutsche Bank is not acting as a ﬁnancial adviser, consultant or ﬁduciary to you or any of your agents with respect to
+affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the currency of an
+underlying security, effectively assume currency risk.
+Deutsche Bank is not acting as a financial adviser, consultant or fiduciary to you or any of your agents with respect to
 any information provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, and
 is not acting as an impartial adviser. Information contained herein is being provided on the basis that the recipient will
 make an independent assessment of the merits of any investment decision, and is not meant for retirement accounts or
-for any speciﬁc person or account type. The information we provide is directed only to persons we believe to be ﬁnancially
+for any specific person or account type. The information we provide is directed only to persons we believe to be financially
 sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to particular
-transactions and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of
+transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of
 its products and services. If this is not the case, or if you or your agent are an IRA or other retail investor receiving this
 directly from us, we ask that you inform us immediately.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
-investor's home jurisdiction. Aside from within this report, important risk and conﬂict disclosures can also be found at
-https://gm.db.com on each company ’ s research page and under the "Disclosures Lookup" and "Legal" tabs. Investors
+investor's home jurisdiction. Aside from within this report, important risk and conflict disclosures can also be found at
 are strongly encouraged to review this information before investing.
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations,
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations,
 including those regarding contacts with issuer companies.
-??
-Page 10
-Deutsche Bank AG/Hong Kong
-11 December 2017
 Pharmaceuticals / Biotechnology
 Hengrui Medicine
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany 's Federal
 Financial Supervisory Authority.
-??
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
-??
 India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
-oﬃce at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 7180
 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
 nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
 Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
 no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
-administrative warnings from the SEBI for breaches of Indian regulations. Deutsche Bank and/or its aﬃliate(s) may
+administrative warnings from the SEBI for breaches of Indian regulations. Deutsche Bank and/or its affiliate(s) may
 have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
-“Shareholdings” section in the Annual Report at: https://www.db.com/ir/en/annual-reports.htm.
-??
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
-on a 12-month forecast period..
-??
 Korea: Distributed by Deutsche Securities Korea Co.
-??
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
 Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
-Branch (One Raﬄes Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
 of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as deﬁned in the
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the
 applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
-??
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
-Deutsche Bank AG/Hong Kong
-Page 11
-11 December 2017
 Pharmaceuticals / Biotechnology
 Hengrui Medicine
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within
 the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available only to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
-??
 Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
 appraisal or evaluation activity requiring a license in the Russian Federation.
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the ﬁnancial services activities that fall
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
 within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may undertake only the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may undertake only the financial services
 activities that fall within the scope of its existing DFSA license. Its principal place of business in the DIFC: Dubai
 International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
-distributed by Deutsche Bank AG. Related ﬁnancial products or services are available only to Professional Clients, as
-deﬁned by the Dubai Financial Services Authority.
-??
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any ﬁnancial product
+distributed by Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
 referred to in this report and consider the PDS before making any decision about whether to acquire the product.
-Please refer to Australia-speciﬁc research disclosures and related information at https://australia.db.com/australia/content/
 research-information.html
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
 Corporations Act and New Zealand Financial Advisors Act, respectively.
-??
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2017 Deutsche Bank AG
-Page 12
-Deutsche Bank AG/Hong Kong
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
+Steve Pollard
 Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
 Michael Spencer
 Head of APAC Research
-Global Head of Economics
-Steve Pollard
+Global Chief Operating Officer
 Head of Americas Research
+Global Head of Economics
+Research
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International Production Locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+60329 Frankfurt am Main
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500

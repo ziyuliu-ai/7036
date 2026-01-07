@@ -1,1089 +1,138 @@
- 
-  
-12 Mar 2019 
-Securities Analysis 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-1 
-NOT RATED 
- 
- 
-Current Price 
-RMB 12.32 
- 
- 
-Terry Sun, CFA 
-Tel: (852) 3900 0836 
-Email: terrysun@cmbi.com.hk 
- 
-Karen Sui 
-Tel: (852) 3761 8775 
-Email: suixiaomeng@cmbi.com.hk  
- 
- 
-China Banking Sector 
- 
-Mkt. Cap. (RMB mn) 
-211,539 
-Avg. 3mths t/o (RMB mn) 
-1,087.40 
-52W High/Low (RMB)   
-Total Issued Shares (mn) 
-13.38/8.45 
-17,170.4 
-Source: Bloomberg 
- 
-Shareholding Structure 
-Ping An Insurance (Grp) 
-49.56% 
-Ping An Life Insurance 
-8.38% 
-CSFC 
-2.50% 
-Source: Bloomberg 
- 
-Share Performance 
-Absolute
-Relative 
-1-mth 
-9.8%
--10.4% 
-3-mth 
-20.9%
-0.4% 
-6-mth 
-24.5%
-9.1% 
-Source: Bloomberg 
- 
-12-mth Price Performance 
- 
-Source: Bloomberg 
- 
-Auditor: PwC 
-Web-site: bank.pingan.com 
- 
- 
- 
- 
- 
- 
-0
-2
-4
-6
-8
-10
-12
-14
-3/2018
-6/2018
-9/2018
-12/2018
-000001 CH
- SZCOMP  (rebased)
-(RMB)
-         Ping An Bank (000001 CH) 
-Takeaways from retail banking corporate day 
- 
- We attended Ping An Bank’s (PAB) retail banking corporate day in Shenzhen 
-last week. We see tremendous growth potential for the Bank’s retail business, 
-as it benefits from Ping An Group’s all-rounded supports and successful 
-migration of client base.  
- In the second stage of retail transformation. PAB officially kicked off its 
-retail transformation in 2H16, with the foremost target of growing retail client 
-base (40.5 mn in FY16) and lifting retail revenue contribution (30.6% in FY16). 
-By end-FY18, no. of client and proportion of revenue from retail segment 
-reached 83.9 mn and 53%, respectively. Since 4Q18, PAB has entered the 
-second stage of retail transformation (Figure 1), with key objective of 
-enhancing earnings ability. A major initiative is to boost private banking and 
-wealth management businesses.  
- The core “3+2+1” framework. PAB’s retail business is underpinned by a 
-unique framework (Figure 2), which comprises: three modules - basic retail, 
-consumer finance & private banking (PB); two competencies - cost & risk 
-management; and one internal driver - Artificial Intelligence (AI). Basic retail 
-mainly supports customer acquisition and volume growth, while consumer 
-finance and PB are major profit and AUM generators.   
- Comparison with “Industry benchmark”. CMB (600036 CH, NR) is broadly 
-recognized as the best retail bank in China. As such, we compare PAB to CMB on 
-multiple fronts of retail business, including 1) revenue & profit mix; 2) 
-structure & pricing of loans & deposits; 3) NPL ratio; 4) client amount & AUM 
-per capita, and 5) cost-income ratio. We found that PAB is comparable to CMB 
-in retail profit and loan contribution, but inferior in operating efficiency, asset 
-quality and profitability. 
- 4Q18 results highlights. A bright spot was 13bps QoQ NIM expansion, which 
-drove a 15.8% YoY revenue growth in 4Q18. Despite the 41% YoY surge in 
-impairment charges, net profit still saw a decent growth of 7.0% YoY, beating 
-most joint-stock peers. It was also encouraging to see a notable increase in the 
-Bank’s NPL/90-day overdue ratio (up 22ppts QoQ to 103%), which has been a 
-valuation overhang in past years. Stricter NPL recognition will ease regulatory 
-risks and further unleash PAB’s earnings momentum ahead. A major weakness 
-was the Bank’s thin capital buffer, as CET-1 CAR only stood at 8.54% (vs 7.5% 
-threshold) in 4Q18.  
- Valuation. PAB currently trades at 0.85x FY19E P/B, vs 0.87x for A-share bank 
-average and 1.34x for CMB-A. There is foreseeable valuation upside, should the 
-Bank’s retail strategy leads to improving financial performance in coming years. 
-PAB is also a key beneficiary of further RRR cuts.   
-Earnings summary 
-(YE 31 Dec) 
- 
-FY16A 
-FY17A 
-FY18A 
-Operating income (RMB mn) 
- 
-107,715 
-105,786 
-116,716 
-Net profit (RMB mn) 
- 
-22,599 
-23,189 
-24,818 
-EPS (RMB) 
- 
-1.44 
-1.30 
-1.39 
-EPS CHG (%) 
- 
- (7.7) 
- (9.5) 
- 7.3  
-P/B (x) 
- 
-1.16  
-1.05  
-0.96  
-P/E (x) 
- 
-8.6  
-9.5  
-8.8  
-Yield (%) 
- 
-1.3  
-1.1  
-1.2  
-ROAE (%) 
- 
-13.1  
-11.6  
-11.3  
-NPL (%) 
- 
-1.74  
-1.70  
-1.75  
-Allowance/ NPLs (%) 
- 
-155.4  
-151.1  
-155.2  
-Source: Company data, CMBIS 
- 
- 
- 
-Equity Research 
-12 Mar 2018 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Overview of PAB’s retail banking strategy 
- 
-Figure 1: Progress of PAB’s retail transformation 
- 
-Source: Company data, CMBIS 
- 
-Figure 2: PAB’s retail business framework 
- 
-Source: Company data, CMBIS 
- 
- 
- 
- 
-Stage 1
-Stage 2
-Stage 3
-Timeline
-2017 - 2018
-2019
-2020 & beyond
-Business focus
-- Invest in technology and infrastructure
-- Grow client base
-- Improve user experience
-- Broaden the application of technology
-- Increase customer satisfaction and loyalty
-- Enhance value creation and boost profit
-- Business model innovation led by technology
-- Establish brand reputation and franchise
-- Full-scale financial performance
-Key initiatives
-- Increase credit allocation to retail (esp. credit cards,
-consumer loans and car loans);
-- Reduce corporate loan scale, focus on selective
-industries, and develop asset- & capital-light business;
-- Create "Online Merge Offline (OMO)" business model,
-through mobile APP, smart outlets & SAT services;
-- Leverage on group resources
-- Merge wealth management team of Ping An Trust into
-private banking division;
-- Use AI in customer acquisition/marketing/customer
-services/management;
-- Develop smart platform for Xin Yi Dai and auto
-finance;
-- Build cost management system to monitor the cost
-saving effect from AI utilization
-NA
-Basic
-Retail
-Cost Management
-AI
-Cornerstone
-•
-Carrier of inclusive finance services
-•
-Major source of low-cost liabilities
-•
-Integrated center of smart platforms
-Pillar 1
-•
-Booster of consumption upgrade
-•
-Major revenue contributor
-Pillar 2
-•
-Wealth manager of high-end 
-customers
-•
-Growth engine of AUM and fee 
-income
-Competency 2
-•
-Measure the 
-operating efficiency
-Risk Management
-Competency 1
-•
-Measure the 
-operating quality
-Consumer 
-Finance
-PB &
-Wealth 
-Management
-3 Business Modules
-1 Internal Driver
-2 Core Competency
-12 Mar 2018 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-4Q18 operating results 
-Figure 3: Results summary 
- 
-Source: Company data, CMBIS 
- 
-Figure 4: Revenue and net profit growth  
- 
-Source: Company data, CMBIS 
-Figure 5: Quarterly NIM 
- 
-Source: Company data, CMBIS 
- 
-Figure 6: NPL ratio and provision coverage 
- 
-Source: Company data, CMBIS 
-Figure 7: NPL to >90-day overdue loans 
- 
-Source: Company data, CMBIS 
- 
- (RMB mn)
-P&L
-FY17
-FY18
-YoY
-4Q17
-4Q18
-YoY
-Net interest income
-74,009
-             
-74,745
-             
-1.0%
-18,527
-             
-20,216
-             
-9.1%
-Net fee and commission income
-30,674
-             
-31,297
-             
-2.0%
-7,513
-               
-7,592
-               
-1.1%
-Operating income
-105,786
-        
-116,716
-        
-10.3%
-25,954
-           
-30,052
-           
-15.8%
-Operating expense
-(32,638)
-           
-(36,540)
-           
-12.0%
-(10,625)
-           
-(10,112)
-           
--4.8%
-PPoP
-73,148
-           
-80,176
-           
-9.6%
-15,329
-           
-19,940
-           
-30.1%
-Impairment losses
-(42,925)
-           
-(47,871)
-           
-11.5%
-(10,105)
-           
-(14,249)
-           
-41.0%
-Operating profit
-30,223
-           
-32,305
-           
-6.9%
-5,224
-              
-5,691
-              
-8.9%
-Income tax
-(6,968)
-             
-(7,413)
-             
-6.4%
-(1,182)
-             
-(1,303)
-             
-10.2%
-Net profit
-23,189
-           
-24,818
-           
-7.0%
-4,036
-              
-4,362
-              
-8.1%
-Balance sheet
-FY17
-FY18
-YoY
-3Q18
-4Q18
-QoQ
-Gross loans
-1,704,230
-       
-1,997,529
-       
-17.2%
-1,922,047
-       
-1,997,529
-       
-3.9%
-Customers' deposits
-2,000,420
-       
-2,149,142
-       
-7.4%
-2,134,641
-       
-2,149,142
-       
-0.7%
-Total assets
-3,248,474
-       
-3,418,592
-       
-5.2%
-3,352,056
-       
-3,418,592
-       
-2.0%
-NPLs
-28,997
-             
-34,905
-             
-20.4%
-32,245
-             
-34,905
-             
-8.2%
-Key ratios
-FY17
-FY18
-YoY
-3Q18
-4Q18
-QoQ
-ROE
-11.6%
-11.3%
--0.3ppt
-13.4%
-8.0%
--5.4ppt
-NPL ratio
-1.70%
-1.75%
-5bp
-1.68%
-1.75%
-7bp
-Provision coverage
-151.1%
-155.2%
-4.2ppt
-168.8%
-155.2%
--13.6ppt
-LDR
-85.2%
-92.9%
-7.8ppt
-90.0%
-92.9%
-2.9ppt
-CET-1 CAR
-8.3%
-8.5%
-26bp
-8.5%
-8.5%
-0bp
-2.1%
-2.2%
-2.7%
-4.0%
-6.1%
-6.9% 7.3%
-8.1%
-0.7%
--3.3%
--5.3%
-0.8%
-1.1%
-10.9%
-14.2%
-15.8%
--10%
--5%
-0%
-5%
-10%
-15%
-20%
-1Q17
-2Q17
-3Q17
-4Q17
-1Q18
-2Q18
-3Q18
-4Q18
-Net profit YoY
-Revenue YoY
-2.53%
-2.38%
-2.32%
-2.27%
-2.25%
-2.26%
-2.37%
+Securities Analysis
+Ping An Bank (000001 CH)
+Takeaways from retail banking corporate day
+❖ We attended Ping An Bank's (PAB) retail banking corporate day in Shenzhen
+NOT RATED
+last week. We see tremendous growth potential for the Bank's retail business,
+as it benefits from Ping An Group's all-rounded supports and successful
+migration of client base.
+Current Price
+❖ In the second stage of retail transformation. PAB officially kicked off its
+retail transformation in 2H16, with the foremost target of growing retail client
+Terry Sun, CFA
+base (40.5 mn in FY16) and lifting retail revenue contribution (30.6% in FY16).
+By end-FY18, no. of client and proportion of revenue from retail segment
+reached 83.9 mn and 53%, respectively. Since 4Q18, PAB has entered the
+second stage of retail transformation (Figure 1), with key objective of
+Karen Sui
+enhancing earnings ability. A major initiative is to boost private banking and
+wealth management businesses.
+The core "3+2+1" framework. PAB's retail business is underpinned by a
+unique framework (Figure 2), which comprises: three modules - basic retail,
+consumer finance & private banking (PB); two competencies - cost & risk
+China Banking Sector
+management; and one internal driver - Artificial Intelligence (AI). Basic retail
+mainly supports customer acquisition and volume growth, while consumer
+finance and PB are major profit and AUM generators.
+Comparison with "Industry benchmark". CMB (600036 CH, NR) is broadly
+recognized as the best retail bank in China. As such, we compare PAB to CMB on
+multiple fronts of retail business, including 1) revenue & profit mix; 2)
+Shareholding Structure
+structure & pricing of loans & deposits; 3) NPL ratio; 4) client amount & AUM
+Ping An Insurance (Grp)
+49.56%
+per capita, and 5) cost-income ratio. We found that PAB is comparable to CMB
+Ping An Life Insurance
+8.38%
+in retail profit and loan contribution, but inferior in operating efficiency, asset
+CSFC
 2.50%
-2.1%
-2.2%
-2.3%
-2.4%
-2.5%
-2.6%
-1Q17
-2Q17
-3Q17
-4Q17
-1Q18
-2Q18
-3Q18
-4Q18
-163%
-161%
-152%
-151%
-173%
-176%
-169%
-155%
-1.74%
-1.76%
-1.75%
-1.70% 1.68% 1.71%
-1.68%
-1.75%
-1.0%
-1.1%
-1.2%
-1.3%
-1.4%
-1.5%
-1.6%
-1.7%
-1.8%
-1.9%
-140%
-150%
-160%
-170%
-180%
-190%
-200%
-1Q17
-2Q17
-3Q17
-4Q17
-1Q18
-2Q18
-3Q18
-4Q18
-Provision coverage (LHS)
-NPL ratio (RHS)
-53.6%
-63.4%
-64.9%
-69.9%
-80.4%
-102.7%
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-1H16
-2H16
-1H17
-2H17
-1H18
-2H18
-12 Mar 2018 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Peer comparison 
- 
-Figure 8: Retail business contribution 
- 
-Source: Company data, CMBIS 
-Note: 2018 data for PAB and 1H18 data for other banks. 
-Figure 9: Retail loan and deposit contribution 
- 
-Source: Company data, CMBIS 
-Note: 2018 data for PAB and 1H18 data for other banks. 
- 
-Figure 10: Loan yield and deposit cost in 1H18 
- 
-Source: Company data, CMBIS 
-Figure 11: NPL of retail loans 
- 
-Source: Company data, CMBIS 
- 
-Figure 12: No. of retail clients and retail AUM 
- 
-Source: Company data, CMBIS 
-Note: 2018 data for PAB and 1H18 data for CMB. 
-Figure 13: Retail business cost-income ratio in 1H18 
- 
-Source: Company data, CMBIS 
- 
- 
- 
-53%
-69%
-32%
-50%
-54%
-29%
-37%
-38%
-21%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-Retail revenue
-contribution
-Retail pre-tax profit
-contribution
-Retail assets
-contribution
-PAB
-CMB
-Sector average
-58%
-22%
-48%
-35%
-38%
-34%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-Retail loans
-Retail deposits
-PAB
-CMB
-Sector average
-7.4%
-5.9%
-2.6%
-0.9%
-4.8%
-5.0%
-0%
-1%
-2%
-3%
-4%
-5%
-6%
-7%
-8%
-PAB
-CMB
-Loan yield
-Deposit cost
-Loan/deposit spread
-0.5%
-0.7%
-0.9%
-1.1%
-1.3%
-1.5%
-1.7%
-2016
-2017
-1H18
-PAB
-CMB
-Sector average
-83.90
-116.33
- -
- 10,000
- 20,000
- 30,000
- 40,000
- 50,000
- 60,000
- 70,000
- 80,000
-0
-20
-40
-60
-80
-100
-120
-140
-PAB
-CMB
-(RMB)
-(mn)
-No. of retail client (LHS)
-AUM per client (RHS)
-39.0%
-32.6%
-36.9%
-28%
-30%
-32%
-34%
-36%
-38%
-40%
-PAB
-CMB
-Sector average
-12 Mar 2018 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-5 
-Financial statements 
-Income statement 
- 
-Source: Company data, CMBIS  
-Balance statement 
- 
-Source: Company data, CMBIS 
- 
- 
- 
-Year ended: 31 Dec (RMB mn)
-2016
-2017
-2018
-Interest income
-131,119
-148,068
-162,888
-Interest expenses
-(54,708)
-(74,059)
-(88,143)
-Net interest income
-76,411
-74,009
-74,745
-Net fee and commission income
-27,859
-30,674
-31,297
-Other gains and income
-3,445
-1,103
-10,674
-Operating income
-107,715
-105,786
-116,716
-Operating expenses
-(31,418)
-(32,638)
-(36,540)
-PPoP
-76,297
-73,148
-80,176
-Impairment losses
-(46,518)
-(42,925)
-(47,871)
-Operating profit
-29,779
-30,223
-32,305
-Non-operating income
-156
-(66)
-(74)
-Pre-tax profit
-29,935
-30,157
-32,231
-Income tax expenses
-(7,336)
-(6,968)
-(7,413)
-Profit for the year
-22,599
-23,189
-24,818
-Non-controlling interests
-0
-0
-0
-Net profit
-22,599
-23,189
-24,818
-Year ended: 31 Dec (RMB mn)
-2016
-2017
-2018
-Due from central banks
-306,763
-305,986
-273,513
-Interbank assets
-273,208
-231,157
-195,017
-Investments
-759,438
-807,002
-850,317
-Loans and advances, net
-1,435,869
-1,660,420
-1,949,757
-Other assets
-178,156
-243,909
-149,988
-Total assets
-2,953,434
-3,248,474
-3,418,592
-Due to central banks
-19,137
-130,652
-149,756
-Interbank liabilities
-697,227
-762,663
-725,461
-Customer deposits
-1,921,835
-2,000,420
-2,149,142
-Debt securities issued
-30,115
-45,116
-81,755
-Other liabilities
-82,949
-87,569
-72,436
-Total liabilities
-2,751,263
-3,026,420
-3,178,550
-Total shareholders' equity
-202,171
-222,054
-240,042
-Non-controlling interests
-0
-0
-0
-Total equity
-202,171
-222,054
-240,042
-12 Mar 2018 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-6 
-Key ratios 
- 
-Source: Company data, CMBIS 
- 
- 
- 
-Year ended: 31 Dec
-2016
-2017
-2018
-Operating income mix
-Net interest income
-71%
-70%
-64%
-Net fee and commission income
-26%
-29%
-27%
-Other gains and income
-3%
-1%
-9%
-Total
-100%
-100%
-100%
-Growth
-Net interest income
-11.6%
--3.1%
-1.0%
-Net fee and commission income
-15.7%
-10.1%
-2.0%
-Operating income
-12.0%
--1.8%
-10.3%
-Operating expenses
--14.6%
-3.9%
-12.0%
-PPoP
-28.5%
--4.1%
-9.6%
-Net profit
-3.4%
-2.6%
-7.0%
-Asset quality indicators
-Non-performing loan ratio
-1.74%
-1.70%
-1.75%
-Provision coverage ratio of NPLs
-155.37%
-151.08%
-155.24%
-Provision to total loans
-2.71%
-2.57%
-2.70%
-Credit costs
-3.38%
-2.57%
-2.36%
-Capital adequacy ratio
-Common equity tier 1 CAR
-8.36%
-8.28%
-8.54%
-Tier 1 CAR
-9.34%
-9.18%
-9.39%
-CAR
-11.53%
-11.20%
-11.50%
-Returns
-ROAE
-13.15%
-11.61%
-11.34%
-ROAA
-0.83%
-0.75%
-0.74%
-Per share
-EPS (RMB)
-1.44
-1.30
-1.39
-DPS (RMB)
-0.16
-0.14
-0.15
-BVPS (RMB)
-10.61
-11.77
-12.82
-12 Mar 2018 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-7 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities or issuer that the 
-analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer; and (2) no part of his or her 
-compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures Commission) 
-(1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will deal in or trade in the 
-stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as an officer of any of the Hong Kong listed companies covered in this 
-report; and (4) have any financial interests in the Hong Kong listed companies covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-CMB International Securities Limited 
-Address: 45th and 46th Floor, Champion Tower, 3 Garden Road, Hong Kong   Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary of 
-China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  
-CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, 
-financial position or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that 
-which is contained in the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of 
-their dependence on the performance of underlying assets or other variable market factors.  CMBIS recommends that investors should independently 
-evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to make their own 
-investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of 
-CMBIS and/or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any 
-security or any interest in securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, 
-officers or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the 
-information contained in this report.  Anyone making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available 
-and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. 
-CMBIS provides the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS 
-may issue other publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-
-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the 
-recommendations or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself 
-and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business 
-relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the 
-objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this 
-publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of 
-CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) 
-Order 2005 (as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, 
-Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS. 
- 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities 
-Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy of 
-this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person. 
+Source: Bloomberg
+quality and profitability.
+❖ 4Q18 results highlights. A bright spot was 13bps QoQ NIM expansion, which
+Share Performance
+drove a 15.8% YoY revenue growth in 4Q18. Despite the 41% YoY surge in
+impairment charges, net profit still saw a decent growth of 7.0% YoY, beating
+most joint-stock peers. It was also encouraging to see a notable increase in the
+Bank's NPL/90-day overdue ratio (up 22ppts QoQ to 103%), which has been a
+Source: Bloomberg
+valuation overhang in past years. Stricter NPL recognition will ease regulatory
+12-mth Price Performance
+risks and further unleash PAB's earnings momentum ahead. A major weakness
+was the Bank's thin capital buffer, as CET-1 CAR only stood at 8.54% (vs 7.5%
+threshold) in 4Q18.
+❖ Valuation. PAB currently trades at 0.85x FY19E P/B, vs 0.87x for A-share bank
+average and 1.34x for CMB-A. There is foreseeable valuation upside, should the
+Bank's retail strategy leads to improving financial performance in coming years.
+PAB is also a key beneficiary of further RRR cuts.
+Source: Bloomberg
+Auditor: PwC
+Web-site: bank.pingan.com
+Overview of PAB's retail banking strategy
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+4Q18 operating results
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Figure 7: NPL to >90-day overdue loans
+Source: Company data, CMBIS
+Peer comparison
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Note: 2018 data for PAB and 1H18 data for other banks.
+Note: 2018 data for PAB and 1H18 data for other banks.
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Note: 2018 data for PAB and 1H18 data for CMB.
+Financial statements
+Income statement
+Balance statement
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities or issuer that the
+analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer; and (2) no part of his or her
+compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures Commission)
+(1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will deal in or trade in the
+stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as an officer of any of the Hong Kong listed companies covered in this
+report; and (4) have any financial interests in the Hong Kong listed companies covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+: Stock with potential loss of over 10% over next 12 months
+SELL
+NOT RATED
+: Stock is not rated by CMBIS
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary of
+China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives,
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that
+which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of
+their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should independently
+evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to make their own
+investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of
+CMBIS and/or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any
+security or any interest in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors,
+officers or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the
+information contained in this report. Anyone making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available
+and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness.
+CMBIS provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS
+may issue other publications having information and/or conclusions different from this report. These publications reflect different assumption, point-
+of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the
+recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself
+and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business
+relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the
+objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this
+publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of
+CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion)
+Order 2005 (as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies,
+Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities
+Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy of
+this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.

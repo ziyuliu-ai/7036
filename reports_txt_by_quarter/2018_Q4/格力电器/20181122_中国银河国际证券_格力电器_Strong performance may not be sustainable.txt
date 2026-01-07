@@ -1,852 +1,112 @@
- 
- 
-Nov. 1, 2018 
-Gree [000651.CH]: Strong performance may not be sustainable 
-Gree reported a strong set of 3Q18 results, with revenue and EPS growing 38.2% 
-and 38% YoY, respectively, led by strong results in air conditioning. While the results 
-were solid, investor concern is focused on the sustainability of the strong 
-performance, as rising channel inventory levels may account for a significant portion 
-of the growth. In comparison, Gree’s main competitors, Midea and Qingdao Haier, 
-had reported deteriorating China AC sales in 3Q18. Excess inventory could weigh on 
-2019 sales and profitability, thus impeding share price performance. We reduce our 
-target price from RMB43 to RMB40. 
- Investment Highlights 
-Strong 3Q18 growth, but concerns about channel inventory: Gree indicated that 
-channel inventory is at least 15 million units, which we estimate accounts for ~5 
-months of annual production. This compares unfavourably with Midea, which holds 5 
-million units of channel inventory, or 2-2.5 months of annual production by our 
-estimates. Unlike Midea, Gree does not warehouse inventory for its distributors, 
-which provides the Company with less clarity over channel inventory levels. 
-Gree anticipates continued strength in 4Q18: Gree indicated that it expects 4Q18 
-growth to be roughly in line with that of Q3, but that the AC segment is difficult to 
-predict. For 2019, Gree believes double-digit revenue growth should be achievable. 
-We remain concerned that continued strong sales in a weak market may result in 
-increased channel inventory levels, which may hamper growth in 2019. 
-Continued dividend uncertainty: Gree announced a proposed interim dividend of 
-3.6Bn, or RMB0.6 per share, indicating a ~30% payout ratio for 1H18. This was less 
-than our and market expectations of ~50% payout, and below Gree’s historical 
-payout ratio of 60-70%. Gree has not provided clear guidance on whether it intends 
-to continue this payout ratio for 2H18 earnings. Nor has Gree provided further clarity 
-on where it intends to invest its cash reserves. 
-Inexpensive valuation. In spite of a strong 9M18 top line, we remain cautious about 
-Gree’s future growth in light of increasing channel inventory, the lack of new 
-discernible long-term growth drivers, and an inconsistent corporate strategy. Gree 
-derives ~88% of its revenue from China, making its earnings almost wholly reliant on 
-the domestic China market. On this basis, we believe Gree warrants a discount 
-relative to its peers Haier and Midea. We raise our 2018 EPS estimates by 4.3% on 
-the back of strong 3Q18, but cut our 2019 EPS estimates by 5%. Our 2018/2019 
-EPS estimates are 8%/14% below consensus. We value the Company at 9.5x 2019E 
-PER, implying a 12-month target price of RMB40, or ~5% upside. 
-2016
-2017
-2018E
-2019E
-2020E
-Revenue (RMB Mn)
-110,113
-150,020
-182,823
-179,342
-189,884
-     Growth (%)
-9%
-36%
-22%
--2%
-6%
-Net Profit (RMB Mn)
-15,464
-22,402
-25,777
-25,605
-27,123
-     Growth (%)
-23%
-45%
-15%
--1%
-6%
-EPS (RMB)
-2.57
-3.72
-4.28
-4.26
-4.51
-PER (x)
-14.8
-10.2
-8.9
-8.9
-8.4
-PBR (x)
-4.2
-3.5
-2.9
-2.5
-2.1  
-Sources: Company Annual Report, CGIS Research 
-      Home Appliances Sector 
-Hold  
- 
-      Close: RMB 38.06 (Oct. 31, 2018) 
-   Target Price: RMB 40 (+5%) 
-Price Performance 
-0
-2,000
-4,000
-6,000
-8,000
-10,000
-12,000
-14,000
-16,000
-18,000
-0
-10
-20
-30
-40
-50
-60
-70
-Turnover (RMB in Mn, Rhs)
-Price (RMB)
- 
-Market Cap  
-US$32,838m 
-Shares Outstanding 
-6,016m 
-Free Float 
-56% 
-52W High 
-RMB 58.70 
-52W Low 
-RMB 35.60 
-3M Avg Daily T/O:     
-US$293m 
-Major Shareholders:   
-Gree Group. (18%) 
- Sources: Company, Bloomberg 
- 
-Jeff Dorr – Analyst  
- 
-(852) 3698 6323 
-jeffreydorr@chinastock.com.hk 
- 
-An Zhang – Analyst 
- 
-(852) 3698 6293 
-zhangan@chinastock.com.hk 
- 
-Johnson Cheung – Research Director 
- 
-(852) 3698 6275 
-johnsoncheung@chinastock.com.hk 
- 
- 
- 
- 
- 
-2 
-` 
- 
-Results 
-Gree released its 3Q18 results, which were in line with market expectations, following Gree’s pre-
-announcement on October 9. Total revenue rose 38.2% YoY for the quarter, an acceleration over Gree’s 
-31% growth in first half. Net profit to common grew 38.3% YoY for the quarter. 
- 
-Figure 1: Gree 9M18 Results Overview 
-RMB Mn
-9M17
-9M18
-%YoY
-3Q17
-3Q18
-%YoY
-Revenue
-112,027
-150,050
-33.9%
-42,006
-58,045
-38.2%
-COGS
-(76,090) (103,861)
-36.5%
-(29,001) (40,202)
-38.6%
-Gross Profit
-35,937
-46,189
-28.5%
-13,005
-17,844
-37.2%
-GPM
-32.1%
-30.8%
--1.3%
-31.0%
-30.7%
--0.2%
-SG&A
-(17,591)
-(21,929)
-24.7%
-(5,532)
-(8,515)
-53.9%
-Operating Profit
-18,346
-24,260
-32.2%
-7,473
-9,329
-24.8%
-OP Margin
-16.4%
-16.2%
--0.2%
-17.8%
-16.1%
--1.7%
-Financing Costs
-277
-696
-151.4%
-85
-381
-347.6%
-Other G/L
-(304)
-207
--167.9%
-(455)
-149
--132.7%
-PBT
-18,318
-25,163
-37.4%
-7,103
-9,859
-38.8%
-Tax
-(2,730)
-(3,922)
-43.7%
-(1,046)
-(1,503)
-43.7%
-Effective tax rate
-15%
-16%
-0.7%
-15%
-15%
-0.5%
-Net Profit
-15,588
-21,241
-36.3%
-6,058
-8,356
-37.9%
-NPM
-13.9%
-14.2%
-0.2%
-14.4%
-14.4%
-0.0%
-Minority Interest
-(72)
-(123)
-69.5%
-(21)
-(43)
-102.7%
-Profit to Common
-15,461
-21,118
-36.6%
-6,008
-8,312
-38.3%
-EPS (Diluted)
-2.57
-3.51
-36.6%
-1.00
-1.38
-38.0%  
-Source: Company Reports, CGIS Research 
-  
-Figure 2: Gree Consensus PE band 
-0
-2
-4
-6
-8
-10
-12
-14
-16
-12-mth forward PER
-Average
-+1 Std
--1 Std
-  
-Source: Bloomberg, CGIS Research 
- 
- 
-3 
-` 
-FINANCIAL MODEL 
- 
-Figure 3: Simplified Consolidated Statement of Profit and Loss 
-Dec. Year End (RMB Mln)
-2016
-2017
-2018E
-2019E
-2020E
-Sales Revenue
-110,113
-150,020
-182,823
-179,342
-189,884
-COGS
-(72,886)
-(99,563)
-(123,985)
-(121,073)
-(128,516)
-Gross profit
-37,227
-50,457
-58,838
-58,268
-61,367
-Sale tax
-(1,430)
-(1,513)
-(1,670)
-(1,792)
-(1,898)
-Selling and distribution costs
-(16,477)
-(16,660)
-(20,287)
-(19,728)
-(20,899)
-General and administrative expenses
-(5,486)
-(6,071)
-(7,296)
-(7,994)
-(8,468)
-Others
-(94)
-(196)
-(130)
-(200)
-(200)
-Total EBIT
-13,740
-26,016
-29,455
-28,555
-29,902
-Depreciation & Amortisation
-1,764
-2,296
-2,362
-2,754
-3,146
-EBITDA
-15,504
-28,312
-31,816
-31,308
-33,048
-Interest expense
-(311)
-(819)
-(1,026)
-(751)
-(476)
-Interest income
-1,484
-2,205
-2,291
-2,471
-2,643
-Exchange gains/ losses
-3,702
-(1,603)
-(238)
-0
-0
-Others
-(43)
-819
-(4)
-0
-0
-Pre-Tax Profit
-18,573
-26,617
-30,478
-30,275
-32,069
-Tax Expense
-(3,007)
-(4,109)
-(4,572)
-(4,541)
-(4,810)
-Net Profit After Tax
-15,566
-22,509
-25,907
-25,733
-27,259
-Minority Interest
-103
-107
-130
-129
-136
-Earnings to Equity Owners
-15,464
-22,402
-25,777
-25,605
-27,123
-EPS (Basic)
-2.57
-3.72
-4.28
-4.26
-4.51
-EPS (Diluted)
-2.57
-3.72
-4.28
-4.26
-4.51
-DPS
-1.80
-0.00
-4.00
-2.13
-2.25
-% YoY growth
-Revenue
-9.5%
-36.2%
-21.9%
--1.9%
-5.9%
-Gross profit
-7.8%
-35.5%
-16.6%
--1.0%
-5.3%
-EBIT
-9.2%
-89.3%
-13.2%
--3.1%
-4.7%
-Net profit
-23.4%
-44.9%
-15.1%
--0.7%
-5.9%
-Margins and ratios
-Gross profit margin
-33.8%
-33.6%
-32.2%
-32.5%
-32.3%
-EBITDA Margin
-14.1%
-18.9%
-17.4%
-17.5%
-17.4%
-EBIT Margin
-12.5%
-17.3%
-16.1%
-15.9%
-15.7%
-Net Profit Margin
-14.0%
-14.9%
-14.1%
-14.3%
-14.3%  
- Sources: Company Annual Report, CGIS Research 
- 
- 
-4 
-` 
-Figure 4: Simplified Consolidated Statement of Financial Position 
-Dec. Year End (RMB Mln)
-2016
-2017
-2018E
-2019E
-2020E
-Cash & Equivalents
-96,005
-100,694
-108,502
-115,975
-123,218
-Trade and other receivables
-34,078
-40,213
-45,816
-44,487
-46,976
-Inventories
-9,025
-16,568
-17,220
-15,470
-16,422
-Prepayments
-1,815
-3,718
-3,718
-3,718
-3,718
-Other current assets
-1,993
-10,342
-10,342
-10,342
-10,342
-Total current assets
-142,915
-171,535
-185,598
-189,992
-200,675
-Loans and advances
-4,737
-6,673
-6,673
-6,673
-6,673
-PPE, net
-18,263
-18,488
-20,709
-22,548
-24,004
-Intangible assets
-3,355
-3,604
-4,022
-4,429
-4,827
-Deferred tax assets
-9,668
-10,838
-10,838
-10,838
-10,838
-Other non-current assets
-3,436
-3,829
-3,829
-3,829
-3,829
-Total non-current assets
-39,459
-43,433
-46,072
-48,318
-50,172
-Total assets
-182,374
-214,968
-231,670
-238,310
-250,847
-Short-term borrowings
-10,701
-18,646
-13,646
-8,646
-3,646
-Prepayments
-10,022
-14,143
-14,143
-14,143
-14,143
-Notes payable
-9,127
-9,767
-11,710
-11,435
-12,138
-Accounts payable
-29,541
-34,553
-39,606
-38,676
-41,054
-Tax payable
-3,126
-3,909
-3,909
-3,909
-3,909
-Other payables
-4,601
-5,561
-5,561
-5,561
-5,561
-Other current liabilities
-59,733
-60,912
-60,912
-60,912
-60,912
-Total current liabilities
-126,852
-147,491
-149,487
-143,282
-141,362
-Long-term borrowings
-0
-0
-0
-0
-0
-Other long term liabilities
-570
-642
-642
-642
-642
-Total non-current liabilities
-570
-642
-642
-642
-642
-Total liabilities
-127,422
-148,133
-150,129
-143,924
-142,005
-Shareholders Fund
-53,972
-65,595
-80,171
-92,888
-107,208
-Minority Interest
-980
-1,240
-1,369
-1,498
-1,634
-Total S/H Equity
-54,952
-66,835
-81,541
-94,386
-108,842
-Total Liab & S/H Fund
-182,374
-214,968
-231,670
-238,310
-250,847  
-Sources: Company Annual Report, CGIS Research 
- 
- 
- 
-5 
-` 
-Figure 5: Simplified Consolidated Statement of Cash Flows 
-Dec. Year End (RMB Mln)
-2016
-2017
-2018E
-2019E
-2020E
-Net Income
-15,566
-22,509
-25,907
-25,733
-27,259
-Depreciation & Amortization
-1,764
-2,296
-2,362
-2,754
-3,146
-Change in Working Capital
-(906)
-(6,883)
-741
-1,874
-(360)
-Other Non Cash Adjustments
-(1,565)
-(1,564)
-0
-0
-0
-Operating Cash Flow
-14,860
-16,359
-29,009
-30,362
-30,045
-Cash recovered from investment
-3,441
-4,003
-0
-0
-0
-Capex
-(3,277)
-(2,425)
-(5,000)
-(5,000)
-(5,000)
-Cash spent on investment *
-(1,496)
-(12,420)
-0
-0
-0
-Investments in Fixed Deposits**
-(17,914)
-(51,412)
-0
-0
-0
-Investing Cashflow
-(19,247)
-(62,253)
-(5,000)
-(5,000)
-(5,000)
-Dividend (ordinary)
-(9,180)
-(11,121)
-(11,201)
-(12,889)
-(12,802)
-Debt Movements
-1,328
-8,601
-(5,000)
-(5,000)
-(5,000)
-Others
-2,100
-251
-0
-0
-0
-Financing Cashflow
-(5,752)
-(2,269)
-(16,201)
-(17,889)
-(17,802)
-Total Cash Flow
-(10,138)
-(48,164)
-7,808
-7,473
-7,242
-Cash Flow Ex. Fixed Deposit Investment
-7,776
-3,247
-7,808
-7,473
-7,242  
-Sources: Company Annual Report, CGIS Research 
- 
- 
- 
- 
-6 
-` 
-Disclaimer 
-This research report is not directed at, or intended for distribution to or used by, any person or entity who is a citizen or resident of or located in any jurisdiction 
-where such distribution, publication, availability or use would be contrary to applicable law or regulation or which would subject China Galaxy International 
-Securities (Hong Kong) Co., Limited (“Galaxy International Securities”) and/or its group companies to any registration or licensing requirement within such 
-jurisdiction. 
-This report (including any information attached) is issued by Galaxy International Securities, one of the subsidiaries of the China Galaxy International Financial 
-Holdings Limited, to the institutional clients from the information sources believed to be reliable, but no representation or warranty (expressly or implied) is made 
-as to their accuracy, correctness and/or completeness.  
-This report shall not be construed as an offer, invitation or solicitation to buy or sell any securities of the company(ies) referred to herein. Past performance should 
-not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied, is made regarding future performance. 
-The recipient of this report should understand and comprehend the investment objectives and its related risks, and where necessary consult their own independent 
-financial advisers prior to any investment decision. 
-Where any part of the information, opinions or estimates contained herein reflects the personal views and opinions of the analyst who prepared this report, such 
-views and opinions may not correspond to the published views or investment decisions of China Galaxy International Financial Holdings Limited and any of its 
-subsidiaries (“China Galaxy International”), directors, officers, agents and employees (“the Relevant Parties”).  
-All opinions and estimates reflect the judgment of the analyst on the date of this report and are subject to change without notice. China Galaxy International and/or 
-the Relevant Parties hereby disclaim any of their liabilities arising from the inaccuracy, incorrectness and incompleteness of this report and its attachment/s and/or 
-any action or omission made in reliance thereof. Accordingly, this report must be read in conjunction with this disclaimer.  
-Disclosure of Interests 
-China Galaxy Securities Co., Ltd. (6881.HK; 601881.CH) is the direct and/or indirect holding company of the group of companies under China Galaxy International.  
-China Galaxy International may have financial interests in relation to the subjected company(ies) the securities in respect of which are reviewed in this report, and 
-such interests aggregate to an amount may equal to or more than 1 % of the subjected company(ies)’ market capitalization.  
-One or more directors, officers and/or employees of China Galaxy International may be a director or officer of the securities of the company(ies) mentioned in this 
-report.  
-China Galaxy International and the Relevant Parties may, to the extent permitted by law, from time to time participate or invest in financing transactions with the 
-securities of the company(ies) mentioned in this report, perform services for or solicit business from such company(ies), and/or have a position or holding, or other 
-material interest, or effect transactions, in such securities or options thereon, or other investments related thereto.  
-China Galaxy International may have served as manager or co-manager of a public offering of securities for, or currently may make a primary market in issues of, any 
-or all of the entities mentioned in this report or may be providing, or have provided within the last 12 months, significant advice or investment services in relation 
-to the investment concerned or a related investment or investment banking services to the company(ies) mentioned in this report.  
-Furthermore, China Galaxy International may have received compensation for investment banking services from the company(ies) mentioned in this report within 
-the preceding 12 months and may currently seeking investment banking mandate from the subject company(ies). 
-Analyst Certification  
-The analyst who is primarily responsible for the content of this report, in whole or in part, certifies that with respect to the securities or issuer covered in this report: 
-(1) all of the views expressed accurately reflect his or her personal views about the subject, securities or issuer; and (2) no part of his or her compensation was, is, 
-or will be, directly or indirectly, related to the specific views expressed by the analyst in this report.  
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures 
-Commission) (1) have dealt in or traded in the securities covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will deal 
+Gree [000651.CH]: Strong performance may not be sustainable
+Gree reported a strong set of 3Q18 results, with revenue and EPS growing 38.2%
+and 38% YoY, respectively, led by strong results in air conditioning. While the results
+were solid, investor concern is focused on the sustainability of the strong
+performance, as rising channel inventory levels may account for a significant portion
+Home Appliances Sector
+of the growth. In comparison, Gree's main competitors, Midea and Qingdao Haier,
+had reported deteriorating China AC sales in 3Q18. Excess inventory could weigh on
+Hold
+2019 sales and profitability, thus impeding share price performance. We reduce our
+target price from RMB43 to RMB40.
+Investment Highlights
+Strong 3Q18 growth, but concerns about channel inventory: Gree indicated that
+Close: RMB 38.06 (Oct. 31, 2018)
+million units of channel inventory, or 2-2.5 months of annual production by our
+Target Price: RMB 40 (+5%)
+estimates. Unlike Midea, Gree does not warehouse inventory for its distributors,
+which provides the Company with less clarity over channel inventory levels.
+Price Performance
+growth to be roughly in line with that of Q3, but that the AC segment is difficult to
+predict. For 2019, Gree believes double-digit revenue growth should be achievable.
+We remain concerned that continued strong sales in a weak market may result in
+increased channel inventory levels, which may hamper growth in 2019.
+Continued dividend uncertainty: Gree announced a proposed interim dividend of
+3.6Bn, or RMB0.6 per share, indicating a ~30% payout ratio for 1H18. This was less
+than our and market expectations of ~50% payout, and below Gree's historical
+payout ratio of 60-70%. Gree has not provided clear guidance on whether it intends
+US$32,838m
+Market Cap
+to continue this payout ratio for 2H18 earnings. Nor has Gree provided further clarity
+Shares Outstanding
+on where it intends to invest its cash reserves.
+6,016m
+Free Float
+56%
+Inexpensive valuation. In spite of a strong 9M18 top line, we remain cautious about
+Gree's future growth in light of increasing channel inventory, the lack of new
+52W High
+discernible long-term growth drivers, and an inconsistent corporate strategy. Gree
+52W Low
+derives ~88% of its revenue from China, making its earnings almost wholly reliant on
+3M Avg Daily T/O:
+US$293m
+the domestic China market. On this basis, we believe Gree warrants a discount
+Major Shareholders:
+Gree Group. (18%)
+relative to its peers Haier and Midea. We raise our 2018 EPS estimates by 4.3% on
+Sources: Company, Bloomberg
+EPS estimates are 8%/14% below consensus. We value the Company at 9.5x 2019E
+PER, implying a 12-month target price of RMB40, or ~5% upside.
+Jeff Dorr – Analyst
+An Zhang – Analyst
+Johnson Cheung – Research Director
+Sources: Company Annual Report, CGIS Research
+Results
+Gree released its 3Q18 results, which were in line with market expectations, following Gree's pre-
+announcement on October 9. Total revenue rose 38.2% YoY for the quarter, an acceleration over Gree's
+31% growth in first half. Net profit to common grew 38.3% YoY for the quarter.
+Source: Company Reports, CGIS Research
+Source: Bloomberg, CGIS Research
+FINANCIAL MODEL
+Sources: Company Annual Report, CGIS Research
+Disclaimer
+This research report is not directed at, or intended for distribution to or used by, any person or entity who is a citizen or resident of or located in any jurisdiction
+where such distribution, publication, availability or use would be contrary to applicable law or regulation or which would subject China Galaxy International
+Securities (Hong Kong) Co., Limited ("Galaxy International Securities") and/or its group companies to any registration or licensing requirement within such
+jurisdiction.
+This report (including any information attached) is issued by Galaxy International Securities, one of the subsidiaries of the China Galaxy International Financial
+Holdings Limited, to the institutional clients from the information sources believed to be reliable, but no representation or warranty (expressly or implied) is made
+as to their accuracy, correctness and/or completeness.
+This report shall not be construed as an offer, invitation or solicitation to buy or sell any securities of the company(ies) referred to herein. Past performance should
+not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied, is made regarding future performance.
+The recipient of this report should understand and comprehend the investment objectives and its related risks, and where necessary consult their own independent
+financial advisers prior to any investment decision.
+Where any part of the information, opinions or estimates contained herein reflects the personal views and opinions of the analyst who prepared this report, such
+views and opinions may not correspond to the published views or investment decisions of China Galaxy International Financial Holdings Limited and any of its
+subsidiaries ("China Galaxy International"), directors, officers, agents and employees ("the Relevant Parties").
+All opinions and estimates reflect the judgment of the analyst on the date of this report and are subject to change without notice. China Galaxy International and/or
+the Relevant Parties hereby disclaim any of their liabilities arising from the inaccuracy, incorrectness and incompleteness of this report and its attachment/s and/or
+any action or omission made in reliance thereof. Accordingly, this report must be read in conjunction with this disclaimer.
+Disclosure of Interests
+China Galaxy Securities Co., Ltd. (6881.HK; 601881.CH) is the direct and/or indirect holding company of the group of companies under China Galaxy International.
+China Galaxy International may have financial interests in relation to the subjected company(ies) the securities in respect of which are reviewed in this report, and
+such interests aggregate to an amount may equal to or more than 1 % of the subjected company(ies)' market capitalization.
+One or more directors, officers and/or employees of China Galaxy International may be a director or officer of the securities of the company(ies) mentioned in this
+report.
+China Galaxy International and the Relevant Parties may, to the extent permitted by law, from time to time participate or invest in financing transactions with the
+securities of the company(ies) mentioned in this report, perform services for or solicit business from such company(ies), and/or have a position or holding, or other
+material interest, or effect transactions, in such securities or options thereon, or other investments related thereto.
+China Galaxy International may have served as manager or co-manager of a public offering of securities for, or currently may make a primary market in issues of, any
+or all of the entities mentioned in this report or may be providing, or have provided within the last 12 months, significant advice or investment services in relation
+to the investment concerned or a related investment or investment banking services to the company(ies) mentioned in this report.
+Furthermore, China Galaxy International may have received compensation for investment banking services from the company(ies) mentioned in this report within
+the preceding 12 months and may currently seeking investment banking mandate from the subject company(ies).
+Analyst Certification
+The analyst who is primarily responsible for the content of this report, in whole or in part, certifies that with respect to the securities or issuer covered in this report:
+(1) all of the views expressed accurately reflect his or her personal views about the subject, securities or issuer; and (2) no part of his or her compensation was, is,
+or will be, directly or indirectly, related to the specific views expressed by the analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
+Commission) (1) have dealt in or traded in the securities covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will deal
 in or trade in the securities covered in this research report three business days after the date of issue of this report; (3) serve as an officer of any of the Hong Kong-
-listed companies covered in this report; and (4) have any financial interests in the Hong Kong-listed companies covered in this report.  
-Explanation on Equity Ratings  
-Copyright Reserved 
-No part of this material may be reproduced or redistributed without the prior written consent of China Galaxy International Securities (Hong Kong) Co., Limited.  
-China Galaxy International Securities (Hong Kong) Co. Limited, CE No.AXM459  
-20/F, Wing On Centre, 111 Connaught Road Central, Sheung Wan, Hong Kong. General line: 3698-6888. 
- 
-BUY 
-: 
-share price will increase by >20% within 12 months in absolute terms 
-SELL 
-: 
-share price will decrease by >20% within 12 months in absolute terms 
-HOLD 
-: 
-no clear catalyst, and downgraded from BUY pending clearer signal to reinstate BUY or further downgrade to outright SELL 
+listed companies covered in this report; and (4) have any financial interests in the Hong Kong-listed companies covered in this report.
+Explanation on Equity Ratings
+share price will increase by >20% within 12 months in absolute terms
+BUY
+SELL
+share price will decrease by >20% within 12 months in absolute terms
+no clear catalyst, and downgraded from BUY pending clearer signal to reinstate BUY or further downgrade to outright SELL
+HOLD
+Copyright Reserved
+No part of this material may be reproduced or redistributed without the prior written consent of China Galaxy International Securities (Hong Kong) Co., Limited.
+20/F, Wing On Centre, 111 Connaught Road Central, Sheung Wan, Hong Kong. General line: 3698-6888.

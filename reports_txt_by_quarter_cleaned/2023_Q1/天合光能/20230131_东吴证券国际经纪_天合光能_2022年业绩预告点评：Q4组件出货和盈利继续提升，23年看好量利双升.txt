@@ -1,202 +1,107 @@
-Trina Solar688599
-Equity ResearchCompany ResearchPV Equipment
-%()-01
-2022 earnings estimate quicktake Trina Solars
+Trina Solar (688599)
+2022 earnings estimate quicktake: Trina Solar's
 profit and PV module shipments were on the rise
-in 22Q4 and the trend will likely continue in 2023
+Research Analyst
+Ruibin Chen
 Buy (Maintain)
-Forecast  Valuation
-Revenue (RMB mn)
-Growth (YoY %)
-Net profit (RMB mn)
-Growth (YoY %)
-n Event Trina Solar (TS) released its 2022 earnings estimate TSs 2022 profit increased
-by 90-123% YoY to Rmb342-402bn and its 22Q4 profit increased by 57% -150% YoY
-(-10%-43% QoQ) to Rmb102-162bn TSs asset (power station) impairment loss was
-Rmb800-900mn and exchange loss was about Rmb200mn in 22Q4 TSs investment
-impairment and exchange losses
-n TSs PV module shipments increased rapidly and the profit per watt reached a new
-high We estimate that TSs PV module shipments have increased by 75% YoY to 43GW
-in 2022 and reached 13GW in 22Q4 We estimate that the profit per watt has increased
-by 001 RmbW QoQ to 009 RmbW bringing profit of Rmb11-12bn in 22Q4 The
+Price Movement
+Investment Thesis
+■ Event: Trina Solar (TS) released its 2022 earnings estimate. TS's 2022 profit increased
+by 90-123% YoY to Rmb3.42-4.02bn, and its 22Q4 profit increased by 57% -150% YoY
+(-10%-43% QoQ) to Rmb1.02-1.62bn. TS's asset (power station) impairment loss was
+Rmb800-900mn, and exchange loss was about Rmb200mn in 22Q4. TS's investment
+income from silicon wafers was about Rmb0.8-1bn, which basically offsets its
+Market Data
+impairment and exchange losses.
+TS's PV module shipments increased rapidly and the profit per watt reached a new
+high. We estimate that TS's PV module shipments have increased by 75% YoY to 43GW
+in 2022 and reached 13GW in 22Q4. We estimate that the profit per watt has increased
+by 0.01 Rmb/W QoQ to 0.09 Rmb/W, bringing profit of Rmb1.1-1.2bn in 22Q4. The
 record profit per watt was mainly due to the reduction in polysilicon wafer prices and
-freight rates TS expect that its PV module shipments will increase by 50% YoY to
-60-65GW in 2023 We are optimistic about TSs profitability in 2023 1) Highly-priced
-existing orders and rapidly decreasing raw material prices will help improve profitability
-2) We expect TSs TOPCon cells to ship about 20GW in 2023 and enjoy a new
-technology premium 3) Wafer capacity expansion helps reduce costs
-n TSs distributed system is highly profitable and energy storage business has begun
-to turn losses into profits We expect that TSs distributed system has shipped 6-65GW
-in 2022 and 2GW in 22Q4 with profit per watt at 016 RmbW With the expected
-decline of PV module prices in 2023 IRR of distributed PV system will likely increase
-We expect that TSs distributed PV system shipment will increase by 45% YoY to
-9-10GW TSs solar panel mounts have shipped 43-45GW in 2022 of which 17-18GW
-of tracking mounts We expect that TSs solar panel mount shipments will increase by
-100% YoY to 7-8GW in 2023 TSs energy storage business mainly engages in the field
-of domestic large-scale energy storage TSs energy storage product shipments in 2022
-were 18-2GWh and in 22Q4 quickly reached a large volume of about 15GWh turning
-losses into profits We expect that TSs energy storage products shipments will be about
-3-4GWh in 2023 generating positive profits
-n Earnings Forecast  Rating We maintain Buy rating with TP at Rmb987
-(corresponding to PE ratio at 30x in 2023) considering TSs quickly increasing
-shipments of PV modules and energy storage products We revise up TSs earning
-forecast and expect that the net profit will increase by 108%90%35% YoY to
-Rmb375714965bn (previous value at Rmb370661906bn) in 202220232024
-respectively
-Closing price (RMB)
-52-week Range (RMB)
-BVPS (RMB)
-LiabilitiesAssets (%)
-Total Issued Shares (mn)
-Shares Outstanding (mn)
-7ABCDE
-FGHI8JBKLM
-7OPQRSTGUV
+freight rates. TS expect that its PV module shipments will increase by 50% YoY to
+60-65GW in 2023. We are optimistic about TS's profitability in 2023: 1) Highly-priced
+Basic Data
+existing orders and rapidly decreasing raw material prices will help improve profitability;
+2) We expect TS's TOPCon cells to ship about 20GW in 2023 and enjoy a new
+technology premium; 3) Wafer capacity expansion helps reduce costs.
+■ TS's distributed system is highly profitable, and energy storage business has begun
+to turn losses into profits. We expect that TS's distributed system has shipped 6-6.5GW
+in 2022 and 2GW+ in 22Q4 with profit per watt at 0.16 Rmb/W. With the expected
+decline of PV module prices in 2023, IRR of distributed PV system will likely increase.
+Related reports
+We expect that TS's distributed PV system shipment will increase by 45%+ YoY to
+9-10GW. TS's solar panel mounts have shipped 4.3-4.5GW in 2022, of which 1.7-1.8GW
+《天合光能(688599): 2022 年三
+of tracking mounts. We expect that TS's solar panel mount shipments will increase by
+季报点评:各环节盈利持续改
+100%+ YoY to 7-8GW in 2023. TS's energy storage business mainly engages in the field
+善，看好明年量利双升》
+were 1.8-2GWh, and in 22Q4 quickly reached a large volume of about 1.5GWh, turning
+losses into profits. We expect that TS's energy storage products shipments will be about
+《天合光能(688599): 2022 年中
+3-4GWh in 2023, generating positive profits.
+报点评:组件出货高增,多业务
+持续向好 》
+(corresponding to PE ratio at 30x in 2023), considering TS's quickly increasing
+shipments of PV modules and energy storage products. We revise up TS's earning
+forecast and expect that the net profit will increase by 108%/90%/35% YoY to
+Securities International
+Soochow
+respectively.
 Brokerage Limited would like to
+Risks: Weaker-than-expected policy support, intensified market competition.
 acknowledge the contribution and
-Research Institute and in particular
-its employees Duohong Zeng(
-)Yao chen(%) and Yanan
-30 January 2023
-%688599
-%()-
-%()-01
-2022 %(Q4 )-012
-()-01
--AB-01
-PE-CDAB1
-n P7 2022 8VabcGbdefghiBj 342-402
-klGmT 90%-123%GnoghiBj 321-380 klGmT
-107%-146%pqN 2022Q4 ghiBj 102-162 klGmT 57% -150%G
-T-10%-43%GnoghiBj 97-156 klGmT 69% -171%GT
--11% -43%p 2022Q4 rstYuvdwxyz 8-9 klGz
- 2 klGXY 8-10 klGxyt
-zGxyGVabp
-n Q4 OPQRSTBj—Sbd 2022 8OPQR
- 43GWGmT 75%GqN 2022Q4 QR 13GWGAB
-9 0W GwL 1 0G  11-12 klBjGAB—SG
-Ztp2023 8bdOPQR
-60-65GWGmT 50%GHIABDwL7-
-GSABwLbd 2023 8 TOPCon
-QR 20GW G—u6wLG
-GOPJBKL
-n 0SAB6JAbd 2022 80
-QR 6-65GWGqN 2022Q4 QR 2GWGABC 016
-lWG  2-3 klBj2023 8OPG0wLG
-Gbd 9-10GWGmT 45%p 2022 8
-QR 43-45GWGqN 17-18GWG 40%G2022Q4 
-QR 13-15GWGAbd 2023 8QR 7-8GWGm
-Tp6G2022Q4 -JGQR
-15GWhGAGbd 2022 8QR 18-2GWhG2023 8
-GbdQR 3-4GWhGefAB p
-n ABbXY7OPQRSTG0SABG
-6VJG- 2022-2024 8ABbGbd
-2022-2024 8ghiBj 375714965 klGy 370661906
-klGm108%90%35%G5Gm6V
-G 2023 8 30  PEG 987 lGC
-n w%7(tbG)p
-56 A -y(7
-7ABCDE
-FGHI8JBKLM
-7OPQRSTGUV
-BCDEFGHIAJ
-cKVAL0MCGN
-qOEPQRSTLUVW
-%()-01
-34569Zb
-Yu78l
-2024E  Bj78l
-1961  xV
-2048     Z
-3564  XYi
-894     qe
-4161     Yupq
-2357  Bjt
-9807  gxhiBj
-6606  EBIT
-3201  EBITDA
-1426  -012
-EFGHI()
-f5J78l
-6389  B(%)
--6085  cdiB(%)
--632  Yu(%)
--328  T(%)
-1572  iBjT(%)
--6864  PE
--6085  PB
-JKLMWind NOPQ-RS1TUVWXYZTNOPQ-RS1
-)96-)
-%()-01
-BCDEFGHIJKLMNOPB78Q78RSRTK5UVWXYB
-CZRCLCK5aBCB78RSLPbcdK5e
-fGghijQklmnonpqBCrstuvewxgykzj
-xgLQpkZjxgOLv)
-L-ykmn—CQy
--LrssykqL cdv)
--Cy-34L
--v)
--Cy-34L
-v)
-T34%B34(
-34yTB78R6lCB Dv)
-34yB78R-L34Lv)
-34q7834h  T
-uv)
-3478L-q34T
-B78QJQB34kn
-CB78Jv4
-CB78QCyB78ZvB78
-QyknB78LCLZG
-GQTOGG
-— Pcdv%OHI6(QO
-)I—Q%HI-GGGG01
-23yh4O567Tu890
-vB78-yv)
-B78RS3UABz6LCBQD
-ykVWEFGEOHIG0GJkl
-KLQ-MVNOQpkB78R
-SLPQLRSTvB78kUVDWXHIYZv)
-B78RxL3B78YZQyza
-)96-)
-%()-01
-bvcdTeQB78RPfCUXxewxgQewxg
-kgxgzhvhkijkQzlmkinoG
-K5-pOqB78RS3G6(kQ78v-
-R4zlmqnoQnorzlZB78
--stuvQykTwxgv)
-CG—CDyCzlzkino
-0VGki-pxqB783cdkQ
-6l01—K5QB34Ti3cd78RTn
-v34QTB78R
-34L-jQRO5zlqB78RK5y
-B78RSUQCvB78
-RTQB34iQkDpIG-B78
-vB78Q-kh4p
-—O78GG—
- PvTB78RSCzlm
-nonPQLQRRSv)
-zlh-VNOqB78RC
-L—QzlTuCQ
-TuCLkTuTst
-—v%1quCzlhuvB78
-RSK5JKEh QiB7856V
-B78RS6yZ-GGz
-78QX-MzQ
-qu-MG43--vn
-WB7889-Mv)
-Akj  qZth Da)
-Akj  qZt q Loa)
-EAkj) qZtq Loa)
-Akj) qZtqLoa)
-OAkj) qZthDv
-)96-)
-%()-01
-A)kj  QCqZt Da)
-EA)kj  QCqZtq a)
-A)kj  QCqZt Dv)
-T34
-))))))))))
-gt      
- AJL))J34L)JL))%J(
-34A111
+support provided by Soochow
+Research Institute, and in particular
+its employees Duohong Zeng(曾朵
+红), Yao chen(陈瑶) and Yanan
+Guo(郭亚男).
+天合光能 (688599)
+2022 年业绩预告点评: Q4 组件出货和盈利继续提
+2023年01月30日
+升,23年看好量利双升
+买入(维持)
+陈睿彬
+股价走势
+投资要点
+亿元, 同增 90%-123%, 扣非归母净利润 32.1-38.0 亿元, 同增
+107%-146%。 其中 2022Q4 归母净利润 10.2-16.2 亿元, 同增 57% -150%,
+环增-10%-43%, 扣非归母净利润 9.7-15.6 亿元, 同增 69% -171%, 环增
+-11%-43%。公司 2022Q4 电站及资产类计提减值损失 8-9 亿元, 汇兑损
+失约 2 亿元, 硅料硅片等投资收益约 8-10 亿元, 基本对冲减值及汇兑
+市场数据
+损失, 若考虑减值冲回, 业绩略超市场预期。
+■ Q4 组件出货高增、单瓦利润再创新高! 我们预计公司 2022 年组件出货
+约 43GW, 同增约 75%, 其中 2022Q4 出货 13GW, 我们测算单瓦盈利
+9分/W左右,环比提升1分,贡献11-12亿元利润,单瓦盈利创新高,
+主要在于硅料硅片降价及运费下降。2023年公司预计组件出货
+60-65GW, 同增 50%, 看好盈利继续提升: ①受益上游原材料价格快速
+下降, 在手高价订单带来盈利提升; ②我们预计 2023 年公司 TOPCon
+基础数据
+出货 20GW 左右,享受新技术溢价;③硅片产能扩张带来一体化率提升,
+成本有望下降, 推动组件量利双升!
+■ 分布式系统高盈利、储能开始放量扭亏为盈! 我们预计 2022 年公司分
+元/W, 贡献 2-3 亿元利润; 2023 年组件降价, 分布式收益率提升, 市
+场进一步扩大, 我们预计公司开发 9-10GW, 同增 45%+。支架 2022 年
+出货 4.3-4.5GW, 其中跟踪支架 1.7-1.8GW, 占比约为 40%, 2022Q4 支
+相关研究
+架出货约 1.3-1.5GW, 盈亏平衡; 我们预计 2023 年出货 7-8GW, 同比
+翻倍增长。公司储能以国内大储为主,2022Q4 上量迅速,出货约
+《天合光能(688599): 2022 年三
+1.5GWh, 扭亏为盈, 我们预计 2022 年出货 1.8-2GWh, 2023 年国内海
+季报点评:各环节盈利持续改
+外齐发力, 我们预计出货 3-4GWh, 可实现盈利贡献。
+善. 看好明年量利双升》
+■ 盈利预测与投资评级:基于公司组件出货高增,户用分布式高盈利,储
+能业务放量, 我们上调 2022-2024 年公司盈利预测, 我们预计公司
+《天合光能(688599): 2022 年中
+亿元),同比+108%/+90%/+35%,基于公司光伏龙头地位,同时储能业
+报点评:组件出货高增,多业务
+持续向好 》
+入”评级。
+报告专业研究和分析的支持, 尤
+其感谢曾朵红、陈瑶和郭亚男的
+指导。
+本人以勤勉、独立客观之态度出具本报告, 报告所载所有观点均准确反映本
+人对于所述证券或发行人之个人观点;本人于本报告所载之具体建议或观点于过
+去、现在或将来,不论直接或间接概与本人薪酬无关。过往表现并不可视作未来

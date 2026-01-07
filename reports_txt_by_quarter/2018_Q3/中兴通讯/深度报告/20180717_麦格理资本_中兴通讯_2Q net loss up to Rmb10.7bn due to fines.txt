@@ -1,3292 +1,446 @@
- 
-Please refer to page 8 for important disclosures and analyst certification, or on our website 
-www.macquarie.com/research/disclosures.   
-16 July 2018 
-China 
-EQUITIES 
- 
- 
-000063 CH 
-Neutral 
-Price (at 13:00, 13 Jul 2018 GMT) 
-Rmb14.10 
- 
-Valuation 
-Rmb 
-12.90
-- PER 
-12-month target 
-Rmb 
-12.90
-Upside/Downside 
-% 
--8.5
-12-month TSR 
-% 
--6.4
-Volatility Index 
-High
-GICS sector 
-Technology Hardware & Equipment 
-Market cap 
-Rmbm 
-57,317
-Market cap 
-US$m 
-8,596
-Free float 
-% 
-62
-30-day avg turnover 
-US$m 
-359.9
-Number shares on issue 
-m 
-4,065
- 
-Investment fundamentals 
-Year end 31 Dec 
- 
-2017A 
-2018E 
-2019E 
-2020E 
-Revenue 
-bn 
-108.8 
-75.1 
-105.6 
-130.3 
-EBIT 
-bn 
-7.8 
--13.6 
-6.9 
-9.3 
-EBIT growth 
-% 
-nmf 
-nmf 
-nmf 
-34.3 
-Reported profit 
-bn 
-4.6 
--12.1 
-4.2 
-6.1 
-EPS rep 
-Rmb 
-1.09 
--2.89 
-0.99 
-1.45 
-EPS rep growth 
-% 
-nmf 
-nmf 
-nmf 
-45.8 
-PER rep 
-x 
-12.9 
-nmf 
-14.2 
-9.8 
-Total DPS 
-Rmb 
-0.00 
-0.00 
-0.30 
-0.00 
-Total div yield 
-% 
-0.0 
-0.0 
-2.1 
-0.0 
-ROA 
-% 
-5.4 
--10.1 
-5.3 
-6.4 
-ROE 
-% 
-11.9 
--35.2 
-14.2 
-18.5 
-EV/EBITDA 
-x 
-4.8 
--3.6 
-5.1 
-4.0 
-Net debt/equity 
-% 
--34.6 
--46.6 
--42.7 
--39.9 
-P/BV 
-x 
-1.4 
-2.1 
-1.9 
-1.7 
- 
-000063 CH rel CSI 300 performance, & rec 
-history 
- 
-Note: Recommendation timeline - if not a continuous line, then there was no 
-Macquarie coverage at the time or there was an embargo period. 
-Source: FactSet, Macquarie Research, July 2018 
-(all figures in Rmb unless noted, TP in CNY) 
- 
-Analysts 
- 
-Macquarie Capital Limited 
- 
- 
-Chris Yu   +86 21 2412 9024 
-chris.yu@macquarie.com 
-Allen Chang   +852 3922 1136 
-allen.chang@macquarie.com 
- 
-Verena Jeng   +852 3922 3766 
-verena.jeng@macquarie.com 
-Jin Guo   +86 21 2412 9054 
-jin.guo@macquarie.com 
-ZTE (A-Share) 
-2Q net loss up to Rmb10.7bn due to fines 
-Key points 
- ZTE guided a net loss of Rmb8.7bn~10.7bn in 2Q due to the suspension of 
-major operating activities and US$1bn fine to strike an agreement w/the US. 
- The company has cleared another hurdle with a US$400m escrow 
-agreement on July 12, the final step to remove the ban once completed. 
- We cut our TP to Rmb12.9 as we trim earnings in 2018/19/20E by 
-420%/11%/4% to reflect the impact of the fines and operation suspension. 
- 
-Event 
- ZTE released 2Q18 guidance of a net loss of Rmb8.7bn~10.7bn vs a net profit 
-of Rmb1.1bn in 2Q17, owing to the suspension of major operating activities 
-and the US$1bn fine during the negotiation with the US in an attempt to 
-remove the denial order (Trading resumes; US$1.4bn settlement, June 13). 
-On July 12, the company signed an agreement for an additional US$400m 
-escrow penalty, paving the way to resume operations (link). It is important to 
-note that the ban will still be in place before the US issues a notice lifting 
-the ban once the escrow deposit is completed. 
-Impact 
- US$400m escrow penalty to be paid within 90 days from Jun 8: According 
-to the previous settlement deal, ZTE must place US$400m of suspended 
-penalty money in escrow within 90 days from Jun 8 in addition to the US$1bn 
-fine before BIS will officially remove ZTE from the Denied Persons List. The 
-US$1bn fine was booked in 2Q18 based on the company’s announcement 
-while the company has also come to a detailed agreement with US on the 
-escrow penalty, which marks the final step once the deposit is completed.  
- Management reshuffle with the new CEO in place: ZTE tapped an in-house 
-executive with experience in product research and operations, Xu Ziyang, to 
-be the new CEO as part of the settlement deal. Previously, Xu served as the 
-CEO of ZTE’s German operations, at a time when the company signed a five-
-year service contract with German telecoms operator E-Plus. Along with other 
-key executive appointments, the new management team vows to uphold 
-compliance as the top priority. 
-Earnings and target price revision 
- We factor in 2Q guidance and cut earnings in 2018/19/20E by 420%/11%/4% 
-further due to the fines and customers’ hanging concerns on the sustainability 
-of the company. We lower our TP to Rmb12.9 (from Rmb29.0) on an updated 
-PE multiple of 13x as a result, the trading average in the past three months.  
-Price catalyst 
- 12-month price target: Rmb12.90 based on 13x 2019E PER. 
- Catalyst: full 2Q18 results on Aug 23, the removal of the denial order. 
-Action and recommendation 
- Maintain Neutral. 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-2 
-Fig 1 Earnings revision 
-Rmb m 
-2018E 
-2019E 
-2020E 
-Old
-New
-Diff
-Old
-New 
-Diff
-Old
-New
-Diff
-Revenue 
-      107,193         75,090 
--29.9%
-      108,909       105,591 
--3.0%
-      134,986       130,320 
--3.5%
-Gross profit 
-        32,298         21,228 
--34.3%
-        33,535         30,491 
--9.1%
-        43,203         39,073 
--9.6%
-Op profit 
-          5,319           2,275 
--57.2%
-          5,447           4,888 
--10.3%
-          7,432           7,105 
--4.4%
-Net profit 
-          4,277 
--12,095 
--419.8%
-          4,684           4,111 
--11.3%
-          6,319           6,058 
--4.1%
-EPS 
-            1.02           -2.89
--419.8%
-            1.12             0.99 
--11.2%
-            1.51             1.45 
--4.1%
-Margins 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Gross margin 
-30.1%
-28.3%
--1.9ppt
-30.8%
-28.9% 
--1.9ppt
-32.0%
-30.0%
--2.0ppt
-Op margin 
-5.0%
-3.0%
--1.9ppt
-5.0%
-4.6% 
--0.4ppt
-5.5%
-5.5%
--0.1ppt
-Net margin 
-4.0%
--16.1%
--20.1ppt
-4.3%
-3.9% 
--0.4ppt
-4.7%
-4.6%
-0.0ppt
-Source: Macquarie Research, July 2018 
-Fig 2 MQ vs. Bloomberg consensus 
-Rmb m 
- 
-2018E 
- 
-2019E 
-MQ 
-Consensus 
-Diff 
-MQ 
-Consensus 
-Diff 
-Revenue 
-        75,090 
-      106,484 
--29% 
-      105,591 
-      117,075 
--10%
-Gross profit 
-        21,228 
-        30,941 
--31% 
-        30,491 
-        35,607 
--14%
-OP profit 
-          2,275 
-          4,588 
--50% 
-          4,888 
-          6,788 
--28%
-Net income 
--12,095 
-             513
--2459% 
-          4,111 
-          5,270 
--22%
-Margin 
- 
- 
-  
- 
- 
- 
-Gross margin 
-28.3%
-29.1%
--0.8ppt 
-28.9%
-30.4%
--1.5ppt
-OP margin 
-3.0%
-4.3%
--1.3ppt 
-4.6%
-5.8%
--1.2ppt
-Net margin 
--16.1%
-0.5%
--16.6ppt 
-3.9%
-4.5%
--0.6ppt
-Source: Bloomberg, Macquarie Research, July 2018 
-Fig 3 ZTE quarterly P&L 
-(Rmb m) 
-1Q18 
-2Q18E 
-3Q18E 
-4Q18E 
-1Q19E 
-2Q19E 
-3Q19E 
-4Q19E 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Revenue 
-28,880
-2,010 
-20,095
-24,104 
-23,236
-26,082
-23,189 
-33,084
-101,233 108,815
-75,090
-105,591 130,320
-Gross profit 
-9,628
-607 
-4,898
-6,095 
-6,733
-7,637
-6,426 
-9,695
-31,133 
-33,809
-21,228
-30,491 
-39,073
-Operating profit 
-2,227
-104 
--126
-69 
-1,040
-1,247
-846 
-1,754
-2,556 
-4,944
-2,275
-4,888 
-7,105
-Pretax income 
-2,294
--13,196 
--2,926
--737 
-1,286
-1,493
-1,092 
-2,000
--768 
-6,719
--14,565
-5,871 
-8,305
-Net income 
-1,687
--10,655 
--2,439
--688 
-882
-1,048
-727 
-1,454
--2,357 
-4,568
--12,095
-4,111 
-6,058
-EPS (Rmb) 
-0.40
-(2.54) 
-(0.58)
-(0.16) 
-0.21
-0.25
-0.17 
-0.35
-(0.56) 
-1.09
-(2.89)
-0.99 
-1.45
-Margin 
- 
- 
- 
- 
- 
-Gross margin 
-33.3%
-30.2% 
-24.4%
-25.3% 
-29.0%
-29.3%
-27.7% 
-29.3%
-30.8% 
-31.1%
-28.3%
-28.9% 
-30.0%
-Opex ratio 
-25.6%
-25.0% 
-25.0%
-25.0% 
-24.5%
-24.5%
-24.1% 
-24.0%
-28.2% 
-26.5%
-25.2%
-24.2% 
-24.5%
-OP margin 
-7.7%
-5.2% 
--0.6%
-0.3% 
-4.5%
-4.8%
-3.7% 
-5.3%
-2.5% 
-4.5%
-3.0%
-4.6% 
-5.5%
-Net margin 
-5.8% -530.1% 
--12.1%
--2.9% 
-3.8%
-4.0%
-3.1% 
-4.4%
--2.3% 
-4.2%
--16.1%
-3.9% 
-4.6%
-QoQ/YoY 
- 
- 
- 
- 
- 
-Revenue 
--10.4%
--93.0% 
-899.8%
-20.0% 
--3.6%
-12.2%
--11.1% 
-42.7%
-1.0% 
-7.5%
--31.0%
-40.6% 
-23.4%
-Gross profit 
-0.5%
--93.7% 
-707.3%
-24.4% 
-10.5%
-13.4%
--15.9% 
-50.9%
-0.1% 
-8.6%
--37.2%
-43.6% 
-28.1%
-Operating profit 
-45.7%
--95.3% 
-na
-na 1402.5%
-19.9%
--32.1% 107.3%
--25.4% 
-93.4%
--54.0%
-114.9% 
-45.4%
-Net income 
-154.3%
-na 
-na
-na 
-na
-18.8%
--30.6% 
-99.9%
-na 
-na
-na
-na 
-47.4%
-EPS (Rmb) 
-154.3%
-na 
-na
-na 
-na
-18.8%
--30.6% 
-99.9%
-na 
-na
-na
-na 
-47.4%
-Source: Company data, Macquarie Research, July 2018 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-3 
-Fig 4 ZTE supply chain  
-Company  
-Ticker 
-Products sold 
-Rev exposure to ZTE 
-Smartphone components  
- 
-SMIC 
-981 HK 
-Foundry for smartphone/base station IC 
-~1% 
-TSMC 
-2330 TT 
-Foundry for smartphone/base station IC 
-<1% 
-Win Semi 
-3105 TT 
-Foundry for smartphone PA 
-<1% 
-Sunny Optical 
-2382 HK 
-Handset lens and camera modules 
-<1% 
-BOE 
-0000725 CH 
-Smartphone panels 
-<3% 
-Tianma 
-000050 CH 
-Smartphone panels 
-<5% 
-Luxshare 
-002475CH 
-Cable an connectors 
-<1% 
-O-Film 
-002456 CH 
-Camera and fingerprint modules 
-<1% 
-Everwin 
-300115 CH 
-Metal mechanical parts 
-<1% 
-Sunlord 
-002138 CH 
-Inductor 
-<5% 
-BYDE 
-285 HK 
-Casings 
-<1% 
-MediaTek 
-2454 TT 
-Smartphone SoC and WiFi IC 
-<3% 
-Realtek 
-2379 TT 
-WiFi and networking IC 
-<5% 
-Goodix 
-630160 CH 
-Fingerprint IC 
-<3% 
-CHPT 
-6510 TT 
-Wafer/IC testing board 
-<2% 
-Carrier network components 
- 
-Zhong Fu Tong 
-300560 CH 
-Network maintenance and enhancement services 
-~20% 
-Eoptolink 
-300502 CH 
-Optical transceivers 
-~32% 
-Accelink 
-002281 CH 
-Optical transceivers 
-<10% 
-SDG 
-000070 CH 
-Routers, GPON, EPON 
-~20% 
-Tongyu 
-002792 CH 
-Microwave antennas, RF components 
-~20% 
-Comba 
-2342 HK 
-Antennas 
-<5% 
-Mobi 
-947 HK 
-Antennas 
-~30% 
-Fibocom 
-300638 CH 
-LPWA and LTE modules 
-~20% 
-Cotran 
-300731 CH 
-Waterproof components for base stations 
-~15% 
-Tianyi 
-300504 CH 
-Routers, optical connectors 
-<10% 
-712 
-603712 CH 
-Photonics product assembly 
-~10% 
-STS 
-603322 CH 
-Network maintenance and enhancement services 
-~10% 
-Elite Advanced Laser 3450 TT 
-OSAT for optical semiconductors 
-<5% 
-Landmark 
-3081 TT 
-Epi wafer for optical semiconductors 
-<5% 
-GCS 
-4991 TT 
-Foundry for optical semiconductors 
-<5% 
-Source: Company data, Macquarie Research, July 2018 
- 
-Fig 5 ZTE P&L 
-(Rmb m) 
-2015 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Revenues 
-100,186 
-101,233 
-108,815
-75,090 
-105,591 
-130,320 
-COGS 
-69,100 
-70,101 
-75,006
-53,862 
-75,100 
-91,247 
-Gross profit 
-31,086 
-31,133 
-33,809
-21,228 
-30,491 
-39,073 
-Depreciation 
-1,090 
-1,141 
-1,339
-1,474 
-1,567 
-1,705 
-Amortization 
-982
-50 
-30
-20 
-20
-20
-EBITDA  
-7,117 
-1,048 
-9,148
--12,064 
-8,475 
-9,323 
-SG&A 
-14,155 
-14,946 
-15,162
-9,563 
-12,917 
-16,129 
-EBIT 
-5,045 
--143 
-7,779
--13,558 
-6,888 
-9,323 
-Net interest 
--741
--625 
--1,061
--1,007 
--1,017 
--1,018 
-Net investment income 
-63
-45 
--128
--133 
-0
-0
-Other income/(expense) 
-1,555 
--3,128 
-1,904
--15,700 
-2,000 
-1,200 
-Pretax profit 
-4,304 
--768 
-6,719
--14,565 
-5,871 
-8,305 
-Income tax 
-563
-640 
-1,333
--2,862 
-1,174 
-1,661 
-Minority interest 
-532
-949 
-818
-392 
-586
-586
-Net Profit 
-3,208 
--2,357 
-4,568
--12,095 
-4,111 
-6,058 
-Source: Company data, Macquarie Research, July 2018 
-                                                                                                               
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-4 
-Fig 6 ZTE balance sheet 
-(Rmb m) 
-2015 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Cash & equivalents 
-28,025 
-32,350 
-33,408
-32,706 
-32,669 
-33,371 
-Receivables 
-28,715 
-27,983 
-26,398
-20,650 
-29,038 
-35,838 
-Inventory 
-19,732 
-26,811 
-26,234
-15,620 
-21,028 
-25,549 
-Other current assets 
-18,821 
-25,709 
-22,190
-22,190 
-22,190 
-22,190 
-Total current assets 
-95,292 
-112,852 
-108,231
-91,165 
-104,925 
-116,948 
-Fixed assets 
-7,692 
-7,516 
-8,694
-10,565 
-11,498 
-12,293 
-LT investments 
-2,381 
-2,660 
-3,182
-3,182 
-3,182 
-3,182 
-Other non-current assets 
-15,528 
-18,613 
-23,856
-19,396 
-19,376 
-19,356 
-Total non-current assets 
-25,602 
-28,789 
-35,732
-33,143 
-34,056 
-34,831 
-Total assets 
-120,894 
-141,641 
-143,962
-124,308 
-138,981 
-151,780 
-Short term debt 
-7,908 
-15,132 
-14,719
-14,719 
-14,719 
-14,719 
-Payables 
-32,818 
-36,934 
-34,463
-28,008 
-39,803 
-48,361 
-Other current liabilities 
-26,912 
-39,681 
-38,413
-38,413 
-38,413 
-38,413 
-Total current liabilities 
-67,638 
-91,747 
-87,595
-81,140 
-92,935 
-101,493 
-Long term debt 
-6,016 
-5,018 
-3,002
-3,002 
-3,002 
-3,002 
-Other liabilities 
-3,891 
-3,990 
-7,985
-7,985 
-7,985 
-7,985 
-Total LT liabilities 
-9,907 
-9,009 
-10,987
-10,987 
-10,987 
-10,987 
-Total liabilities 
-77,545 
-100,756 
-98,582
-92,127 
-103,922 
-112,480 
-Common stocks 
-38,981 
-35,722 
-40,968
-27,769 
-30,647 
-34,888 
-Minority equity 
-4,367 
-5,163 
-4,412
-4,412 
-4,412 
-4,412 
-Total equity 
-43,349 
-40,885 
-45,380
-32,181 
-35,059 
-39,300 
-Total liabilities and equity 
-120,894 
-141,641 
-143,962
-124,308 
-138,981 
-151,780 
-Source: Company data, Macquarie Research, July 2018 
- 
- 
-Fig 7 ZTE cash flow 
-(Rmb m) 
-2015 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Net profit 
-3,208 
--2,357 
-4,568 
--12,095 
-4,111 
-6,058 
-Depreciation 
-1,090 
-1,141 
-1,339 
-1,474 
-1,567 
-1,705 
-Amortization 
-982
-50
-30 
-20 
-20
-20
-Associate share of (profits)/ loss 
--63
--45
-128 
-133 
-0
-0
-Total gross cash flow 
-5,217 
--1,212 
-6,065 
--10,468 
-5,698 
-7,783 
-Change in net working capital 
-1,578 
--2,231 
--310 
-9,908 
--2,001 
--2,764 
-Others 
--4,606 
-9,914 
--4,600 
-10,468 
--5,698 
--7,783 
-Total operating cash flow 
-7,405 
-5,260 
-7,220 
--560 
-3,697 
-5,019 
-Capex less disposals 
--2,469 
--4,002 
--5,984 
--2,100 
--2,500 
--2,500 
-(Purchase) Sale of ST investment 
-0
-0
-0 
-0 
-0
-0
-(Purchase) Sale of LT investment 
--642
--278
--522 
-0 
-0
-0
-Others 
-1,536 
-1,262 
-1,571 
-0 
-0
-0
-Total investment cash flow 
--1,575 
--3,019 
--4,935 
--2,100 
--2,500 
--2,500 
-Increase (decrease) in debt 
--7,114 
-6,227 
--2,429 
-0 
-0
-0
-Cash dividends 
--825
--1,028 
-0 
-0 
--1,233 
--1,817 
-Change in share capital 
-713
-34
-8 
-0 
-0
-0
-Others 
-10,808 
--4,006 
-662 
-2,091 
-0
--0
-Total financing cash flow 
-3,582 
-1,227 
--1,760 
-2,091 
--1,233 
--1,817 
-Net cash flow 
-9,411 
-3,468 
-526 
--569 
--37
-702
-FX change 
--24
--35
-574 
-0 
-0
-0
-Net cash flow after FX change 
-9,387 
-3,433 
-1,100 
--569 
--37
-702
-Source: Company data, Macquarie Research, July 2018 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-5 
-Fig 8 ZTE key financial ratios 
-(Rmb m) 
-2015 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Revenue 
-100,186 
-101,233 
-108,815 
-75,090 
-105,591 
-130,320 
-Gross profit 
-31,086 
-31,133 
-33,809 
-21,228 
-30,491 
-39,073 
-EBIT 
-5,045 
--143
-7,779 
--13,558 
-6,888 
-9,323 
-EBITDA 
-7,117 
-1,048 
-9,148 
--12,064 
-8,475 
-9,323 
-Pretax profit 
-4,304 
--768
-6,719 
--14,565 
-5,871 
-8,305 
-Net profit 
-3,208 
--2,357 
-4,568 
--12,095 
-4,111 
-6,058 
-YoY (%) 
- 
- 
-  
-  
- 
- 
-Revenue 
-23%
-1%
-7% 
--31% 
-41%
-23%
-Gross profit 
-21%
-0%
-9% 
--37% 
-44%
-28%
-Net profit 
-22%
-na
-na 
-na 
-na
-47%
-Per share data (Rmb) 
- 
- 
-  
-  
- 
- 
-Sales per share 
-23.91 
-24.16 
-25.97 
-17.92 
-25.20 
-31.10 
-EPS 
-0.77 
--0.56 
-1.09 
--2.89 
-0.99
-1.45 
-BVPS 
-10.35 
-9.76 
-10.83 
-7.68 
-8.37 
-9.38 
-DPS 
-0.25 
-0.00 
-0.33 
-0.00 
-0.29 
-0.43 
-FCF PS 
-1.33 
--1.27 
-0.31 
--0.38 
-0.62 
-0.94 
-Net cash PS 
-4.47 
-3.37 
-4.65 
-4.49 
-4.48 
-4.65 
-Net debt/Equity 
--43%
--35%
--43% 
--58% 
--54%
--50%
-Margin (%) 
- 
- 
-  
-  
- 
- 
-Gross margin 
-31.0%
-30.8%
-31.1% 
-28.3% 
-28.9%
-30.0%
-EBIT margin 
-5.0%
--0.1%
-7.1% 
--18.1% 
-6.5%
-7.2%
-EBITDA margin 
-7.1%
-1.0%
-8.4% 
--16.1% 
-8.0%
-7.2%
-Pretax margin 
-4.3%
--0.8%
-6.2% 
--19.4% 
-5.6%
-6.4%
-Net margin 
-3.2%
--2.3%
-4.2% 
--16.1% 
-3.9%
-4.6%
-Source: Company data, Macquarie Research, July 2018 
- 
- 
- 
- 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-6 
-Macquarie Quant View   
+China
+ZTE (A-Share)
+EQUITIES
+2Q net loss up to Rmb10.7bn due to fines
+Key points
+ZTE guided a net loss of Rmb8.7bn~10.7bn in 2Q due to the suspension of
+major operating activities and US$1bn fine to strike an agreement w/the US.
+The company has cleared another hurdle with a US$400m escrow
+agreement on July 12, the final step to remove the ban once completed.
+▶ We cut our TP to Rmb12.9 as we trim earnings in 2018/19/20E by
+420%/11%/4% to reflect the impact of the fines and operation suspension.
+Event
+ZTE released 2Q18 guidance of a net loss of Rmb8.7bn~10.7bn vs a net profit
+of Rmb1.1bn in 2Q17, owing to the suspension of major operating activities
+and the US$1bn fine during the negotiation with the US in an attempt to
+Investment fundamentals
+remove the denial order (Trading resumes; US$1.4bn settlement, June 13).
+On July 12, the company signed an agreement for an additional US$400m
+escrow penalty, paving the way to resume operations (link). It is important to
+note that the ban will still be in place before the US issues a notice lifting
+the ban once the escrow deposit is completed.
+Impact
+US$400m escrow penalty to be paid within 90 days from Jun 8: According
+to the previous settlement deal, ZTE must place US$400m of suspended
+penalty money in escrow within 90 days from Jun 8 in addition to the US$1bn
+fine before BIS will officially remove ZTE from the Denied Persons List. The
+US$1bn fine was booked in 2Q18 based on the company's announcement
+while the company has also come to a detailed agreement with US on the
+escrow penalty, which marks the final step once the deposit is completed.
+000063 CH rel CSI 300 performance, & rec
+history
+Management reshuffle with the new CEO in place: ZTE tapped an in-house
+executive with experience in product research and operations, Xu Ziyang, to
+be the new CEO as part of the settlement deal. Previously, Xu served as the
+CEO of ZTE's German operations, at a time when the company signed a five-
+year service contract with German telecoms operator E-Plus. Along with other
+key executive appointments, the new management team vows to uphold
+compliance as the top priority.
+Earnings and target price revision
+Note: Recommendation timeline - if not a continuous line, then there was no
+We factor in 2Q guidance and cut earnings in 2018/19/20E by 420%/11%/4%
+Macquarie coverage at the time or there was an embargo period
+further due to the fines and customers' hanging concerns on the sustainability
+(all figures in Rmb unless noted, TP in CNY)
+of the company. We lower our TP to Rmb12.9 (from Rmb29.0) on an updated
+PE multiple of 13x as a result, the trading average in the past three months.
+Analysts
+Macquarie Capital Limited
+Price catalyst
+12-month price target: Rmb12.90 based on 13x 2019E PER.
+Catalyst: full 2Q18 results on Aug 23, the removal of the denial order.
+Action and recommendation
+Maintain Neutral.
+ZTE (A-Share)
+Macquarie Research
+Macquarie Research
+ZTE (A-Share)
+ZTE (A-Share)
+Macquarie Research
+Macquarie Research
+ZTE (A-Share)
+Macquarie Research
+ZTE (A-Share)
+Macquarie Quant View
 The quant model currently holds a marginally negative view on ZTE (A-
-Share). The strongest style exposure is Quality, indicating this stock is likely 
-to have a superior and more stable underlying earnings stream. The weakest 
-style exposure is Price Momentum, indicating this stock has had weak 
-medium to long term returns which often persist into the future. 
- 
-Displays where the 
-company’s ranked based on 
-the fundamental consensus 
-Price Target and 
-Macquarie’s Quantitative 
-Alpha model.  
-Two rankings: Local market 
-(China) and Global sector 
-(Technology Hardware & 
-Equipment) 
- 
-629/926 
-Global rank in 
- Technology Hardware & Equipment 
-% of BUY recommendations 
-50% (2/4) 
-Number of Price Target downgrades 
-1 
-Number of Price Target upgrades 
-0 
- 
-Macquarie Alpha Model ranking 
-Factors driving the Alpha Model 
-A list of comparable companies and their Macquarie Alpha model score 
-(higher is better). 
-For the comparable firms this chart shows the key underlying styles and their 
-contribution to the current overall Alpha score. 
- 
- 
-Macquarie Earnings Sentiment Indicator 
-Drivers of Stock Return 
-The Macquarie Sentiment Indicator is an enhanced earnings revisions 
-signal that favours analysts who have more timely and higher conviction 
+Displays where the
+Share). The strongest style exposure is Quality, indicating this stock is likely
+company's ranked based on
+to have a superior and more stable underlying earnings stream. The weakest
+the fundamental consensus
+style exposure is Price Momentum, indicating this stock has had weak
+Price Target and
+medium to long term returns which often persist into the future.
+Macquarie's Quantitative
+Alpha model.
+629/926
+Two rankings: Local market
+Global rank in
+(China) and Global sector
+Technology Hardware & Equipment
+(Technology Hardware &
+Equipment)
+% of BUY recommendations
+50% (2/4)
+Number of Price Target downgrades
+Number of Price Target upgrades
+Factors driving the Alpha Model
+Macquarie Alpha Model ranking
+A list of comparable companies and their Macquarie Alpha model score
+For the comparable firms this chart shows the key underlying styles and their
+contribution to the current overall Alpha score.
+(higher is better).
+Drivers of Stock Return
+Macquarie Earnings Sentiment Indicator
+The Macquarie Sentiment Indicator is an enhanced earnings revisions
+Breakdown of 1 year total return (local currency) into returns from dividends, changes
+signal that favours analysts who have more timely and higher conviction
+in forward earnings estimates and the resulting change in earnings multiple.
 revisions. Current score shown below.
-Breakdown of 1 year total return (local currency) into returns from dividends, changes 
-in forward earnings estimates and the resulting change in earnings multiple. 
- 
- 
-What drove this Company in the last 5 years 
-How it looks on the Alpha model 
-Which factor score has had the greatest correlation with the company’s 
-returns over the last 5 years. 
-A more granular view of the underlying style scores that drive the alpha (higher is 
-better) and the percentile rank relative to the sector and market. 
- 
-Source (all charts): FactSet, Thomson Reuters, and Macquarie Research. For more details on the Macquarie Alpha model or for more customised analysis and 
-screens, please contact the Macquarie Global Quantitative/Custom Products Group (cpg@macquarie.com) 
-Fundamentals
-Quant
-Local market rank
-Global sector rank
-Attractive
--0.4
--0.3
--0.1
-0.2
-0.4
-0.9
-1.3
--3.0
--2.0
--1.0
-0.0
-1.0
-2.0
-3.0
+What drove this Company in the last 5 years
+How it looks on the Alpha model
+Which factor score has had the greatest correlation with the company's
+A more granular view of the underlying style scores that drive the alpha (higher is
+returns over the last 5 years.
+better) and the percentile rank relative to the sector and market.
+Source (all charts): FactSet, Thomson Reuters, and Macquarie Research. For more details on the Macquarie Alpha model or for more customised analysis and
+Macquarie Research
 ZTE (A-Share)
-Lens Tech (A-Share)
-Leyard Optoelectronic
-O-Film (A-Share)
-Guangzhou Shiyuan Electr
-Chaozhou Three-Circle (A-…
-China Aviation Optical-El…
--100%
--80%
--60%
--40%
--20%
-0%
-20%
-40%
-60%
-80%
-100%
+Important disclosures:
+Recommendation definitions
+Volatility index definition*
+Financial definitions
+Macquarie - Australia/New Zealand
+This is calculated from the volatility of historical
+All "Adjusted" data items have had the following
+Outperform – return >3% in excess of benchmark return
+adjustments made:
+price movements.
+Added back: goodwill amortisation, provision for
+Neutral – return within 3% of benchmark return
+Underperform – return >3% below benchmark return
+Very high-highest risk - Stock should be
+catastrophe reserves, IFRS derivatives & hedging,
+expected to move up or down 60-100% in a year
+IFRS impairments & IFRS interest expense
+Benchmark return is determined by long term nominal
+investors should be aware this stock is highly
+Excluded: non recurring items, asset revals, property
+GDP growth plus 12 month forward market dividend
+revals, appraisal value uplift, preference dividends &
+speculative.
+yield, which is currently around 9%.
+minority interests
+High - stock should be expected to move up or
+Macquarie – Asia/Europe
+EPS = adjusted net profit / efpowa*
+down at least 40-60% in a year - investors should
+Outperform – expected return >+10%
+be aware this stock could be speculative.
+ROA = adjusted ebit / average total assets
+Neutral - expected return from -10% to +10%
+ROA Banks/Insurance = adjusted net profit /average
+Underperform – expected return <-10%
+Medium – stock should be expected to move up
+total assets
+Macquarie - South Africa
+or down at least 30-40% in a year.
+ROE = adjusted net profit / average shareholders funds
+Outperform - expected return >+10%
+Gross cashflow = adjusted net profit + depreciation
+Neutral - expected return from -10% to +10%
+Low-medium – stock should be expected to
+Underperform – expected return <-10%
+move up or down at least 25-30% in a year.
+number of shares
+Macquarie - Canada
+Low – stock should be expected to move up or
+All Reported numbers for Australian/NZ listed stocks
+Outperform - return >5% in excess of benchmark return
+down at least 15-25% in a year.
+are modelled under IFRS (International Financial
+Neutral – return within 5% of benchmark return
+Reporting Standards).
+Underperform – return >5% below benchmark return
+only
+Macquarie - USA
+Recommendations – 12 months
+Outperform (Buy) – return >5% in excess of Russell
+Note: Quant recommendations may differ from
+3000 index return
+Neutral (Hold) – return within 5% of Russell 3000 index
+return
+index return
+000063 CH vs CSI 300, & rec history
+(all figures in CNY currency unless noted)
+Note: Recommendation timeline - if not a continuous line, then there was no Macquarie coverage at the time or there was an embargo period.
+12-month target price methodology
+000063 CH: Rmb12.90 based on a PER methodology
+Company-specific disclosures:
+Target price risk disclosures:
+000063 CH: Any inability to compete successfully in their markets may harm the business. This could be a result of many factors which may include
+geographic mix and introduction of improved products or service offerings by competitors. The results of operations may be materially affected by global
+economic conditions generally, including conditions in financial markets. The company is exposed to market risks, such as changes in interest rates,
+foreign exchange rates and input prices. From time to time, the company will enter into transactions, including transactions in derivative instruments, to
+manage certain of these exposures.
+Analyst certification:
+We hereby certify that all of the views expressed in this report accurately reflect our personal views about the subject company or companies and its or
+their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly, related to the specific recommendations or views
+expressed in this report. The Analysts responsible for preparing this report receive compensation from Macquarie that is based upon various factors
+including Macquarie Group Ltd total revenues, a portion of which are generated by Macquarie Group's Investment Banking activities.
+General disclaimers:
+Macquarie Securities (Australia) Ltd; Macquarie Capital (Europe) Ltd; Macquarie Capital Markets Canada Ltd; Macquarie Capital Markets North America
+Ltd; Macquarie Capital (USA) Inc; Macquarie Capital Limited, Taiwan Securities Branch; Macquarie Capital Securities (Singapore) Pte Ltd; Macquarie
+Securities (NZ) Ltd; Macquarie Equities South Africa (Pty) Ltd; Macquarie Capital Securities (India) Pvt Ltd; Macquarie Capital Securities (Malaysia) Sdn
+Bhd; Macquarie Securities Korea Limited and Macquarie Securities (Thailand) Ltd are not authorized deposit-taking institutions for the purposes of the
+Macquarie Research
 ZTE (A-Share)
-Lens Tech (A-Share)
-Leyard Optoelectronic
-O-Film (A-Share)
-Guangzhou Shiyuan Electr
-Chaozhou Three-Circle (A-…
-China Aviation Optical-El…
-Valuations
-Growth
-Profitability
-Earnings
-Momentum
-Price
-Momentum
-Quality
--1.3
--0.5
--0.9
-0.2
--0.9
--0.4
--0.3
--3.0
--2.0
--1.0
-0.0
-1.0
-2.0
-3.0
+008 583 542 (MBL) or MGL. MBL does not guarantee or otherwise provide assurance in respect of the obligations of any of the above mentioned
+entities. MGL provides a guarantee to the Monetary Authority of Singapore in respect of the obligations and liabilities of Macquarie Capital Securities
+(Singapore) Pte Ltd for up to SGD 35 million. This research has been prepared for the general use of the wholesale clients of the Macquarie Group and
+must not be copied, either in whole or in part, or distributed to any other person. If you are not the intended recipient you must not use or disclose the
+information in this research in any way. If you received it in error, please tell us immediately by return e-mail and delete the document. We do not
+guarantee the integrity of any e-mails or attached files and are not responsible for any changes made to them by any other person. MGL has
+established and implemented a conflicts policy at group level (which may be revised and updated from time to time) (the "Conflicts Policy") pursuant to
+regulatory requirements (including the FCA Rules) which sets out how we must seek to identify and manage all material conflicts of interest. Nothing in
+this research shall be construed as a solicitation to buy or sell any security or product, or to engage in or refrain from engaging in any transaction. In
+preparing this research, we did not take into account your investment objectives, financial situation or particular needs. Macquarie salespeople, traders
+and other professionals may provide oral or written market commentary or trading strategies to our clients that reflect opinions which are contrary to the
+opinions expressed in this research. Macquarie Research produces a variety of research products including, but not limited to, fundamental analysis,
+macro-economic analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of research product may differ from
+recommendations contained in other types of research, whether as a result of differing time horizons, methodologies, or otherwise. Before making an
+investment decision on the basis of this research, you need to consider, with or without the assistance of an adviser, whether the advice is appropriate
+in light of your particular investment needs, objectives and financial circumstances. There are risks involved in securities trading. The price of securities
+can and does fluctuate, and an individual security may even become valueless. International investors are reminded of the additional risks inherent in
+international investments, such as currency fluctuations and international stock market or economic conditions, which may adversely affect the value of
+the investment. This research is based on information obtained from sources believed to be reliable but we do not make any representation or warranty
+that it is accurate, complete or up to date. We accept no obligation to correct or update the information or opinions in it. Opinions expressed are subject
+to change without notice. No member of the Macquarie Group accepts any liability whatsoever for any direct, indirect, consequential or other loss arising
+from any use of this research and/or further communication in relation to this research. Clients should contact analysts at, and execute transactions
+through, a Macquarie Group entity in their home jurisdiction unless governing law permits otherwise. The date and timestamp for above share price and
+market cap is the closed price of the price date. #CLOSE is the final price at which the security is traded in the relevant exchange on the date indicated.
+Members of the Macro Strategy team are Sales & Trading personnel who provide desk commentary that is not a product of the Macquarie Research
+department or subject to FINRA Rule 2241 or any other regulation regarding independence in the provision of equity research.
+Country-specific disclaimers:
+Australia: In Australia, research is issued and distributed by Macquarie Securities (Australia) Ltd (AFSL No. 238947), a participating organization of the
+Australian Securities Exchange. Macquarie Securities (Australia) Limited staff involved with the preparation of research have regular interaction with
+companies they cover. Additionally, Macquarie Group Limited does and seeks to do business with companies covered by Macquarie Research. There
+are robust information barriers in place to protect the independence of Macquarie Research's product. However, recipients of Macquarie Research
+should be aware of this potential conflict of interest. New Zealand: In New Zealand, research is issued and distributed by Macquarie Securities (NZ) Ltd,
+a NZX Firm. Canada: In Canada, research is prepared, approved and distributed by Macquarie Capital Markets Canada Ltd., a (i) member of the
+Investment Industry Regulatory Organization of Canada and the Canadian Investor Protection Fund, and (ii) participating organisation of the Toronto
+Stock Exchange, TSX Venture Exchange & Montréal Exchange. This research is distributed in the United States, as third party research by Macquarie
+Capital Markets North America Ltd., which is a registered broker-dealer and member of Financial Industry Regulatory Authority and the Securities
+Investor Protection Corporation. Macquarie Capital Markets North America Ltd. accepts responsibility for the contents of reports issued by Macquarie
+Capital Markets Canada Ltd. in the United States and sent to US persons. Any US person wishing to effect transactions in the securities described in
+the reports issued by Macquarie Capital Markets Canada Ltd. should do so with Macquarie Capital Markets North America Ltd. This research is
+intended for distribution in the United States only to major Institutional Investors (as such term is defined in SEC 15a-6 and Section 15 of the Securities
+Exchange Act of 1934, as amended) and is not intended for the use of any person or entity that is not a major institutional investor. Research analysts
+of Macquarie Capital Markets Canada Ltd. are not registered/qualified as research analysts with FINRA. The Research Distribution Policy of Macquarie
+Capital Markets Canada Ltd. is to allow all clients that are entitled to have equal access to our research. United Kingdom: In the United Kingdom,
+research is issued and distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated by the Financial Conduct Authority (No.
+193905). Germany: In Germany, this research is issued and/or distributed by Macquarie Capital (Europe) Limited, Niederlassung Deutschland, which is
+authorised and regulated by the UK Financial Conduct Authority (No. 193905), and in Germany by BaFin. France: In France, research is issued and
+distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated in the United Kingdom by the Financial Conduct Authority (No.
+193905). Hong Kong & Mainland China: In Hong Kong, research is issued and distributed by Macquarie Capital Limited, which is licensed and
+regulated by the Securities and Futures Commission. In Mainland China, Macquarie Securities (Australia) Limited Shanghai Representative Office only
+engages in non-business operational activities excluding issuing and distributing research. Only non-A share research is distributed into Mainland China
+by Macquarie Capital Limited. Japan: In Japan, research is Issued and distributed by Macquarie Capital Securities (Japan) Limited, a member of the
+Tokyo Stock Exchange, Inc. and Osaka Exchange, Inc. (Financial Instruments Firm, Kanto Financial Bureau (kin-sho) No. 231, a member of Japan
+Securities Dealers Association). India: In India, research is issued and distributed by Macquarie Capital Securities (India) Pvt. Ltd. (CIN:
+U65920MH1995PTC090696), 92, Level 9, 2 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai – 400 051, India, which is a
+SEBI registered Research Analyst having registration no. INH000000545. Malaysia: In Malaysia, research is issued and distributed by Macquarie
+Capital Securities (Malaysia) Sdn. Bhd. (Company registration number: 463469-W) which is a Participating Organisation of Bursa Malaysia Berhad and
+a holder of Capital Markets Services License issued by the Securities Commission. Taiwan: In Taiwan, research is issued and distributed by Macquarie
+Capital Limited, Taiwan Securities Branch, which is licensed and regulated by the Financial Supervisory Commission. No portion of the report may be
+reproduced or quoted by the press or any other person without authorisation from Macquarie. Nothing in this research shall be construed as a
+solicitation to buy or sell any security or product. The recipient of this report shall not engage in any activities which may give rise to potential conflicts of
+interest to the report. Research Associate(s) in this report who are registered as Clerks only assist in the preparation of research and are not engaged in
+writing the research. Macquarie may be in past one year or now being an Issuer of Structured Warrants on securities mentioned in this report. Thailand:
+In Thailand, research is produced, issued and distributed by Macquarie Securities (Thailand) Ltd. Macquarie Securities (Thailand) Ltd. is a licensed
+securities company that is authorized by the Ministry of Finance, regulated by the Securities and Exchange Commission of Thailand and is an exchange
+member of the Stock Exchange of Thailand. The Thai Institute of Directors Association has disclosed the Corporate Governance Report of Thai Listed
+Companies made pursuant to the policy of the Securities and Exchange Commission of Thailand, Macquarie Securities (Thailand) Ltd does not endorse
+iod.com/en/publications.asp?type=4. South Korea: In South Korea, unless otherwise stated, research is prepared, issued and distributed by Macquarie
+Securities Korea Limited, which is regulated by the Financial Supervisory Services. Information on analysts in MSKL is disclosed at
+001000. South Africa: In South Africa, research is issued and distributed by Macquarie Equities South Africa (Pty) Ltd, a member of the JSE Limited.
+Singapore: In Singapore, research is issued and distributed by Macquarie Capital Securities (Singapore) Pte Ltd (Company Registration Number:
+198702912C), a Capital Markets Services license holder under the Securities and Futures Act to deal in securities and provide custodial services in
+Singapore, Pursuant to the Financial Advisers (Amendment) Regulations 2005, Macquarie Capital Securities (Singapore) Pte Ltd is exempt from
+complying with sections 25, 27 and 36 of the Financial Advisers Act. All Singapore-based recipients of research produced by Macquarie Capital
+(Europe) Limited, Macquarie Capital Markets Canada Ltd, Macquarie Equities South Africa (Pty) Ltd and Macquarie Capital (USA) Inc. represent and
+warrant that they are institutional investors as defined in the Securities and Futures Act. United States: In the United States, research is issued and
+distributed by Macquarie Capital (USA) Inc., which is a registered broker-dealer and member of FINRA. Macquarie Capital (USA) Inc., accepts
+responsibility for the content of each research report prepared by one of its non-US affiliates when the research report is distributed in the United States
+by Macquarie Capital (USA) Inc. Macquarie Capital (USA) Inc.'s affiliate's analysts are not registered as research analysts with FINRA, may not be
+associated persons of Macquarie Capital (USA) Inc., and therefore may not be subject to FINRA rule restrictions on communications with a subject
+company, public appearances, and trading securities held by a research analyst account. Information regarding futures is provided for reference
+purposes only and is not a solicitation for purchases or sales of futures. Any persons receiving this report directly from Macquarie Capital (USA) Inc. and
+Macquarie Research
 ZTE (A-Share)
-Lens Tech (A-Share)
-Leyard Optoelectronic
-O-Film (A-Share)
-Guangzhou Shiyuan Electr
-Chaozhou Three-Circle (A-…
-China Aviation Optical-El…
--100%
--50%
-0%
-50%
-100%
-ZTE (A-Share)
-Lens Tech (A-Share)
-Leyard Optoelectronic
-O-Film (A-Share)
-Guangzhou Shiyuan Electr
-Chaozhou Three-Circle (A-…
-China Aviation Optical-El…
-Dividend Return
-Multiple Return
-Earnings Outlook
-1Yr Total Return
--38%
--33%
--29%
--27%
-20%
-25%
-27%
-32%
--40%
--20%
-0%
-20%
-40%
-⇐ Negatives  Positives  ⇒
-Volatility 250 Day
-Net Income Margin FY0
-CFROI
-Operating Margin FY0
-Non-current Assets Inc.
-PEG Ratio Inverted
-Merton Score
-EPS Growth FY1
-0
-1
-Technicals & Trading
-Risk
-Liquidity
-Capital & Funding
-Quality
-Price Momentum
-Earnings Momentum
-Profitability
-Growth
-Valuation
-Alpha Model Score
- 0.81
--0.54
--0.37
- 0.07
- 0.08
--0.68
--0.26
--0.45
--0.46
- 0.05
--0.35
-0
-1
-Normalized
-Score
-0
-50
-100
-Percentile relative
-to sector(/926)
-0
-50
-100
-Percentile relative
-to market(/414)
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-7 
- 
- 
- 
-ZTE (A-Share) (000063 CH, Neutral, Target Price: Rmb12.90) 
-Quarterly Results 
-1Q/18A 
-2Q/18E 
-3Q/18E 
-4Q/18E 
-  
-Profit & Loss 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Revenue 
-bn 
-29 
-2 
-20 
-24 
- 
- Revenue 
-bn 
-109 
-75 
-106 
-130 
-Gross Profit 
-bn 
-10 
-1 
-5 
-6 
- 
- Gross Profit 
-bn 
-34 
-21 
-30 
-39 
-Cost of Goods Sold 
-bn 
-19 
-1 
-15 
-18 
- 
- Cost of Goods Sold 
-bn 
-75 
-54 
-75 
-91 
-EBITDA 
-bn 
-3 
--13 
--2 
--0 
- 
- EBITDA 
-bn 
-9 
--12 
-9 
-11 
-Depreciation  
-bn 
-0 
-0 
-0 
-0 
- 
- Depreciation  
-bn 
-1 
-1 
-2 
-2 
-Amortisation of Goodwill 
-bn 
-0 
-0 
-0 
-0 
- 
- Amortisation of Goodwill 
-bn 
-0 
-0 
-0 
-0 
-Other Amortisation 
-bn 
-0 
-0 
-0 
-0 
- 
- Other Amortisation 
-bn 
-0 
-0 
-0 
-0 
-EBIT 
-bn 
-3 
--13 
--3 
--0 
- 
- EBIT 
-bn 
-8 
--14 
-7 
-9 
-Net Interest Income 
-bn 
--0 
--0 
--0 
--0 
- 
- Net Interest Income 
-bn 
--1 
--1 
--1 
--1 
-Associates 
-bn 
--0 
-0 
-0 
-0 
- 
- Associates 
-bn 
--0 
--0 
-0 
-0 
-Exceptionals 
-bn 
-0 
-0 
-0 
-0 
- 
- Exceptionals 
-bn 
-0 
-0 
-0 
-0 
-Forex Gains / Losses 
-bn 
-0 
-0 
-0 
-0 
- 
- Forex Gains / Losses 
-bn 
-1 
-0 
-0 
-0 
-Other Pre-Tax Income 
-bn 
--0 
-0 
-0 
-0 
- 
- Other Pre-Tax Income 
-bn 
--1 
--0 
-0 
-0 
-Pre-Tax Profit 
-bn 
-2 
--13 
--3 
--1 
- 
- Pre-Tax Profit 
-bn 
-7 
--15 
-6 
-8 
-Tax Expense 
-bn 
--1 
-3 
-1 
-0 
- 
- Tax Expense 
-bn 
--1 
-3 
--1 
--2 
-Net Profit 
-bn 
-2 
--11 
--2 
--1 
- 
- Net Profit 
-bn 
-5 
--12 
-5 
-7 
-Minority Interests 
-bn 
--0 
--0 
--0 
--0 
- 
- Minority Interests 
-bn 
--1 
--0 
--1 
--1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Reported Earnings 
-bn 
-2 
--11 
--2 
--1 
- 
- Reported Earnings 
-bn 
-5 
--12 
-4 
-6 
-Adjusted Earnings 
-bn 
-2 
--11 
--2 
--1 
- 
- Adjusted Earnings 
-bn 
-5 
--12 
-4 
-6 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-EPS (rep) 
- 
-0.40 
--2.54 
--0.58 
--0.16 
- 
- EPS (rep) 
- 
-1.09 
--2.89 
-0.99 
-1.45 
-EPS (adj) 
- 
-0.40 
--2.54 
--0.58 
--0.16 
- 
- EPS (adj) 
- 
-1.09 
--2.89 
-0.99 
-1.45 
-EPS Growth yoy (adj) 
-% 
-39.0 
-nmf 
-nmf 
-nmf 
- EPS Growth (adj) 
-% 
-nmf 
-nmf 
-nmf 
-45.8 
- 
- 
- 
- 
- 
- 
- 
- PE (rep) 
-x 
-12.9 
-nmf 
-14.2 
-9.8 
- 
- 
- 
- 
- 
- 
- 
- PE (adj) 
-x 
-12.9 
-nmf 
-14.2 
-9.8 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-EBITDA Margin 
-% 
-10.1 
--625.4 
--11.4 
--0.5 
- 
- Total DPS 
- 
-0.00 
-0.00 
-0.30 
-0.00 
-EBIT Margin 
-% 
-8.8 
--644.0 
--13.3 
--2.0 
- 
- Total Div Yield 
-% 
-0.0 
-0.0 
-2.1 
-0.0 
-Earnings Split 
-% 
--13.9 
-88.1 
-20.2 
-5.7 
- 
- Basic Shares Outstanding 
-m 
-4,190 
-4,190 
-4,190 
-4,190 
-Revenue Growth 
-% 
-12.2 
--92.9 
--11.0 
--25.2 
- 
- Diluted Shares Outstanding 
-m 
-4,190 
-4,190 
-4,190 
-4,190 
-EBIT Growth 
-% 
-27.5 
-nmf 
-nmf 
-nmf 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Profit and Loss Ratios 
- 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- Cashflow Analysis 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Revenue Growth 
-% 
-7.5 
--31.0 
-40.6 
-23.4 
- 
- EBITDA 
-bn 
-9 
--12 
-9 
-11 
-EBITDA Growth 
-% 
-773.0 
-nmf 
-nmf 
-29.6 
- 
- Tax Paid 
-bn 
--1 
-3 
--1 
--2 
-EBIT Growth 
-% 
-nmf 
-nmf 
-nmf 
-34.3 
- 
- Chgs in Working Cap 
-bn 
--0 
-10 
--2 
--3 
-Gross Profit Margin 
-% 
-31.1 
-28.3 
-28.9 
-30.0 
- 
- Net Interest Paid 
-bn 
--1 
--1 
--1 
--1 
-EBITDA Margin 
-% 
-8.4 
--16.1 
-8.1 
-8.5 
- 
- Other 
-bn 
-1 
--0 
--5 
--6 
-EBIT Margin 
-% 
-7.1 
--18.1 
-6.6 
-7.1 
- 
- Operating Cashflow 
-bn 
-7 
--1 
--1 
--1 
-Net Profit Margin 
-% 
-4.2 
--16.1 
-3.9 
-4.6 
- 
- Acquisitions 
-bn 
-0 
-0 
-0 
-0 
-Payout Ratio 
-% 
-0.0 
-nmf 
-30.0 
-0.0 
- 
- Capex 
-bn 
--6 
--2 
--3 
--2 
-EV/EBITDA 
-x 
-4.8 
--3.6 
-5.1 
-4.0 
- 
- Asset Sales 
-bn 
-0 
-0 
-0 
-0 
-EV/EBIT 
-x 
-5.7 
--3.2 
-6.3 
-4.7 
- 
- Other 
-bn 
-1 
-0 
-0 
--0 
- 
- 
- 
- 
- 
- 
- 
- Investing Cashflow 
-bn 
--5 
--2 
--2 
--2 
-Balance Sheet Ratios 
- 
- 
- 
- 
- 
- Dividend (Ordinary) 
-bn 
-0 
-0 
--1 
-0 
-ROE 
-% 
-11.9 
--35.2 
-14.2 
-18.5 
- 
- Equity Raised 
-bn 
-0 
-0 
-0 
-0 
-ROA 
-% 
-5.4 
--10.1 
-5.3 
-6.4 
- 
- Debt Movements 
-bn 
--2 
-0 
-0 
-0 
-ROIC 
-% 
-21.7 
--36.7 
-32.3 
-37.0 
- 
- Other 
-bn 
-1 
-2 
-3 
-2 
-Net Debt/Equity 
-% 
--34.6 
--46.6 
--42.7 
--39.9 
- 
- Financing Cashflow 
-bn 
--2 
-2 
-2 
-2 
-Interest Cover 
-x 
-7.3 
--13.5 
-6.9 
-9.3 
- 
- 
- 
- 
- 
- 
- 
- 
-Price/Book 
-x 
-1.4 
-2.1 
-1.9 
-1.7 
- 
- Net Chg in Cash/Debt 
-bn 
-1 
--1 
--0 
--1 
-Book Value per Share 
-9.8 
-6.6 
-7.3 
-8.3 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Free Cashflow 
-bn 
-1 
--3 
--3 
--2 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Balance Sheet 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Cash 
-bn 
-33 
-33 
-33 
-33 
- 
- 
- 
- 
- 
- 
- 
- Receivables 
-bn 
-26 
-21 
-29 
-36 
- 
- 
- 
- 
- 
- 
- 
- Inventories 
-bn 
-26 
-16 
-21 
-26 
- 
- 
- 
- 
- 
- 
- 
- Investments 
-bn 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Fixed Assets 
-bn 
-9 
-11 
-11 
-12 
- 
- 
- 
- 
- 
- 
- 
- Intangibles 
-bn 
-5 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Other Assets 
-bn 
-44 
-44 
-44 
-44 
- 
- 
- 
- 
- 
- 
- 
- Total Assets 
-bn 
-144 
-124 
-139 
-152 
- 
- 
- 
- 
- 
- 
- 
- Payables 
-bn 
-34 
-28 
-40 
-48 
- 
- 
- 
- 
- 
- 
- 
- Short Term Debt 
-bn 
-15 
-15 
-15 
-15 
- 
- 
- 
- 
- 
- 
- 
- Long Term Debt 
-bn 
-3 
-3 
-3 
-3 
- 
- 
- 
- 
- 
- 
- 
- Provisions 
-bn 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Other Liabilities 
-bn 
-46 
-46 
-46 
-46 
- 
- 
- 
- 
- 
- 
- 
- Total Liabilities 
-bn 
-99 
-92 
-104 
-112 
- 
- 
- 
- 
- 
- 
- 
- Shareholders' Funds 
-bn 
-32 
-18 
-21 
-26 
- 
- 
- 
- 
- 
- 
- 
- Minority Interests 
-bn 
-4 
-4 
-4 
-4 
- 
- 
- 
- 
- 
- 
- 
- Other 
-bn 
-9 
-9 
-9 
-9 
- 
- 
- 
- 
- 
- 
- 
- Total S/H Equity 
-bn 
-45 
-32 
-35 
-39 
- 
- 
- 
- 
- 
- 
- 
- Total Liab & S/H Funds 
-bn 
-144 
-124 
-139 
-152 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-All figures in Rmb unless noted. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Source: Company data, Macquarie Research, July 2018 
- 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-8 
-Important disclosures: 
-Recommendation definitions 
-Macquarie - Australia/New Zealand 
-Outperform – return >3% in excess of benchmark return 
-Neutral – return within 3% of benchmark return 
-Underperform – return >3% below benchmark return 
- 
-Benchmark return is determined by long term nominal 
-GDP growth plus 12 month forward market dividend 
-yield, which is currently around 9%. 
-Macquarie – Asia/Europe 
-Outperform – expected return >+10% 
-Neutral – expected return from -10% to +10% 
-Underperform – expected return <-10% 
-Macquarie – South Africa 
-Outperform – expected return >+10% 
-Neutral – expected return from -10% to +10% 
-Underperform – expected return <-10% 
-Macquarie - Canada 
-Outperform – return >5% in excess of benchmark return 
-Neutral – return within 5% of benchmark return 
-Underperform – return >5% below benchmark return 
-Macquarie - USA 
-Outperform (Buy) – return >5% in excess of Russell 
-3000 index return 
-Neutral (Hold) – return within 5% of Russell 3000 index 
-return 
-Underperform (Sell)– return >5% below Russell 3000 
-index return 
- 
-Volatility index definition* 
-This is calculated from the volatility of historical 
-price movements. 
- 
-Very high–highest risk – Stock should be 
-expected to move up or down 60–100% in a year 
-– investors should be aware this stock is highly 
-speculative. 
- 
-High – stock should be expected to move up or 
-down at least 40–60% in a year – investors should 
-be aware this stock could be speculative. 
- 
-Medium – stock should be expected to move up 
-or down at least 30–40% in a year. 
- 
-Low–medium – stock should be expected to 
-move up or down at least 25–30% in a year. 
- 
-Low – stock should be expected to move up or 
-down at least 15–25% in a year. 
-* Applicable to Asia/Australian/NZ/Canada stocks 
-only 
-Recommendations – 12 months 
-Note: Quant recommendations may differ from 
-Fundamental Analyst recommendations 
-Financial definitions 
-All "Adjusted" data items have had the following 
-adjustments made: 
-Added back:  goodwill amortisation, provision for 
-catastrophe reserves, IFRS derivatives & hedging, 
-IFRS impairments & IFRS interest expense 
-Excluded:  non recurring items, asset revals, property 
-revals, appraisal value uplift, preference dividends & 
-minority interests 
- 
-EPS = adjusted net profit / efpowa* 
-ROA = adjusted ebit / average total assets 
-ROA Banks/Insurance = adjusted net profit /average 
-total assets 
-ROE = adjusted net profit / average shareholders funds 
-Gross cashflow = adjusted net profit + depreciation 
-*equivalent fully paid ordinary weighted average 
-number of shares 
- 
-All Reported numbers for Australian/NZ listed stocks 
-are modelled under IFRS (International Financial 
-Reporting Standards). 
- 
-Recommendation proportions – For quarter ending 30 June 2018 
- 
-AU/NZ 
-   Asia 
-  RSA 
-   USA 
-    CA 
-  EUR 
-Outperform 
-52.87% 
-61.26% 
-48.86% 
-47.54% 
-69.86% 
-46.61% 
-(for global coverage by Macquarie, 3.51% of stocks followed are investment banking clients) 
-Neutral       
-34.10% 
-27.25% 
-36.36% 
-46.72% 
-21.92% 
-43.22% 
-(for global coverage by Macquarie, 2.10% of stocks followed are investment banking clients) 
-Underperform 
-13.03% 
-11.49% 
-14.77% 
-5.74% 
-8.22% 
-10.17% 
-(for global coverage by Macquarie, 0.00% of stocks followed are investment banking clients) 
- 
- 
- 
-000063 CH vs CSI 300, & rec history 
- 
-(all figures in CNY currency unless noted) 
-Note: Recommendation timeline – if not a continuous line, then there was no Macquarie coverage at the time or there was an embargo period. 
-Source: FactSet, Macquarie Research, July 2018 
- 
- 
- 
- 
-12-month target price methodology 
-000063 CH: Rmb12.90 based on a PER methodology 
- 
-Company-specific disclosures: 
-  
-Important disclosure information regarding the subject companies covered in this report is available at www.macquarie.com/research/disclosures.  
- 
-Date 
-Stock Code (BBG code) 
-Recommendation 
-Target Price 
-17-Apr-2018 
-000063 CH 
-Neutral 
-Rmb29.00 
-21-Nov-2017 
-000063 CH 
-Outperform 
-Rmb55.00 
-04-Oct-2017 
-000063 CH 
-Outperform 
-Rmb38.20 
-21-Sep-2017 
-000063 CH 
-Outperform 
-Rmb31.20 
-20-Jun-2017 
-000063 CH 
-Outperform 
-Rmb26.50 
-24-Mar-2017 
-000063 CH 
-Outperform 
-Rmb21.00 
- 
-Target price risk disclosures: 
-000063 CH: Any inability to compete successfully in their markets may harm the business. This could be a result of many factors which may include 
-geographic mix and introduction of improved products or service offerings by competitors. The results of operations may be materially affected by global 
-economic conditions generally, including conditions in financial markets. The company is exposed to market risks, such as changes in interest rates, 
-foreign exchange rates and input prices. From time to time, the company will enter into transactions, including transactions in derivative instruments, to 
-manage certain of these exposures. 
- 
-Analyst certification:  
-We hereby certify that all of the views expressed in this report accurately reflect our personal views about the subject company or companies and its or 
-their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly, related to the specific recommendations or views 
-expressed in this report. The Analysts responsible for preparing this report receive compensation from Macquarie that is based upon various factors 
-including Macquarie Group Ltd total revenues, a portion of which are generated by Macquarie Group’s Investment Banking activities. 
-General disclaimers:   
-Macquarie Securities (Australia) Ltd; Macquarie Capital (Europe) Ltd; Macquarie Capital Markets Canada Ltd; Macquarie Capital Markets North America 
-Ltd;  Macquarie Capital (USA) Inc; Macquarie Capital Limited, Taiwan Securities Branch; Macquarie Capital Securities (Singapore) Pte Ltd; Macquarie 
-Securities (NZ) Ltd; Macquarie Equities South Africa (Pty) Ltd; Macquarie Capital Securities (India) Pvt Ltd; Macquarie Capital Securities (Malaysia) Sdn 
-Bhd; Macquarie Securities Korea Limited and Macquarie Securities (Thailand) Ltd are not authorized deposit-taking institutions for the purposes of the 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-9 
-Banking Act 1959 (Commonwealth of Australia), and their obligations do not represent deposits or other liabilities of Macquarie Bank Limited ABN 46 
-008 583 542 (MBL) or MGL.  MBL does not guarantee or otherwise provide assurance in respect of the obligations of any of the above mentioned 
-entities.  MGL provides a guarantee to the Monetary Authority of Singapore in respect of the obligations and liabilities of Macquarie Capital Securities 
-(Singapore) Pte Ltd for up to SGD 35 million.  This research has been prepared for the general use of the wholesale clients of the Macquarie Group and 
-must not be copied, either in whole or in part, or distributed to any other person. If you are not the intended recipient you must not use or disclose the 
-information in this research in any way. If you received it in error, please tell us immediately by return e-mail and delete the document. We do not 
-guarantee the integrity of any e-mails or attached files and are not responsible for any changes made to them by any other person. MGL has 
-established and implemented a conflicts policy at group level (which may be revised and updated from time to time) (the "Conflicts Policy") pursuant to 
-regulatory requirements (including the FCA Rules) which sets out how we must seek to identify and manage all material conflicts of interest. Nothing in 
-this research shall be construed as a solicitation to buy or sell any security or product, or to engage in or refrain from engaging in any transaction. In 
-preparing this research, we did not take into account your investment objectives, financial situation or particular needs. Macquarie salespeople, traders 
-and other professionals may provide oral or written market commentary or trading strategies to our clients that reflect opinions which are contrary to the 
-opinions expressed in this research. Macquarie Research produces a variety of research products including, but not limited to, fundamental analysis, 
-macro-economic analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of research product may differ from 
-recommendations contained in other types of research, whether as a result of differing time horizons, methodologies, or otherwise. Before making an 
-investment decision on the basis of this research, you need to consider, with or without the assistance of an adviser, whether the advice is appropriate 
-in light of your particular investment needs, objectives and financial circumstances. There are risks involved in securities trading. The price of securities 
-can and does fluctuate, and an individual security may even become valueless. International investors are reminded of the additional risks inherent in 
-international investments, such as currency fluctuations and international stock market or economic conditions, which may adversely affect the value of 
-the investment. This research is based on information obtained from sources believed to be reliable but we do not make any representation or warranty 
-that it is accurate, complete or up to date. We accept no obligation to correct or update the information or opinions in it. Opinions expressed are subject 
-to change without notice. No member of the Macquarie Group accepts any liability whatsoever for any direct, indirect, consequential or other loss arising 
-from any use of this research and/or further communication in relation to this research.  Clients should contact analysts at, and execute transactions 
-through, a Macquarie Group entity in their home jurisdiction unless governing law permits otherwise. The date and timestamp for above share price and 
-market cap is the closed price of the price date. #CLOSE is the final price at which the security is traded in the relevant exchange on the date indicated. 
-Members of the Macro Strategy team are Sales & Trading personnel who provide desk commentary that is not a product of the Macquarie Research 
-department or subject to FINRA Rule 2241 or any other regulation regarding independence in the provision of equity research. 
-Country-specific disclaimers:  
-Australia: In Australia, research is issued and distributed by Macquarie Securities (Australia) Ltd (AFSL No. 238947), a participating organization of the 
-Australian Securities Exchange. Macquarie Securities (Australia) Limited staff involved with the preparation of research have regular interaction with 
-companies they cover. Additionally, Macquarie Group Limited does and seeks to do business with companies covered by Macquarie Research. There 
-are robust information barriers in place to protect the independence of Macquarie Research’s product. However, recipients of Macquarie Research 
-should be aware of this potential conflict of interest. New Zealand: In New Zealand, research is issued and distributed by Macquarie Securities (NZ) Ltd, 
-a NZX Firm. Canada: In Canada, research is prepared, approved and distributed by Macquarie Capital Markets Canada Ltd., a (i) member of the 
-Investment Industry Regulatory Organization of Canada and the Canadian Investor Protection Fund, and (ii) participating organisation of the Toronto 
-Stock Exchange, TSX Venture Exchange & Montréal Exchange. This research is distributed in the United States, as third party research by Macquarie 
-Capital Markets North America Ltd., which is a registered broker-dealer and member of Financial Industry Regulatory Authority and the Securities 
-Investor Protection Corporation. Macquarie Capital Markets North America Ltd. accepts responsibility for the contents of reports issued by Macquarie 
-Capital Markets Canada Ltd. in the United States and sent to US persons. Any US person wishing to effect transactions in the securities described in 
-the reports issued by Macquarie Capital Markets Canada Ltd. should do so with Macquarie Capital Markets North America Ltd. This research is 
-intended for distribution in the United States only to major Institutional Investors (as such term is defined in SEC 15a-6 and Section 15 of the Securities 
-Exchange Act of 1934, as amended) and is not intended for the use of any person or entity that is not a major institutional investor.  Research analysts 
-of Macquarie Capital Markets Canada Ltd. are not registered/qualified as research analysts with FINRA. The Research Distribution Policy of Macquarie 
-Capital Markets Canada Ltd. is to allow all clients that are entitled to have equal access to our research.  United Kingdom: In the United Kingdom, 
-research is issued and distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated by the Financial Conduct Authority (No. 
-193905). Germany: In Germany, this research is issued and/or distributed by Macquarie Capital (Europe) Limited, Niederlassung Deutschland, which is 
-authorised and regulated by the UK Financial Conduct Authority (No. 193905). and in Germany by BaFin. France: In France, research is issued and 
-distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated in the United Kingdom by the Financial Conduct Authority (No. 
-193905). Hong Kong & Mainland China: In Hong Kong, research is issued and distributed by Macquarie Capital Limited, which is licensed and 
-regulated by the Securities and Futures Commission. In Mainland China, Macquarie Securities (Australia) Limited Shanghai Representative Office only 
-engages in non-business operational activities excluding issuing and distributing research. Only non-A share research is distributed into Mainland China 
-by Macquarie Capital Limited.  Japan: In Japan, research is Issued and distributed by Macquarie Capital Securities (Japan) Limited, a member of the 
-Tokyo Stock Exchange, Inc. and Osaka Exchange, Inc. (Financial Instruments Firm, Kanto Financial Bureau (kin-sho) No. 231, a member of Japan 
-Securities Dealers Association).  India: In India, research is issued and distributed by Macquarie Capital Securities (India) Pvt. Ltd. (CIN: 
-U65920MH1995PTC090696), 92, Level 9, 2 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai – 400 051, India, which is a 
-SEBI registered Research Analyst having registration no. INH000000545.  Malaysia: In Malaysia, research is issued and distributed by Macquarie 
-Capital Securities (Malaysia) Sdn. Bhd. (Company registration number: 463469-W) which is a Participating Organisation of Bursa Malaysia Berhad and 
-a holder of Capital Markets Services License issued by the Securities Commission.  Taiwan: In Taiwan, research is issued and distributed by Macquarie 
-Capital Limited, Taiwan Securities Branch, which is licensed and regulated by the Financial Supervisory Commission.  No portion of the report may be 
-reproduced or quoted by the press or any other person without authorisation from Macquarie.  Nothing in this research shall be construed as a 
-solicitation to buy or sell any security or product. The recipient of this report shall not engage in any activities which may give rise to potential conflicts of 
-interest to the report. Research Associate(s) in this report who are registered as Clerks only assist in the preparation of research and are not engaged in 
-writing the research. Macquarie may be in past one year or now being an Issuer of Structured Warrants on securities mentioned in this report. Thailand: 
-In Thailand, research is produced, issued and distributed by Macquarie Securities (Thailand) Ltd. Macquarie Securities (Thailand) Ltd. is a licensed 
-securities company that is authorized by the Ministry of Finance, regulated by the Securities and Exchange Commission of Thailand and is an exchange 
-member of the Stock Exchange of Thailand. The Thai Institute of Directors Association has disclosed the Corporate Governance Report of Thai Listed 
-Companies made pursuant to the policy of the Securities and Exchange Commission of Thailand. Macquarie Securities (Thailand) Ltd does not endorse 
-the result of the Corporate Governance Report of Thai Listed Companies but this Report can be accessed at: http://www.thai-
-iod.com/en/publications.asp?type=4. South Korea: In South Korea, unless otherwise stated, research is prepared, issued and distributed by Macquarie 
-Securities Korea Limited, which is regulated by the Financial Supervisory Services. Information on analysts in MSKL is disclosed at 
-http://dis.kofia.or.kr/websquare/index.jsp?w2xPath=/wq/fundMgr/DISFundMgrAnalystStut.xml&divisionId=MDIS03002001000000&serviceId=SDIS03002
-001000. South Africa: In South Africa, research is issued and distributed by Macquarie Equities South Africa (Pty) Ltd, a member of the JSE Limited.  
-Singapore: In Singapore, research is issued and distributed by Macquarie Capital Securities (Singapore) Pte Ltd (Company Registration Number: 
-198702912C), a Capital Markets Services license holder under the Securities and Futures Act to deal in securities and provide custodial services in 
-Singapore. Pursuant to the Financial Advisers (Amendment) Regulations 2005, Macquarie Capital Securities (Singapore) Pte Ltd is exempt from 
-complying with sections 25, 27 and 36 of the Financial Advisers Act. All Singapore-based recipients of research produced by Macquarie Capital 
-(Europe) Limited, Macquarie Capital Markets Canada Ltd, Macquarie Equities South Africa (Pty) Ltd and Macquarie Capital (USA) Inc. represent and 
-warrant that they are institutional investors as defined in the Securities and Futures Act. United States: In the United States, research is issued and 
-distributed by Macquarie Capital (USA) Inc., which is a registered broker-dealer and member of FINRA.  Macquarie Capital (USA) Inc, accepts 
-responsibility for the content of each research report prepared by one of its non-US affiliates when the research report is distributed in the United States 
-by Macquarie Capital (USA) Inc. Macquarie Capital (USA) Inc.’s affiliate’s analysts are not registered as research analysts with FINRA, may not be 
-associated persons of Macquarie Capital (USA) Inc., and therefore may not be subject to FINRA rule restrictions on communications with a subject 
-company, public appearances, and trading securities held by a research analyst account. Information regarding futures is provided for reference 
-purposes only and is not a solicitation for purchases or sales of futures. Any persons receiving this report directly from Macquarie Capital (USA) Inc. and 
-Macquarie Research 
-ZTE (A-Share) 
-16 July 2018 
-10 
-wishing to effect a transaction in any security described herein should do so with Macquarie Capital (USA) Inc.  Important disclosure information 
-regarding the subject companies covered in this report is available at www.macquarie.com/research/disclosures, or contact your registered 
-representative at 1-888-MAC-STOCK, or write to the Supervisory Analysts, Research Department, Macquarie Securities, 125 W.55th Street, New York, 
-NY 10019.  
-© Macquarie Group 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Equities 
- 
-Asia Research 
-Head of Equity Research 
-Jake Lynch (Asia – Head) 
-(852) 3922 3583 
-Hiroyuki Sakaida (Japan – Head) 
-(813) 3512 6695 
-Conrad Werner (ASEAN – Head) 
-(65) 6601 0182 
-Automobiles, Auto Parts 
-Janet Lewis (China, Japan) 
-(813) 3512 7856 
-Allen Yuan (China) 
-(8621) 2412 9009 
-James Hong (Korea) 
-(822) 3705 8661 
-Amit Mishra (India)  
-(9122) 6720 4084 
-Banks and Financials 
-Scott Russell (Asia)  
-(852) 3922 3567 
-Dexter Hsu (China, Taiwan) 
-(8862) 2734 7530 
-Keisuke Moriyama (Japan) 
-(813) 3512 7476 
-Chan Hwang (Korea)  
-(822) 3705 8643 
-Suresh Ganapathy (India) 
-(9122) 6720 4078 
-Jayden Vantarakis (Indonesia) 
-(6221) 2598 8310 
-Anand Pathmakanthan (Malaysia) 
-(603) 2059 8833 
-Gilbert Lopez (Philippines) 
-(632) 857 0892 
-Ken Ang (Singapore) 
-(65) 6601 0836 
-Peach Patharavanakul (Thailand) 
-(662) 694 7753 
-Basic Materials 
-Yasuhiro Nakada (Japan) 
-(813) 3512 7862 
-Anna Park (Korea) 
-(822) 3705 8669 
-Sumangal Nevatia (India) 
-(9122) 6720 4093 
-Jayden Vantarakis (Indonesia) 
-(6221) 2598 8310 
-Farrah Aqlima (Malaysia) 
-(603) 2059 8987 
-Conglomerates 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Conrad Werner (Singapore) 
-(65) 6601 0182 
-Gilbert Lopez (Philippines) 
-(632) 857 0892 
-Consumer, Gaming 
-Linda Huang (Asia) 
-(852) 3922 4068 
-Zibo Chen (China, Hong Kong) 
-(852) 3922 1130 
-Terence Chang (China, Hong Kong) 
-(852) 3922 3581 
-Sunny Chow (China, Hong Kong) 
-(852) 3922 3768 
-Stella Li (China, Taiwan) 
-(8862) 2734 7514 
-Leon Rapp (Japan) 
-(813) 3512 7879 
-Kwang Cho (Korea) 
-(822) 3705 4953 
-Amit Sinha (India)  
-(9122) 6720 4085 
-Karisa Magpayo (Philippines) 
-(632) 857 0899 
-Chalinee Congmuang (Thailand) 
-(662) 694 7993 
-Robert Pranata (Indonesia) 
-(6221) 2598 8366 
-Richardo Walujo (Indonesia) 
-(6221) 2598 8369 
-Denise Soon (Malaysia) 
-(603) 2059 8845 
- 
-Emerging Leaders 
-Jake Lynch (Asia) 
-(852) 3922 3583 
-Kwang Cho (Korea) 
-(822) 3705 4953 
-Corinne Jian (Greater China) 
-(8862) 2734 7522 
-Conrad Werner (ASEAN) 
-(65) 6601 0182 
-Bo Denworalak (Thailand) 
-(662) 694 7774 
-Infrastructure, Industrials, Transportation 
-Patrick Dai (China) 
-(8621) 2412 9082 
-Eric Zong (China, Hong Kong) 
-(852) 3922 4749 
-Kunio Sakaida (Japan) 
-(813) 3512 7873 
-James Hong (Korea) 
-(822) 3705 8661 
-Corinne Jian (Taiwan) 
-(8862) 2734 7522 
-Inderjeetsingh Bhatia (India) 
-(9122) 6720 4087 
-Azita Nazrene (ASEAN) 
-(65) 6601 0560 
-Internet, Media and Software 
-Wendy Huang (Asia) 
-(852) 3922 3378 
-Marcus Yang (Greater China) 
-(8862) 2734 7532 
-David Gibson (Japan) 
-(813) 3512 7880 
-Alankar Garude (India) 
-(9122) 6720 4134 
-Oil, Gas and Petrochemicals 
-Aditya Suresh (Asia) 
-(852) 3922 1265 
-Anna Park (Asia) 
-(822) 3705 8669 
-Yasuhiro Nakada (Japan) 
-(813) 3512 7862 
-Corinne Jian (Taiwan) 
-(8862) 2734 7522 
-Ben Shane Lim (Malaysia) 
-(603) 2059 8868 
-Yupapan Polpornprasert (Thailand) (662) 694 7729 
-Pharmaceuticals and Healthcare 
-Corinne Jian (China) 
-(8862) 2734 7522 
-Alankar Garude (India) 
-(9122) 6720 4134 
-Richardo Walujo (Indonesia) 
-(6221) 259 88 369 
-Property, REIT 
-Tuck Yin Soong (Asia, Singapore)  
-(65) 6601 0838 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Kelvin Tam (China) 
-(852) 3922 1181 
-Keisuke Moriyama (Japan) 
-(813) 3512 7476 
-Tomoyoshi Omuro (Japan) 
-(813) 3512 7474 
-Abhishek Bhandari (India) 
-(9122) 6720 4088 
-Aiman Mohamad (Malaysia) 
-(603) 2059 8986 
-Kervin Sisayan (Philippines) 
-(632) 857 0893 
-Richard Danusaputra (Indonesia) 
-(6221) 2598 8368 
- 
-Technology 
-Damian Thong (Asia, Japan) 
-(813) 3512 7877 
-Allen Chang (Greater China) 
-(852) 3922 1136 
-Jeffrey Ohlweiler (Greater China) 
-(8862) 2734 7512 
-Chris Yu (Greater China) 
-(8621) 2412 9024 
-Kaylin Tsai (Greater China) 
-(8862) 2734 7523 
-Lynn Luo (Greater China) 
-(8862) 2734 7534 
-Patrick Liao (Greater China) 
-(8862) 2734 7515 
-Verena Jeng (Greater China) 
-(852) 3922 3766 
-Daniel Kim (Korea) 
-(822) 3705 8641 
-Abhishek Bhandari (India) 
-(9122) 6720 4088 
-Farrah Aqlima (Malaysia) 
-(603) 2059 8987 
-Telecoms 
-Allen Chang (Greater China) 
-(852) 3922 1136 
-Prem Jearajasingam (ASEAN) 
-(603) 2059 8989 
-Kervin Sisayan (Philippines) 
-(632) 857 0893 
-Nathania Nurhalim (Indonesia) 
-(6221) 2598 8365 
-Utilities, Renewables 
-Hiroyuki Sakaida (Japan) 
-(813) 3512 6695 
-Patrick Dai (China) 
-(8621) 2412 9082 
-Inderjeetsingh Bhatia (India) 
-(9122) 6720 4087 
-Karisa Magpayo (Philippines) 
-(632) 857 0899 
-Quantitative, CPG 
-Gurvinder Brar (Global) 
-(44 20) 3037 4036 
-John Conomos (Asia) 
-(612) 8232 5157 
-Alvin Chao (Asia) 
-(852) 3922 1108 
-Tracy Chow (Asia) 
-(852) 3922 4285 
-YingYing Hou (Asia) 
-(852) 3922 5422 
-Strategy, Country 
-Viktor Shvets (Asia, Global) 
-(852) 3922 3883 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Hiroyuki Sakaida (Japan) 
-(813) 3512 6695 
-Chan Hwang (Korea)  
-(822) 3705 8643 
-Jeffrey Ohlweiler (Taiwan) 
-(8862) 2734 7512 
-Inderjeetsingh Bhatia (India) 
-(9122) 6720 4087 
-Jayden Vantarakis (Indonesia)  
-(6221) 2598 8310 
-Anand Pathmakanthan (Malaysia) 
-(603) 2059 8833 
-Gilbert Lopez (Philippines) 
-(632) 857 0892 
-Conrad Werner (ASEAN, Singapore) 
-(65) 6601 0182 
-Peach Patharavanakul (Thailand) 
-(662) 694 7753 
-  
-Find our research at 
-Macquarie: 
-www.macquarieresearch.com 
-Thomson:  
-www.thomson.com/financial 
-Reuters:  
-www.knowledge.reuters.com 
-Bloomberg:  
-MAC GO 
- 
-Factset: 
-http://www.factset.com/home.aspx 
-CapitalIQ 
-www.capitaliq.com 
-Email macresearch@macquarie.com for access 
-   
- 
- 
- 
- 
-Asia Sales 
-Regional Heads of Sales 
-Miki Edelman (Global) 
-(1 212) 231 6121 
-Amelia Mehta (Asia) 
-(65) 6601 0211 
-Jeffrey Shiu (China, Hong Kong) 
-(852) 3922 2061 
-Sandeep Bhatia (India) 
-(9122) 6720 4101 
-Thomas Renz (Geneva) 
-(41 22) 818 7712 
-Tomohiro Takahashi (Japan) 
-(813) 3512 7823 
-John Jay Lee (Korea) 
-(822) 3705 9988 
-Nik Hadi (Malaysia) 
-(603) 2059 8888 
-Gino C Rojas (Philippines) 
-(632) 857 0861 
- 
- 
-Regional Heads of Sales cont’d 
-Paul Colaco (San Francisco) 
-(1 415) 762 5003 
-Angus Kent (Thailand) 
-(662) 694 7601 
-Ben Musgrave (UK/Europe) 
-(44 20) 3037 4882 
-Christina Lee (UK/Europe) 
-(44 20) 3037 4873 
-Sales Trading 
-Adam Zaki (Asia) 
-(852) 3922 2002 
-Stanley Dunda (Indonesia) 
-(6221) 515 1555 
- 
- 
-Sales Trading cont’d 
-Suhaida Samsudin (Malaysia) 
-(603) 2059 8888 
-Michael Santos (Philippines) 
-(632) 857 0813 
-Chris Reale (New York) 
-(1 212) 231 2555 
-Marc Rosa (New York) 
-(1 212) 231 2555 
-Justin Morrison (Singapore) 
-(65) 6601 0288 
-Daniel Clarke (Taiwan) 
-(8862) 2734 7580 
-Brendan Rake (Thailand) 
-(662) 694 7707 
-Mike Keen (UK/Europe) 
-(44 20) 3037 4905 
- 
- 
- 
-This publication was disseminated on 13 July 2018 at 17:05 UTC.
+wishing to effect a transaction in any security described herein should do so with Macquarie Capital (USA) Inc. Important disclosure information
+representative at 1-888-MAC-STOCK, or write to the Supervisory Analysts, Research Department, Macquarie Securities, 125 W.55th Street, New York,
+NÝ 10019.
+© Macquarie Group
+Equities
+Asia Research
+Head of Equity Research
+Emerging Leaders
+Technology
+Jake Lynch (Asia - Head)
+Jake Lynch (Asia)
+Damian Thong (Asia, Japan)
+Hiroyuki Sakaida (Japan - Head)
+Kwang Cho (Korea)
+Allen Chang (Greater China)
+Conrad Werner (ASEAN - Head)
+Corinne Jian (Greater China)
+Jeffrey Ohlweiler (Greater China)
+Conrad Werner (ASEAN)
+Chris Yu (Greater China)
+Automobiles, Auto Parts
+Bo Denworalak (Thailand)
+Kaylin Tsai (Greater China)
+Lynn Luo (Greater China)
+Janet Lewis (China, Japan)
+Infrastructure, Industrials, Transportation
+Patrick Liao (Greater China)
+Allen Yuan (China)
+Verena Jeng (Greater China)
+Patrick Dai (China)
+James Hong (Korea)
+Daniel Kim (Korea)
+Amit Mishra (India)
+Eric Zong (China, Hong Kong)
+Abhishek Bhandari (India)
+Kunio Sakaida (Japan)
+Banks and Financials
+Farrah Aglima (Malaysia)
+James Hong (Korea)
+Corinne Jian (Taiwan)
+Scott Russell (Asia)
+Telecoms
+Inderjeetsingh Bhatia (India)
+Dexter Hsu (China, Taiwan)
+Azita Nazrene (ASEAN)
+Allen Chang (Greater China)
+Keisuke Moriyama (Japan)
+Prem Jearajasingam (ASEAN)
+Chan Hwang (Korea)
+Internet, Media and Software
+Kervin Sisayan (Philippines)
+Suresh Ganapathy (India)
+Nathania Nurhalim (Indonesia)
+Jayden Vantarakis (Indonesia)
+Wendy Huang (Asia)
+Anand Pathmakanthan (Malaysia)
+Marcus Yang (Greater China)
+Utilities, Renewables
+Gilbert Lopez (Philippines)
+David Gibson (Japan)
+Ken Ang (Singapore)
+Alankar Garude (India)
+Hiroyuki Sakaida (Japan)
+Peach Patharavanakul (Thailand)
+Patrick Dai (China)
+Oil, Gas and Petrochemicals
+Inderjeetsingh Bhatia (India)
+Basic Materials
+Karisa Magpayo (Philippines)
+Aditya Suresh (Asia)
+Yasuhiro Nakada (Japan)
+Anna Park (Asia)
+Quantitative, CPG
+Anna Park (Korea)
+Yasuhiro Nakada (Japan)
+Sumangal Nevatia (India)
+Corinne Jian (Taiwan)
+Gurvinder Brar (Global)
+Jayden Vantarakis (Indonesia)
+Ben Shane Lim (Malaysia)
+John Conomos (Asia)
+Farrah Aqlima (Malaysia)
+Yupapan Polpornprasert (Thailand)
+Alvin Chao (Asia)
+Tracy Chow (Asia)
+Pharmaceuticals and Healthcare
+Conglomerates
+YingYing Hou (Asia)
+David Ng (China, Hong Kong)
+Corinne Jian (China)
+Strategy, Country
+Conrad Werner (Singapore)
+Alankar Garude (India)
+Gilbert Lopez (Philippines)
+Richardo Walujo (Indonesia)
+Viktor Shvets (Asia, Global)
+David Ng (China, Hong Kong)
+Consumer, Gaming
+Property, REIT
+Hiroyuki Sakaida (Japan)
+Chan Hwang (Korea)
+Linda Huang (Asia)
+Tuck Yin Soong (Asia, Singapore)
+Jeffrey Ohlweiler (Taiwan)
+Zibo Chen (China, Hong Kong)
+David Ng (China, Hong Kong)
+Inderjeetsingh Bhatia (India)
+Terence Chang (China, Hong Kong)
+Kelvin Tam (China)
+Jayden Vantarakis (Indonesia)
+Sunny Chow (China, Hong Kong)
+Keisuke Moriyama (Japan)
+Anand Pathmakanthan (Malaysia)
+Stella Li (China, Taiwan)
+Tomoyoshi Omuro (Japan)
+Gilbert Lopez (Philippines)
+Abhishek Bhandari (India)
+Leon Rapp (Japan)
+Conrad Werner (ASEAN, Singapore)
+Kwang Cho (Korea)
+Aiman Mohamad (Malaysia)
+Peach Patharavanakul (Thailand)
+Kervin Sisayan (Philippines)
+Amit Sinha (India)
+Karisa Magpayo (Philippines)
+Richard Danusaputra (Indonesia)
+Chalinee Congmuang (Thailand)
+Find our research at
+Robert Pranata (Indonesia)
+Macquarie:
+Richardo Waluio (Indonesia)
+Thomson:
+Denise Soon (Malaysia)
+Reuters:
+MAC GO
+Bloomberg:
+Factset:
+CapitallQ
+Asia Sales
+Regional Heads of Sales
+Regional Heads of Sales cont'd
+Sales Trading cont'd
+Miki Edelman (Global)
+Paul Colaco (San Francisco)
+Suhaida Samsudin (Malaysia)
+Amelia Mehta (Asia)
+Angus Kent (Thailand)
+Michael Santos (Philippines)
+Jeffrey Shiu (China, Hong Kong)
+Ben Musgrave (UK/Europe)
+Chris Reale (New York)
+Sandeep Bhatia (India)
+Christina Lee (UK/Europe)
+Marc Rosa (New York)
+Thomas Renz (Geneva)
+Justin Morrison (Singapore)
+Sales Trading
+Tomohiro Takahashi (Japan)
+Daniel Clarke (Taiwan)
+John Jay Lee (Korea)
+Brendan Rake (Thailand)
+Adam Zaki (Asia)
+Nik Hadi (Malaysia)
+Mike Keen (UK/Europe)
+Stanley Dunda (Indonesia)
+Gino C Rojas (Philippines)

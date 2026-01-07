@@ -1,85 +1,144 @@
-2024 年一季报点评：费用加大致利润承压，
-流通A股市值(百万元)
-每股净资产(元LF)
-资产负债率(%LF)
-流通A 股(百万股)
-同花顺(300033)：2023 年报点评：
-费用投入提升，期待AI 应用贡献增
-同花顺(300033)：2023 年三季度点
-评：AI 投入加大致利润承压，期待AI
-营业总收入（百万元）
-归母净利润（百万元）
-EPS-最新摊薄（元股）
-PE（现价最新摊薄）
-关键词：新产品、新技术、新客户
- 事件：2024Q1 公司实现营收619 亿元，同比增长147%；归母净利润
-104 亿元，同比下降1503%。2024Q1，公司销售商品、提供劳务收到
-的现金达66 亿元，同比下降117%；截至24Q1，合同负债达1116 亿
- Q1 市场活跃度同比改善，资本市场波动压制C 端需求。根据Wind，
-2024 Q1 A 股成交额同比02%至519 万亿元，市场活跃度有所提升；
-基于此，公司24Q1 营收同比147%，达619 亿元。分业务来看，资本
-市场波动压制C 端需求。2024Q1，公司销售商品、提供劳务收到的现
-金达66 亿元，同比下降117%，主因资本市场波动下用户对金融信息
-需求下降，导致销售收款减少。
- 加大销售及研发投入，利润率同比下降。2024Q1，公司归母净利润率同
-比-326pct 至1678%，主要系公司费用端加大投入。2024Q1，公司在营
-销推广力度、AI 研发上投入较大：1）销售费用同比28%至113 亿元，
-销售费用率同比375pct 至1819%，主要系公司加大营销推广力度，销
-售人员薪酬及广告宣传费增加所致；2）研发费用同比763%至302 亿
-元，研发费用率同比279pct 至4880%，主要系公司继续加大AI 相关
-研发投入，尤其是在大模型方面，在高端人才引进和算力等领域持续投
- 自研问财大模型已发布，期待B 端、C 端产品AI 功能逐步完善。公司
-自研问财HithinkGPT 大模型已于1 月发布，其预训练金融语料达到万
-亿级tokens，涵盖了股票、债券、期货、外汇等多方面数据，有望结合
-公司产品提供更优质的服务。此外，同花顺 AI 开放平台目前可面向客
-户提供数字虚拟人、短视频生成、文章生成、智能金融问答、智能语音
-等多项AI 产品及服务。基于同花顺AI 大模型，B 端iFinD 产品逐步完
-善AI 功能；C 端智能投顾机器人i 问财持续发展。我们认为，随产
-品端AI 功能的持续迭代，公司产品竞争力有望提升，并推动公司业绩
- 盈利预测与投资评级：24 Q1 资本市场活跃度同比提升，公司主业稳健；
-AI 赋能下有望提升公司产品竞争力，带动业绩提升。我们维持此前盈利
-预测，预计24-26 年归母净利润为170193219 亿元，同比增长
-21%14%13%，对应当前股价PE 分别为363128 倍，维持买入评
- 风险提示：业务发展不及预期，AI 技术及应用发展不及预期
-资产负债表（百万元）
-2026E  利润表（百万元）
-10904  营业总收入
-营业成本(含金融类)
-12561  利润总额
-1609  归属母公司净利润
-64  每股收益-最新股本摊薄(元)
-3507  毛利率(%)
-9053  归母净利率(%)
-9054  收入增长率(%)
-12561  归母净利润增长率(%)
-现金流量表（百万元）
-2026E  重要财务与估值指标
-2515  每股净资产(元)
-(113)  最新发行在外股份（百万股）
-(1531)  ROIC(%)
-871  ROE-摊薄(%)
-55  资产负债率(%)
-(113)  PE（现价最新股本摊薄）
-274  PB（现价）
-会因接收人收到本报告而视其为客户。在任何情况下，本报告中的信息或所表述的意见并不
-构成对任何人的投资建议，本公司及作者不对任何人因使用本报告中的内容所导致的任何后
-司力求但不保证这些信息的准确性和完整性，也不保证文中观点或陈述不会发生任何变更，
-在不同时期，本公司可发出与本报告所载资料、意见及推测不一致的报告。
-本报告的版权归本公司所有，未经书面许可，任何机构和个人不得以任何形式翻版、复
-本报告发布人和发布日期，提示使用本报告的风险，且不得对本报告进行有悖原意的引用、
-删节和修改。未经授权或未按要求刊载、转发本报告的，应当承担相应的法律责任。本公司
-将保留向其追究法律责任的权利。
-的预期（A 股市场基准为沪深 300 指数，香港市场基准为恒生指数，美国市场基准为标普
-500 指数，新三板基准指数为三板成指（针对协议转让标的）或三板做市指数（针对做市转
-让标的），北交所基准指数为北证50 指数），具体如下：
-买入：预期未来6 个月个股涨跌幅相对基准在15%以上；
-增持：预期未来6 个月个股涨跌幅相对基准介于5%与15%之间；
-中性：预期未来 6 个月个股涨跌幅相对基准介于-5%与5%之间；
-减持：预期未来 6 个月个股涨跌幅相对基准介于-15%与-5%之间；
-卖出：预期未来 6 个月个股涨跌幅相对基准在-15%以下。
-增持： 预期未来6 个月内，行业指数相对强于基准5%以上；
-中性： 预期未来6 个月内，行业指数相对基准-5%与5%；
-减持： 预期未来6 个月内，行业指数相对弱于基准5%以上。
-特定状况，如具体投资目的、财务状况以及特定需求等，并完整理解和使用本报告内容，不
-应视本报告为做出投资决策的唯一因素。
-苏州工业园区星阳街5 号
+(記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の) (記事の)
+a li n li n li n li n li n li n li n li
+në.Pinë.
+i.l.
+『・『上ででにルロににににににににににににににににに
+ē.₽.
+e”⊩a”h.Piri⊪a”hilina jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirik
+”——8——————————————————————————————————
+『・『・『・『に『に『に『に『に『にりにりにりにりに
+in Piere in li Repin li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li Piere li
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+！『上『上『上『上『上『上『上『ト『ト『ト
+· "E
+- "English" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a "Pi-" a
+音響型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型型
+i.l.
+in Piere alle line alle alle alle alle alle alle alle al
+”————————————————————————————————————
+· Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa The Pa
+□ Fallen in length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of length of
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+目・『・『上間に『ににににににににににににににににに
+- " " " " " " " " " " " " " " " " " " "
+■ nih=nih=nih=nih=nih=nih=nih=nih=nih=nih=
+『上で記録のでは、では、では、では、では、では、では、では、では、では、
+『上電子の中では『中で記録のでは「中で記録のではできるができた。できた。できた。できた。できた。できた。できた。できた。
+『『『記事で記事で記事である『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『にりにりにりにりにりにりにりにりにりに
+『『『『『『『『『『『『『『『『『『『
+音楽で a The Pin in in in in in in in in in in in in i
+『上電子』『inalianalianalianalianalianalianalianal
+・『・『・『上間にににににににににににににににににに
+・『herine『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『herine”『he
+・電子電子で表現。では、では、では、では、では、では、では、では、では、では、
+音いできまって『hurnal number number number number number number number number number number number number number number number number number number number number number number number number number number number number number n
+『上電子記憶記憶記記』『上電子記憶記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+· "E" a Tin B
+『『『記事で記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事であ
+- """" "" "" "" "" "" "" "" "" "" "" ""
+『上電子『上電子『上電子『上電子
+自小E-aire
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『『『記事で『記事で『記事で『記事で記事で記事で記
+”『Pi
+事事。『inea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu linea nu
+「記事ででに加速にがにがにがにがにがにがにがにりにりにり
+『『『『『『『『『『『『『『『『『『『
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『上でではにルロににににににににににににににににに
+四市。『市場・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・
+· "
+- " " " " " " " " " " " " " " " " " " "
+”——RPin när
+■ Barlieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline allieraline a
+· 『上歌·名·· · · · · · · · · · · · · · · · · ·
+" a The Raile në në në në në në në në në në në në në
+で表現。で開からで記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。で記した。
+『上で記録のでは、『huspafa nu like『in like』
+『記事で記述で記した。で記述で記述で記述で記述で記述で記述で記述で記述で記述で記述
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+a"-"
+” - "a-P" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" - "B" -
+「上電子『上電子『上間にににににににににににににににににに
+『・・・・・・・・・・・・・・・・・・・
+『『『記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事であ
+inia.
+事事。『ina a la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+。『上記』『上記』『上記』
+男子では、では、では、では、では、では、では、では、では、では、
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+事事。『記事句』『記事句』『記事句』
+· Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bag
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+事事。『正明』『正明』『正明』『正明』
+- Tin Air nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar nu nin ar
+aire aire aire aire aire aire aire aire
+制
+- The line line line line line line line lin
+音。『『記『記『記『記『記『記『記『にににに
+a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Tie a・Ti
+。『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『上『中で、『一で、『一で、『一で、『一で、『一で、『一で、
+- 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・
+- The Time arm of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the sta
+音楽 - The The The The The The The The The The
+。『『『『『『『『『『『『『『『『『『『
+”『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·
+”『上電子』『上電子』
+で、では、では、では、では、では、では、では、では、では、で
+事事である。『ina la la la la la la la la la la la la la
+『『『『『『『『『『『『『『『『『『『
+事事。『in la la la la la la la la la la la la la
+” “” “” “” “” “” “” “” “” “” “
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+- Teinen line nine nine nine nine nine nine
+- """" a The
+a".
+『上電子』『正電子』『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山
+- " " " " " " " " " " " " " " " " " " "
+『・『・『・『ド『ド『ド『ド『ド『ド『ド
+『『『『『『『『『『『『『『『『『『『
+司事
+・
+・
+は
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+- III.I n i n i n i n i n i n i n i n i n i n
+a"⊩" a"h" a"h" a"h" a"h" a"h" a"h" a"h"
+· " " " " " " " " " " " " " " " " " " "
+” ————————————————————————————————————
+· 『 · · · · · · · · · · · · · · · · · ·
+· 『上電子』『正曜日』『正曜日』『正曜日』
+i.l.
+” La Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la Tu la

@@ -1,2247 +1,386 @@
-Deutsche Bank 
- Markets Research 
-Rating 
-Hold 
-Asia 
-China 
-Banking / Finance 
-Banks 
-Company 
-Ping An Bank 
- 
-Date 
-11 August 2017 
-Results 
- 
-Fundamental recovery takes time; 
-Hold 
-Reuters 
-Bloomberg 
-Exchange Ticker 
-000001.SZ 
-000001 CH 
-SHZ 
-000001 
- 
- 
- 
-Funding cost pressure read-across to other JSBs 
-  
-________________________________________________________________________________________________________________ 
-Deutsche Bank AG/Hong Kong 
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should 
-be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should 
-consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST 
-CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. 
- 
-Price at 10 Aug 2017 (CNY) 
-10.62 
-Price target - 12mth (CNY) 
-9.48 
-52-week range (CNY) 
-11.17 - 8.57 
-HANG SENG INDEX 
-27,757 
-Hans Fan, CFA 
-Research Analyst 
-(+852 )    2203 6353
-hans.fan@db.com 
-Jacky Zuo 
-Research Analyst 
-(+852 )    2203 6255 
-jacky.zuo@db.com 
-Edward Du 
-Research Associate 
-(+852 )    2203 6185 
-edward.du@db.com
-Price/price relative 
-8
-9
-11
-12
-14
-15
-8/15
-2/16
-8/16
-2/17
+Rating
+Company
 Ping An Bank
-HANG SENG INDEX (Rebased)   
-Performance (%) 
-1m 
-3m 
-12m 
-Absolute 
-10.7 
-22.5 
-16.2 
-HANG SENG INDEX 
-8.9 
-11.0 
-23.4 
-Source: Deutsche Bank 
- 
-Valuation and risks 
-We value Ping An Bank using a three-
-stage Gordon Growth Model (PV= 
-(ROE-g)/(COE-g)), with our target price 
-based on 0.8x FY2017E book value. 
-Key downside risks: weaker-than-
-expected asset quality deterioration; 
-faster-than-expected capital 
-consumption; and weaker-than-
-expected synergy with Ping An Group. 
-Key upside risks: faster development of 
-wealth management businesses; 
-strengthened retail franchise to lower 
-deposit cost; better intra-group cross-
-selling. More Details on page 4. 
- 
-PAB reported 2Q17 net profit of Rmb6.3bn, up 2% yoy; 1H17 earnings were up 
-2% yoy, accounting for 51% of our 2017 forecast. The uninspiring 2Q17 results 
-were mainly characterized by higher funding cost, which we believe represents 
-a read-across to other wholesale-funded joint-stock banks (JSBs). NIM fell 
-another 15bps qoq. Asset quality has yet to see major improvement, while 
-capital remains a concern that is not solved by convertible bond issuance. The 
-only sweet spot is the retail strategy, which started to bear fruit in 1H17 with a 
-40%/64% contribution to revenue/ profit (vs. 29% in 1H16). Net net, we believe 
-it will take more time before we see a fundamental recovery. Hold. 
-Key trends of 2Q17 results 
- 
-NIM in 2Q17 was 2.38%, down 15bps qoq or 33bps yoy; we believe it was 
-impacted by a market rate hike and financial deleveraging. Deposit cost 
-was up 11bps qoq to 1.92% and interbank borrowing cost up 28bps qoq to 
-3.4%. Meanwhile, loan yield continued to decline (5.94% vs. 6.06% in 
-1Q17). In addition, PAB saw difficulties in growing deposits (up 0.7% yoy). 
- 
-Asset quality continued to deteriorate: the NPL ratio nudged up 2bps qoq 
-to 1.76% with the coverage ratio at 161% (163% in 1Q17). The SML ratio 
-stood at 4.14%, up 3bps hoh; meanwhile, >90-day overdue loan/NPL 
-balance remained high at 154% (vs. 158% in 2016). We estimate 2Q17 
-NPL formation was 284bps, higher than 254bps in 1Q17 but lower than 
-326bps on average in 2016. 
- 
-Weak capital ratio: The CET1 ratio stood at only 8.13% in 2Q17, down 
-15bps qoq, with RWA density up 35bps qoq to 70.3%. PAB recently 
-announced a Rmb26bn A-share convertible bond plan but we don’t think 
-this can solve the capital issue in the short term. In our view, it may need 
-to further raise capital through a placement and reduce its payout ratio 
-(2016: 12%, vs big 4 banks’ c.30%). 
- 
-CIR fell 5.8ppt yoy to 25.9%, driven by a 21% drop in operating expenses. 
-It is worth highlighting that its total employees fell 14% YTD, leading to a 
-23% yoy decline in labor cost. 
- 
-Retail contributed 40% of group revenue and 64% of group profit in 1H17 
-(29% and 29% in 1H16), which was a positive development in our view. 
-We think this was a result of its strategic focus on retail banking and 
-cross-selling from Ping An Group. We will seek more details during the 
-post-results conference call to be held on 11 August. 
-Distributed on: 10/08/2017 18:45:45 GMT
-0bed7b6cf11c
-11 August 2017 
-Banks 
-Ping An Bank 
-Page 2 
-Deutsche Bank AG/Hong Kong
- 
- 
-  
-PAB 1H17 and 2Q17 
-results summary 
-1H17 and 2Q17 results 
-Figure 1: Summary of PAB’s 1H17 and 2Q17 results 
-P&L (RMB m)
-2Q16
-3Q16
-4Q16
-1Q17
-2Q17 2Q17 QoQ
-2Q17 YoY
-1H16
-2H16
-1H17
-1H17HoH
-1H17YoY 1H17 % of FY17E
-  Interest Income
-32,007
-        
-32,007
-        
-34,028
-        
-35,045
-        
-36,603
-         
-4.4%
-14.4%
-65,084
-              
-66,035
-              
-71,648
-              
-8.5%
-10.1%
-47.9%
-  Interest Expense
-(13,491)
-       
-(13,640)
-       
-(13,579)
-       
-(16,176)
-       
-(18,111)
-       
-12.0%
-34.2%
-(27,489)
-             
-(27,219)
-             
-(34,287)
-             
-26.0%
-24.7%
-46.5%
-Net Interest Income
-18,516
-        
-18,367
-        
-20,449
-        
-18,869
-        
-18,492
-         
--2.0%
--0.1%
-37,595
-              
-38,816
-              
-37,361
-              
--3.7%
--0.6%
-49.3%
-  Dealing gain/loss-FX
-131
-              
-285
-              
-314
-              
-45
-                
-7
-                   
--84.4%
--94.7%
-283
-                    
-599
-                    
-52
-                      
--91.3%
--81.6%
-5.6%
-  Dealing gain/loss-others
-958
-              
-808
-              
-(159)
-             
-586
-              
-170
-              
--71.0%
--82.3%
-1,768
-                 
-649
-                    
-756
-                    
-16.5%
--57.2%
-29.8%
-  Net fee and commission income
-7,629
-           
-7,726
-           
-5,084
-           
-8,150
-           
-7,598
-           
--6.8%
--0.4%
-15,049
-              
-12,810
-              
-15,748
-              
-22.9%
-4.6%
-50.9%
-  Others
-3
-                   
-13
-                
-59
-                
-62
-                
-94
-                 
-51.6%
-3033.3%
-74
-                      
-72
-                      
-156
-                    
-116.7%
-110.8%
-101.8%
-Non Interest Income
-8,721
-           
-8,832
-           
-5,298
-           
-8,843
-           
-7,869
-           
--11.0%
--9.8%
-17,174
-              
-14,130
-              
-16,712
-              
-18.3%
--2.7%
-48.4%
-Operating Income
-27,237
-        
-27,199
-        
-25,747
-        
-27,712
-        
-26,361
-         
--4.9%
--3.2%
-54,769
-              
-52,946
-              
-54,073
-              
-2.1%
--1.3%
-49.0%
-Operating Expenses 
-(8,645)
-         
-(7,195)
-         
-(5,610)
-         
-(7,050)
-         
-(6,839)
-          
--3.0%
--20.9%
-(18,613)
-             
-(12,805)
-             
-(13,889)
-             
-8.5%
--25.4%
-45.0%
-PPOP
-18,592
-        
-20,004
-        
-20,137
-        
-20,662
-        
-19,522
-         
--5.5%
-5.0%
-36,156
-              
-40,141
-              
-40,184
-              
-0.1%
-11.1%
-50.5%
-Provisions
-(10,450)
-       
-(11,615)
-       
-(14,903)
-       
-(12,434)
-       
-(11,282)
-       
--9.3%
-8.0%
-(20,000)
-             
-(26,518)
-             
-(23,716)
-             
--10.6%
-18.6%
-50.5%
-Non current items
-(17)
-               
-17
-                
-141
-              
-2
-                   
-(38)
-               
--2000.0%
-123.5%
-(2)
-                       
-158
-                    
-(36)
-                     
--122.8%
-1700.0%
-#DIV/0!
-Pre-tax Profits
-8,125
-           
-8,406
-           
-5,375
-           
-8,230
-           
-8,202
-           
--0.3%
-0.9%
-16,154
-              
-13,781
-              
-16,432
-              
-19.2%
-1.7%
-50.4%
-Taxes
-(1,919)
-         
-(1,979)
-         
-(1,495)
-         
-(2,016)
-         
-(1,862)
-          
--7.6%
--3.0%
-(3,862)
-               
-(3,474)
-               
-(3,878)
-               
-11.6%
-0.4%
-49.6%
-Net Profit
-6,206
-           
-6,427
-           
-3,880
-           
-6,214
-           
-6,340
-           
-2.0%
-2.2%
-12,292
-              
-10,307
-              
-12,554
-              
-21.8%
-2.1%
-50.7%
-4.2%
-4.4%
--5.9%
-2.1%
-Balance Sheet Items (RMB m)
-2Q16
-3Q16
-4Q16
-1Q17
-2Q17 2Q17 QoQ
-2Q17 YoY
-1H16
-2H16
-1H17
-1H17HoH
-1H17YoY 1H17 % of FY17E
-Gross loans
-1,358,021
-   
-1,430,514
-   
-1,475,801
-   
-1,548,162
-   
-1,594,281
-   
-3.0%
-17.4%
-1,358,021
-         
-1,475,801
-         
-1,594,281
-         
-8.0%
-17.4%
-96.2%
-Loan loss provisions
-34,086
-        
-36,660
-        
-39,932
-        
-43,978
-        
-45,229
-         
-2.8%
-32.7%
-34,086
-              
-39,932
-              
-45,229
-              
-13.3%
-32.7%
-93.1%
-NPLs
-21,195
-        
-22,300
-        
-25,702
-        
-26,927
-        
-28,037
-         
-4.1%
-32.3%
-21,195
-              
-25,702
-              
-28,037
-              
-9.1%
-32.3%
-89.4%
-Total assets
-2,800,983
-   
-2,791,238
-   
-2,953,434
-   
-3,006,195
-   
-3,092,142
-   
-2.9%
-10.4%
-2,800,983
-         
-2,953,434
-         
-3,092,142
-         
-4.7%
-10.4%
-97.5%
-Total deposits
-1,898,348
-   
-1,912,878
-   
-1,921,835
-   
-1,912,082
-   
-1,912,333
-   
-0.0%
-0.7%
-1,898,348
-         
-1,921,835
-         
-1,912,333
-         
--0.5%
-0.7%
-92.1%
-Shareholder's equity (common)
-171,747
-      
-178,275
-      
-182,218
-      
-187,786
-      
-191,501
-      
-2.0%
-11.5%
-171,747
-            
-182,218
-            
-191,501
-            
-5.1%
-11.5%
-94.3%
-Average interest earning assets
-2,640,980
-   
-2,876,197
-   
-2,871,281
-   
-3,029,722
-   
-3,107,899
-   
-2.6%
-17.7%
-2,607,874
-         
-2,941,280
-         
-3,049,878
-         
-3.7%
-16.9%
-102.5%
-Per share data (RMB)
-Issued shares (mn)
-17,170
-        
-17,170
-        
-17,170
-        
-17,170
-        
-17,170
-         
-0.00%
-0.00%
-17,170
-              
-17,170
-              
-17,170
-              
-0.0%
-0.0%
-100.0%
-BVPS
-10.00
-           
-10.38
-           
-10.61
-           
-10.94
-           
-11.15
-           
-1.98%
-11.50%
-10.00
-                 
-10.61
-                 
-11.15
-                 
-5.1%
-11.5%
-94.3%
-EPS
-0.36
-             
-0.37
-             
-0.23
-             
-0.36
-             
-0.37
-             
-2.03%
-2.16%
-0.72
-                   
-0.60
-                   
-0.73
-                   
-21.8%
-2.1%
-50.7%
-PPOPP/sh
-1.08
-             
-1.17
-             
-1.17
-             
-1.20
-             
-1.14
-             
--5.52%
-5.00%
-2.11
-                   
-2.34
-                   
-2.34
-                   
-0.1%
-11.1%
-50.5%
-Ratios (%)
-2Q16
-3Q16
-4Q16
-1Q17
-2Q17 2Q17 QoQ
-2Q17 YoY
-1H16
-2H16
-1H17
-1H17HoH
-1H17YoY 1H17 % of FY17E
-CIR
-31.7%
-26.5%
-21.8%
-25.4%
-25.9%
-0.50%
--5.80%
-34.0%
-24.2%
-25.7%
-1.5%
--8.3%
-na
-Effective tax rate
-23.6%
-23.5%
-27.8%
-24.5%
-22.7%
--1.79%
--0.92%
-23.9%
-25.2%
-23.6%
--1.6%
--0.3%
-na
-ROA
-0.91%
-0.92%
-0.54%
-0.83%
-0.83%
-0.00%
--0.07%
-0.93%
-0.72%
-0.83%
-0.1%
--0.1%
-na
-ROE
-14.6%
-14.7%
-8.6%
-13.4%
-13.4%
--0.06%
--1.26%
-14.8%
-11.6%
-13.4%
-1.8%
--1.3%
-na
-Customer LDR
-71.5%
-74.8%
-76.8%
-81.0%
-83.4%
-2.40%
-11.83%
-71.5%
-76.8%
-83.4%
-6.6%
-11.8%
-na
-NPL ratio
-1.56%
-1.56%
-1.74%
-1.74%
-1.76%
-0.02%
-0.20%
-1.56%
-1.74%
-1.76%
-0.0%
-0.2%
-na
-Loan loss coverage
-160.8%
-164.4%
-155.4%
-163.3%
-161.3%
--2.00%
-0.50%
-160.82%
-155.37%
-161.32%
-6.0%
-0.5%
-na
-NIM
-2.71%
-2.66%
-2.72%
-2.53%
-2.38%
--0.15%
--0.33%
-2.83%
-2.64%
-2.45%
--0.19%
--0.38%
-na
-Credit costs
-3.19%
-3.33%
-4.10%
-3.29%
-2.87%
--0.42%
--0.32%
-3.11%
-3.74%
-3.09%
--0.7%
-0.0%
-na
-Non interest income as % total income
-32.0%
-32.5%
-20.6%
-31.9%
-29.9%
--2.06%
--2.17%
-31.4%
-26.7%
-30.9%
-4.2%
--0.5%
-na
-Fee income as % total income
-28.0%
-28.4%
-19.7%
-29.4%
-28.8%
--0.59%
-0.81%
-27.5%
-24.2%
-29.1%
-4.9%
-1.6%
-na
-Core Tier 1 CAR / Core CAR
-8.49%
-8.64%
-8.36%
-8.28%
-8.13%
--0.15%
--0.36%
-8.49%
-8.36%
-8.13%
--0.2%
--0.4%
-na
-Tier 1 CAR
-9.55%
-9.67%
-9.34%
-9.23%
-9.05%
--0.18%
--0.50%
-9.55%
-9.34%
-9.05%
--0.3%
--0.5%
-na
-CAR
-11.82%
-11.97%
-11.53%
-11.48%
-11.23%
--0.25%
--0.59%
-11.82%
-11.53%
-11.23%
--0.3%
--0.6%
-na
-Sequential growth - loans 
-7.5%
-5.3%
-3.2%
-4.9%
-3.0%
--1.92%
--4.56%
-11.7%
-8.7%
-8.0%
--0.6%
--3.6%
-na
-Sequential growth - deposits 
-2.4%
-0.8%
-0.5%
--0.5%
-0.0%
-0.52%
--2.36%
-9.5%
-1.2%
--0.5%
--1.7%
--10.0%
-na
-Sequential growth - interbank assets 
--8.2%
--24.0%
-29.5%
--11.1%
--1.9%
-9.23%
-6.33%
--8.5%
--1.5%
--12.8%
--11.3%
--4.3%
-na
-Sequential growth - interbank liabilities 
--14.1%
--3.4%
-78.6%
-1.8%
--2.2%
--4.05%
-11.87%
--19.6%
-72.6%
--0.4%
--73.0%
-19.2%
-na
-Interbank assets as % of total IEA
-17.0%
-12.8%
-15.6%
-13.6%
-13.0%
--0.56%
--3.95%
-17.0%
-15.6%
-13.0%
--2.6%
--4.0%
-na
-Provision to loan ratio
-2.51%
-2.56%
-2.71%
-2.84%
-2.84%
-0.00%
-0.33%
-2.51%
-2.71%
-2.84%
-0.1%
-0.3%
-na
-SML loan
-58,893
-        
-59,700
-        
-60,703
-        
-63,759
-        
-66,009
-         
-3.53%
-12.08%
-58,893
-60,703
-66,009
-5306
-7116
-na
-SML ratio
-4.34%
-4.17%
-4.11%
-4.12%
-4.14%
-0.02%
--0.20%
-4.34%
-4.11%
-4.14%
-0.0%
--0.2%
-na
-Source: Deutsche Bank estimates, Company data 
- 
-11 August 2017 
-Banks 
-Ping An Bank 
-Deutsche Bank AG/Hong Kong 
-Page 3
- 
- 
-  
-Figure 2: Asset quality summary - PAB 
-Rmb m
-1H12
-2H12
-1H13
-2H13
-1H14
-2H14
-1H15
-2H15
-1H16
-2H16
-1H17
-2Q17
-Overdue loan
-<3M
-6,575
-           
-7,672
-           
-9,513
-               
-9,798
-               
-14,092
-            
-16,697
-            
-18,157
-            
-23,402
-            
-23,063
-            
-20,093
-            
-25,842
-                 
-3M-1Y
-4,845
-           
-7,345
-           
-10,554
-             
-11,208
-            
-13,645
-            
-18,605
-            
-28,586
-            
-21,322
-            
-25,957
-            
-25,617
-            
-30,055
-                 
-1Y-3Y
-687
-              
-2,048
-           
-4,475
-               
-5,443
-               
-9,282
-               
-10,556
-            
-13,319
-            
-11,685
-            
-10,601
-            
-11,972
-            
-12,456
-                 
->3Y
-657
-              
-329
-              
-155
-                  
-61
-                    
-40
-                    
-137
-                  
-550
-                  
-1,018
-               
-3,018
-               
-2,943
-               
-690
-                       
-Total overdue loan
-12,765
-        
-17,394
-        
-24,697
-             
-26,510
-            
-37,059
-            
-45,995
-            
-60,612
-            
-57,427
-            
-62,639
-            
-60,625
-            
-69,043
-                 
-Overdue loan ratio (total)
-1.87%
-2.41%
-3.14%
-3.13%
-3.95%
-4.49%
-5.10%
-4.72%
-4.61%
-4.11%
-4.33%
-Overdue loan (<90 days)
-6,575
-           
-7,672
-           
-9,513
-               
-9,798
-               
-14,092
-            
-16,697
-            
-18,157
-            
-23,402
-            
-23,063
-            
-20,093
-            
-25,842
-                 
-Overdue loan ratio (<90 days)
-0.96%
-1.06%
-1.21%
-1.16%
-1.50%
-1.63%
-1.53%
-1.92%
-1.70%
-1.36%
-1.62%
-Overdue loan (>90 days)
-6,190
-           
-9,721
-           
-15,184
-             
-16,712
-            
-22,967
-            
-29,298
-            
-42,455
-            
-34,025
-            
-39,576
-            
-40,532
-            
-43,201
-                 
-Overdue loan ratio (>90 days)
-0.91%
-1.35%
-1.93%
-1.97%
-2.45%
-2.86%
-3.57%
-2.80%
-2.91%
-2.75%
-2.71%
-Overdue loan (>90 days)/ NPL
-125%
-142%
-199%
-222%
-265%
-279%
-270%
-193%
-187%
-158%
-154%
-Five categories of loans
-Pass
-673,011
-      
-706,738
-      
-764,511
-          
-821,721
-          
-904,227
-          
-977,284
-          
-1,119,173
-       
-1,148,011
-       
-1,277,933
-       
-1,389,396
-       
-1,500,235
-            
-1,500,235
-            
-SML
-4,924
-           
-7,177
-           
-14,336
-             
-18,027
-            
-25,332
-            
-36,949
-            
-52,932
-            
-50,482
-            
-58,893
-            
-60,703
-            
-66,009
-                 
-66,009
-                 
-Substandard
-3,388
-           
-5,030
-           
-4,970
-               
-4,375
-               
-3,916
-               
-4,374
-               
-6,444
-               
-7,945
-               
-11,010
-            
-13,833
-            
-13,760
-                 
-13,760
-                 
-Doubtful
-824
-              
-962
-              
-1,433
-               
-1,575
-               
-2,272
-               
-2,146
-               
-3,789
-               
-2,141
-               
-4,027
-               
-4,494
-               
-4,977
-                    
-4,977
-                    
-Loss
-759
-              
-874
-              
-1,234
-               
-1,591
-               
-2,480
-               
-3,981
-               
-5,496
-               
-7,559
-               
-6,158
-               
-7,375
-               
-9,300
-                    
-9,300
-                    
-Total loan
-682,906
-      
-720,781
-      
-786,484
-          
-847,289
-          
-938,227
-          
-1,024,734
-       
-1,187,834
-       
-1,216,138
-       
-1,358,021
-       
-1,475,801
-       
-1,594,281
-            
-1,594,281
-            
-0.32%
-0.95%
-0.45%
-0.82%
-1.18%
-1.44%
--0.20%
-0.65%
-0.13%
-0.35%
-SML
-4,924
-           
-7,177
-           
-14,336
-             
-18,027
-            
-25,332
-            
-36,949
-            
-52,932
-            
-50,482
-            
-58,893
-            
-60,703
-            
-66,009
-                 
-66,009
-                 
-SML ratio
-0.72%
-1.00%
-1.82%
-2.13%
-2.70%
-3.61%
-4.46%
-4.15%
-4.34%
-4.11%
-4.14%
-4.14%
-NPL
-4,971
-           
-6,866
-           
-7,637
-               
-7,541
-               
-8,668
-               
-10,501
-            
-15,729
-            
-17,645
-            
-21,195
-            
-25,702
-            
-28,037
-                 
-28,037
-                 
-NPL ratio
-0.73%
-0.95%
-0.97%
-0.89%
-0.92%
-1.02%
-1.32%
-1.45%
-1.56%
-1.74%
-1.76%
-1.76%
-Overdue loan / NPL
-256.79%
-253.33%
-323.39%
-351.54%
-427.54%
-438.01%
-385.35%
-325.46%
-295.54%
-235.88%
-246.26%
-246.26%
-NPL write-off& transfer-out
-387
-              
-857
-              
-995
-                  
-3,007
-               
-3,569
-               
-5,525
-               
-6,614
-               
-16,969
-            
-15,341
-            
-20,456
-            
-18,890
-                 
-10,031
-                 
-Formation (%)
-0.72%
-0.60%
-1.29%
-Net NPL formation
-0.63%
-0.78%
-0.47%
-0.71%
-1.05%
-1.50%
-2.14%
-3.14%
-2.94%
-3.52%
-2.77%
-2.84%
-Net overdue loan formation
-1.44%
-1.56%
-2.20%
-1.18%
-3.16%
-2.95%
-3.84%
-2.29%
-3.19%
-2.60%
-3.56%
-Provision coverage
-Total loan loss provision
-0
-                   
-0
-                   
-14,017
-             
-15,162
-            
-17,179
-            
-21,097
-            
-28,789
-            
-29,266
-            
-34,086
-            
-39,932
-            
-45,229
-                 
-45,229
-                 
-Provision to NPL ratio
-0.00%
-0.01%
-183.54%
-201.06%
-198.2%
-200.90%
-183.03%
-165.86%
-160.82%
-155.37%
-161.32%
-161.32%
-Provision to loan ratio
-352.36%
-314.53%
-1.78%
-1.79%
-1.83%
-2.06%
-2.42%
-2.41%
-2.51%
-2.71%
-2.84%
-2.84%
-Source: Deutsche Bank estimates, Company data 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-11 August 2017 
-Banks 
-Ping An Bank 
-Page 4 
-Deutsche Bank AG/Hong Kong
- 
- 
-  
-Valuation and risks 
-Valuation 
-We value Ping An Bank using a three-stage Gordon Growth Model (PV= (ROE-
-g)/(COE-g)), with our target price based on 0.8x FY2017E book value. GGM 
-inputs include terminal growth of 4.4% [ROE * (1 - dividend payout ratio)] and 
-COE of 13.0%. 
-Risk 
-Key downside risks: weaker-than-expected asset quality deterioration; faster-
-than-expected capital consumption; and weaker-than-expected synergy with 
-Ping An Group. Key upside risks: faster development of wealth management 
-businesses; strengthened retail franchise to lower deposit cost; better intra-
-group cross-selling. 
- 
- 
- 
-11 August 2017 
-Banks 
-Ping An Bank 
-Deutsche Bank AG/Hong Kong 
-Page 5
- 
- 
-  
-Appendix 1 
- 
-Important Disclosures 
- 
-*Other information available upon request 
- 
-Disclosure checklist 
-Company 
-Ticker 
-Recent price* 
-Disclosure 
-Ping An Bank 
-000001.SZ 
-10.62 (CNY) 10 Aug 17 
-14 
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other 
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the 
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at 
-http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr. Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the
-"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
- 
-Important Disclosures Required by U.S. Regulators 
-Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States. 
-See Important Disclosures Required by Non-US Regulators and Explanatory Notes. 
-14. Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company 
-within the past year. 
-     
-For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
-research, please see the most recently published company report or visit our global disclosure look-up page on our 
-website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=000001.SZ 
- 
-Analyst Certification 
-The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
-subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
-any compensation for providing a specific recommendation or view in this report. Hans Fan 
-     
-11 August 2017 
-Banks 
-Ping An Bank 
-Page 6 
-Deutsche Bank AG/Hong Kong
- 
- 
-  
-Historical recommendations and target price: Ping An Bank (000001.SZ) 
-(as of 8/10/2017) 
-1
-2
-3
-4
-5
-6
-7
-8
-0.00
-2.00
-4.00
-6.00
-8.00
-10.00
-12.00
-14.00
-Aug 15
-Nov 15
-Feb 16
-May 16
-Aug 16
-Nov 16
-Feb 17
-May 17
-Security Price
-Date
- 
-Previous Recommendations 
-Strong Buy 
-Buy 
-Market Perform 
-Underperform 
-Not Rated 
-Suspended Rating 
-Current Recommendations 
-Buy 
-Hold 
-Sell 
-Not Rated 
-Suspended Rating 
-*New Recommendation Structure 
-as of September 9,2002 
-**Analyst is no longer at Deutsche 
-Bank 
-1.     22/09/2015:         Buy, Target Price Change CNY16.68 Hans Fan, CFA 
-5.     27/09/2016:         Hold, Target Price Change CNY8.62 Hans Fan, CFA 
-2.     04/01/2016:         Buy, Target Price Change CNY14.43 Hans Fan, CFA 
-6.     06/01/2017:         Hold, Target Price Change CNY9.44 Hans Fan, CFA 
-3.     18/05/2016:         Downgrade to Hold, Target Price Change CNY10.35 
-Hans Fan, CFA 
-7.     02/05/2017:         Hold, Target Price Change CNY8.77 Hans Fan, CFA 
-4.     17/06/2016:         Hold, Target Price Change CNY8.63 Vivian XU 
-8.     19/07/2017:         Hold, Target Price Change CNY9.48 Hans Fan, CFA 
-   
-Equity rating key 
-Equity rating dispersion and banking relationships 
-Buy: Based on a current 12- month view of total 
-share-holder return (TSR = percentage change in 
-share price from current price to projected target price 
-plus pro-jected dividend yield ) , we recommend that 
-investors buy the stock. 
-Sell: Based on a current 12-month view of total share-
-holder return, we recommend that investors sell the 
-stock 
-Hold: We take a neutral view on the stock 12-months 
-out and, based on this time horizon, do not 
-recommend either a Buy or Sell. 
-Newly issued research recommendations and target 
-prices supersede previously published research. 
-53 %
-36 %
-11 %
-19 %
-20 %
-13 %
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
-Buy
 Hold
-Sell
-Asia-Pacific Universe
-Companies Covered
-Cos. w/ Banking Relationship
- 
-  
-11 August 2017 
-Banks 
-Ping An Bank 
-Deutsche Bank AG/Hong Kong 
-Page 7
- 
- 
-  
- 
-Additional Information 
- 
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 
-"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources 
+Results
+Asia
+China
+Exchange Ticker
+Reuters
+Bloomberg
+Banking / Finance
+000001.SZ
+000001 CH
+SHZ
+Banks
+Fundamental recovery takes time;
+Hans Fan, CFA
+Jacky Zuo
+Hold
+Research Analyst
+Research Analyst
+Funding cost pressure read-across to other JSBs
+PAB reported 2Q17 net profit of Rmb6.3bn, up 2% yoy; 1H17 earnings were up
+2% yoy, accounting for 51% of our 2017 forecast. The uninspiring 2Q17 results
+Edward Du
+were mainly characterized by higher funding cost, which we believe represents
+Research Associate
+a read-across to other wholesale-funded joint-stock banks (JSBs). NIM fell
+another 15bps qoq. Asset quality has yet to see major improvement, while
+capital remains a concern that is not solved by convertible bond issuance. The
+only sweet spot is the retail strategy, which started to bear fruit in 1H17 with a
+40%/64% contribution to revenue/ profit (vs. 29% in 1H16). Net net, we believe
+Price/price relative
+it will take more time before we see a fundamental recovery. Hold.
+Key trends of 2Q17 results
+NIM in 2Q17 was 2.38%, down 15bps qoq or 33bps yoy; we believe it was
+impacted by a market rate hike and financial deleveraging. Deposit cost
+was up 11bps gog to 1.92% and interbank borrowing cost up 28bps gog to
+3.4%. Meanwhile, loan yield continued to decline (5.94% vs. 6.06% in
+1Q17). In addition, PAB saw difficulties in growing deposits (up 0.7% yoy).
+Asset quality continued to deteriorate: the NPL ratio nudged up 2bps qoq
+to 1.76% with the coverage ratio at 161% (163% in 1Q17). The SML ratio
+stood at 4.14%, up 3bps hoh; meanwhile, >90-day overdue loan/NPL
+NPL formation was 284bps, higher than 254bps in 1Q17 but lower than
+326bps on average in 2016.
+Weak capital ratio: The CET1 ratio stood at only 8.13% in 2Q17, down
+Valuation and risks
+15bps gog, with RWA density up 35bps gog to 70.3%. PAB recently
+We value Ping An Bank using a three-
+announced a Rmb26bn A-share convertible bond plan but we don't think
+stage Gordon Growth Model (PV=
+this can solve the capital issue in the short term. In our view, it may need
+(ROE-g)/(COE-g)), with our target price
+to further raise capital through a placement and reduce its payout ratio
+based on 0.8x FY2017E book value.
+(2016: 12%, vs big 4 banks' c.30%).
+Key downside risks: weaker-than-
+CIR fell 5.8ppt yoy to 25.9%, driven by a 21% drop in operating expenses.
+expected asset quality deterioration;
+It is worth highlighting that its total employees fell 14% YTD, leading to a
+faster-than-expected capital
+23% yoy decline in labor cost.
+consumption; and weaker-than-
+expected synergy with Ping An Group.
+(29% and 29% in 1H16), which was a positive development in our view.
+Key upside risks: faster development of
+We think this was a result of its strategic focus on retail banking and
+wealth management businesses;
+cross-selling from Ping An Group. We will seek more details during the
+strengthened retail franchise to lower
+post-results conference call to be held on 11 August.
+deposit cost; better intra-group cross-
+selling. More Details on page 4.
+results summary
+1H17 and 2Q17 results
+Source: Deutsche Bank estimates, Company data
+Valuation and risks
+Valuation
+We value Ping An Bank using a three-stage Gordon Growth Model (PV= (ROE-
+g)/(COE-g)), with our target price based on 0.8x FY2017E book value. GGM
+inputs include terminal growth of 4.4% [ROE * (1 - dividend payout ratio)] and
+COE of 13.0%.
+Risk
+Key downside risks: weaker-than-expected asset quality deterioration; faster-
+than-expected capital consumption; and weaker-than-expected synergy with
+Ping An Group. Key upside risks: faster development of wealth management
+businesses; strengthened retail franchise to lower deposit cost; better intra-
+group cross-selling.
+Important Disclosures
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing.
+Important Disclosures Required by U.S. Regulators
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
+See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
+14. Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company
+within the past year.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Hans Fan
+Historical recommendations and target price: Ping An Bank (000001.SZ)
+(as of 8/10/2017)
+Equity rating key
+Equity rating dispersion and banking relationships
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
+share price from current price to projected target price
+plus pro-jected dividend yield), we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
-party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor 
-is responsible for the accuracy or security controls of these websites. 
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this 
-report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche 
-Bank may act as principal for its own account or as agent for another person. 
- 
-Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own 
-account or with customers, in a manner inconsistent with the views taken in this research report. Others within 
-Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those 
-taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, 
-equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication 
-may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or 
-otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. 
-Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment 
-banking, trading and principal trading revenues. 
- 
-Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do 
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides 
-liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts 
-sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term 
-ratings. Trade ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high 
-conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a 
-time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to 
-time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that 
-reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities 
-discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return 
-or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to 
-otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently 
-becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company 
-specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion 
-of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are 
-published at irregular intervals. This report is provided for informational purposes only and does not take into account 
-the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation 
-of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are 
-inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not 
-be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of 
-financial instruments are subject to change without notice and investment transactions can lead to losses as a result of 
-price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's 
-currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily 
-indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session, 
-and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank, 
-subject companies, and in some cases, other parties. 
- 
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding 
-our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect 
-to 
-our 
-research 
-is 
-available 
-on 
-our 
-website 
-under 
-Disclaimer 
-found 
-on 
-the 
-Legal 
-tab. 
- 
-11 August 2017 
-Banks 
-Ping An Bank 
-Page 8 
-Deutsche Bank AG/Hong Kong
- 
- 
-  
-Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise 
-to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash 
-flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a 
-loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the 
-loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse 
-macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation 
-(including changes in assets holding limits for different types of investors), changes in tax policies, currency 
-convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and 
-settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed 
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to 
-FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the 
-index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended 
-to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon 
-rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is 
-also important to acknowledge that funding in a currency that differs from the currency in which coupons are 
-denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to 
-the 
-risks 
-related 
-to 
-rates 
-movements. 
- 
-Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk. 
-The appropriateness or otherwise of these products for use by investors is dependent on the investors' own 
-circumstances including their tax position, their regulatory environment and the nature of their other assets and 
-liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar 
-to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can 
-be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be 
-incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable 
-for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized 
-Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the 
-website please contact your Deutsche Bank representative for a copy of this important document. 
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i) 
-exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by 
-numerous market factors, including world and national economic, political and regulatory events, events in equity and 
-debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed 
-exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are 
-affected by the currency of an underlying security, effectively assume currency risk. 
- 
-Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the 
-investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at 
-https://gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to 
-review this information before investing.  
- 
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial 
-adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information 
-provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice, 
-Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever 
-as to any strategies, products or any other information presented in the materials. Information contained herein is being 
-provided solely on the basis that the recipient will make an independent assessment of the merits of any investment 
-decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any 
-trading strategy. 
- 
-The information presented is general in nature and is not directed to retirement accounts or any specific person or 
-account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in 
-making Your decision. The information we provide is being directed only to persons we believe to be financially 
-sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to 
-particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the 
-11 August 2017 
-Banks 
-Ping An Bank 
-Deutsche Bank AG/Hong Kong 
-Page 9
- 
- 
-  
-offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this 
-directly 
-from 
-us, 
-we 
-ask 
-that 
-you 
-inform 
-us 
-immediately. 
- 
-United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and 
-SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA 
-regulations.  
- 
-Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated 
-in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under 
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal 
-Financial Supervisory Authority. 
- 
-United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester 
-House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the 
-Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial 
-Conduct Authority. Details about the extent of our authorisation and regulation are available on request. 
- 
-Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited. 
- 
-India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India 
-(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received 
-administrative warnings from the SEBI for breaches of Indian regulations. 
- 
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial 
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, 
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks 
-involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by 
-multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to 
-losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional 
-losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories 
-of investment advice, products and services. Recommended investment strategies, products and services carry the risk 
-of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in 
-market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the 
-relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in 
-this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the 
-name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank 
-Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are 
-not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's 
-equity analysts are based on a 12-month forecast period. 
- 
-Korea: Distributed by Deutsche Securities Korea Co. 
- 
-South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register 
-Number 
-in 
-South 
-Africa: 
-1998/003298/10). 
- 
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles 
-Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters 
-arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who 
-is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and 
-regulations), they accept legal responsibility to such person for its contents. 
- 
-Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should 
-independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank 
-research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without 
-written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and 
-11 August 2017 
-Banks 
-Ping An Bank 
-Page 10 
-Deutsche Bank AG/Hong Kong
- 
- 
-  
-is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, 
-Taipei 
-Branch 
-may 
-not 
-execute 
-transactions 
-for 
-clients 
-in 
-these 
-securities/instruments. 
- 
-Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre 
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall 
-within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, 
-West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related 
-financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre 
-Regulatory Authority. 
- 
-Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
-any appraisal or evaluation activity requiring a license in the Russian Federation. 
- 
-Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the 
-Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall 
-within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya 
-District, 
-P.O. 
-Box 
-301809, 
-Faisaliah 
-Tower 
-- 
-17th 
-Floor, 
-11372 
-Riyadh, 
-Saudi 
-Arabia. 
- 
-United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated 
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services 
-activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai 
-International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been 
-distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as 
-defined by the Dubai Financial Services Authority. 
- 
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product 
-referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please 
-refer 
-to 
-Australian 
-specific 
-research 
-disclosures 
-and 
-related 
-information 
-at 
-https://australia.db.com/australia/content/research-information.html  
- 
-Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian 
-Corporations Act and New Zealand Financial Advisors Act respectively. 
- 
-Additional information relative to securities, other financial products or issuers discussed in this report is available upon 
-request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent. 
-Copyright © 2017 Deutsche Bank AG 
-  
- 
- 
- 
-  
- 
-David Folkerts-Landau 
-Group Chief Economist and Global Head of Research 
- 
-Raj Hindocha 
-Global Chief Operating Officer 
-Research 
-Michael Spencer 
-Head of APAC Research 
-Global Head of Economics 
-Steve Pollard 
-Head of Americas Research 
-Global Head of Equity Research 
-Anthony Klarman 
-Global Head of 
-Debt Research 
-Paul Reynolds 
-Head of EMEA 
-Equity Research 
-Dave Clark 
-Head of APAC 
-Equity Research 
-Pam Finelli 
-Global Head of 
-Equity Derivatives Research 
- 
-  
-Andreas Neubauer 
-Head of Research - Germany 
-Spyros Mesomeris 
-Global Head of Quantitative 
-and QIS Research 
-  
-  
-International locations 
-Deutsche Bank AG 
-Deutsche Bank Place 
-Level 16 
-Corner of Hunter & Phillip Streets 
-Sydney, NSW 2000 
-Australia 
-Tel: (61) 2 8258 1234 
-Deutsche Bank AG 
-Mainzer Landstrasse 11-17 
-60329 Frankfurt am Main 
-Germany 
-Tel: (49) 69 910 00 
-Deutsche Bank AG 
-Filiale Hongkong 
-International Commerce Centre, 
-1 Austin Road West,Kowloon, 
-Hong Kong 
-Tel: (852) 2203 8888 
-Deutsche Securities Inc. 
-2-11-1 Nagatacho 
-Sanno Park Tower 
-Chiyoda-ku, Tokyo 100-6171 
-Japan 
-Tel: (81) 3 5156 6770 
- 
-Deutsche Bank AG London 
-1 Great Winchester Street 
-London EC2N 2EQ 
-United Kingdom 
-Tel: (44) 20 7545 8000 
-Deutsche Bank Securities Inc. 
-60 Wall Street 
-New York, NY 10005 
-United States of America 
-Tel: (1) 212 250 2500 
- 
- 
- 
-  
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank may act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on.
+Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
+banking, trading and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term
+conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a
+time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to
+time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that
+reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently
+becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company
+specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion
+of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are
+published at irregular intervals. This report is provided for informational purposes only and does not take into account
+the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation
+of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are
+inherently imprecise and a product of the analyst's judgment. The financial instruments discussed in this report may not
+be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of
+financial instruments are subject to change without notice and investment transactions can lead to losses as a result of
+price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's
+currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily
+indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session,
+and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank,
+subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+available
+website
+under
+Disclaimer
+found
+the
+our
+research
+our
+Legal
+tab.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the
+index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended
+to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon
+rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is
+also important to acknowledge that funding in a currency that differs from the currency in which coupons are
+denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to
+risks
+the
+related
+rates
+movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own
+circumstances including their tax position, their regulatory environment and the nature of their other assets and
+liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar
+to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can
+be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be
+incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable
+for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized
+website please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+review this information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
+provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+inform
+directly
+from
+ask
+that
+you
+immediately.
+us,
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
+Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India
+(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+South
+1998/003298/10).
+Africa:
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters
+arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who
+is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and
+regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
+research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+clients
+securities/instruments.
+Branch
+not
+execute
+transactions
+for
+these
+may
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
+within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre
+Regulatory Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
+within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+17th
+Faisaliah
+Tower
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+refer
+Australian
+specific
+research
+disclosures
+information
+and
+related
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
+Head of Americas Research
+Global Head of Economics
+Research
+Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
+Equity Derivatives Research
+Andreas Neubauer
+Spyros Mesomeris
+Head of Research - Germany
+Global Head of Quantitative
+and QIS Research
+International locations
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+2-11-1 Nagatacho
+Filiale Hongkong
+Sanno Park Tower
+International Commerce Centre,
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Hong Kong
+Japan
+Australia
+Deutsche Bank AG London
+1 Great Winchester Street
+60 Wall Street
+London EC2N 2EQ
+United Kingdom
+United States of America

@@ -1,73 +1,120 @@
-同花顺（300033SZ）2024 年三季报点评
-Q3 经营稳健，期待市场回暖带来业绩拐点
-事件：同花顺于10 月23 日晚发布三季报，公司2024 年前三季度实现归
-母净利润651 亿元，同比下降1553%；前三季度扣非净利润631 亿元，同比
-Q3 营收迎来拐点，销售收现指标稳健。根据公司的业绩公告情况，具体到
-2024Q3，公司单季度实现归母净利润288 亿元，同比下降747%；单季度实现
-扣非净利润为287 亿元，同比下降728%。收入端来看，第三季度实现营收945
-亿元，同比增长481%；单季度销售收现为958 亿元，同比增长562%。公司
-在三季度营收重回增长态势，同时作为先到指标的销售收现同样保持正增长，也
-从侧面反映整个三季度公司经营层面回暖的趋势。
-政策频出利好资本市场发展，9 月24 日以来成交量大幅跃升。近期利好政
-沪深300 成分股等资产为抵押，从人民银行换入国债、央行票据等高等级流动性
-资产，首期操作规模5000 亿元；2）10 月10 日，上交所再次举行券商座谈会，
-现场宣讲并购重组最新政策精神，并就进一步活跃并购重组市场、打通政策落地
-最后一公里听取意见建议。自9 月24 日至今，A 股成交额大幅跃升，日均
-成交额达到186 万亿元，相较于今年整体的成交额显著提升。回顾2015、2020
-两轮牛市中成交额大幅提升后，同花顺当年的归母净利润同比增速分别为
-1483%、92%，成交额大幅放量带来的牛市效应对同花顺是最直接的利好。
-以AI 为抓手，助力打开市场空间：报告期内，公司对多模态大模型技术攻
-关和产品应用的研发，运用多模态大模型技术赋能公司现有的业务场景、产品和
-服务体系进一步加大研发。1）问财HithinkGPT：作为国内首个备案的金融对
-话大模型，HithinkGPT 采用了2999B Token 的庞大预训练数据集，满足大模型
-金融投顾、智能客服、智能投研等多样化的应用需求。2）Hipilot：基于
-HexinCoder 大模型，能够提供代码智能生成、实时推荐、智能问答等能力。受
-益于AI 金融发展，公司有望持续增加金融服务业务收益。
-投资建议：预计公司24-26 年归母净利润分别为1615、1955、2377 亿
-元，当前市值对应242526 年的估值分别为67、55、45 倍，考虑到整个金融
-信息行业在2024、2025 年有望迎来回暖，市场交易增加，AI 大模型融合已有
-产品，公司主营业务有望充分受益，维持推荐评级。
-风险提示：供应链风险；核心技术水平升级不及预期；政策推进不及预期
-归属母公司股东净利润（百万元）
-1同花顺（300033SZ）2023 年年报点评：
-打造AI金融的核聚变-20240303
-2同花顺（300033SZ）2023 年三季报点评：
-持续加大AI 领域投入，业绩短期承压-2023
-3同花顺（300033SZ）2023 年半年度业绩
-报告点评：业绩韧性十足，稀缺的金融ITA
-I 应用双龙头-20230804
-4同花顺（300033SZ）公司事件点评：彭博
-社发布金融大模型，金融AI 落地有望加速-2
-同花顺(300033)计算机
-资产负债表（百万元）
-现金流量表（百万元）
-同花顺(300033)计算机
-究方法与分析逻辑得出研究结论，独立、客观地出具本报告，并对本报告的内容和观点负责。本报告清晰准确地反映了研究人员的研
-究观点，结论不受任何第三方的授意、影响，研究人员不曾因、不因、也将不会因本报告中的具体推荐意见或观点而直接或间接收到任
-以报告发布日后的12 个月内公司股价（或行业
-指数）相对同期基准指数的涨跌幅为基准。其
-中：A 股以沪深300 指数为基准；新三板以三
-板成指或三板做市指数为基准；港股以恒生指
-数为基准；美股以纳斯达克综合指数或标普
-500 指数为基准。
-相对基准指数涨幅15%以上
-相对基准指数涨幅5%15%之间
-相对基准指数涨幅-5%5%之间
-相对基准指数跌幅5%以上
-相对基准指数涨幅5%以上
-相对基准指数涨幅-5%5%之间
-相对基准指数跌幅5%以上
-本报告仅供本公司境内客户使用。本公司不会因接收人收到本报告而视其为客户。本报告仅为参考之用，并不构成对客户的投资
-要，客户应当充分考虑自身特定状况，不应单纯依靠本报告所载的内容而取代个人的独立判断。在任何情况下，本公司不对任何人因
-使用本报告中的任何内容而导致的任何可能的损失负任何责任。
-本报告是基于已公开信息撰写，但本公司不保证该等信息的准确性或完整性。本报告所载的资料、意见及预测仅反映本公司于发
-布本报告当日的判断，且预测方法及结果存在一定程度局限性。在不同时期，本公司可发出与本报告所刊载的意见、预测不一致的报
-告，但本公司没有义务和责任及时更新本报告所涉及的内容并通知客户。
-正在争取提供投资银行、财务顾问、咨询服务等相关服务，本公司的员工可能担任本报告所提及的公司的董事。客户应充分考虑可能
-存在的利益冲突，勿将本报告作为投资决策的唯一参考依据。
-若本公司以外的金融机构发送本报告，则由该金融机构独自为此发送行为负责。该机构的客户应联系该机构以交易本报告提及的
-其他机构获得本报告而将其视为本公司客户。
-本报告的版权仅归本公司所有，未经书面许可，任何机构或个人不得以任何形式、任何目的进行翻版、转载、发表、篡改或引
-上海：上海市浦东新区浦明路8 号财富金融广场1 幢5F； 200120
-北京：北京市东城区建国门内大街28 号民生金融中心A 座18 层； 100005
-深圳：广东省深圳市福田区益田路6001 号太平金融大厦32 层05 单元； 518026
+- "" - "" - "" " " " " " " " " " " " "
+a"⊩ "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a"e" "a
+" a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a l
+a The a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The Rina a The R
+n. "
+· Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa
+” “『『ina Pia” “ ” “ ” “ ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+in Pie
+" " " " " " " " " " " " " " " " " " "
+= nin.Papilen line nin. Papilen line nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen nin. Papilen n
+" " " " " " " " " " " " " " " " " " "
+『『『『『『『『『『『『『『『『『『『
+『上電子』『inela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela juinela
+『『『『『『『『『『『『『『『『『『『
+I. I. I. I. I. I. I. I. I. I. I. I. I. I
+ا "ai"."" ai".
+n".
+事事である。『正報の記憶を記します。「正報では、これでは、これでは、これでは、これでは、これでは、これでは、これでは、これ
+- " " " " " " " " " " " " " " " " " " "
+· ""
+『・『・・・・・・・・・・・・・・・・・
+ā "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē" e "Ē"
+I. "B" a"ir" B" "" "" "" "" "" "" "" "" "" "" "" ""
+a "------------------------------------
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+『上で記録のでは、『上で記録のでは、『上で記録のでは、「上で記録のでは、「上で記録のでは、「上で記録のでは、「上で記録のでは、」」。
+a¬" - " " " " " " " " " " " " " " " " " "
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+në.Pinë.
+n. " " " " " " " " " " " " " " " " " " "
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+a """ " " " " " " " " " " " " " " " " "
+· The arm. arm. arm. arm. arm. arm. arm. arm.
+ame ame ame ame ame ame ame ame ame ame
+në. "E" " " " " " " " " " " " " " " " " "
+『『記書記』『記書記』『記書記記『記書記記』『記書記記記記記記記記記記
+” “『 · · · · · · · · · · · · · · · · · · ·
+II.Parin line
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+『『『『『『『『『『『『『『『『『『『
+a.".""
+në.
+夫事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事
+”『ina Paper ne ne ne ne ne ne ne ne ne ne ne ne ne
+· "------------------------------------
+” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “I” = “
+- "" a"" = "" " " " " " " " " " " " " " "
+『上で記録のでは、では、では、では、では、では、では、では、では、では、
+- The The The The The The The The The The
+” “Page” afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine afine af
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+『『『『『『『『『『『『『『『『『『『
+” “『in a line” “
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+.Page line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line all ner line a
+a.""
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+” ——”“——”
+nënënënënënënënënënënënënënënënënënënë
+n. "
+” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “Para” “P
+で『上電でにににににににににににににににににに
+e "le "le "le "le "le "le "le "le "le "l
+援告。ででは、では、では、では、では、では、では、では、では、では
+- Signa a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a
+- The The The The The The The The The The
+-ï⊩-----------------------------------
+· "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin
+i.l.
+目。『正『『正『正『正『に『にににににににに
+事品のでは、では、では、では、では、では、では、では、では、では、
+表示。『記事の記事の記事の記事の記事の記事の記事の記事の記事の記事の記事の記事の記事の記
+要中心，一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+” - Ratie ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni li na ni l
+電響を表現して、では、では、では、では、では、では、では、では、では、では
+『『『『『『『『『『『『『『『『『『『
+『上電子』『上電子』『上電子』『上電子』
+n. a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a.i.e.a
+『『『『上間『上間『上間『上間『上間『上間『上
+。『『上『上『上『上『上『上『上『上『上
+ä————————————————————————————————————
+事事。『記事事』『記事事』『記事事』
+” ————————————————————————————————————
+Therman arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm. I have a line arm.
+所有了。那一点，一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+”『上電子』『上電子』
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+- 『上電子』『正では「上ででは、『上では、「上では、「上では、「上では、「上では、「上では、「上では、「上では、」」。「上では、「上では、これでは、これでは、これでは、これでは、これでは、これでは、これでは、これ
+『『記『記『記『記『記『に『に『にににに

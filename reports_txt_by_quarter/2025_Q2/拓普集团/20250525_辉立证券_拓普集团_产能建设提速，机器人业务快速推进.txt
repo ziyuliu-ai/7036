@@ -1,514 +1,166 @@
-EQUITY RESEARCH 
- 
-Page | 1 | PHILLIPCAPITAL HONGKONG RESEARCH 
-拓普集團 (601689 CH) 
-產能建設提速，機器人業務快速推進 
- 
-中國 | 汽車零部件 | 更新報告 
- 
- 
- 
-22  May 2025 
- 
- 
-公司簡介 
-拓普集團是汽車NVH（雜訊Noise、振動Vibration 與聲振粗糙度Harshness)領域的行業
+PhillipCapital
+拓普集團 (601689 CH)
+產能建設提速，機器人業務快速推進
+中國 | 汽車零部件 | 更新報告
+增持 (下調)
+公司簡介
+拓普集團是汽車 NVH (雜訊 Noise、振動 Vibration 與聲振粗糙度 Harshness)領域的行業
+(現價截至 5 月 20 日)
 龍頭，近年來，公司在原有減震器和內飾功能件業務的基礎上，積極佈局了輕量化底
+目標價 CNY 59.1 (+14.7%)
 盤系統模組以及汽車電子業務作為未來“2+3”戰略發展專案，以順應汽車電動化、智慧
-化和輕量化發展趨勢。目前公司已經形成NVH 減震系統/內外飾功能件/車身輕量化/底
-盤系統/智慧座艙/智慧駕駛/空氣懸架/熱管理系統八大產品線，還拆分設立電驅事業部
-切入具身智能機器人業務。 
- 
-投資概要 
-2024 年業績大幅逆勢提升近四成， 2025 年Q1 業績出現短期波動 
-2024 年拓普集團實現營業收入266.00 億元（人民幣，下同）（同比+35.02%），實現
-歸母淨利潤30.01 億元（同比+39.52%），扣非歸母淨利潤 27.3 億元（同比+35.0%）；
-其中，Q4 公司實現營業收入72.48 億元（同比+30.63%），實現歸母淨利潤7.67 億元
-（同比+38.47%）；24 年實現毛利率20.8%（同比-2.2ppts），淨利率11.3%（同比
-+0.4ppts）。儘管因車企競爭加劇、原材料價格波動以及產能擴張等因素所致毛利率有
-所下滑，但通過嚴格的費用管控（期間費用率降至8.6%，同比-0.9ppts）和政府補貼
-（2.8 億元，同比+1.3 億元）增厚利潤，公司淨利率逆勢提升。 
-2025Q1 公司實現營收57.7 億元（同比+1.4%）；歸母淨利5.7 億元（同比-12.3%）。
+化和輕量化發展趨勢。目前公司已經形成 NVH 減震系統/内外飾功能件/車身輕量化/底
+公司資料
+盤系統/智慧座艙/智慧駕駛/空氣懸架/熱管理系統八大產品線,還拆分設立電驅事業部
+普通股股東(百萬股):
+切入具身智能機器人業務。
+市值(人民幣百萬元):
+76.21/30.69
+52 周 最高價/最低價 (人民幣元):
+投資概要
+2024 年業績大幅逆勢提升近四成， 2025 年 Q1 業績出現短期波動
+2024 年拓普集團實現營業收入 266.00 億元(人民幣,下同)(同比+35.02%),實現
+主要股東%
+歸母淨利潤 30.01 億元 (同比+39.52%) , 扣非歸母淨利潤 27.3 億元 (同比+35.0%) ;
+鄥建樹
+其中, Q4 公司實現營業收入 72.48 億元 (同比+30.63%) , 實現歸母淨利潤 7.67 億元
+(同比+38.47%); 24 年實現毛利率 20.8%(同比-2.2ppts), 淨利率 11.3%(同比
++0.4ppts)。儘管因車企競爭加劇、原材料價格波動以及產能擴張等因素所致毛利率有
+股價 & 上證指數
+所下滑，但通過嚴格的費用管控（期間費用率降至 8.6%，同比-0.9ppts）和政府補貼
+(2.8 億元,同比+1.3 億元)增厚利潤,公司淨利率逆勢提升。
+2025Q1 公司實現營收 57.7 億元 (同比+1.4%) ; 歸母淨利 5.7 億元 (同比-12.3%) 。
 主要因為一些新工廠新業務的開拓費用增加，和下游客戶銷量下滑影響，特斯拉和賽
-力斯25Q1 銷量分別下滑了13%和47%。 
- 
-新能源汽車高速增長帶動公司業績高增長，其中汽車電子呈爆發式增長 
+力斯 25Q1 銷量分別下滑了 13%和 47%。
+Source: Aastock, Phillip Securities (HK) Research
+新能源汽車高速增長帶動公司業績高增長，其中汽車電子呈爆發式增長
+財務資料
 據中汽協數據，2024 年中國汽車產銷量分別為 3,128.2 萬輛和 3,143.6 萬輛，同比分別
 增長 3.7%和 4.5%；其中新能源汽車產銷量分別為 1,288.8 萬輛和 1,286.6 萬輛，同比增
 長 34.4%和 35.5%，占中國汽車總銷量的 40.93%。得益於新能源汽車快速增長，公司
-2024 年的內飾/底盤/熱管理/汽車電子業務分別同比+28.24%/33.98%/38.24%/907.63%，
-達至84.34 億/82.03 億/21.3 億/18.2 億的分部收入。2025 年中國汽車總銷量預測將超
-3,200 萬輛，新能源汽車銷量將突破 1,600 萬輛（含出口），繼續維持高增長。公司下
-游客戶的產線調整預計在2025Q2 結束，預計年內影響有限。 
- 
- 
-增持 （下調） 
-現價 CNY 51.53 
-(現價截至5 月20 日) 
-目標價 CNY 59.1 (+14.7%) 
- 
-公司資料 
-普通股股東 (百萬股) : 
-1738 
-市值 ( 人民幣百萬元) : 
-89551 
-52 周 最高價/最低價 (人民幣元) : 
-76.21/ 30.69 
- 
- 
- 
- 
-主要股東 % 
-鄔建樹 
-63.79 
- 
- 
- 
- 
-股價 & 上證指數 
- 
-Source: Aastock,  Phillip Securities (HK) Research 
- 
-財務資料 
-CNY mn 
-FY24 FY25F FY26F FY27F 
-Net Sales 
-26600 32752 41189 49223 
-Net Profit 
-3001 
-3424 
-4282 
-5469 
-EPS, CNY 
-1.78 
-1.97 
-2.46 
-3.15 
-P/E, x 
-29.0 
-26.2 
-20.9 
-16.4 
-BVPS, CNY 
-11.60 
-12.71 
-14.58 
-16.97 
-P/BV, x 
-4.4 
-4.1 
-3.5 
-3.0 
-DPS (CNY) 
-0.52 
-0.58 
-0.74 
-0.93 
-Div. Yield (%) 
-1.0% 
-1.1% 
-1.4% 
-1.8% 
-Source: Company reports, Phillip Securities Est. 
- 
-研究員 
-章晶 (+ 86 21-62116752) 
-zhangjing@phillip.com.cn 
- 
- 
- 
-Page | 2 | PHILLIPCAPITAL HONGKONG RESEARCH 
-Tuopu 
-UPDATE REPORT 
- 
- 
-持續加大研發投入，擴展產品線 
-公司2024 年研發費用達到 12.24 億元，通過持續研發投入，公司空氣懸架系
-統、智能座艙項目、線控制動 IBS、線控轉向 EPS、電驅系統等項目相繼量產，
-且產品線仍在丌斷增加。其中，在汽車底盤領域，公司憑藉自主研發的鍛鋁球
-鉸控制臂產品，助力 2024 年底盤業務板塊高速增長；在汽車電子領域，公司已
-在國內率先實現閉式空氣懸架（C-ECAS）大規模量產供貨，同時公司智能刹車
-系統（IBS）領域也進展顯著，目前已實現多個項目量產。 
- 
-國內外產能建設提速，機器人業務快速推進 
-2025 年公司將繼續推進產能佈局，國內計劃完成前灣新區 9 期、10 期工廠建
-設，海外墨西哥二期項目已開始籌劃；泰國一期工廠占地 185 畝計劃於 2026 年
+2024 年的内飾/底盤/熱管理/汽車電子業務分別同比+28.24%/33.98%/38.24%/907.63%,
+達至 84.34 億/82.03 億/21.3 億/18.2 億的分部收入。2025 年中國汽車總銷量預測將超
+3,200 萬輛,新能源汽車銷量將突破 1,600 萬輛(含出口),繼續維持高增長。公司下
+Source: Company reports, Phillip Securities Est.
+游客戶的產線調整預計在 2025Q2 結束，預計年內影響有限。
+研究員
+章晶 (+ 86 21-62116752)
+持續加大研發投入，擴展產品線
+公司 2024 年研發費用達到 12.24 億元,通過持續研發投入,公司空氣懸架系
+統、智能座艙項目、線控制動 IBS、線控轉向 EPS、電驅系統等項目相繼量產,
+且產品線仍在不斷增加。其中，在汽車底盤領域，公司憑藉自主研發的鍛鋁球
+鉸控制臂產品,助力 2024 年底盤業務板塊高速增長;在汽車電子領域,公司已
+在國内率先實現閉式空氣懸架 (C-ECAS) 大規模量產供貨，同時公司智能刹車
+系統（IBS）領域也進展顯著，目前已實現多個項目量產。
+國內外產能建設提速，機器人業務快速推進
+2025 年公司將繼續推進產能佈局,國內計劃完成前灣新區 9 期、10 期工廠建
+設,海外墨西哥二期項目已開始籌劃;泰國一期工廠占地 185 畝計劃於 2026 年
 初投產；波蘭工廠籌備擴大產能，進一步提升生產規模。公司緊抓機器人產業
 快速發展機遇，設立獨立電驅事業部佈局機器人業務；公司與客戶從直線執行
 器開始合作，後續啟動旋轉執行器和靈巧手電機等產品研發，相關產品已多次
 向客戶送樣。公司還積極佈局機器人軀體結構件、傳感器、足部減震器、電子
-柔性皮膚等產品，以形成機器人平臺化產品佈局。2025 年公司將啟動占地約 
+柔性皮膚等產品，以形成機器人平臺化產品佈局。2025 年公司將啟動占地約
 150 畝的機器人產業基地項目，預計後續機器人產品將根據客戶需求儘快迭代升
 級並進入量產階段，機器人業務將為公司打造新增長曲線，為公司保持快速發
-展奠定基礎。 
- 
-盈利預測與投資建議 
-拓普集團以Tier0.5 級合作模式與新能源汽車車企深度綁定，一斱面持續研發投
-入丌斷擴展產品線，另一斱面享受新能源汽車高增長紅利，可以預計汽車業務
+展奠定基礎。
+盈利預測與投資建議
+拓普集團以 Tier0.5 級合作模式與新能源汽車車企深度綁定，一方面持續研發投
+入不斷擴展產品線，另一方面享受新能源汽車高增長紅利，可以預計汽車業務
 仍將維持高增長；而公司另佈局機器人的電驅執行器等產品，該賽道是面向人
 類未來的百萬億級別的賽道，發展前景廣闊。綜合來看，我們認為公司具備持
-續增長能力，預計25/26/27 年每股收益為1.97/2.46/3.15，給予目標價59.1
-元，對應25/26/27 財年預期市盈率30/24/19 倍， “增持”評級。 
-(現價截至5 月20 日) 
- 
- 
-風險 
-新業務推進進度低於預期 
-產品價格下跌 
-原材料上漲 
-海外業務風險 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Page | 3 | PHILLIPCAPITAL HONGKONG RESEARCH 
-Tuopu 
-UPDATE REPORT 
-PE Band trend  
- 
-Source: Wind, Phillip Securities Hong Kong Research 
- 
- 
- 
- 
-財務資料 
-FYE DEC
-FY23
-FY24
-FY25F
-FY26F
-FY27F
-Valuation Ratios
-P/E (X), adj.
-29.1
-29.0
-26.2
-20.9
-16.4
-P/B (X)
-4.5
-4.4
-4.1
-3.5
-3.0
-Dividend payout ratio(%)
-28.5%
-29.2%
-29.2%
-30.0%
-29.6%
-Dividend Yield (%)
-1.0%
-1.0%
-1.1%
-1.4%
-1.8%
-Per share data (RMB)
-EPS, (Basic)
-1.95
-1.79
-1.97
-2.46
-3.15
-EPS, (Diluted)
-1.95
-1.78
-1.97
-2.46
-3.15
-DPS
-0.56
-0.52
-0.58
-0.74
-0.93
-BVPS
-12.51
-11.60
-12.71
-14.58
-16.97
-Growth & Margins (%)
-Growth
-Revenue
-23.2%
-35.0%
-23.1%
-25.8%
-19.5%
-EBIT
-30.3%
-40.0%
-10.8%
-25.5%
-27.9%
-Net Income, adj.
-26.5%
-39.5%
-14.1%
-25.1%
-27.7%
-Margins
-Gross margin
-22.3%
-20.1%
-20.1%
-20.3%
-21.1%
-EBIT margin
-13.0%
-13.5%
-12.1%
-12.1%
-13.0%
-Net Profit Margin
-10.9%
-11.3%
-10.5%
-10.4%
-11.1%
-Key Ratios
-ROE
-16.6%
-17.6%
-16.2%
-18.1%
-19.9%
-Income Statement (RMB mn)
-Revenue
-19701
-26600
-32752
-41189
-49223
-Gross profit
-4389
-5350
-6567
-8374
-10406
-EBIT
-2562
-3586
-3973
-4986
-6375
-Profit before tax
-2462
-3421
-3904
-4900
-6258
-Tax
-312
-418
-476
-612
-782
-Profit for the period
-2150
-3004
-3428
-4287
-5476
-Minority interests
--1
-3
-4
-5
-7
-Total capital share
-1102
-1686
-1738
-1738
-1738
-Net profit
-2151
-3001
-3424
-4282
-5469
-Source: PSR 
- 
-(現價截至5 月20 日)
- 
- 
- 
-Page | 4 | PHILLIPCAPITAL HONGKONG RESEARCH 
-Tuopu 
-UPDATE REPORT 
- 
-PHILLIP RESEARCH STOCK SELECTION SYSTEMS 
- 
-We do not base our recommendations entirely on the above quantitative return bands.  We consider qualitative factors like (but not limited to) a 
-stock's risk reward profile, market sentiment, recent rate of share price appreciation, presence or absence of stock price catalysts, and speculative 
-undertones surrounding the stock, before making our final recommendation 
- 
-GENERAL DISCLAIMER 
-This publication is prepared by Phillip Securities (Hong Kong) Ltd (“Phillip Securities”). By receiving or reading this publication, you agree to be bound by the terms and 
-limitations set out below.  
- 
-This publication shall not be reproduced in whole or in part, distributed or published by you for any purpose. Phillip Securities shall not be liable for any direct or 
-consequential loss arising from any use of material contained in this publication.  
- 
-The information contained in this publication has been obtained from public sources which Phillip Securities has no reason to believe are unreliable and any analysis, 
-forecasts, projections, expectations and opinions (collectively the “Research”) contained in this publication are based on such information and are expressions of belief 
-only. Phillip Securities has not verified this information and no representation or warranty, express or implied, is made that such information or Research is accurate, 
-complete or verified or should be relied upon as such. Any such information or Research contained in this publication is subject to change, and Phillip Securities shall not 
-have any responsibility to maintain the information or Research made available or to supply any corrections, updates or releases in connection therewith. In no event will 
-Phillip Securities be liable for any special, indirect, incidental or consequential damages which may be incurred from the use of the information or Research made 
-available, even if it has been advised of the possibility of such damages.  
- 
-Any opinions, forecasts, assumptions, estimates, valuations and prices contained in this material are as of the date indicated and are subject to change at any time 
-without prior notice.  
- 
-This material is intended for general circulation only and does not take into account the specific investment objectives, financial situation or particular needs of any 
-particular person. The products mentioned in this material may not be suitable for all investors and a person receiving or reading this material should seek advice from a 
-financial adviser regarding the suitability of such products, taking into account the specific investment objectives, financial situation or particular needs of that person, 
-before making a commitment to invest in any of such products. 
-This publication should not be relied upon as authoritative without further being subject to the recipient’s own independent verification and exercise of judgment. The 
-fact that this publication has been made available constitutes neither a recommendation to enter into a particular transaction nor a representation that any product 
-described in this material is suitable or appropriate for the recipient. Recipients should be aware that many of the products which may be described in this publication 
-involve significant risks and may not be suitable for all investors, and that any decision to enter into transactions involving such products should not be made unless all 
-such risks are understood and an independent determination has been made that such transactions would be appropriate. Any discussion of the risks contained herein 
-with respect to any product should not be considered to be a disclosure of all risks or a complete discussion of such risks.  
- 
-Nothing in this report shall be construed to be an offer or solicitation for the purchase or sale of a security. Any decision to purchase securities mentioned in this research 
-should take into account existing public information, including any registered prospectus in respect of such security. 
- 
-Disclosure of Interest 
-Analyst Disclosure: Neither the analyst(s) preparing this report nor his associate has any financial interest in or serves as an officer of the listed corporation covered in 
-this report. 
-Firm’s Disclosure: Phillip Securities does not have any investment banking relationship with the listed corporation covered in this report nor any financial interest of 1% or 
-more of the market capitalization in the listed corporation. In addition, no executive staff of Phillip Securities serves as an officer of the listed corporation. 
- 
-Availability 
-The information, tools and material presented herein are not directed, intended for distribution to or use by, any person or entity in any jurisdiction or country where 
-such distribution, publication, availability or use would be contrary to the applicable law or regulation or which would subject Phillip Securities to any registration or 
-licensing or other requirement, or penalty for contravention of such requirements within such jurisdiction. 
- 
-Information contained herein is based on sources that Phillip Securities (Hong Kong) Limited (“PSHK”) believed to be accurate. PSHK does not bear responsibility for any 
-loss occasioned by reliance placed upon the contents hereof.  PSHK (or its affiliates or employees) may have positions in relevant investment products. For details of 
-different product's risks, please visit the Risk Disclosures Statement on http://www.phillip.com.hk.   
-©  
-2025 Phillip Securities (Hong Kong) Limited 
-Total Return 
-Recommendation 
-Rating 
-Remarks 
->+20% 
-Buy 
-1 
->20% upside from the current price 
-+5% to +20% 
-Accumulate 
-2 
-+5% to +20%upside from the current price 
--5% to +5% 
-Neutral 
-3 
-Trade within  ± 5% from the current price 
--5% to -20% 
-Reduce 
-4 
--5% to -20% downside from the current price 
-<-20% 
-Sell 
-5 
->20%downside from the current price 
- 
- 
-Page | 5 | PHILLIPCAPITAL HONGKONG RESEARCH 
- 
- 
- 
- 
-Contact Information (Regional Member Companies) 
- 
-SINGAPORE 
-Phillip Securities Pte Ltd 
-250 North Bridge Road, #06-00 Raffles City Tower, 
-Singapore 179101 
-Tel : (65) 6533 6001 Fax: (65) 6535 3834 
-www.phillip.com.sg 
-MALAYSIA 
-Phillip Capital Management Sdn Bhd 
-B-3-6 Block B Level 3, Megan Avenue II, 
-No. 12, Jalan Yap Kwan Seng, 50450 Kuala Lumpur 
-Tel (60) 3 2162 8841 Fax (60) 3 2166 5099 
-www.poems.com.my 
-JAPAN 
-Phillip Securities Japan, Ltd 
-4-2 Nihonbashi Kabutocho, Chuo-ku 
-Tokyo 103-0026 
-Tel: (81) 3 3666 2101 Fax: (81) 3 3664 0141 
-www.phillip.co.jp 
-INDONESIA  
-PT Phillip Securities Indonesia 
-ANZ Tower Level 23B, Jl Jend Sudirman Kav 33A, 
-Jakarta 10220, Indonesia 
-Tel (62) 21 5790 0800 Fax: (62) 21 5790 0809 
-www.phillip.co.id 
-CHINA  
-Phillip Financial Advisory (Shanghai) Co. Ltd.  
-No 436 Heng Feng Road, Green Tech Tower Unit 604 
-Shanghai 200 070 
-Tel (86) 21 6211 6752 Fax: (86) 21 6091 1155 
-www.phillip.com.cn 
-INDIA  
-PhillipCapital (India) Private Limited 
-No. 1, 18th Floor, Urmi Estate, 95 Ganpatrao Kadam Marg, 
-Lower Parel West, Mumbai 400013 
-Tel: (9122) 2300 2999 Fax: (9122) 6667 9955 
-www.phillipcapital.in 
-THAILAND 
-Phillip Securities (Thailand) Public Co. Ltd. 
-15th Floor, Vorawat Building,  849 Silom Road, 
-Silom, Bangrak, Bangkok 10500 Thailand 
-Tel (66) 2 2268 0999  Fax: (66) 2 2268 0921 
-www.phillip.co.th 
-FRANCE 
-King & Shaxson Capital Ltd. 
-3rd Floor, 35 Rue de la Bienfaisance  
-75008 Paris France 
-Tel (33) 1 4563 3100 Fax : (33) 1 4563 6017 
-www.kingandshaxson.com 
-UNITED KINGDOM  
-King & Shaxson Ltd. 
-6th Floor, Candlewick House, 120 Cannon Street 
-London, EC4N 6AS 
-Tel (44) 20 7929 5300 Fax: (44) 20 7283 6835 
-www.kingandshaxson.com 
-UNITED STATES 
-Phillip Futures Inc. 
-141 W Jackson Blvd Ste 3050 
-The Chicago Board of Trade Building 
-Chicago, IL 60604 USA 
-Tel (1) 312 356 9000 Fax: (1) 312 356 9005 
-AUSTRALIA  
-PhillipCapital Australia 
-Level 10, 330 Collins Street 
-Melbourne VIC 3000 
-Tel (+61) 3 8633 9803 Fax (+61) 3 8633 9899 
-www.phillipcapital.com.au 
-SRI LANKA  
-Asha Phillip Securities Limited 
-Level 4, Millennium House, 46/58 Navam Mawatha, 
-Colombo 2, Sri Lanka 
-Tel: (94) 11  2429 100 Fax: (94) 11 2429 199 
-www.ashaphillip.net/home.htm 
-HONG KONG  
-Phillip Securities (HK) Ltd 
-11/F United Centre 95 Queensway Hong Kong 
-Tel (852) 2277 6600 Fax: (852) 2868 5307 
-www.phillip.com.hk 
- 
- 
- 
+元,對應 25/26/27 財年預期市盈率 30/24/19 倍,“增持”評級。
+(現價截至 5 月 20 日)
+新業務推進進度低於預期
+產品價格下跌
+原材料上漲
+海外業務風險
+財務資料
+(現價截至 5 月 20 日)
+PHILLIP RESEARCH STOCK SELECTION SYSTEMS
+We do not base our recommendations entirely on the above quantitative return bands. We consider qualitative factors like (but not limited to) a
+stock's risk reward profile, market sentiment, recent rate of share price appreciation, presence or absence of stock price catalysts, and speculative
+undertones surrounding the stock, before making our final recommendation
+GENERAL DISCLAIMER
+This publication is prepared by Phillip Securities (Hong Kong) Ltd ("Phillip Securities"). By receiving or reading this publication, you agree to be bound by the terms and
+limitations set out below.
+This publication shall not be reproduced in whole or in part, distributed or published by you for any purpose. Phillip Securities shall not be liable for any direct or
+consequential loss arising from any use of material contained in this publication.
+The information contained in this publication has been obtained from public sources which Phillip Securities has no reason to believe are unreliable and any analysis,
+forecasts, projections, expectations and opinions (collectively the "Research") contained in this publication are based on such information and are expressions of belief
+only. Phillip Securities has not verified this information and no representation or warranty, express or implied, is made that such information or Research is accurate,
+complete or verified or should be relied upon as such. Any such information or Research contained in this publication is subject to change, and Phillip Securities shall not
+have any responsibility to maintain the information or Research made available or to supply any corrections, updates or releases in connection therewith. In no event will
+Phillip Securities be liable for any special, indirect, incidental or consequential damages which may be incurred from the use of the information or Research made
+available, even if it has been advised of the possibility of such damages.
+Any opinions, forecasts, assumptions, estimates, valuations and prices contained in this material are as of the date indicated and are subject to change at any time
+without prior notice.
+This material is intended for general circulation only and does not take into account the specific investment objectives, financial situation or particular needs of any
+particular person. The products mentioned in this material may not be suitable for all investors and a person receiving or reading this material should seek advice from a
+financial adviser regarding the suitability of such products, taking into account the specific investment objectives, financial situation or particular needs of that person,
+before making a commitment to invest in any of such products.
+This publication should not be relied upon as authoritative without further being subject to the recipient's own independent verification and exercise of judgment. The
+fact that this publication has been made available constitutes neither a recommendation to enter into a particular transaction nor a representation that any product
+described in this material is suitable or appropriate for the recipient. Recipients should be aware that many of the products which may be described in this publication
+involve significant risks and may not be suitable for all investors, and that any decision to enter into transactions involving such products should not be made unless all
+such risks are understood and an independent determination has been made that such transactions would be appropriate. Any discussion of the risks contained herein
+with respect to any product should not be considered to be a disclosure of all risks or a complete discussion of such risks.
+Nothing in this report shall be construed to be an offer or solicitation for the purchase or sale of a security. Any decision to purchase securities mentioned in this research
+should take into account existing public information, including any registered prospectus in respect of such security.
+Disclosure of Interest
+Analyst Disclosure: Neither the analyst(s) preparing this report nor his associate has any financial interest in or serves as an officer of the listed corporation covered in
+this report.
+Firm's Disclosure: Phillip Securities does not have any investment banking relationship with the listed corporation covered in this report nor any financial interest of 1% or
+more of the market capitalization in the listed corporation. In addition, no executive staff of Phillip Securities serves as an officer of the listed corporation.
+Availability
+The information, tools and material presented herein are not directed, intended for distribution to or use by, any person or entity in any jurisdiction or country where
+such distribution, publication, availability or use would be contrary to the applicable law or regulation or which would subject Phillip Securities to any registration or
+licensing or other requirement, or penalty for contravention of such requirements within such jurisdiction.
+Information contained herein is based on sources that Phillip Securities (Hong Kong) Limited ("PSHK") believed to be accurate. PSHK does not bear responsibility for any
+loss occasioned by reliance placed upon the contents hereof. PSHK (or its affiliates or employees) may have positions in relevant investment products. For details of
+2025 Phillip Securities (Hong Kong) Limited
+Contact Information (Regional Member Companies)
+SINGAPORE
+MALAYSIA
+JAPAN
+Phillip Capital Management Sdn Bhd
+Phillip Securities Japan, Ltd
+Phillip Securities Pte Ltd
+250 North Bridge Road, #06-00 Raffles City Tower,
+B-3-6 Block B Level 3, Megan Avenue II,
+4-2 Nihonbashi Kabutocho, Chuo-ku
+No. 12, Jalan Yap Kwan Seng, 50450 Kuala Lumpur
+INDONESIA
+CHINA
+INDIA
+PT Phillip Securities Indonesia
+Phillip Financial Advisory (Shanghai) Co. Ltd.
+PhillipCapital (India) Private Limited
+ANZ Tower Level 23B, Jl Jend Sudirman Kav 33A,
+No. 1, 18th Floor, Urmi Estate, 95 Ganpatrao Kadam Marg,
+Jakarta 10220, Indonesia
+THAILAND
+FRANCE
+UNITED KINGDOM
+Phillip Securities (Thailand) Public Co. Ltd.
+King & Shaxson Capital Ltd.
+King & Shaxson Ltd.
+15th Floor, Vorawat Building, 849 Silom Road,
+3rd Floor, 35 Rue de la Bienfaisance
+6th Floor, Candlewick House, 120 Cannon Street
+Silom, Bangrak, Bangkok 10500 Thailand
+75008 Paris France
+London, EC4N 6AS
+UNITED STATES
+AUSTRALIA
+SRI LANKA
+Phillip Futures Inc.
+PhillipCapital Australia
+Asha Phillip Securities Limited
+Level 10, 330 Collins Street
+Level 4, Millennium House, 46/58 Navam Mawatha,
+The Chicago Board of Trade Building
+Colombo 2, Sri Lanka
+Chicago, IL 60604 USA
+HONG KONG
+Phillip Securities (HK) Ltd
+11/F United Centre 95 Queensway Hong Kong

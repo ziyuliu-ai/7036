@@ -1,1668 +1,526 @@
- 
- 
-观点聚焦 Investment Focus 
-本研究报告由海通国际分销，海通国际是由海通国际研究有限公司，海通证券印度私人有限公司，海通国际株式会社和海通国
-际证券集团其他各成员单位的证券研究团队所组成的全球品牌，海通国际证券集团各成员分别在其许可的司法管辖区内从事证
-券活动。关于海通国际的分析师证明，重要披露声明和免责声明，请参阅附录。(Please see appendix for English translation of the 
-disclaimer) 
- 
- 
- 
-研究报告Research Report 
- 
-27 Mar 2023 
- 
-晶澳科技 JA Solar (002459 CH) 
-首次覆盖：光伏一体化组件龙头，组件盈利能力行业领先 
-The Leading Integrated Module Manufacturer, Unit Profitability is Industry-leading: Initiation 
-首次覆盖优于大市Initiate with OUTPERFORM 
- 
-评级 
-优于大市OUTPERFORM 
-现价 
-Rmb55.96 
-目标价 
-Rmb86.00 
-HTI ESG 
-5.0-5.0-5.0 
-MSCI ESG 评级 
-B 
-来源: MSCI ESG Research LLC. Reproduced by permission; no further distribution 
-市值 
-Rmb131.87bn / US$19.31bn 
-日交易额 (3 个月均值) 
-US$151.26mn 
-发行股票数目 
-2,357mn 
-自由流通股 (%) 
-41% 
-1 年股价最高最低值 
-Rmb81.80-Rmb49.64 
-注：现价Rmb55.96 为2023 年3 月24 日收盘价 
-资料来源： Factset 
- 
- 
-1mth 
-3mth 
-12mth 
-绝对值 
--6.9% 
-4.2% 
--10.1% 
-绝对值（美元） 
--6.1% 
-6.6% 
--16.0% 
-相对MSCI China 
--7.8% 
-0.6% 
--0.3% 
- 
-(Rmb mn) 
-Dec-22A 
-Dec-23E 
-Dec-24E 
-Dec-25E 
-营业收入 
-72,989 
-95,150 
-113,328 
-129,426 
-(+/-) 
-77% 
-30% 
-19% 
-14% 
-净利润 
-5,533 
-8,550 
-11,574 
-13,921 
-(+/-) 
-171% 
-55% 
-35% 
-20% 
-全面摊薄EPS 
-(Rmb) 
-2.35 
-3.63 
-4.91 
-5.91 
-毛利率 
-14.8% 
-16.7% 
-17.9% 
-18.4% 
-净资产收益率 
-23.6% 
-24.8% 
-26.0% 
-24.3% 
-市盈率 
-24 
-15 
-11 
-9 
-资料来源：公司信息, HTI 
- 
- 
-(Please see APPENDIX 1 for English summary) 
+晶澳科技 JA Solar (002459 CH)
+首次覆盖: 光伏一体化组件龙头, 组件盈利能力行业领先
+The Leading Integrated Module Manufacturer, Unit Profitability is Industry-leading: Initiation
+观点聚焦 Investment Focus
+(Please see APPENDIX 1 for English summary)
+首次覆盖优于大市 Initiate with OUTPERFORM
 公司是全球领先的光伏一体化组件龙头，组件盈利能力行业领
-先。2022 年，公司实现营收730 亿元，同比+76.7%，实现归母净
-利润55.3 亿元，同比+171.4%。其中Q4 实现归母净利润22.4 亿
-元，同比+208.9% ，公司组件全年出货量达38.1GW ，同比
-+58.3%。公司净利率自2018 年以来逐步提升。 
+优于大市 OUTPERFORM
+先。2022 年,公司实现营收 730 亿元,同比+76.7%,实现归母净
+Rmb55.96
+利润 55.3 亿元, 同比+171.4%。其中 Q4 实现归母净利润 22.4 亿
+Rmb86.00
+元,同比+208.9%,公司组件全年出货量达 38.1GW,同比
+HTI ESG
++58.3%。公司净利率自 2018 年以来逐步提升。
+MSCI ESG 评级
 随着硅料和海运费下行，一体化组件的利润有望修复。回顾过去
+未源: MSCI ESG Research LLC. Reproduced by permission; no further distribution
 几年，由于硅料价格居高不下，一体化组件的利润承压。由于主
-产业链各环节盈利均有一定周期性，我们认为随着2023 年多晶硅
-价格的下行，一体化组件的利润有望修复。此外，2022Q3 以来海
-运费开始逐步回落到合理的区间，公司Q4 海运费环比降低了6 分
-/W。我们测算2022 年TOPCon 龙头、晶澳、隆基、天合的单瓦盈
-利分别为6 分、1 毛4、1 毛5、7 分，预计2023 年公司单瓦盈利
-有望提升到1 毛5 以上。 
+Rmb131.87bn / US$19.31bn
+产业链各环节盈利均有一定周期性, 我们认为随着 2023 年多晶硅
+US$151.26mn
+日交易额 (3 个月均值)
+发行股票数目
+2,357mn
+价格的下行,一体化组件的利润有望修复。此外,2022Q3 以来海
+自由流通股 (%)
+41%
+运费开始逐步回落到合理的区间,公司 Q4 海运费环比降低了 6 分
+Rmb81.80-Rmb49.64
+1年股价最高最低值
+/W。我们测算 2022 年 TOPCon 龙头、晶澳、隆基、天合的单瓦盈
+利分别为 6 分、1 毛 4、1 毛 5、7 分, 预计 2023 年公司单瓦盈利
+有望提升到1毛5以上。
+Price Return — MSCI China
 深化纵向一体化，盈利能力行业领先。目前一体化模式已成为头
 部组件厂的共同选择，一体化模式是大势所趋。我们认为垂直一
 体化模式可以帮助控制成本并提高盈利能力，同时在供需波动时
-平滑风险并增强盈利稳定。2023 年公司一体化率将进一步提升，
-硅片、电池自供比例从此前的80% 左右提升至90% 左右，一体
-化程度行业领先。 
+平滑风险并增强盈利稳定。2023年公司一体化率将进一步提升,
+硅片、电池自供比例从此前的 80% 左右提升至 90% 左右,一体
+化程度行业领先。
 加强分销渠道建设，提升盈利能力。长期以来公司采取直销为
-主、分销为辅的销售模式。近年来随着分布式市场快速增长，公
-司灵活调整销售策略，加强分销渠道建设，分销收入占比持续提
-升，分销出货量占比由2019 年的20% 大幅提升至2022 年的
-35%。由于面向C 端，分销市场定价更为灵活，盈利性相对较高。
-我们预计随着公司分销占比的提升，盈利能力亦将得到改善。 
- 
-估值：我们预测公司23/24/25 年营收951/1133/1294 亿元；归母
-净利润分别为85/116/139 亿元；EPS 分别为3.63/4.91/5.91 元/股，
-当前股价对应PE 分别为15.2/11.2/9.3 倍。公司作为领先的一体化
-组件龙头，预计随着硅料降价，单瓦盈利有望持续改善。我们给
-予公司2023 年24 倍PE，对应目标价86 元，首次覆盖给予“优于
-大市”评级。 
-风险：新技术研发不及预期；产能投产进度不及预期；行业竞争
-格局恶化；原材料价格上涨 
- 
-杨斌Bin Yang 
-bin.yang@htisec.com 
-60
-80
-100
-120
-140
-Price Return
-MSCI China
-Mar-22
-Jul-22
-Nov-22
-Mar-23
-Volume
- 
- 
-28 Mar 2023 
-2 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
- 
-目录 
-1. 
-概况：全球光伏组件龙头企业，“一体两翼”推进纵向一体化进程 ........................................................... 3 
-1.1. 
-一体化组件龙头企业，深耕光伏领域十余年 ........................................................................... 3 
-1.2. 
-公司管理层及股权架构............................................................................................................... 4 
-1.3. 
-营收和利润快速增长，费用控制持续改善 ............................................................................... 5 
-2. 
-行业：全球需求依然强劲，组件龙头强者恒强 .......................................................................................... 6 
-2.1. 
-需求端：全球需求依然强劲，硅料降价将进一步刺激需求 ................................................... 6 
-2.2. 
-供给侧：行业集中度提升，组件龙头强者恒强 ....................................................................... 8 
-2.3. 
-结构上：TOPCon 产能加速扩产，渗透率加速提升。 ............................................................. 9 
-3. 
-公司：成本+研发+品牌+渠道优势显著，盈利能力行业领先 ................................................................... 10 
-3.1. 
-成本端：纵向一体化助力降本，盈利能力行业领先 ............................................................. 10 
-3.2. 
-研发端：技术优势显著，N 型电池片技术储备丰富 .............................................................. 12 
-3.3. 
-品牌端：品牌认可度高，可融资性高达96% ......................................................................... 13 
-3.4. 
-渠道端：覆盖国家地区数量行业领先，分销占比不断提升 ................................................. 14 
-4. 
-盈利预测与估值 ........................................................................................................................................... 15 
-5. 
-风险提示 ....................................................................................................................................................... 16 
- 
- 
- 
- 
- 
-28 Mar 2023 
-3 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-1. 概况：全球光伏组件龙头企业，“一体两翼”推进纵向
-一体化进程 
-1.1. 一体化组件龙头企业，深耕光伏领域十余年 
+主、分销为辅的销售模式。近年来随着分布式市场快速增长,公
+司灵活调整销售策略,加强分销渠道建设,分销收入占比持续提
+升, 分销出货量占比由 2019 年的 20% 大幅提升至 2022 年的
+35%。由于面向 C 端, 分销市场定价更为灵活, 盈利性相对较高。
+我们预计随着公司分销占比的提升,盈利能力亦将得到改善。
+估值: 我们预测公司 23/24/25 年营收 951/1133/1294 亿元; 归母
+净利润分别为 85/116/139 亿元; EPS 分别为 3.63/4.91/5.91 元/股,
+当前股价对应 PE 分别为 15.2/11.2/9.3 倍。公司作为领先的一体化
+组件龙头, 预计随着硅料降价, 单瓦盈利有望持续改善。我们给
+大市"评级。
+风险: 新技术研发不及预期; 产能投产进度不及预期; 行业竞争
+格局恶化；原材料价格上涨
+杨斌 Bin Yang
+本研究报告由海通国际分销，海通国际是由海通国际研究有限公司、海通证券印度私人有限公司、海通国际株式会社和海通国
+际证券集团其他各成员单位的证券研究团队所组成的全球品牌，海通国际证券集团各成员分别在其许可的司法管辖区内从事证
+disclaimer)
+1. 概况:全球光伏组件龙头企业,“一体两翼”推进纵向
+一体化进程
+1.1. 一体化组件龙头企业,深耕光伏领域十余年
 公司深耕光伏领域十余年，是全球一体化组件龙头企业。公司立足于太阳能光伏
 产业链的垂直一体化模式，长期致力于为全球客户提供光伏发电系统解决方案，主营
-业务包括光伏产品的的研发、生产和销售，及太阳能光伏电站的开发、建设、运营
-等。2007 年2 月，晶澳在美国纳斯达克证券交易所上市 ; 2018 年7 月 , 从美股私有
-化退市 ; 2019 年11 月， 晶澳正式登陆 A 股市场。产能方面，2022 年底规划组件产
-能超50GW，硅片和电池产能会继续保持组件产能的80%左右。公司在国内和海外均
-有布局，国内主要分布在河北邢台和廊坊、江苏扬州和连云港、安徽合肥、上海奉
+业务包括光伏产品的的研发、生产和销售,及太阳能光伏电站的开发、建设、运营
+等。2007年2月，晶澳在美国纳斯达克证券交易所上市;2018年7月,从美股私有
+化退市;2019年11月, 晶澳正式登陆 A 股市场。产能方面,2022年底规划组件产
+能超 50GW，硅片和电池产能会继续保持组件产能的 80%左右。公司在国内和海外均
+有布局,国内主要分布在河北邢台和廊坊、江苏扬州和连云港、安徽合肥、上海奉
 贤、浙江义乌、云南曲靖和内蒙古包头，海外生产工厂分布在越南北江和马来西亚槟
-城，2017-2021 年组件出货量连续5 年稳居全球前三名。渠道方面，晶澳在全球拥有
-12 个生产基地、20 多个分支机构,产品足迹遍布100 多个国家和地区。 
-图表1 晶澳科技历史沿革 
- 
-资料来源：公司官网，HTI 
-全面推进“一体两翼”战略升级，助力公司垂直一体化进程。其中，“一体”指光伏
-产品事业群，对应硅片-电池-组件的主产业链；“两翼”指智慧能源事业部和光伏新材
+城,2017-2021 年组件出货量连续 5 年稳居全球前三名。渠道方面,晶澳在全球拥有
+12个生产基地、20多个分支机构,产品足迹遍布100多个国家和地区。
+全面推进“一体两翼”战略升级,助力公司垂直一体化进程。其中,“一体”指光伏
+产品事业群,对应硅片-电池-组件的主产业链;“两翼”指智慧能源事业部和光伏新材
 事业部，分布对应光伏发电下游应用场景解决方案以及光伏辅材和设备产业。公司以
-主产业链“光伏产品事业群”为依托，不断完善组织架构，设立“智慧能源事业部”，加
+主产业链“光伏产品事业群”为依托,不断完善组织架构,设立“智慧能源事业部”,加
 大下游光伏应用的投入，不断扩大光伏电站开发建设规模，同步探索光伏应用场景的
-开发，包括 BIPV、储能等业务；设立“光伏新材事业部”，加强光伏辅材和设备的研发
-力量，包括单晶炉、石墨、碳碳材料、边框等业务，为主产业链快速发展保障供应的
-同时，也为持续降低成本贡献力量。 
-图表2: 光伏行业产业链及公司业务范围  
- 
- 
- 
-资料来源：InfoLink，HTI 
- 
- 
- 
-28 Mar 2023 
-4 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-1.2. 公司管理层及股权架构 
+开发,包括 BIPV、储能等业务;设立“光伏新材事业部”,加强光伏辅材和设备的研发
+力量,包括单晶炉、石墨、碳碳材料、边框等业务,为主产业链快速发展保障供应的
+同时，也为持续降低成本贡献力量。
+海通國際HAITONG
+1.2. 公司管理层及股权架构
 公司管理层均在光伏行业从业数年，经验较为丰富。公司董事长靳保芳深耕光伏
-行业十余载，行业经验丰富，曾获河北省劳动模范，河北省杰出企业家，全国“五一”
+行业十余载,行业经验丰富,曾获河北省劳动模范,河北省杰出企业家,全国“五一”
 劳动奖章，全国劳动模范等荣誉称号，是第十届、第十一、第十二届全国人大代表。
-公司其他主要高管的硕士博士学历占比高、科研经历和名企工作经历丰富。 
-图表3 公司管理层简介 
-高管 
-担任职务 
-经历 
-靳保芳 
-董事长、总经理 
-1984 年3 月任宁晋县农机局副局长、农机供应公司经理，1992 年任河北省宁晋县电力局党委书记、
-局长。2003 年至今任晶龙实业集团有限公司董事长，2005 年5 月至今任晶澳太阳能有限公司董事
-长。曾获河北省劳动模范，河北省杰出企业家，全国“五一”劳动奖章，全国劳动模范等荣誉称号，
-是第十届、第十一、第十二届全国人大代表。 
-杨爱青 
-轮值总裁、董事 
-2005 年至2009 年，历任晶澳太阳能有限公司技术员、班长、线长、车间主任、生产部副经理等职
-务；2009 年9 月至2015 年12 月，历任晶澳（扬州）太阳能科技有限公司生产部经理、工艺部经
-理、制造总监、总经理助理、副总经理、常务副总经理等职务；2016 年至2017 年3 月，任上海晶
-澳太阳能科技有限公司总经理职务；2017 年至2021 年，历任晶澳（扬州）太阳能科技有限公司总
-经理、智造第二事业部总经理、晶澳太阳能科技股份有限公司助理总裁；2022 年1 月至今，任晶澳
-太阳能科技股份有限公司轮值总裁。 
-靳军辉 
-董事、助理总裁 
-2009 年至2021 年，历任河北省直工委统战（群工）部副主任科员、主任科员，省直团工委书记，
-省直工委党建督查室主任；2021 年至今，任公司助理总裁。 
-陶然 
-董事、副总裁 
-1987 年出生，中国国籍，研究生学历。2012 年5 月至2015 年3 月，任上海晶澳太阳能光伏科技有
-限公司 CEO 办公室助理；2015 年3 月至2015 年6 月，任上海晶澳太阳能光伏科技有限公司 助理
-总裁；2015 年7 月至2018 年1 月，任北京晶澳太阳能光伏科技有限公司助理总裁；2018 年1 月至
-今，任北京晶澳太阳能光伏科技有限公司副总裁。 
-贾绍华 
-董事 
-中央财经大学、中国社会科学院大学研究生导师，中国法学会财税法学研究会副会长。历任国家税
-务总局扬州税务进修学院院长，海南省国家稅务局副局长，中国税务出版社总编辑，中央财经大学
-税收教育研究所所长，享受国务院特殊津贴。 
-赵玉文 
-独立董事 
-1978 年调入北京太阳能研究所，先后任研究员、副所长、研究所总工程师等职；1999 年至2017
-年，任中国可再生能源学会（原中国太阳能学会）副理事长兼中国太阳能光伏专业委员会主任等
-职；2017 年至2022 年3 月，任中国可再生能源学会监事长；2005 年至2017 年，任国际光伏科学和
-工程会议（PVSEC）国际咨询委员会委员及世界光伏会议（WCPEC）国际咨询委员会委员；2017 年
-起任国际光伏科学和工程会议（PVSEC）国际咨询委员会荣誉委员。 
-张淼 
-独立董事 
-2005 年7 月至2012 年6 月，任北京市东城区人民检察院公诉处，检察官、处长；2012 年7 月至
-2014 年5 月，任北京市李晓斌律师事务所诉讼部主任；2014 年5 月至今，任北京市浩天信和律师事
-务所高级合伙人 
-秦晓路 
-独立董事 
-2005 年3 月至2012 年7 月，历任福建中邮普泰移动设备有限公司财务副总监、财务总监；2012 年
-7 月至今，历任福建奥元集团有限公司财务总监、常务副总裁、执行总裁。 
-资料来源：公司公告，HTI 
+公司其他主要高管的硕士博士学历占比高、科研经历和名企工作经历丰富。
+图表 3 公司管理层简介
 公司股权较为集中，股权结构稳定。公司董事长靳保芳为实际控制人，通过晶泰
-福间接持股晶澳科技33.34%。截止2023 年3 月，公司的股权结构为晶泰福
-（47.62%）、华建盈富（7.8%）。靳军淼、范彩平分别为靳保芳之女、之妻，靳保芳
-一家合计持有晶澳科技47.62%的股份，保证了公司控制权的持续稳定。 
- 
- 
- 
- 
-28 Mar 2023 
-5 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-图表4 公司股权结构 
- 
-资料来源：公司公告，HTI 
- 
-1.3. 营收和利润快速增长，费用控制持续改善 
-公司营收稳健增长，业绩增长迅速。2022 年，公司实现营收730 亿元，同比
-+76.7%，实现归母净利润55.3 亿元，同比+171.4%。其中Q4 实现归母净利润22.4 亿
-元，同比+208.9%，公司组件全年出货量达38.1GW，同比+58.3%。公司净利率自2018
-年以来逐步提升。自2019 年以来，公司毛利率呈下滑趋势，原因系受近几年海运费
-上涨的影响，加上多晶硅价格处于高位，导致成本上升。 
-图表5：2017-2022 公司营业收入情况 
-图表6：2017-2022 公司归母净利润情况 
- 
- 
- 
-资料来源：公司公告，Wind ，HTI 
-资料来源：Wind，HTI 
-公司费用控制趋好，近三年期间费用率均控制在10%以下。2019 年以来，费用率
-不断走低；2019 至2022 年，公司期间费用率从12.9%下降至4.4%，销售费用率从
-5.7 %下降至1.4%，财务费用率从2.7%下降至-0.7%，下降的幅度显著。近三年期间费
-用率均控制在10%以下。得益于公司营收的快速增长，公司的期间费用率逐步下降。 
- 
- 
--10%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
--
-10,000
-20,000
-30,000
-40,000
-50,000
-60,000
-70,000
-80,000
-2017
-2018
-2019
-2020
-2021
-2022
-营业收入（百万元）
-同比
--50.00%
-0.00%
-50.00%
-100.00%
-150.00%
-200.00%
--
-1,000
-2,000
-3,000
-4,000
-5,000
-6,000
-2017
-2018
-2019
-2020
-2021
-2022
-归母净利润（百万元）
-同比
- 
- 
-28 Mar 2023 
-6 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-图表7：2017-2022 公司毛利率和净利率情况 
-图表8：2017-2022 公司期间费用率的情况 
- 
- 
- 
-资料来源：公司公告，Wind ，HTI 
-资料来源：Wind，HTI 
-公司的营运能力在行业内表现优秀。2019 年以来，公司存货周转率和应收账款周
-转率有所提高，营运能力进一步优化。公司营运能力处于行业内较高水平，周转天数
-相对较短，2022Q1-3 存货周转率/应收账款周转率分别为73 天/41 天，流动资金使用
-效率较高。 
-图表9：同行业公司存货周转天数 
-图表10：同行业公司应收账款周转天数 
- 
- 
- 
-资料来源：公司公告，Wind ，HTI 
-资料来源：Wind，HTI 
- 
- 
-2. 行业：全球需求依然强劲，组件龙头强者恒强 
-2.1. 需求端：全球需求依然强劲，硅料降价将进一步刺激需求 
+福间接持股晶澳科技 33.34%。截止 2023 年 3 月,公司的股权结构为晶泰福
+(47.62%)、华建盈富(7.8%)。靳军淼、范彩平分别为靳保芳之女、之妻,靳保芳
+一家合计持有晶澳科技 47.62%的股份,保证了公司控制权的持续稳定。
+图表 4 公司股权结构
+1.3. 营收和利润快速增长,费用控制持续改善
+公司营收稳健增长,业绩增长迅速。2022年,公司实现营收 730 亿元,同比
++76.7%, 实现归母净利润 55.3 亿元, 同比+171.4%。其中 Q4 实现归母净利润 22.4 亿
+元,同比+208.9%,公司组件全年出货量达38.1GW,同比+58.3%。公司净利率自2018
+年以来逐步提升。自 2019 年以来,公司毛利率呈下滑趋势,原因系受近几年海运费
+上涨的影响,加上多晶硅价格处于高位,导致成本上升。
+公司费用控制趋好，近三年期间费用率均控制在10%以下。2019年以来，费用率
+不断走低; 2019 至 2022 年,公司期间费用率从 12.9%下降至 4.4%,销售费用率从
+5.7%下降至 1.4%，财务费用率从 2.7%下降至-0.7%，下降的幅度显著。近三年期间费
+用率均控制在10%以下。得益于公司营收的快速增长,公司的期间费用率逐步下降。
+公司的营运能力在行业内表现优秀。2019年以来,公司存货周转率和应收账款周
+转率有所提高,营运能力进一步优化。公司营运能力处于行业内较高水平,周转天数
+相对较短, 2022Q1-3 存货周转率/应收账款周转率分别为 73 天/41 天, 流动资金使用
+效率较高。
+2. 行业: 全球需求依然强劲,组件龙头强者恒强
+2.1. 需求端: 全球需求依然强劲, 硅料降价将进一步刺激需求
 全球光伏行业需求依然强劲，硅料降价将进一步刺激需求。为了实现减少碳排放
-的共同目标，全球各国纷纷制定了净零排放目标，将继续刺激光伏需求。根据CPIA，
-2022 年光伏装机约230GW 左右，同增接近35.3%；其中中国装机增长59.3%至
-87.4GW，欧盟装机增长54.5%至41.4GW。2023 年，随着下半年硅料产能逐步释放，
-硅料价格有望回落至相对合理的水平，刺激更多需求释放。我们预计2023 年光伏装
-机有望达到350GW 以上，同比50%以上增长。 
- 
- 
-0%
-5%
-10%
-15%
-20%
-25%
-2017
-2018
-2019
-2020
-2021
-2022
-毛利率
-净利率
--5.0%
-0.0%
-5.0%
-10.0%
-15.0%
-2017
-2018
-2019
-2020
-2021
-2022
-销售费用率
-管理费用率
-研发费用率
-财务费用率
-期间费用率
-0
-20
-40
-60
-80
-100
-120
-2019
-2020
-2021
-2022Q1-3
-某头部组件厂
-晶澳科技
-隆基绿能
-天合光能
-0
-20
-40
-60
-80
-100
-120
-2019
-2020
-2021
-2022Q1-3
-某头部组件厂
-晶澳科技
-隆基绿能
-天合光能
- 
- 
-28 Mar 2023 
-7 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-图表11：全球光伏新增装机情况 
-图表12：我国光伏组件出口占比和行业集中度逐年提升 
- 
- 
- 
-2018 
-2019 
-2020 
-2021 
-2022E 
-全球光伏新增装机（GW） 
-106 
-115 
-127 
-170 
-230 
-全球组件需求（GW） 
-127 
-138 
-152 
-204 
-276 
-我国出口组件数量（GW） 
-43 
-69 
-79 
-101 
-153 
-我国出口组件占比 
-34% 
-50% 
-52% 
-50% 
-55% 
-中国前十组件出货量（GW） 
-62 
-79 
-118 
-160 
-246 
-CR10 
-49% 
-57% 
-77% 
-78% 
-89% 
- 
-资料来源：CPIA，HTI 
-资料来源：CPIA，盖锡咨询，HTI 
+的共同目标,全球各国纷纷制定了净零排放目标,将继续刺激光伏需求。根据 CPIA,
+2022 年光伏装机约 230GW 左右, 同增接近 35.3%; 其中中国装机增长 59.3%至
+87.4GW, 欧盟装机增长 54.5%至 41.4GW。2023 年, 随着下半年硅料产能逐步释放,
+硅料价格有望回落至相对合理的水平,刺激更多需求释放。我们预计 2023 年光伏装
+机有望达到 350GW 以上,同比 50%以上增长。
 2023 年随着硅料产能释放，硅料价格将逐步回落。2022 年硅料成为限制光伏装
-机增长的硬性瓶颈，全年硅料均价在250 元/kg 以上。2023 年硅料即将面临产能过
-剩，基于当前行业扩产规划，至2023 年底全球多晶硅名义产能达240+万吨。我们预
-计考虑到海外硅料的产能，2023 年硅料供应量达145 万吨，同比增长75%。按单瓦硅
-耗2.7g/w 测算，对应537+GW 组件产量和459+GW 交流侧装机规模。按当前行业扩产
-规划预测，2023 年将逐步走向产能过剩，硅料价格将逐步回落。 
-图表13：多晶硅价格走势 
-图表14： 组件价格走势 
- 
- 
- 
-资料来源：PV Infolink，HTI 
-资料来源：PV Infolink，HTI 
-全球光伏装机需求旺盛，我国组件出口规模和金额均保持良好的增长趋势。2022
-年全年光伏组件出口超过154GW，同比增长55.8%，有效支撑国内外光伏市场增长和
-全球新能源需求；其中欧洲约占出口总额的46%，占比继续提高。2022 年组件出口总
-额为424 亿美元。 
- 
- 
-0.00%
-10.00%
-20.00%
-30.00%
-40.00%
-50.00%
-60.00%
-70.00%
-80.00%
-0.0
-50.0
-100.0
-150.0
-200.0
-250.0
-300.0
-350.0
-400.0
-全球光伏新增装机（GW）
-同比
-0
-50
-100
-150
-200
-250
-300
-350
-Feb/18
-May/18
-Aug/18
-Nov/18
-Feb/19
-May/19
-Aug/19
-Nov/19
-Feb/20
-May/20
-Aug/20
-Nov/20
-Feb/21
-May/21
-Aug/21
-Nov/21
-Feb/22
-May/22
-Aug/22
-Nov/22
-Feb/23
-一级致密料（元/kg）
-多晶料（元/kg）
-1.70
-1.75
-1.80
-1.85
-1.90
-1.95
-2.00
-2.05
-Mar…
-Mar…
-Apr…
-Ma…
-Ma…
-Jun…
-Jul/22
-Jul/22
-Aug…
-Sep…
-Sep…
-Oct…
-Nov…
-Nov…
-Dec…
-Jan…
-Feb…
-Feb…
-单面单晶perc组件166（元/W）
-单面单晶perc组件182/210（元/W）
-双面单晶perc组件182/210（元/W）
- 
- 
-28 Mar 2023 
-8 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-图表15：光伏组件出口额各大洲占比情况 
-图表16：光伏组件出口额各国家占比情况 
- 
- 
- 
-资料来源：CPIA，HTI 
-资料来源：CPIA，HTI 
- 
-2.2. 供给侧：行业集中度提升，组件龙头强者恒强 
+机增长的硬性瓶颈,全年硅料均价在 250 元/kg 以上。2023 年硅料即将面临产能过
+剩,基于当前行业扩产规划,至 2023 年底全球多晶硅名义产能达 240+万吨。我们预
+计考虑到海外硅料的产能,2023年硅料供应量达145万吨,同比增长75%。按单瓦硅
+耗 2.7g/w 测算，对应 537+GW 组件产量和 459+GW 交流侧装机规模。按当前行业扩产
+规划预测,2023年将逐步走向产能过剩,硅料价格将逐步回落。
+全球光伏装机需求旺盛,我国组件出口规模和金额均保持良好的增长趋势。2022
+年全年光伏组件出口超过 154GW, 同比增长 55.8%, 有效支撑国内外光伏市场增长和
+全球新能源需求; 其中欧洲约占出口总额的 46%, 占比继续提高。2022 年组件出口总
+额为 424 亿美元。
+2.2. 供给侧: 行业集中度提升,组件龙头强者恒强
 组件龙头强者恒强，近年来行业集中度不断提升，竞争格局相对稳定。近年来我
-国组件集中度不断提升，CR5 从2018 年的38.4%提升到2022 年的61.4%。回顾过去4
-年，组件环节前五家企业无变化。组件环节的新玩家较少，只有通威等少数玩家能凭
+年,组件环节前五家企业无变化。组件环节的新玩家较少,只有通威等少数玩家能凭
 借已有的电池片产能进军组件环节。我们认为组件在长期低盈利的情况下，组件环节
-的竞争格局已经改善。组件环节具有轻资产的属性，其壁垒体现在品牌、渠道和供应
-链管理。随着组件龙头进一步拓宽海外渠道、布局纵向一体化，我们认为组件环节的
-集中度有望进一步提升。 
-图表17：2022 年中国组件竞争格局（出货量口径） 
-图表18： 2018-2022 中国组件CR5 产量占比变化 
- 
- 
- 
-资料来源：公司公告，CPIA,HTI 
-资料来源：CPIA，HTI 
- 
- 
-欧洲
-55%
-亚洲
-23%
-美洲
-16%
-非洲
-3%
-大洋洲
-3%
-荷兰
-27%
-巴西
-11%
-西班牙
-7%
-印度
-6%
-日本
-4%
-德国
-4%
-澳大利亚
-3%
-波兰
-3%
-希腊
-3%
-葡萄牙
-2%
-其他
-30%
-隆基
-16%
-天合
-15%
-晶澳
-15%
-某头部组件厂
-14%
-阿特斯
-7%
-东方日升
-5%
-正泰
-5%
-通威太阳能
-3%
-一道新能
-3%
-华晟光伏
-2%
-其他
-15%
-38.40%
-42.80%
-55.10%
-63.40%
-61.40%
-30.00%
-35.00%
-40.00%
-45.00%
-50.00%
-55.00%
-60.00%
-65.00%
-70.00%
-2018
-2019
-2020
-2021
-2022
- 
- 
-28 Mar 2023 
-9 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-2.3. 结构上：TOPCon 产能加速扩产，渗透率加速提升。 
-2023 年N 型技术百花齐放，TOPCon 产能率先落地。预计2023 年Topcon 市占率
-有望达30%，对应全年125GW+的TOPCon 出货量。2022 年下半年N 型电池片产能陆
-续释放，根据CPIA，2022 年底N 型电池片占比合计达到约9.1%，其中TOPCon 电池片
-占比约8.3%，HJT 电池片占比约0.6%，XBC 电池片占比约0.2%。在N 型产能有限以及
-PN 价差存在的背景下，预计今年PERC 仍是市场主流，但Topcon 电池渗透率会加速，
-我们预计2023 年Topcon 市占率有望达30%，对应全年125GW+的TOPCon 出货量。 
-TOPCon 产能建设如火如荼，在建TOPCon 产能达360GW+。基于目前的效率、成
-本测算，TOPCon 相较PERC 已有一定经济性，TOPCon 成本端略高于PERC，电池量产
-效率能达到25%，高于PERC 的23.5%。当前各大企业纷纷布局TOPCon 电池，根据
-SMM 的调研，正在建设中的Topcon 电池产能达到361.1GW（包括厂房建设及设备进
-场中的产能），预计产能会在Q4 集中释放。 
-图表19：2023 年至今部分央国企招标中N 型占比 
-图表20： 2022-2030E 各型光伏电池市场占有率（%） 
-公司 
-招标日期 
-总规模
-（GW） 
-N 型规模
-（GW） 
-N 型占比 
-国家电投 
-2023 年2 月 
-5.65 
-1.8 
-32% 
-中核汇能 
-2023 年2 月 
-6 
-2.5 
-42% 
-上海富鸿 
-2023 年3 月 
-2 
-0.8 
-40% 
- 
- 
- 
-资料来源：公司公告，HTI 
-资料来源：CPIA，HTI 
-2023 年N 型组件招标占比显著提升，业主对TOPCon 组件接受度显著提高。2023
-年以来，国家电投启动5.65GW 组件+逆变器招标，其中组件招标占比达到1/3；中核
-汇能启动6GW 组件招标，其中N 型组件2.5GW，占比40%+；上海富鸿启动2GW 组
-件招标，其中N 型组件0.8GW，占比40%，表明下游客户对TOPCon 组件接受度显著
-提高。 
- 
- 
- 
- 
- 
-28 Mar 2023 
-10 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
- 
-3. 公司：成本+研发+品牌+渠道优势显著，盈利能力行
-业领先 
-3.1. 成本端：纵向一体化助力降本，盈利能力行业领先 
-深化纵向一体化，盈利能力行业领先。 目前一体化模式已成为头部组件厂的共
-同选择，目前头部组件厂中没有纯组件企业，一体化模式是大势所趋。2022 年，
-TOPCon 龙头、晶澳、隆基、天合的一体化率分别为80%、80%、75%、31%，晶澳一
-体化程度在行业领先。我们认为垂直一体化模式可以帮助控制成本并提高盈利能力，
-同时在供需波动时平滑风险并增强盈利稳定性。 
-2023 年公司一体化率将进一步提
-升，硅片、电池自供比例从此前的80%左右提升至90%左右，一体化程度在行业领
-先。高一体化率提高了公司的单瓦盈利水平和盈利的稳定性；同时，保持10-20%的硅
-片和电池产能缺口，使公司可以对比自供/外购的生产成本，确保各环节的竞争力。 
-图表21: 主要组件厂商硅片、电池和组件产能（GW） 
- 
-资料来源：公司公告，HTI 
-得益于较高的一体化程度和良好的费用控制，公司的盈利能力行业领先。2020年
-以来，组件龙头的毛利率承压，净利率相对稳定。1）毛利率方面：2018-2022 前三
-季度，组件TOP4 的毛利率总体上均呈下降趋势，天合、晶澳、TOPCon 组件龙头的毛
-利率从 15%-20%区间下滑至 10%-15%区间，隆基绿能得益于硅片外售量较大，毛利
-率高于其他一体化组件企业。2）净利率方面：晶澳的净利率略高于晶澳、TOPCon 组
-件龙头；隆基绿能得益于其较高的毛利率和一体化程度，净利率高于其他一体化组件
-企业。 
- 
- 
-0
-20
-40
-60
-80
-100
-120
-140
-160
-晶澳
-某头部组件厂
-隆基
-天合
-22E组件产能
-22E电池片产能
-22E硅片产能
- 
- 
-28 Mar 2023 
-11 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-图表22：主要组件厂商综合毛利率变化(%) 
-图表23：主要组件厂商净利率变化(%) 
- 
- 
- 
-资料来源：公司公告，HTI 
-资料来源：公司公告，HTI 
-随着硅料下行，产业链利润向下游转移，一体化组件的利润有望修复。2022年硅
-料成为限制光伏装机增长的硬性瓶颈，全年硅料均价在250 元/kg 以上。随着硅料新
+的竞争格局已经改善。组件环节具有轻资产的属性,其壁垒体现在品牌、渠道和供应
+链管理。随着组件龙头进一步拓宽海外渠道、布局纵向一体化,我们认为组件环节的
+集中度有望进一步提升。
+2.3. 结构上: TOPCon 产能加速扩产,渗透率加速提升。
+2023年 N 型技术百花齐放，TOPCon 产能率先落地。预计 2023年 Topcon 市占率
+有望达 30%, 对应全年 125GW+的 TOPCon 出货量。2022 年下半年 N 型电池片产能陆
+续释放,根据 CPIA,2022 年底 N 型电池片占比合计达到约 9.1%,其中 TOPCon 电池片
+占比约 8.3%, HJT 电池片占比约 0.6%, XBC 电池片占比约 0.2%。在 N 型产能有限以及
+PN 价差存在的背景下, 预计今年 PERC 仍是市场主流, 但 Topcon 电池渗透率会加速,
+我们预计 2023 年 Topcon 市占率有望达 30%, 对应全年 125GW+的 TOPCon 出货量。
+TOPCon 产能建设如火如荼,在建 TOPCon 产能达 360GW+。基于目前的效率、成
+本测算, TOPCon 相较 PERC 已有一定经济性, TOPCon 成本端略高于 PERC, 电池量产
+效率能达到 25%, 高于 PERC 的 23.5%。当前各大企业纷纷布局 TOPCon 电池, 根据
+SMM 的调研，正在建设中的 Topcon 电池产能达到 361.1GW（包括厂房建设及设备进
+场中的产能),预计产能会在 Q4 集中释放。
+年以来, 国家电投启动 5.65GW 组件+逆变器招标, 其中组件招标占比达到 1/3; 中核
+汇能启动 6GW 组件招标, 其中 N 型组件 2.5GW, 占比 40%+; 上海富鸿启动 2GW 组
+件招标,其中N型组件0.8GW,占比40%,表明下游客户对TOPCon组件接受度显著
+提高。
+3. 公司: 成本+研发+品牌+渠道优势显著, 盈利能力行
+业领先
+3.1. 成本端:纵向一体化助力降本,盈利能力行业领先
+深化纵向一体化,盈利能力行业领先。 目前一体化模式已成为头部组件厂的共
+同选择,目前头部组件厂中没有纯组件企业,一体化模式是大势所趋。2022年,
+TOPCon 龙头、晶澳、隆基、天合的一体化率分别为 80%、80%、75%、31%, 晶澳一
+体化程度在行业领先。我们认为垂直一体化模式可以帮助控制成本并提高盈利能力,
+同时在供需波动时平滑风险并增强盈利稳定性。 2023 年公司一体化率将进一步提
+升,硅片、电池自供比例从此前的 80%左右提升至 90%左右,一体化程度在行业领
+先。高一体化率提高了公司的单瓦盈利水平和盈利的稳定性;同时,保持 10-20%的硅
+片和电池产能缺口,使公司可以对比自供/外购的生产成本,确保各环节的竞争力。
+得益于较高的一体化程度和良好的费用控制,公司的盈利能力行业领先。2020年
+以来,组件龙头的毛利率承压,净利率相对稳定。1)毛利率方面:2018-2022 前三
+季度，组件 TOP4 的毛利率总体上均呈下降趋势，天合、晶澳、TOPCon 组件龙头的毛
+利率从 15%-20%区间下滑至 10%-15%区间,隆基绿能得益于硅片外售量较大,毛利
+率高于其他一体化组件企业。2)净利率方面: 晶澳的净利率略高于晶澳、TOPCon 组
+件龙头; 隆基绿能得益于其较高的毛利率和一体化程度, 净利率高于其他一体化组件
+企业。
+随着硅料下行,产业链利润向下游转移,一体化组件的利润有望修复。2022年硅
+料成为限制光伏装机增长的硬性瓶颈,全年硅料均价在 250 元/kg 以上。随着硅料新
 产能释放，硅料价格下行，下游一体化组件的利润有望修复。回顾过去几年，由于硅
 料价格居高不下，一体化组件的利润承压。由于主产业链各环节盈利均有一定周期
-性，我们认为随着2023 年多晶硅价格的下行，一体化组件的利润有望修复。我们测
-算2022 年TOPCon 龙头、晶澳、隆基、天合的单瓦盈利分别为6 分、1 毛4、1 毛5、
-7 分，预计2023 年公司单瓦盈利有望提升到1 毛5 以上。 
-图表24: 一体化组件厂单瓦盈利（元） 
-资料来源：Wind，公司公告，HTI 
- 
- 
- 
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-FY18
-FY19
-FY20
-FY21
-22Q1-3
-某头部组件厂
-晶澳科技
-隆基绿能
-天合光能
-0%
-5%
-10%
-15%
-20%
-FY18
-FY19
-FY20
-FY21
-22Q1-3
-某头部组件厂
-晶澳科技
-隆基绿能
-天合光能
- -
- 0.05
- 0.10
- 0.15
- 0.20
- 0.25
-2017
-2018
-2019
-2020
-2021
-2022E
-隆基
-天合
-晶澳
-某头部组件厂
- 
- 
-28 Mar 2023 
-12 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-3.2. 研发端：技术优势显著，N 型电池片技术储备丰富 
-公司具有完整的技术研发体系，在多种N 型电池技术路线拥有技术储备。公司建
+性,我们认为随着 2023 年多晶硅价格的下行,一体化组件的利润有望修复。我们测
+算 2022 年 TOPCon 龙头、晶澳、隆基、天合的单瓦盈利分别为 6 分、1 毛 4、1 毛 5、
+7分, 预计 2023 年公司单瓦盈利有望提升到 1 毛 5 以上。
+3.2. 研发端:技术优势显著,N型电池片技术储备丰富
+公司具有完整的技术研发体系,在多种 N 型电池技术路线拥有技术储备。公司建
 立了独立的研发中心和核心研发技术团队，在硅片、电池及组件三个环节上持续开展
 光伏技术创新和新产品开发及现有产品工艺改进。在对研发的持续投入下，公司电池
-及组件技术始终保持着业界领先水平。公司电池片环节的技术储备丰富，HJT 高效电
-池研发项目中试线陆续试产，同时，研发中心积极研究和储备IBC 电池、钙钛矿及叠
-层电池技术，保持核心竞争力，从而实现未来更高功率组件的远景规划。 
-图表25：主要组件厂研发费用占收入的比例 
-图表26：主要组件厂研发人员数量 
- 
- 
- 
-资料来源：CPIA，HTI 
-资料来源：CPIA，HTI 
-N 型新品量产在即，转换效率业内领先。2022 年5 月18 日，晶澳发布了旗下首
-款n 型组件产品DeepBlue 4.0 X，正式宣布进军n 型产品市场。DeepBlue 4.0 X 组件，
-采用了高效n 型Bycium+电池技术，具有更高质量的基体材料和结构，量产电池效率
-可达24.8%以上。同时，还采用了晶澳自主研发的高密度组件封装技术——零间距柔
-性互连技术，圆形焊带结合特殊的缓冲设计，消除了常规高密度组件电池连接处的隐
-裂风险，确保组件稳定、可靠，最高功率可达625W，组件最高转换效率可达22.4%。
-除了高功率和高效率外，Deep Blue 4.0 X 组件由于优异的衰减特性、高温特性、双面
-发电特性以及弱光特性等，具有更高的发电能力，给客户带来更高的收益。 
-图表27：Deep Blue 4.0X 产品图示 
-图表28：双面光伏组件30 年功率质保对比 
- 
- 
- 
-资料来源：公司官网，HTI 
-资料来源：公司官网，HTI 
-0.00%
-0.50%
-1.00%
-1.50%
-2.00%
-2.50%
-2021年研发费用占营业收入比例
-晶澳科技
-某头部组件厂
-隆基绿能
-天合光能
-0
-500
-1,000
-1,500
-2,000
-2,500
-研发人员数量（截至2021年末）
-晶澳科技
-某头部组件厂
-隆基绿能
-天合光能
- 
- 
-28 Mar 2023 
-13 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-TOPCon 产能逐渐放量，一体化盈利有望持续改善。预计2023 年TOPCon 出货量
-占比在30%以上，对应约20GW 的出货。根据公司规划，2022 年底和2023 年底组件
-产能将分别超过50GW 和80GW，其中，2023 年TOPCon 产能将达到27GW 以上。我
-们预计2023 年TOPCon 组件溢价在7 分左右，而TOPCon 电池片的成本有望和PERC
-打平。我们预计公司TOPCon 占比的提升将进一步提升公司组件业务盈利水平。预计
-2023 晶澳股份的TOPCon 出货20GW，单瓦盈利每提升0.01 元/W，公司业绩有望增
-厚2 亿元，对应业绩弹性2.4%。 
-3.3. 品牌端：品牌认可度高，可融资性高达96% 
-公司的品牌认可度高，可融资性高达96%。可融资性高代表银行愿意向采用组件
+及组件技术始终保持着业界领先水平。公司电池片环节的技术储备丰富, HJT 高效电
+池研发项目中试线陆续试产，同时，研发中心积极研究和储备 IBC 电池、钙钛矿及叠
+层电池技术，保持核心竞争力，从而实现未来更高功率组件的远景规划。
+N型新品量产在即,转换效率业内领先。2022年5月18日,晶澳发布了旗下首
+款n型组件产品 DeepBlue 4.0 X, 正式宣布进军n型产品市场。DeepBlue 4.0 X 组件,
+采用了高效 n 型 Bycium+电池技术，具有更高质量的基体材料和结构，量产电池效率
+可达 24.8%以上。同时,还采用了晶澳自主研发的高密度组件封装技术——零间距柔
+性互连技术、圆形焊带结合特殊的缓冲设计、消除了常规高密度组件电池连接处的隐
+裂风险,确保组件稳定、可靠,最高功率可达625W,组件最高转换效率可达22.4%。
+除了高功率和高效率外, Deep Blue 4.0 X 组件由于优异的衰减特性、高温特性、双面
+发电特性以及弱光特性等，具有更高的发电能力,给客户带来更高的收益。
+图表 27: Deep Blue 4.0X 产品图示
+TOPCon 产能逐渐放量，一体化盈利有望持续改善。预计 2023 年 TOPCon 出货量
+占比在 30%以上,对应约 20GW 的出货。根据公司规划,2022 年底和 2023 年底组件
+产能将分别超过 50GW 和 80GW, 其中, 2023 年 TOPCon 产能将达到 27GW 以上。我
+们预计 2023 年 TOPCon 组件溢价在 7 分左右, 而 TOPCon 电池片的成本有望和 PERC
+打平。我们预计公司 TOPCon 占比的提升将进一步提升公司组件业务盈利水平。预计
+2023 晶澳股份的 TOPCon 出货 20GW, 单瓦盈利每提升 0.01 元/W, 公司业绩有望增
+厚 2 亿元,对应业绩弹性 2.4%。
+3.3. 品牌端: 品牌认可度高, 可融资性高达 96%
+公司的品牌认可度高,可融资性高达 96%。可融资性高代表银行愿意向采用组件
 品牌的光伏发电项目提供无追索权贷款，是组件产品力和品牌价值的综合体现。根据
-彭博新能源（BNEF）公布的可融资性得分，晶澳科技2022 年可融资性高达96%，这
+彭博新能源(BNEF)公布的可融资性得分,晶澳科技 2022 年可融资性高达 96%, 这
 不仅意味着晶澳的组件将更易帮助项目开发商获得银行融资，同时也再次印证了全球
-光伏市场和金融市场对晶澳品牌的高度信赖和认可。此外，根据PV ModuleTech 发布
-2022 年第四季度组件可融资性评级，晶澳科技凭借在出货、产能布局、技术布局、财
+光伏市场和金融市场对晶澳品牌的高度信赖和认可。此外，根据 PV ModuleTech 发布
+2022 年第四季度组件可融资性评级,晶澳科技凭借在出货、产能布局、技术布局、财
 务表现等指标的出色表现，以及在生产制造、财务状况等方面表现出的综合优势，再
-次获得最高AAA 评级。 
-图表29：BNEF 2022 年可融资性调查结果 
-图表30：2022 年Q4 PV TECH 组件可融资性金字塔 
- 
- 
-资料来源：BloombergNEF，HTI 
-资料来源：PV TECH，HTI 
+次获得最高 AAA 评级。
 公司凭借过硬的产品质量和领先的产品性能等竞争优势，其产品得到众多全球权
-威第三方机构的认可。2014 年到2022 年，晶澳科技七次被全球权威独立第三方光伏
-测试机构PVEL 评为“最佳表现”组件供应商；2019 年到2022 年，连续三年被美国权威
-检测机构RETC 评为“全面表现最优”（Overall High Achiever）。产品也获得法国碳足迹
-认证、UL EPD 环保声明标志等多个环保证明，产品在全生命周期的绿色低碳得到充分
-验证。 
- 
- 
- 
-0%
-20%
-40%
-60%
-80%
-100
-Maxeon / SunPower
-韩华
-东方日升
-正泰太阳能
-First Solar
-某头部组件厂
-晶澳科技
-天合光能
-隆基绿能
-Canadian Solar
-Yes
-No
-Never Heard Of
- 
- 
-28 Mar 2023 
-14 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-3.4. 渠道端：覆盖国家地区数量行业领先，分销占比不断提升 
-公司渠道布局、覆盖国家地区数量行业领先。根据 ENF 统计，公司销售渠道覆
-盖62 个国家和地区，安装商覆盖91 个国家和地区，渠道覆盖广度位居国内前列。在
-欧洲、拉美、日韩等成熟光伏市场中均有完善的渠道布局，和当地的分销渠道形成长
+威第三方机构的认可。2014 年到 2022 年，晶澳科技七次被全球权威独立第三方光伏
+测试机构 PVEL 评为“最佳表现”组件供应商；2019 年到 2022 年，连续三年被美国权威
+检测机构 RETC 评为“全面表现最优”(Overall High Achiever)。产品也获得法国碳足迹
+认证、UL EPD 环保声明标志等多个环保证明,产品在全生命周期的绿色低碳得到充分
+验证。
+3.4. 渠道端:覆盖国家地区数量行业领先,分销占比不断提升
+公司渠道布局、覆盖国家地区数量行业领先。根据 ENF 统计,公司销售渠道覆
+盖 62 个国家和地区,安装商覆盖 91 个国家和地区,渠道覆盖广度位居国内前列。在
+欧洲、拉美、日韩等成熟光伏市场中均有完善的渠道布局,和当地的分销渠道形成长
 期稳定的合作关系，渠道和客户黏性逐年增强，分销市场和客户的比例逐年快速增
-长。 
-图表31:  2022 年组件企业销售渠道覆盖国家（地区）数量 
- 
-资料来源：ENF，HTI 
-加强分销渠道建设，提升盈利能力。长期以来，公司采取直销为主、分销为辅的
-销售模式。随着分布式市场快速增长，公司亦灵活调整销售策略，加强分销渠道建
-设，分销收入占比持续提升。从分销占比来看，公司分销出货量占比由2019 年的
-20%大幅提升至2022 年的35%。由于面向C 端，分销市场定价更为灵活，用户对组件
-价格的上涨有更好的接受度。2022 年分销毛利率高于直销，主要系2022 年海运费较
+加强分销渠道建设，提升盈利能力。长期以来,公司采取直销为主、分销为辅的
+销售模式。随着分布式市场快速增长,公司亦灵活调整销售策略,加强分销渠道建
+设,分销收入占比持续提升。从分销占比来看,公司分销出货量占比由 2019 年的
+20%大幅提升至2022年的35%。由于面向C端,分销市场定价更为灵活,用户对组件
+价格的上涨有更好的接受度。2022 年分销毛利率高于直销,主要系 2022 年海运费较
 高。我们预计随着公司分销占比的提升和海运费的回落，公司盈利能力亦将得到改
-善。 
-图表32: 晶澳分销占比持续提升 
-资料来源：公司公告，HTI 
- 
- 
-0
-20
-40
-60
-80
-100
-120
-销售商覆盖国家（地区）
-安装商覆盖国家（地区）
-天合
-某头部组件厂
-晶澳
-阿特斯
-尚德
-隆基
-韩华
-东方日升
-正泰
-First Solar
- 
- 
-28 Mar 2023 
-15 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-4. 盈利预测与估值 
-关键假设： 
-1）组件业务：组件收入是公司最主要的收入来源，我们预计2023/2024/2025 年
-全球新增光伏装机量约355/450/550GW，公司自2022 年以来陆续开启TOPCon 的大规
-模扩产，预计公司组件出货量2023/2024/2025 年分别达到60/80/96GW 
-2）电站业务：预计2023/2024/2025 年电站业务营收分别为5.5/7.4/10.0 亿元，毛
-利率为55%/55%/55% 
-我们预测公司23/24/25 年营收951/1133/1294 亿元；归母净利润分别为
-85/116/139 亿元；EPS 分别为3.63/4.91/5.91 元/股，当前股价对应PE 分别为
-15.2/11.2/9.3 倍。 
-图表33: 盈利预测（分业务） 
- 
-2022A 
-2023E 
-2024E 
-2025E 
-组件 
- 
- 
- 
- 
-出货量（GW） 
-38  
-60  
-80  
-96  
-均价（元/瓦，含税） 
- 2.09  
- 1.74  
- 1.54  
- 1.47  
-均价（元/瓦，不含税） 
- 1.85  
- 1.54  
- 1.36  
- 1.30  
-营业收入 
-703 
-924 
-1096 
-1254 
-毛利率 
-14.3% 
-16.5% 
-17.7% 
-18.2% 
-光伏电站运营 
-营业收入 
-4 
-5 
-7 
-10 
-毛利率 
-55.0% 
-55.0% 
-55.0% 
-55.0% 
-其他 
-营业收入 
-22 
-22 
-30 
-30 
-毛利率 
-14.8% 
-15.0% 
-15.0% 
-15.0% 
-资料来源：Wind，HTI 
-参考可比公司隆基绿能、天合光能、东方日升，公司作为领先的一体化组件龙
-头，预计随着硅料降价，单瓦盈利有望持续改善。我们给予公司2023 年24 倍PE，对
-应目标价86 元，首次覆盖给予“优于大市”评级。 
-图表34：可比公司 PE 估值（根据 Wind 一致预测） 
-公司 
-股价 
-总市值 
-归母净利润（亿元） 
-PE 
-24/3/2023 
-(亿元) 
-2022E 
-2023E 
-2024E 
-2022E 
-2023E 
-2024E 
-隆基绿能 
-40.05 
-3036 
-150.7 
-192.5 
-239.2 
-20.15 
-15.77 
-12.69 
-天合光能 
-51.91 
-1128 
-37.1 
-69.6 
-91.2 
-30.40 
-16.21 
-12.38 
-东方日升 
-27.92 
-318 
-9.8 
-19.5 
-25.9 
-32.61 
-16.34 
-12.27 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-晶澳科技 
-55.96 
-1319 
-55.3 
-85.5 
-115.7 
-23.83 
-15.42 
-11.39 
-资料来源：Wind，HTI 
- 
- 
- 
- 
- 
-28 Mar 2023 
-16 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
- 
-5. 风险提示 
-1. 新技术研发不及预期 
-2. 产能投产进度不及预期 
-3. 行业竞争格局恶化 
-4. 原材料价格上涨 
- 
- 
- 
-28 Mar 2023 
-17 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
- 
-图表35：财务报表及财务比率 
- 
-资料来源：公司公告，HTI 
- 
- 
- 
- 
- 
-28 Mar 2023 
-18 
-晶澳科技 (002459 CH) 
-首次覆盖优于大市 
-APPENDIX 1 
-Summary 
-The company is the world's leading PV integrated module leader with industry-leading module profitability. 2022, the company 
-achieved revenue of 73 billion yuan, +76.7% year-on-year, and achieved net profit attributable to the parent of 5.53 billion yuan, 
-+171.4% year-on-year. Among them, Q4 achieved net profit attributable to the mother of 2.24 billion yuan, +208.9% year-on-year, 
-and the company's annual module shipments reached 38.1GW, +58.3% year-on-year. The company's net profit margin has been 
-gradually improving since 2018. 
- 
-With the downward trend of polysilicon and shipping costs, the profit of integrated modules is expected to rise. Looking back 
-at the past few years, profits of integrated modules were under pressure due to high polysilicon prices. As all segments of the main 
-industry chain are cyclical in terms of profitability, we believe that with the decline in polysilicon prices in 2023, the profitability of 
-integrated modules is expected to improve. We estimate that JA's profit per watt in 2022 will be 14 cents, and we expect the 
-company's profit per watt to rise to more than 15 cents in 2023. 
- 
-Deepening vertical integration, the company has industry-leading profitability. The integration model has now become a 
-common choice for head module manufacturers, and the integration model is the general trend. We believe that the vertical 
-integration model can help control costs and improve profitability, while smoothing risks and enhancing profitability stability when 
-supply and demand fluctuate. 2023 will see a further increase in the company's integration rate, with the proportion of silicon 
-wafers and cells supplied by itself rising to around 90% from around 80% previously. 
- 
-Strengthen distribution channels to enhance profitability. The company has long adopted a sales model based on direct sales 
-and supplemented by distribution. In recent years, with the rapid growth of the distributed market, the company has flexibly 
-adjusted its sales strategy to strengthen the construction of distribution channels, and the proportion of distribution revenue has 
-continued to increase, with the proportion of distribution shipments rising significantly from 20% in 2019 to 35% in 2022. 
-Distribution market pricing is more flexible and relatively more profitable. We expect profitability to improve as the company's 
-distribution ratio rises.  
- 
-Valuation: We forecast the company's 23/24/25 revenue of 95.1/11.33/12.94 billion yuan; net profit attributable to the parent 
-is 8.5/11.6/13.9 billion yuan; EPS is 3.63/4.91/5.91 yuan/share, and the current share price corresponds to a PE of 15.2/11.2/9.3 
-times, respectively. As a leading integrated module leader, the company is expected to continue to improve its earnings per watt 
-as the price of silicon material drops. We expect 24x PE in 2023, corresponding to a target price of RMB 86, and give the company 
-an "outperform" rating for the first time. 
- 
-Risks: New technology research and development is not as expected; production capacity production progress is not as 
-expected; industry competition pattern deterioration; raw material price increase. 
- 
- 
- 
- 
- 
- 
-19 
-附录APPENDIX 
-重要信息披露 
+4. 盈利预测与估值
+关键假设:
+全球新增光伏装机量约 355/450/550GW, 公司自 2022 年以来陆续开启 TOPCon 的大规
+模扩产, 预计公司组件出货量 2023/2024/2025 年分别达到 60/80/96GW
+2) 电站业务: 预计 2023/2024/2025 年电站业务营收分别为 5.5/7.4/10.0 亿元, 毛
+利率为 55%/55%/55%
+我们预测公司 23/24/25 年营收 951/1133/1294 亿元; 归母净利润分别为
+85/116/139 亿元; EPS 分别为 3.63/4.91/5.91 元/股, 当前股价对应 PE 分别为
+15.2/11.2/9.3 倍。
+参考可比公司隆基绿能、天合光能、东方日升,公司作为领先的一体化组件龙
+头,预计随着硅料降价,单瓦盈利有望持续改善。我们给予公司 2023 年 24 倍 PE,对
+1. 新技术研发不及预期
+2. 产能投产进度不及预期
+3. 行业竞争格局恶化
+4. 原材料价格上涨
+Summary
+The company is the world's leading PV integrated module leader with industry-leading module profitability. 2022, the company
+achieved revenue of 73 billion yuan, +76.7% year-on-year, and achieved net profit attributable to the parent of 5.53 billion yuan,
++171.4% year-on-year. Among them, Q4 achieved net profit attributable to the mother of 2.24 billion yuan, +208.9% year-on-year,
+and the company's annual module shipments reached 38.1GW, +58.3% year-on-year. The company's net profit margin has been
+gradually improving since 2018.
+With the downward trend of polysilicon and shipping costs, the profit of integrated modules is expected to rise. Looking back
+at the past few years, profits of integrated modules were under pressure due to high polysilicon prices. As all segments of the main
+industry chain are cyclical in terms of profitability, we believe that with the decline in polysilicon prices in 2023, the profitability of
+integrated modules is expected to improve. We estimate that JA's profit per watt in 2022 will be 14 cents, and we expect the
+company's profit per watt to rise to more than 15 cents in 2023.
+Deepening vertical integration, the company has industry-leading profitability. The integration model has now become a
+common choice for head module manufacturers, and the integration model is the general trend. We believe that the vertical
+integration model can help control costs and improve profitability, while smoothing risks and enhancing profitability stability when
+supply and demand fluctuate. 2023 will see a further increase in the company's integration rate, with the proportion of silicon
+wafers and cells supplied by itself rising to around 90% from around 80% previously.
+Strengthen distribution channels to enhance profitability. The company has long adopted a sales model based on direct sales
+and supplemented by distribution. In recent years, with the rapid growth of the distributed market, the company has flexibly
+adjusted its sales strategy to strengthen the construction of distribution channels, and the proportion of distribution revenue has
+continued to increase, with the proportion of distribution shipments rising significantly from 20% in 2019 to 35% in 2022.
+Distribution market pricing is more flexible and relatively more profitable. We expect profitability to improve as the company's
+distribution ratio rises.
+Valuation: We forecast the company's 23/24/25 revenue of 95.1/11.33/12.94 billion yuan; net profit attributable to the parent
+times, respectively. As a leading integrated module leader, the company is expected to continue to improve its earnings per watt
+as the price of silicon material drops. We expect 24x PE in 2023, corresponding to a target price of RMB 86, and give the company
+an "outperform" rating for the first time.
+Risks: New technology research and development is not as expected; production capacity production progress is not as
+expected; industry competition pattern deterioration; raw material price increase.
+附录 APPENDIX
+重要信息披露
 本研究报告由海通国际分销，海通国际是由海通国际研究有限公司(HTIRL)，Haitong Securities India Private Limited (HSIPL)，Haitong International Japan K.K. (HTIJKK)和海通国际证券有限公
-司(HTISCL)的证券研究团队所组成的全球品牌，海通国际证券集团(HTISG)各成员分别在其许可的司法管辖区内从事证券活动。 
-IMPORTANT DISCLOSURES 
-This research report is distributed by Haitong International, a global brand name for the equity research teams of Haitong International Research Limited (“HTIRL”), Haitong Securities India Private 
-Limited (“HSIPL”), Haitong International Japan K.K. (“HTIJKK”), Haitong International Securities Company Limited (“HTISCL”), and any other members within the Haitong International Securities Group 
-of Companies (“HTISG”), each authorized to engage in securities activities in its respective jurisdiction. 
-HTIRL 分析师认证Analyst Certification: 
+司(HTISCL)的证券研究团队所组成的全球品牌，海通国际证券集团(HTISG)各成员分别在其许可的司法管辖区内从事证券活动。
+IMPORTANT DISCLOSURES
+This research report is distributed by Haitong International, a global brand name for the equity research teams of Haitong International Research Limited ("HTIRL"), Haitong Securities India Private
+Limited ("HSIPL"), Haitong International Japan K.K. ("HTIJKK"), Haitong International Securities Company Limited ("HTISCL"), and any other members within the Haitong International Securities Group
+of Companies ("HTISG"), each authorized to engage in securities activities in its respective jurisdiction.
 我， 杨斌，在此保证（i）本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且（ii）我的报酬中没有任何部分与本研究报告中表
-达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。I, Bin Yang, certify that (i) the views expressed in this 
-research report accurately reflect my personal views about any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or will be directly or 
-indirectly related to the specific recommendations or views expressed in this research report; and that I (including members of my household) have no financial interest in the security or securities 
-of the subject companies discussed. 
- 
-利益冲突披露Conflict of Interest Disclosures 
+达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。I, Bin Yang, certify that (i) the views expressed in this
+research report accurately reflect my personal views about any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or will be directly or
+indirectly related to the specific recommendations or views expressed in this research report; and that I (including members of my household) have no financial interest in the security or securities
+of the subject companies discussed.
+利益冲突披露 Conflict of Interest Disclosures
 海通国际及其某些关联公司可从事投资银行业务和/或对本研究中的特定股票或公司进行做市或持有自营头寸。就本研究报告而言，以下是有关该等关系的披露事项（以下披露不能保
-证及时无遗漏，如需了解及时全面信息，请发邮件至ERD-Disclosure@htisec.com） 
-HTI and some of its affiliates may engage in investment banking and / or serve as a market maker or hold proprietary trading positions of certain stocks or companies in this research report. As far 
-as this research report is concerned, the following are the disclosure matters related to such relationship (As the following disclosure does not ensure timeliness and completeness, please send an 
-email to ERD-Disclosure@htisec.com if timely and comprehensive information is needed). 
- 
-大庆绿能科技有限公司 及 600438.CH 目前或过去12 个月内是海通的客户。海通向客户提供非投资银行业务的证券相关业务服务。 
-大庆绿能科技有限公司 and 600438.CH are/were a client of Haitong currently or within the past 12 months. The client has been provided for non-investment-banking securities-related services. 
- 
-东方日升（义乌）新能源有限公司目前或过去12 个月内是海通的客户。海通向客户提供非证券业务服务。 
-东方日升（义乌）新能源有限公司 is/was a client of Haitong currently or within the past 12 months. The client has been provided for non-securities services. 
- 
-海通在过去的12 个月中从东方日升（义乌）新能源有限公司获得除投资银行服务以外之产品或服务的报酬。 
-Haitong has received compensation in the past 12 months for products or services other than investment banking from 东方日升（义乌）新能源有限公司. 
- 
-评级定义（从2020 年7 月1 日开始执行）： 
-海通国际（以下简称“HTI”）采用相对评级系统来为投资者推荐我们覆盖的公
-司：优于大市、中性或弱于大市。投资者应仔细阅读HTI 的评级定义。并且HTI
-发布分析师观点的完整信息，投资者应仔细阅读全文而非仅看评级。在任何情
-况下，分析师的评级和研究都不能作为投资建议。投资者的买卖股票的决策应
-基于各自情况（比如投资者的现有持仓）以及其他因素。 
-分析师股票评级 
-优于大市，未来12-18 个月内预期相对基准指数涨幅在10%以上，基准定义如
-下 
-中性，未来12-18 个月内预期相对基准指数变化不大，基准定义如下。根据
-FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。 
-弱于大市，未来12-18 个月内预期相对基准指数跌幅在10%以上，基准定义如
-下 
-各地股票基准指数：日本 – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – 
-Nifty100, 美国 – SP500; 其他所有中国概念股 – MSCI China. 
-Ratings Definitions (from 1 Jul 2020):  
-Haitong International uses a relative rating system using Outperform, 
-Neutral, or Underperform for recommending the stocks we cover to 
-investors. Investors should carefully read the definitions of all ratings used 
-in Haitong International Research. In addition, since Haitong International 
-Research contains more complete information concerning the analyst's 
-views, investors should carefully read Haitong International Research, in its 
-entirety, and not infer the contents from the rating alone. In any case, 
-评级分布Rating Distribution 
- 
- 
- 
- 
- 
-20 
-ratings (or research) should not be used or relied upon as investment 
-advice. An investor's decision to buy or sell a stock should depend on 
-individual circumstances (such as the investor's existing holdings) and other 
-considerations. 
-Analyst Stock Ratings 
-Outperform: The stock’s total return over the next 12-18 months is 
-expected to exceed the return of its relevant broad market benchmark, as 
-indicated below.  
-Neutral: The stock’s total return over the next 12-18 months is expected to 
-be in line with the return of its relevant broad market benchmark, as 
-indicated below. For purposes only of FINRA/NYSE ratings distribution 
-rules, our Neutral rating falls into a hold rating category. 
-Underperform: The stock’s total return over the next 12-18 months is 
-expected to be below the return of its relevant broad market benchmark, 
-as indicated below. 
-Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, 
-Korea – KOSPI, Taiwan – TAIEX, India – Nifty100, US – SP500; for all other 
-China-concept stocks – MSCI China. 
- 
-截至2022 年12 月31 日海通国际股票研究评级分布 
- 
-优于大市 
-中性 
-弱于大市 
- 
- 
-(持有) 
- 
-海通国际股票研究覆盖率   
-89.4% 
-9.2% 
-1.5% 
-投资银行客户*  
-5.2% 
-7.3% 
-8.3% 
-*在每个评级类别里投资银行客户所占的百分比。 
-上述分布中的买入，中性和卖出分别对应我们当前优于大市，中性和落后大市评级。 
-只有根据FINRA/NYSE 的评级分布规则，我们才将中性评级划入持有这一类别。请注意在上表中不包含非评级的股票。 
-此前的评级系统定义（直至2020 年6 月30 日）： 
-买入，未来12-18 个月内预期相对基准指数涨幅在10%以上，基准定义如下 
-中性，未来12-18 个月内预期相对基准指数变化不大，基准定义如下。根据FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。 
-卖出，未来12-18 个月内预期相对基准指数跌幅在10%以上，基准定义如下 
-各地股票基准指数：日本 – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – Nifty100; 其他所有中国概念股 – MSCI China. 
- 
-Haitong International Equity Research Ratings Distribution, as of Dec 31, 2022 
- 
-Outperform 
-Neutral 
-Underperform 
- 
- 
-(hold) 
- 
-HTI Equity Research Coverage   
-89.4% 
-9.2% 
-1.5% 
-IB clients*  
-5.2% 
-7.3% 
-8.3% 
-*Percentage of investment banking clients in each rating category. 
-BUY, Neutral, and SELL in the above distribution correspond to our current ratings of Outperform, Neutral, and Underperform. 
-For purposes only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. Please note that stocks with an NR designation are not included in the table above. 
-Previous rating system definitions (until 30 Jun 2020): 
-BUY: The stock’s total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark, as indicated below.  
-NEUTRAL: The stock’s total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark, as indicated below. For purposes 
-only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. 
-SELL: The stock’s total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark, as indicated below. 
-Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, Korea – KOSPI, Taiwan – TAIEX, India – Nifty100; for all other China-concept stocks – MSCI China. 
- 
-海通国际非评级研究：海通国际发布计量、筛选或短篇报告，并在报告中根据估值和其他指标对股票进行排名，或者基于可能的估值倍数提出建议价格。这种排名或建议价格并非为
-了进行股票评级、提出目标价格或进行基本面估值，而仅供参考使用。 
-Haitong International Non-Rated Research:  Haitong International publishes quantitative, screening or short reports which may rank stocks according to valuation and other metrics or may suggest 
-prices based on possible valuation multiples. Such rankings or suggested prices do not purport to be stock ratings or target prices or fundamental values and are for information only. 
-海通国际A 股覆盖：海通国际可能会就沪港通及深港通的中国A 股进行覆盖及评级。海通证券（600837.CH），海通国际于上海的母公司，也会于中国发布中国A 股的研究报告。但
-是，海通国际使用与海通证券不同的评级系统，所以海通国际与海通证券的中国A 股评级可能有所不同。 
-Haitong International Coverage of A-Shares:  Haitong International may cover and rate A-Shares that are subject to the Hong Kong Stock Connect scheme with Shanghai and Shenzhen. Haitong 
- 
- 
- 
- 
-21 
-Securities (HS; 600837 CH), the ultimate parent company of HTISG  based in Shanghai, covers and publishes research on these same A-Shares for distribution in mainland China. However, the rating 
-system employed by HS differs from that used by HTI and as a result there may be a difference in the HTI and HS ratings for the same A-share stocks. 
-海通国际优质100 A 股（Q100）指数：海通国际Q100 指数是一个包括100 支由海通证券覆盖的优质中国A 股的计量产品。这些股票是通过基于质量的筛选过程，并结合对海通证券 A
-股团队自下而上的研究。海通国际每季对Q100 指数成分作出复审。 
-Haitong International Quality 100 A-share (Q100) Index:  HTI’s Q100 Index is a quant product that consists of 100 of the highest-quality A-shares under coverage at HS in Shanghai. These stocks 
-are carefully selected through a quality-based screening process in combination with a review of the HS A-share team’s bottom-up research. The Q100 constituent companies are reviewed quarterly. 
- 
-MSCI ESG 评级免责声明条款：尽管海通国际的信息供货商（包括但不限于MSCI ESG Research LLC 及其联属公司（「ESG 方」）从其认为可靠的来源获取信息（「信息」）, ESG 方均不
+HTI and some of its affiliates may engage in investment banking and / or serve as a market maker or hold proprietary trading positions of certain stocks or companies in this research report. As far
+as this research report is concerned, the following are the disclosure matters related to such relationship (As the following disclosure does not ensure timeliness and completeness, please send an
+大庆绿能科技有限公司 及 600438.CH 目前或过去 12 个月内是海通的客户。海通向客户提供非投资银行业务的证券相关业务服务。
+大庆绿能科技有限公司 and 600438.CH are/were a client of Haitong currently or within the past 12 months. The client has been provided for non-investment-banking securities-related services.
+东方日升(义乌)新能源有限公司目前或过去12个月内是海通的客户。海通向客户提供非证券业务服务。
+东方日升（义乌）新能源有限公司 is/was a client of Haitong currently or within the past 12 months. The client has been provided for non-securities services.
+海通在过去的12个月中从东方目升(义乌)新能源有限公司获得除投资银行服务以外之产品或服务的报酬。
+Haitong has received compensation in the past 12 months for products or services other than investment banking from 东方日升（义乌）新能源有限公司.
+评级定义(从2020年7月1日开始执行):
+评级分布 Rating Distribution
+海通国际(以下简称“HTI”)采用相对评级系统来为投资者推荐我们覆盖的公
+司: 优于大市、中性或弱于大市。投资者应仔细阅读 HTI 的评级定义。并且 HTI
+基于各自情况 (比如投资者的现有持仓) 以及其他因素。
+优于大市,未来 12-18 个月内预期相对基准指数涨幅在 10%以上,基准定义如
+中性,未来 12-18 个月内预期相对基准指数变化不大,基准定义如下。根据
+FINRA/NYSE 的评级分布规则,我们会将中性评级划入持有这一类别。
+弱于大市，未来 12-18 个月内预期相对基准指数跌幅在 10%以上，基准定义如
+各地股票基准指数:日本 - TOPIX, 韩国 - KOSPI,台湾 - TAIEX,印度 -
+Nifty100, 美国 - SP500; 其他所有中国概念股 - MSCI China.
+Ratings Definitions (from 1 Jul 2020):
+Haitong International uses a relative rating system using Outperform,
+Neutral, or Underperform for recommending the stocks we cover to
+investors. Investors should carefully read the definitions of all ratings used
+in Haitong International Research. In addition, since Haitong International
+Research contains more complete information concerning the analyst's
+views, investors should carefully read Haitong International Research, in its
+entirety, and not infer the contents from the rating alone. In any case,
+ratings (or research) should not be used or relied upon as investment
+advice. An investor's decision to buy or sell a stock should depend on
+individual circumstances (such as the investor's existing holdings) and other
+considerations.
+Analyst Stock Ratings
+Outperform: The stock's total return over the next 12-18 months is
+expected to exceed the return of its relevant broad market benchmark, as
+indicated below.
+Neutral: The stock's total return over the next 12-18 months is expected to
+be in line with the return of its relevant broad market benchmark, as
+indicated below. For purposes only of FINRA/NYSE ratings distribution
+rules, our Neutral rating falls into a hold rating category.
+Underperform: The stock's total return over the next 12-18 months is
+expected to be below the return of its relevant broad market benchmark,
+as indicated below.
+Benchmarks for each stock's listed region are as follows: Japan - TOPIX,
+Korea - KOSPI, Taiwan - TAIEX, India - Nifty100, US - SP500; for all other
+China-concept stocks - MSCI China.
+截至 2022年 12月 31日海通国际股票研究评级分布
+上述分布中的买入，中性和卖出分别对应我们当前优于大市，中性和落后大市评级。
+只有根据 FINRA/NYSE 的评级分布规则，我们才将中性评级划入持有这一类别。请注意在上表中不包含非评级的股票。
+此前的评级系统定义（直至 2020 年 6 月 30 日）:
+买入,未来12-18个月内预期相对基准指数涨幅在10%以上,基准定义如下
+中性，未来 12-18 个月内预期相对基准指数变化不大，基准定义如下。根据 FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。
+卖出,未来12-18个月内预期相对基准指数跌幅在10%以上,基准定义如下
+各地股票基准指数：日本 –TOPIX, 韩国 –KOSPI, 台湾 –TAIEX, 印度 –Nifty100; 其他所有中国概念股 –MSCI China.
+BUY, Neutral, and SELL in the above distribution correspond to our current ratings of Outperform, Neutral, and Underperform.
+For purposes only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. Please note that stocks with an NR designation are not included in the table above.
+Previous rating system definitions (until 30 Jun 2020):
+BUY: The stock's total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark, as indicated below.
+NEUTRAL: The stock's total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark, as indicated below. For purposes
+only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category.
+SELL: The stock's total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark, as indicated below.
+Benchmarks for each stock's listed region are as follows: Japan - TOPIX, Korea - KOSPI, Taiwan - TAIEX, India - Nifty100; for all other China-concept stocks - MSCI China.
+海通国际非评级研究: 海通国际发布计量、筛选或短篇报告，并在报告中根据估值和其他指标对股票进行排名，或者基于可能的估值倍数提出建议价格。这种排名或建议价格并非为
+Haitong International Non-Rated Research: Haitong International publishes quantitative, screening or short reports which may rank stocks according to valuation and other metrics or may suggest
+prices based on possible valuation multiples. Such rankings or suggested prices do not purport to be stock ratings or target prices or fundamental values and are for information only.
+海通国际 A 股覆盖：海通国际可能会就沪港通及深港通的中国 A 股进行覆盖及评级。海通证券（600837.CH），海通国际于上海的母公司，也会于中国发布中国 A 股的研究报告。但
+是，海通国际使用与海通证券不同的评级系统，所以海通国际与海通证券的中国Ａ股评级可能有所不同。
+Haitong International Coverage of A-Shares: Haitong International may cover and rate A-Shares that are subject to the Hong Kong Stock Connect scheme with Shanghai and Shenzhen. Haitong
+Securities (HS; 600837 CH), the ultimate parent company of HTISG based in Shanghai, covers and publishes research on these same A-Shares for distribution in mainland China. However, the rating
+system employed by HS differs from that used by HTI and as a result there may be a difference in the HTI and HS ratings for the same A-share stocks.
+海通国际优质 100 A 殷（Q100）指数：海通国际 Q100 指数是一个包括 100 支由海通证券覆盖的优质中国 A 殷的计量产品。这些股票是通过基于质量的筛选过程，并结合对海通证券 A
+股团队自下而上的研究。海通国际每季对 Q100 指数成分作出复审。
+Haitong International Quality 100 A-share (Q100) Index: HTI's Q100 Index is a quant product that consists of 100 of the highest-quality A-shares under coverage at HS in Shanghai. These stocks
+are carefully selected through a quality-based screening process in combination with a review of the HS A-share team's bottom-up research. The Q100 constituent companies are reviewed quarterly.
 担保或保证此处任何数据的原创性，准确性和/或完整性，并明确表示不作出任何明示或默示的担保，包括可商售性和针对特定目的的适用性。该信息只能供阁下内部使用，不得以任
 何形式复制或重新传播，并不得用作任何金融工具、产品或指数的基础或组成部分。此外，信息本质上不能用于判断购买或出售何种证券, 或何时购买或出售该证券。即使已被告知可
 能造成的损害, ESG 方均不承担与此处任何资料有关的任何错误或遗漏所引起的任何责任，也不对任何直接、间接、特殊、惩罚性、附带性或任何其他损害赔偿（包括利润损失）承担
-任何责任。 
-MSCI ESG Disclaimer: Although Haitong International’s information providers, including without limitation, MSCI ESG Research LLC and its affiliates (the “ESG Parties”), obtain information (the 
-“Information”) from sources they consider reliable, none of the ESG Parties warrants or guarantees the originality, accuracy and/or completeness, of any data herein and expressly disclaim all express 
-or implied warranties, including those of merchantability and fitness for a particular purpose. The Information may only be used for your internal use, may not be reproduced or redisseminated in 
-any form and may not be used as a basis for, or a component of, any financial instruments or products or indices. Further, none of the Information can in and of itself be used to determine which 
-securities to buy or sell or when to buy or sell them. None of the ESG Parties shall have any liability for any errors or omissions in connection with any data herein, or any liability for any direct, 
-indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of the possibility of such damages. 
-盟浪义利（FIN-ESG）数据通免责声明条款：在使用盟浪义利（FIN-ESG）数据之前，请务必仔细阅读本条款并同意本声明： 
+任何责任。
+MSCI ESG Disclaimer: Although Haitong International's information providers, including without limitation, MSCI ESG Research LLC and its affiliates (the "ESG Parties"), obtain information (the
+"Information") from sources they consider reliable, none of the ESG Parties warrants or guarantees the originality, accuracy and/or completeness, of any data herein and expressly disclaim all express
+or implied warranties, including those of merchantability and fitness for a particular purpose. The Information may only be used for your internal use, may not be reproduced or redisseminated in
+any form and may not be used as a basis for, or a component of, any financial instruments or products or indices. Further, none of the Information can in and of itself be used to determine which
+securities to buy or sell or when to buy or sell them. None of the ESG Parties shall have any liability for any errors or omissions in connection with any data herein, or any liability for any direct,
+indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of the possibility of such damages.
 第一条 义利（FIN-ESG）数据系由盟浪可持续数字科技有限责任公司（以下简称“本公司”）基于合法取得的公开信息评估而成，本公司对信息的准确性及完整性不作任何保证。对公司
 的评估结果仅供参考，并不构成对任何个人或机构投资建议，也不能作为任何个人或机构购买、出售或持有相关金融产品的依据。本公司不对任何个人或机构投资者因使用本数据表
-述的评估结果造成的任何直接或间接损失负责。  
+述的评估结果造成的任何直接或间接损失负责。
 第二条 盟浪并不因收到此评估数据而将收件人视为客户，收件人使用此数据时应根据自身实际情况作出自我独立判断。本数据所载内容反映的是盟浪在最初发布本数据日期当日的判
 断，盟浪有权在不发出通知的情况下更新、修订与发出其他与本数据所载内容不一致或有不同结论的数据。除非另行说明，本数据（如财务业绩数据等）仅代表过往表现，过往的业
-绩表现不作为日后回报的预测。  
+绩表现不作为日后回报的预测。
 第三条 本数据版权归本公司所有，本公司依法保留各项权利。未经本公司事先书面许可授权，任何个人或机构不得将本数据中的评估结果用于任何营利性目的，不得对本数据进行修
 改、复制、编译、汇编、再次编辑、改编、删减、缩写、节选、发行、出租、展览、表演、放映、广播、信息网络传播、摄制、增加图标及说明等，否则因此给盟浪或其他第三方造
-成损失的，由用户承担相应的赔偿责任，盟浪不承担责任。 
-第四条 如本免责声明未约定，而盟浪网站平台载明的其他协议内容（如《盟浪网站用户注册协议》《盟浪网用户服务（含认证）协议》《盟浪网隐私政策》等）有约定的，则按其他
-协议的约定执行；若本免责声明与其他协议约定存在冲突或不一致的，则以本免责声明约定为准。 
+成损失的，由用户承担相应的赔偿责任，盟浪不承担责任。
 SusallWave FIN-ESG Data Service Disclaimer: Please read these terms and conditions below carefully and confirm your agreement and acceptance with these terms before using SusallWave FIN-
-ESG Data Service. 
-1. 
-FIN-ESG Data is produced by SusallWave Digital Technology Co., Ltd. (In short, SusallWave)’s assessment based on legal publicly accessible information. SusallWave shall not be responsible 
-for any accuracy and completeness of the information. The assessment result is for reference only. It is not for any investment advice for any individual or institution and not for basis of purchasing, 
-selling or holding any relative financial products. We will not be liable for any direct or indirect loss of any individual or institution as a result of using SusallWave FIN-ESG Data. 
-2. 
-SusallWave do not consider recipients as customers for receiving these data. When using the data, recipients shall make your own independent judgment according to your practical individual 
-status. The contents of the data reflect the judgment of us only on the release day. We have right to update and amend the data and release other data that contains inconsistent contents or 
-different conclusions without notification. Unless expressly stated, the data (e.g., financial performance data) represents past performance only and the past performance cannot be viewed as the 
-prediction of future return. 
-3. 
-The copyright of this data belongs to SusallWave, and we reserve all rights in accordance with the law. Without the prior written permission of our company, none of individual or institution 
-can use these data for any profitable purpose. Besides, none of individual or institution can take actions such as amendment, replication, translation, compilation, re-editing, adaption, deletion, 
-abbreviation, excerpts, issuance, rent, exhibition, performance, projection, broadcast, information network transmission, shooting, adding icons and instructions. If any loss of SusallWave or any 
-third-party is caused by those actions, users shall bear the corresponding compensation liability. SusallWave shall not be responsible for any loss. 
-4. 
-If any term is not contained in this disclaimer but written in other agreements on our website (e.g. User Registration Protocol of SusallWave Website, User Service (including authentication) 
-Agreement of SusallWave Website, Privacy Policy of Susallwave Website), it should be executed according to other agreements. If there is any difference between this disclaim and other agreements, 
-this disclaimer shall be applied.     
- 
-重要免责声明： 
-非印度证券的研究报告：本报告由海通国际证券集团有限公司（“HTISGL”）的全资附属公司海通国际研究有限公司（“HTIRL”）发行，该公司是根据香港证券及期货条例（第571 章）持
-有第4 类受规管活动（就证券提供意见）的持牌法团。该研究报告在HTISGL 的全资附属公司Haitong International (Japan) K.K.（“HTIJKK”）的协助下发行，HTIJKK 是由日本关东财务局监
-管为投资顾问。 
- 
- 
- 
- 
-22 
-印度证券的研究报告：本报告由从事证券交易、投资银行及证券分析及受Securities and Exchange Board of India（“SEBI”）监管的Haitong Securities India Private Limited（“HTSIPL”）所发
-行，包括制作及发布涵盖BSE Limited（“BSE”）和National Stock Exchange of India Limited（“NSE”）上市公司（统称为「印度交易所」）的研究报告。HTSIPL 于2016 年12 月22 日被收购
-并成为海通国际证券集团有限公司（“HTISG”）的一部分。  
-所有研究报告均以海通国际为名作为全球品牌，经许可由海通国际证券股份有限公司及/或海通国际证券集团的其他成员在其司法管辖区发布。 
-本文件所载信息和观点已被编译或源自可靠来源，但HTIRL、HTISCL 或任何其他属于海通国际证券集团有限公司（“HTISG”）的成员对其准确性、完整性和正确性不做任何明示或暗示的
-声明或保证。本文件中所有观点均截至本报告日期，如有更改，恕不另行通知。本文件仅供参考使用。文件中提及的任何公司或其股票的说明并非意图展示完整的内容，本文件并非/
+ESG Data Service.
+FIN-ESG Data is produced by SusallWave Digital Technology Co., Ltd. (In short, SusallWave)'s assessment based on legal publicly accessible information. SusallWave shall not be responsible
+for any accuracy and completeness of the information. The assessment result is for reference only. It is not for any investment advice for any individual or institution and not for basis of purchasing,
+selling or holding any relative financial products. We will not be liable for any direct or indirect loss of any individual or institution as a result of using SusallWave FIN-ESG Data.
+SusallWave do not consider recipients as customers for receiving these data. When using the data, recipients shall make your own independent judgment according to your practical individual
+status. The contents of the data reflect the judgment of us only on the release day. We have right to update and amend the data and release other data that contains inconsistent contents or
+different conclusions without notification. Unless expressly stated, the data (e.g., financial performance data) represents past performance only and the past performance cannot be viewed as the
+prediction of future return.
+The copyright of this data belongs to SusallWave, and we reserve all rights in accordance with the law. Without the prior written permission of our company, none of individual or institution
+can use these data for any profitable purpose. Besides, none of individual or institution can take actions such as amendment, replication, translation, compilation, re-editing, adaption, deletion,
+abbreviation, excerpts, issuance, rent, exhibition, performance, projection, broadcast, information network transmission, shooting, adding icons and instructions. If any loss of SusallWave or any
+third-party is caused by those actions, users shall bear the corresponding compensation liability. SusallWave shall not be responsible for any loss.
+If any term is not contained in this disclaimer but written in other agreements on our website (e.g. User Registration Protocol of SusallWave Website, User Service (including authentication)
+Agreement of SusallWave Website, Privacy Policy of Susallwave Website), it should be executed according to other agreements. If there is any difference between this disclaim and other agreements,
+this disclaimer shall be applied.
+非印度证券的研究报告：本报告由海通国际证券集团有限公司（“HTISGL”）的全资附属公司海通国际研究有限公司（“HTIRL”）发行，该公司是根据香港证券及期货条例（第 571 章）持
+有第 4 类受规管活动（就证券提供意见）的持牌法团。该研究报告在 HTISGL 的全资附属公司 Haitong International (Japan) K.K.（“HTIJKK”）的协助下发行，HTIJKK 是由日本关东财务局监
+管为投资顾问。
+印度证券的研究报告:本报告由从事证券交易、投资银行及证券分析及受 Securities and Exchange Board of India（“SEBI”）监管的 Haitong Securities India Private Limited（“HTSIPL”）所发
+行，包括制作及发布涵盖 BSE Limited（“BSE”）和 National Stock Exchange of India Limited（“NSE”）上市公司（统称为「印度交易所」）的研究报告，HTSIPL 于 2016 年 12 月 22 日被收购
+并成为海通国际证券集团有限公司("HTISG")的一部分。
+所有研究报告均以海通国际为名作为全球品牌，经许可由海通国际证券股份有限公司及/或海通国际证券集团的其他成员在其司法管辖区发布。
+声明或保证。本文件中所有观点均截至本报告日期，如有更改，恕不另行通知。本文件仅供参考使用。文件中提及的任何公司或其股票的说明并非意图展示完整的内容，本文件并非！
 不应被解释为对证券买卖的明示或暗示地出价或征价。在某些司法管辖区，本文件中提及的证券可能无法进行买卖。如果投资产品以投资者本国货币以外的币种进行计价，则汇率变化
 可能会对投资产生不利影响。过去的表现并不一定代表将来的结果。某些特定交易，包括设计金融衍生工具的，有产生重大风险的可能性，因此并不适合所有的投资者。您还应认识到
-本文件中的建议并非为您量身定制。分析师并未考虑到您自身的财务情况，如您的财务状况和风险偏好。因此您必须自行分析并在适用的情况下咨询自己的法律、税收、会计、金融和
 其他方面的专业顾问，以期在投资之前评估该项建议是否适合于您。若由于使用本文件所载的材料而产生任何直接或间接的损失，HTISG 及其董事、雇员或代理人对此均不承担任何责
-任。  
-除对本文内容承担责任的分析师除外，HTISG 及我们的关联公司、高级管理人员、董事和雇员，均可不时作为主事人就本文件所述的任何证券或衍生品持有长仓或短仓以及进行买卖。
-HTISG 的销售员、交易员和其他专业人士均可向HTISG 的相关客户和公司提供与本文件所述意见相反的口头或书面市场评论意见或交易策略。HTISG 可做出与本文件所述建议或意见不
-一致的投资决策。但HTIRL 没有义务来确保本文件的收件人了解到该等交易决定、思路或建议。 
-请访问海通国际网站 www.equities.htisec.com ，查阅更多有关海通国际为预防和避免利益冲突设立的组织和行政安排的内容信息。 
-非美国分析师披露信息：本项研究首页上列明的海通国际分析师并未在FINRA 进行注册或者取得相应的资格，并且不受美国FINRA 有关与本项研究目标公司进行沟通、公开露面和自营
-证券交易的第2241 条规则之限制。 
-IMPORTANT DISCLAIMER 
-For research reports on non-Indian securities: The research report is issued by Haitong International Research Limited (“HTIRL”), a wholly owned subsidiary of Haitong International Securities Group Limited 
-(“HTISGL”) and a licensed corporation to carry on Type 4 regulated activity (advising on securities) for the purpose of the Securities and Futures Ordinance (Cap. 571) of Hong Kong, with the assistance 
-of Haitong International (Japan) K.K. (“HTIJKK”), a wholly owned subsidiary of HTISGL and which is regulated as an Investment Adviser by the Kanto Finance Bureau of Japan. 
-For research reports on Indian securities: The research report is issued by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) 
-registered Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited (“BSE”) and the National Stock 
-Exchange of India Limited (“NSE”) (collectively referred to as “Indian Exchanges”). HSIPL was acquired and became part of the Haitong International Securities Group of Companies (“HTISG”) on 22 
-December 2016.  
-All the research reports are globally branded under the name Haitong International and approved for distribution by Haitong International Securities Company Limited (“HTISCL”) and/or any other 
-members within HTISG in their respective jurisdictions. 
-The information and opinions contained in this research report have been compiled or arrived at from sources believed to be reliable and in good faith but no representation or warranty, express or 
-implied, is made by HTIRL, HTISCL, HSIPL, HTIJKK or any other members within HTISG from which this research report may be received, as to their accuracy, completeness or correctness. All opinions 
-expressed herein are as of the date of this research report and are subject to change without notice. This research report is for information purpose only. Descriptions of any companies or their 
-securities mentioned herein are not intended to be complete and this research report is not, and should not be construed expressly or impliedly as, an offer to buy or sell securities. The securities 
-referred to in this research report may not be eligible for purchase or sale in some jurisdictions. If an investment product is denominated in a currency other than an investor's home currency, a 
-change in exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results. Certain transactions, including those involving derivatives, give rise to 
-substantial risk and are not suitable for all investors. You should also bear in mind that recommendations in this research report are not tailor-made for you. The analyst has not taken into account 
-your unique financial circumstances, such as your financial situation and risk appetite. You must, therefore, analyze and should, where applicable, consult your own legal, tax, accounting, financial 
-and other professional advisers to evaluate whether the recommendations suits you before investment. Neither HTISG nor any of its directors, employees or agents accepts any liability whatsoever 
-for any direct or consequential loss arising from any use of the materials contained in this research report.  
-HTISG and our affiliates, officers, directors, and employees, excluding the analysts responsible for the content of this document, will from time to time have long or short positions in, act as principal 
-in, and buy or sell, the securities or derivatives, if any, referred to in this research report. Sales, traders, and other professionals of HTISG may provide oral or written market commentary or trading 
-strategies to the relevant clients and the companies within HTISG that reflect opinions that are contrary to the opinions expressed in this research report. HTISG may make investment decisions that 
-are inconsistent with the recommendations or views expressed in this research report. HTI is under no obligation to ensure that such other trading decisions, ideas or recommendations are brought 
-to the attention of any recipient of this research report. 
-Please refer to HTI’s website www.equities.htisec.com for further information on HTI’s organizational and administrative arrangements set up for the prevention and avoidance of conflicts of interest 
-with respect to Research. 
-Non U.S. Analyst Disclosure:  The HTI analyst(s) listed on the cover of this Research is (are) not registered or qualified as a  research analyst with FINRA and are not subject to U.S. FINRA Rule 2241 
-restrictions on communications with companies that are the subject of the Research; public appearances; and trading securities by a research analyst. 
-分发和地区通知： 
-除非下文另有规定，否则任何希望讨论本报告或者就本项研究中讨论的任何证券进行任何交易的收件人均应联系其所在国家或地区的海通国际销售人员。   
-香港投资者的通知事项：海通国际证券股份有限公司(“HTISCL”)负责分发该研究报告，HTISCL 是在香港有权实施第1 类受规管活动（从事证券交易）的持牌公司。该研究报告并不构成
-《证券及期货条例》（香港法例第571 章）（以下简称“SFO”）所界定的要约邀请，证券要约或公众要约。本研究报告仅提供给SFO 所界定的“专业投资者”。本研究报告未经过证券及
-期货事务监察委员会的审查。您不应仅根据本研究报告中所载的信息做出投资决定。本研究报告的收件人就研究报告中产生或与之相关的任何事宜请联系HTISCL 销售人员。 
-美国投资者的通知事项：本研究报告由HTIRL，HSIPL 或HTIJKK 编写。 HTIRL，HSIPL，HTIJKK 以及任何非HTISG 美国联营公司，均未在美国注册，因此不受美国关于研究报告编制和研
- 
- 
- 
- 
-23 
-究分析人员独立性规定的约束。本研究报告提供给依照1934 年“美国证券交易法”第15a-6 条规定的豁免注册的「美国主要机构投资者」（“Major U.S. Institutional Investor”）和「机构投
-资者」（”U.S. Institutional Investors”）。在向美国机构投资者分发研究报告时，Haitong International Securities (USA) Inc. （“HTI USA”） 将对报告的内容负责。任何收到本研究报告的美
-国投资者，希望根据本研究报告提供的信息进行任何证券或相关金融工具买卖的交易，只能通过HTI USA。HTI USA位于340 Madison Avenue, 12th Floor, New York, NY 10173，电话（212）
-351-6050。 HTI USA 是在美国于U.S. Securities and Exchange Commission（“SEC”）注册的经纪商，也是Financial Industry Regulatory Authority, Inc.（“FINRA”）的成员。 HTIUSA 不负责编
-写本研究报告，也不负责其中包含的分析。在任何情况下，收到本研究报告的任何美国投资者，不得直接与分析师直接联系，也不得通过HSIPL，HTIRL 或HTIJKK 直接进行买卖证券或
-相关金融工具的交易。本研究报告中出现的HSIPL，HTIRL 或HTIJKK 分析师没有注册或具备FINRA 的研究分析师资格，因此可能不受FINRA 第2241 条规定的与目标公司的交流，公开露
-面和分析师账户持有的交易证券等限制。投资本研究报告中讨论的任何非美国证券或相关金融工具（包括ADR）可能存在一定风险。非美国发行的证券可能没有注册，或不受美国法规
+HTISG 的销售员、交易员和其他专业人士均可向 HTISG 的相关客户和公司提供与本文件所述意见相反的口头或书面市场评论意见或交易策略。HTISG 可做出与本文件所述建议或意见不
+一致的投资决策。但 HTIRL 没有义务来确保本文件的收件人了解到该等交易决定、思路或建议。
+证券交易的第 2241 条规则之限制。
+IMPORTANT DISCLAIMER
+For research reports on non-Indian securities: The research report is issued by Haitong International Research Limited ("HTIRI"), a wholly owned subsidiary of Haitong International Securities Group Limited
+("HTISGI") and a licensed corporation to carry on Type 4 regulated activity (advising on securities) for the purpose of the Securities and Futures Ordinance (Cap. 571) of Hong Kong, with the assistance
+of Haitong International (Japan) K.K. ("HTIJKK"), a wholly owned subsidiary of HTISGL and which is regulated as an Investment Adviser by the Kanto Finance Bureau of Japan.
+For research reports on Indian securities: The research report is issued by Haitong Securities India Private Limited ("HSIPL"), an Indian company and a Securities and Exchange Board of India ("SEBI")
+registered Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited ("BSE") and the National Stock
+December 2016.
+All the research reports are globally branded under the name Haitong International and approved for distribution by Haitong International Securities Company Limited ("HTISCL") and/or any other
+members within HTISG in their respective jurisdictions.
+The information and opinions contained in this research report have been compiled or arrived at from sources believed to be reliable and in good faith but no representation or warranty, express or
+implied, is made by HTIRL, HTISCL, HSIPL, HTIJKK or any other members within HTISG from which this research report may be received, as to their accuracy, completeness or correctness. All opinions
+expressed herein are as of the date of this research report and are subject to change without notice. This research report is for information purpose only. Descriptions of any companies or their
+securities mentioned herein are not intended to be complete and this research report is not, and should not be construed expressly or impliedly as, an offer to buy or sell securities. The securities
+referred to in this research report may not be eligible for purchase or sale in some jurisdictions. If an investment product is denominated in a currency other than an investor's home currency, a
+change in exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results. Certain transactions, including those involving derivatives, give rise to
+substantial risk and are not suitable for all investors. You should also bear in mind that recommendations in this research report are not tailor-made for you. The analyst has not taken into account
+your unique financial circumstances, such as your financial situation and risk appetite. You must, therefore, analyze and should, where applicable, consult your own legal, tax, accounting, financial
+and other professional advisers to evaluate whether the recommendations suits you before investment. Neither HTISG nor any of its directors, employees or agents accepts any liability whatsoever
+for any direct or consequential loss arising from any use of the materials contained in this research report.
+HTISG and our affiliates, officers, directors, and employees, excluding the analysts responsible for the content of this document, will from time to time have long or short positions in, act as principal
+in, and buy or sell, the securities or derivatives, if any, referred to in this research report. Sales, traders, and other professionals of HTISG may provide oral or written market commentary or trading
+strategies to the relevant clients and the companies within HTISG that reflect opinions that are contrary to the opinions expressed in this research report. HTISG may make investment decisions that
+are inconsistent with the recommendations or views expressed in this research report. HTI is under no obligation to ensure that such other trading decisions, ideas or recommendations are brought
+to the attention of any recipient of this research report.
+with respect to Research.
+restrictions on communications with companies that are the subject of the Research; public appearances; and trading securities by a research analyst.
+分发和地区通知:
+除非下文另有规定，否则任何希望讨论本报告或者就本项研究中讨论的任何证券进行任何交易的收件人均应联系其所在国家或地区的海通国际销售人员。
+香港投資者的通知事项：海通国际证券股份有限公司(“HTISCL”)负责分发该研究报告，HTISCL 是在香港有权实施第 1 类受规管活动（从事证券交易）的特牌公司。该研究报告并不构成
+《证券及期货条例》（香港法例第 571 章）（以下简称“SFO”）所界定的要约邀请，证券要约或公众要约。本研究报告仅提供给 SFO 所界定的“专业投资者”。本研究报告未经过证券及
+期货事务监察委员会的审查。您不应仅根据本研究报告中所载的信息做出投资决定。本研究报告的收件人就研究报告中产生或与之相关的任何事宜请联系 HTISCL 销售人员。
+美国投资者的通知事项：本研究报告由 HTIRL，HSIPL 或 HTIJKK 编写。 HTIRL，HSIPL，HTIJKK 以及任何非 HTISG 美国联营公司，均未在美国注册，因此不受美国关于研究报告编制和研
+究分析人员独立性规定的约束。本研究报告提供给依照 1934 年“美国证券交易法”第 15a-6 条规定的豁免注册的「美国主要机构投资者」（“Major U.S. Institutional Investor”）和「机构投
+资者」（“U.S. Institutional Investors”）。在向美国机构投资者分发研究报告时，Haitong International Securities (USA) Inc. （“HTI USA”） 将对报告的内容负责。任何收到本研究报告的美
+351-6050， HTI USA 是在美国于 U.S. Securities and Exchange Commission（“SEC”）注册的经纪商，也是 Financial Industry Regulatory Authority, Inc.（“FINRA”）的成员。 HTIUSA 不负责编
 的约束。有关非美国证券或相关金融工具的信息可能有限制。外国公司可能不受审计和汇报的标准以及与美国境内生效相符的监管要求。本研究报告中以美元以外的其他货币计价的任
-何证券或相关金融工具的投资或收益的价值受汇率波动的影响，可能对该等证券或相关金融工具的价值或收入产生正面或负面影响。美国收件人的所有问询请联系： 
- 
-Haitong International Securities (USA) Inc. 
-340 Madison Avenue, 12th Floor 
-New York, NY 10173 
-联系人电话：(212) 351 6050 
-DISTRIBUTION AND REGIONAL NOTICES 
-Except as otherwise indicated below, any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTI’s research should contact the Haitong International 
-salesperson in their own country or region.   
-Notice to Hong Kong investors: The research report is distributed by Haitong International Securities Company Limited (“HTISCL”), which is a licensed corporation to carry on Type 1 regulated activity 
-(dealing in securities) in Hong Kong. This research report does not constitute a solicitation or an offer of securities or an invitation to the public within the meaning of the SFO. This research report 
-is only to be circulated to "Professional Investors" as defined in the SFO. This research report has not been reviewed by the Securities and Futures Commission. You should not make investment 
-decisions solely on the basis of the information contained in this research report. Recipients of this research report are to contact HTISCL salespersons in respect of any matters arising from, or in 
-connection with, the research report. 
-Notice to U.S. investors: As described above, this research report was prepared by HTIRL, HSIPL or HTIJKK. Neither HTIRL, HSIPL, HTIJKK, nor any of the non U.S. HTISG affiliates is registered in the 
-United States and, therefore, is not subject to U.S. rules regarding the preparation of research reports and the independence of research analysts.  This research report is provided for distribution 
-to “major U.S. institutional investors” and “U.S. institutional investors” in reliance on the exemption from registration provided by Rule 15a-6 of the U.S. Securities Exchange Act of 1934, as amended. 
-When distributing research reports to “U.S. institutional investors,” HTI USA will accept the responsibilities for the content of the reports.  Any U.S. recipient of this research report wishing to effect 
-any transaction to buy or sell securities or related financial instruments based on the information provided in this research report should do so only through Haitong International Securities (USA) 
-Inc. (“HTI USA”), located at 340 Madison Avenue, 12th Floor, New York, NY 10173, USA; telephone (212) 351 6050.  HTI USA is a broker-dealer registered in the U.S. with the U.S. Securities and 
-Exchange Commission (the “SEC”) and a member of the Financial Industry Regulatory Authority, Inc. (“FINRA”).  HTI USA is not responsible for the preparation of this research report nor for the 
-analysis contained therein.  Under no circumstances should any U.S. recipient of this research report contact the analyst directly or effect any transaction to buy or sell securities or related financial 
-instruments directly through HSIPL, HTIRL or HTIJKK.  The HSIPL, HTIRL or HTIJKK analyst(s) whose name appears in this research report is not registered or qualified as a research analyst with FINRA 
-and, therefore, may not be subject to FINRA Rule 2241 restrictions on communications with a subject company, public appearances and trading securities held by a research analyst 
-account.  Investing in any non-U.S. securities or related financial instruments (including ADRs) discussed in this research report may present certain risks.  The securities of non-U.S. issuers may not 
-be registered with, or be subject to U.S. regulations.  Information on such non-U.S. securities or related financial instruments may be limited. Foreign companies may not be subject to audit and 
-reporting standards and regulatory requirements comparable to those in effect within the U.S.  The value of any investment or income from any securities or related financial instruments discussed 
-in this research report denominated in a currency other than U.S. dollars is subject to exchange rate fluctuations that may have a positive or adverse effect on the value of or income from such 
-securities or related financial instruments. All inquiries by U.S. recipients should be directed to: 
-Haitong International Securities (USA) Inc. 
-340 Madison Avenue, 12th Floor 
-New York, NY 10173 
-Attn:  Sales Desk at (212) 351 6050 
-中华人民共和国的通知事项：在中华人民共和国（下称“中国”，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用的中国法律法规而收到该材料的人
+何证券或相关金融工具的投资或收益的价值受汇率波动的影响，可能对该等证券或相关金融工具的价值或收入产生正面或负面影响。美国收件人的所有问询请联系：
+Haitong International Securities (USA) Inc.
+340 Madison Avenue, 12th Floor
+DISTRIBUTION AND REGIONAL NOTICES
+Except as otherwise indicated below, any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTI's research should contact the Haitong International
+salesperson in their own country or region.
+Notice to Hong Kong investors: The research report is distributed by Haitong International Securities Company Limited ("HTISCL"), which is a licensed corporation to carry on Type 1 regulated activity
+(dealing in securities) in Hong Kong. This research report does not constitute a solicitation or an offer of securities or an invitation to the public within the meaning of the SFO. This research report
+is only to be circulated to "Professional Investors" as defined in the SFO. This research report has not been reviewed by the Securities and Futures Commission. You should not make investment
+decisions solely on the basis of the information contained in this research report. Recipients of this research report are to contact HTISCL salespersons in respect of any matters arising from, or in
+connection with, the research report.
+Notice to U.S. investors: As described above, this research report was prepared by HTIRL, HSIPL or HTIJKK. Neither HTIRL, HSIPL, HTIJKK, nor any of the non U.S. HTISG affiliates is registered in the
+United States and, therefore, is not subject to U.S. rules regarding the preparation of research reports and the independence of research analysts. This research report is provided for distribution
+to "major U.S. institutional investors" and "U.S. institutional investors" in reliance on the exemption from registration provided by Rule 15a-6 of the U.S. Securities Exchange Act of 1934, as amended.
+When distributing research reports to "U.S. institutional investors," HTI USA will accept the responsibilities for the content of the reports. Any U.S. recipient of this research report wishing to effect
+any transaction to buy or sell securities or related financial instruments based on the information provided in this research report should do so only through Haitong International Securities (USA)
+Inc. ("HTI USA"), located at 340 Madison Avenue, 12th Floor, New York, NY 10173, USA; telephone (212) 351 6050. HTI USA is a broker-dealer registered in the U.S. with the U.S. Securities and
+Exchange Commission (the "SEC") and a member of the Financial Industry Regulatory Authority, Inc. ("FINRA"). HTI USA is not responsible for the preparation of this research report nor for the
+analysis contained therein. Under no circumstances should any U.S. recipient of this research report contact the analyst directly or effect any transaction to buy or sell securities or related financial
+instruments directly through HSIPL, HTIRL or HTIJKK. The HSIPL, HTIRL or HTIJKK analyst(s) whose name appears in this research report is not registered or qualified as a research analyst with FINRA
+and, therefore, may not be subject to FINRA Rule 2241 restrictions on communications with a subject company, public appearances and trading securities held by a research analyst
+account. Investing in any non-U.S. securities or related financial instruments (including ADRs) discussed in this research report may present certain risks. The securities of non-U.S. issuers may not
+be registered with, or be subject to U.S. regulations. Information on such non-U.S. securities or related financial instruments may be limited. Foreign companies may not be subject to audit and
+reporting standards and regulatory requirements comparable to those in effect within the U.S. The value of any investment or income from any securities or related financial instruments discussed
+in this research report denominated in a currency other than U.S. dollars is subject to exchange rate fluctuations that may have a positive or adverse effect on the value of or income from such
+securities or related financial instruments. All inquiries by U.S. recipients should be directed to:
+Haitong International Securities (USA) Inc.
+340 Madison Avenue, 12th Floor
+中华人民共和国的通知事项:在中华人民共和国（下称“中国”，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用的中国法律法规而收到该材料的人
 员方可使用该材料。并且根据相关法律法规，该材料中的信息并不构成“在中国从事生产、经营活动”。本文件在中国并不构成相关证券的公共发售或认购。无论根据法律规定或其他任
-何规定，在取得中国政府所有的批准或许可之前，任何法人或自然人均不得直接或间接地购买本材料中的任何证券或任何实益权益。接收本文件的人员须遵守上述限制性规定。 
-加拿大投资者的通知事项：在任何情况下该等材料均不得被解释为在任何加拿大的司法管辖区内出售证券的要约或认购证券的要约邀请。本材料中所述证券在加拿大的任何要约或出
-售行为均只能在豁免向有关加拿大证券监管机构提交招股说明书的前提下由Haitong International Securities (USA) Inc. （“HTI USA”）予以实施，该公司是一家根据National Instrument 31-
-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations（“NI 31-103”）的规定得到「国际交易商豁免」（“International Dealer Exemption” ）的交易商，位于艾伯
+何规定，在取得中国政府所有的批准或许可之前，任何法人或自然人均不得直接或间接地购买本材料中的任何证券或任何实益权益。接收本文件的人员须遵守上述限制性规定。
+加拿大投资者的通知事项:在任何情况下该等材料均不得被解释为在任何加拿大的司法管辖区内出售证券的要约或认购证券的要约邀请。本材料中所述证券在加拿大的任何要约或出
+售行为均只能在豁免向有关加拿大证券监管机构提交招贬说明书的前提下由 Haitong International Securities (USA) Inc. （“HTI USA”）予以实施，该公司是一家根据 National Instrument 31-
+103 Registration Requirements, Exemptions and Ongoing Registrant Obligations ("NI 31-103") 的规定得到 「国际交易商豁免」 ("International Dealer Exemption" ) 的交易商，位于艾伯
 塔省、不列颠哥伦比亚省、安大略省和魁北克省。在加拿大，该等材料在任何情况下均不得被解释为任何证券的招股说明书、发行备忘录、广告或公开发行。加拿大的任何证券委员会
 或类似的监管机构均未审查或以任何方式批准该等材料、其中所载的信息或所述证券的优点，任何与此相反的声明即属违法。在收到该等材料时，每个加拿大的收件人均将被视为属于
-National Instrument 45-106 Prospectus Exemptions第1.1节或者Securities Act (Ontario)第73.3(1)节所规定的「认可投资者」（“Accredited Investor”），或者在适用情况下National Instrument 
-31-103 第1.1 节所规定的「许可投资者」（“Permitted Investor”）。 
-新加坡投资者的通知事项：本研究报告由Haitong International Securities (Singapore) Pte Ltd（“HTISSPL”）[公司注册编号201311400G] 于新加坡提供。HTISSPL 是符合《财务顾问法》（第
-110 章）（“FAA”）定义的豁免财务顾问，可（a）提供关于证券，集体投资计划的部分，交易所衍生品合约和场外衍生品合约的建议（b）发行或公布有关证券、交易所衍生品合约和
-场外衍生品合约的研究分析或研究报告。本研究报告仅提供给符合《证券及期货法》（第289 章）第4A 条项下规定的机构投资者。对于因本研究报告而产生的或与之相关的任何问
- 
- 
- 
- 
-24 
-题，本研究报告的收件人应通过以下信息与HTISSPL 联系： 
-Haitong International Securities (Singapore) Pte. Ltd 
-50 Raffles Place, #33-03 Singapore Land Tower, Singapore 048623 
-电话: (65) 6536 1920 
-日本投资者的通知事项：本研究报告由海通国际证券有限公司所发布，旨在分发给从事投资管理的金融服务提供商或注册金融机构（根据日本金融机构和交易法（“FIEL”））第61
-（1）条，第17-11（1）条的执行及相关条款）。 
-英国及欧盟投资者的通知事项：本报告由从事投资顾问的Haitong International Securities Company Limited 所发布，本报告只面向有投资相关经验的专业客户发布。任何投资或与本报告
-相关的投资行为只面对此类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。Haitong International Securities Company Limited 的分支机构的净长期或短期金融权益可能
-超过本研究报告中提及的实体已发行股本总额的0.5％。特别提醒有些英文报告有可能此前已经通过中文或其它语言完成发布。 
-澳大利亚投资者的通知事项：Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited 和Haitong International Securities (UK) Limited 分别根据澳
-大利亚证券和投资委员会（以下简称“ASIC”）公司（废除及过度性）文书第2016/396 号规章在澳大利亚分发本项研究，该等规章免除了根据2001 年《公司法》在澳大利亚为批发客户
-提供金融服务时海通国际需持有澳大利亚金融服务许可的要求。ASIC 的规章副本可在以下网站获取：www.legislation.gov.au。海通国际提供的金融服务受外国法律法规规定的管制，该
-等法律与在澳大利亚所适用的法律存在差异。 
-印度投资者的通知事项：本报告由从事证券交易、投资银行及证券分析及受Securities and Exchange Board of India（“SEBI”）监管的Haitong Securities India Private Limited（“HTSIPL”）所
-发布，包括制作及发布涵盖BSE Limited（“BSE”）和National Stock Exchange of India Limited（“NSE”）（统称为「印度交易所」）研究报告。 
-本项研究仅供收件人使用，未经海通国际的书面同意不得予以复制和再次分发。 
-版权所有：海通国际证券集团有限公司2019 年。保留所有权利。 
-People’s Republic of China (PRC): In the PRC, the research report is directed for the sole use of those who receive the research report in accordance with the applicable PRC laws and regulations. 
-Further, the information on the research report does not constitute "production and business activities in the PRC" under relevant PRC laws. This research report does not constitute a public offer 
-of the security, whether by sale or subscription, in the PRC. Further, no legal or natural persons of the PRC may directly or indirectly purchase any of the security or any beneficial interest therein 
-without obtaining all prior PRC government approvals or licenses that are required, whether statutorily or otherwise. Persons who come into possession of this research are required to observe 
-these restrictions. 
-Notice to Canadian Investors: Under no circumstances is this research report to be construed as an offer to sell securities or as a solicitation of an offer to buy securities in any jurisdiction of Canada. 
-Any offer or sale of the securities described herein in Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and 
-only by Haitong International Securities (USA) Inc., a dealer relying on the “international dealer exemption” under National Instrument 31-103 Registration Requirements, Exemptions and Ongoing 
-Registrant Obligations (“NI 31-103”) in Alberta, British Columbia, Ontario and Quebec. This research report is not, and under no circumstances should be construed as, a prospectus, an offering 
-memorandum, an advertisement or a public offering of any securities in Canada. No securities commission or similar regulatory authority in Canada has reviewed or in any way passed upon this 
-research report, the information contained herein or the merits of the securities described herein and any representation to the contrary is an offence. Upon receipt of this research report, each 
-Canadian recipient will be deemed to have represented that the investor is an “accredited investor” as such term is defined in section 1.1 of National Instrument 45-106 Prospectus Exemptions or, 
-in Ontario, in section 73.3(1) of the Securities Act (Ontario), as applicable, and a “permitted client” as such term is defined in section 1.1 of NI 31-103, respectively. 
-Notice to Singapore investors: This research report is provided in Singapore by or through Haitong International Securities (Singapore) Pte Ltd (“HTISSPL”) [Co Reg No 201311400G. HTISSPL is an 
-Exempt Financial Adviser under the Financial Advisers Act (Cap. 110) (“FAA”) to (a) advise on securities, units in a collective investment scheme, exchange-traded derivatives contracts and over-the-
-counter derivatives contracts and (b) issue or promulgate research analyses or research reports on securities, exchange-traded derivatives contracts and over-the-counter derivatives contracts. This 
-research report is only provided to institutional investors, within the meaning of Section 4A of the Securities and Futures Act (Cap. 289). Recipients of this research report are to contact HTISSPL via 
-the details below in respect of any matters arising from, or in connection with, the research report: 
-Haitong International Securities (Singapore) Pte. Ltd. 
-10 Collyer Quay, #19-01 - #19-05 Ocean Financial Centre, Singapore 049315 
-Telephone: (65) 6536 1920 
-Notice to Japanese investors: This research report is distributed by Haitong International Securities Company Limited and intended to be distributed to Financial Services Providers or Registered 
-Financial Institutions engaged in investment management (as defined in the Japan Financial Instruments and Exchange Act ("FIEL") Art. 61(1), Order for Enforcement of FIEL Art. 17-11(1), and related 
-articles). 
-Notice to UK and European Union investors: This research report is distributed by Haitong International Securities Company Limited. This research is directed at persons having professional 
-experience in matters relating to investments. Any investment or investment activity to which this research relates is available only to such persons or will be engaged in only with such persons. 
-Persons who do not have professional experience in matters relating to investments should not rely on this research.  Haitong International Securities Company Limited’s affiliates may have a net 
-long or short financial interest in excess of 0.5% of the total issued share capital of the entities mentioned in this research report.  Please be aware that any report in English may have been published 
-previously in Chinese or another language. 
-Notice to Australian investors: The research report is distributed in Australia by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong 
-International Securities (UK) Limited in reliance on ASIC Corporations (Repeal and Transitional) Instrument 2016/396, which exempts those HTISG entities from the requirement to hold an Australian 
-financial services license under the Corporations Act 2001 in respect of the financial services it provides to wholesale clients in Australia.  A copy of the ASIC Class Orders may be obtained at the 
-following website, www.legislation.gov.au.  Financial services provided by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong 
-International Securities (UK) Limited are regulated under foreign laws and regulatory requirements, which are different from the laws applying in Australia. 
- 
- 
- 
- 
-25 
-Notice to Indian investors: The research report is distributed by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) registered 
-Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited (“BSE”) and the National Stock Exchange of 
-India Limited (“NSE”) (collectively referred to as “Indian Exchanges”).   
-This research report is intended for the recipients only and may not be reproduced or redistributed without the written consent of an authorized signatory of HTISG. 
-Copyright: Haitong International Securities Group Limited 2019. All rights reserved. 
-http://equities.htisec.com/x/legal.html 
- 
- 
- 
+National Instrument 45-106 Prospectus Exemptions 第 1.1 节或者 Securities Act (Ontario) 第 73.3(1)节所规定的「认可投资者」（"Accredited Investor"），或者在适用情况下 National Instrument
+31-103 第 1.1 节所规定的「许可投资者」("Permitted Investor")。
+新加坡投資者的通知事項：本研究报告由 Haitong International Securities (Singapore) Pte Ltd（“HTISSPL”）[公司注册编号 2013114006] 于新加坡提供。HTISSPL是符合《财务顾问法》（第
+110 章) ("FAA") 定义的豁免财务顾问，可(a) 提供关于证券，集体投资计划的部分，交易所衍生品合约和场外衍生品合约的建议(b) 发行或公布有关证券、交易所衍生品合约和
+场外衍生品合约的研究分析或研究报告。本研究报告仅提供给符合《证券及期货法》（第 289 章）第 4A 条项下规定的机构投资者。对于因本研究报告而产生的或与之相关的任何问
+题，本研究报告的收件人应通过以下信息与 HTISSPL 联系：
+Haitong International Securities (Singapore) Pte. Ltd
+(1)条,第17-11(1)条的执行及相关条款)。
+英国及欧盟投资者的通知事项：本报告由从事投资顾问的 Haitong International Securities Company Limited 所发布，本报告只面向有投资相关经验的专业客户发布。任何投资或与本报告
+相关的投资行为只面对比类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。Haitong International Securities Company Limited 的分支机构的净长期或短期金融权益可能
+超过本研究报告中提及的实体已发行股本总额的 0.5%。特别提醒有些英文报告有可能此前已经通过中文或其它语言完成发布。
+澳大利亚投资者的通知事项：Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited 和 Haitong International Securities (UK) Limited 分别根据澳
+大利亚证券和投资委员会（以下简称“ASIC”）公司（废除及过度性）文书第 2016/396 号规章在澳大利亚分发本项研究，该等规章免除了根据 2001 年《公司法》在澳大利亚为批发客户
+等法律与在澳大利亚所适用的法律存在差异。
+印度投资者的通知事项：本报告由从事证券交易、投资银行及证券分析及受 Securities and Exchange Board of India（“SEBI”）监管的 Haitong Securities India Private Limited（“HTSIPL”）所
+发布，包括制作及发布涵盖 BSE Limited（“BSE”）和 National Stock Exchange of India Limited（“NSE”）（统称为 「印度交易所」 ）研究报告。
+本项研究仅供收件人使用，未经海通国际的书面同意不得予以复制和再次分发。
+版权所有:海通国际证券集团有限公司 2019 年。保留所有权利。
+People's Republic of China (PRC): In the PRC, the research report is directed for the sole use of those who receive the research report in accordance with the applicable PRC laws and regulations.
+Further, the information on the research report does not constitute "production and business activities in the PRC" under relevant PRC laws. This research report does not constitute a public offer
+of the security, whether by sale or subscription, in the PRC. Further, no legal or natural persons of the PRC may directly or indirectly purchase any of the security or any beneficial interest therein
+without obtaining all prior PRC government approvals or licenses that are required, whether statutorily or otherwise. Persons who come into possession of this research are required to observe
+these restrictions.
+Notice to Canadian Investors: Under no circumstances is this research report to be construed as an offer to sell securities or as a solicitation of an offer to buy securities in any jurisdiction of Canada.
+Any offer or sale of the securities described herein in Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and
+only by Haitong International Securities (USA) Inc., a dealer relying on the "international dealer exemption" under National Instrument 31-103 Registration Requirements, Exemptions and Ongoing
+Registrant Obligations ("NI 31-103") in Alberta, British Columbia, Ontario and Quebec. This research report is not, and under no circumstances should be construed as, a prospectus, an offering
+memorandum, an advertisement or a public offering of any securities in Canada. No securities commission or similar regulatory authority in Canada has reviewed or in any way passed upon this
+research report, the information contained herein or the merits of the securities described herein and any representation to the contrary is an offence. Upon receipt of this research report, each
+Canadian recipient will be deemed to have represented that the investor is an "accredited investor" as such term is defined in section 1.1 of National Instrument 45-106 Prospectus Exemptions or,
+in Ontario, in section 73.3(1) of the Securities Act (Ontario), as applicable, and a "permitted client" as such term is defined in section 1.1 of NI 31-103, respectively.
+Notice to Singapore investors: This research report is provided in Singapore by or through Haitong International Securities (Singapore) Pte Ltd ("HTISSPL") [Co Reg No 201311400G. HTISSPL is an
+Exempt Financial Adviser under the Financial Advisers Act (Cap. 110) ("FAA") to (a) advise on securities, units in a collective investment scheme, exchange-traded derivatives contracts and over-the-
+counter derivatives contracts and (b) issue or promulgate research analyses or research reports on securities, exchange-traded derivatives contracts and over-the-counter derivatives contracts. This
+research report is only provided to institutional investors, within the meaning of Section 4A of the Securities and Futures Act (Cap. 289). Recipients of this research report are to contact HTISSPL via
+the details below in respect of any matters arising from, or in connection with, the research report:
+Haitong International Securities (Singapore) Pte. Ltd.
+Notice to Japanese investors: This research report is distributed by Haitong International Securities Company Limited and intended to be distributed to Financial Services Providers or Registered
+Financial Institutions engaged in investment management (as defined in the Japan Financial Instruments and Exchange Act ("FIEL") Art. 61(1), Order for Enforcement of FIEL Art. 17-11(1), and related
+articles).
+Notice to UK and European Union investors: This research report is distributed by Haitong International Securities Company Limited. This research is directed at persons having professional
+experience in matters relating to investments. Any investment or investment activity to which this research relates is available only to such persons or will be engaged in only with such persons.
+Persons who do not have professional experience in matters relating to investments should not rely on this research. Haitong International Securities Company Limited's affiliates may have a net
+long or short financial interest in excess of 0.5% of the total issued share capital of the entities mentioned in this research report. Please be aware that any report in English may have been published
+previously in Chinese or another language.
+Notice to Australian investors: The research report is distributed in Australia by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong
+International Securities (UK) Limited in reliance on ASIC Corporations (Repeal and Transitional) Instrument 2016/396, which exempts those HTISG entities from the requirement to hold an Australian
+financial services license under the Corporations Act 2001 in respect of the financial services it provides to wholesale clients in Australia. A copy of the ASIC Class Orders may be obtained at the
+International Securities (UK) Limited are regulated under foreign laws and regulatory requirements, which are different from the laws applying in Australia.
+Notice to Indian investors: The research report is distributed by Haitong Securities India Private Limited ("HSIPI"), an Indian company and a Securities and Exchange Board of India ("SEBI") registered
+Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited ("BSE") and the National Stock Exchange of
+India Limited ("NSE") (collectively referred to as "Indian Exchanges").
+This research report is intended for the recipients only and may not be reproduced or redistributed without the written consent of an authorized signatory of HTISG.
+Copyright: Haitong International Securities Group Limited 2019. All rights reserved.

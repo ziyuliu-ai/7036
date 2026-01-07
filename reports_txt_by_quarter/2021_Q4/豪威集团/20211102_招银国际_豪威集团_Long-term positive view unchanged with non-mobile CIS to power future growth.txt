@@ -1,1813 +1,219 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-China Technology Sector 
- 
-Lily Yang, Ph.D 
-(852) 3916 3716 
-lilyyang@cmbi.com.hk 
- 
-Alex Ng 
-(852) 3900 0881 
-alexng@cmbi.com.hk 
- 
- 
- 
-Stock Data 
-Mkt Cap (RMBmn) 
-231,182
-Avg 3 mths t/o (RMBmn) 
-2,116
-52w High/Low (RMB)   
- 345/184.99
-Total Issued Shares (mn) 
-869.1
-Source: Bloomberg 
- 
-Shareholding Structure 
-Yu Renrong 
-30.85% 
-SX Weihao Equity Invest. FD 
-9.30% 
-HKSCC 
-5.18% 
-Source: Company data 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-9.0% 
-8.7%
-3-mth 
--15.3% 
--18.6%
-6-mth 
--12.8% 
--14.5%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Auditor: BDO 
- 
- 
-Recent report: 
-1. China CIS market: Beginning of 
-multi-year growth cycle; Initiate BUY 
-on Willsemi and GalaxyCore – 24 
-Aug 2021 (Link) 
-2. The next chapter beyond mobile CIS 
-is coming – 27 Aug 2021 (Link) 
- 
- 
-0.0
-50.0
-100.0
-150.0
-200.0
-250.0
-300.0
-350.0
-400.0
-Oct-20
-Dec-20 Feb-21
-Apr-21
-Jun-21
-Aug-21
-603501 CH
-shcomp  (rebased)
-(RMB)
-BUY (Maintain) 
-Target Price 
-RMB 346.60 
-(Previous TP           RMB 346.90) 
-Up/Downside 
-  +30% 
-Current Price 
-RMB 266.00 
-1 
-1 Nov 2021 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Willsemi released 3Q21 results. Rev./NP of RMB5.9bn/1.3bn (-1.0%/73.1% YoY), 
-largely in-line with preannouncement of net profit earlier, due to weak smartphone 
-sales and supply chain constraints. Considering underlying negative factors 
-which would last longer, we revised down our FY21E-23E rev. forecasts, but 
-raised margin est. due to improved product mix. We remain positive on Willsemi 
-and believe its non-mobile CIS business will maintain strong momentum and 
-power the company’s future growth. Maintain BUY rating with TP slightly 
-adjusted to RMB346.6, given expected weak performance in global smartphone 
-sales and fast growth seen in non-mobile CIS business. 
- 3Q mobile CIS business was challenging; new products will help gain 
-market share in FY22E. 3Q global smartphone shipment declined by 6% YoY 
-(Counterpoint) due to component shortage and weak consumer demand. 
-Stronger sales were observed in mid- to high-end models (evidenced by 
-recovering Sony’s CIS sales in 3Q). Although we hold a neutral view on 
-smartphone market growth into 2022, especially for non-Apple brands, we 
-believe Willsemi can still gain share (in RMB1k-2k and RMB3k+ models) with 
-its new 50MP/100MP/200MP products. 
- GPM improved to 35.5% as non-mobile CIS accounted for 50% of 3Q CIS 
-sales. Non-mobile CIS continued lifting Company’s profitability. GPM 
-improved to 35.5% (vs. 29.9%/33.7% in 2020/2Q21). We believe the trend is 
-sustainable with rapid growth in auto, AR/VR segments. We are positive on 
-Willsemi’s auto CIS business considering the growth from both surging market 
-demand and increasing market share. Auto CIS market is experiencing a 
-similar path of smartphone, with higher ASP/quantity. Willsemi is closing its 
-market share gap with On semi. We expect to see continuous strong growth 
-in its auto CIS business despite the prolonged chip shortage issue. 
- Maintain BUY rating with revised TP of RMB346.6 based on 50x FY22E 
-P/E. We cut our FY21E-23E revenue forecast by 8%-16%, considering weak 
-estimates of global smartphone sales and prolonged supply chain constraints. 
-Meanwhile, we raised our margin estimates by 1pt-1.3pt due to improved 
-product mix. Potential upsides include: 1) faster-than-expected ease of supply 
-chain constraints; 2) new device/killer app released in VR/AR. Potential risks 
-include: 1) worse-than-expected global economy that curbs consumer 
-spending and 2) overhung chip shortage led to unfilled demand. 
-Earnings Summary 
-(YE 31 Dec) 
-FY19A 
-FY20A 
-FY21E 
-FY22E 
-FY23E 
-Revenue (RMB mn) 
-13,632  
-19,824  
-24,470  
-32,968  
-41,635  
-YoY growth (%) 
-- 
-45.4% 
-23.4% 
-34.7% 
-26.3% 
-Gross profit (RMB mn) 
-3,734  
-5,930  
-8,261  
-11,260  
-14,293  
-Gross profit margin % 
-27.4% 
-29.9% 
-33.8% 
-34.2% 
-34.3% 
-Net profit (RMB mn) 
-466  
-2,706  
-4,656  
-6,180  
-8,056  
-Net profit margin % 
-3.4% 
-13.7% 
-19.0% 
-18.7% 
-19.3% 
-EPS (RMB) 
-0.76  
-3.21  
-5.22  
-6.93  
-9.04  
-YoY growth (%) 
-- 
-322.4% 
-62.7% 
-32.7% 
-30.3% 
-Consensus EPS (RMB) 
-- 
-3.21  
-5.30  
-6.76  
-8.48  
-P/E (x) 
-350.0  
-82.9  
-50.9  
-38.4  
-29.4  
-P/B (x) 
-20.6  
-20.0  
-15.1  
-10.2  
-7.3  
-ROE (%) 
-5.9% 
-23.5% 
-29.1% 
-26.0% 
-24.4% 
-Net gearing (%) 
-23.5% 
-6.7% 
-net cash 
-net cash 
-net cash 
-Source: Company data, Bloomberg, CMBIS estimates 
- 
- 
-Willsemi (603501 CH) 
+A Wholly Owned Subsidiary Of China Merchants Bank
+Willsemi (603501 CH)
+BUY (Maintain)
 Long-term positive view unchanged with non-
-mobile CIS to power future growth 
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-3Q21 Results Review 
-Figure 1: 3Q21 results review 
-RMB mn 
-1Q20 
-2Q20 
-3Q20 
-4Q20 
-1Q21 
-2Q21  
-3Q21 
-QoQ 
-YoY 
-Revenue 
-3,817 
-4,226 
-5,926 
-5,855 
-6,212 
-6,236 
-5,866 
--5.9% 
--1.0% 
-Gross Profit 
-1,230 
-1,371 
-1,653 
-1,675 
-2,014 
-2,105 
-2,082 
--1.1% 
-25.9% 
-Operating Profit 
-489 
-559 
-797 
-1,110 
-1,175 
-1,358 
-1,378 
-1.5% 
-72.8% 
-Net profit 
-445 
-545 
-736 
-980 
-1,041 
-1,203 
-1,275 
-6.0% 
-73.1% 
-EPS (RMB) 
-0.53 
-0.67 
-0.64 
-1.37 
-1.20 
-1.39 
-1.47 
-5.8% 
-129.7% 
-Gross Margin 
-32.2% 
-32.4% 
-27.9% 
-28.6% 
-32.4% 
-33.7% 
-35.5% 
-1.7 ppt 
-7.6 ppt 
-Operating Margin 
-12.8% 
-13.2% 
-13.5% 
-19.0% 
-18.9% 
-21.8% 
-23.5% 
-1.7 ppt 
-10 ppt 
-Net Margin 
-11.7% 
-12.9% 
-12.4% 
-16.7% 
-16.8% 
-19.3% 
-21.7% 
-2.4 ppt 
-9.3 ppt 
-Source: Bloomberg, CMBIS estimates 
-Earnings revision 
-Figure 2: CMBIS earnings revisions 
-  
-New 
-Old 
-Change (%) 
-RMB mn 
-FY21E 
-FY22E 
-FY23E 
-FY21E 
-FY22E 
-FY23E 
-FY21E 
-FY22E 
-FY23E 
-Revenue 
-24,470 
-32,968 
-41,635 
-29,203 
-36,723 
-45,061 
--16% 
--10% 
--8% 
-Gross Profit 
-8,261 
-11,260 
-14,293 
-9,482 
-12,176 
-14,987 
--13% 
--8% 
--5% 
-Operating Profit 
-5,146 
-6,801 
-8,885 
-5,433 
-6,936 
-8,818 
--5% 
--2% 
-1% 
-Net profit 
-4,656 
-6,180 
-8,056 
-4,862 
-6,196 
-7,876 
--4% 
-0% 
-2% 
-EPS (RMB) 
-5.222 
-6.932 
-9.035 
-5.598 
-7.480 
-9.047 
--7% 
--7% 
-0% 
-Gross Margin 
-33.8% 
-34.2% 
-34.3% 
-32.5% 
-33.2% 
-33.3% 
-1.3 ppt 
-1 ppt 
-1.1 ppt 
-Operating Margin 
-21.0% 
-20.6% 
-21.3% 
-18.6% 
-18.9% 
-19.6% 
-2.4 ppt 
-1.7 ppt 
-1.8 ppt 
-Net Margin 
-19.0% 
-18.7% 
-19.3% 
-16.6% 
-16.9% 
-17.5% 
-2.4 ppt 
-1.9 ppt 
-1.9 ppt 
-Source: Company data, CMBIS estimates 
-Figure 3: CMBIS estimates vs consensus 
-  
-CMBIS 
-Consensus 
-Diff (%) 
-US$mn 
-FY21E 
-FY22E 
-FY23E 
-FY21E 
-FY22E 
-FY23E 
-FY21E 
-FY22E 
-FY23E 
-Revenue 
-24,470 
-32,968 
-41,635 
-27,671 
-34,963 
-42,366 
--12% 
--6% 
--2% 
-Gross Profit 
-8,261 
-11,260 
-14,293 
-8,937 
-11,111 
-13,426 
--8% 
-1% 
-6% 
-EBITDA 
-5,146 
-6,801 
-8,885 
-5,190 
-6,674 
-8,365 
--1% 
-2% 
-6% 
-Net profit 
-4,656 
-6,180 
-8,056 
-4,594 
-5,878 
-7,421 
-1% 
-5% 
-9% 
-EPS (RMB) 
-5.222 
-6.932 
-9.035 
-5.298 
-6.760 
-8.478 
--1% 
-3% 
-7% 
-Gross Margin 
-33.8% 
-34.2% 
-34.3% 
-32.3% 
-31.8% 
-31.7% 
-1.5 ppt 
-2.4 ppt 
-2.6 ppt 
-EBITDA Margin 
-21.0% 
-20.6% 
-21.3% 
-18.8% 
-19.1% 
-19.7% 
-2.3 ppt 
-1.5 ppt 
-1.6 ppt 
-Net Margin 
-19.0% 
-18.7% 
-19.3% 
-16.6% 
-16.8% 
-17.5% 
-2.4 ppt 
-1.9 ppt 
-1.8 ppt 
-Source: Bloomberg, CMBIS estimates 
- 
- 
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-CIS: non-mobile CIS will maintain strong momemtum while 
-smartphone market is weak 
-Weak smartphone sales in FY21E; expect modest mobile CIS growth 
-in FY22E 
-Full year smartphone shipment forecast has been cut to 1.41bn units (6% YoY) from 
-previous 1.45bn units (9%), according to Counterpoint. The shipment rebounded in 3Q20 
-after the logistic resumed from COVID-19 disruption, but was negatively affected again in 
-2Q21 due to semiconductor shortage. The situation got worse in 3Q21 before peak season. 
-Canalys’s estimated global smartphone shipment for the third quarter was a 6% YoY 
-decline.  
-Looking forward, we expect Q4 shipment will have some sequential recovery during the 
-holidays. However, we do not expect the rebound will be significant given 1) continued 
-semi shortage, 2) increasing cost of certain components and 3) ASP pressure from peers 
-(the discount this year will not be aggressive as Apple did not raise the price of its new 13 
-series). 
-Figure 4: Global smartphone shipments forecast 
-(2021E) lowered to 6% YoY from previous 9% YoY 
- 
- 
-Source: Counterpoint, CMBIS estimates 
-Figure 5: Market concerns over sluggish smartphone 
-shipment and lower No. of cameras used per 
-smartphone (289 latest models of top brands)* 
- 
-Source: Counterpoint, nanoreview, kimovil, devicespecifications and 
-CMBIS estimates 
-* Samsung/ Xiaomi/ Oppo/ vivo/ Honor (1Q20 to 3Q21) 
-Given the recent weak smartphone sales, the market is conservative in mobile CIS market 
-growth given that 1) the constraints of smartphone sales will not ease in near-term (such 
-as semi shortage, power shortage, rising foundry costs, etc.), 2) the mobile camera 
-shipment was sluggish since 2Q21 driven by slower penetration of triple-/quad-cameras in 
-latest models of smartphones and 3) the de-spec concern.  
-We have studied 289 latest models (released from 1Q20-3Q21) from the top Andriod 
-brands, including Samsung/ Xiaomi/ Oppo/ vivo/ Honor, we did see the trend of slowing 
-down penetration of multi-cameras. We think the main reason is the increasing bill of 
-materials (“BOM”) that put a lot of pressure on smartphone makers. It is a mixed result from 
-1) smartphone upgrade (rising cost due to additional frequency coverage, better camera 
-resolution, larger storage, etc.), 2) tight supply chain and 3) peers pressure such as new 
-pricing strategy of Apple series 13.  
-These headwinds are likely to continue into 1H22E. Although we hold a neutral view on 
-smartphone market growth into 2022, especially for non-Apple brands, we believe Willsemi 
-1.51
-1.48
-1.33
-1.41
-0.0
-0.2
-0.4
-0.6
-0.8
-1.0
-1.2
-1.4
-1.6
-2018
-2019
-2020
-2021
-(bn)
-2.5
-2.7
-2.9
-3.1
-3.3
-3.5
-0
-100
-200
-300
-400
-500
-1Q20
-2Q20
-3Q20
-4Q20
-1Q21
-2Q21
-3Q21
-Global smartphone shipment (mn)
-Avg. no. of cameras per smartphone
-(mn)
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-can still gain share (in RMB1k-2k and RMB3k+ models) with its new 50MP/100MP/200MP 
-products. The Company is deeply engaged with Chinese mobile manufacturers and will 
-ride the tailwind of their market expansions (Oppo/vivo/Honor). We saw the Company’s 
-mobile CIS products has penetrated into rear main cameras since last year. Based on the 
-study of 289 latest models, we found their CIS products in certain Xiaomi/Oppo/Huawei’s 
+Target Price
+mobile CIS to power future growth
+(Previous TP
+RMB 346.90)
+Up/Downside
++30%
+Willsemi released 3Q21 results. Rev./NP of RMB5.9bn/1.3bn (-1.0%/73.1% YoY),
+Current Price
+largely in-line with preannouncement of net profit earlier, due to weak smartphone
+sales and supply chain constraints. Considering underlying negative factors
+China Technology Sector
+which would last longer, we revised down our FY21E-23E rev. forecasts, but
+raised margin est. due to improved product mix. We remain positive on Willsemi
+Lily Yang, Ph.D
+and believe its non-mobile CIS business will maintain strong momentum and
+power the company's future growth. Maintain BUY rating with TP slightly
+adjusted to RMB346.6, given expected weak performance in global smartphone
+Alex Ng
+sales and fast growth seen in non-mobile CIS business.
+3Q mobile CIS business was challenging; new products will help gain
+market share in FY22E. 3Q global smartphone shipment declined by 6% YoY
+(Counterpoint) due to component shortage and weak consumer demand.
+Stronger sales were observed in mid- to high-end models (evidenced by
+recovering Sony's CIS sales in 3Q). Although we hold a neutral view on
+Stock Data
+smartphone market growth into 2022, especially for non-Apple brands, we
+believe Willsemi can still gain share (in RMB1k-2k and RMB3k+ models) with
+its new 50MP/100MP/200MP products.
+GPM improved to 35.5% as non-mobile CIS accounted for 50% of 3Q CIS
+sales. Non-mobile CIS continued lifting Company's profitability. GPM
+Shareholding Structure
+improved to 35.5% (vs. 29.9%/33.7% in 2020/2Q21). We believe the trend is
+sustainable with rapid growth in auto, AR/VR segments. We are positive on
+Willsemi's auto CIS business considering the growth from both surging market
+demand and increasing market share. Auto CIS market is experiencing a
+similar path of smartphone, with higher ASP/quantity. Willsemi is closing its
+Share Performance
+market share gap with On semi. We expect to see continuous strong growth
+in its auto CIS business despite the prolonged chip shortage issue.
+Maintain BUY rating with revised TP of RMB346.6 based on 50x FY22E
+Source: Bloomberg
+P/E. We cut our FY21E-23E revenue forecast by 8%-16%, considering weak
+estimates of global smartphone sales and prolonged supply chain constraints.
+12-mth Price Performance
+Meanwhile, we raised our margin estimates by 1pt-1.3pt due to improved
+product mix. Potential upsides include: 1) faster-than-expected ease of supply
+chain constraints; 2) new device/killer app released in VR/AR. Potential risks
+include: 1) worse-than-expected global economy that curbs consumer
+spending and 2) overhung chip shortage led to unfilled demand.
+Earnings Summary
+Auditor: BDO
+Recent report:
+1. China CIS market: Beginning of
+multi-year growth cycle; Initiate BUY
+Aug 2021 (Link)
+2. The next chapter beyond mobile CIS
+is coming - 27 Aug 2021 (Link)
+Source: Company data, Bloomberg, CMBIS estimates
+3Q21 Results Review
+Source: Bloomberg, CMBIS estimates
+Earnings revision
+Source: Company data, CMBIS estimates
+Source: Bloomberg, CMBIS estimates
+CIS: non-mobile CIS will maintain strong momemtum while
+smartphone market is weak
+Weak smartphone sales in FY21E; expect modest mobile CIS growth
+in FY22E
+Full year smartphone shipment forecast has been cut to 1.41bn units (6% YoY) from
+after the logistic resumed from COVID-19 disruption, but was negatively affected again in
+2Q21 due to semiconductor shortage. The situation got worse in 3Q21 before peak season.
+Canalys's estimated global smartphone shipment for the third quarter was a 6% YoY
+decline.
+Looking forward, we expect Q4 shipment will have some sequential recovery during the
+holidays. However, we do not expect the rebound will be significant given 1) continued
+semi shortage, 2) increasing cost of certain components and 3) ASP pressure from peers
+series).
+Source: Counterpoint, CMBIS estimates
+Source: Counterpoint, nanoreview, kimovil, devicespecifications and
+CMBIS estimates
+Given the recent weak smartphone sales, the market is conservative in mobile CIS market
+growth given that 1) the constraints of smartphone sales will not ease in near-term (such
+as semi shortage, power shortage, rising foundry costs, etc.), 2) the mobile camera
+shipment was sluggish since 2Q21 driven by slower penetration of triple-/quad-cameras in
+latest models of smartphones and 3) the de-spec concern.
+We have studied 289 latest models (released from 1Q20-3Q21) from the top Andriod
+brands, including Samsung/ Xiaomi/ Oppo/ vivo/ Honor, we did see the trend of slowing
+down penetration of multi-cameras. We think the main reason is the increasing bill of
+materials ("BOM") that put a lot of pressure on smartphone makers. It is a mixed result from
+1) smartphone upgrade (rising cost due to additional frequency coverage, better camera
+resolution, larger storage, etc.), 2) tight supply chain and 3) peers pressure such as new
+pricing strategy of Apple series 13.
+These headwinds are likely to continue into 1H22E. Although we hold a neutral view on
+smartphone market growth into 2022, especially for non-Apple brands, we believe Willsemi
+can still gain share (in RMB1k-2k and RMB3k+ models) with its new 50MP/100MP/200MP
+products. The Company is deeply engaged with Chinese mobile manufacturers and will
+ride the tailwind of their market expansions (Oppo/vivo/Honor). We saw the Company's
+mobile CIS products has penetrated into rear main cameras since last year. Based on the
+study of 289 latest models, we found their CIS products in certain Xiaomi/Oppo/Huawei's
 models. One interesting thing to note is that these models released in 2021 are mostly mid-
-ranged and flagship models, with higher ASP compared with that of last year (mostly 
-budget and mid-ranged models). The spec has also increased to 48MP/50MP/64MP this 
-year (vs. 13MP/16MP/48MP in 2020). We believe the penetration will continue given the 
-uncertainty of Sino-US trade tension and Willsemi’s leading market position in CIS and 
-advanced technology. 
- 
-Auto market is also affected by chip shortage but we hold positive 
-view on auto CIS market growth as the demand is certain 
-Although IHS Markit has cut their forecasts for 2021E-23E light vehicle production by 
-6.2%/9.3%/1.1%, the growth for 22E/23E will still be 9.3%/11.4% YoY, driven by strong 
-demand for auto cameras (such as ADAS). We are very positive on auto CIS market growth 
-as it is likely to replicate the path of mobile CIS with higher ASP and larger number of 
-cameras per vehicle.  
-We think Willsemi will be a key beneficiary of auto CIS growth. The Company currently 
-provides CIS for European auto manufacturers and eyes on expansion in U.S. market. 
-Willsemi has also worked closely with ADAS developers, such as Mobileye. The 
-certification for auto-related production (e.g. IATF 16949) will take longer time to obtain and 
-the requirements will be much stricter. Willsemi ranked as No.2 among auto CIS suppliers, 
-but is closing its market share gap with On semi. We expect to see continuous strong 
-growth in its auto CIS business despite the prolonged chip shortage issue. 
-Figure 6: Avg. number of cameras per mobile/vehicle
-to grow at 5.2%/8.4% CAGR 
- 
-Source: Canalys, CMBIS  
-Figure 7: On Semi, Willsemi, Sony share 68% of the 
-automotive imaging sensor market (2018) 
-  
-Source: Yole, CMBIS 
- 
- 
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-4.0
-2012
-2014
-2016
-2018
-2020E
-2022E
-2024E
-(units/unit)
-On 
-Semiconductor
-36%
-Willsemi
-22%
-Panasonic
-5%
-PixelPlus
-1%
-Sony
-10%
-Samsung
-3%
-STMicroelectronics
-2%
-Other
-21%
-No. of cameras in mobile 
-No. of cameras in Automotive 
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-5 
-Earnings forecasts 
-Figure 8: P&L forecast 
-RMB mn 
-FY19 
-FY20E 
-1Q21 
-2Q21 
-3Q21 
-4Q21 
-FY21E 
-FY22E 
-FY23E 
-Revenue 
-13,632 
-19,824 
-6,212 
-6,236 
-5,866 
-6,156 
-24,470 
-32,968 
-41,635 
-…YoY 
-- 
-45.4% 
-62.8% 
-47.6% 
--1.0% 
-5.1% 
-23.4% 
-34.7% 
-26.3% 
-Gross profit 
-3,734 
-5,930 
-2,014 
-2,105 
-2,082 
-2,059 
-8,261 
-11,260 
-14,293 
-GPM (%) 
-27.4% 
-29.9% 
-32.4% 
-33.7% 
-35.5% 
-33.5% 
-33.8% 
-34.2% 
-34.3% 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-SG&A 
-(1,132) 
-(1,147) 
-(314) 
-(299) 
-(285) 
-(265) 
-(1,162) 
-(1,418) 
-(1,749) 
-…% of rev 
--8.3% 
--5.8% 
--5.1% 
--4.8% 
--4.9% 
--4.3% 
--4.8% 
--4.3% 
--4.2% 
-R&D 
-(1,282) 
-(1,727) 
-(469) 
-(537) 
-(513) 
-(487) 
-(2,007) 
-(2,637) 
-(3,248) 
-…% of rev 
--9.4% 
--8.7% 
--7.6% 
--8.6% 
--8.7% 
--7.9% 
--8.2% 
--8.0% 
--7.8% 
-Operating profit 
-785 
-2,956 
-1,175 
-1,358 
-1,378 
-1,234 
-5,146 
-6,801 
-8,885 
-OPM (%) 
-5.8% 
-14.9% 
-18.9% 
-21.8% 
-23.5% 
-20.1% 
-21.0% 
-20.6% 
-21.3% 
-…YoY 
-- 
-276.5% 
-140.4% 
-142.8% 
-72.8% 
-11.2% 
-74.1% 
-32.1% 
-30.6% 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Net profit 
-466 
-2,706 
-1,041 
-1,203 
-1,275 
-1,137 
-4,656 
-6,180 
-8,056 
-NPM (%) 
-3.4% 
-13.7% 
-16.8% 
-19.3% 
-21.7% 
-18.5% 
-19.0% 
-18.7% 
-19.3% 
-…YoY 
-- 
-481.2% 
-133.8% 
-120.7% 
-73.1% 
-16.1% 
-72.1% 
-32.7% 
-30.3% 
- Source: Company data, CMBIS estimates 
- 
- 
-Valuation 
-Maintain BUY with new TP of RMB346.6 (30% upside) 
-We maintain BUY rating and adjust our TP to RMB346.6 (based on 50x FY22E P/E). 
-We cut our FY21E-23E revenue forecast by 8%-16%, considering weak estimates of global 
-smartphone sales and prolonged supply chain constraints. Meanwhile, we raised our 
-margin estimates by 1pt-1.3pt due to improved product mix.  
-We are still positive on Willsemi. For mobile CIS, the Company is currently a leading 
-supplier for main rear cameras in certain models (<RMB1k and RMB2k-3k). Although we 
-hold a neutral view on smartphone market growth into 2022, especially for non-Apple 
-brands, we believe Willsemi can still grow share (in RMB1k-2k and RMB3k+ models) with 
-its new 50MP/100MP/200MP products. For non-mobile CIS, we believe the growth will 
-come from both surging market demand and the Company’s market share as the auto CIS 
-market is experiencing a similar path of smartphone, with higher ASP and quantity.  
-Potential upsides include: 1) faster-than-expected ease of supply chain constraints; 2) new 
-device/killer app released in VR/AR. Potential risks include: 1) worse-than-expected global 
-economy that curbs consumer spending and 2) overhung chip shortage led to unfilled 
-demand. 
- 
- 
- 
- 
- 
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-6 
-Figure 9: Peers valuation  
- 
- 
-Mkt Cap 
-Price 
-P/E (x) 
-P/B (x) 
-ROE (%) 
-Company 
-Ticker 
-US$(mn) 
-(LC) 
-FY21E 
-FY22E 
-FY21E 
-FY22E 
-FY21E 
-FY22E 
-Global CIS peers 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Willsemi 
-603501 CH 
-      36,091  
-266.00  
-      50.9  
-      38.4  
-      15.1  
-      10.2  
-       29.1  
-      26.0  
-GalaxyCore 
-688728 CH 
-      11,602  
-29.74  
-      51.3  
-      31.0  
-      12.0  
-        8.5  
-       23.4  
-      27.6  
-Sony 
-SONY US 
-    146,018  
-115.79  
-      14.3  
-      20.3  
-        3.2  
-        2.7  
-       23.4  
-      13.2  
-Samsung 
-005930 KS 
-    354,492  
-69800.00  
-      11.8  
-      10.7  
-        1.6  
-        1.4  
-       14.0  
-      13.7  
-STMicroelectronics 
-STM FP 
-      42,989  
-40.92  
-      23.9  
-      20.0  
-        4.5  
-        3.8  
-       19.4  
-      20.3  
-ON Semi 
-ON US 
-      20,696  
-48.07  
-      19.5  
-      17.3  
-        4.7  
-        4.0  
-       24.5  
-      23.2  
-Peers Avg. 
- 
- 
- 
-28.6 
-23.0 
-6.8 
-5.1 
-22.3 
-20.7 
-Peers Median 
- 
- 
-21.7 
-20.2 
-4.6 
-3.9 
-23.4 
-21.8 
-China fabless peers 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-Willsemi 
-603501 CH 
-      36,091  
-266.00  
-      50.9  
-      38.4  
-      15.1  
-      10.2  
-       29.1  
-      26.0  
-GalaxyCore 
-688728 CH 
-      11,602  
-29.74  
-      51.3  
-      31.0  
-      12.0  
-        8.5  
-       23.4  
-      27.6  
-Gigadevice 
-603986 CH 
-      17,617  
-169.51  
-      58.3  
-      45.6  
-        9.0  
-        7.8  
-       15.3  
-      17.3  
-Maxscend 
-300782 CH 
-      16,10  
-309.19  
-      48.5  
-      36.4  
-      17.5  
-      12.1  
-       45.6  
-      39.0  
-Goodix 
-603160 CH 
-        7,327  
-102.39  
-      47.2  
-      35.9  
-        5.4  
-        4.7  
-       11.6  
-      14.2  
-SG Miceo 
-300661 CH 
-      11,892  
-324.00  
-    132.7  
-      96.9  
-      37.6  
-      28.2  
-       29.4  
-      30.1  
-Peers Avg. 
- 
- 
- 
-64.8 
-47.4 
-16.1 
-11.9 
-25.7 
-25.7 
-Peers Median 
- 
- 
-51.1 
-37.4 
-13.5 
-9.3 
-26.2 
-26.8 
-Source: Bloomberg and CMBIS, as of 30 Aug 2021. 
-Figure 10: 12M forward P/E chart 
- 
-Source: Company data, CMBIS estimates 
-Figure 11: 12M forward P/E band 
- 
-Source: Company data, CMBIS estimates 
- 
- 
- 
-25
-30
-35
-40
-45
-50
-55
-60
-65
-08-19
-11-19
-02-20 05-20
-08-20
-11-20
-02-21 05-21
-1-yr Forward P/E
-Mean
-Mean+1SD
-Mean-1SD
-0
-50
-100
-150
-200
-250
-300
-350
-400
-10/19
-01/20
-04/20
-07/20
-10/20
-01/21 04/21
-07/21
-Closing Px
-34.4x
-40.2x
-46.0x
-51.9x
-57.7x
-(RMB)
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-7 
-Financial Summary  
-Source: Company data, CMBIS estimates 
-Income statement 
- 
- 
- 
- 
-  Cash flow summary   
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E  YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E 
-Revenue 
-13,632 19,824 24,470 32,968 41,635  Pretax profit 
-705 
-2,683 
-4,710 
-6,253 
-8,150 
-COGS 
--9,898 -13,894 -16,209 -21,707 -27,342  D&A 
-578 
-765 
-850 
-930 
-1,132 
-Gross Profit 
-3,734 
-5,930 
-8,261 11,260 14,293  Change in working capital 
--1,037 
--221 
--2,142 
--1,796 
--2,363 
-  
-  
-  
-  
-  
-   Others 
-560 
-117 
-6 
-555 
-633 
-SG&A 
--1,132 
--1,147 
--1,162 
--1,418 
--1,749  Net cash from operating 
-805 
-3,345 
-3,425 
-5,942 
-7,552 
-R&D exp. 
--1,282 
--1,727 
--2,007 
--2,637 
--3,248    
-  
-  
-  
-  
-  
-Financing exp. 
--274 
--275 
--337 
--343 
--319  Capex 
--743 
--1,133 
--1,028 
--1,525 
--1,918 
-Other opex 
--260 
-176 
-392 
--62 
--93  Purchase/sale of 
--93 
--373 
--178 
--128 
--142 
-Operating profit 
-785 
-2,956 
-5,146 
-6,801 
-8,885  Purchase/sale of subs 
--805 
--1,163 
--607 
-42 
-42 
-  
-  
-  
-  
-  
-  
- Other 
--87 
-38 
-527 
-123 
-104 
-Non-operating income 
-6 
-44 
-1 
-37 
-25  Net cash from investing  
--1,728 
--2,631 
--1,287 
--1,489 
--1,914 
-Non-operating exp. 
--6 
--9 
--4 
--10 
--10    
-  
-  
-  
-  
-  
-Pre-tax profit 
-784 
-2,991 
-5,144 
-6,828 
-8,900  Change in shares 
-380 
-683 
--97 
-2,153 
-1,725 
-  
-  
-  
-  
-  
-   Change in debt 
-1,017 
-1,567 
-3,373 
-1,614 
--190 
-Income tax expenses 
--79 
--308 
--434 
--575 
--750  Dividend/interests paid 
--319 
--413 
--644 
--938 
--1,124 
-Net profit 
-705 
-2,683 
-4,710 
-6,253 
-8,150  Other 
-41 
--3 
-321 
--157 
-81 
-Non-controlling interests 
-240 
--23 
-54 
-72 
-94  Net cash from financing  
-1,120 
-1,835 
-2,953 
-2,672 
-493 
-Net profit to shareholders 
-466 
-2,706 
-4,656 
-6,180 
-8,056    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Net change in cash 
-198 
-2,548 
-5,091 
-7,125 
-6,131 
-Adj. EBITDA 
-1,363 
-3,722 
-5,997 
-7,730 10,017  Cash, beginning 
-2,921 
-3,116 
-5,423 10,452 17,516 
- 
- 
- 
- 
- 
-  Exchange difference 
--2 
--241 
--61 
--61 
--61 
- 
- 
- 
- 
- 
-  Cash, end 
-3,116 
-5,423 10,452 17,516 23,586 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E  YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E 
-Current assets 
-10,881 13,913 21,279 32,305 41,640  Revenue by segment 
-  
-  
-  
-  
-  
-Cash & equivalents 
-3,161 
-5,456 10,469 17,533 23,603  CMOS 
-9,779 14,697 16,861 22,861 29,474 
-Trade & other receivables 
-2,577 
-2,583 
-3,180 
-4,448 
-5,351  TDDI 
-0 
-744 
-1,756 
-2,980 
-3,621 
-Inventories 
-4,366 
-5,274 
-6,912 
-9,247 11,414  Others 
-3,853 
-4,383 
-5,853 
-7,127 
-8,540 
-Other current assets 
-777 
-600 
-718 
-1,077 
-1,271  Total 
-13,632 19,824 24,470 32,968 41,635 
-  
-  
-  
-  
-  
-   CMOS % 
-71.7% 
-74.1% 
-68.9% 
-69.3% 
-70.8% 
-Non-current assets 
-6,596 
-8,735 10,083 10,926 12,293    
-  
-  
-  
-  
-  
-PPE 
-1,588 
-1,871 
-1,770 
-1,961 
-2,284  Growth (%) 
-  
-  
-  
-  
-  
-Intangibles 
-1,334 
-1,509 
-1,695 
-1,453 
-1,249  Revenue 
-40.5% 
-45.4% 
-23.4% 
-34.7% 
-26.3% 
-Goodwill 
-2,249 
-2,800 
-3,005 
-2,964 
-2,922  Adj. EBITDA 
-92.4% 173.1% 
-61.1% 
-28.9% 
-29.6% 
-Other non-current assets 
-1,425 
-2,556 
-3,613 
-4,549 
-5,839  Net profit 
-221.1% 481.2% 
-72.1% 
-32.7% 
-30.3% 
-Total assets 
-17,476 22,648 31,362 43,231 53,933    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- Profit & loss ratio (%) 
-  
-  
-  
-  
-  
-Current liabilities 
-7,606 
-6,845 
-8,565 11,781 11,664  Gross margin 
-27.4% 
-29.9% 
-33.8% 
-34.2% 
-34.3% 
-ST debt & LT debt to 
-4,101 
-3,041 
-4,177 
-5,498 
-4,211  EBITDA margin 
-10.0% 
-18.8% 
-24.5% 
-23.4% 
-24.1% 
-Trade & other payables 
-3,027 
-2,544 
-3,496 
-4,474 
-5,564  Net profit margin 
-3.4% 
-13.7% 
-19.0% 
-18.7% 
-19.3% 
-Other current liabilities 
-478 
-1,260 
-892 
-1,809 
-1,889    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Balance sheet ratio 
-  
-  
-  
-  
-  
-Non-current liabilities 
-1,915 
-4,278 
-6,786 
-7,700 
-9,225  Net debt/total equity (%) 
-23.5% 
-6.7% 
-net 
-net 
-net 
-LT debt 
-928 
-3,182 
-3,193 
-3,711 
-4,808  Debt/EBITDA 
-3.7 
-1.7 
-1.6 
-1.5 
-1.1 
-Bonds payables 
-0 
-0 
-2,225 
-2,000 
-2,000  Interest coverage 
-4.8 
-12.5 
-16.2 
-16.5 
-20.0 
-Other non-current liabilities 
-987 
-1,096 
-1,368 
-1,989 
-2,417  Cash conversion cycle (days) 
-130.9 
-123.1 
-133.5 
-128.0 
-128.5 
-Total liabilities 
-9,521 11,123 15,351 19,481 20,890    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Profitability (%) 
-  
-  
-  
-  
-  
-Total equity 
-7,955 11,525 16,011 23,750 33,043  ROE 
-5.9% 
-23.5% 
-29.1% 
-26.0% 
-24.4% 
-Share capital 
-864 
-868 
-892 
-892 
-892  ROA 
-2.7% 
-11.9% 
-14.8% 
-14.3% 
-14.9% 
-Reserves 
-6,650 
-7,248 11,911 12,094 12,277    
-  
-  
-  
-  
-  
-Retained earnings 
-1,002 
-3,895 
-7,812 12,904 19,530  Per share data (RMB) 
-  
-  
-  
-  
-  
-Other equities 
--589 
--772 
--4,945 
--2,553 
--163  EPS 
-0.76 
-3.21 
-5.22 
-6.93 
-9.04 
-Minority interests 
-29 
-286 
-341 
-413 
-507  BVPS 
-12.94 
-13.33 
-17.58 
-26.17 
-36.49 
-Total liabilities and equity 
-17,476 22,648 31,362 43,231 53,933    
-  
-  
-  
-  
-  
-1 Nov 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-8 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIS does not 
-provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special 
-requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report.  The value 
-of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets 
-or other variable market factors.  CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to 
-consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s) 
-to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any 
-transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense 
-whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone making use of the information contained in this report 
-does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS 
-has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices 
-and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue other publications having information and/ or 
-conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment 
-decisions or take proprietary positions that are inconsistent with the recommendations or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of 
-its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this 
-report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any 
-responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published 
-in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended 
-from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and 
-may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-CMBIS is not a registered broker-dealer in the United States.  As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the 
-independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research 
-analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the 
-analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States 
-solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other 
-person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not 
-distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information 
-provided in this report should do so only through a U.S.-registered broker-dealer.   
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the 
-Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign 
-entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed 
-in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of 
-Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact 
-CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+ranged and flagship models, with higher ASP compared with that of last year (mostly
+budget and mid-ranged models). The spec has also increased to 48MP/50MP/64MP this
+year (vs. 13MP/16MP/48MP in 2020). We believe the penetration will continue given the
+uncertainty of Sino-US trade tension and Willsemi's leading market position in CIS and
+advanced technology.
+Auto market is also affected by chip shortage but we hold positive
+view on auto CIS market growth as the demand is certain
+Although IHS Markit has cut their forecasts for 2021E-23E light vehicle production by
+6.2%/9.3%/1.1%, the growth for 22E/23E will still be 9.3%/11.4% YoY, driven by strong
+demand for auto cameras (such as ADAS). We are very positive on auto CIS market growth
+as it is likely to replicate the path of mobile CIS with higher ASP and larger number of
+cameras per vehicle.
+We think Willsemi will be a key beneficiary of auto CIS growth. The Company currently
+provides CIS for European auto manufacturers and eyes on expansion in U.S. market.
+Willsemi has also worked closely with ADAS developers, such as Mobileye. The
+certification for auto-related production (e.g. IATF 16949) will take longer time to obtain and
+the requirements will be much stricter. Willsemi ranked as No.2 among auto CIS suppliers,
+but is closing its market share gap with On semi. We expect to see continuous strong
+growth in its auto CIS business despite the prolonged chip shortage issue.
+Source: Yole, CMBIS
+Earnings forecasts
+Source: Company data, CMBIS estimates
+Valuation
+Maintain BUY with new TP of RMB346.6 (30% upside)
+We maintain BUY rating and adjust our TP to RMB346.6 (based on 50x FY22E P/E).
+We cut our FY21E-23E revenue forecast by 8%-16%, considering weak estimates of global
+smartphone sales and prolonged supply chain constraints. Meanwhile, we raised our
+margin estimates by 1pt-1.3pt due to improved product mix.
+We are still positive on Willsemi. For mobile CIS, the Company is currently a leading
+supplier for main rear cameras in certain models (<RMB1k and RMB2k-3k). Although we
+hold a neutral view on smartphone market growth into 2022, especially for non-Apple
+brands, we believe Willsemi can still grow share (in RMB1k-2k and RMB3k+ models) with
+its new 50MP/100MP/200MP products. For non-mobile CIS, we believe the growth will
+come from both surging market demand and the Company's market share as the auto CIS
+market is experiencing a similar path of smartphone, with higher ASP and quantity.
+Potential upsides include: 1) faster-than-expected ease of supply chain constraints; 2) new
+device/killer app released in VR/AR. Potential risks include: 1) worse-than-expected global
+economy that curbs consumer spending and 2) overhung chip shortage led to unfilled
+demand.
+Source: Bloomberg and CMBIS, as of 30 Aug 2021.
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS does not
+provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special
+requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report. The value
+of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
+or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to
+consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
+to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
+transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense
+whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone making use of the information contained in this report
+does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS
+has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices
+and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other publications having information and/or
+conclusions different from this report. These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment
+decisions or take proprietary positions that are inconsistent with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of
+its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this
+report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
+responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published
+in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended
+from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and
+may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+CMBIS is not a registered broker-dealer in the United States. As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the
+independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
+analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
+analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States
+solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other
+person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
+distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information
+provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the
+Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign
+entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed
+in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of
+Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact
+CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

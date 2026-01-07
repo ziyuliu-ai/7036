@@ -1,781 +1,111 @@
- 1 
- 
-ZTE Corporation [0763.HK;000063.CH] 
-ZTE Corporation (ZTE) posted a net profit of RMB564.5m in Q3 2018, which is at mid point of the 
-previous guidance range. ZTE guided a net loss of RMB6.2bn-7.2bn for 2018, which implies a net 
-profit of RMB64m-RMB1.0bn for Q4 2018. We acknowledge that the recovery is somewhat slower 
-than expected, but the Company is still on the track to recover from the impact of the US export ban. 
+ZTE Corporation [0763.HK;000063.CH]
+Turnaround in Q3 2018.
+TMT Sector
+ZTE Corporation (ZTE) posted a net profit of RMB564.5m in Q3 2018, which is at mid point of the
+previous guidance range. ZTE guided a net loss of RMB6.2bn-7.2bn for 2018, which implies a net
+Hardware
+profit of RMB64m-RMB1.0bn for Q4 2018. We acknowledge that the recovery is somewhat slower
+than expected, but the Company is still on the track to recover from the impact of the US export ban.
 We believe that ZTE will be one of the major beneficiaries of 5G investment in China. We still be-
-lieve that ZTE’s recovery will be driven mainly driven by a pick-up in CAPEX by local telecom opera-
-tors, and government and corporate business. But the consumer products segment is expected to 
-lag behind, since it is more reliant on overseas markets. Shares of ZTE may come under pressure 
+BUY (H-share)/BUY (A-Share)
+lieve that ZTE's recovery will be driven mainly driven by a pick-up in CAPEX by local telecom opera-
+tors, and government and corporate business. But the consumer products segment is expected to
+lag behind, since it is more reliant on overseas markets. Shares of ZTE may come under pressure
 after the Q3 2018 results announcement, given the slower-than-expected recovery. But we still be-
-lieve infrastructure-related segments such as 5G will be the main investment themes in 2019, and 
-ZTE is a major name in the infrastructure-related hardware providers listed in HK and China. We still 
+Close: HK$12.16 (Oct 26, 2018)
+lieve infrastructure-related segments such as 5G will be the main investment themes in 2019, and
+ZTE is a major name in the infrastructure-related hardware providers listed in HK and China. We still
 believe that market confidence in ZTE will be restored. Apart from the recovery in operating perfor-
-mance, news flow on 5G development in China is a major share price catalyst for ZTE. We maintain 
+TP (H): HK$18.67 (+53.5%)
+mance, news flow on 5G development in China is a major share price catalyst for ZTE. We maintain
 our BUY rating with a target price of HK$18.67, based on 14x 2019E PER, lower than the Compa-
-ny’s historical mean of 22x. Our target price for ZTE-A (000063.CH) is RMB21.55, and we upgrade 
-our rating from HOLD to BUY on ZTE-A. 
-Investment Highlights 
- 
-Q3 2018: Back to profitability. ZTE’s turnover dropped 14.3% YoY, from RMB22,569m in Q3 
-2017 to RMB19,332m in Q3 2018. The YoY decline in turnover in Q3 2018 was less than the 
-27% YoY drop in 1H 2018. The Q3 2018 turnover figures were still distorted by the US export 
+ny's historical mean of 22x. Our target price for ZTE-A (000063.CH) is RMB21.55, and we upgrade
+TP (A): RMB21.55 (23.6%)
+our rating from HOLD to BUY on ZTE-A.
+Investment Highlights
+2017 to RMB19,332m in Q3 2018. The YoY decline in turnover in Q3 2018 was less than the
+27% YoY drop in 1H 2018. The Q3 2018 turnover figures were still distorted by the US export
 ban. The Company reported a net profit of RMB564.5m in Q3 2018, at the mid-point of previ-
 ous guidance. This represents a 50.4% YoY drop from RMB1,138.4m in Q3 2017, but a turna-
-round from a net loss of RMB7,824.2m in 1H 2018. ZTE’s blended gross profit margin im-
-proved to 36.5% in Q3 2018, a multi-year high, in our view, due to a higher contribution from 
-the carrier network segment, which has a higher gross profit margin. ZTE’s Q3 results were 
-also impacted by some one-off items, such as RMB200m in legal costs, impairment of credits & 
-assets, and a RMB251m mark-to-market loss on investments. ZTE’s core operating perfor-
-mance is solid excluding the impact of these one-off items. Higher R&D expenses, in our view, 
-are another reason for slower recovery progress. R&D expenses were RMB3,465.2m in Q3 
-2018 vs. RMB5060.6m in 1H 2018. However, we believe that R&D expenses invested now will 
-translate into business opportunities in the coming years. ZTE issued a profit alert for 2018, 
-which guided a net loss of RMB6.2bn-7.2bn. This implies net profit will be in range of RMB60m 
+round from a net loss of RMB7,824.2m in 1H 2018. ZTE's blended gross profit margin im-
+proved to 36.5% in Q3 2018, a multi-year high, in our view, due to a higher contribution from
+the carrier network segment, which has a higher gross profit margin. ZTE's Q3 results were
+also impacted by some one-off items, such as RMB200m in legal costs, impairment of credits &
+assets, and a RMB251m mark-to-market loss on investments. ZTE's core operating perfor-
+mance is solid excluding the impact of these one-off items. Higher R&D expenses, in our view,
+Source: Bloomberg.
+2018 vs. RMB5060.6m in 1H 2018. However, we believe that R&D expenses invested now will
+translate into business opportunities in the coming years. ZTE issued a profit alert for 2018,
+which guided a net loss of RMB6.2bn-7.2bn. This implies net profit will be in range of RMB60m
 to RMB1bn. We still expect ZTE to report a QoQ increase in net profit in Q4 2018, as the Com-
-pany is on the right track to recovery.  
- 
-Local market potential to drive recovery. We share the view that the market might have 
+pany is on the right track to recovery.
+Local market potential to drive recovery. We share the view that the market might have
 concerns about the growth outlook for ZTE, given potential market share loss in overseas mar-
 kets in both the equipment and consumer products segments. We believe the consumer prod-
 ucts segment will lag behind, but equipment and non-operator business should drive the recov-
 ery in Q4 2018 and 2019, especially given 5G development in China. Since 5G is an area sup-
-ported by the Chinese government, it will create growth potential for equipment makers such as 
-ZTE. In addition to wireless equipment, ZTE has invested in new technologies, which will allow 
-the Company to benefit from the adoption of new technologies like NB-IoT.  
- 
-Downward earnings adjustment for 2018. We revised down our net profit forecast for 2018 
-after ZTE’s Q3 2018 results announcement. We keep our 2019 net profit forecasts, as we be-
-lieve the Company is on the recovery trend. ZTE shares may come under pressure after the 
-Q3 2018 results announcement, which in our view, offers a good buying opportunity, especially 
-since infrastructure-related themes will be the focus in the hardware segment in 2019 & 2020.  
-Mark Po, CFA — Senior Analyst 
-(852) 3698-6318 
-markpo@chinastock.com.hk 
-Wong Chi Man, CFA — Head of Research 
-(852) 3698-6317 
-cmwong@chinastock.com.hk 
- 
- 
-TMT Sector 
-Hardware 
-Turnaround in Q3 2018.  
-Share Price Performance 
- 
-Market Cap 
-US$9,801m 
-Shares Outstanding  
-4,189.2m 
-Auditor 
-Ernst & Young 
-Free Float-H Shares 
-100% 
-52W range 
-HK$9.85-32.30 
-3M average daily T/O 
-US$21m 
-Major Shareholding 
-Zhongxingxin 
-(30.8%) 
- 
-October 26, 2018 
-Source: Bloomberg, CGIS Research  
-Source: Bloomberg.  
-Source: Bloomberg, Company data 
-BUY (H-share)/BUY (A-Share) 
-Close: HK$12.16 (Oct 26, 2018) 
-TP (H) : HK$18.67 (+53.5%) 
-TP (A) : RMB21.55 (23.6%) 
-Key Financials                   
-(in RMBm)
-2015
-2016
-2017
-2018E
-2019E
-Revenue
-100,186.4
-                          
-101,233.2
-          
-108,815.3
-          
-91,835.5
-            
-117,844.4
-          
-  Change (YoY %)
-23.0
-                                   
-1.0
-                     
-7.5
-                     
-(15.6)
-                  
-28.3
-                   
-Gross Profit
-29,093.1
-                            
-29,920.7
-            
-32,698.7
-            
-26,805.4
-            
-37,449.5
-            
-  Gross Margin %
-29.0
-                                   
-29.6
-                   
-30.0
-                   
-29.2
-                   
-31.8
-                   
-Net Profit
-3,207.9
-                              
-(2,357.4)
-             
-4,568.2
-              
-(6,240.7)
-             
-4,890.7
-              
-  Net Margin %
-3.2
-                                     
-(2.3)
-                    
-4.2
-                     
-(6.8)
-                    
-4.2
-                     
-EPS (Basic)
-0.78
-(0.57)
-1.09
-(1.49)
-1.17
-  Change (YoY %)
-1.5
-                                     
-n.a.
-n.a.
-n.a.
-n.a.
-DPS 
-$0.250
-$0.000
-$0.330
-$0.000
-$0.440
-ROE (%)
-11.8
-                                   
-(8.4)
-                    
-15.7
-                   
-(22.4)
-                  
-18.5
-                   
-Dividend Yield (%)
-2.36
-                                   
--
-                     
-3.12
-                   
--
-                     
-4.16
-                   
-PER (x) 
-13.6
-                                   
-(18.7)
-                  
-9.7
-                     
-(7.1)
-                    
-9.1
-                     
-PBR (x)
-1.5
-                                     
-1.7
-                     
-1.4
-                     
-1.8
-                     
-1.5
-                     
-FCF Yield (%)
-9.59%
-4.03%
-16.98%
-14.96%
-9.44%
-Capex (m)
-(1,957.9)
-                             
-(2,621.8)
-             
-(2,052.5)
-             
-(2,360.4)
-             
-(2,714.5)
-             
-Free cash flow per share
-1.2
-                                     
-0.5
-                     
-2.1
-                     
-1.8
-                     
-1.1
-                     
-Net Gearing (%)
-22.0
-                                   
-13.7
-                   
-5.8
-                     
-54.8
-                   
-42.1
-                   
-0
-500
-1000
-1500
-2000
-2500
-3000
-3500
-4000
-0
-5
-10
-15
-20
-25
-30
-35
-Oct17
-Dec17
-Feb18
-Apr18
-Jun18
-Aug18
-(HK$ million)
-(HK$)
-Turnover (RHS)
-Price (LHS)
- 2 
- 
-Figure 1: Earnings projection  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Sources: Company, CGIS Research  
-Income Statement (RMBm)
-FY2015
-FY2016
-FY2017
-FY2018F
-FY2019F
-Cash Flow Statement (RMBm)
-FY2015
-FY2016
-FY2017
-FY2018F
-FY2019F
-Revenue
-    100,186     101,233     108,815       91,835     117,844 
-Net Income
-        4,839 
-       (413)         7,247         3,978         8,085 
-  Growth yoy%
- 23.0% 
- 1.0% 
- 7.5% 
- (15.6%) 
- 28.3% 
-Depreciation & Amort.
-        1,131         1,285        1,388         1,545         1,726 
-Gross Profit
-      29,093       29,921       32,699       26,805       37,450 
-Change in Working Capital
-           796         3,792        2,068         4,457 
-    (2,285) 
-  Growth yoy%
- 22.7% 
- 2.8% 
- 9.3% 
- (18.0%) 
- 39.7% 
-  Cash from Ops.
-        6,767         4,664      10,703         9,980         7,525 
-Selling General & Admin Exp.
-   (26,656)     (27,043)     (28,460)     (25,488)     (31,360)  
-Capital Expenditure
-    (1,958)      (2,622)      (2,053)      (2,360)      (2,714) 
-Others Operating Expenses/Items
-        2,638 
-    (3,205)          3,010         2,299         2,138 
-Sale of Property, Plant, and Equipment
--
--
--
--
--
-Operating Income
-        5,076 
-       (327)          7,249         3,616         8,228 
-Change in Investing Acitivities
-             89 
-    (1,032)    (69,716)     (17,341)          4,021 
-  Growth yoy%
-n.a.
-n.a.
-n.a.
- (50%) 
- 127.6% 
-  Cash from Investing
-    (1,869)      (3,654)    (71,768)     (19,701)          1,306 
-Interest Expense
-    (1,269)      (1,156)      (1,158)      (1,076)      (1,337)  
-Net increase in bank borrowings
-        4,816       60,143     (1,606)      (3,331)          5,102 
-Interest and Invest. Income
-        433.6         669.8         756.2         757.7         395.5 
-Income/(Loss) from Affiliates
-          63.3           45.2 
-    (128.2)      (137.1)      (146.7)  
-Issuance of Common Stock
-               0                0               0                0                0 
-Other Non-Operating Inc. (Exp.)
-               0                0                0   (8,900.0)                 0 
-Common Dividends Paid
-       (688)      (1,038)                0 
-    (1,382)                 0 
-Impairment of Goodwill
--
--
--
--
--
-Special Dividend Paid
--
--
--
--
--
-Gain (Loss) On Sale Of Invest.
--
--
--
--
--
-Other Financing Activities
-        1,581         1,809     (1,677)      (1,159)      (2,043) 
-Gain (Loss) On Sale Of Assets
--
--
--
--
--
-  Cash from Financing
-        5,709       60,914     (3,283)      (5,873)          3,059 
-Income Tax Expense
-       (563)         (640)      (1,333)         (500)      (1,299)  
-Minority Int. in Earnings
-       (532)         (950)         (818)             (1)         (950)  
-  Net Change in Cash
-      10,608       61,924   (64,349)     (15,594)        11,891 
-Net Income
-        3,208 
-    (2,357)          4,568 
-    (6,241)          4,891 
-  Growth yoy%
- 22% 
-n.a.
-n.a.
- (236.6%) 
- (178.4%) 
-Balance Sheet (RMBm)
-FY2015
-FY2016
-FY2017
-FY2018F
-FY2019F
-Ratios
-FY2015
-FY2016
-FY2017
-FY2018F
-FY2019F
-ASSETS
-Profitability
-Cash And Equivalents
-      26,617       30,050       30,109       15,715       21,405 
-  Return on Assets %
- 2.7% 
- (1.8%) 
- 3.2% 
- (4.7%) 
- 3.7% 
-Receivables
-      36,019       41,798       38,378       32,390       41,563 
-  Return on Capital %
- 8.1% 
- (2.4%) 
- 11.1% 
- (10.3%) 
- 13.2% 
-Inventory
-      19,732       26,811       26,234       22,140       28,411 
-  Return on Equity %
- 11.8% 
- (8.4%) 
- 15.7% 
- (22.4%) 
- 18.5% 
-Other Current Assets
-      16,646       13,990       13,538       11,047       13,210 
-  Total Current Assets
-      99,014     112,648     108,260       81,293     104,589 
-Margin Analysis
-Net Property, Plant & Equipment
-        8,369         9,281         9,945       10,760       11,748 
-  Gross Margin %
- 29.0% 
- 29.6% 
- 30.0% 
- 29.2% 
- 31.8% 
-Long-term Investments
--
--
--
--
--
-  SG&A Margin %
- 14.4% 
- 15.2% 
- 14.2% 
- 15.8% 
- 14.8% 
-Other Intangibles
--
--
--
--
--
-  EBIT Margin %
- 5.5% 
- 0.3% 
- 7.4% 
- 4.8% 
- 7.3% 
-Deferred Tax Assets, LT
--
--
--
--
--
-  EBITDA Margin %
- 6.6% 
- 1.6% 
- 8.6% 
- 6.4% 
- 8.8% 
-Other Long-Term Assets
-      17,205       19,480       25,757       27,018       28,349 
-  Net Income Margin %
- 3.2% 
- (2.3%) 
- 4.2% 
- (6.8%) 
- 4.2% 
-Goodwill
--
--
--
--
--
-Accounts Receivable Long-Term
--
--
--
--
--
-Asset Turnover
-  Total Long Term Assets
-      25,574       28,760       35,703       37,778       40,097 
-  Total Asset Turnover
-0.8x
-0.7x
-0.8x
-0.8x
-0.8x
-Total Assets
-    124,588     141,408     143,962     119,071     144,686 
-  Fixed Asset Turnover
-3.9x
-3.5x
-3.0x
-2.4x
-2.9x
-  Accounts Receivable Turnover
-2.9x
-2.6x
-2.7x
-2.6x
-3.2x
-LIABILITIES & EQUITY
-  Inventory Turnover 
-5.1x
-3.8x
-4.1x
-4.1x
-4.1x
-Accounts Payable
-      48,599       65,684       59,294       50,041       64,214 
-Accrued Exp.
--
--
--
--
--
-Liquidity
-Short-term Borrowings
-      17,799       19,327       19,616       16,555       21,244 
-  Current Ratio
-1.4x
-1.2x
-1.2x
-1.1x
-1.2x
-Curr. Port. of LT Debt
--
--
--
--
--
-  Quick Ratio
-0.8x
-0.7x
-0.7x
-0.6x
-0.6x
-Curr. Income Taxes Payable
--
--
--
--
--
-  Avg. Days Sales Out.
-131.2
-150.7
-128.7
-128.7
-128.7
-Unearned Revenue, Current
--
--
--
--
--
-  Avg. Days Inventory Out.
-71.9
-96.7
-88.0
-88.0
-88.0
-Other Current Liabilities
-        4,935         6,503         8,684         4,813         4,878 
-  Avg. Days Payable Out.
-240.8
-292.5
-299.7
-306.8
-259.4
-  Total Current Liabilities
-      71,332       91,514       87,594       71,410       90,336 
-  Avg. Cash Conversion Cycle
-55.5
-51.1
-55.6
-54.1
-58.8
-Long-Term Debt
-        6,016         5,018         3,002         3,002         3,002 
-  Net Debt to Equity
-22%
-14%
-6%
-55%
-42%
-Def. Tax Liability, Non-Curr.
-               0                0                0                0                0 
-Other Non-Current Liabilities
-        3,891         3,990         7,985         6,901         7,750 
-Growth Over Prior Year
-Total Liabilities
-      81,239     100,523       98,582       81,313     101,088 
-  Total Revenue
- 23.0% 
- 1.0% 
- 7.5% 
- (15.6%) 
- 28.3% 
-Common Stock
-        4,151         4,185         4,193         4,193         4,193 
-  Net Income
- 21.8% 
-n.a.
-n.a.
- (236.6%) 
- (178.4%) 
-Additional Paid In Capital
--
--
--
--
--
-  Payout Ratio %
- 32.1% 
- 0.0% 
- 30.3% 
- 0.0% 
- 37.7% 
-Retained Earnings
-      25,509       22,217       27,454       19,831       24,722 
-Treasury Stock
-Comprehensive Inc. and Other
--
--
--
--
--
-Minority Interest
-   13,688.5    14,483.9    13,733.3    13,734.4    14,683.9 
-Total Equity
-      43,349       40,885       45,380       37,758       43,598 
-Total Liabilities And Equity
-    124,588     141,408     143,962     119,071     144,686 
- 3 
- 
-Disclaimer 
-This research report is not directed at, or intended for distribution to or used by, any person or entity who is a citizen or resident of or located in any 
-jurisdiction where such distribution, publication, availability or use would be contrary to applicable law or regulation or which would subject China 
-Galaxy International Securities (Hong Kong) Co., Limited (“Galaxy International Securities”) and/or its group companies to any registration or licensing 
-requirement within such jurisdiction. 
-This report (including any information attached) is issued by Galaxy International Securities, one of the subsidiaries of the China Galaxy International 
-Financial Holdings Limited, to the institutional clients from the information sources believed to be reliable, but no representation or warranty (expressly 
-or implied) is made as to their accuracy, correctness and/or completeness.  
+ported by the Chinese government, it will create growth potential for equipment makers such as
+ZTE. In addition to wireless equipment, ZTE has invested in new technologies, which will allow
+the Company to benefit from the adoption of new technologies like NB-IoT.
+after ZTE's Q3 2018 results announcement. We keep our 2019 net profit forecasts, as we be-
+Source: Bloomberg, Company data
+lieve the Company is on the recovery trend. ZTE shares may come under pressure after the
+Q3 2018 results announcement, which in our view, offers a good buying opportunity, especially
+Mark Po, CFA — Senior Analyst
+since infrastructure-related themes will be the focus in the hardware segment in 2019 & 2020.
+Wong Chi Man, CFA — Head of Research
+Sources: Company, CGIS Research
+Disclaimer
+This research report is not directed at, or intended for distribution to or used by, any person or entity who is a citizen or resident of or located in any
+jurisdiction where such distribution, publication, availability or use would be contrary to applicable law or regulation or which would subject China
+Galaxy International Securities (Hong Kong) Co., Limited ("Galaxy International Securities") and/or its group companies to any registration or licensing
+requirement within such jurisdiction.
+This report (including any information attached) is issued by Galaxy International Securities, one of the subsidiaries of the China Galaxy International
+Financial Holdings Limited, to the institutional clients from the information sources believed to be reliable, but no representation or warranty (expressly
+or implied) is made as to their accuracy, correctness and/or completeness.
 This report shall not be construed as an offer, invitation or solicitation to buy or sell any securities of the company(ies) referred to herein. Past perfor-
 mance should not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied, is made regard-
-ing future performance. The recipient of this report should understand and comprehend the investment objectives and its related risks, and where 
-necessary consult their own independent financial advisers prior to any investment decision. 
-Where any part of the information, opinions or estimates contained herein reflects the personal views and opinions of the analyst who prepared this 
-report, such views and opinions may not correspond to the published views or investment decisions of China Galaxy International Financial Holdings 
-Limited and any of its subsidiaries (“China Galaxy International”), directors, officers, agents and employees (“the Relevant Parties”).  
+ing future performance. The recipient of this report should understand and comprehend the investment objectives and its related risks, and where
+necessary consult their own independent financial advisers prior to any investment decision.
+Where any part of the information, opinions or estimates contained herein reflects the personal views and opinions of the analyst who prepared this
+report, such views and opinions may not correspond to the published views or investment decisions of China Galaxy International Financial Holdings
+Limited and any of its subsidiaries ("China Galaxy International"), directors, officers, agents and employees ("the Relevant Parties").
 All opinions and estimates reflect the judgment of the analyst on the date of this report and are subject to change without notice. China Galaxy Interna-
-tional and/or the Relevant Parties hereby disclaim any of their liabilities arising from the inaccuracy, incorrectness and incompleteness of this report 
-and its attachment/s and/or any action or omission made in reliance thereof. Accordingly, this report must be read in conjunction with this disclaimer.  
-Disclosure of Interests 
-China Galaxy Securities Co., Ltd. (6881.HK; 601881.CH) is the direct and/or indirect holding company of the group of companies under China Galaxy 
-International.  
-China Galaxy International may have financial interests in relation to the subjected company(ies) the securities in respect of which are reviewed in this 
-report, and such interests aggregate to an amount may equal to or more than 1 % of the subjected company(ies)’ market capitalization.  
+tional and/or the Relevant Parties hereby disclaim any of their liabilities arising from the inaccuracy, incorrectness and incompleteness of this report
+and its attachment/s and/or any action or omission made in reliance thereof. Accordingly, this report must be read in conjunction with this disclaimer.
+Disclosure of Interests
+China Galaxy Securities Co., Ltd. (6881.HK; 601881.CH) is the direct and/or indirect holding company of the group of companies under China Galaxy
+International.
+China Galaxy International may have financial interests in relation to the subjected company(ies) the securities in respect of which are reviewed in this
+report, and such interests aggregate to an amount may equal to or more than 1 % of the subjected company(ies)' market capitalization.
 One or more directors, officers and/or employees of China Galaxy International may be a director or officer of the securities of the company(ies) men-
-tioned in this report.  
+tioned in this report.
 China Galaxy International and the Relevant Parties may, to the extent permitted by law, from time to time participate or invest in financing transac-
-tions with the securities of the company(ies) mentioned in this report, perform services for or solicit business from such company(ies), and/or have a 
-position or holding, or other material interest, or effect transactions, in such securities or options thereon, or other investments related thereto.  
-China Galaxy International may have served as manager or co-manager of a public offering of securities for, or currently may make a primary market in 
+tions with the securities of the company(ies) mentioned in this report, perform services for or solicit business from such company(ies), and/or have a
+position or holding, or other material interest, or effect transactions, in such securities or options thereon, or other investments related thereto.
+China Galaxy International may have served as manager or co-manager of a public offering of securities for, or currently may make a primary market in
 issues of, any or all of the entities mentioned in this report or may be providing, or have provided within the last 12 months, significant advice or invest-
-ment services in relation to the investment concerned or a related investment or investment banking services to the company(ies) mentioned in this 
-report.  
-Furthermore, China Galaxy International may have received compensation for investment banking services from the company(ies) mentioned in this 
-report within the preceding 12 months and may currently seeking investment banking mandate from the subject company(ies). 
-Analyst Certification  
-The analyst who is primarily responsible for the content of this report, in whole or in part, certifies that with respect to the securities or issuer covered 
-in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject, securities or issuer; and (2) no part of his or 
-her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by the analyst in this report.  
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and 
-Futures Commission) (1) have dealt in or traded in the securities covered in this research report within 30 calendar days prior to the date of issue of 
-this report; (2) will deal in or trade in the securities covered in this research report three business days after the date of issue of this report; (3) serve as 
+ment services in relation to the investment concerned or a related investment or investment banking services to the company(ies) mentioned in this
+report.
+Furthermore, China Galaxy International may have received compensation for investment banking services from the company(ies) mentioned in this
+report within the preceding 12 months and may currently seeking investment banking mandate from the subject company(ies).
+Analyst Certification
+The analyst who is primarily responsible for the content of this report, in whole or in part, certifies that with respect to the securities or issuer covered
+in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject, securities or issuer; and (2) no part of his or
+her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by the analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and
+Futures Commission) (1) have dealt in or traded in the securities covered in this research report within 30 calendar days prior to the date of issue of
+this report; (2) will deal in or trade in the securities covered in this research report three business days after the date of issue of this report; (3) serve as
 an officer of any of the Hong Kong-listed companies covered in this report; and (4) have any financial interests in the Hong Kong-listed companies cov-
-ered in this report.  
-Explanation on Equity Ratings  
- 
-Copyright Reserved 
-No part of this material may be reproduced or redistributed without the prior written consent of China Galaxy International Securities (Hong Kong) Co., 
-Limited.  
-China Galaxy International Securities (Hong Kong) Co. Limited, CE No.AXM459  
-20/F, Wing On Centre, 111 Connaught Road Central, Sheung Wan, Hong Kong. General line: 3698-6888. 
-BUY 
-share price will increase by >20% within 12 months in absolute terms 
-: 
-SELL 
-share price will decrease by >20% within 12 months in absolute terms 
-: 
-HOLD 
-no clear catalyst, and downgraded from BUY pending clearer signal to reinstate BUY or further downgrade to outright SELL 
-: 
+ered in this report.
+Explanation on Equity Ratings
+BUY
+: share price will increase by >20% within 12 months in absolute terms
+SELL
+: share price will decrease by >20% within 12 months in absolute terms
+HOLD
+; no clear catalyst, and downgraded from BUY pending clearer signal to reinstate BUY or further downgrade to outright SELL
+Copyright Reserved
+No part of this material may be reproduced or redistributed without the prior written consent of China Galaxy International Securities (Hong Kong) Co.,
+Limited.
+20/F, Wing On Centre, 111 Connaught Road Central, Sheung Wan, Hong Kong. General line: 3698-6888.

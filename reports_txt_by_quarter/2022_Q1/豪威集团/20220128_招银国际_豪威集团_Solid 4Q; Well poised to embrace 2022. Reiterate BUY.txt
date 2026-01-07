@@ -1,1242 +1,145 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-China Technology Sector 
- 
-Lily Yang, Ph.D 
-(852) 3916 3716 
-lilyyang@cmbi.com.hk 
- 
-Alex Ng 
-(852) 3900 0881 
-alexng@cmbi.com.hk 
- 
-Lana Lin 
-(852) 3761 8912 
-lanalin@cmbi.com.hk 
- 
-Stock Data 
-Mkt Cap (RMBmn) 
-229,878
-Avg 3 mths t/o (RMBmn) 
-1,790
-52w High/Low (RMB)   
- 345/221.5
-Total Issued Shares (mn) 
-875.7
-Source: Bloomberg 
- 
-Shareholding Structure 
-Yu Renrong 
-30.32% 
-SX Weihao Equity Invest. FD 
-9.23% 
-HKSCC 
-6.55% 
-Source: Company data 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
--10.3% 
--6.0%
-3-mth 
-7.7% 
-12.1%
-6-mth 
--4.8% 
--4.5%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Auditor: BDO 
- 
- 
-Recent report: 
-1. Long-term positive view unchanged 
-with non-mobile CIS to power future 
-growth – 1 Nov 2021 (Link) 
-2. The next chapter beyond mobile CIS 
-is coming – 27 Aug 2021 (Link) 
- 
- 
-0.0
-50.0
-100.0
-150.0
-200.0
-250.0
-300.0
-350.0
-400.0
-Jan-21
-Mar-21
-May-21
-Jul-21
-Sep-21
-Nov-21
-Jan-22
-603501 CH
-shcomp  (rebased)
-(HK$)
-BUY (Maintain) 
-Target Price 
-RMB 346.60 
-(Previous TP           RMB 346.60) 
-Up/Downside 
-  +32% 
-Current Price 
-RMB 262.5 
-1 
-28 Jan 2022 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Willsemi (603501 CH) announced FY21 preliminary results. FY21 net profit is 
-expected to grow 65-80% YoY to RMB4,468mn-RMB4,868mn, and mid-point of 
-implied 4Q21 net profit is expected to reach RMB1,150mn, representing 17% 
-YoY and -10% QoQ. FY21 result is slightly higher than our forecasts by 0.3%. 
-We remain positive on Willsemi and believe its non-mobile CIS business will 
-maintain strong momentum and drive the company’s future growth. Reiterate 
-BUY with TP at RMB346.6. 
- New products to gain market share in FY22E despite challenging 
-Android smartphone market in short term. Apple became China’s top 
-selling smartphone brand in 4Q21 for the 1st time since 2015, and there is 
-clear pressure on Android manufacturers. Third party data indicated higher 
-Android smartphone inventory build-up and weaker-than-expected sell 
-through. However, we believe Willsemi’s mobile CIS can still gain share (in 
-RMB1k-2k/RMB3k+ models) with its new 50MP/100MP/200MP products.  
- Non-mobile CIS will help to underpin Willsemi’s future growth. We are 
-optimistic on Willsemi’s auto CIS sales. The auto CIS experienced faster-than-
-expected growth in 2021 and we expect the momentum would continue given 
-peer’s supply chain constraints. The growth visibility in auto CIS is clearer due 
-to longer certification period for its peers. Meanwhile, AR/VR market 
-opportunity and demand of security camera upgrade will also contribute 
-Willsemi’s future growth. According to Qualcomm’s estimate, the shipment of 
-Oculus Quest 2 headsets has already exceeded 10 million since it launched 
-last October. More importantly, non-mobile CIS has high GPM, and we expect 
-Willsemi’s profitability will improve due to favorable product mix. 
- Reiterate BUY with TP at RMB346.6 based on 50x FY22E P/E. We reiterate 
-BUY rating on Willsemi with TP of RMB 346.60, based on 50x FY22E P/E. We 
-believe this valuation is justified given 1) its leading position CIS market, 2) 
-share gain in auto, AR/VR, security CIS and 3) diversified product portfolio. 
-Potential upsides include: 1) better-than-expected global smartphone demand 
-and 5G adoption; 2) new killer app released in VR/AR that drives substantial 
-device sales. Potential downside risks include: 1) worse-than-expected global 
-economy that curbs consumer spending and 2) overhung chip shortage led to 
-unfilled demand. 
-Earnings Summary 
-(YE 31 Dec) 
-FY19A 
-FY20A 
-FY21E 
-FY22E 
-FY23E 
-Revenue (RMB mn) 
-13,632  
-19,824  
-24,470  
-32,968  
-41,635  
-YoY growth (%) 
-- 
-45.4% 
-23.4% 
-34.7% 
-26.3% 
-Gross profit (RMB mn) 
-3,734  
-5,930  
-8,261  
-11,260  
-14,293  
-Gross profit margin % 
-27.4% 
-29.9% 
-33.8% 
-34.2% 
-34.3% 
-Net profit (RMB mn) 
-466  
-2,706  
-4,656  
-6,180  
-8,056  
-Net profit margin % 
-3.4% 
-13.7% 
-19.0% 
-18.7% 
-19.3% 
-EPS (RMB) 
-0.76  
-3.21  
-5.22  
-6.93  
-9.04  
-YoY growth (%) 
-- 
-322.4% 
-62.7% 
-32.7% 
-30.3% 
-Consensus EPS (RMB) 
-- 
-3.21  
-5.35  
-6.89  
-8.80  
-P/E (x) 
-345.4  
-81.8  
-50.3  
-37.9  
-29.1  
-P/B (x) 
-20.3  
-19.7  
-14.9  
-10.0  
-7.2  
-ROE (%) 
-5.9% 
-23.5% 
-29.1% 
-26.0% 
-24.4% 
-Net gearing (%) 
-23.5% 
-6.7% 
-net cash 
-net cash 
-net cash 
-Source: Company data, Bloomberg, CMBIS estimates 
- 
- 
-Willsemi (603501 CH) 
-Solid 4Q; Well poised to embrace 2022. 
-Reiterate BUY 
-28 Jan 2022 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-4Q21 Results Review 
-Figure 1: 4Q21 results review 
-RMB mn 
-1Q20 
-2Q20 
-3Q20 
-4Q20 
-1Q21 
-2Q21  
-3Q21 
-4Q21 
-QoQ 
-YoY 
-Revenue 
-3,817 
-4,226 
-5,926 
-5,855 
-6,212 
-6,236 
-5,866 
-  
- 
- 
-Gross Profit 
-1,230 
-1,371 
-1,653 
-1,675 
-2,014 
-2,105 
-2,082 
-  
- 
- 
-Operating Profit 
-489 
-559 
-797 
-1,110 
-1,175 
-1,358 
-1,378 
-  
- 
- 
-Net profit 
-445 
-545 
-736 
-980 
-1,041 
-1,203 
-1,275 
-1,150 
--9.8% 
-17.4% 
-EPS (RMB) 
-0.53 
-0.67 
-0.64 
-1.37 
-1.20 
-1.39 
-1.47 
-  
- 
- 
-Gross Margin 
-32.2% 
-32.4% 
-27.9% 
-28.6% 
-32.4% 
-33.7% 
-35.5% 
-  
- 
- 
-Operating Margin 
-12.8% 
-13.2% 
-13.5% 
-19.0% 
-18.9% 
-21.8% 
-23.5% 
-  
- 
- 
-Net Margin 
-11.7% 
-12.9% 
-12.4% 
-16.7% 
-16.8% 
-19.3% 
-21.7% 
-  
- 
- 
-Source: Company data, CMBIS estimates 
-Figure 2: 4Q21 results review 
- 
-  
-  
-  
-  
-  
-CMBI estimates 
-Consensus 
-RMB mn 
-FY18 
-FY19 
-FY20 
-FY21E 
-YoY 
-FY21 
-Diff% 
-FY21 
-Diff % 
-Revenue 
-9,702 
-13,632 
-19,824 
- 
- 
-24,470 
- 
-26,291 
- 
-Gross Profit 
-2,355 
-3,734 
-5,930 
- 
- 
-8,261 
- 
-8,840 
- 
-Operating Profit 
-224 
-785 
-2,956 
- 
- 
-5,146 
- 
-5,145 
- 
-Net profit 
-145 
-466 
-2,706 
-4,668 
-72.5% 
-4,656 
-0.3% 
-4,657 
-0.3% 
-EPS (RMB) 
-0.290 
-0.760 
-3.210 
- 
- 
-5.222 
- 
-5.346 
- 
-Gross Margin 
-24.3% 
-27.4% 
-29.9% 
- 
- 
-33.8% 
- 
-33.6% 
- 
-Operating Margin 
-2.3% 
-5.8% 
-14.9% 
- 
- 
-21.0% 
- 
-19.6% 
- 
-Net Margin 
-1.5% 
-3.4% 
-13.7% 
- 
- 
-19.0% 
- 
-17.7% 
- 
-Source: Company data, CMBIS estimates 
-Figure 3: CMBIS estimates vs consensus 
-  
-CMBIS 
-Consensus 
-Diff (%) 
-RMB mn 
-FY21E 
-FY22E 
-FY23E 
-FY21E 
-FY22E 
-FY23E 
-FY21E 
-FY22E 
-FY23E 
-Revenue 
-24,470 
-32,968 
-41,635 
-26,291 
-33,754 
-41,296 
--7% 
--2% 
-1% 
-Gross Profit 
-8,261 
-11,260 
-14,293 
-8,840 
-11,425 
-14,052 
--7% 
--1% 
-2% 
-Operating profit 
-5,146 
-6,801 
-8,885 
-5,145 
-6,666 
-8,410 
-0% 
-2% 
-6% 
-Net profit 
-4,656 
-6,180 
-8,056 
-4,657 
-6,025 
-7,599 
-0% 
-3% 
-6% 
-EPS (RMB) 
-5.222 
-6.932 
-9.035 
-5.346 
-6.885 
-8.797 
--2% 
-1% 
-3% 
-Gross Margin 
-33.8% 
-34.2% 
-34.3% 
-33.6% 
-33.8% 
-34.0% 
-0.1 ppt 
-0.3 ppt 
-0.3 ppt 
-Operating Margin 
-21.0% 
-20.6% 
-21.3% 
-19.6% 
-19.7% 
-20.4% 
-1.5 ppt 
-0.9 ppt 
-1 ppt 
-Net Margin 
-19.0% 
-18.7% 
-19.3% 
-17.7% 
-17.9% 
-18.4% 
-1.3 ppt 
-0.9 ppt 
-0.9 ppt 
-Source: Company data, CMBIS estimates  
-Figure 4: 12M forward P/E chart 
- 
-Source: Company data, CMBIS estimates 
-Figure 5: 12M forward P/E band 
- 
-Source: Company data, CMBIS estimates 
-25
-30
-35
-40
-45
-50
-55
-60
-65
-01-20 04-20 07-20
-10-20
-01-21 04-21 07-21
-10-21
-1-yr Forward P/E
-Mean
-Mean+1SD
-Mean-1SD
-0
-100
-200
-300
-400
-500
-01/20
-04/20
-07/20
-10/20
-01/21 04/21
-07/21
-10/21
-Closing Px
-34.1x
-39.9x
-45.7x
-51.5x
-57.2x
-(RMB)
-28 Jan 2022 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Financial Summary  
-Source: Company data, CMBIS estimates 
-Income statement 
- 
- 
- 
- 
-  Cash flow summary   
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E  YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E 
-Revenue 
-13,632 19,824 24,470 32,968 41,635  Pretax profit 
-705 
-2,683 
-4,710 
-6,253 
-8,150 
-COGS 
--9,898 -13,894 -16,209 -21,707 -27,342  D&A 
-578 
-765 
-850 
-930 
-1,132 
-Gross Profit 
-3,734 
-5,930 
-8,261 11,260 14,293  Change in working capital 
--1,037 
--221 
--2,142 
--1,796 
--2,363 
-  
-  
-  
-  
-  
-   Others 
-560 
-117 
-6 
-555 
-633 
-SG&A 
--1,132 
--1,147 
--1,162 
--1,418 
--1,749  Net cash from operating 
-805 
-3,345 
-3,425 
-5,942 
-7,552 
-R&D exp. 
--1,282 
--1,727 
--2,007 
--2,637 
--3,248    
-  
-  
-  
-  
-  
-Financing exp. 
--274 
--275 
--337 
--343 
--319  Capex 
--743 
--1,133 
--1,028 
--1,525 
--1,918 
-Other opex 
--260 
-176 
-392 
--62 
--93  Purchase/sale of 
--93 
--373 
--178 
--128 
--142 
-Operating profit 
-785 
-2,956 
-5,146 
-6,801 
-8,885  Purchase/sale of subs 
--805 
--1,163 
--607 
-42 
-42 
-  
-  
-  
-  
-  
-  
- Other 
--87 
-38 
-527 
-123 
-104 
-Non-operating income 
-6 
-44 
-1 
-37 
-25  Net cash from investing  
--1,728 
--2,631 
--1,287 
--1,489 
--1,914 
-Non-operating exp. 
--6 
--9 
--4 
--10 
--10    
-  
-  
-  
-  
-  
-Pre-tax profit 
-784 
-2,991 
-5,144 
-6,828 
-8,900  Change in shares 
-380 
-683 
--97 
-2,153 
-1,725 
-  
-  
-  
-  
-  
-   Change in debt 
-1,017 
-1,567 
-3,373 
-1,614 
--190 
-Income tax expenses 
--79 
--308 
--434 
--575 
--750  Dividend/interests paid 
--319 
--413 
--644 
--938 
--1,124 
-Net profit 
-705 
-2,683 
-4,710 
-6,253 
-8,150  Other 
-41 
--3 
-321 
--157 
-81 
-Non-controlling interests 
-240 
--23 
-54 
-72 
-94  Net cash from financing  
-1,120 
-1,835 
-2,953 
-2,672 
-493 
-Net profit to shareholders 
-466 
-2,706 
-4,656 
-6,180 
-8,056    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Net change in cash 
-198 
-2,548 
-5,091 
-7,125 
-6,131 
-Adj. EBITDA 
-1,363 
-3,722 
-5,997 
-7,730 10,017  Cash, beginning 
-2,921 
-3,116 
-5,423 10,452 17,516 
- 
- 
- 
- 
- 
-  Exchange difference 
--2 
--241 
--61 
--61 
--61 
- 
- 
- 
- 
- 
-  Cash, end 
-3,116 
-5,423 10,452 17,516 23,586 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E  YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E 
-Current assets 
-10,881 13,913 21,279 32,305 41,640  Revenue by segment 
-  
-  
-  
-  
-  
-Cash & equivalents 
-3,161 
-5,456 10,469 17,533 23,603  CMOS 
-9,779 14,697 16,861 22,861 29,474 
-Trade & other receivables 
-2,577 
-2,583 
-3,180 
-4,448 
-5,351  TDDI 
-0 
-744 
-1,756 
-2,980 
-3,621 
-Inventories 
-4,366 
-5,274 
-6,912 
-9,247 11,414  Others 
-3,853 
-4,383 
-5,853 
-7,127 
-8,540 
-Other current assets 
-777 
-600 
-718 
-1,077 
-1,271  Total 
-13,632 19,824 24,470 32,968 41,635 
-  
-  
-  
-  
-  
-   CMOS % 
-71.7% 
-74.1% 
-68.9% 
-69.3% 
-70.8% 
-Non-current assets 
-6,596 
-8,735 10,083 10,926 12,293    
-  
-  
-  
-  
-  
-PPE 
-1,588 
-1,871 
-1,770 
-1,961 
-2,284  Growth (%) 
-  
-  
-  
-  
-  
-Intangibles 
-1,334 
-1,509 
-1,695 
-1,453 
-1,249  Revenue 
-40.5% 
-45.4% 
-23.4% 
-34.7% 
-26.3% 
-Goodwill 
-2,249 
-2,800 
-3,005 
-2,964 
-2,922  Adj. EBITDA 
-92.4% 173.1% 
-61.1% 
-28.9% 
-29.6% 
-Other non-current assets 
-1,425 
-2,556 
-3,613 
-4,549 
-5,839  Net profit 
-221.1% 481.2% 
-72.1% 
-32.7% 
-30.3% 
-Total assets 
-17,476 22,648 31,362 43,231 53,933    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- Profit & loss ratio (%) 
-  
-  
-  
-  
-  
-Current liabilities 
-7,606 
-6,845 
-8,565 11,781 11,664  Gross margin 
-27.4% 
-29.9% 
-33.8% 
-34.2% 
-34.3% 
-ST debt & LT debt to 
-4,101 
-3,041 
-4,177 
-5,498 
-4,211  EBITDA margin 
-10.0% 
-18.8% 
-24.5% 
-23.4% 
-24.1% 
-Trade & other payables 
-3,027 
-2,544 
-3,496 
-4,474 
-5,564  Net profit margin 
-3.4% 
-13.7% 
-19.0% 
-18.7% 
-19.3% 
-Other current liabilities 
-478 
-1,260 
-892 
-1,809 
-1,889    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Balance sheet ratio 
-  
-  
-  
-  
-  
-Non-current liabilities 
-1,915 
-4,278 
-6,786 
-7,700 
-9,225  Net debt/total equity (%) 
-23.5% 
-6.7% 
-net 
-net 
-net 
-LT debt 
-928 
-3,182 
-3,193 
-3,711 
-4,808  Debt/EBITDA 
-3.7 
-1.7 
-1.6 
-1.5 
-1.1 
-Bonds payables 
-0 
-0 
-2,225 
-2,000 
-2,000  Interest coverage 
-4.8 
-12.5 
-16.2 
-16.5 
-20.0 
-Other non-current liabilities 
-987 
-1,096 
-1,368 
-1,989 
-2,417  Cash conversion cycle (days) 
-130.9 
-123.1 
-133.5 
-128.0 
-128.5 
-Total liabilities 
-9,521 11,123 15,351 19,481 20,890    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Profitability (%) 
-  
-  
-  
-  
-  
-Total equity 
-7,955 11,525 16,011 23,750 33,043  ROE 
-5.9% 
-23.5% 
-29.1% 
-26.0% 
-24.4% 
-Share capital 
-864 
-868 
-892 
-892 
-892  ROA 
-2.7% 
-11.9% 
-14.8% 
-14.3% 
-14.9% 
-Reserves 
-6,650 
-7,248 11,911 12,094 12,277    
-  
-  
-  
-  
-  
-Retained earnings 
-1,002 
-3,895 
-7,812 12,904 19,530  Per share data (RMB) 
-  
-  
-  
-  
-  
-Other equities 
--589 
--772 
--4,945 
--2,553 
--163  EPS 
-0.76 
-3.21 
-5.22 
-6.93 
-9.04 
-Minority interests 
-29 
-286 
-341 
-413 
-507  BVPS 
-12.94 
-13.33 
-17.58 
-26.17 
-36.49 
-Total liabilities and equity 
-17,476 22,648 31,362 43,231 53,933    
-  
-  
-  
-  
-  
-28 Jan 2022 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIS does not 
-provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special 
-requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report.  The value 
-of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets 
-or other variable market factors.  CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to 
-consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s) 
-to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any 
-transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense 
-whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone making use of the information contained in this report 
-does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS 
-has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices 
-and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue other publications having information and/ or 
-conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment 
-decisions or take proprietary positions that are inconsistent with the recommendations or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of 
-its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this 
-report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any 
-responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published 
-in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended 
-from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and 
-may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-CMBIS is not a registered broker-dealer in the United States.  As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the 
-independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research 
-analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the 
-analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States 
-solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other 
-person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not 
-distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information 
-provided in this report should do so only through a U.S.-registered broker-dealer.   
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the 
-Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign 
-entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed 
-in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of 
-Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact 
-CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+行 全
+A Wholly Owned Subsidiary Of China Merchants Bank
+Willsemi (603501 CH)
+BUY (Maintain)
+Solid 4Q; Well
+poised to embrace
+Target Price
+Reiterate BUY
+(Previous TP
+RMB 346.60)
+Up/Downside
++32%
+Willsemi (603501 CH) announced FY21 preliminary results. FY21 net profit is
+Current Price
+expected to grow 65-80% YoY to RMB4,468mn-RMB4,868mn, and mid-point of
+implied 4Q21 net profit is expected to reach RMB1,150mn, representing 17%
+China Technology Sector
+YoY and -10% QoQ. FY21 result is slightly higher than our forecasts by 0.3%.
+We remain positive on Willsemi and believe its non-mobile CIS business will
+Lily Yang, Ph.D
+maintain strong momentum and drive the company's future growth. Reiterate
+BUY with TP at RMB346.6.
+New products to gain market share in FY22E despite challenging
+Alex Ng
+Android smartphone market in short term. Apple became China's top
+selling smartphone brand in 4Q21 for the 1st time since 2015, and there is
+clear pressure on Android manufacturers. Third party data indicated higher
+Android smartphone inventory build-up and weaker-than-expected sell
+Lana Lin
+through. However, we believe Willsemi's mobile CIS can still gain share (in
+RMB1k-2k/RMB3k+ models) with its new 50MP/100MP/200MP products.
+■ Non-mobile CIS will help to underpin Willsemi's future growth. We are
+Stock Data
+optimistic on Willsemi's auto CIS sales. The auto CIS experienced faster-than-
+expected growth in 2021 and we expect the momentum would continue given
+peer's supply chain constraints. The growth visibility in auto CIS is clearer due
+to longer certification period for its peers. Meanwhile, AR/VR market
+opportunity and demand of security camera upgrade will also contribute
+Willsemi's future growth. According to Qualcomm's estimate, the shipment of
+Shareholding Structure
+Oculus Quest 2 headsets has already exceeded 10 million since it launched
+last October. More importantly, non-mobile CIS has high GPM, and we expect
+Willsemi's profitability will improve due to favorable product mix.
+Source: Company data
+Reiterate BUY with TP at RMB346.6 based on 50x FY22E P/E. We reiterate
+Share Performance
+BUY rating on Willsemi with TP of RMB 346.60, based on 50x FY22E P/E. We
+believe this valuation is justified given 1) its leading position CIS market, 2)
+share gain in auto, AR/VR, security CIS and 3) diversified product portfolio.
+Potential upsides include: 1) better-than-expected global smartphone demand
+Source: Bloomberg
+and 5G adoption; 2) new killer app released in VR/AR that drives substantial
+device sales. Potential downside risks include: 1) worse-than-expected global
+12-mth Price Performance
+economy that curbs consumer spending and 2) overhung chip shortage led to
+unfilled demand.
+Earnings Summary
+Auditor: BDO
+Recent report:
+Long-term positive view unchanged
+with non-mobile CIS to power future
+growth - 1 Nov 2021 (Link)
+The next chapter beyond mobile CIS
+is coming - 27 Aug 2021 (Link)
+Source: Company data, Bloomberg, CMBIS estimates
+4Q21 Results Review
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS does not
+provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special
+requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report. The value
+of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
+or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to
+consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
+to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
+transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense
+whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone making use of the information contained in this report
+does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS
+has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices
+and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other publications having information and/or
+conclusions different from this report. These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment
+decisions or take proprietary positions that are inconsistent with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of
+its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this
+report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
+responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published
+in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended
+from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and
+may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+CMBIS is not a registered broker-dealer in the United States. As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the
+independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
+analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
+analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States
+solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other
+person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
+distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information
+provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the
+Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore, CMBISG may distribute reports produced by its respective foreign
+entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed
+in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of
+Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact
+CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

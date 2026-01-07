@@ -1,1035 +1,134 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: CMBR AND http://www.cmbi.com.hk 
- 
-China Banking Sector 
- 
-Terry Sun, CFA 
-(852) 3900 0836 
-terrysun@cmbi.com.hk  
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-316,867 
-Avg 3 mths t/o (RMB mn) 
-670 
-52w High/Low (RMB)   
-5.78/4.73 
-Total Issued Shares (mn) 
-39,251 (A) 
-35,012 (H) 
-Source: Bloomberg 
- 
-Shareholding Structure 
-MoF 
-23.88% 
-HSBC 
-18.70% 
-NCSSF 
-6.07% 
-Source: Company data 
- 
-Share Performance 
-Absolute 
-Relative 
-1-mth 
-0.2% 
--5.5% 
-3-mth 
--7.6% 
--26.4% 
-6-mth 
--8.3% 
--25.4% 
-12-mth 
--12.3% 
--31.2% 
-Source: Bloomberg 
- 
-12-mth Price Performance 
- 
-Source: Bloomberg 
- 
-Auditor: PwC 
- 
-Related Reports 
-1. 
+CMB International Securities | Equity Research | Company Update
+A Wholly Owned Subsidiary Of China Merchants Bank
+Bank of Communications (601328 CH)
+HOLD (Maintain)
+Earnings laggard on asset quality deterioration
+Target Price
+(Previous TP
+RMB 6.10)
+Up/Downside
++13.2%
+BoCom's net profit declined 30.6%/14.6% YoY in 2Q/1H20, despite a solid
+Current Price
+revenue growth of 6.6%/5.2% YoY. Notable earnings contraction was mainly due
+to mounting provisions (+99.2% YoY in 2Q20) against deteriorating asset quality.
+China Banking Sector
+The Bank is following policy guidance to pile up risk reserves, and conceded total
+RMB14bn profit to the real economy during anti-COVID-19 campaign in 1H20.
+Terry Sun, CFA
+Although NPL formation may ease in 2H20, credit cost is likely to stay elevated
+given lower-than-peers provision coverage, further weighing on earnings growth.
+■ Results positives: 1) Loan/deposit growth was healthy at 2.9%/3.1% in
+Stock Data
+2Q20. Majority of new loans went to corporate side (+9.9%) in 1H20, but
+management said retail loan extension started to accelerate in 2Q20 and
+should account for more than 40% of full-year loan growth. 3) Non-interest
+income was up 8.8% YoY, driven by management service fees and
+investment gains. 3) Wealth management business capacity enhanced,
+Source: Bloomberg
+with retail AUM +8.2% HoH, no. of OTO fortune customers +8.5% HoH, and
+private banking clients +13.3% HoH.
+Shareholding Structure
+Results negatives: 1) NIM narrowed 3bp QoQ/5bp YoY to 1.52%/1.53% in
+2Q/1H20. Due to LPR cuts, asset yields shrank faster than liability cost in
+Source: Company data
+1H20. In particular, loan yield dropped 17bp HoH, but deposit cost only slid
+1bp HoH. Management expected further margin pressure in 2H20, but will try
+Share Performance
+to stabilize NIM by replacing higher-cost structured deposits/MLF with
+cheaper interbank funding. 2) Asset quality worsened. NPL ratio edged up
+9bp QoQ to 1.68%, and provision coverage declined 5.5ppt QoQ to 148.7%.
+This was partly due to more prudent NPL recognition, as SML ratio retreated
+38bp HoH. The good news is that credit card NPLs peaked out in Jun and will
+Source: Bloomberg
+likely recovered to pre-pandemic level in 3Q20. Loans under deferred
+repayment scheme amounted to RMB176bn, 3.1% of total loans as of 2Q20.
+12-mth Price Performance
+3) 2Q20 cost-income ratio rose 0.4ppt YoY to 36.2%, higher than large
+bank peers. 4) Capital position weakened, as CET1 ratio dropped 20bp QoQ
+to 10.63% on sluggish earnings and cash dividend payout.
+Maintain HOLD and trim TP to RMB5.40. We cut our FY20/21E earnings
+estimates by 14-16%, to factor in lower NIM/fee income and higher credit cost
+assumptions. Our revised RMB5.40 TP is based on 0.55x (from 0.62x) target
+P/B and FY20E BVPS of RMB9.9.
+Source: Bloomberg
+Earnings Summary
+Auditor: PwC
+Related Reports
 Muted earnings growth on COVID-
-19’s shock  – 29 Apr 2020 
-2. 
-Asset quality pressure looms with 
-rising NPL formation – 28 Oct 2019 
-3. 
-Stable earnings growth setting pace 
-for large banks – 28 Aug 2019 
-4. 
-Faster-than-peers NIM expansion – 
-29 Oct 2018 
-5. 
-Key beneficiary on policy support for 
-LG bond – 24 Aug 2018 
-2
-3
-4
-5
-6
-7
-8
-Aug-19
-Oct-19
-Dec-19
-Feb-20
-Apr-20
-Jun-20
-601328 CH
-SHSZ300  (rebased)
-(RMB)
-HOLD (Maintain) 
-Target Price 
-RMB 5.40 
-(Previous TP 
-RMB 6.10) 
-Up/Downside 
-  +13.2% 
-Current Price 
-RMB 4.77 
-1 
-     31 Aug 2020 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-BoCom’s net profit declined 30.6%/14.6% YoY in 2Q/1H20, despite a solid 
-revenue growth of 6.6%/5.2% YoY. Notable earnings contraction was mainly due 
-to mounting provisions (+99.2% YoY in 2Q20) against deteriorating asset quality. 
-The Bank is following policy guidance to pile up risk reserves, and conceded total 
-RMB14bn profit to the real economy during anti-COVID-19 campaign in 1H20. 
-Although NPL formation may ease in 2H20, credit cost is likely to stay elevated 
-given lower-than-peers provision coverage, further weighing on earnings growth.    
- Results positives: 1) Loan/deposit growth was healthy at 2.9%/3.1% in 
-2Q20. Majority of new loans went to corporate side (+9.9%) in 1H20, but 
-management said retail loan extension started to accelerate in 2Q20 and 
-should account for more than 40% of full-year loan growth. 3) Non-interest 
-income was up 8.8% YoY, driven by management service fees and 
-investment gains. 3) Wealth management business capacity enhanced, 
-with retail AUM +8.2% HoH, no. of OTO fortune customers +8.5% HoH, and 
-private banking clients +13.3% HoH.    
- Results negatives: 1) NIM narrowed 3bp QoQ/5bp YoY to 1.52%/1.53% in 
-2Q/1H20. Due to LPR cuts, asset yields shrank faster than liability cost in 
-1H20. In particular, loan yield dropped 17bp HoH, but deposit cost only slid 
-1bp HoH. Management expected further margin pressure in 2H20, but will try 
-to stabilize NIM by replacing higher-cost structured deposits/MLF with 
-cheaper interbank funding. 2) Asset quality worsened. NPL ratio edged up 
-9bp QoQ to 1.68%, and provision coverage declined 5.5ppt QoQ to 148.7%. 
-This was partly due to more prudent NPL recognition, as SML ratio retreated 
-38bp HoH. The good news is that credit card NPLs peaked out in Jun and will 
-likely recovered to pre-pandemic level in 3Q20. Loans under deferred 
-repayment scheme amounted to RMB176bn, 3.1% of total loans as of 2Q20. 
-3) 2Q20 cost-income ratio rose 0.4ppt YoY to 36.2%, higher than large 
-bank peers. 4) Capital position weakened, as CET1 ratio dropped 20bp QoQ 
-to 10.63% on sluggish earnings and cash dividend payout. 
- Maintain HOLD and trim TP to RMB5.40. We cut our FY20/21E earnings 
-estimates by 14-16%, to factor in lower NIM/fee income and higher credit cost 
-assumptions. Our revised RMB5.40 TP is based on 0.55x (from 0.62x) target 
-P/B and FY20E BVPS of RMB9.9. 
-Earnings Summary 
-(YE 31 Dec) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Operating income (RMB mn) 
-205,932 
-221,040 
-232,151 
-246,783 
-266,428 
-Net profit (RMB mn) 
-73,630 
-77,281 
-66,286 
-70,233 
-76,342 
-EPS (RMB) 
-0.96 
-1.00 
-0.86 
-0.91 
-0.99 
-EPS CHG (%) 
-5.2 
-5.1 
-(14.7) 
-6.2 
-9.0 
-Consensus EPS (RMB) 
-NA 
-NA 
-1.01 
-1.05 
-1.11 
-P/E (x) 
-5.0 
-4.7 
-5.6 
-5.2 
-4.8 
-P/B (x) 
-0.55 
-0.51 
-0.48 
-0.45 
-0.42 
-Dividend yield (%) 
-6.3 
-6.6 
-5.6 
-5.9 
-6.5 
-ROE (%) 
-11.4 
-11.2 
-8.9 
-8.9 
-9.1 
-NPL ratio (%) 
-1.49 
-1.47 
-1.74 
-1.75 
-1.71 
-Provision coverage (%) 
-173 
-172 
-153 
-160 
-169 
-Source: Company data, Bloomberg, CMBIS estimates 
- 
-Bank of Communications (601328 CH) 
-Earnings laggard on asset quality deterioration 
-31 Aug 2020 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
- 
-Figure 1: 2Q20 results summary 
-(RMB mn) 
- 
- 
- 
- 
- 
- 
- 
-P&L 
-2Q19 
-3Q19 
-4Q19 
-1Q20 
-2Q20 
-QoQ 
-YoY 
-Net interest income 
-35,205 
-36,265 
-37,756 
-36,736         37,113 
-1.0% 
-5.4% 
-Non-interest income 
-19,446 
-20,386 
-16,489 
-20,850         21,153 
-1.5% 
-8.8% 
-Operating income 
-54,651 
-56,651 
-54,245 
-57,586         58,266 
-1.2% 
-6.6% 
-Operating expense 
-(19,611) 
-(21,282) 
-(19,459) 
-(21,371)        (21,116) 
--1.2% 
-7.7% 
-PPoP 
-35,040 
-35,369 
-34,786 
-36,215         37,150 
-2.6% 
-6.0% 
-Impairment losses 
-(10,845) 
-(15,401) 
-(15,273) 
-(11,892)        (21,600) 
-81.6% 
-99.2% 
-Pre-tax profit 
-24,195 
-19,968 
-19,513 
-24,323         15,550 
--36.1% 
--35.7% 
-Income tax 
-(2,636) 
-(2,449) 
-(1,878) 
-(2,804)             (157) 
--94.4% 
--94.0% 
-Net profit 
-21,678 
-17,398 
-17,134 
-21,451         15,054 
--29.8% 
--30.6% 
-  
- 
- 
- 
- 
-  
-  
-  
-B/S 
-2Q19 
-3Q19 
-4Q19 
-1Q20 
-2Q20 
-QoQ 
-YoY 
-Gross loans 
-5,130,612 
-5,206,687 
-5,304,275 
-5,568,059     5,729,513 
-2.9% 
-11.7% 
-Total deposits 
-6,135,448 
-6,048,860 
-6,072,908 
-6,366,064     6,560,867 
-3.1% 
-6.9% 
-Total assets 
-9,886,608 
-9,932,879 
-9,905,600 10,454,383   10,669,932 
-2.1% 
-7.9% 
-NPLs 
-75,508 
-76,692 
-78,043 
-88,455         96,292 
-8.9% 
-27.5% 
-  
- 
- 
- 
- 
-  
-  
-  
-Key ratio 
-2Q19 
-3Q19 
-4Q19 
-1Q20 
-2Q20 
-QoQ 
-YoY 
-NIM 
-1.56% 
-1.56% 
-1.62% 
-1.55% 
-1.52% 
--3bp 
--4bp 
-ROE 
-13.2% 
-10.4% 
-10.0% 
-12.2% 
-8.5% 
--3.7ppt 
--4.7ppt 
-NPL ratio 
-1.47% 
-1.47% 
-1.47% 
-1.59% 
-1.68% 
-9bp 
-21bp 
-Provision coverage 
-173.5% 
-174.2% 
-171.8% 
-154.2% 
-148.7% 
--5.5ppt 
--24.8ppt 
-LDR 
-83.6% 
-86.1% 
-87.3% 
-87.5% 
-87.3% 
--0.1ppt 
-3.7ppt 
-CET-1 CAR 
-10.9% 
-11.1% 
-11.2% 
-10.8% 
-10.6% 
--20bp 
--23bp 
-Source: Company data, CMBIS 
- 
-Figure 2: Quarterly NIM of BoCom 
- 
-Source: Company data, CMBIS 
-Figure 3: NPL ratio and provision coverage of BoCom 
- 
-Source: Company data, CMBIS 
- 
-Figure 4: Adjustments of earnings forecasts 
- 
-NIM 
-Fee income growth 
-Credit cost 
-Net profit (RMB mn) 
- 
-Old 
-New 
-Change 
-Old 
-New 
-Change 
-Old 
-New 
-Change 
-Old 
-New 
-Change 
-FY20E 
-1.53% 
-1.50% 
--3bp 
-7.0% 
-4.0% 
--3ppt 
-1.02% 
-1.20% 
-+18bp 
-78,726 
-66,286 
--15.8% 
-FY21E 
-1.50% 
-1.48% 
--2bp 
-7.0% 
-5.0% 
--2ppt 
-1.00% 
-1.15% 
-+15bp 
-81,555 
-70,233 
--13.9% 
-Source: CMBIS estimates 
- 
-1.57%
-1.50%
-1.58%
-1.59%
-1.36%
-1.45%
-1.59%
-1.61%
-1.59%
-1.56%1.56%
-1.62%
-1.55%
-1.52%
-1.2%
-1.3%
-1.4%
-1.5%
-1.6%
-1.7%
-1Q17 2Q17 3Q17 4Q17 1Q18 2Q18 3Q18 4Q18 1Q19 2Q19 3Q19 4Q19 1Q20 2Q20
-166%
-171%
-171%
-173%
-173%
-174%
-174%
-172%
-154%
-149%
-1.50% 1.49%
-1.49%
-1.49% 1.47%1.47% 1.47% 1.47%
-1.59% 1.68%
-0.0%
-0.2%
-0.4%
-0.6%
-0.8%
-1.0%
-1.2%
-1.4%
-1.6%
-1.8%
-100%
-110%
-120%
-130%
-140%
-150%
-160%
-170%
-180%
-190%
-200%
-1Q18
-2Q18
-3Q18
-4Q18
-1Q19
-2Q19
-3Q19
-4Q19
-1Q20
-2Q20
-Provision coverage (LHS)
-NPL ratio (RHS)
-31 Aug 2020 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Financial Summary 
-Income Statement 
- 
- 
-  Key Ratio 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E  YE 31 Dec 
-FY18A FY19A FY20E FY21E FY22E 
-Interest income 
-348,864 
-367,453 
-393,838 
-421,642 
-454,722  Revenue mix 
- 
- 
- 
- 
- 
-Interest expenses 
-(217,956) 
-(223,370) 
-(242,621) 
-(260,884) 
-(279,750)  Net interest income 
-64% 
-65% 
-65% 
-65% 
-66% 
-Net interest income 
-130,908 
-144,083 
-151,217 
-160,758 
-174,972  Net fee income 
-20% 
-20% 
-20% 
-19% 
-19% 
-Net fee income 
-41,237 
-43,625 
-45,421 
-47,692 
-50,077  Others 
-16% 
-15% 
-15% 
-16% 
-16% 
-Others 
-33,787 
-33,332 
-35,512 
-38,333 
-41,379  Total 
-100% 100% 100% 100% 100% 
-Operating income 
-205,932 
-221,040 
-232,151 
-246,783 
-266,428   
-  
-  
-  
-  
-  
-Operating expenses 
-(75,898) 
-(80,668) 
-(87,214) 
-(94,568) 
-(103,218)  Growth, YoY 
-  
-  
-  
-  
-  
-PPoP 
-130,034 
-140,372 
-144,936 
-152,215 
-163,210  Net interest income 
-4.8% 10.1% 
-5.0% 
-6.3% 
-8.8% 
-Provision 
-(43,514) 
-(52,224) 
-(69,211) 
-(72,030) 
-(76,124)  Net fee income 
-1.7% 
-5.8% 
-4.1% 
-5.0% 
-5.0% 
-Operating profit 
-86,520 
-88,148 
-75,725 
-80,185 
-87,087  Operating income 
-12.0% 
-7.3% 
-5.0% 
-6.3% 
-8.0% 
-Non-operating income 
-(453) 
-52 
-52 
-52 
-52  PPoP 
-13.5% 
-8.0% 
-3.3% 
-5.0% 
-7.2% 
-Pre-tax profit 
-86,067 
-88,200 
-75,777 
-80,237 
-87,139  Net profit 
-4.9% 
-5.0% -14.2% 
-6.0% 
-8.7% 
-Income tax expenses 
-(11,902) 
-(10,138) 
-(8,710) 
-(9,223) 
-(10,016)  Gross loans 
-6.0% 
-9.3% 
-8.5% 
-8.5% 
-8.5% 
-Minority interests 
-(535) 
-(781) 
-(781) 
-(781) 
-(781)  Customer deposits 
-4.5% 
-4.8% 
-8.0% 
-7.5% 
-7.5% 
-Net profit 
-73,630 
-77,281 
-66,286 
-70,233 
-76,342   
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
-  Efficiency 
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
-  Cost-to-income ratio 
-35.6% 35.3% 36.2% 37.0% 37.4% 
-Balance Sheet 
- 
- 
- 
- 
-   
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E  Asset quality 
-  
-  
-  
-  
-  
-Due from central banks 
-825,506 
-745,704 
-787,682 
-846,758 
-910,265  NPL ratio 
-1.49% 1.47% 1.74% 1.75% 1.71% 
-Interbank assets 
-848,067 
-648,488 
-687,397 
-728,641 
-772,360  Provision coverage 
-173% 172% 153% 160% 169% 
-Investments 
-2,821,909 
-3,005,843 
-3,214,819 
-3,396,207 
-3,587,904  Provision/ total loans 
-2.59% 2.53% 2.67% 2.80% 2.88% 
-Gross loans 
-4,854,228 
-5,304,275 
-5,755,138 
-6,244,325 
-6,775,093  Credit costs 
-0.90% 0.97% 1.20% 1.15% 1.12% 
-Less: provision 
-125,540 
-134,052 
-153,568 
-168,567 
-182,888   
-  
-  
-  
-  
-  
-Other assets 
-307,001 
-335,342 
-353,811 
-342,616 
-329,112  Capital adequacy 
-  
-  
-  
-  
-  
-Total assets 
-9,531,171 
-9,905,600 10,645,280 11,389,980 12,191,845  CET-1 CAR 
-11.2% 11.2% 11.6% 11.6% 11.5% 
-  
- 
- 
- 
- 
-  Tier-1 CAR 
-12.2% 12.8% 13.2% 13.0% 12.9% 
-Due to central banks 
-520,138 
-462,933 
-486,080 
-510,384 
-535,903  Total CAR 
-14.4% 14.8% 13.4% 13.2% 13.1% 
-Interbank liabilities 
-2,008,908 
-1,940,140 
-2,081,703 
-2,209,137 
-2,345,813   
-  
-  
-  
-  
-  
-Customer deposits 
-5,793,324 
-6,072,908 
-6,558,741 
-7,050,646 
-7,579,445  Profitability  
-  
-  
-  
-  
-  
-Debt securities issued 
-317,688 
-403,918 
-444,310 
-488,741 
-537,615  NIM 
-1.51% 1.58% 1.50% 1.48% 1.50% 
-Other liabilities 
-185,805 
-224,789 
-233,312 
-242,262 
-251,659  ROE 
-11.4% 11.2% 
-8.9% 
-8.9% 
-9.1% 
-Total liabilities 
-8,825,863 
-9,104,688 
-9,804,146 10,501,170 11,250,434  ROA 
-0.76% 0.77% 0.62% 0.61% 0.62% 
-  
- 
- 
- 
- 
-  RoRWA 
-0.00% 0.00% 0.00% 0.00% 0.00% 
-Shareholders' equity 
-698,405 
-793,247 
-833,469 
-881,145 
-933,746   
-  
-  
-  
-  
-  
-Incl. Perpetual bonds 
-- 
-39,994 
-39,994 
-39,994 
-39,994  Per share 
-  
-  
-  
-  
-  
-Incl. Preferred stocks 
-59,876 
-59,876 
-59,876 
-59,876 
-59,876  EPS (RMB) 
-0.96 
-1.00 
-0.86 
-0.91 
-0.99 
-Minority interest 
-6,903 
-7,665 
-7,665 
-7,665 
-7,665  DPS (RMB) 
-0.30 
-0.32 
-0.27 
-0.28 
-0.31 
-Total equity 
-705,308 
-800,912 
-841,134 
-888,810 
-941,411  BVPS (RMB) 
-8.60 
-9.34 
-9.88 10.52 11.23 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Source: Company data, CMBIS estimates 
- 
- 
- 
- 
-31 Aug 2020 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIS 
-does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position 
-or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in 
-the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the 
-performance of underlying assets or other variable market factors.  CMBIS recommends that investors should independently evaluate particular investments 
-and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or 
-its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in 
-securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be 
-liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone 
-making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. 
-CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the 
-information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue other 
-publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical 
-methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in 
-this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with 
-the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report 
-and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, 
-etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange 
-Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy of this research 
-report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.  
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as 
-defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced 
-by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers 
-Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined 
-in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the 
-extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
- 
+Asset quality pressure looms with
+Stable earnings growth setting pace
+Faster-than-peers NIM expansion -
+Key beneficiary on policy support for
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: CMBIS estimates
+Financial Summary
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in
+the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or
+its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the
+information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report
+and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange
+Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy of this research
+report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as
+defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced
+by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers
+Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined
+in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the
+extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

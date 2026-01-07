@@ -1,1973 +1,585 @@
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-1 
- 
-MN 
- 
-1 Nov 2023 
-CMB International Global Markets | Equity Research | Company Update 
- 
-China Longyuan (001289 CH) 
- 
- 
- 
-Lead the way as the renewable frontrunner 
-BUY 
-China Longyuan (CLY) reported revenue of RMB28.097bn for 1Q-3Q23, 
-experiencing a 7.00% YoY decrease. However, its net profit saw a notable 
-increase of 18.95% YoY to RMB6.379bn thanks to a rapid rise in newly added 
-installed capacity of wind and solar power and lower operating costs. 
-Additionally, CLY is actively focusing on “substitution of large for small" of 
-wind turbine its old wind turbines to enhance long-term results and is actively 
-engaged in green electricity and certificate trading. The coverage of China 
-Longyuan-A is transferred to us, and we assign a TP of RMB23.28 with a 
-BUY rating. 
- 1Q-3Q23 
-earnings 
-beat. 
-For 
-1Q-3Q23, 
-CLY's 
-revenue 
-was 
-RMB28.097bn, down by 7.00% YoY. However, the attributable net profit 
-increased by 18.95% to RMB6.379bn. In particular, the wind power 
-generation revenue saw a 3.53% increase, while the thermal power 
-segment revenue experienced a 34.17% YoY decline. Other renewable 
-power segment saw a solid increase of 68.48%YoY driven by robust solar 
-power growth. The net profit attributable to shareholders up by 14.1% YoY 
-thanks to increased newly-added installed capacity and lower operating 
-cost.  
- Taking advantage of the “substitution of large for small" policy, CLY 
-has actively upgraded and expanded old wind turbines' installed 
-capacity, expecting significant long-term earnings improvement. The 
-policy allows for the retrofitting and upgrading of old wind turbines that have 
-operated for over 15 years with installed capacity below 1.5 MW. CLY, with 
-nearly 30 years of wind power project operation experience, owns a 
-significant number of old turbines, with 70% having a capacity below 1.5 
-MW and 3,000 turbines below 1 MW. Seizing the policy opportunity, CLY 
-aims to enhance its wind power generation efficiency and project scale. 
- On-grid tariffs of wind power and thermal power improved in 1Q-
-3Q23; CLY has actively engaged in green electricity and green 
-certificate trading. Both wind and thermal power tariffs rose in 1Q-2Q23, 
-driven by higher tariffs and electricity demand in the southern region. 
-Additionally, CLY has actively engaged in green electricity and green 
-certificate trading, generating an income of RMB400mn from approximately 
-1bn kWh of trading. It has mature experience in green electricity and green 
-certificate trading, which we think will provide favorable prospects for future 
-growth. 
- Assign a TP of RMB23.28 for China Longyuan-A with a BUY rating. 
-We estimate CLY's EPS for 2023/2024 to be RMB0.97/1.14, representing 
-an increase of 58.6/17.8% YoY. We assign a TP of RMB23.28 for CLY-A, 
-based on a target FY23E P/E ratio of 24.0x. Currently, CLY-A trades at 
-21.5x FY23E P/E, and we believe the valuation is attractive, given the rapid 
-growth of its newly-added installed capacity of wind and solar power, and 
-solid revenue growth potential from retrofitting old wind turbines. We have 
-a BUY rating on the stock.  
- 
-Target Price 
+China Longyuan (001289 CH)
+Lead the way as the renewable frontrunner
+BUY
+Target Price
 RMB23.28
-Upside/Downside 
+China Longyuan (CLY) reported revenue of RMB28.097bn for 1Q-3Q23,
+Upside/Downside
 14%
-Current Price 
+experiencing a 7.00% YoY decrease. However, its net profit saw a notable
+Current Price
 RMB20.41
-China Energy 
-Megan Xia, CESGA  
-(852) 3761 0836  
-meganxia@cmbi.com.hk 
- 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
+increase of 18.95% YoY to RMB6.379bn thanks to a rapid rise in newly added
+installed capacity of wind and solar power and lower operating costs.
+China Energy
+Additionally, CLY is actively focusing on "substitution of large for small" of
+Megan Xia, CESGA
+wind turbine its old wind turbines to enhance long-term results and is actively
+engaged in green electricity and certificate trading. The coverage of China
+Longyuan-A is transferred to us, and we assign a TP of RMB23.28 with a
+BUY rating.
+Stock Data
+■ 1Q-3Q23 earnings
+beat. For 1Q-3Q23, CLY's revenue
+was
+Mkt Cap (RMB mn)
 123,611
-Avg 3 mths t/o (RMB mn) 
-42.13
-52w High/Low (RMB) 
+RMB28.097bn, down by 7.00% YoY. However, the attributable net profit
+Avg 3 mths t/o (RMB mn)
+increased by 18.95% to RMB6.379bn. In particular, the wind power
+52w High/Low (RMB)
 22.46/16.9
-Total Issued Shares (mn) 
+Total Issued Shares (mn)
 8,382
-Source: FactSet 
- 
-Shareholding Structure 
-CHN Energy 
-HKSCC Nominees       39.79%  
-54.91% 
-Source: HKEx 
- 
-Share Performance 
-Absolute
-Relative
-1-mth 
-3.1%
-6.1%
-3-mth 
-3.1%
-14.9%
-6-mth 
-14.5%
-28.7%
-Source: FactSet 
-12-mth Price Performance 
-     
- 
- Source: FactSet 
- 
-Earnings Summary 
- 
- 
- 
- 
- 
-(YE 31 Dec) 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E 
-Revenue (RMB mn) 
-39,893
-39,863 
-42,649 
-47,248 
-52,036
- YoY growth (%) 
-38.5
-(0.1) 
-7.0 
-10.8 
-10.1
-Net profit (RMB mn) 
-7,423.8
-5,112.2 
-8,109.7 
-9,552.0 
-10,360.3
- YoY growth (%) 
-49.2
-(31.1) 
-58.6 
-17.8 
-8.5
-EPS (Reported) (RMB) 
-0.92
-0.61 
-0.97 
-1.14 
-1.24
-EPS Consensus(RMB) 
-na
-0.59 
-0.94 
-1.13 
-1.29
-ROE (%) 
-11.7
-7.4 
-11.2 
-12.0 
-11.7
-Source: Company data, Bloomberg, CMBIGM estimates 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-2
- 
- 
- 
-MN 
- 
-Company background 
-Global leader in wind power industry 
-China Longyuan(CLY), a subsidiary of CHN Energy, completed its IPO on the Hong Kong 
-Stock Exchange in 2009, earning the title of "China's first new energy stock." In 2022, it 
-entered the A-share market through a merger. CLY specializes in wind power and thermal 
-power generation and is recognized as a pioneer in wind power development in China. It 
-has grown into a large-scale comprehensive power generation group, with projects in wind, 
-solar, biomass, tidal, geothermal, and thermal power. CLY has established ten leading 
-technical service systems and operates in 31 provinces in China, as well as internationally 
+generation revenue saw a 3.53% increase, while the thermal power
+Source: FactSet
+segment revenue experienced a 34.17% YoY decline. Other renewable
+power segment saw a solid increase of 68.48%YoY driven by robust solar
+Shareholding Structure
+power growth. The net profit attributable to shareholders up by 14.1% YoY
+CHN Energy
+54.91%
+thanks to increased newly-added installed capacity and lower operating
+HKSCC Nominees
+39.79%
+cost.
+Source: HKEx
+Taking advantage of the "substitution of large for small" policy, CLY
+Share Performance
+has actively upgraded and expanded old wind turbines' installed
+capacity, expecting significant long-term earnings improvement. The
+policy allows for the retrofitting and upgrading of old wind turbines that have
+operated for over 15 years with installed capacity below 1.5 MW. CLY, with
+Source: FactSet
+nearly 30 years of wind power project operation experience, owns a
+12-mth Price Performance
+MW and 3,000 turbines below 1 MW. Seizing the policy opportunity, CLY
+aims to enhance its wind power generation efficiency and project scale.
+On-grid tariffs of wind power and thermal power improved in 1Q-
+3Q23; CLY has actively engaged in green electricity and green
+certificate trading. Both wind and thermal power tariffs rose in 1Q-2Q23,
+driven by higher tariffs and electricity demand in the southern region.
+Additionally, CLY has actively engaged in green electricity and green
+certificate trading, generating an income of RMB400mn from approximately
+1bn kWh of trading. It has mature experience in green electricity and green
+certificate trading, which we think will provide favorable prospects for future
+growth.
+Source: FactSet
+Assign a TP of RMB23.28 for China Longyuan-A with a BUY rating.
+We estimate CLY's EPS for 2023/2024 to be RMB0.97/1.14, representing
+an increase of 58.6/17.8% YoY. We assign a TP of RMB23.28 for CLY-A,
+based on a target FY23E P/E ratio of 24.0x. Currently, CLY-A trades at
+21.5x FY23E P/E, and we believe the valuation is attractive, given the rapid
+growth of its newly-added installed capacity of wind and solar power, and
+solid revenue growth potential from retrofitting old wind turbines. We have
+a BUY rating on the stock.
+Earnings Summary
+Company background
+Global leader in wind power industry
+China Longyuan(CLY), a subsidiary of CHN Energy, completed its IPO on the Hong Kong
+Stock Exchange in 2009, earning the title of "China's first new energy stock." In 2022, it
+entered the A-share market through a merger. CLY specializes in wind power and thermal
+power generation and is recognized as a pioneer in wind power development in China. It
+has grown into a large-scale comprehensive power generation group, with projects in wind,
+solar, biomass, tidal, geothermal, and thermal power. CLY has established ten leading
+technical service systems and operates in 31 provinces in China, as well as internationally
 in countries like Canada, South Africa, and Ukraine, contributing to global green and low-
-carbon energy development.  
- 
-As of June 2023, China Longyuan's total controlled capacity had reached 31,623.3 MW, 
-with 26,317 MW from wind power, 3,431.2 MW from other renewable sources, and 1,875 
-MW from thermal power. CLY has received prestigious awards and has been ranked 
-among the Global New Energy 500 Enterprises for ten consecutive years. With favorable 
-policy and strong shareholder support as the main operating entity for wind power under 
-CHN Energy, CLY continues to expand its wind power capacity and increase its operating 
-cash flow. 
- 
-Figure 1: China Longyuan’s development history  
-   
-Source: Company data, CMBIGM  
-Backed by CHN Energy  
-As of 1H23, CHN Energy (国家能源集团) was the largest shareholder of the company, 
-holding a majority stake of 54.91% directly. Including indirect holdings through Inner 
-Mongolia Pingzhuang Coal (Group) and CHN Energy Liaoning Electric Power, CHN 
-Energy’s total ownership amounted to 58.56%.  
- 
- 
- 
-1993
-2009
-2017
-2022
-In 2009, approved by the SASAC, China Longyuan was resructured with China Guodian and 
-China Guodian Northease Company as joint innitiators and listed on the HongKong Stock 
-Exchenge. It was hailed as the "China's first new energy stock of China's new energy"
-China Longyuan was established in Jan 1993 as a state-owned enterprise directly managed 
-by the former Ministry of Energy
-China Guodian merged with Shenhua Group, making China Longyuan a listed company 
-under the control of China Guodian
-China Longyuan completed a stock-for-stock merger with Pinzhuang Energy, achieving dual 
-listing in both Mainland China and HongKong. It continues to lead in global wind power 
-operations and actively promoted the construction and operation of new energy 
-generation
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-3
-Figure 2: CLY’s shareholder structure 
-   
- 
-Source: Company data, CMBIGM estimates 
- 
-With the approval of the CPC Central Committee and the State Council, CHN Energy was 
-formally established in 2017, following the merger of China Guodian Corporation and 
-Shenhua Group. It is a key state-owned energy enterprise (SOE) directly administered by 
-the central government, playing a pioneering role in the restructuring of SOEs, the reform 
-of state-owned capital investment, the efforts to build a top-notch energy company with 
-global competitiveness. CHN Energy provides products and services of whole industrial 
-chains including coal, electric power, transportation and chemical industries. With 
-operations distributed in 31 provinces, autonomous regions and municipalities across 
-China, as well as more than 10 countries and regions including the US and Canada, CHN 
-Energy is the world’s largest company in coal mining, thermal power, wind power and coal-
-to-liquids industries. 
- 
+carbon energy development.
+As of June 2023, China Longyuan's total controlled capacity had reached 31,623.3 MW,
+MW from thermal power. CLY has received prestigious awards and has been ranked
+among the Global New Energy 500 Enterprises for ten consecutive years. With favorable
+policy and strong shareholder support as the main operating entity for wind power under
+CHN Energy, CLY continues to expand its wind power capacity and increase its operating
+cash flow.
+Source: Company data, CMBIGM
+Backed by CHN Energy
+As of 1H23, CHN Energy (国家能源集团) was the largest shareholder of the company,
+holding a majority stake of 54.91% directly. Including indirect holdings through Inner
+Mongolia Pingzhuang Coal (Group) and CHN Energy Liaoning Electric Power, CHN
+Energy's total ownership amounted to 58.56%.
+Source: Company data, CMBIGM estimates
+With the approval of the CPC Central Committee and the State Council, CHN Energy was
+formally established in 2017, following the merger of China Guodian Corporation and
+Shenhua Group. It is a key state-owned energy enterprise (SOE) directly administered by
+the central government, playing a pioneering role in the restructuring of SOEs, the reform
+of state-owned capital investment, the efforts to build a top-notch energy company with
+global competitiveness. CHN Energy provides products and services of whole industrial
+chains including coal, electric power, transportation and chemical industries. With
+operations distributed in 31 provinces, autonomous regions and municipalities across
+China, as well as more than 10 countries and regions including the US and Canada, CHN
+Energy is the world's largest company in coal mining, thermal power, wind power and coal-
+to-liquids industries.
 CHN Energy plans to add 70-80GW of new energy installed capacity during the 14th Five-
-Year Plan period. As of 2022, its renewable energy installed capacity reached 88.81mn kW, 
-accounting for 31% of the total. CHN Energy had 25.57mn kW new energy projects 
-installed capacity that had started construction, and 11.8mn kW had been put into 
-operation.  
- 
-Additionally, CHN is tasked with the responsibility of adding new energy installed capacity 
-during the 14th Five-Year Plan period, and it is expected to achieve cumulative new energy 
-installed capacity of 50GW by 2025. Meanwhile, it plans to add 70-80GW of new energy 
-installed capacity.  
- 
-CLY is a specialized wind power operation platform under CHN Energy and has a leading 
-position in the wind power industry. It plans to achieve an additional 30GW of new energy 
-installed capacity during 14th Five-Year Plan Period The company added 2GW of new 
-energy installed capacity in 2021 and 4.4GW in 2022. Therefore, we estimated that its 
-average annual new energy installed capacity will be around 7-8GW from 2023 to 2025, 
-and the cumulative new energy installed capacity will reach or exceed 50GW by 2025. 
- 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-4
-Furthermore, CHN Energy has committed to transferring its existing wind power business 
-to CLY within the next three years, leading to a significant increase in CLY's future wind 
-power installed capacity. The agreement, signed between the two companies, has already 
-seen the transfer of 2 GW of wind power assets to CLY, with plans to transfer additional 
-wind power assets still being developed. This move has helped CLY to rapidly expand its 
-wind power capacity, driving substantial revenue and profit growth for the company. 
- 
-Business overview 
-CLY has emerged as a major comprehensive power generation conglomerate primarily 
-focused on renewable energy. It operates over 300 wind farms across China, along with 
-various power projects including solar, biomass, tidal, geothermal, and thermal power. Its 
-operations span 32 provinces, municipalities, and countries such as Canada and South 
-Africa.  
-By 2022, CLY's total controlled installed capacity across different power sources had 
-reached 31,107.8 MW. Wind power amounted to 26,191.8 MW (accounting for 84.20% of 
-the total), solidifying its position as the world's largest wind power operator. Thermal power 
-capacity stood at 1,875 MW (accounted for 6.03%), while other renewable energy sources 
-recorded 3,041 MW (accounted for 9.77%). 
-As a leading player in onshore wind power, CLY has consistently delivered positive overall 
-results. Its net profits for the years 2019 to 2021 were RMB 4.53bn, RMB 4.98 bn, and 
-RMB 6.40bn, with growth rates of 6.66%YoY, 9.97%YoY, and 28.67%YoY. 
-However, there was a decline in net profit in 2022. The profit decline was caused by: 1) the 
-decreased profit expectations for related subsidiaries or asset groups; 2) an increase in 
-electricity sales volume and revenue lagging behind the growth of new energy construction 
-costs; and 3) a decline in average on-grid tariff and weak wind resource.  
-Figure 2: CLY’s revenue composition (2022) 
- 
- 
-Source: Company data, CMBIGM estimates 
- 
-Additionally, a significant increase in impairment provisions dragged its profit in 2022 as 
-follows. Firstly, the company implemented “substitution of large for small”” in some old 
-onshore wind power projects, resulting in an impairment of RMB590mn. Secondly, due to 
-the Russia-Ukraine conflict, the company's projects in Ukraine experienced decreased 
-profit expectations, resulting in a provision of RMB640mn. Thirdly, some assets 
-experienced long-term operating losses, resulting in a loss provision of RMB51mn. 
-Moreover, some project companies in Heilongjiang and Guangxi experienced long-term 
-delays or suspension of construction, resulting in a provision of RMB260mn. 
- 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-5
-Figure 3: CLY’s main business cost (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-In 1H23, CLY recorded a net profit of RMB5.83bn, representing a 13.5% YoY increase. The 
-attributable net profit rose by 18.3%YoY to RMB5.12bn. For 1Q23-3Q23, the Group's 
-revenue amounted to RMB280.9bn, with a 7% YoY decrease. The wind power segment 
-showed a 3.53%YoY revenue increase to RMB208.57bn, while the thermal power segment 
-experienced a decline of 34.17% YoY to RMB62.14bn. The attributable net profit reached 
-RMB63.7bn, marking an 18.95% YoY increase. 
- Revenue composition 
-Since 2019, CLY's revenue has mainly come from wind power and thermal power 
-generation, with fuel sales contributing a smaller portion. In 2022, electricity generation 
-gross profit accounted for 38.75% of the total, while coal gross profit accounted for 2.31% 
-of the total. It is evident that wind power constitutes the primary source of gross profit, 
-consistently exceeding 90% over the past three years.  
-Figure 4: CLY’s power generation revenue composition (2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-Due to increased wind power project put into operation and higher electricity sales volume, 
-revenue from wind power has steadily risen in recent years. Moreover, effective cost control 
-in wind power construction has maintained a stable gross profit margin for wind power. 
-From 2020 to 2022, the gross profit margins for wind power were 53.47%, 44.16%, and 
-38.75%, respectively.  
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-6
-Figure 5: CLY’s wind power revenue (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-The company's thermal power business is operated by subsidiaries Jiangyin Sulong 
-Thermal Power Co., Ltd. and Nantong Tianshengang Power Generation Co., Ltd. With a 
-consistent thermal power capacity of 1,875 MW over the past three years, this segment's 
-revenue has remained stable and serves as a significant supplement to the company's 
-operating revenue and gross profit. In 2021 and 2022, thermal power revenue was stable 
-and amounted to RMB 9.31bn and RMB 8.78bn, respectively, maintaining stability.  
- 
-Fuel sales primarily consist of coal sales, which have experienced revenue and gross profit 
-margin volatility due to fluctuations in coal prices.  
- Power generation experienced rapid growth 
- 
-In recent years, the company has been adding 1.5-2.3mn kW of wind power capacity 
-annually. The total attributable installed capacity of wind power increased from 10,546.6 
-MW in 2012 to 26,191.8 MW in 2022.  This expansion in installed capacity has led to 
-substantial growth in power generation. 
-The company’s total power generation has displayed an upward trend, indicating overall 
-growth in electricity production. From 2019 to 2022, the total power generation increased 
-by approximately 39%. This growth was primarily driven by the expansion of wind power 
-generation, which has compensated for the decline in thermal power generation and 
-contributed to the overall increase in renewable energy generation. 
- 
-For wind power, CLY’s wind power generation has grown rapidly. The growth rates of wind 
-power generation range from 3.01% YoY in 2019 to 17.44% YoY in 2021. In 2022, wind 
-power generation increased by 13.7% YoY. This trend indicates a strong focus on and 
-investment in wind power. 
- 
-For thermal power, generation has declined over the years. The decrease trend in thermal 
-power generation can be seen from 2019 to 2022. 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-7
-Figure 7: CLY’s thermal power generation (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-Additionally, CLY’s power generation from other renewable energy has shown rapid growth 
-since 2021. In 2021, such power generation witnessed a remarkable increase of 
-246.70%YoY thanks to resilient solar power generation performance, and the growth 
-extended into 2022 and 1H23/1Q-3Q23 as well. We believe its solar power generation will 
-maintain robust growth as newly added installed capacity of solar power climbs. 
- 
-Figure 8: CLY’s wind power generation revenue (2019-2022/1H23/1Q-3Q23) 
- 
-Source: Company data, CMBIGM estimates 
- 
- Accelerated growth in new energy installed capacity  
- 
-In recent years, the company has been actively acquiring high-quality resources and 
-optimizing its development layout, particularly in the wind power sector. 
-By 2022, CLY's total controlled installed capacity had reached 31,107.8 MW, with wind 
-power accounting for 26,191.8 MW, solidifying its position as the world's largest wind power 
-company. The controlled installed capacity of thermal power stood at 1,875 MW, while other 
-renewable energy sources contributed 3,041 MW. 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-8
-Figure 9:The milestones of wind power and solar power installed capacity 
- 
-Source: Company data, CMBIGM estimates 
- 
- 
-Figure 10: CLY’s controlled installed capacity (2018-2022)  
- 
-Source: Company data, CMBIGM estimates 
- 
- Analysis of key performance metrics in CLY’s wind power operations  
- 
- 
-1) On-grid tariff showed a trend of decline while green electricity and green 
-certificate trading increased  
-CLY’s average on-grid electricity price for wind power remained steady at RMB0.482/kWh 
-in 2019 and increased slightly to RMB0.487/RMB0.489/kWh in 2020/2021. However, by 
-2022, it decreased to RMB0.481/kWh due to a raised proportion of electricity transactions. 
- 
-In 1H23, CLY's average on-grid electricity price was RMB0.457/kWh, with on-grid tariff of 
-wind power at RMB0.469/kWh (a 3.5%YoY decrease), that of solar power at 
-RMB0.313/kWh (a 33.7% YoY decrease), and that of thermal power at RMB415/MWh (a 
-3.9% YoY drop). The decline in average on-grid tariff was attributed to the growth in the 
-proportion of electricity transactions. 
- 
-For 1Q-3Q23, the average on-grid electricity price for wind power was RMB0.474/kWh, 
-while for thermal power, it was RMB0.421/kWh. Both wind and thermal power tariff 
-experienced an overall increase compared to 1H23, driven by higher tariff in south region. 
- 
-Additionally, the company’s revenue from green electricity and green certificate trading saw 
-a rise, reaching RMB400mn in 1Q-3Q23, with a total of 1bn kWh traded. We believe that 
-as green electricity and green certificate trading mature, it will bring significant revenue 
-growth for CLY in the future. 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-9
-2) Utilization hours and electricity sales  
- 
-For utilization hours and wind condition, in 2022, the average utilization hours for CLY’s 
-wind power were 2,296 hours, which decreased by 70 hours compared to 2021 due to a 
-decline in average wind speed. However, 1H23 showed an improvement, with wind power 
-utilization hours of 1,271, an increase of 98 hours compared to the same period in 2022. 
-In 1H23, wind power utilization hours slightly improved to 1,388 hours. 
- 
-For electricity sales, in 2022, the company's total electricity sales reached 68,145,463 
-MWh, with wind power accounting for 56,295,80 MWh. Wind power sales increased by 
-14.95%YoY, primarily driven by an increase in installed capacity, and alower curtailment. In 
-1H23, electricity sales amounted to 38,496 GWh. 
- 
-Figure 11: Utilization hours (2018-2022) 
- 
-Source: Company data, CMBIGM estimate 
- Thermal power experienced growth slowdown 
-For 2022, CLY’s sales volume of thermal power increased by 1.60% YoY, primarily due to 
-reduced power consumption rates at Jiangyin Sulong and Nantong Tianshengang Power 
-Co.. These companies benefit from a favorable location in Jiangsu Province, with high 
-electricity demand and prices. Their cogeneration units, operating under a clean energy 
-dispatch mechanism, enjoy priority within the regional power grid, resulting in higher 
-efficiency and utilization hours. 
-By 2022, the combined installed capacity of the two companies totaled 1,875,000 kW. In 
-2020, thermal power generation decreased by 5.21% due to the growth of external power 
-supply and new energy generation. However, there was a significant increase of 19.28% 
-in thermal power generation in 2021, accompanied by higher utilization hours. In 2022, 
-cumulative thermal power generation continued to grow, reaching 70,633,024 MWh, with 
-an 11.6% YoY increase. 
- 
-Figure 12: Thermal power generation (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-10
-Industry Analysis 
- National energy policy targets to support high-speed growth of the wind power and 
-solar power generation industry 
-In 2022, China's cumulative installed wind power capacity reached 37 GW, with a CAGR 
-of 16.17% from 2016 to 2022. The wind and solar power installation plans for different 
-regions in China during the 14th Five-Year Plan period are clear. We estimate China's wind 
-power installed capacity to reach 620mn kW by 2025, with a CAGR of 17% from 2021 to 
-2025.  
- 
-Figure 6: Newly-added wind power and solar power installed capacity in China 
-(2018-25E) 
-  
-Source: NBS, NEA, CMBIGM estimates 
- 
-According to data from Wind Daily and the National Energy Administration (NEA), in 2022, 
-wind power bidding exceeded 103.27 GW in China, and newly-added installed capacity of 
-wind power reached 37 GW. Most of the bidding capacity is expected to be grid-connected 
-in 2023, resulting in an estimated 67 GW of newly-added installed capacity and an increase 
-of around 81% YoY. Thus, in 2023, we predict the cumulative installed wind power capacity 
-to be around 432 GW in China. Additionally, the newly-added installed wind power capacity 
-in 2024 and 2025 will be up by 15% YoY and reach 77 GW and 89 GW respectively, with a 
-predicted cumulative installed wind power capacity of 509 GW and 598 GW, maintaining 
-around 20% YoY growth each year. 
- 
-Figure 7: Accumulated power installed capacity in China (2018-25E)  
- 
-Source: NBS, NEA, CMBIGM estimates 
- 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-11
-For solar power, China's solar power installed capacity was 392 GW in 2022, and the solar 
-bidding capacity for 2022 was about 155 GW. Based on views of China Photovoltaic 
-Industry Association (CPIA), China's conservative prediction for newly-added installed 
-capacity of solar power in 2023 will be 95GW, and the optimistic prediction will be 120 GW. 
-Meanwhile, according to data from the NEA, the newly-added installed capacity of solar 
-power in 1Q23 was 33.66 GW, up by 154.81% YoY. As of Apr 2023, domestic PV 
-component bids had exceeded approximately 82 GW.  
- 
-In the first eight months of this year, China added 113.16 GW of solar power installed 
-capacityrepresenting YoY growth of 154.46%. This is in line with our optimistic 
+Year Plan period. As of 2022, its renewable energy installed capacity reached 88.81mn kW,
+accounting for 31% of the total. CHN Energy had 25.57mn kW new energy projects
+installed capacity that had started construction, and 11.8mn kW had been put into
+operation.
+Additionally, CHN is tasked with the responsibility of adding new energy installed capacity
+during the 14th Five-Year Plan period, and it is expected to achieve cumulative new energy
+installed capacity of 50GW by 2025. Meanwhile, it plans to add 70-80GW of new energy
+installed capacity.
+CLY is a specialized wind power operation platform under CHN Energy and has a leading
+position in the wind power industry. It plans to achieve an additional 30GW of new energy
+installed capacity during 14th Five-Year Plan Period The company added 2GW of new
+energy installed capacity in 2021 and 4.4GW in 2022. Therefore, we estimated that its
+average annual new energy installed capacity will be around 7-8GW from 2023 to 2025,
+and the cumulative new energy installed capacity will reach or exceed 50GW by 2025.
+Furthermore, CHN Energy has committed to transferring its existing wind power business
+to CLY within the next three years, leading to a significant increase in CLY's future wind
+power installed capacity. The agreement, signed between the two companies, has already
+seen the transfer of 2 GW of wind power assets to CLY, with plans to transfer additional
+wind power assets still being developed. This move has helped CLY to rapidly expand its
+wind power capacity, driving substantial revenue and profit growth for the company.
+Business overview
+CLY has emerged as a major comprehensive power generation conglomerate primarily
+focused on renewable energy. It operates over 300 wind farms across China, along with
+various power projects including solar, biomass, tidal, geothermal, and thermal power. Its
+operations span 32 provinces, municipalities, and countries such as Canada and South
+Africa.
+By 2022, CLY's total controlled installed capacity across different power sources had
+the total), solidifying its position as the world's largest wind power operator. Thermal power
+capacity stood at 1,875 MW (accounted for 6.03%), while other renewable energy sources
+recorded 3,041 MW (accounted for 9.77%).
+As a leading player in onshore wind power, CLY has consistently delivered positive overall
+results. Its net profits for the years 2019 to 2021 were RMB 4.53bn, RMB 4.98 bn, and
+RMB 6.40bn, with growth rates of 6.66%YoY, 9.97%YoY, and 28.67%YoY.
+However, there was a decline in net profit in 2022. The profit decline was caused by: 1) the
+decreased profit expectations for related subsidiaries or asset groups; 2) an increase in
+electricity sales volume and revenue lagging behind the growth of new energy construction
+costs; and 3) a decline in average on-grid tariff and weak wind resource.
+Source: Company data, CMBIGM estimates
+Additionally, a significant increase in impairment provisions dragged its profit in 2022 as
+follows. Firstly, the company implemented "substitution of large for small" in some old
+onshore wind power projects, resulting in an impairment of RMB590mn. Secondly, due to
+the Russia-Ukraine conflict, the company's projects in Ukraine experienced decreased
+profit expectations, resulting in a provision of RMB640mn. Thirdly, some assets
+experienced long-term operating losses, resulting in a loss provision of RMB51mn.
+Moreover, some project companies in Heilongjiang and Guangxi experienced long-term
+delays or suspension of construction, resulting in a provision of RMB260mn.
+Source: Company data, CMBIGM estimates
+In 1H23, CLY recorded a net profit of RMB5.83bn, representing a 13.5% YoY increase. The
+attributable net profit rose by 18.3%YoY to RMB5.12bn. For 1Q23-3Q23, the Group's
+revenue amounted to RMB280.9bn, with a 7% YoY decrease. The wind power segment
+showed a 3.53%YoY revenue increase to RMB208.57bn, while the thermal power segment
+experienced a decline of 34.17% YoY to RMB62.14bn. The attributable net profit reached
+RMB63.7bn, marking an 18.95% YoY increase.
+Revenue composition
+Since 2019, CLY's revenue has mainly come from wind power and thermal power
+generation, with fuel sales contributing a smaller portion. In 2022, electricity generation
+gross profit accounted for 38.75% of the total, while coal gross profit accounted for 2.31%
+of the total. It is evident that wind power constitutes the primary source of gross profit,
+consistently exceeding 90% over the past three years.
+Source: Company data, CMBIGM estimates
+Due to increased wind power project put into operation and higher electricity sales volume,
+revenue from wind power has steadily risen in recent years. Moreover, effective cost control
+in wind power construction has maintained a stable gross profit margin for wind power.
+From 2020 to 2022, the gross profit margins for wind power were 53.47%, 44.16%, and
+38.75%, respectively.
+Source: Company data, CMBIGM estimates
+The company's thermal power business is operated by subsidiaries Jiangyin Sulong
+Thermal Power Co., Ltd. and Nantong Tianshengang Power Generation Co., Ltd. With a
+consistent thermal power capacity of 1,875 MW over the past three years, this segment's
+revenue has remained stable and serves as a significant supplement to the company's
+operating revenue and gross profit. In 2021 and 2022, thermal power revenue was stable
+and amounted to RMB 9.31bn and RMB 8.78bn, respectively, maintaining stability.
+Fuel sales primarily consist of coal sales, which have experienced revenue and gross profit
+margin volatility due to fluctuations in coal prices.
+Power generation experienced rapid growth
+In recent years, the company has been adding 1.5-2.3mn kW of wind power capacity
+MW in 2012 to 26,191.8 MW in 2022. This expansion in installed capacity has led to
+substantial growth in power generation.
+The company's total power generation has displayed an upward trend, indicating overall
+growth in electricity production. From 2019 to 2022, the total power generation increased
+by approximately 39%. This growth was primarily driven by the expansion of wind power
+generation, which has compensated for the decline in thermal power generation and
+contributed to the overall increase in renewable energy generation.
+For wind power, CLY's wind power generation has grown rapidly. The growth rates of wind
+power generation range from 3.01% YoY in 2019 to 17.44% YoY in 2021. In 2022, wind
+power generation increased by 13.7% YoY. This trend indicates a strong focus on and
+investment in wind power.
+For thermal power, generation has declined over the years. The decrease trend in thermal
+power generation can be seen from 2019 to 2022.
+Source: Company data, CMBIGM estimates
+Additionally, CLY's power generation from other renewable energy has shown rapid growth
+since 2021. In 2021, such power generation witnessed a remarkable increase of
+246.70%YoY thanks to resilient solar power generation performance, and the growth
+extended into 2022 and 1H23/1Q-3Q23 as well. We believe its solar power generation will
+maintain robust growth as newly added installed capacity of solar power climbs.
+Source: Company data, CMBIGM estimates
+Accelerated growth in new energy installed capacity
+In recent years, the company has been actively acquiring high-quality resources and
+optimizing its development layout, particularly in the wind power sector.
+By 2022, CLY's total controlled installed capacity had reached 31,107.8 MW, with wind
+power accounting for 26,191.8 MW, solidifying its position as the world's largest wind power
+company. The controlled installed capacity of thermal power stood at 1,875 MW, while other
+renewable energy sources contributed 3,041 MW.
+Source: Company data, CMBIGM estimates
+Source: Company data, CMBIGM estimates
+Analysis of key performance metrics in CLY's wind power operations
+On-grid tariff showed a trend of decline while green electricity and green
+certificate trading increased
+CLY's average on-grid electricity price for wind power remained steady at RMB0.482/kWh
+in 2019 and increased slightly to RMB0.487/RMB0.489/kWh in 2020/2021. However, by
+2022, it decreased to RMB0.481/kWh due to a raised proportion of electricity transactions.
+In 1H23, CLY's average on-grid electricity price was RMB0.457/kWh, with on-grid tariff of
+wind power at RMB0.469/kWh (a 3.5%YoY decrease), that of solar power at
+RMB0.313/kWh (a 33.7% YoY decrease), and that of thermal power at RMB415/MWh (a
+3.9% YoY drop). The decline in average on-grid tariff was attributed to the growth in the
+proportion of electricity transactions.
+For 1Q-3Q23, the average on-grid electricity price for wind power was RMB0.474/kWh,
+while for thermal power, it was RMB0.421/kWh. Both wind and thermal power tariff
+experienced an overall increase compared to 1H23, driven by higher tariff in south region.
+Additionally, the company's revenue from green electricity and green certificate trading saw
+a rise, reaching RMB400mn in 1Q-3Q23, with a total of 1bn kWh traded. We believe that
+as green electricity and green certificate trading mature, it will bring significant revenue
+growth for CLY in the future.
+Utilization hours and electricity sales
+For utilization hours and wind condition, in 2022, the average utilization hours for CLY's
+wind power were 2,296 hours, which decreased by 70 hours compared to 2021 due to a
+decline in average wind speed. However, 1H23 showed an improvement, with wind power
+utilization hours of 1,271, an increase of 98 hours compared to the same period in 2022.
+In 1H23, wind power utilization hours slightly improved to 1,388 hours.
+14.95%YoY, primarily driven by an increase in installed capacity, and alower curtailment. In
+1H23, electricity sales amounted to 38,496 GWh.
+Source: Company data, CMBIGM estimate
+Thermal power experienced growth slowdown
+For 2022, CLY's sales volume of thermal power increased by 1.60% YoY, primarily due to
+reduced power consumption rates at Jiangyin Sulong and Nantong Tianshengang Power
+Co.. These companies benefit from a favorable location in Jiangsu Province, with high
+electricity demand and prices. Their cogeneration units, operating under a clean energy
+dispatch mechanism, enjoy priority within the regional power grid, resulting in higher
+efficiency and utilization hours.
+By 2022, the combined installed capacity of the two companies totaled 1,875,000 kW. In
+2020, thermal power generation decreased by 5.21% due to the growth of external power
+supply and new energy generation. However, there was a significant increase of 19.28%
+in thermal power generation in 2021, accompanied by higher utilization hours. In 2022,
+cumulative thermal power generation continued to grow, reaching 70,633,024 MWh, with
+an 11.6% YoY increase.
+Source: Company data, CMBIGM estimates
+Industry Analysis
+National energy policy targets to support high-speed growth of the wind power and
+solar power generation industry
+In 2022, China's cumulative installed wind power capacity reached 37 GW, with a CAGR
+of 16.17% from 2016 to 2022. The wind and solar power installation plans for different
+regions in China during the 14th Five-Year Plan period are clear. We estimate China's wind
+power installed capacity to reach 620mn kW by 2025, with a CAGR of 17% from 2021 to
+Source: NBS, NEA, CMBIGM estimates
+wind power bidding exceeded 103.27 GW in China, and newly-added installed capacity of
+wind power reached 37 GW. Most of the bidding capacity is expected to be grid-connected
+in 2023, resulting in an estimated 67 GW of newly-added installed capacity and an increase
+of around 81% YoY. Thus, in 2023, we predict the cumulative installed wind power capacity
+to be around 432 GW in China. Additionally, the newly-added installed wind power capacity
+in 2024 and 2025 will be up by 15% YoY and reach 77 GW and 89 GW respectively, with a
+predicted cumulative installed wind power capacity of 509 GW and 598 GW, maintaining
+around 20% YoY growth each year.
+Source: NBS, NEA, CMBIGM estimates
+For solar power, China's solar power installed capacity was 392 GW in 2022, and the solar
+bidding capacity for 2022 was about 155 GW. Based on views of China Photovoltaic
+Industry Association (CPIA), China's conservative prediction for newly-added installed
+capacity of solar power in 2023 will be 95GW, and the optimistic prediction will be 120 GW.
+Meanwhile, according to data from the NEA, the newly-added installed capacity of solar
+power in 1Q23 was 33.66 GW, up by 154.81% YoY. As of Apr 2023, domestic PV
+component bids had exceeded approximately 82 GW.
+In the first eight months of this year, China added 113.16 GW of solar power installed
+capacityrepresenting YoY growth of 154.46%. This is in line with our optimistic
 expectations, so we maintain our previous forecast and we are positive that the newly-
-added installed capacity of solar power in 2023 may reach 120 GW, with cumulative 
-installed capacity of 513 GW for the year.  
- 
-Additionally, solar power will continue to maintain high growth in 2024 and 2025, and we 
-estimate cumulative solar power installed capacity will reach 652 GW and 811 GW. 
-By 2025, we estimate the cumulative installed capacity of wind and solar power will reach 
-1,409 GW, exceeding the national 14th Five-Year Plan target of 1,200 GW. 
-Figure 8: Layout of large-scale clean energy bases during the 14th Five-Year Plan 
-period  
-  
-Source: NBS, NEA 
- 
- 
-Technological innovation in the wind power industry will further reduce the cost 
-of wind power operation 
-China’s wind power industry is undergoing technological innovation during these years, 
-and new technologies will further reduce the cost of wind power. Currently, technological 
-innovation in the wind power industry is mainly focused on three areas: 1) advances in wind 
-turbine technology, including large-scale, high-efficiency, intelligent, and modular turbines; 
-2) improvements in wind farm operation and maintenance management technology, 
-including digitization, intelligence, autonomy, and integration; and 3) optimization of wind 
-farm layout and design, including site selection, wind farm layout, wind farm integration, 
-and multi-energy complementarity. 
- 
- 
-Policy support for the solar power industry and energy storage 
-The solar power industry has also received policy support, and policy dividends will drive 
-rapid development of the solar market, in our view. In recent years, the NEA  has issued a 
-notice on solar power generation development, proposing a series of policy measures, 
-including increasing support for developing PV power for poverty alleviation, promoting the 
-construction of “solar power+ energy storage” projects, and accelerating the construction 
-of demonstration PV power stations for poverty alleviation, providing strong policy 
-guarantees for the development of the solar power industry. 
- 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-12
-Overall, the new energy power generation industry in China is in a phase of rapid 
-development, with abundant resource reserves, strong policy support, continuous 
-technological improvement, and broad market prospects.  
- 
-In the future, wind power generation and photovoltaic power generation will continue to be 
-the main forms of new energy power generation, in our view. At the same time, to better 
-promote the development of new energy power generation, we believe it is also necessary 
-to strengthen grid construction and research on energy storage technologies, and improve 
-the consumption capacity and stability of new energy power generation. 
- 
-Abundant project reserves to support continued growth in 
-electricity generation 
-During the "14th Five-Year Plan" period, the CHN Energyaims to add 70-80 GW of new 
-energy installed capacity, while CLY plans to achieve 30 GW of new energy installations. 
-In 2021, there was an addition newly-added installed capacity of 2 GW, followed by 4.4 GW 
-newly added attributable installed capacity in 2022.  
- 
-For 2023, CLY's target is to add 5.5-6.5 GW of newly-added installed capacity, with a split 
-of 45% for wind power and 55% for solar power. With the declining prices of solar 
-components, we expect that the company will achieve solid newly-added installed capacity 
-in solar power. From 2024 to 2025, CLY anticipates an average annual addition of 8-9 GW 
-of newly-added installed capacity.  
- 
-Additionally, in 2022, CLY's new projects reserves increased by 9.8% YoY, reaching 62 GW, 
-and the company secured development quotas of 18.37 GW and won bids for offshore 
-wind power and solar projects with a total capacity of 2,100 MW. In 1H23, new project 
-development agreements totaling 29.34 GW were signed, marking a 77.94% YoY increase, 
-and development quotas of 4.01 GW were achieved. 
-Figure 9: CLY’s controlled installed capacity (2018-2022)  
- 
-Source: Company data, CMBIGM estimates 
- 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-13
-Lower upstream costs lead to higher IRR of wind farm and 
-solar power projects, lifting CLY’s investment willingness  
-The wind power industry in China has entered the Grid Parity Era since 2021, leading to a 
-reduction in upstream costs and a decline in wind turbine prices. According to Wind Power 
-Headlines, the highest price for onshore wind turbines reached RMB4,200/kW in mid-2020 
-and fell to the lowest at RMB1,150/kW (ex-tower tube) in Feb 2023, dropping by 73%. 
-Therefore, lower upstream costs have resulted in an increase in the IRR of wind power 
-projects, making more projects suitable for investment by CLY.As a result, we expect CLY 
-to show a higher willingness to invest in wind power installation in 2023. 
- 
-In the past three months, turbine prices have experienced a rebound. From May to July, 
-the price of onshore turbines (excluding the tower) increased to RMB1,652/kW, returning 
-to early 2023 levels. However, in recent tenders and purchases, prices have been lowered 
-again. In the latest few weeks the average winning bid price for a 350 MW onshore wind 
-power project (ex- the tower) was RMB1,601/kW. The lowest winning bid price (ex-the 
-tower) was RMB1,420/kW, while the highest winning bid price was RMB1,788/kW. The 
-winning bid price, including the tower, was RMB2,100/kW.  
- 
-Figure 17: Wind turbine price (2012-2022) – onshore wind turbine  
-  
-Source: Wind, CMBIGM estimates 
- 
-Figure 18: Onshore wind power tariff policies 
-  
-Source: NDRC, CMBIGM estimates 
- 
-The optimization of the industrial chain in the wind power sector reduces cost and increases 
-efficiency, which drives the long-term growth in IRR of the onshore wind power projects. 
-For example, if the average tariff (incl. tax) for the project is RMB0.45/kWh, and the 
-construction cost of a 100MW onshore wind power project falls from RMB4,500/kW to 
-RMB4,000/kW, the IRR of the project would increase from 11% to 14.3%. Additionally, if 
-the construction cost decreases further to RMB3,800/kWh, the IRR would increase to 
-15.5%. Despiterecent wind turbine prices have experienced a slight rebound;, the lowest 
-bidding prices in the market remain around RMB1,400. We believe that a reasonable price 
-level would be around RMB1,600. Despite this, we believe the overall profitability outlook 
-remains optimistic, indicating a positive IRR. 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-14
-Figure 19: Sensitivity analysis of IRR (onshore wind power project) 
- 
-Source: CMBIGM estimates  
-*Assuming utilization hours of 2,000 
- 
-As the IRR for wind farm projects increases thanks to lower upstream costs, more projects 
-will meet CLY's investment IRR criteria. Therefore, a higher IRR of wind power projects is 
-likely to boost CLY’s investment willingness in newly-added wind power installations. 
- 
-For solar farms, given the upstream costs continue to drop, we believe the IRR of wind 
-farm projects will further rise. Recently, the lowest reported price for solar module 
-components reached a historical low of RMB1.18/W (in July 2023). In the recent bidding 
-for a 9 GW photovoltaic component procurement by China Huadian, an astonishingly low 
-price of RMB0.993/W was observed, breaking the barrier of RMB1/W, according to the 
-latest group procurement. In light of CLY’sfocus on increasing photovoltaic installed 
-capacity in 2023, we believe the company can easily achieve and exceed its new energy’s 
-newly-added installed capacity targets for 2023. As a result, CLY’s new project IRR is 
-expected to further increase, and the process of solar power capacity installation is 
-expected to accelerate. 
- 
-Figure 20: Sensitivity analysis of IRR (solar power project) 
-  
-Source: Company data, CMBIGM estimates  
- 
-Lower upstream costs in the short to medium term are expected to benefit the IRR of CLY’s 
-new energy projects, while continuous technological progress may also create 
-opportunities for IRR improvement. Otherwise, changes in the non-technical costs related 
-to local governments will need to be monitored to comprehensively measure a project’s 
-IRR as well.  
- 
-Additionally, CLY’s accelerated deployment of wind and solar power installed capacity, as 
-well as active deployment of energy storage, should support the stability of its wind and 
-photovoltaic power generation. However, developing energy storage capacity may increase 
-construction costs and put some pressure on the project's IRR. Therefore, overall changes 
-in IRR should be considered comprehensively. 
- 
- 
-The improvement of power generation and average utilization hours 
-Due to the rapid increase in wind power and solar power installed capacity, China's wind 
-power and solar power generation have grown significantly. The average utilization hours 
-of grid-connected wind and solar power equipment have shown an overall upward trend, 
-mainly due to the significant improvement in the wind and solar power curtailment rate. 
-capital cost (RMB/watt)
-3.5
-4.0
-4.5
-5.0
-5.5
-0.35
-9%
-7%
-4%
-2%
-1%
-0.40
-14%
-11%
-8%
-6%
-4%
-Tariff (RMB, Incl. VAT)
-0.45
-18%
-14%
-11%
-9%
-7%
-0.50
-22%
-18%
-15%
-12%
-10%
-0.55
-26%
-21%
-18%
-15%
-13%
-capital cost (RMB/watt)
-2.5
-3.0
-3.5
-4.0
-4.5
-0.50
-26%
-20%
-16%
-13%
-10%
-0.45
-21%
-16%
-12%
-9%
-7%
-Tariff (RMB, ex. VAT)
-0.40
-16%
-11%
-8%
-6%
-3%
-0.35
-10%
-7%
-4%
-1%
--1%
-0.30
-5%
-1%
--2%
--4%
--7%
-Assuming utilization hours of 1300
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-15
-Figure 21: China’s wind and solar power 
-generation(2013-2022) 
- 
-Source: Company data, NDRC, CMBIGM estimates 
-Figure 22: China’s utilization hours of main power 
-(2013-2022) 
- 
-Source: Company data,NDRC, CMBIGM estimates 
- 
- 
- 
- CLY’s business highlights and valuation 
-Increase in installed capacity with strong focus on solar power 
-In the first three quarters of 2023, CLY experienced a significant increase in installed 
-capacity for renewable energy. The total newly-added installed capacity for new energy 
-reached 1,701.66 MW, with wind power contributing 570 MW and solar adding 1,121.81 
-MW. As of Sep 2023, the company's attributable installed capacity had reached 32.81 GW, 
-with solar power showing the highest growth rate. The cumulative installed capacity 
-development target for renewable energy since 2021 reached 47.38 GW, with a strong 
-focus on photovoltaic projects. We believe the abundant project reserves will support CLY 
-to reach the installed capacity target in 2025. 
-Figure 23: Solar project 
-  
-Source: Company data, CMBIGM estimates 
-Harnessing the "Replacing Small with Large" strategy and riding the 
-wave of favourable policies 
-CLY, a company with around 30 years of operation, is capitalizing on the "Replacing Small 
-with Large" strategy and favorable policies. The policy allows for the upgrading of wind 
-turbines operating for over 15 years and with capacities smaller than 1.5 MW. This presents 
-a significant opportunity for CLY, as it has been involved in wind power projects for nearly 
-30 years. The company aims to prioritize the comprehensive upgrade of old wind turbines, 
-especially those below 1 MW, which account for 70% of the total. By seizing this window 
-of opportunity, CLY aims to maximize the capacity expansion potential and enhance 
-efficiency. 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-16
-Slight decrease trend in on-grid tariff and mature green energy 
-trading system 
-Despite the on-grid tariff showed a decline trend in recent years due to higher electricity 
-trading proportion..CLY has also established a mature green energy and green certificate 
-trading system. In 1Q-3Q23, the company conducted 61 transactions, resulting in 1bn kWh 
-of green electricity traded at a premium price compared to the benchmark price. This 
-trading system provided additional revenue of RMB400mn. The company remains 
-confident in the opportunities presented by the green energy market. In the future, we 
-believe CLY will benefit more from green power and green certificate trading. 
-Share repurchases plan as a display of confidence 
-On Sep 2023, CLY granted general authorization to the Board of Directors to repurchase 
-up to 10% of the total issued H-shares during the authorized period. This decision reflects 
-the company's confidence in its future prospects and signifies its commitment to enhancing 
-shareholder value. 
- 
-Financial analysis and valuation 
- 
-P&L analysis 
-From 2020 to 2022, CLY's main operating income remained stable, with growth rates of 
-5.11%, 29.10%, and 7.24% YoY, respectively. In 2022, the company achieved a main 
-operating income of RMB39.45bn, primarily from wind power and thermal power. The main 
-operating costs of the company increased by 2.70%, 34.61%, and 7.50% YoY in 2020, 
-2021, and 2022, respectively.  
- 
-In 2022, the main business costs amounted to RMB25.905bn, with a composition similar 
-to that of the main business income, mainly from the wind power and thermal power 
-sectors. The company's gross profit margin for the main business was 37.22%, 34.87%, 
-and 34.34% from 2020 to 2022, respectively.  
- 
-Over the past three years, operating expenses have shown a stable increasing trend, with 
-financial expenses being the largest component.  
- 
-CLY's net profit for the years 2020, 2021, and 2022 was RMB5.748bn, 7.263bn, and 
-6.096bn, respectively. The significant decrease in net profit is mainly due to declining 
-electricity prices and asset impairment, with the company recognizing asset impairment 
-losses of RMB2bn in 2022, a substantial increase compared to the previous year.  
-Figure 24: Attributable solar power installed capacity (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-In the first three quarters of 2023, the company's revenue decreased by RMB2.11bn to 
-RMB28.097bn. Wind power revenue increased by RMB710mn, driven by expanded 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-17
-installed capacity and higher wind power sales. However, the thermal power segment saw 
-a decline in revenue due to weak demand and reduced coal sales. Operating expenses 
-decreased by 11.97% YoY, and financial expenses dropped by 14.4% YoY. Attributable net 
-profit showed a positive trend, increasing by 18.97% YoY, primarily due to the growth in 
-installed capacity and improved power sales performance. 
-Figure 25: CLY’s net profit (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-Balance sheet (B/S) analysis  
-CLY has obtained most of its project investment funds through external financing, resulting 
-in a continuous expansion of liabilities in recent years. At the end of 2020, 2021, and 2022, 
-the company's total liabilities amounted to RMB107.757bn, RMB116.587bn, and 
-RMB144.765bn, respectively, with liability-asset ratios of 61.71%, 61.59%, and 64.95%.  
- 
-The proportion of current liabilities to total liabilities increased from 47.42% in 2020 to 
-51.23% in 2022, while the proportion of non-current liabilities increased from 50.02% to 
-53.68% during the same period. The company's total assets mainly consist of fixed assets 
-and construction in progress, accounting for a significant proportion of total assets. As of 
-the end of 2022, the proportion of fixed assets and construction in progress to total assets 
-was 68.36%.  
- 
-Accounts receivable, including bills receivable, accounts receivable, and other receivables, 
-amounted to RMB276.43bn at the end of 2022, with a YoY increase of RMB5.73bn. The 
-increase in accounts receivable is mainly attributed to the increase in renewable energy 
-power generation and the delayed receipt of renewable energy generation subsidies.  
- 
-Overall, the company's liability scale has expanded due to external financing, while the 
-asset structure is predominantly composed of fixed assets and construction in progress, 
-with a certain increase in current assets. The growing scale of accounts receivable still take 
-time to figure out. 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-18
-Figure 26: CLY’s account receivables (2019-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
-CF analysis 
-The 
-net 
-cash 
-flows 
-generated 
-from 
-operating 
-activities 
-of 
-CLY 
-were  
-RMB12.27bn/16.76bn/29.61bn in 2020/2021/2022. The cash flows from operating activities 
-showed a slight decrease in 2020, followed by significant increases in 2021 and 2022.  
- 
-Financing cash flows were RMB9.459bn/95mn/384mn in 2020, 2021, and 2022. The 
-significant increase in 2020 was mainly attributed to external borrowings, while the 
-subsequent years showed smaller fluctuations.  
- 
-In terms of net cash flows, the company experienced a notable increase in 2020, a negative 
-cash flow in 2021 due to project expenditures and loan repayments, and a significant 
-increase again in 2022.  
-Figure 27: CLY’s operating cashflow (2018-2022) 
- 
-Source: Company data, CMBIGM estimates 
- 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-19
- 
- Key assumptions and valuation 
-In 2022, the company's attributable net profit decreased by 31.1% YoY to RMB5.11bn. This 
-was primarily due to a one-time provision for impairment of RMB2.04bn. Excluding the 
-impact of impairment, the attributable net profit decreased by RMB340mn mainly because 
-of unfavorable wind conditions, resulting in lower revenue in 2022. 
- 
-Looking ahead, we anticipate that the company's revenue will increase by 7%, 11% YoY 
-and 10%YoY in 2023/2024/2025, reaching RMB42.6bn,RMB47.2bn and RMB52.0bn, 
-respectively. We expect no significant impairment factors to affect the company in 2023, 
-and we project that the net profit attributable to shareholders will increase by 59%YoY, 8% 
-YoY, 9% YoY in 2023/ 2024/2025, reaching RMB8.11bn,RMB9.55bn and RMB10.36bn, 
-respectively. 
- 
-Additionally, we estimate the company's earnings per share for 2023 and 2025 to be 
-RMB0.97,RMB1.14,RMB1.24/share, respectively. 
-Figure 28: Key assumptions (2020-25E) 
-  
-Source: Company data, CMBIGM estimates 
- 
-We assign a target price of RMB23.28 for CLY-A shares, based on FY23E P/E ratio of 24.0x 
-(close to +1SD of 3-year avg. P/E). Currently, CLY-A trades at 21.8x FY23E P/E. We believe 
-the valuation is not demanding but still has upside potential. Given the rapid growth of the 
-company’s newly-added installed capacity of wind power and solar power, improved wind 
-condition, and "substitution of large for small" will unlock growth potential, we have a BUY 
-rating for CLY-A. 
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-20
-Figure 10: PE Band (China Longyuan-A) 
-  
-Source: Company data, CMBIGM estimates 
-Figure 30: PB Band (China Longyuan-A) 
-  
-Source: Company data, CMBIGM estimates 
-Figure 31: Peers table (A-shares)  
-   
-Source: Company data, CMBIGM estimates 
-Figure 32: Peers table (H-shares) 
-   
-Source: Company data, CMBIGM estimates 
- 
-Closing 
-Price 
-Mkt cap
-23-25E
-Company
-Ticker
-(RMB)
-(RMBmn)
- 23E 
- 24E 
- 25E 
- CAGR 
- 23E 
- 24E 
- 25E 
- 23E 
- 24E 
- 25E 
-CHINA LONGYUAN-A
-001289 CH
-20.41
-123611.01
-0.94
-1.11
-1.23
-14.6%
-21.83
-18.42
-16.61
-2.22
-2.04
-1.85
-CHINA THREE GO-A
-600905 CH
-4.80
-137390.78
-0.30
-0.35
-0.42
-18.7%
-16.22
-13.56
-11.51
-1.64
-1.48
-1.32
-HUANENG POWER-A
-600011 CH
-7.61
-99777.85
-0.88
-0.94
-1.11
-12.4%
-8.70
-8.14
-6.88
-1.03
-0.99
-0.87
-CHINA SOUTHERN-A
-003035 CH
-5.44
-20606.06
-0.17
-0.23
-0.31
-35.9%
-32.00
-23.25
-17.32
-2.93
-2.62
-2.28
-ZHONGMIN ENER-A
-600163 CH
-4.50
-8563.48
-0.42
-0.44
-0.46
-4.7%
-10.71
-10.23
-9.78
-1.33
-1.19
-1.08
-CECEP WIND POW-A
-601016 CH
-3.17
-20525.41
-0.28
-0.32
-0.35
-11.8%
-11.32
-10.06
-9.06
-1.09
-0.95
-0.86
-Average
-16.8
-13.9
-11.9
-1.7
-1.5
-1.4
-EPS
-PER
-PBR
-Closing 
-Price 
-Mkt cap
-23-25E
-Company
-Ticker
-(HK$)
-(HK$mn)
- 23E 
- 24E 
- 25E 
- CAGR 
- 23E 
- 24E 
- 25E 
- 23E 
- 24E 
- 25E 
-CHINA LONGYUAN-H
-916 HK
-6.63
-132203.50
-0.94
-1.12
-1.28
-16.6%
-6.57
-5.52
-4.84
-0.70
-0.64
-0.58
-CHINA SUNTIEN-H
-956 HK
-2.72
-25745.51
-0.54
-0.65
-0.78
-20.7%
-4.74
-3.94
-3.25
-0.50
-0.46
-0.43
-CHINA POWER INTE
-2380 HK
-3.04
-37605.26
-0.32
-0.45
-0.56
-33.8%
-9.02
-6.26
-5.04
-0.77
-0.70
-0.63
-CHINA RES POWER
-836 HK
-15.16
-72926.33
-2.68
-3.08
-3.69
-17.2%
-5.65
-4.93
-4.11
-0.81
-0.73
-0.65
-CGN NEW ENERGY H
-1811 HK
-2.04
-8753.28
-0.08
-0.08
-0.09
-6.1%
-3.26
-3.26
-2.90
-na
-na
-na
-CHINA DATANG C-H
-1798 HK
-1.77
-12874.45
-0.40
-0.44
-0.51
-12.5%
-4.11
-3.75
-3.25
-0.65
-0.57
-0.49
-DATANG INTL PO-H
-991 HK
-1.18
-41548.16
-0.19
-0.27
-0.32
-29.8%
-5.81
-4.09
-3.45
-0.31
-0.29
-0.27
-HUANENG POWER-H
-902 HK
-3.66
-106713.64
-0.83
-0.89
-1.05
-13.0%
-4.15
-3.85
-3.25
-0.45
-0.48
-0.42
-HUADIAN POWER-H
-1071 HK
-3.14
-50082.44
-0.56
-0.71
-0.80
-19.1%
-5.21
-4.15
-3.67
-0.56
-0.51
-0.43
-CONCORD NE
-182 HK
-0.64
-5404.62
-0.12
-0.13
-0.15
-11.8%
-4.99
-4.60
-3.99
-0.94
-0.89
-0.78
-Average
-5.2
-4.3
-3.7
-0.6
-0.6
-0.5
-EPS
-PER
-PBR
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-21
-Financial Summary 
-INCOME STATEMENT 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Revenue 
-28,807 
-39,893 
-39,863 
-42,649 
-47,248 
-52,036 
-Cost of goods sold 
-(18,085) 
-(25,348) 
-(26,139) 
-(27,539) 
-(29,609) 
-(32,610) 
-Gross profit 
-10,722 
-14,545 
-13,724 
-15,110 
-17,639 
-19,427 
-Operating expenses 
-(206) 
-366 
-246 
-1,870 
-(72) 
-(36) 
-Selling expense 
-3 
-3 
-0  
-0  
-0  
-0  
-Admin expense 
-354 
-363 
-398 
-301 
-384 
-425 
-Others 
-(563) 
-0 
-(152) 
-1,568 
-(456) 
-(461) 
-Operating profit 
-10,081 
-13,965 
-11,492 
-14,795 
-17,246 
-18,928 
-Other expense 
-3,148 
-3,998 
-3,806 
-3,250 
-3,574 
-3,879 
-Other gains/(losses) 
-47 
-49 
-(49) 
-0  
-0  
-0  
-Pre-tax profit 
-6,981 
-10,016 
-7,638 
-11,545 
-13,672 
-15,049 
-Income tax 
-1,233 
-1,599 
-1,542 
-2,308 
-2,801 
-3,159 
-After tax profit 
-5,748 
-8,417 
-6,096 
-9,237 
-10,871 
-11,890 
-Minority interest  
-770 
-993 
-983 
-1,127 
-1,319 
-1,530 
-Net profit 
-4,977 
-7,424 
-5,112 
-8,110 
-9,552 
-10,360 
-BALANCE SHEET 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Current assets 
-31,356 
-40,136 
-53,286 
-40,002 
-44,827 
-42,779 
-Cash & equivalents 
-5,588 
-4,175 
-20,493 
-6,407 
-9,230 
-5,260 
-Account receivables 
-1,594 
-1,094 
-1,362 
-1,263 
-1,422 
-1,588 
-Inventories 
-801 
-765 
-750 
-746 
-803 
-885 
-Other current assets 
-23,374 
-34,101 
-30,682 
-31,586 
-33,372 
-35,046 
-Non-current assets 
-143,272 
-165,010 
-169,609 
-192,919 
-219,639 
-249,638 
-PP&E 
-96,942 
-125,724 
-134,641 
-147,143 
-166,552 
-190,358 
-Deferred income tax 
-207 
-286 
-506 
-506 
-506 
-506 
-Intangibles 
-14,690 
-13,757 
-13,132 
-13,441 
-13,667 
-13,808 
-Other non-current assets 
-31,434 
-25,243 
-21,330 
-31,828 
-38,915 
-44,967 
-Total assets 
-174,629 
-205,146 
-222,895 
-232,921 
-264,467 
-292,418 
- 
- 
- 
- 
- 
- 
-Current liabilities 
-53,862 
-63,533 
-74,711 
-75,907 
-77,644 
-80,044 
-Short-term borrowings 
-15,341 
-19,893 
-18,524 
-18,624 
-18,624 
-18,624 
-Account payables 
-7,971 
-11,764 
-11,100 
-11,770 
-12,736 
-14,027 
-Tax payable 
-665 
-723 
-795 
-913 
-982 
-1,082 
-Other current liabilities 
-29,886 
-31,153 
-44,292 
-44,600 
-45,303 
-46,312 
-Non-current liabilities 
-53,895 
-63,191 
-68,105 
-67,888 
-87,591 
-102,295 
-Long-term borrowings 
-35,402 
-46,373 
-55,548 
-55,252 
-74,956 
-89,660 
-Other non-current liabilities 
-18,493 
-16,818 
-12,557 
-12,636 
-12,636 
-12,636 
-Total liabilities 
-107,757 
-126,724 
-142,816 
-143,795 
-165,236 
-182,339 
- 
- 
- 
- 
- 
- 
-Share capital 
-8,036 
-8,036 
-8,382 
-8,382 
-8,382 
-8,382 
-Other reserves 
-44,428 
-54,778 
-55,867 
-62,995 
-70,990 
-79,516 
-Total shareholders equity 
-58,104 
-68,499 
-68,807 
-75,935 
-83,930 
-92,456 
-Total equity and liabilities 
-174,629 
-205,146 
-222,895 
-232,921 
-264,467 
-292,418 
-   
- 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-22
-CASH FLOW 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Operating 
- 
- 
- 
- 
- 
- 
-Profit before taxation 
-4,977 
-7,424 
-5,112 
-8,110 
-9,552 
-10,360 
-Depreciation & amortization 
-7,729 
-8,187 
-10,158 
-12,454 
-13,990 
-15,899 
-Change in working capital 
-(6,100) 
-(2,875) 
-2,915 
-301 
-(266) 
-478 
-Others 
-5,667 
-5,384 
-11,421 
-4,351 
-4,843 
-5,359 
-Net cash from operations 
-12,273 
-18,120 
-29,606 
-25,216 
-28,119 
-32,096 
- 
- 
- 
- 
- 
- 
-Investing 
- 
- 
- 
- 
- 
- 
-Capital expenditure 
-(19,677) 
-(18,273) 
-(22,255) 
-(35,151) 
-(40,067) 
-(45,256) 
-Others 
-236 
-(737) 
-3,246 
-0  
-0  
-0  
-Net cash from investing  
-(19,441) 
-(19,010) 
-(19,009) 
-(35,151) 
-(40,067) 
-(45,256) 
- 
- 
- 
- 
- 
- 
-Financing 
- 
- 
- 
- 
- 
- 
-Dividend paid 
-(2,916) 
-(3,399) 
-(4,501) 
-(4,232) 
-(5,131) 
-(5,713) 
-Net borrowings 
-6,029 
-17,006 
-8,261 
-(196) 
-19,704 
-14,704 
-Others 
-6,347 
-(14,413) 
-79 
-277 
-198 
-198 
-Net cash from financing  
-9,459 
-(807) 
-3,839 
-(4,151) 
-14,771 
-9,189 
- 
- 
- 
- 
- 
- 
-Net change in cash 
- 
- 
- 
- 
- 
- 
-Cash at the beginning of the year 
-2,907 
-5,225 
-3,536 
-17,961 
-3,875 
-6,698 
-Cash at the end of the year 
-5,225 
-3,536 
-17,961 
-3,875 
-6,698 
-2,728 
-GROWTH 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Revenue 
-4.5% 
-38.5% 
-(0.1%) 
-7.0% 
-10.8% 
-10.1% 
-Gross profit 
-8.5% 
-36.0% 
-(6.0%) 
-10.2% 
-16.9% 
-10.1% 
-Operating profit 
-9.0% 
-43.7% 
-(22.9%) 
-50.2% 
-18.4% 
-10.1% 
-Net profit 
-10.0% 
-49.2% 
-(31.1%) 
-58.6% 
-17.8% 
-8.5% 
-PROFITABILITY 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Gross profit margin 
-36.3% 
-35.6% 
-33.5% 
-34.5% 
-36.4% 
-36.4% 
-Operating margin 
-24.1% 
-25.0% 
-19.3% 
-27.1% 
-28.9% 
-28.9% 
-Return on equity (ROE) 
-8.9% 
-11.7% 
-7.4% 
-11.2% 
-12.0% 
-11.7% 
-GEARING/LIQUIDITY/ACTIVITIES 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Current ratio (x) 
-0.6 
-0.6 
-0.7 
-0.5 
-0.6 
-0.5 
-Receivable turnover days 
-1.7 
-3.0 
-5.1 
-5.1 
-5.1 
-5.1 
-Inventory turnover days 
-16.2 
-10.8 
-10.6 
-10.0 
-10.0 
-10.0 
-VALUATION 
-2020A 
-2021A 
-2022A 
-2023E 
-2024E 
-2025E 
-YE 31 Dec 
- 
- 
- 
- 
- 
- 
-Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets. 
- 
- 
-1 Nov 2023 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-23
- 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in 
-this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as 
-an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
-CMBIGM Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIGM 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Global Markets Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
-CMB International Global Markets Limited (“CMBIGM”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned 
-subsidiary of China Merchants Bank) 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIGM 
-does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position 
-or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the 
-report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the 
-performance of underlying assets or other variable market factors.  CMBIGM recommends that investors should independently evaluate particular investments 
-and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM 
-or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in 
-securities or enter into any transaction.  Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be 
-liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone 
-making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. 
-CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides 
-the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notic e. CMBIGM may issue other 
-publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical 
-methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in 
-this report. 
-CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with 
-the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report 
-and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM. 
-Additional information on recommended securities is available upon request. 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, 
-etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.  
-For recipients of this document in the United States 
-CMBIGM is not a registered broker-dealer in the United States.  As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports 
-and the independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified 
-as a research analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules 
-intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is 
-intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 
-1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report 
-by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to 
-effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.  
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined 
-in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its 
-respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. 
-Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities 
-and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. 
-Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+added installed capacity of solar power in 2023 may reach 120 GW, with cumulative
+installed capacity of 513 GW for the year.
+Additionally, solar power will continue to maintain high growth in 2024 and 2025, and we
+estimate cumulative solar power installed capacity will reach 652 GW and 811 GW.
+By 2025, we estimate the cumulative installed capacity of wind and solar power will reach
+1,409 GW, exceeding the national 14th Five-Year Plan target of 1,200 GW.
+Source: NBS, NEA
+Technological innovation in the wind power industry will further reduce the cost
+of wind power operation
+China's wind power industry is undergoing technological innovation during these years,
+and new technologies will further reduce the cost of wind power. Currently, technological
+innovation in the wind power industry is mainly focused on three areas: 1) advances in wind
+turbine technology, including large-scale, high-efficiency, intelligent, and modular turbines;
+2) improvements in wind farm operation and maintenance management technology,
+including digitization, intelligence, autonomy, and integration; and 3) optimization of wind
+farm layout and design, including site selection, wind farm layout, wind farm integration,
+and multi-energy complementarity.
+Policy support for the solar power industry and energy storage
+The solar power industry has also received policy support, and policy dividends will drive
+rapid development of the solar market, in our view. In recent years, the NEA has issued a
+notice on solar power generation development, proposing a series of policy measures,
+including increasing support for developing PV power for poverty alleviation, promoting the
+construction of "solar power+ energy storage" projects, and accelerating the construction
+of demonstration PV power stations for poverty alleviation, providing strong policy
+guarantees for the development of the solar power industry.
+Overall, the new energy power generation industry in China is in a phase of rapid
+development, with abundant resource reserves, strong policy support, continuous
+technological improvement, and broad market prospects.
+In the future, wind power generation and photovoltaic power generation will continue to be
+the main forms of new energy power generation, in our view. At the same time, to better
+promote the development of new energy power generation, we believe it is also necessary
+to strengthen grid construction and research on energy storage technologies, and improve
+the consumption capacity and stability of new energy power generation.
+Abundant project reserves to support continued growth in
+electricity generation
+During the "14th Five-Year Plan" period, the CHN Energyaims to add 70-80 GW of new
+energy installed capacity, while CLY plans to achieve 30 GW of new energy installations.
+In 2021, there was an addition newly-added installed capacity of 2 GW, followed by 4.4 GW
+newly added attributable installed capacity in 2022.
+For 2023, CLY's target is to add 5.5-6.5 GW of newly-added installed capacity, with a split
+of 45% for wind power and 55% for solar power. With the declining prices of solar
+components, we expect that the company will achieve solid newly-added installed capacity
+in solar power. From 2024 to 2025, CLY anticipates an average annual addition of 8-9 GW
+of newly-added installed capacity.
+Additionally, in 2022, CLY's new projects reserves increased by 9.8% YoY, reaching 62 GW,
+and the company secured development quotas of 18.37 GW and won bids for offshore
+wind power and solar projects with a total capacity of 2,100 MW. In 1H23, new project
+development agreements totaling 29.34 GW were signed, marking a 77.94% YoY increase,
+and development quotas of 4.01 GW were achieved.
+Source: Company data, CMBIGM estimates
+Lower upstream costs lead to higher IRR of wind farm and
+solar power projects, lifting CLY's investment willingness
+The wind power industry in China has entered the Grid Parity Era since 2021, leading to a
+and fell to the lowest at RMB1,150/kW (ex-tower tube) in Feb 2023, dropping by 73%.
+Therefore, lower upstream costs have resulted in an increase in the IRR of wind power
+projects, making more projects suitable for investment by CLY.As a result, we expect CLY
+to show a higher willingness to invest in wind power installation in 2023.
+In the past three months, turbine prices have experienced a rebound. From May to July,
+the price of onshore turbines (excluding the tower) increased to RMB1,652/kW, returning
+to early 2023 levels. However, in recent tenders and purchases, prices have been lowered
+again. In the latest few weeks the average winning bid price for a 350 MW onshore wind
+power project (ex- the tower) was RMB1,601/kW. The lowest winning bid price (ex-the
+tower) was RMB1,420/kW, while the highest winning bid price was RMB1,788/kW. The
+winning bid price, including the tower, was RMB2,100/kW.
+Source: NDRC, CMBIGM estimates
+The optimization of the industrial chain in the wind power sector reduces cost and increases
+efficiency, which drives the long-term growth in IRR of the onshore wind power projects.
+For example, if the average tariff (incl. tax) for the project is RMB0.45/kWh, and the
+construction cost of a 100MW onshore wind power project falls from RMB4,500/kW to
+RMB4,000/kW, the IRR of the project would increase from 11% to 14.3%. Additionally, if
+the construction cost decreases further to RMB3,800/kWh, the IRR would increase to
+15.5%. Despiterecent wind turbine prices have experienced a slight rebound;, the lowest
+bidding prices in the market remain around RMB1,400. We believe that a reasonable price
+level would be around RMB1,600. Despite this, we believe the overall profitability outlook
+remains optimistic, indicating a positive IRR.
+As the IRR for wind farm projects increases thanks to lower upstream costs, more projects
+will meet CLY's investment IRR criteria. Therefore, a higher IRR of wind power projects is
+likely to boost CLY's investment willingness in newly-added wind power installations.
+For solar farms, given the upstream costs continue to drop, we believe the IRR of wind
+farm projects will further rise. Recently, the lowest reported price for solar module
+components reached a historical low of RMB1.18/W (in July 2023). In the recent bidding
+for a 9 GW photovoltaic component procurement by China Huadian, an astonishingly low
+price of RMB0.993/W was observed, breaking the barrier of RMB1/W, according to the
+latest group procurement. In light of CLY'sfocus on increasing photovoltaic installed
+capacity in 2023, we believe the company can easily achieve and exceed its new energy's
+newly-added installed capacity targets for 2023. As a result, CLY's new project IRR is
+expected to further increase, and the process of solar power capacity installation is
+expected to accelerate.
+Source: Company data, CMBIGM estimates
+Lower upstream costs in the short to medium term are expected to benefit the IRR of CLY's
+new energy projects, while continuous technological progress may also create
+opportunities for IRR improvement. Otherwise, changes in the non-technical costs related
+to local governments will need to be monitored to comprehensively measure a project's
+IRR as well.
+Additionally, CLY's accelerated deployment of wind and solar power installed capacity, as
+well as active deployment of energy storage, should support the stability of its wind and
+photovoltaic power generation. However, developing energy storage capacity may increase
+construction costs and put some pressure on the project's IRR. Therefore, overall changes
+in IRR should be considered comprehensively.
+The improvement of power generation and average utilization hours
+Due to the rapid increase in wind power and solar power installed capacity, China's wind
+power and solar power generation have grown significantly. The average utilization hours
+of grid-connected wind and solar power equipment have shown an overall upward trend,
+mainly due to the significant improvement in the wind and solar power curtailment rate.
+Source: Company data, NDRC, CMBIGM estimates
+Source: Company data, NDRC, CMBIGM estimates
+CLY's business highlights and valuation
+Increase in installed capacity with strong focus on solar power
+In the first three guarters of 2023, CLY experienced a significant increase in installed
+capacity for renewable energy. The total newly-added installed capacity for new energy
+MW. As of Sep 2023, the company's attributable installed capacity had reached 32.81 GW,
+with solar power showing the highest growth rate. The cumulative installed capacity
+development target for renewable energy since 2021 reached 47.38 GW, with a strong
+focus on photovoltaic projects. We believe the abundant project reserves will support CLY
+to reach the installed capacity target in 2025.
+Source: Company data, CMBIGM estimates
+Harnessing the "Replacing Small with Large" strategy and riding the
+wave of favourable policies
+CLY, a company with around 30 years of operation, is capitalizing on the "Replacing Small
+with Large" strategy and favorable policies. The policy allows for the upgrading of wind
+turbines operating for over 15 years and with capacities smaller than 1.5 MW. This presents
+a significant opportunity for CLY, as it has been involved in wind power projects for nearly
+30 years. The company aims to prioritize the comprehensive upgrade of old wind turbines,
+especially those below 1 MW, which account for 70% of the total. By seizing this window
+of opportunity, CLY aims to maximize the capacity expansion potential and enhance
+efficiency.
+Slight decrease trend in on-grid tariff and mature green energy
+trading system
+Despite the on-grid tariff showed a decline trend in recent years due to higher electricity
+trading proportion. CLY has also established a mature green energy and green certificate
+trading system. In 1Q-3Q23, the company conducted 61 transactions, resulting in 1bn kWh
+of green electricity traded at a premium price compared to the benchmark price. This
+trading system provided additional revenue of RMB400mn. The company remains
+confident in the opportunities presented by the green energy market. In the future, we
+believe CLY will benefit more from green power and green certificate trading.
+Share repurchases plan as a display of confidence
+On Sep 2023, CLY granted general authorization to the Board of Directors to repurchase
+up to 10% of the total issued H-shares during the authorized period. This decision reflects
+the company's confidence in its future prospects and signifies its commitment to enhancing
+shareholder value.
+Financial analysis and valuation
+P&L analysis
+From 2020 to 2022, CLY's main operating income remained stable, with growth rates of
+5.11%, 29.10%, and 7.24% YoY, respectively. In 2022, the company achieved a main
+operating income of RMB39.45bn, primarily from wind power and thermal power. The main
+operating costs of the company increased by 2.70%, 34.61%, and 7.50% YoY in 2020,
+2021, and 2022, respectively.
+In 2022, the main business costs amounted to RMB25.905bn, with a composition similar
+to that of the main business income, mainly from the wind power and thermal power
+sectors. The company's gross profit margin for the main business was 37.22%, 34.87%,
+and 34.34% from 2020 to 2022, respectively.
+Over the past three years, operating expenses have shown a stable increasing trend, with
+financial expenses being the largest component.
+CLY's net profit for the years 2020, 2021, and 2022 was RMB5.748bn, 7.263bn, and
+6.096bn, respectively. The significant decrease in net profit is mainly due to declining
+electricity prices and asset impairment, with the company recognizing asset impairment
+losses of RMB2bn in 2022, a substantial increase compared to the previous year.
+Source: Company data, CMBIGM estimates
+In the first three quarters of 2023, the company's revenue decreased by RMB2.11bn to
+installed capacity and higher wind power sales. However, the thermal power segment saw
+a decline in revenue due to weak demand and reduced coal sales. Operating expenses
+decreased by 11.97% YoY, and financial expenses dropped by 14.4% YoY. Attributable net
+profit showed a positive trend, increasing by 18.97% YoY, primarily due to the growth in
+installed capacity and improved power sales performance.
+Source: Company data, CMBIGM estimates
+Balance sheet (B/S) analysis
+CLY has obtained most of its project investment funds through external financing, resulting
+in a continuous expansion of liabilities in recent years. At the end of 2020, 2021, and 2022,
+the company's total liabilities amounted to RMB107.757bn, RMB116.587bn, and
+RMB144.765bn, respectively, with liability-asset ratios of 61.71%, 61.59%, and 64.95%.
+The proportion of current liabilities to total liabilities increased from 47.42% in 2020 to
+51.23% in 2022, while the proportion of non-current liabilities increased from 50.02% to
+53.68% during the same period. The company's total assets mainly consist of fixed assets
+and construction in progress, accounting for a significant proportion of total assets. As of
+the end of 2022, the proportion of fixed assets and construction in progress to total assets
+was 68.36%.
+Accounts receivable, including bills receivable, accounts receivable, and other receivables,
+amounted to RMB276.43bn at the end of 2022, with a YoY increase of RMB5.73bn. The
+increase in accounts receivable is mainly attributed to the increase in renewable energy
+power generation and the delayed receipt of renewable energy generation subsidies.
+Overall, the company's liability scale has expanded due to external financing, while the
+asset structure is predominantly composed of fixed assets and construction in progress,
+with a certain increase in current assets. The growing scale of accounts receivable still take
+time to figure out.
+Source: Company data, CMBIGM estimates
+CF analysis
+CLY
+The
+net
+cash
+flows
+generated from
+operating
+activities
+were
+RMB12.27bn/16.76bn/29.61bn in 2020/2021/2022. The cash flows from operating activities
+showed a slight decrease in 2020, followed by significant increases in 2021 and 2022.
+Financing cash flows were RMB9.459bn/95mn/384mn in 2020, 2021, and 2022. The
+significant increase in 2020 was mainly attributed to external borrowings, while the
+subsequent years showed smaller fluctuations.
+In terms of net cash flows, the company experienced a notable increase in 2020, a negative
+cash flow in 2021 due to project expenditures and loan repayments, and a significant
+increase again in 2022.
+Source: Company data, CMBIGM estimates
+Key assumptions and valuation
+In 2022, the company's attributable net profit decreased by 31.1% YoY to RMB5.11bn. This
+was primarily due to a one-time provision for impairment of RMB2.04bn. Excluding the
+impact of impairment, the attributable net profit decreased by RMB340mn mainly because
+of unfavorable wind conditions, resulting in lower revenue in 2022.
+Looking ahead, we anticipate that the company's revenue will increase by 7%, 11% YoY
+and 10%YoY in 2023/2024/2025, reaching RMB42.6bn,RMB47.2bn and RMB52.0bn,
+respectively. We expect no significant impairment factors to affect the company in 2023,
+and we project that the net profit attributable to shareholders will increase by 59%YoY, 8%
+YoY, 9% YoY in 2023/ 2024/2025, reaching RMB8.11bn,RMB9.55bn and RMB10.36bn,
+respectively.
+Additionally, we estimate the company's earnings per share for 2023 and 2025 to be
+RMB0.97,RMB1.14,RMB1.24/share, respectively.
+Source: Company data, CMBIGM estimates
+We assign a target price of RMB23.28 for CLY-A shares, based on FY23E P/E ratio of 24.0x
+(close to +1SD of 3-year avg. P/E). Currently, CLY-A trades at 21.8x FY23E P/E. We believe
+the valuation is not demanding but still has upside potential. Given the rapid growth of the
+company's newly-added installed capacity of wind power and solar power, improved wind
+condition, and "substitution of large for small" will unlock growth potential, we have a BUY
+rating for CLY-A.
+Source: Company data, CMBIGM estimates
+Source: Company data, CMBIGM estimates
+Financial Summary
+Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets.
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in
+this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as
+an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIGM Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIGM
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Global Markets Limited
+CMB International Global Markets Limited ("CMBIGM") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
+subsidiary of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIGM
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the
+report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIGM recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM
+or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides
+the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIGM may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report
+and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.
+For recipients of this document in the United States
+CMBIGM is not a registered broker-dealer in the United States. As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports
+and the independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified
+as a research analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules
+intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is
+intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of
+1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report
+by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to
+effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined
+in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its
+respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations.
+Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities
+and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law.
+Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

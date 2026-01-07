@@ -1,1191 +1,147 @@
- 
- 
-Nov. 1, 2018 
-MIDEA GROUP [000333.CH]: 3Q 18 Conference call takeaways 
-Midea reported 3Q18 results, with top/bottom line growing 1%/18% respectively 
-for the quarter, vs. 10%/19% for 9M18. With revenue growth facing macro 
-headwinds and ASP growth (consumer upgrade) stalling in the AC segment, we 
-think the stock is likely to remain under pressure. We have cut our 2018/2019 
-EPS by 3%/17% respectively, and reduce our PT from RMB 53 to RMB 42. 
- Investment Highlights 
-Profit boosted by finance income, operating profit disappoints: Total 
-revenue rose 1% YoY, with net profit growing 18% YoY on account of gross 
-margin expansion and reduced finance expense. Midea’s 3Q18 top line fell short 
-of our expectation for mid-single digit revenue growth in second half. PBT growth 
-of 24.5% for the quarter was supported by improvements in finance costs. 
-Underlying operating profit grew only 9% (See Figure 1). 
-Upgrade trend slowing in AC: Midea’s gross margins increased to 28.1%, up 
-from 25.9% a year ago. Mgmt indicated AC growth of ~18% YoY in 9M18, 
-suggesting negative growth for AC in 3Q18 based on 28% AC growth in 1H18. 
-ASP increase was flat for 3Q18, vs. ~10% growth in 1H18. This remains a key 
-concern, as consumer upgrade and margin expansion has been part of our 
-Midea thesis. 
-Low channel inventory: Midea’s AC inventory remains well controlled, with 1-2 
-months of combined total factory and channel inventory, or approximately 5 
-million units. In other appliance segments, Midea also reports that channel 
-inventory is near historical lows. While we believe there is a high probability of 
-revenue weakness into 4Q18, we don’t believe Midea’s AC industry channel 
-inventory levels are reminiscent of 2015 levels, when destocking led to a 
-sustained sales contraction. 
-Inexpensive Valuation. With ~35% sales from international sources (ex KUKA) 
-and lower ASPs relative to Gree and Qingdao Haier, Midea remains well 
-situated to ride out a slowdown in China’s home appliance market. Currently 
-trading at 11.1x 2019E PER, we expect Midea to post 21%/0% EPS growth in 
-2018/2019, down from our former estimates of 21%/11% EPS growth. Our 
-2018/2019 earnings have been reduced by 3.5%/17.2% respectively. Our new 
-TP is based on a valuation of 13x 2019 EPS, down from our former 15x, which 
-we believe is justifiable for a business with a diversified franchise, stable market 
-share, and high single digit earnings growth. 
-2016
-2017
-2018E
-2019E
-2020E
-Revenue (RMB Mn)
-159,842
-241,919
-263,065
-266,368
-280,540
-     Growth (%)
-51%
-9%
-1%
-5%
-Net Profit (RMB Mn)
-14,684
-17,284
-21,294
-21,394
-23,516
-     Growth (%)
-18%
-23%
-0%
-10%
-EPS (RMB)
-2.28
-2.63
-3.19
-3.21
-3.53
-     Growth (%)
-16%
-21%
-0%
-10%
-PER (x)
-16.3
-14.1
-11.6
-11.5
-10.5
-PBR (x)
-3.9
-3.3
-2.8
-2.5
-2.2  
-Sources: Company Annual Report, CGIS Research  
- 
-      Home Appliances Sector 
-Buy  
- 
-      Close: RMB 37.04 (Oct. 31, 2018) 
-   Target Price: RMB 42 (+13%) 
-Price Performance 
-0
-1,000
-2,000
-3,000
-4,000
-5,000
-6,000
-0
-10
-20
-30
-40
-50
-60
-70
-Turnover (RMB in Mn, rhs)
-Price (RMB)
- 
-Market Cap  
-US$35,204m 
-Shares Outstanding 
-6,627m 
-Free Float 
-41% 
-52W High 
-RMB 62.69 
-52W Low 
-RMB 34.10 
-3M Avg Daily T/O:     
-US$227m 
-Major Shareholders:   
-Midea Hld. (33.3%) 
- Sources: Company, Bloomberg 
- 
-Jeff Dorr – Analyst  
- 
-(852) 3698 6323 
-jeffreydorr@chinastock.com.hk 
- 
-An Zhang – Analyst 
- 
-(852) 3698 6293 
-zhangan@chinastock.com.hk 
- 
-Johnson Cheung – Research Director 
- 
-(852) 3698 6275 
-johnsoncheung@chinastock.com.hk 
- 
- 
- 
- 
- 
-2 
-` 
-Figure 1: Midea 9M18 Results Overview 
-RMB Mn
-9M17
-9M18
-% YoY
-3Q17
-3Q18
-% YoY
-Revenue
-187,764
-207,405
-10.5%
-62,801
-63,669
-1.4%
-COGS
-(139,559)
-(149,665)
-7.2%
-(46,508)
-(45,783)
--1.6%
-Gross Profit
-48,205
-57,740
-19.8%
-16,292
-17,886
-9.8%
-GPM
-25.7%
-27.8%
-2.2%
-25.9%
-28.1%
-2.1%
-SG&A
-(31,460)
-(37,601)
-19.5%
-(11,468)
-(12,626)
-10.1%
-Operating Profit
-16,745
-20,139
-20.3%
-4,825
-5,260
-9.0%
-OP Margin
-8.9%
-9.7%
-0.8%
-7.7%
-8.3%
-0.6%
-Financing Costs
-(853)
-1,728
--302.6%
-(506)
-744
--246.9%
-Other G/L
-2,947
-1,057
--64.1%
-914
-527
--42.4%
-PBT
-18,839
-22,924
-21.7%
-5,232
-6,530
-24.8%
-Tax
-(2,738)
-(3,834)
-40.0%
-(679)
-(1,219)
-79.6%
-Effective tax rate
-15%
-17%
-15.1%
-13%
-19%
-43.9%
-Net Profit
-16,101
-19,090
-18.6%
-4,553
-5,311
-16.6%
-NPM
-8.6%
-9.2%
-0.6%
-7.3%
-8.3%
-1.1%
-Minority Interest
-(1,103)
-(1,190)
-7.9%
-(366)
-(347)
--5.3%
-Profit to Common
-14,998
-17,900
-19.3%
-4,187
-4,963
-18.5%
-EPS (Diluted)
-2.30
-2.68
-16.7%
-0.64
-0.75
-17.2%  
-Source: Company Data, CGIS Research 
- 
-Target Price Reduction 
-We keep our prior margin assumptions, but reduce top line growth for 2018/2019. Under our new 
-assumptions, revenue growth declines from 11%/6% in 2018/2019 to 9%/1%, respectively. Our 2018/2019 
-revenue estimates are 3%/11% lower than consensus, while our 2018/2019 profit expectations are 2% 
-higher/11% lower than consensus. 
-We cut our price target from RMB 53 to RMB 42 on account of lower earnings growth, and assign a new 13x 
-2019 PER multiple to the stock, vs. our 15x multiple used in our prior number. Using our previous 15x 2019 
-PER valuation, our current target price would be RMB 48. 
-Figure 2: Midea PE band 
-0
-5
-10
-15
-20
-25
-12-mth forward PER
-Average
-+1 Std
--1 Std
-  
-Source: Bloomberg, CGIS Research 
-Note: Based on consensus estimates 
- 
- 
-3 
-` 
-Figure 3: Peer Comparison 
-Ticker
-Mkt Cap Price
-PE Ratio
-PEG
-PB
-EV/EBITDA
-Yield
-ROE
-USD Bn
- (LC) 
-2017
-2018E 2019E
-2018E 2019E 2018E 2017
-2017 2018E 2019E 2017
-2017
-A share
-Midea
-000333 CH
-35.2
-37.04
-13.9 
-11.8 
-10.2 
-18.3%
-15.9%
-0.6
-3.3 
-10.5 
-8.8 
-7.8 
-3.2% 23.6%
-Gree
-000651 CH
-32.8
-38.06
-10.2 
-8.3 
-7.7 
-23.3%
-8.3%
-0.4
-3.5 
-6.2 
-4.5 
-4.7 
-0.0% 34.1%
-Qingdao Haier
-600690 CH
-11.4
-12.66
-11.1 
-10.0 
-8.8 
-11.4%
-14.2%
-0.9
-2.4 
-8.2 
-7.2 
-6.3 
-2.7% 21.5%
-Supor
-002032 CH
-5.7
-48.62
-30.4 
-24.5 
-20.3 
-24.0%
-20.8%
-1.0
-7.7 
-23.4 
-18.9 
-16.0 
-1.5% 25.3%
-Little Swan
-000418 CH
-3.6
-42.30
-17.8 
-14.9 
-12.5 
-19.5%
-19.0%
-0.8
-3.8 
-16.4 
-13.4 
-11.5 
-2.4% 21.4%
-Robam
-002508 CH
-2.9
-21.00
-13.2 
-12.6 
-11.1 
-4.7%
-13.8%
-2.7
-3.7 
-10.5 
-10.1 
-9.4 
-2.5% 27.8%
-TCL
-000100 CH
-4.8
-2.47
-11.3 
-9.4 
-8.1 
-20.8%
-16.0%
-0.5
-1.1 
-9.7 
-9.4 
-7.9 
-4.0%
-9.9%
-Median
-13.2 
-11.8 
-10.2 
-19.5%
-15.9%
-0.8 
-3.5 
-10.5 
-9.4 
-7.9 
-2.5% 23.6%
-H share
-Haier Electronics
-1169 HK
-5.9
-16.38
-12.2 
-9.9 
-8.9 
-23.6%
-10.8%
-0.4
-2.0 
-5.9 
-5.0 
-4.3 
-1.3% 16.1%
-International
-Daikin Industries
-6367 JT
-34.0
-13,125
-24.9 
-21.3 
-20.0 
-16.7%
-6.7%
-1.3
-3.4 
-13.4 
-12.2 
-11.2 
-1.0% 13.8%
-Whirpool
-WHR US
-7.1
-111.27
-23.3 
-7.7 
-7.0 
-202.2% 10.1%
-0.0
-1.9 
-6.8 
-7.0 
-6.8 
-3.9%
-8.1%
-SEB
-SK FP
-7.3
-128.60
-17.0 
-15.6 
-14.0 
-9.1%
-11.6%
-1.7
-3.6 
-10.7 
-10.1 
-9.4 
-1.6% 21.2%
-Electrolux
-ELUXB SS
-6.4
-190.60
-9.5 
-12.1 
-10.8 
--21.0% 12.2%
--0.6
-2.7 
-5.1 
-5.8 
-5.3 
-3.9% 27.9%
-Rinnai
-5947 JP
-3.8
-8,220
-19.1 
-18.7 
-19.3 
-2.3%
--3.0%
-8.1
-1.6 
-6.7 
-6.7 
-6.5 
-1.0%
-8.2%
-De'Longhi
-DLG IM
-3.9
-23.28
-19.6 
-18.7 
-17.2 
-4.5%
-8.6%
-4.1
-3.4 
-10.8 
-10.1 
-9.4 
-4.3% 17.4%
-Median
-19.4 
-17.2 
-15.6 
-6.8%
-9.4%
-1.5 
-3.0 
-8.7 
-8.6 
-8.1 
-2.7% 15.6%
-EPS Growth
- 
-Source: Bloomberg, CGIS Research 
-Note: Based on consensus estimates 
- 
-Takeaways from Midea’s Management Call 
- 
-Guidance: Midea continues to guide for high single digit top line and double digit profit growth into 2019. 
- 
-AC Growth: Negative 3Q18 growth, flat ASPs: Mgmt indicated AC growth of ~18% YoY in 9M18. 
-Based on reported AC growth of 32% in 1H18, this suggests negative growth for AC in 3Q18. According 
-to management, ASP increase was flat for 3Q18, vs. ~10% growth in 1H18. This remains a key concern, 
-as consumer upgrade and margin expansion has been part of our Midea thesis. Midea indicated that 
-installation growth was negative in October. 
- 
-AC Inventory Tight: AC Channel inventory remains tightly controlled, with 5Mn units, or roughly 2-2.5 
-months of annual production on our estimates. This compares favourably to Gree, which reportedly holds 
-~15Mn units in channel inventory, nearly 5 months of its annual production on our estimates. Midea 
-emphasized it holds 100 warehouses in China, which ship AC units directly to retailers. Midea spends 
-RMB 800m annually on this inventory and warehousing management system, which tracks inventory 
-levels daily. 
- 
-Gree channel stuffing unlikely to impact Midea: Management assuaged investor concern that any AC 
-channel stuffing from Gree would impact Midea. In the last AC segment downturn in 2015/2016, Midea 
-had not yet developed its own inventory management system. As a result, Midea’s channel inventory was 
-high, and sell-in suffered during the market downturn. Today, Midea’s inventory levels are very well 
-controlled. 
- 
-Refrigerators grew 2% in Q3, against 8% for 9M18. Even with revenue slowing, refrigerator ASP 
-growth remains resilient, with average ASP increasing 15% YoY. 
- 
- 
-4 
-` 
- 
-Washing machines grew 9% in 9M18, but declined 1% in 3Q18. Performance should improve in 4Q18 
-as new high end models are introduced.  Little Swan acquisition unlikely to close until 2019, due to 
-required shareholder vote occurring in December. 
- 
-Small appliances up 5% in 9M18, but up 2% in 3Q18. Small appliance inventory was high in 1H18, but 
-inventories are now normalizing. Longer term, high single digit growth should remain achievable 
- 
-KUKA cut 2018 guidance from EUR 3.5Bn to EUR 3.3Bn due to a weak global robotics market. Impact 
-is limited, as KUKA comprises some 12% of Midea’s sales, and a smaller portion of profit. 3Q18 results 
-were somewhat encouraging; however, as revenue growth turned to +6.6% growth, an improvement from 
-1H18’s -11.2%. Due to RMB depreciation against the Euro, the negative impact is somewhat mitigated on 
-Midea’s financials. 
- 
-Midea’s new high end brand Como will have products in stores by December. 
- 
- 
- 
-5 
-` 
-FINANCIAL MODEL 
- 
-Figure 4: Simplified Consolidated Statement of Profit and Loss 
-Dec. Year End (RMB Mn)
-2016
-2017
-2018E
-2019E
-2020E
-Sales Revenue
-159,842
-241,919
-263,065
-266,368
-280,540
-COGS
-(115,615)
-(180,461)
-(191,153)
-(193,482)
-(203,469)
-Gross profit
-44,226
-61,458
-71,913
-72,886
-77,071
-Sale tax
-(1,077)
-(1,416)
-(1,564)
-(1,598)
-(1,683)
-Selling and distribution costs
-(17,678)
-(26,739)
-(31,212)
-(31,964)
-(33,027)
-General and administrative expenses
-(9,621)
-(14,780)
-(14,394)
-(14,529)
-(15,302)
-Total EBIT
-15,850
-18,523
-24,743
-24,795
-27,058
-Depreciation & Amortisation
-3,578
-6,696
-4,674
-4,797
-4,910
-EBITDA
-19,428
-25,219
-29,417
-29,592
-31,968
-Net finance and other costs
-183
-(1,339)
-(179)
-(121)
-113
-Investment income
-1,286
-1,830
-1,830
-1,830
-1,830
-Other gains/losses
-6
-2,613
-(6)
-0
-0
-Non-operating income (expense)
-1,591
-227
-227
-227
-227
-Pre-Tax Profit
-18,915
-21,855
-26,614
-26,731
-29,228
-Tax Expense
-(3,053)
-(3,244)
-(3,992)
-(4,010)
-(4,384)
-Net Profit After Tax
-15,862
-18,611
-22,622
-22,721
-24,844
-Minority Interest
-1,178
-1,328
-1,328
-1,328
-1,328
-Earnings to Equity Owners
-14,684
-17,284
-21,294
-21,394
-23,516
-EPS (Basic)
-2.29
-2.66
-3.28
-3.30
-3.62
-EPS (Diluted)
-2.28
-2.63
-3.19
-3.21
-3.53
-DPS
-1.00
-1.20
-1.46
-1.46
-1.61
-% YoY growth
-Revenue
-14.7%
-51.3%
-8.7%
-1.3%
-5.3%
-Gross profit
-20.6%
-39.0%
-17.0%
-1.4%
-5.7%
-EBIT
-17.1%
-16.9%
-33.6%
-0.2%
-9.1%
-Net profit
-14.3%
-17.7%
-23.2%
-0.5%
-9.9%
-Margins and ratios
-Gross profit margin
-27.7%
-25.4%
-27.3%
-27.4%
-27.5%
-EBITDA Margin
-12.2%
-10.4%
-11.2%
-11.1%
-11.4%
-EBIT Margin
-9.9%
-7.7%
-9.4%
-9.3%
-9.6%
-Net Profit Margin
-9.2%
-7.1%
-8.1%
-8.0%
-8.4%  
-Sources: Company Annual Report, CGIS Research 
- 
- 
-6 
-` 
-Figure 5: Simplified Consolidated Statement of Financial Position 
-Dec. Year End (RMB Mn)
-2016
-2017
-2018E
-2019E
-2020E
-Cash & Equivalents
-27,169
-48,274
-51,250
-52,385
-56,844
-Trade and other receivables
-22,022
-31,041
-32,618
-34,474
-36,167
-Inventories
-15,627
-29,444
-23,894
-24,185
-25,434
-Prepayments
-1,587
-1,672
-1,672
-1,672
-1,672
-Other current assets
-54,216
-59,380
-64,380
-69,380
-74,380
-Total current assets
-120,621
-169,811
-173,814
-182,096
-194,496
-Long-term equity investment
-2,212
-2,634
-2,634
-2,634
-2,634
-PPE, net
-21,057
-22,601
-23,698
-24,708
-25,859
-Intangible assets
-6,869
-15,167
-14,657
-14,178
-13,727
-Investment properties
-494
-421
-421
-421
-421
-Goodwill
-5,731
-28,904
-28,904
-28,904
-28,904
-Deferred tax assets
-3,030
-4,023
-4,023
-4,023
-4,023
-Other non-current assets
-10,587
-4,547
-4,547
-4,547
-4,547
-Total non-current assets
-49,979
-78,296
-78,883
-79,414
-80,115
-Total assets
-170,601
-248,107
-252,697
-261,509
-274,611
-Salary payable
-3,154
-5,248
-5,248
-5,248
-5,248
-Prepayments
-10,252
-17,409
-17,409
-17,409
-17,409
-Tax payable
-2,364
-3,544
-3,544
-3,544
-3,544
-Notes payable
-18,485
-25,208
-23,363
-23,648
-24,868
-Short-term borrowings
-3,024
-2,584
-2,584
-2,584
-2,584
-Accounts payable
-25,357
-35,145
-31,859
-32,247
-33,912
-Other current liabilities
-26,546
-29,954
-29,954
-29,954
-29,954
-Total current liabilities
-89,184
-119,092
-113,961
-114,634
-117,519
-Bonds payable
-4,819
-4,553
-4,553
-4,553
-4,553
-Long-term borrowings
-2,254
-32,986
-27,986
-22,986
-17,986
-Deferred tax liabilities
-1,832
-3,973
-3,973
-3,973
-3,973
-Other long term liabilities
-3,535
-4,578
-4,578
-4,578
-4,578
-Total non-current liabilities
-12,440
-46,090
-41,090
-36,090
-31,090
-Total liabilities
-101,624
-165,182
-155,051
-150,724
-148,609
-Shareholders Fund
-61,127
-73,737
-87,131
-98,942
-112,832
-Minority Interest
-7,850
-9,188
-10,515
-11,843
-13,170
-Total S/H Equity
-68,977
-82,925
-97,646
-110,785
-126,002
-Total Liab & S/H Fund
-170,601
-248,107
-252,697
-261,509
-274,611  
+MIDEA GROUP [000333.CH]: 3Q 18 Conference call takeaways
+Midea reported 3Q18 results, with top/bottom line growing 1%/18% respectively
+for the quarter, vs. 10%/19% for 9M18. With revenue growth facing macro
+headwinds and ASP growth (consumer upgrade) stalling in the AC segment, we
+Home Appliances Sector
+EPS by 3%/17% respectively, and reduce our PT from RMB 53 to RMB 42.
+Investment Highlights
+Buy
+Profit boosted by finance income, operating profit disappoints: Total
+revenue rose 1% YoY, with net profit growing 18% YoY on account of gross
+margin expansion and reduced finance expense. Midea's 3Q18 top line fell short
+of our expectation for mid-single digit revenue growth in second half. PBT growth
+of 24.5% for the guarter was supported by improvements in finance costs.
+Close: RMB 37.04 (Oct. 31, 2018)
+Underlying operating profit grew only 9% (See Figure 1).
+Upgrade trend slowing in AC: Midea's gross margins increased to 28.1%, up
+Target Price: RMB 42 (+13%)
+from 25.9% a year ago. Mgmt indicated AC growth of ~18% YoY in 9M18,
+suggesting negative growth for AC in 3Q18 based on 28% AC growth in 1H18.
+Price Performance
+ASP increase was flat for 3Q18, vs. ~10% growth in 1H18. This remains a key
+concern, as consumer upgrade and margin expansion has been part of our
+Midea thesis.
+million units. In other appliance segments, Midea also reports that channel
+inventory is near historical lows. While we believe there is a high probability of
+revenue weakness into 4Q18, we don't believe Midea's AC industry channel
+inventory levels are reminiscent of 2015 levels, when destocking led to a
+sustained sales contraction.
+Market Cap
+US$35,204m
+Inexpensive Valuation. With ~35% sales from international sources (ex KUKA)
+Shares Outstanding
+6,627m
+and lower ASPs relative to Gree and Qingdao Haier, Midea remains well
+Free Float
+41%
+situated to ride out a slowdown in China's home appliance market. Currently
+trading at 11.1x 2019E PER, we expect Midea to post 21%/0% EPS growth in
+52W High
+2018/2019, down from our former estimates of 21%/11% EPS growth. Our
+52W Low
+2018/2019 earnings have been reduced by 3.5%/17.2% respectively. Our new
+3M Avg Daily T/O:
+US$227m
+TP is based on a valuation of 13x 2019 EPS, down from our former 15x, which
+Major Shareholders:
+Midea Hld. (33.3%)
+we believe is justifiable for a business with a diversified franchise, stable market
+share, and high single digit earnings growth.
+Sources: Company, Bloomberg
+Jeff Dorr – Analyst
+An Zhang – Analyst
+Johnson Cheung – Research Director
+Source: Company Data, CGIS Research
+Target Price Reduction
+We keep our prior margin assumptions, but reduce top line growth for 2018/2019. Under our new
+revenue estimates are 3%/11% lower than consensus, while our 2018/2019 profit expectations are 2%
+higher/11% lower than consensus.
+We cut our price target from RMB 53 to RMB 42 on account of lower earnings growth, and assign a new 13x
+PER valuation, our current target price would be RMB 48.
+Source: Bloomberg, CGIS Research
+Note: Based on consensus estimates
+Source: Bloomberg, CGIS Research
+Note: Based on consensus estimates
+Takeaways from Midea's Management Call
+Guidance: Midea continues to guide for high single digit top line and double digit profit growth into 2019.
+AC Growth: Negative 3Q18 growth, flat ASPs: Mgmt indicated AC growth of ~18% YoY in 9M18.
+Based on reported AC growth of 32% in 1H18, this suggests negative growth for AC in 3Q18. According
+to management, ASP increase was flat for 3Q18, vs. ~10% growth in 1H18. This remains a key concern,
+as consumer upgrade and margin expansion has been part of our Midea thesis. Midea indicated that
+installation growth was negative in October.
+months of annual production on our estimates. This compares favourably to Gree, which reportedly holds
+~15Mn units in channel inventory, nearly 5 months of its annual production on our estimates. Midea
+emphasized it holds 100 warehouses in China, which ship AC units directly to retailers. Midea spends
+RMB 800m annually on this inventory and warehousing management system, which tracks inventory
+levels daily.
+Gree channel stuffing unlikely to impact Midea: Management assuaged investor concern that any AC
+channel stuffing from Gree would impact Midea. In the last AC segment downturn in 2015/2016, Midea
+had not yet developed its own inventory management system. As a result, Midea's channel inventory was
+high, and sell-in suffered during the market downturn. Today, Midea's inventory levels are very well
+controlled.
+Refrigerators grew 2% in Q3, against 8% for 9M18. Even with revenue slowing, refrigerator ASP
+growth remains resilient, with average ASP increasing 15% YoY.
+as new high end models are introduced. Little Swan acquisition unlikely to close until 2019, due to
+required shareholder vote occurring in December.
+Small appliances up 5% in 9M18, but up 2% in 3Q18. Small appliance inventory was high in 1H18, but
+inventories are now normalizing. Longer term, high single digit growth should remain achievable
+KUKA cut 2018 guidance from EUR 3.5Bn to EUR 3.3Bn due to a weak global robotics market. Impact
+is limited, as KUKA comprises some 12% of Midea's sales, and a smaller portion of profit. 3Q18 results
+were somewhat encouraging; however, as revenue growth turned to +6.6% growth, an improvement from
+1H18's -11.2%. Due to RMB depreciation against the Euro, the negative impact is somewhat mitigated on
+Midea's financials.
+Midea's new high end brand Como will have products in stores by December.
+FINANCIAL MODEL
 Sources: Company Annual Report, CGIS Research
- 
- 
-7 
-` 
-Figure 6: Simplified Consolidated Statement of Cash Flows 
-Dec. Year End (RMB Mn)
-2016
-2017
-2018E
-2019E
-2020E
-Net Income
-15,862
-18,611
-22,622
-22,721
-24,844
-Depreciation & Amortization
-3,578
-6,696
-4,674
-4,797
-4,910
-Change in Working Cap
-9,090
-2,815
-(1,158)
-(1,474)
-(56)
-Other Non Cash Adjustments
-(1,834)
-(3,680)
-0
-0
-0
-Operating Cash Flow
-26,695
-24,443
-26,138
-26,044
-29,698
-Acquisitions
-(2,900)
-(25,850)
-0
-0
-0
-Capex
-(2,323)
-(3,218)
-(5,261)
-(5,327)
-(5,611)
-Asset Sales
-464
-1,441
-0
-0
-0
-Investments
-(90,881)
-(94,967)
-(5,000)
-(5,000)
-(5,000)
-Cash recovered from investment
-73,905
-85,127
-0
-0
-0
-Others
-1,954
-2,728
-0
-0
-0
-Investing Cashflow
-(19,781)
-(34,740)
-(10,261)
-(10,327)
-(10,611)
-Dividend (ordinary)
-(5,121)
-(6,466)
-(7,901)
-(9,582)
-(9,627)
-Equity Raised
-815
-1,668
-0
-0
-0
-Debt Movements
-7,391
-25,891
-(5,000)
-(5,000)
-(5,000)
-Others
-(2,925)
-(1,442)
-0
-0
-0
-Financing Cashflow
-160
-19,652
-(12,901)
-(14,582)
-(14,627)
-FCF
-6,914
-(10,297)
-15,877
-15,717
-19,087  
-Sources: Company Annual Report, CGIS Research 
- 
- 
- 
- 
-8 
-` 
-Disclaimer 
-This research report is not directed at, or intended for distribution to or used by, any person or entity who is a citizen or resident of or located in any jurisdiction 
-where such distribution, publication, availability or use would be contrary to applicable law or regulation or which would subject China Galaxy International 
-Securities (Hong Kong) Co., Limited (“Galaxy International Securities”) and/or its group companies to any registration or licensing requirement within such 
-jurisdiction. 
-This report (including any information attached) is issued by Galaxy International Securities, one of the subsidiaries of the China Galaxy International Financial 
-Holdings Limited, to the institutional clients from the information sources believed to be reliable, but no representation or warranty (expressly or implied) is made 
-as to their accuracy, correctness and/or completeness.  
-This report shall not be construed as an offer, invitation or solicitation to buy or sell any securities of the company(ies) referred to herein. Past performance should 
-not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied, is made regarding future performance. 
-The recipient of this report should understand and comprehend the investment objectives and its related risks, and where necessary consult their own independent 
-financial advisers prior to any investment decision. 
-Where any part of the information, opinions or estimates contained herein reflects the personal views and opinions of the analyst who prepared this report, such 
-views and opinions may not correspond to the published views or investment decisions of China Galaxy International Financial Holdings Limited and any of its 
-subsidiaries (“China Galaxy International”), directors, officers, agents and employees (“the Relevant Parties”).  
-All opinions and estimates reflect the judgment of the analyst on the date of this report and are subject to change without notice. China Galaxy International and/or 
-the Relevant Parties hereby disclaim any of their liabilities arising from the inaccuracy, incorrectness and incompleteness of this report and its attachment/s and/or 
-any action or omission made in reliance thereof. Accordingly, this report must be read in conjunction with this disclaimer.  
-Disclosure of Interests 
-China Galaxy Securities Co., Ltd. (6881.HK; 601881.CH) is the direct and/or indirect holding company of the group of companies under China Galaxy International.  
-China Galaxy International may have financial interests in relation to the subjected company(ies) the securities in respect of which are reviewed in this report, and 
-such interests aggregate to an amount may equal to or more than 1 % of the subjected company(ies)’ market capitalization.  
-One or more directors, officers and/or employees of China Galaxy International may be a director or officer of the securities of the company(ies) mentioned in this 
-report.  
-China Galaxy International and the Relevant Parties may, to the extent permitted by law, from time to time participate or invest in financing transactions with the 
-securities of the company(ies) mentioned in this report, perform services for or solicit business from such company(ies), and/or have a position or holding, or other 
-material interest, or effect transactions, in such securities or options thereon, or other investments related thereto.  
-China Galaxy International may have served as manager or co-manager of a public offering of securities for, or currently may make a primary market in issues of, any 
-or all of the entities mentioned in this report or may be providing, or have provided within the last 12 months, significant advice or investment services in relation 
-to the investment concerned or a related investment or investment banking services to the company(ies) mentioned in this report.  
-Furthermore, China Galaxy International may have received compensation for investment banking services from the company(ies) mentioned in this report within 
-the preceding 12 months and may currently seeking investment banking mandate from the subject company(ies). 
-Analyst Certification  
-The analyst who is primarily responsible for the content of this report, in whole or in part, certifies that with respect to the securities or issuer covered in this report: 
-(1) all of the views expressed accurately reflect his or her personal views about the subject, securities or issuer; and (2) no part of his or her compensation was, is, 
-or will be, directly or indirectly, related to the specific views expressed by the analyst in this report.  
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures 
-Commission) (1) have dealt in or traded in the securities covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will deal 
+Sources: Company Annual Report, CGIS Research
+Figure 6: Simplified Consolidated Statement of Cash Flows
+Disclaimer
+This research report is not directed at, or intended for distribution to or used by, any person or entity who is a citizen or resident of or located in any jurisdiction
+where such distribution, publication, availability or use would be contrary to applicable law or regulation or which would subject China Galaxy International
+Securities (Hong Kong) Co., Limited ("Galaxy International Securities") and/or its group companies to any registration or licensing requirement within such
+jurisdiction.
+This report (including any information attached) is issued by Galaxy International Securities, one of the subsidiaries of the China Galaxy International Financial
+Holdings Limited, to the institutional clients from the information sources believed to be reliable, but no representation or warranty (expressly or implied) is made
+as to their accuracy, correctness and/or completeness.
+This report shall not be construed as an offer, invitation or solicitation to buy or sell any securities of the company(ies) referred to herein. Past performance should
+not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied, is made regarding future performance.
+The recipient of this report should understand and comprehend the investment objectives and its related risks, and where necessary consult their own independent
+financial advisers prior to any investment decision.
+Where any part of the information, opinions or estimates contained herein reflects the personal views and opinions of the analyst who prepared this report, such
+views and opinions may not correspond to the published views or investment decisions of China Galaxy International Financial Holdings Limited and any of its
+subsidiaries ("China Galaxy International"), directors, officers, agents and employees ("the Relevant Parties").
+All opinions and estimates reflect the judgment of the analyst on the date of this report and are subject to change without notice. China Galaxy International and/or
+the Relevant Parties hereby disclaim any of their liabilities arising from the inaccuracy, incorrectness and incompleteness of this report and its attachment/s and/or
+any action or omission made in reliance thereof. Accordingly, this report must be read in conjunction with this disclaimer.
+Disclosure of Interests
+China Galaxy Securities Co., Ltd. (6881.HK; 601881.CH) is the direct and/or indirect holding company of the group of companies under China Galaxy International.
+China Galaxy International may have financial interests in relation to the subjected company(ies) the securities in respect of which are reviewed in this report, and
+such interests aggregate to an amount may equal to or more than 1 % of the subjected company(ies)' market capitalization.
+One or more directors, officers and/or employees of China Galaxy International may be a director or officer of the securities of the company(ies) mentioned in this
+report.
+China Galaxy International and the Relevant Parties may, to the extent permitted by law, from time to time participate or invest in financing transactions with the
+securities of the company(ies) mentioned in this report, perform services for or solicit business from such company(ies), and/or have a position or holding, or other
+material interest, or effect transactions, in such securities or options thereon, or other investments related thereto.
+China Galaxy International may have served as manager or co-manager of a public offering of securities for, or currently may make a primary market in issues of, any
+or all of the entities mentioned in this report or may be providing, or have provided within the last 12 months, significant advice or investment services in relation
+to the investment concerned or a related investment or investment banking services to the company(ies) mentioned in this report.
+Furthermore, China Galaxy International may have received compensation for investment banking services from the company(ies) mentioned in this report within
+the preceding 12 months and may currently seeking investment banking mandate from the subject company(ies).
+Analyst Certification
+The analyst who is primarily responsible for the content of this report, in whole or in part, certifies that with respect to the securities or issuer covered in this report:
+(1) all of the views expressed accurately reflect his or her personal views about the subject, securities or issuer; and (2) no part of his or her compensation was, is,
+or will be, directly or indirectly, related to the specific views expressed by the analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
+Commission) (1) have dealt in or traded in the securities covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will deal
 in or trade in the securities covered in this research report three business days after the date of issue of this report; (3) serve as an officer of any of the Hong Kong-
-listed companies covered in this report; and (4) have any financial interests in the Hong Kong-listed companies covered in this report.  
-Explanation on Equity Ratings  
-Copyright Reserved 
-No part of this material may be reproduced or redistributed without the prior written consent of China Galaxy International Securities (Hong Kong) Co., Limited.  
-China Galaxy International Securities (Hong Kong) Co. Limited, CE No.AXM459  
-20/F, Wing On Centre, 111 Connaught Road Central, Sheung Wan, Hong Kong. General line: 3698-6888. 
- 
-BUY 
-: 
-share price will increase by >20% within 12 months in absolute terms 
-SELL 
-: 
-share price will decrease by >20% within 12 months in absolute terms 
-HOLD 
-: 
-no clear catalyst, and downgraded from BUY pending clearer signal to reinstate BUY or further downgrade to outright SELL 
+listed companies covered in this report; and (4) have any financial interests in the Hong Kong-listed companies covered in this report.
+Explanation on Equity Ratings
+share price will increase by >20% within 12 months in absolute terms
+BUY
+SELL
+share price will decrease by >20% within 12 months in absolute terms
+no clear catalyst, and downgraded from BUY pending clearer signal to reinstate BUY or further downgrade to outright SELL
+HOLD
+Copyright Reserved
+No part of this material may be reproduced or redistributed without the prior written consent of China Galaxy International Securities (Hong Kong) Co., Limited.
+20/F, Wing On Centre, 111 Connaught Road Central, Sheung Wan, Hong Kong. General line: 3698-6888.

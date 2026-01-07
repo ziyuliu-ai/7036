@@ -1,2170 +1,497 @@
-Deutsche Bank 
- Research 
-Rating 
-Buy 
-Asia 
-China 
-Technology 
-Hardware & Equipment 
-Company 
-Hikvision 
- 
-Date 
-24 July 2018 
-Results 
- 
-Near-term risks should have been 
-priced in 
-Reuters 
-Bloomberg 
-Exchange Ticker 
-002415.SZ 
-002415 CH 
-SHZ 
-002415 
- 
- 
-Forecasts And Ratios 
-Year End Dec 31 
-2016A 
-2017A 
-2018E 
-2019E 
-2020E 
-Sales (CNYm) 
-31,924 
-41,905 
-53,620 
-67,220 
-83,193 
-EBIT (CNYm) 
-6,906 
-9,362 
-11,475 
-14,373 
-17,611 
-DB EPS FD(CNY) 
-0.80 
-1.02 
-1.27 
-1.55 
-1.88 
-DB EPS growth (%) 
-25.4 
-26.8 
-24.1 
-22.8 
-21.3 
-ROE (%) 
-34.1 
-34.4 
-34.7 
-34.9 
-34.8 
-PER (x) 
-27.6 
-31.6 
-29.0 
-23.6 
-19.5 
-Source: Deutsche Bank estimates, company data 
-Near-term risks should have been priced in  
-  
-________________________________________________________________________________________________________________ 
-Deutsche Bank AG/Hong Kong 
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be 
-aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider 
-this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS ARE 
-LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE’S REPUBLIC 
-OF CHINA (“THE PRC”) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF PRC), 
-EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU. 
-  
- 
-Price at 23 Jul 2018 (CNY) 
-36.74 
-Price target - 12mth (CNY) 
-41.00 
-52-week range (CNY) 
-44.29 - 28.56 
-Shenzhen Index 
-1,666 
-Birdy Lu 
-Research Analyst 
-(+886) 2 2192 2822
-birdy.lu@db.com 
-Key changes 
-TP 
-43.00 to 41.00 ↓ 
--4.7% 
-Sales (FYE) 
-52,495 to 53,620 ↑ 
-2.1% 
-Op prof 
-margin (FYE) 
-22.2 to 21.4 ↓ 
--3.5% 
-Net profit 
-(FYE) 
-11,808.3 to 
-11,675.0 
-↓ 
--1.1% 
-Source: Deutsche Bank 
-Price/price relative 
-10
-20
-30
-40
-50
-7/16
-1/17
-7/17
-1/18
-Hikvision
-Shenzhen Index (Rebased)
-Performance (%) 
-1m 
-3m 
-12m 
-Absolute 
--1.4 
--6.0 
-20.1 
-Shenzhen Index 
--0.3 
--9.7 
--13.7 
-Source: Deutsche Bank 
-Valuation and investment risks  
-We trim 2018/19 EPS forecasts by 1-6% 
-to price in the continued investment in 
-talent 
-recruitment 
-and 
-innovative 
-business. We trim our TP from CNY43 to 
-CNY41, still based on 30x 2H18-1H19E 
-PE, which is at the average of the top two 
-bands. We believe the company can reach 
-this level given the accelerated earning 
-growth 
-from industry leadership, AI 
-exposure, and a surge in innovation 
-business and margin improvement.  Our 
-target multiple is supported by the strong 
-growth outlook and ROE delivery. Risks: 
-market share loss, weak demand in 
-industry 
-project 
-orders, 
-political 
-uncertainties in overseas markets.
-Hikvision reported in-line 2Q18 results and expected 1-3Q18 profit to grow in 
-the same range of 15-35% YoY. Despite a continued negative impact from the 
-Chinese government’s deleveraging policy and political/economic uncertainties 
-in overseas markets, we believe Hikvision’s short-term softness is temporary 
-and order momentum could pick up again, with uncertainties easing over time 
-and a healthier industry dynamic in the domestic market. Maintaining Buy. 
-In-line 2Q18 results  
-Hikvision reported 2Q18 EPS and operating profit of CNY0.25 (+28% QoQ, 
-+29% YoY) and CNY2.0bn (-3% QoQ, +1%YoY), on sales of CNY11.5bn (+23% 
-QoQ, +22% YoY). Sales/gross profit were broadly in line with DB/consensus 
-estimates, as the market has already factored in the political impacts. 
-However, expenses rose in 2Q18, due to 1) rising recruitment fees for sales 
-people and R&D engineers, 2) higher exhibition fees and 3) one-time expense 
-for the third phase of industrial park opening in Hangzhou. With help from a 
-non-op gain, net profit slightly missed DBe by 4%.  
-Slower 1-3Q18 guidance but long-term outlook remains intact 
-Hikvision expects 1-3Q18 net profit to rise 15%-35% YoY, implying 3Q18 net 
-profit of CNY2.9bn-4.2bn, or a midpoint of CNY3.5bn (+24% YoY). Although a 
-solid figure, this guidance trails Bloomberg consensus (CNY3.8bn) by 8%, due 
-to 1) the economic/political uncertainties in overseas markets, 2) the continual 
-impact of the Chinese government’s deleveraging policy, and 3) the small 
-public security projects being squeezed by the nationwide projects in the short 
-run. Aside from this, Hikvision remains positive on its 2018 and long-term 
-outlook, noting: 1) the innovation business posted 80% YoY growth in 1H18 
-and the high growth will continue; 2) a rising contribution from the Sky 
-Net/Sharp Eyes projects as Hikvision is the key beneficiary of the Chinese 
-government’s efforts to build a nationwide security surveillance system; and 3) 
-its rising AI system integration can drive long-term ASP upside. 
-Distributed on: 23/07/2018 17:42:43 GMT
-7T2se3r0Ot6kwoPa
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Page 2 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Model updated:23 July 2018 
-Running the numbers 
-Asia 
-China 
-Hardware & Equipment 
-Hikvision 
-Reuters: 002415.SZ 
-Bloomberg: 002415 CH
-Buy 
-Price (23 Jul 18) 
-CNY 36.74
-Target Price 
-CNY 41.00
-52 Week range 
-CNY 28.56 - 44.29
-Market Cap (m) 
-CNYm 336,345
-USDm 49,598
-Company Profile 
-Hangzhou Hikvision Digital Technology Co., Ltd develops, 
-manufactures and sells video surveillance products. The 
-company manufactures video and audio compression 
-cards, network hard disk video recorders, video servers, 
-cameras, network storage, and other digital products. 
-Price Performance 
-10
-20
-30
-40
-50
-Jul 16 Oct 16Jan 17Apr 17 Jul 17 Oct 17Jan 18Apr 18
-Hikvision
-Shenzhen Index (Rebased)
- 
-Margin Trends 
-20.8
-21.2
-21.6
-22.0
-22.4
-22.8
-23.2
-15
-16
-17
-18E
-19E
-20E
-EBITDA Margin
-EBIT Margin
- 
-Growth & Profitability 
-34
-34
-34
-34
-34
-35
-35
-35
-0
-10
-20
-30
-40
-50
-15
-16
-17
-18E
-19E
-20E
-Sales growth (LHS)
-ROE (RHS)
- 
-Solvency 
--50
--48
--46
--44
--42
--40
--38
--36
-15
-16
-17
-18E
-19E
-20E
-Net debt/equity (LHS)
-Net interest cover (RHS)
- 
-Birdy Lu 
-+886 2 2192 2822 
-birdy.lu@db.com 
-Fiscal year end  31-Dec 
-2015 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Financial Summary 
-DB EPS (CNY) 
-0.64
-0.80
-1.02
-1.27
-1.55
-1.88 
-Reported EPS (CNY) 
-0.64
-0.80
-1.02
-1.27
-1.55
-1.88 
-DPS (CNY) 
-0.31
-0.40
-0.50
-0.56
-0.63
-0.89 
-BVPS (CNY) 
-2.1
-2.6
-3.3
-4.0
-4.9
-5.9 
-Weighted average shares (m) 
-9,155
-9,229
-9,227
-9,227
-9,227
-9,227 
-Average market cap (CNYm) 
-200,751
-205,125
-297,811
-336,345
-336,345
-336,345 
-Enterprise value (CNYm) 
-192,974
-193,301
-284,450
-320,866
-317,067
-313,084 
-Valuation Metrics
-P/E (DB) (x) 
-34.2
-27.6
-31.6
-29.0
-23.6
-19.5 
-P/E (Reported) (x) 
-34.2
-27.6
-31.6
-29.0
-23.6
-19.5 
-P/BV (x) 
-10.67
-9.05
-11.85
-9.20
-7.47
-6.21 
-FCF Yield (%) 
-1.5
-3.3
-1.9
-2.1
-2.8
-3.6 
-Dividend Yield (%) 
-1.4
-1.8
-1.5
-1.5
-1.7
-2.4 
-EV/Sales (x) 
-7.6
-6.1
-6.8
-6.0
-4.7
-3.8 
-EV/EBITDA (x) 
-34.7
-27.1
-29.3
-26.9
-21.2
-17.1 
-EV/EBIT (x) 
-35.7
-28.0
-30.4
-28.0
-22.1
-17.8 
-Income Statement (CNYm) 
-Sales revenue 
-25,271
-31,924
-41,905
-53,620
-67,220
-83,193 
-Gross profit 
-10,290
-13,491
-18,779
-24,088
-30,152
-37,348 
-EBITDA 
-5,561
-7,123
-9,703
-11,936
-14,966
-18,304 
-Depreciation 
-135
-217
-308
-428
-560
-694 
-Amortisation 
-20
-0
-33
-33
-33
-0 
-EBIT 
-5,405
-6,906
-9,362
-11,475
-14,373
-17,611 
-Net interest income(expense) 
-115
-41
-126
-131
-157
-207 
-Associates/affiliates 
-149
-0
-0
-154
-154
-154 
-Exceptionals/extraordinaries 
-0
-0
-0
-0
-0
-0 
-Other pre-tax income/(expense) 
-1,081
-1,363
-1,000
-1,200
-1,380
-1,490 
-Profit before tax 
-6,750
-8,310
-10,487
-12,960
-16,064
-19,461 
-Income tax expense 
-868
-890
-1,109
-1,325
-1,728
-2,075 
-Minorities 
-13
--2
--33
--40
-0
-0 
-Other post-tax income/(expense) 
-0
-0
-0
-0
-0
-0 
-Net profit 
-5,869
-7,422
-9,411
-11,675
-14,335
-17,386 
-DB adjustments (including dilution) 
-0
-0
-0
-0
-0
-0 
-DB Net profit 
-5,869
-7,422
-9,411
-11,675
-14,335
-17,386 
-Cash Flow (CNYm) 
-Cash flow from operations 
-4,337
-7,614
-7,223
-8,969
-11,354
-13,882 
-Net Capex 
--1,330
--911
--1,692
--1,726
--1,761
--1,796 
-Free cash flow 
-3,007
-6,703
-5,531
-7,243
-9,593
-12,086 
-Equity raised/(bought back) 
-0
-0
-0
-0
-0
-0 
-Dividends paid 
--2,848
--3,692
--4,614
--5,166
--5,833
--8,171 
-Net inc/(dec) in borrowings 
-1,467
-3,253
-499
-305
-320
-336 
-Other investing/financing cash flows 
-1,284
-962
-664
--107
--110
--81 
-Net cash flow 
-2,910
-7,227
-2,080
-2,274
-3,971
-4,170 
-Change in working capital 
--1,539
--25
--2,529
--3,013
--3,420
--4,044 
-Balance Sheet (CNYm) 
-Cash and other liquid assets 
-10,113
-17,339
-19,419
-21,693
-25,664
-29,834 
-Tangible fixed assets 
-2,974
-3,482
-4,766
-6,064
-7,265
-8,367 
-Goodwill/intangible assets 
-0
-0
-0
-0
-0
-0 
-Associates/investments 
-56
-284
-287
-441
-595
-749 
-Other assets 
-17,173
-20,234
-27,098
-34,189
-42,459
-52,135 
-Total assets 
-30,316
-41,339
-51,571
-62,388
-75,983
-91,086 
-Interest bearing debt 
-2,349
-5,601
-6,100
-6,405
-6,725
-7,061 
-Other liabilities 
-8,670
-11,251
-14,867
-18,870
-23,642
-29,194 
-Total liabilities 
-11,019
-16,852
-20,967
-25,275
-30,367
-36,255 
-Shareholders' equity 
-19,254
-24,289
-30,358
-36,862
-45,360
-54,570 
-Minorities 
-44
-198
-246
-251
-256
-261 
-Total shareholders' equity 
-19,297
-24,487
-30,604
-37,113
-45,616
-54,831 
-Net debt 
--7,764
--11,738
--13,319
--15,289
--18,939
--22,773 
-Key Company Metrics 
-Sales growth (%) 
-46.6
-26.3
-31.3
-28.0
-25.4
-23.8 
-DB EPS growth (%) 
-25.8
-25.4
-26.8
-24.1
-22.8
-21.3 
-EBITDA Margin (%) 
-22.0
-22.3
-23.2
-22.3
-22.3
-22.0 
-EBIT Margin (%) 
-21.4
-21.6
-22.3
-21.4
-21.4
-21.2 
-Payout ratio (%) 
-48.5
-49.7
-49.0
-44.2
-40.7
-47.0 
-ROE (%) 
-34.4
-34.1
-34.4
-34.7
-34.9
-34.8 
-Capex/sales (%) 
-5.3
-2.9
-4.0
-3.2
-2.6
-2.2 
-Capex/depreciation (x) 
-8.6
-4.2
-5.0
-3.7
-3.0
-2.6 
-Net debt/equity (%) 
--40.2
--47.9
--43.5
--41.2
--41.5
--41.5 
-Net interest cover (x) 
-nm
-nm
-nm
-nm
-nm
-nm 
-Source: Company data, Deutsche Bank estimates 
- 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Deutsche Bank AG/Hong Kong 
-Page 3
- 
- 
- 
-Business update  
-Growth across its various product lines in 1H18 
- 
-Front-end products remain the largest revenue contributor (at 49%) 
-and grew 21% YoY, slightly lower than the corporate average of 22%, 
-owing to sales slowing down in the US/European markets. 
- 
-Back-end products contribute 14% of revenue and grew 16% YoY, 
-along with the growth in front-end products. 
- 
-Central controlling equipment, at 13% of revenue, grew strongly at 
-48% YoY, mainly driven by sales of data center and software products.  
- 
-The contribution from engineering construction increased to 5% due 
-to its strong growth of 151% YoY, supported by the contribution from 
-solution projects completion.  
- 
-The innovation business consists of Ezvits (the consumer surveillance 
-camera), auto, robots and storage products. This business grew 80% 
-YoY and contributed 5% of revenue in 1H18. Ezvits accounts for the 
-bulk of the “innovation” business, with a sales contribution of over 
-CNY700m, up 58% YoY. 
-Figure 1: 1H18 sales breakdown 
-Figure 2: 1H18 profit breakdown 
-Front-end 
-products, 
-49%
-Back-end products, 
-14%
-Central Controlling 
-Equipment, 13%
-Engineering 
-Construction, 
-5%
-Innovation 
-business, 5%
-Others, 13%
- 
- 
-Front-end 
-products, 
-55%
-Back-end products, 
-15%
-Central Controlling 
-Equipment, 16%
-Engineering 
-Construction, 2%
-Innovation business, 4%
-Others, 8%
- 
-Source: Deutsche Bank, company data  
-Source: Deutsche Bank, company data  
-Domestic market (70% of revenue): 1H18 domestic sales reached CNY14.6bn, 
-up 27% YoY, a slightly deceleration from 31% YoY in 2017, due to 1) the small 
-public security projects being squeezed by the Sharp Eyes/Sky Net projects, 
-and 2) channels/clients inventory digestion, impacted by the Chinese 
-government’s deleveraging policy. However, 1H18 GPM expanded to 45%, 
-from 42% in 2017, thanks to 1) management’s continued efforts in realigning 
-its internal employee KPI, and 2) the effort in channel optimization. The 
-company expects the demand for industrial projects (except for public security) 
-to remain stable and the deleveraging policy to lead to a healthier industry 
-dynamic in the long term. 
-Overseas market (30% of revenue): 1H18 overseas sales reached CNY6.3bn, 
-up 27% YoY, a deceleration from 31% YoY in 2017, owing to instability from 
-both a political and economic perspective. In addition, 1H18 GPM declined to 
-44%, from 49% in 2017, given 1) the unfavorable forex, 2) product mix (higher 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Page 4 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-growth in low-margin standard products), and 3) more severe competition as 
-global leading companies have aggressively cut prices to maintain shares.  
-Figure 3: Domestic sales and GPM 
-Figure 4: Overseas sales and GPM 
-38%
-56%
-46%
-21%
-31%
-27%
-49%
-43%
-38%
-39%
-42%
-45%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-0
-5,000
-10,000
-15,000
-20,000
-25,000
-30,000
-35,000
-2013
-2014
-2015
-2016
-2017
-1H18
-Domestic sales (RMBm)
-YoY (%)
-GPM (%)
- 
- 
-108%
-75%
-57%
-41%
-31%
-27%
-44%
-48%
-45%
-48%
-49%
-44%
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-0
-2,000
-4,000
-6,000
-8,000
-10,000
-12,000
-14,000
-2013
-2014
-2015
-2016
-2017
-1H18
-Overseas sales (RMBm)
-YoY (%)
-GPM (%)
- 
-Source: Deutsche Bank, company data  
-Source: Deutsche Bank, company data  
- 
-Figure 5: 2Q18 P&L snapshot  
-v 
-2Q18 
-1Q18 
-QoQ 
-2Q17 
-YoY 
-2Q18 DBe 
-% diff 2Q18 consensus 
-% diff 
-Sales 
- 11,511 
- 9,365 
-22.9%
- 9,404 
-22.4%
- 11,258
-2.3%
-11566
--0.5% 
-Gross profits 
- 5,069 
- 4,220 
-20.1%
- 4,014 
-26.3%
- 4,904
-3.4%
-5043
-0.5% 
-Op exp 
- 3,073 
- 2,168 
-41.8%
- 2,040 
-50.6%
- 2,510
-22.4%
-2408
-27.6% 
-Op. profits 
- 1,996 
- 2,052 
--2.7%
- 1,974 
-1.1%
- 2,394
--16.6%
-2635
--24.2% 
-Non-op 
- 621
- 104
-NM
- 72 
-NM
- 407
-52.8%
-362
-71.6% 
-Pre-tax income 
- 2,617 
- 2,156 
-21.4%
- 2,046 
-27.9%
- 2,800
--6.5%
-2997
--12.7% 
-Net profit 
- 2,331 
- 1,816 
-28.4%
- 1,811 
-28.8%
- 2,436
--4.3%
-2493
--6.5% 
-EPS (CNY) 
-0.25
-0.20
-28.4%
-0.20 
-28.8%
-0.26
--4.3%
-0.26
--3.9% 
-Margin analysis 
- 
- 
-Gross margin 
-44.0%
-45.1%
-42.7% 
-43.6%
-43.6%
- 
-Operating margin 
-17.3%
-21.9%
-21.0% 
-21.3%
-22.8%
- 
-Net margin 
-20.3%
-19.4%
-19.3% 
-21.6%
-21.6%
- 
-Source: Deutsche Bank estimates, company data  
-Note: op exp only include selling & marketing, Admin and R&D expenses 
- 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Deutsche Bank AG/Hong Kong 
-Page 5
- 
- 
- 
-Figure 6: Earnings revisions  
-P/L Revision 
-2017 
-2018E 
-2019E 
-2020E 
-% change 
-(CNY mn) 
- (Actual) 
-Old 
-New 
-Old 
-New 
-Old 
-New 
-2018E 
-2019E 
-2020E 
-Net sales 
-41,905 
-52,495
-53,620 
-66,789
-67,220 
-NA
-83,193
-2.1
-0.6
-NA 
-Gross profit 
-18,438 
-23,020
-23,627 
-29,366
-29,560 
-NA
-36,654
-2.6
-0.7
-NA 
-Operating expense 
-9,077 
-11,380
-12,152 
-14,488
-15,186 
-NA
-19,044
-6.8
-4.8
-NA 
-Operating profit 
-9,362 
-11,640
-11,475 
-14,878
-14,373 
-NA
-17,611
--1.4
--3.4
-NA 
-Non-op gain/loss 
-1,125 
-1,584
-1,485 
-2,122
-1,690 
-NA
-1,851
--6.3
--20.4
-NA 
-Pre-tax profit 
-10,487 
-13,224
-12,960 
-17,000
-16,064 
-NA
-19,461
--2.0
--5.5
-NA 
-Net profit 
-9,411 
-11,808
-11,675 
-15,186
-14,335 
-NA
-17,386
--1.1
--5.6
-NA 
-EPS (CNY) 
-1.0 
-1.3
-1.3 
-1.7
-1.6 
-NA
-1.9 
- 
-Key ratio (%) 
- 
- 
- 
-Sales growth 
-31.3 
-25.3
-28.0 
-27.2
-25.4 
-NA
-23.8
- 
-Gross margin 
-44.0 
-43.9
-44.1 
-44.0
-44.0 
-NA
-44.1
- 
-Operating Margin 
-22.3 
-22.2
-21.4 
-22.3
-21.4 
-NA
-21.2
- 
-Net margin 
-22.5 
-22.5
-21.8 
-22.7
-21.3 
-NA
-20.9
- 
-Source: Deutsche Bank estimates, company data  
-Downside risks 
- 
-Market share loss to video surveillance peers would adversely affect 
-sales and EPS estimates. 
- 
-Weaker orders from system integrators, value-added retailers, 
-governments, and corporate clients would lead to lower shipments 
-and earnings than we expect. 
- 
-Higher component costs or labor cost hikes in China. 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Page 6 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Figure 7: Quarterly P&L  
-(CNY mn) 
- 1Q18 
- 2Q18 
- 3Q18E 
- 4Q18E 
- 2018E 
- 1Q19E 
- 2Q19E 
- 3Q19E 
- 4Q19E 
- 2019E 
-Sales 
-9,365 
-11,511
-14,340
-18,404 
-53,620 
-12,280
-14,921
-17,956
-22,063
-67,220 
-Gross profit 
-4,220 
-5,069
-6,329
-8,009 
-23,627 
-5,258
-6,457
-8,103
-9,741
-29,560 
-Operating profit 
-2,052 
-1,996
-3,246
-4,181 
-11,475 
-2,483
-2,846
-4,135
-4,909
-14,373 
-Non-operating item 
-104 
-621
-350
-410 
-1,485 
-200
-400
-400
-690
-1,690 
-Pre-tax income 
-2,156 
-2,617
-3,596
-4,591 
-12,960 
-2,683
-3,246
-4,535
-5,600
-16,064 
-Net profit 
-1,816 
-2,331
-3,488
-4,040 
-11,675 
-2,208
-2,857
-4,399
-4,872
-14,335 
-EPS (CNY) 
-0.20 
-0.25
-0.38
-0.44 
-1.27 
-0.24
-0.31
-0.48
-0.53
-1.55 
-Margin Analysis (%) 
- 
- 
- 
- 
- 
-Gross margin 
-45.1 
-44.0
-44.1
-43.5 
-44.1 
-42.8
-43.3
-45.1
-44.2
-44.0 
-Operating margin 
-21.9 
-17.3
-22.6
-22.7 
-21.4 
-20.2
-19.1
-23.0
-22.3
-21.4 
-Pre-tax margin 
-23.0 
-22.7
-25.1
-24.9 
-24.2 
-21.8
-21.8
-25.3
-25.4
-23.9 
-Tax rate 
-15.8 
-10.9
-3.0
-12.0 
-9.9 
-17.7
-12.0
-3.0
-13.0
-10.8 
-YoY growth (%) 
- 
- 
- 
- 
-Sales 
-33.0 
-22.4
-27.1
-29.8 
-28.0 
-31.1
-29.6
-25.2
-19.9
-25.4 
-Gross profit 
-40.1 
-26.3
-21.1
-29.5 
-28.1 
-24.6
-27.4
-28.0
-21.6
-25.1 
-Operating profit 
-35.9 
--19.9
-17.3
-61.3 
-22.6 
-21.0
-42.6
-27.4
-17.4
-25.3 
-Pre-tax income 
-19.9 
-27.9
-22.3
-24.0 
-23.6 
-24.4
-24.0
-26.1
-22.0
-24.0 
-Net profit 
-22.6 
-28.8
-21.9
-24.0 
-24.1 
-21.6
-22.5
-26.1
-20.6
-22.8 
-QoQ growth (%) 
- 
- 
- 
- 
-Sales 
--33.9 
-22.9
-24.6
-28.3 
- 
--33.3
-21.5
-20.3
-22.9
- 
-Gross profit 
--31.8 
-20.1
-24.8
-26.6 
- 
--34.4
-22.8
-25.5
-20.2
- 
-Operating profit 
--20.8 
--2.7
-62.6
-28.8 
- 
--40.6
-14.7
-45.3
-18.7
- 
-Pre-tax income 
--41.8 
-21.4
-37.4
-27.7 
- 
--41.6
-21.0
-39.7
-23.5
- 
-Net profit 
--44.3 
-28.4
-49.6
-15.8 
- 
--45.4
-29.4
-54.0
-10.7
- 
-Sales breakdown 
- 
- 
- 
- 
- 
-Front-end Audio / Video Products 
-50% 
-49%
-50%
-50% 
-50% 
-48%
-49%
-51%
-49%
-49% 
-Back-end Audio / Video Products 
-15% 
-14%
-12%
-13% 
-13% 
-13%
-13%
-12%
-11%
-12% 
-Central Controlling Equipment 
-14% 
-13%
-13%
-12% 
-13% 
-12%
-12%
-13%
-15%
-13% 
-Engineering Construction 
-5% 
-5%
-6%
-8% 
-6% 
-6%
-6%
-6%
-7%
-6% 
-Innovative business 
-6% 
-5%
-6%
-6% 
-6% 
-7%
-7%
-8%
-8%
-8% 
-Others 
-10% 
-14%
-13%
-11% 
-12% 
-13%
-12%
-11%
-10%
-11% 
-Total 
-100% 
-100%
-100%
-100% 
-100% 
-100%
-100%
-100%
-100%
-100% 
-Source: Deutsche Bank estimates, company data  
- 
- 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Deutsche Bank AG/Hong Kong 
-Page 7
- 
- 
- 
-Appendix 1 
- 
-Important Disclosures 
- 
-*Other information available upon request 
- 
-Disclosure checklist 
-Company 
-Ticker 
-Recent price* 
-Disclosure 
-Hikvision 
-002415.SZ 
-36.74 (CNY) 23 Jul 18 
-14 
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other 
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the 
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at 
-https://research.db.com/Research/Disclosures/CompanySearch. 
-Aside 
-from 
-within 
-this 
-report, 
-important 
-conflict 
-disclosures 
-can 
-also 
-be 
-found 
-at 
-https://research.db.com/Research/Topics/Equities?topicId=RB0002 under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information 
-before investing. 
- 
-Important Disclosures Required by U.S. Regulators 
-Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States. 
-See Important Disclosures Required by Non-US Regulators and Explanatory Notes. 
-14. Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company 
-within the past year. 
-     
-For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
-research, please see the most recently published company report or visit our global disclosure look-up page on our 
-website at https://research.db.com/Research/Disclosures/Company?ricCode=002415.SZ 
- 
-Analyst Certification 
-The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
-subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
-any compensation for providing a specific recommendation or view in this report. Birdy Lu 
-     
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Page 8 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Historical recommendations and target price: Hikvision (002415.SZ) 
-(as of 7/23/2018) 
-1
-2
-3
-4
-0.00
-5.00
-10.00
-15.00
-20.00
-25.00
-30.00
-35.00
-40.00
-45.00
-50.00
-Jul 16
-Oct 16
-Jan 17
-Apr 17
-Jul 17
-Oct 17
-Jan 18
-Apr 18
-Security Price
+Rating
 Date
-Previous Recommendations 
-Strong Buy 
-Buy 
-Market Perform 
-Underperform 
-Not Rated 
-Suspended Rating 
-Current Recommendations 
-Buy 
-Hold 
-Sell 
-Not Rated 
-Suspended Rating 
-*New Recommendation Structure 
-as of September 9,2002 
-**Analyst is no longer at Deutsche 
-Bank 
-1.     15/11/2016:         Upgrade to Buy, Target Price Change CNY40.80 Janice 
-Cheng 
-3.     24/07/2017:         Buy, Target Price Change CNY34.50 Janice Cheng 
-2.     14/04/2017:         Buy, Target Price Change CNY41.00 Janice Cheng 
-4.     01/11/2017:         Buy, Target Price Change CNY43.00 Janice Cheng 
-      
-Equity rating key 
-Equity rating dispersion and banking relationships 
-Buy: Based on a current 12- month view of total 
-share-holder return (TSR = percentage change in 
-share price from current price to projected target price 
-plus pro-jected dividend yield ) , we recommend that 
-investors buy the stock. 
-Sell: Based on a current 12-month view of total share-
-holder return, we recommend that investors sell the 
-stock 
-Hold: We take a neutral view on the stock 12-months 
-out and, based on this time horizon, do not 
-recommend either a Buy or Sell. 
-Newly issued research recommendations and target 
-prices supersede previously published research. 
-57 %
-34 %
-9 %
-19 %
-15 %
-18 %
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
+Company
+Hikvision
 Buy
-Hold
-Sell
-Asia-Pacific Universe
-Companies Covered
-Cos. w/ Banking Relationship
- 
-  
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Deutsche Bank AG/Hong Kong 
-Page 9
- 
- 
- 
- 
-Additional Information 
- 
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 
-"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources 
+Results
+Asia
+China
+Reuters
+Bloomberg
+Exchange Ticker
+Technology
+002415.SZ
+002415 CH
+SHZ
+Hardware & Equipment
+Near-term risks should have been
+Birdy Lu
+priced in
+Research Analyst
+Near-term risks should have been priced in
+Hikvision reported in-line 2Q18 results and expected 1-3Q18 profit to grow in
+the same range of 15-35% YoY. Despite a continued negative impact from the
+Chinese government's deleveraging policy and political/economic uncertainties
+in overseas markets, we believe Hikvision's short-term softness is temporary
+and order momentum could pick up again, with uncertainties easing over time
+and a healthier industry dynamic in the domestic market. Maintaining Buy.
+In-line 2Q18 results
+Hikvision reported 2Q18 EPS and operating profit of CNY0.25 (+28% QoQ,
++29% YoY) and CNY2.0bn (-3% QoQ, +1%YoY), on sales of CNY11.5bn (+23%
+QoQ, +22% YoY). Sales/gross profit were broadly in line with DB/consensus
+estimates, as the market has already factored in the political impacts.
+Price/price relative
+However, expenses rose in 2Q18, due to 1) rising recruitment fees for sales
+people and R&D engineers, 2) higher exhibition fees and 3) one-time expense
+for the third phase of industrial park opening in Hangzhou. With help from a
+non-op gain, net profit slightly missed DBe by 4%.
+Slower 1-3Q18 guidance but long-term outlook remains intact
+Hikvision expects 1-3Q18 net profit to rise 15%-35% YoY, implying 3Q18 net
+profit of CNY2.9bn-4.2bn, or a midpoint of CNY3.5bn (+24% YoY). Although a
+solid figure, this guidance trails Bloomberg consensus (CNY3.8bn) by 8%, due
+to 1) the economic/political uncertainties in overseas markets, 2) the continual
+impact of the Chinese government's deleveraging policy, and 3) the small
+public security projects being squeezed by the nationwide projects in the short
+run. Aside from this, Hikvision remains positive on its 2018 and long-term
+and the high growth will continue; 2) a rising contribution from the Sky
+Net/Sharp Eyes projects as Hikvision is the key beneficiary of the Chinese
+government's efforts to build a nationwide security surveillance system; and 3)
+Valuation and investment risks
+its rising AI system integration can drive long-term ASP upside.
+We trim 2018/19 EPS forecasts by 1-6%
+to price in the continued investment in
+talent
+recruitment
+and
+innovative
+business. We trim our TP from CNY43 to
+CNY41, still based on 30x 2H18-1H19E
+PE, which is at the average of the top two
+bands. We believe the company can reach
+this level given the accelerated earning
+growth from industry leadership, Al
+exposure, and a surge in innovation
+business and margin improvement. Our
+target multiple is supported by the strong
+growth outlook and ROE delivery. Risks:
+market share loss, weak demand in
+industry
+project
+orders,
+political
+uncertainties in overseas markets.
+Deutsche Bank AG/Hong Kong
+Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
+this report as only a single factor in making their investment decision. DISCLOSURE: Distributed on: 23/07/2018 17:42:43 GMT
+LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE'S REPUBLIC
+OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF PRC),
+EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
+Hikvision
+Reuters: 002415.SZ
+Bloomberg: 002415 CH
+Buy
+Company Profile
+Hangzhou Hikvision Digital Technology Co., Ltd develops,
+manufactures and sells video surveillance products. The
+company manufactures video and audio compression
+cards, network hard disk video recorders, video servers,
+cameras, network storage, and other digital products.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data. Deutsche Bank estimates
+Birdy Lu
+Business update
+Front-end products remain the largest revenue contributor (at 49%)
+and grew 21% YoY, slightly lower than the corporate average of 22%,
+owing to sales slowing down in the US/European markets.
+Back-end products contribute 14% of revenue and grew 16% YoY,
+along with the growth in front-end products.
+Central controlling equipment, at 13% of revenue, grew strongly at
+48% YoY, mainly driven by sales of data center and software products.
+The contribution from engineering construction increased to 5% due
+to its strong growth of 151% YoY, supported by the contribution from
+solution projects completion.
+The innovation business consists of Ezvits (the consumer surveillance
+camera), auto, robots and storage products. This business grew 80%
+YoY and contributed 5% of revenue in 1H18. Ezvits accounts for the
+bulk of the "innovation" business, with a sales contribution of over
+CNY700m, up 58% YoY.
+Source: Deutsche Bank, company data
+Domestic market (70% of revenue): 1H18 domestic sales reached CNY14.6bn,
+up 27% YoY, a slightly deceleration from 31% YoY in 2017, due to 1) the small
+public security projects being squeezed by the Sharp Eyes/Sky Net projects,
+and 2) channels/clients inventory digestion, impacted by the Chinese
+government's deleveraging policy. However, 1H18 GPM expanded to 45%,
+from 42% in 2017, thanks to 1) management's continued efforts in realigning
+its internal employee KPI, and 2) the effort in channel optimization. The
+company expects the demand for industrial projects (except for public security)
+to remain stable and the deleveraging policy to lead to a healthier industry
+dynamic in the long term.
+Overseas market (30% of revenue): 1H18 overseas sales reached CNY6.3bn,
+up 27% YoY, a deceleration from 31% YoY in 2017, owing to instability from
+both a political and economic perspective. In addition, 1H18 GPM declined to
+44%, from 49% in 2017, given 1) the unfavorable forex, 2) product mix (higher
+growth in low-margin standard products), and 3) more severe competition as
+global leading companies have aggressively cut prices to maintain shares.
+Source: Deutsche Bank, company data
+Source: Deutsche Bank, company data
+Source: Deutsche Bank estimates, company data
+Note: op exp only include selling & marketing, Admin and R&D expenses
+Downside risks
+Market share loss to video surveillance peers would adversely affect
+sales and EPS estimates.
+Weaker orders from system integrators, value-added retailers,
+governments, and corporate clients would lead to lower shipments
+and earnings than we expect.
+Higher component costs or labor cost hikes in China.
+Source: Deutsche Bank estimates, company data
+Important Disclosures
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+before investing.
+Important Disclosures Required by U.S. Regulators
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
+See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
+14. Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company
+within the past year.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Birdy Lu
+Historical recommendations and target price: Hikvision (002415.SZ)
+(as of 7/23/2018)
+Equity rating key
+Equity rating dispersion and banking relationships
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
+share price from current price to projected target price
+plus pro-jected dividend yield), we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
-party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor 
-is 
-responsible 
-for 
-the 
-accuracy 
-or 
-security 
-controls 
-of 
-those 
-websites. 
- 
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this 
-report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche 
-Bank 
-may 
-act 
-as 
-principal 
-for 
-its 
-own 
-account 
-or 
-as 
-agent 
-for 
-another 
-person. 
- 
-Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own 
-account or with customers, in a manner inconsistent with the views taken in this research report. Others within 
-Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those 
-taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, 
-equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication 
-may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies, 
-perspectives or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers 
-it writes on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes 
-investment 
-banking, 
-trading 
-and 
-principal 
-trading 
-revenues. 
- 
-Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do 
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides 
-liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts 
-sometimes have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. 
-Some trade ideas for equities are listed as Catalyst Calls on the Research Website (https://research.db.com/Research/) , 
-and can be found on the general coverage list and also on the covered company’s page. A Catalyst Call represents a 
-high-conviction belief by an analyst that a stock will outperform or underperform the market and/or a specified sector 
-over a time frame of no less than two weeks and no more than three months. In addition to Catalyst Calls, analysts may 
-occasionally discuss with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that 
-reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities 
-discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return 
-or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to 
-otherwise notify a recipient thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the 
-frequency of changes in market conditions and in both general and company-specific economic prospects make it 
-difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst or of the 
-Research Department Management, and the majority of reports are published at irregular intervals. This report is 
-provided for informational purposes only and does not take into account the particular investment objectives, financial 
-situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial 
-instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of 
-the analyst’s judgment. The financial instruments discussed in this report may not be suitable for all investors, and 
-investors must make their own informed investment decisions. Prices and availability of financial instruments are 
-subject to change without notice, and investment transactions can lead to losses as a result of price fluctuations and 
-other factors. If a financial instrument is denominated in a currency other than an investor's currency, a change in 
-exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results. 
-Performance calculations exclude transaction costs, unless otherwise indicated. Unless otherwise indicated, prices are 
-current as of the end of the previous trading session and are sourced from local exchanges via Reuters, Bloomberg and 
-other 
-vendors. 
-Data 
-is 
-also 
-sourced 
-from 
-Deutsche 
-Bank, 
-subject 
-companies, 
-and 
-other 
-parties. 
- 
-The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our 
-organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to 
-our 
-research 
-are 
-available 
-on 
-our 
-website 
-(https://research.db.com/Research/) 
-under 
-Disclaimer. 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Page 10 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
- 
-Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise 
-to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash 
-flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a 
-loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the 
-loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse 
-macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation 
-(including changes in assets holding limits for different types of investors), changes in tax policies, currency 
-convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of positions), and 
-settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-income 
-instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX 
-depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by 
-construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of 
-the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons 
-indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency 
-that differs from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks 
-typical 
-to 
-options 
-in 
-addition 
-to 
-the 
-risks 
-related 
-to 
-rates 
-movements. 
- 
-Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The 
-appropriateness of these products for use by investors depends on the investors' own circumstances, including their tax 
-position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should take 
-expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this 
-publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the 
-high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the 
-amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not 
-suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of 
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to 
-access the website, please contact your Deutsche Bank representative for a copy of this important document. 
- 
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i) 
-exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by 
-numerous market factors, including world and national economic, political and regulatory events, events in equity and 
-debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government-imposed 
-exchange controls, which could affect the value of the currency. Investors in securities such as ADRs, whose values are 
-affected by the currency of an underlying security, effectively assume currency risk.  
-Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the 
-investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at 
-https://research.db.com/Research/ on each company’s research page. Investors are strongly encouraged to review this 
-information before investing.  
- 
-Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial 
-adviser, consultant or fiduciary to you or any of your agents (collectively, “You” or “Your”) with respect to any 
-information provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, 
-Deutsche Bank is not acting as your impartial adviser, and does not express any opinion or recommendation whatsoever 
-as to any strategies, products or any other information presented in the materials. Information contained herein is being 
-provided solely on the basis that the recipient will make an independent assessment of the merits of any investment 
-decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any 
-trading strategy. 
- 
-The information presented is general in nature and is not directed to retirement accounts or any specific person or 
-account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in 
-making Your decision. The information we provide is being directed only to persons we believe to be financially 
-sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to 
-particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Deutsche Bank AG/Hong Kong 
-Page 11
- 
- 
- 
-offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this 
-directly from us, we ask that you inform us immediately. 
- 
-In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to 
-Catalyst Calls (“CC”) from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have 
-been made consistent with the categories used by Analysts globally; and the effective time period for CCs has been 
-reduced from a maximum of 180 days to 90 days. 
- 
-United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and 
-SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA 
-regulations.  
- 
-Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated 
-in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under 
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal 
-Financial 
-Supervisory 
-Authority. 
- 
-United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester 
-House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the 
-Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial 
-Conduct Authority. Details about the extent of our authorisation and regulation are available on request. 
- 
-Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any 
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571 
-shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional 
-Information" section shall apply to the fullest extent permissible by local laws and regulations, including without 
-limitation the Code of Conduct for Persons Licensed or Registered with the Securities and Futures Commission. . 
- 
-India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and 
-registered office at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 
-7180 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration 
-nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives 
-Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration 
-no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received 
-administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL is 
-Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s) may 
-have debt holdings or positions in the subject company. With regard to information on associates, please refer to the 
-“Shareholdings” 
-section 
-in 
-the 
-Annual 
-Report 
-at: 
-https://www.db.com/ir/en/annual-reports.htm. 
- 
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial 
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, 
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks 
-involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by 
-multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to 
-losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional 
-losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories 
-of investment advice, products and services. Recommended investment strategies, products and services carry the risk 
-of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in 
-market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the 
-relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in 
-this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the 
-name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank 
-Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are 
-not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's 
-equity 
-analysts 
-are 
-based 
-on 
-a 
-12-month 
-forecast 
-period.. 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Page 12 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
- 
-Korea: 
-Distributed 
-by 
-Deutsche 
-Securities 
-Korea 
-Co. 
- 
-South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register 
-Number 
-in 
-South 
-Africa: 
-1998/003298/10). 
- 
-Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore 
-Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect 
-of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche 
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in 
-the applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents. 
- 
-Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should 
-independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank 
-research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without 
-written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and 
-is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, 
-Taipei 
-Branch 
-may 
-not 
-execute 
-transactions 
-for 
-clients 
-in 
-these 
-securities/instruments. 
- 
-Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre 
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall 
-within the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, 
-West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related 
-financial products or services are only available only to Business Customers, as defined by the Qatar Financial Centre 
-Regulatory 
-Authority. 
- 
-Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
-any appraisal or evaluation activity requiring a license in the Russian Federation. 
- 
-Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the 
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall 
-within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya 
-District, 
-P.O. 
-Box 
-301809, 
-Faisaliah 
-Tower 
-- 
-17th 
-Floor, 
-11372 
-Riyadh, 
-Saudi 
-Arabia. 
- 
-United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated 
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services 
-activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai 
-International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been 
-distributed by Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as 
-defined 
-by 
-the 
-Dubai 
-Financial 
-Services 
-Authority. 
- 
-Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian 
-Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific research 
-disclosures and related information at https://australia.db.com/australia/content/research-information.html Where 
-research refers to any particular financial product recipients of the research should consider any product disclosure 
-statement, prospectus or other applicable disclosure document before making any decision about whether to acquire 
-the product. In preparing this report, the primary analyst or an individual who assisted in the preparation of this report 
-has likely been in contact with the company that is the subject of this research for confirmation/clarification of data, 
-facts, statements, permission to use company-sourced material in the report, and/or site-visit attendance. Without prior 
-approval from Research Management, analysts may not accept from current or potential Banking clients the costs of 
-travel, accommodations, or other expenses incurred by analysts attending site visits, conferences, social events, and the 
-like. Similarly, without prior approval from Research Management and Anti-Bribery and Corruption (“ABC”) team, 
-analysts may not accept perks or other items of value for their personal use from issuers they cover. 
- 
-Additional information relative to securities, other financial products or issuers discussed in this report is available upon 
-24 July 2018 
-Hardware & Equipment 
-Hikvision 
-Deutsche Bank AG/Hong Kong 
-Page 13
- 
- 
- 
-request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent. 
-Copyright © 2018 Deutsche Bank AG 
-  
- 
- 
- 
- 
- 
-David Folkerts-Landau 
-Group Chief Economist and Global Head of Research 
- 
-Raj Hindocha 
-Global Chief Operating Officer 
-Research 
-Michael Spencer 
-Head of APAC Research 
-Global Head of Economics 
-Steve Pollard 
-Head of Americas Research 
-Global Head of Equity Research 
-Anthony Klarman 
-Global Head of 
-Debt Research 
-Paul Reynolds 
-Head of EMEA 
-Equity Research 
-Dave Clark 
-Head of APAC 
-Equity Research 
-Pam Finelli 
-Global Head of 
-Equity Derivatives Research 
- 
-  
-Andreas Neubauer 
-Head of Research - Germany 
-Spyros Mesomeris 
-Global Head of Quantitative 
-and QIS Research 
-  
-  
-International locations 
-Deutsche Bank AG 
-Deutsche Bank Place 
-Level 16 
-Corner of Hunter & Phillip Streets 
-Sydney, NSW 2000 
-Australia 
-Tel: (61) 2 8258 1234 
-Deutsche Bank AG 
-Mainzer Landstrasse 11-17 
-60329 Frankfurt am Main 
-Germany 
-Tel: (49) 69 910 00 
-Deutsche Bank AG 
-Filiale Hongkong 
-International Commerce Centre, 
-1 Austin Road West,Kowloon, 
-Hong Kong 
-Tel: (852) 2203 8888 
-Deutsche Securities Inc. 
-2-11-1 Nagatacho 
-Sanno Park Tower 
-Chiyoda-ku, Tokyo 100-6171 
-Japan 
-Tel: (81) 3 5156 6770 
- 
-Deutsche Bank AG London 
-1 Great Winchester Street 
-London EC2N 2EQ 
-United Kingdom 
-Tel: (44) 20 7545 8000 
-Deutsche Bank Securities Inc. 
-60 Wall Street 
-New York, NY 10005 
-United States of America 
-Tel: (1) 212 250 2500 
- 
- 
- 
-  
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+for
+the
+responsible
+accuracy
+security
+controls
+those
+websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank
+its
+for
+may
+act
+principal
+for
+own
+account
+agent
+another
+person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies,
+perspectives or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers
+it writes on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes
+investment
+banking,
+trading
+and
+principal
+trading
+revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings.
+and can be found on the general coverage list and also on the covered company's page. A Catalyst Call represents a
+high-conviction belief by an analyst that a stock will outperform or underperform the market and/or a specified sector
+over a time frame of no less than two weeks and no more than three months. In addition to Catalyst Calls, analysts may
+occasionally discuss with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that
+reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the
+frequency of changes in market conditions and in both general and company-specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst or of the
+Research Department Management, and the majority of reports are published at irregular intervals. This report is
+provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial
+instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of
+the analyst's judgment. The financial instruments discussed in this report may not be suitable for all investors, and
+investors must make their own informed investment decisions. Prices and availability of financial instruments are
+subject to change without notice, and investment transactions can lead to losses as a result of price fluctuations and
+other factors. If a financial instrument is denominated in a currency other than an investor's currency, a change in
+exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results.
+Performance calculations exclude transaction costs, unless otherwise indicated. Unless otherwise indicated, prices are
+current as of the end of the previous trading session and are sourced from local exchanges via Reuters, Bloomberg and
+other vendors. Data is also sourced from Deutsche Bank, subject companies, and other parties.
+The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
+available
+website
+research
+are
+our
+under
+Disclaimer.
+our
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-income
+instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX
+depreciation, or to specified interest rates - these are common in emerging markets. The index fixings may - by
+construction - lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons
+indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency
+that differs from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks
+addition
+risks
+related
+typical
+options
+the
+rates
+movements.
+Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
+appropriateness of these products for use by investors depends on the investors' own circumstances, including their tax
+position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should take
+expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
+publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
+high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
+amount of funds initially deposited - up to theoretically unlimited losses. Trading in options involves risk and is not
+suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
+access the website, please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government-imposed
+exchange controls, which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you or any of your agents (collectively, "You" or "Your") with respect to any
+information provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
+provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+directly from us, we ask that you inform us immediately.
+In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to
+Catalyst Calls ("CC") from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
+been made consistent with the categories used by Analysts globally; and the effective time period for CCs has been
+reduced from a maximum of 180 days to 90 days.
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal
+Financial
+Supervisory
+Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
+Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
+shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional
+Information" section shall apply to the fullest extent permissible by local laws and regulations, including without
+limitation the Code of Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
+India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and
+7180 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
+nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
+Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
+no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL is
+Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s) may
+have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
+"Shareholdings"
+section
+Annual
+the
+Report
+at:
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+12-month
+equity
+analysts
+based
+forecast
+period..
+are
+Korea:
+Distributed
+Deutsche
+Securities
+Korea
+Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+South
+1998/003298/10).
+Africa:
+Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in
+the applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
+research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+transactions
+clients
+securities/instruments.
+Branch
+may
+not
+execute
+for
+these
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall
+within the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available only to Business Customers, as defined by the Qatar Financial Centre
+Regulatory
+Authority.
+Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
+within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+Faisaliah
+Tower
+17th
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as
+defined
+Financial
+the
+Dubai
+Services
+Authority.
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific research
+research refers to any particular financial product recipients of the research should consider any product disclosure
+statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
+the product. In preparing this report, the primary analyst or an individual who assisted in the preparation of this report
+has likely been in contact with the company that is the subject of this research for confirmation/clarification of data,
+facts, statements, permission to use company-sourced material in the report, and/or site-visit attendance. Without prior
+approval from Research Management, analysts may not accept from current or potential Banking clients the costs of
+travel, accommodations, or other expenses incurred by analysts attending site visits, conferences, social events, and the
+like. Similarly, without prior approval from Research Management and Anti-Bribery and Corruption ("ABC") team,
+analysts may not accept perks or other items of value for their personal use from issuers they cover.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+Hardware & Equipment
+Hikvision
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2018 Deutsche Bank AG
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
+Head of Americas Research
+Global Head of Economics
+Research
+Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
+Equity Derivatives Research
+Andreas Neubauer
+Spyros Mesomeris
+Head of Research - Germany
+Global Head of Quantitative
+and QIS Research
+International locations
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
+Japan
+Australia
+Deutsche Bank AG London
+Deutsche Bank Securities Inc.
+1 Great Winchester Street
+60 Wall Street
+London EC2N 2EQ
+United Kingdom
+United States of America

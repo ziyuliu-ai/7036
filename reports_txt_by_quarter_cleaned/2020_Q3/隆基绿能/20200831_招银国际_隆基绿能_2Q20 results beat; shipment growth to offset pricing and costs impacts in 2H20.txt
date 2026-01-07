@@ -1,205 +1,140 @@
-CMB International Securities  Equity Research  Company Update
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-ACCESS KEY TO OUR REPORTS ON BLOOMBERG CMBR
-Mkt Cap (RMB mn)
-Avg 3 mths to (RMB mn)
-52w HighLow (RMB)
-Total Issued Shares (mn)
-4Source Bloomberg
-Shareholding Structure
-Source Bloomberg
-Source Bloomberg
-12-mth Price Performance
-Source Wind
-Auditor PwC
-000300SH (rebased)
+A Wholly Owned Subsidiary Of China Merchants Bank
+LONGi – A (601012 CH)
+2Q20 results beat; shipment growth to offset
+BUY (Up)
+Target Price
+RMB72.40
 (Previous TP
-UpDownside
-LONGi delivered outstanding 1H20 results 2Q20 net profit was RMB2252mn
-up 611% YoY refreshing quarter earnings new high Strong earnings was mostly
-driven by module external shipment growth by 1402% to 47GW during the
-quarter while we estimate GPM of mono-wafer sales were above 30% despite
-continuous price cut in Apr-May Looking ahead to 2H20 though uncertainties
-appear to increase with pricing and costs fluctuation we think LONGi will likely
-offset those impacts through accelerating shipment growth We raise FY20-22E
-EPS forecast by 399% - 548% to RMB208258312 Our TP is lifted to
-RMB7240 based on 281x FY21E PER Upgrade to BUY rating
- 2Q20 results beat 2Q external module shipment surged 1062% YoY to
-4708MW while external wafer shipment stay relatively flat at 1112mn pieces
-down 50% YoY The Company recognized RMB406mn impairment losses
-mainly from RMB427mn for Taizhou and Chuzhou plants and largely offset
-from excess cash management Net interests gain was recorded for the
-consecutive second quarter as LONGi maintained in a net cash position For
-1H20 net profit was RMB4116mn up 1048% YoY significantly higher than
-ours and market estimates
- Strong overseas module shipment sustained excellent profitability
-LONGi realized wafermodule external shipment of 247bn piece658GW in
-1H20 up 149%1062% YoY Module sales was a highlight as LONGi had 52%
-module shipped to overseas market and US module sales offered explicit high
-margin with significantly higher ASP (RMB30-50cents vs domestic spot price)
-Wafer sales recorded high GPM at 40% in 1Q20 and we estimate wafer sales
-GPM was above 33% though experienced continuous price cut in Apr-May In
-a challenging environment came with impacts from COVID-19 LONGi still
-maintained smooth sales with limited impacts on profitability in our view
- Pricecosts impacts to be offset by shipment growth Recent pricecosts
+RMB31.23)
+LONGi delivered outstanding 1H20 results. 2Q20 net profit was RMB2,252mn,
+Up/Downside
++15.0%
+Current Price
+RMB62.96
+up 61.1% YoY, refreshing quarter earnings new high. Strong earnings was mostly
+driven by module external shipment growth by 140.2% to 4.7GW during the
+quarter, while we estimate GPM of mono-wafer sales were above 30% despite
+China Solar Sector
+continuous price cut in Apr-May. Looking ahead to 2H20, though uncertainties
+Robin Xiao
+appear to increase with pricing and costs fluctuation, we think LONGi will likely
+offset those impacts through accelerating shipment growth. We raise FY20-22E
+EPS forecast by 39.9% - 54.8% to RMB2.08/2.58/3.12. Our TP is lifted to
+RMB72.40 based on 28.1x FY21E PER. Upgrade to BUY rating.
+■ 2Q20 results beat. 2Q external module shipment surged 106.2% YoY to
+4,708MW, while external wafer shipment stay relatively flat at 1,112mn pieces,
+down 5.0% YoY. The Company recognized RMB406mn impairment losses
+mainly from RMB427mn for Taizhou and Chuzhou plants, and largely offset
+by RMB296mn gain from solar farm disposal and RMB153mn financial income
+from excess cash management. Net interests gain was recorded for the
+consecutive second quarter, as LONGi maintained in a net cash position. For
+1H20, net profit was RMB4,116mn, up 104.8% YoY, significantly higher than
+ours and market estimates.
+Strong overseas module shipment sustained excellent profitability.
+Share Performance
+LONGi realized wafer/module external shipment of 2.47bn piece/6.58GW in
+1H20, up 14.9%/106.2% YoY. Module sales was a highlight as LONGi had 52%
+module shipped to overseas market, and US module sales offered explicit high
+margin with significantly higher ASP (+RMB30-50cents vs. domestic spot price.)
+Wafer sales recorded high GPM at ~40% in 1Q20, and we estimate wafer sales
+Source: Bloomberg
+GPM was above 33% though experienced continuous price cut in Apr-May. In
+a challenging environment came with impacts from COVID-19, LONGi still
+12-mth Price Performance
+maintained smooth sales with limited impacts on profitability, in our view.
+■ Price/costs impacts to be offset by shipment growth. Recent price/costs
 fluctuate along the PV supply chain had brought impacts to wafer margin and
-module demand uncertainties Based on current pricing structure wafer GPM
-declined to 24% by end-Aug according to our estimate We are not over concern
-on the short term turbulence as LONGi has state of the art PERC cell (efficiency
-at 23%) leading product costs structure and strong overseas module sales
-network In 2H20 we expect LONGi to meet its sales target implying
-748%1564% which we see strong enough to offset pricecosts impacts
-(YE 31 Dec)
-Revenue (RMB mn)
-YoY growth (%)
-YoY growth (%)
-Consensus EPS(RMB)
-Net gearing (%)
-Source Company data Bloomberg CMBIS estimates
-LONGi  A (601012 CH)
-2Q20 results beat shipment growth to offset
-pricing and costs impacts in 2H20
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
- Raise TP to RMB7240 upgrade to BUY We overestimate price and margin
-impacts to LONGi brought by COVID-19 in our previous estimate In extremely
-challenging context in 2018-2020 (such as Chinese governments 531 policy
-in 2018 project approval delay in 2019 and COVID-19 disruption in 2020)
+module demand uncertainties. Based on current pricing structure, wafer GPM
+declined to ~24% by end-Aug, according to our estimate. We are not over concern
+on the short term turbulence, as LONGi has state of the art PERC cell (efficiency
+at 23%), leading product costs structure, and strong overseas module sales
+network. In 2H20, we expect LONGi to meet its sales target, implying
+74.8%/156.4%, which we see strong enough to offset price/costs impacts.
+Auditor: PwC
+Source: Company data, Bloomberg, CMBIS estimates
+Raise TP to RMB72.40, upgrade to BUY. We overestimate price and margin
+impacts to LONGi brought by COVID-19 in our previous estimate. In extremely
+challenging context in 2018-2020 (such as Chinese government's 5.31 policy
+in 2018, project approval delay in 2019, and COVID-19 disruption in 2020),
 solar demand was resilient on the track with continuous improving cost
-demand to restore its booming track from 2H20 Based on 1H20 operating
-and financial updates we raise LONGis FY20-22E EPS estimates by
-399%429%548% to RMB208258312 Our TP based on FY21E 281x
-is raised to RMB7240 We upgrade LONGi from Hold to BUY
- Risk factors 1) cell technology upgrade to HJT at faster-than-expected pace
-and 2) short of Poly-Si to support capacity expansion in 2021E
-Figure 1 LONGis wafer and module shipment statistics and our est
-Source Company data CMBIS estimates
-Figure 2 LONGis 2Q20 and 1H20 results summary
-Source Company data CMBIS estimates
-Wafer shipment - mn piece
-Modules Shipment - MW
-Taxes  Surcharges
-as % to revenue
-as % to revenue
-RD expenses
-Asset disposal gain(loss)
-Finance expenses net
-Profit for the period
-Less Minority Interest
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 3 Earnings revision
-Source CMBIS estimates
-Revenue (RMB mn)
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-FY18A FY19A
-FY22E  YE 31 Dec (RMB mn)
-FY18A FY19A FY20E FY21E FY22E
-Mono-module
-67404  DDA
-18825  Working capital change
-5187  Tax adjustments
-(4892) (9508) (13284) (17192) (21172)  Net cash from operation
-Capex  investments
-8546  Others
-Taxes  surcharges
-546  Net cash from investment
-2698  Equity raised
-RD expenses
-914  Change of debts
-1097  Dividend paid
-12626  Others
-Net cash from financing
-570  Net change in cash
-Asset disposal gain(loss)
--  Cash at the beginning
-Finance expenses net
-(84)  Exchange difference
--  Cash at the end of the year
-14  Less pledged cash
-Cash at the balance sheet
-Less minority interest
-YE 31 Dec (RMB mn)
-FY18A FY19A
-FY22E  YE 31 Dec
-FY18A FY19A FY20E FY21E FY22E
-Non-current Assets
-27564  Sales mix (%)
-Mono-module
-Construction in Progress
-Mono-wafer
-3194  Total
-86731  PL ratios (%)
-Cash  Equivalents
-43636  Balance sheet ratios
-Current ratio (x)
-Inventory turnover days
-Short-term Borrowings
-Creditors turnover days
-Current Portion of LT Debt
-Debtors turnover days
-LiabilitiesAssets (%)
-Net debt equity ratio (%)
-022 Net Cash Net Cash Net Cash Net Cash
-Non-current Liabilities
-Long-term Payables
-4571  Returns (%)
-Long-term Borrowings
-Shareholders equity
-BVPS (RMB)
-Source Company data CMBIS estimates
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Disclosures  Disclaimers
+competitiveness comparing with other energy type. We expect global solar
+demand to restore its booming track from 2H20. Based on 1H20 operating
+and financial updates, we raise LONGi's FY20-22E EPS estimates by
+39.9%/42.9%/54.8% to RMB2.08/2.58/3.12. Our TP, based on FY21E 28.1x,
+is raised to RMB72.40. We upgrade LONGi from Hold to BUY.
+Risk factors: 1) cell technology upgrade to HJT at faster-than-expected pace;
+and 2) short of Poly-Si to support capacity expansion in 2021E.
+Source: Company data, CMBIS estimates
+Figure 2: LONGi's 2Q20 and 1H20 results summary
+Source: Company data, CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
 Analyst Certification
-The research analyst who is primary responsible for the content of this research report in whole or in part certifies that with respect to the securities
-or issuer that the analyst covered in this report (1) all of the views expressed accurately reflect his or her personal views about the subject securities
-in this report
-Besides the analyst confirms that neither the analyst nor hisher associates (as defined in the code of conduct issued by The Hong Kong Securities
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
 and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
-of this report (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report (3) serve
-covered in this report
- Stock with potential return of over 15% over next 12 months
- Stock with potential return of 15% to -10% over next 12 months
- Stock with potential loss of over 10% over next 12 months
- Stock is not rated by CMBIS
-OUTPERFORM                     Industry expected to outperform the relevant broad market benchmark over next 12 months
-MARKET-PERFORM             Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
-UNDERPERFORM                 Industry expected to underperform the relevant broad market benchmark over next 12 months
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
 CMB International Securities Limited
-Address 45F Champion Tower 3 Garden Road Hong Kong Tel (852) 3900 0888   Fax (852) 3900 0800
-CMB International Securities Limited (CMBIS) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
 of China Merchants Bank)
 Important Disclosures
-There are risks involved in transacting in any securities  The information contained in this report may not be suitable for the purposes of all investors
-CMBIS does not provide individually tailored investment advice This report has been prepared without regard to the individual investment objectives
-financial position or special requirements  Past performance has no indication of future performance and actual events may differ materially from
-that which is contained in the report  The value of and returns from any investments are uncertain and are not guaranteed and may fluctuate as a
-independently evaluate particular investments and strategies and encourages investors to consult with a professional financial advisor in order to
-make their own investment decisions
-This report or any information contained herein have been prepared by the CMBIS solely for the purpose of supplying information to the clients of
-CMBIS or its affiliate(s) to whom it is distributed  This report is not and should not be construed as an offer or solicitation to buy or sell any security
-or any interest in securities or enter into any transaction  Neither CMBIS nor any of its affiliates shareholders agents consultants directors officers
-or employees shall be liable for any loss damage or expense whatsoever whether direct or consequential incurred in relying on the information
-contained in this report  Anyone making use of the information contained in this report does so entirely at their own risk
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives,
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from
+that which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a
+result of their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should
+independently evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to
+make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of
+CMBIS or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security
+or any interest in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers
+or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information
+contained in this report. Anyone making use of the information contained in this report does so entirely at their own risk.
 The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available
-CMBIS provides the information advices and forecasts on an AS IS basis  The information and contents are subject to change without notice
-CMBIS may issue other publications having information and or conclusions different from this report  These publications reflect different assumption
-andor on behalf of its clients from time to time Investors should assume that CMBIS does or seeks to have investment banking or other business
-the objectivity of this report and CMBIS will not assume any responsibility in respect thereof This report is for the use of intended recipients only
-and this publication may not be reproduced reprinted sold redistributed or published in whole or in part for any purpose without prior written
-consent of CMBIS
+and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness.
+CMBIS provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice.
+CMBIS may issue other publications having information and/or conclusions different from this report. These publications reflect different assumption,
+point-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent
+with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself
+and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business
+relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect
+the objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only
+and this publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written
+consent of CMBIS.
+Additional information on recommended securities is available upon request.
 For recipients of this document in the United Kingdom
 This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion)
-Order 2005 (as amended from time to time)(The Order) or (II) are persons falling within Article 49(2) (a) to (d) (High Net Worth Companies
-Unincorporated Associations etc) of the Order and may not be provided to any other person without the prior written consent of CMBIS
+Order 2005 (as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies,
+Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
 For recipients of this document in the United States
-This report is intended for distribution in the United States to major US institutional investors as defined in Rule 15a-6 under the US Securities
-Exchange Act of 1934 and may not be furnished to any other person in the United States Each major US institutional investor that receives a copy
-of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities
+Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy
+of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
 For recipients of this document in Singapore
-This report is distributed in Singapore by CMBI (Singapore) Pte Limited (CMBISG) (Company Regn No 201731928D) an Exempt Financial Adviser
-as defined in the Financial Advisers Act (Cap 110) of Singapore and regulated by the Monetary Authority of Singapore CMBISG may distribute
-reports produced by its respective foreign entities affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of
-the Financial Advisers Regulations Where the report is distributed in Singapore to a person who is not an Accredited Investor Expert Investor or
-an Institutional Investor as defined in the Securities and Futures Act (Cap 289) of Singapore CMBISG accepts legal responsibility for the contents
-of the report to such persons only to the extent required by law Singapore recipients should contact CMBISG at 65 6350 4400 for matters arising
-from or in connection with the report
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser
+as defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute
+reports produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of
+the Financial Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or
+an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents
+of the report to such persons only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising
+from, or in connection with the report.

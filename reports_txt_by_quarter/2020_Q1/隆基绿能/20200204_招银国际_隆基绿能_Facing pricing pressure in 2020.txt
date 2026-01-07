@@ -1,1119 +1,146 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-ACCESS KEY TO OUR REPORTS ON BLOOMBERG: CMBR 
- 
-China Solar Sector 
- 
-Robin Xiao 
-(852) 3900 0849 
-robinxiao@cmbi.com.hk  
- 
- 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-109,577
-Avg 3 mths t/o (RMB mn) 
-982.0
-52w High/Low (RMB)   
-30.23/17.32
-Total Issued Shares (mn) 
-3,624.4
-Source: Bloomberg 
- 
-Shareholding Structure 
-Li Zhenguo 
-15.0% 
-Li Chunan 
-11.0% 
-Free float 
-50.4% 
-Source: Bloomberg 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-19.9% 
-18.8%
-3-mth 
-24.7% 
-20.5%
-6-mth 
-16.4% 
-10.2%
-12-mth 
-62.5% 
-27.5%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Bloomberg 
- 
-Auditor: PwC 
- 
-0
-5
-10
-15
-20
-25
-30
-35
-1/2019
-5/2019
-9/2019
-601012 CH
- SHSZ300  (rebased)
-HOLD (Down) 
-Target Price 
-RMB32.40 
-(Previous TP 
-RMB32.37) 
-Up/Downside 
-  +11.53% 
-Current Price 
-RMB29.05 
-1 
-31 Jan 2020 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-LONGi released strong earnings preview, stating net profit to surge 95.5-107.2% 
-to RMB5.0bn-RMB 5.3bn in FY19E. The strong earnings growth implied a 4Q19 
-net profit of ~RMB 1.7bn, marking a historical quarter high. In 2020, we see wafer 
-supply to remain tight in 1Q20 but shifting towards oversupply, implying a 
-potential price war in 2H20. We expect wafer ASP to decline by 11.0% YoY, while 
-module ASP to reduce 17.2% in 2020. As we expect competition becomes 
-intense for both wafer and module sales, we turn relative prudent on LONGi’s 
-share performance. We downgrade LONGi to HOLD rating despite raising FY20E 
-EPS by 7.4%.  
- Profit reached historical high in 4Q19. Strong quarter profit implied not only 
-significant shipment growth, but also outstanding profitability. By end-4Q19, 
-we estimate LONGi’s wafer capacity raised to 40.8GW, up 45.7% YoY, and 
-module capacity also increased to 16GW, up 81.8% YoY. According to mgmt., 
-overall GPM for wafer and module would be ~32% and ~25% respectively in 
-FY19. We believe those figures would be significantly higher than peers, 
-indicating LONGi’s superior costs control and operating efficiency. LONGi’s 
-FY19E earnings was stronger than our estimates, mainly due to 9.3%/4.2% 
-higher than our expected wafer and module shipment, respectively.  
- Wafer and module price under pressure. Based on LONGi’s capacity 
-expansion plan, we expect external wafer/module 2020 shipment will increase 
-60.5%/121.5% YoY to 7.49bn pieces and 18.45GW respectively, but ASP to 
-decline 11.0%/17.2% YoY. We think mono-wafer supply will still be tight in 
-1Q20, supporting relatively high selling price, but price will likely to face 
-pressures as more new capacity starts production, which will shift market 
-situation to oversupply in 2H20. We expect price cut will reduce wafer/module 
-GPM to 25.1%/21.1% in 2020. 
- Wafer and module trending to larger size. LONGi launched M6 wafer with 
-dimension of 166mm in 4Q19 in response to TJZ (002129 CH, NR)’s 
-challenge with newly developed M12 (210mm) products. According to mgmt., 
-M6 product accounted for less than 10% output and mainly used for internal 
-module production in 2019. In 2020, the Company expects M6 product will 
-account for ~40% output, of which ~50% will be used for internal module 
-production. At current stage, M6 series product is pricing at RMB 0.4/pcs and 
-RMB 5 cents/watt higher than traditional M2 products, sustaining LONGi’s 
-profitability over peers. We expect the pricing premium will narrow as larger 
-size product to supply.   
- Downgrade to HOLD rating. Based on operating and forecast update, we 
-revise LONGi’s FY19-21E EPS by 19.6%/7.4%/-4.9% respectively to RMB 
-1.50/1.62/1.84. We turn relatively prudent to LONGi’s performance due to 
-intense competition outlook. We lift our TP slightly from RMB32.37 to RMB 
-32.40 based on FY20E 20x PER. 
- 
-Earnings Summary 
-(YE 31 Dec) 
-FY17A 
-FY18A 
-FY19E 
-FY20E 
-FY21E 
-Revenue (RMB mn) 
-16,362 
-21,988 
-32,611 
-52,965 
-61,690 
-YoY growth (%) 
- 41.9  
- 34.4  
- 48.3  
- 62.4  
- 16.5  
-Net income (RMB mn) 
- 3,565  
- 2,558  
- 5,171  
- 6,105  
- 6,927  
-EPS (RMB) 
- 1.29  
- 0.93  
- 1.50  
- 1.62  
- 1.84  
-YoY growth (%) 
- 50.0  
- (27.9) 
- 61.0  
- 8.0  
- 13.5  
-P/E (x) 
- 23.1  
- 32.1  
- 19.9  
- 18.5  
- 16.3  
-P/B (x) 
- 4.2  
- 5.1  
- 4.0  
- 3.4  
- 2.9  
-Yield (%) 
- 0.6  
- 0.3  
- 0.7  
- 0.8  
- 0.9  
-ROE (%) 
- 18.1  
- 15.8  
- 20.2  
- 18.3  
- 17.6  
-Net gearing (%) 
- Net Cash  
- 0.2  
- Net Cash  
- Net Cash  
- Net Cash  
-Source: Company data, CMBIS estimates 
- 
-LONGi – A (601012 CH) 
-Facing pricing pressure in 2020  
-31 Jan 2020 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Figure 1: Wafer production 
- 
-Source: Company data, CMBIS estimates 
-Figure 2: Wafer external shipment and growth 
- 
-Source: Company data, CMBIS estimates 
- 
-Figure 3: Mono wafer ASP 
- 
-Source: Company data, CMBIS estimates 
-Figure 4: Wafer sales gross profit margin 
- 
-Source: Company data, CMBIS estimates 
- 
-Figure 5: Poly-Si material costs for wafer  
- 
-Source: CMBIS estimates 
-Figure 6: Non-poly-si related costs for wafer  
- 
-Source: CMBIS estimates 
- 
- 
- 
- 
-1.76 
-1.75 
-1.45 
-1.08 
-1.09 
-1.08 
-0.0
-0.2
-0.4
-0.6
-0.8
-1.0
-1.2
-1.4
-1.6
-1.8
-2.0
-2016
-2017
-2018
-2019E
-2020E
-2021E
-(RMB/piece wafer)
-1.92 
-1.69 
-1.16 
-0.85 
-0.78 
-0.74 
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-2016
-2017
-2018
-2019E
-2020E
-2021E
-(RMB/piece wafer)
-31 Jan 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Figure 7: Mono-module production 
- 
-Source: Company data, CMBIS estimates 
-Figure 8: mono-module external sales 
- 
-Source: Company data, CMBIS estimates 
- 
-Figure 9: Mono-module ASP, VAT excl. 
- 
-Source: Company data, CMBIS estimates 
-Figure 10: Mono-module gross profit margin  
- 
-Source: Company data, CMBIS estimates 
- 
- 
-Figure 11: Poly-si material costs for module 
- 
-Source: CMBIS estimates 
-Figure 12: Non-poly-si related costs for module  
- 
-Source: CMBIS estimates 
- 
- 
- 
- 
- 
-31 Jan 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
- 
-Figure 13: Earnings revision 
- 
-Source: Company data, CMBIS estimates 
- 
- 
- 
- 
-2019
-2020
-2021
-2019
-2020
-2021
-2019
-2020
-2021
-Revenue (RMB mn)
-29,402
-  
-43,864
-  
-60,285
-  
-32,611
-  
-52,965
-  
-61,690
-  
-10.9%
-20.7%
-2.3%
-Net Income (RMB mn)
-4,326
-    
-5,683
-    
-7,286
-    
-5,171
-    
-6,105
-    
-6,927
-    
-19.6%
-7.4%
--4.9%
-EPS (RMB)
-1.25
-      
-1.51
-      
-1.93
-      
-1.50
-      
-1.62
-      
-1.84
-      
-19.6%
-7.4%
--4.9%
-Old
-New 
-Change(%)
-31 Jan 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-5 
-Financial Summary 
-Income statement 
- 
- 
- 
- 
-  Cash flow summary 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY17A FY18A 
-FY19E 
-FY20E 
-FY21E  YE 31 Dec (RMB mn) 
-FY17A FY18A FY19E FY20E FY21E 
-Revenue 
-16,362 
-21,988 
-32,611 
-52,965 
-61,690  Net income 
-3,565 
-2,558 
-5,171 
-6,105 
-6,927 
-Mono-module 
-9,175 
-13,091 
-16,493 
-30,254 
-38,288  DD&A 
-802 
-1,129 
-1,523 
-1,921 
-2,085 
-Wafer 
-5,753 
-6,116 
-13,111 
-18,727 
-19,000  Working capital change 
-1,680 (1,558) 
-(724) (1,624) (2,002) 
-Others  
-1,434 
-2,781 
-3,007 
-3,984 
-4,402  Tax adjustments 
-(83) 
-85 
-75 
-189 
-23 
-  
- 
- 
- 
- 
-  Others 
-(4,635) (1,040) (1,232) (2,421) (1,958) 
-COGS 
-(5,280) (4,892) (8,941) (11,945) (13,813)  Net cash from operation 
-1,328 
-1,173 
-4,814 
-4,171 
-5,075 
-Gross profit  
-5,280 
-4,892 
-8,941 
-11,945 
-13,813    
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
-  Capex & investments 
-(7,447) (3,652) (7,088) (6,002) (2,657) 
-Operating expenses 
-1,688 
-2,687 
-3,343 
-5,332 
-6,165  Others 
-3,673 
-483 
-10 
-- 
-- 
-Taxes & Surcharges 
-152 
-117 
-262 
-400 
-430  Net cash from investment 
-(3,774) (3,169) (7,078) (6,002) (2,657) 
-Selling expenses 
-664 
-1,017 
-1,385 
-2,284 
-2,712    
- 
- 
- 
- 
- 
-Admin expenses  
-500 
-623 
-913 
-1,483 
-1,727  Equity raised 
-685 
-- 
-6,645 
-- 
-- 
-R&D expenses 
-164 
-202 
-326 
-530 
-617  Change of  debts 
-3,937 
-769 
-2,049 
-2,049 
-1,049 
-Impairment loss 
-207 
-728 
-457 
-636 
-679  Dividend paid 
-(200) 
-(359) 
-(362) 
-(776) 
-(916) 
-Operating profit  
-87 
-61 
-2,205 
-5,598 
-6,613  Others 
-249 
-(143) 
-149 
-157 
-170 
-  
- 
- 
- 
- 
-  Net cash from financing 
-4,672 
-267 
-8,480 
-1,430 
-303 
-Other income  
-27 
-142 
-147 
-238 
-185    
- 
- 
- 
- 
- 
-Investment income 
-582 
-794 
-570 
-570 
-570  Net change in cash 
-2,227 (1,728) 
-6,216 
-(402) 
-2,721 
-Asset disposal gain/(loss) 
-(8) 
-(4) 
-- 
-- 
--  Cash at the beginning  
-5,185 
-7,356 
-5,665 11,881 11,480 
-Finance expenses, net  
-- 
-- 
-(352) 
-(398) 
-(437)  Exchange difference 
-(56) 
-38 
-- 
-- 
-- 
-Others 
-- 
-- 
-- 
-- 
--  Cash at the end of the year 
-7,356 
-5,665 11,881 11,480 14,201 
-Non-Operating Income, net 
-22 
-(2) 
-15 
-12 
-8  Less: pledged cash 
-1,190 
-2,043 
-2,935 
-4,767 
-5,552 
-  
- 
- 
- 
- 
-  Cash at the balance sheet 
-8,546 
-7,708 14,816 16,247 19,753 
-Profit Before Tax 
-4,018 
-2,867 
-5,978 
-7,036 
-7,974   
- 
- 
- 
- 
- 
-Income tax  
-(468) 
-(301) 
-(658) 
-(774) 
-(877)   
- 
- 
- 
- 
- 
-Less: Minority Interest 
-15 
-(9) 
-(149) 
-(157) 
-(170)   
- 
- 
- 
- 
- 
-Net profit  
-3,565 
-2,558 
-5,171 
-6,105 
-6,927   
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY17A FY18A 
-FY19E 
-FY20E 
-FY21E  YE 31 Dec  
-FY17A FY18A FY19E FY20E FY21E 
-Non-current Assets 
-13,956 
-16,758 
-22,377 
-26,535 
-27,197  Sales mix (%) 
-  
-  
-  
-  
-  
-Fixed Assets  
-10,804 
-13,260 
-17,991 
-22,354 
-22,582  
-Mono-module 
-56.1% 
-59.5% 
-50.6% 
-57.1% 
-62.1% 
-Construction in Progress 
-1,355 
-856 
-1,311 
-671 
-671  
-Mono-wafer 
-35.2% 
-27.8% 
-40.2% 
-35.4% 
-30.8% 
-LT Deferred Expenses  
-643 
-959 
-1,243 
-1,498 
-1,728  
-Others 
-8.8% 
-12.6% 
-9.2% 
-7.5% 
-7.1% 
-Others 
-1,154 
-1,683 
-1,832 
-2,011 
-2,217  Total 
-100.0% 100.0% 100.0% 100.0% 100.0% 
-  
- 
- 
- 
- 
-    
- 
- 
- 
- 
- 
-Current Assets 
-18,927 
-22,901 
-36,713 
-51,963 
-61,420  P&L ratios (%) 
- 
- 
- 
- 
- 
-Cash & Equivalents 
-8,546 
-7,708 
-14,816 
-16,247 
-19,753  
-Gross profit margin 
-32.3% 
-22.2% 
-27.4% 
-22.6% 
-22.4% 
-Account Receivables  
-6,131 
-8,453 
-12,229 
-20,024 
-23,391  
-Operating margin 
-22.0% 
-10.0% 
-17.2% 
-12.5% 
-12.4% 
-Inventories  
-2,380 
-4,283 
-5,870 
-9,534 
-11,104  
-Net margin 
-21.8% 
-11.6% 
-15.9% 
-11.5% 
-11.2% 
-Others 
-1,870 
-2,457 
-3,798 
-6,159 
-7,171  
-Effective tax rate 
-11.7% 
-10.5% 
-11.0% 
-11.0% 
-11.0% 
-  
- 
- 
- 
- 
-    
- 
- 
- 
- 
- 
-Current Liabilities 
-12,340 
-14,878 
-20,457 
-30,764 
-33,945  Balance sheet ratios 
- 
- 
- 
- 
- 
-Account Payables 
-7,350 
-8,507 
-11,414 
-17,478 
-19,124  
-Current ratio (x) 
-1.53 
-1.54 
-1.79 
-1.69 
-1.81 
-Advanced Payment 
-772 
-962 
-2,098 
-2,996 
-3,040  
-Inventory turnover days 
-59.2 
-71.1 
-78.3 
-68.5 
-78.7 
-Short-term Borrowings 
-1,612 
-688 
-979 
-1,184 
-1,289  
-Creditor's turnover days 
-116.3 
-131.6 
-111.5 
-99.6 
-108.3 
-Current Portion of LT Debt 
-560 
-1,137 
-1,469 
-1,776 
-1,934  
-Debtors turnover days 
-111.1 
-121.1 
-115.7 
-111.1 
-128.4 
-Others 
-2,046 
-3,585 
-4,497 
-7,329 
-8,558  
-Liabilities/Assets (%) 
-56.7 
-57.6 
-51.3 
-55.7 
-54.6 
-  
- 
- 
- 
- 
-  
-Net debt / equity ratio (%) 
-Net Cash 
-0.22 Net Cash Net Cash Net Cash 
- Non-Current Liabilities  
-6,299 
-7,956 
-9,872 
-12,955 
-14,405    
- 
- 
- 
- 
- 
- Long-term Payables  
-645 
-1,306 
-1,631 
-2,648 
-3,085  Returns (%) 
- 
- 
- 
- 
- 
- Long-term Borrowings  
-1,656 
-2,659 
-4,045 
-5,582 
-6,368  
-ROE 
-25.11 
-15.55 
-18.50 
-18.34 
-17.63 
- Bond Payables  
-3,148 
-3,262 
-3,300 
-3,300 
-3,300  
-ROA 
-10.84 
-6.45 
-8.75 
-7.78 
-7.82 
- Others  
-850 
-729 
-896 
-1,425 
-1,652    
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
-  Per share 
- 
- 
- 
- 
- 
-Total net assets 
-14,244 
-16,825 
-28,762 
-34,779 
-40,268  
-EPS (RMB) 
-1.29 
-0.93 
-1.50 
-1.62 
-1.84 
-Minority Interests 
-49 
-373 
-522 
-679 
-849  
-DPS (RMB) 
-0.18 
-0.10 
-0.21 
-0.24 
-0.28 
-Shareholder's equity  
-14,195 
-16,452 
-27,951 
-33,280 
-39,292  
-BVPS (RMB) 
-7.12 
-5.89 
-7.41 
-8.82 
-10.41 
-Source: Company data, CMBIS estimates 
- 
-31 Jan 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-6 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  
-CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, 
-financial position or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from 
-that which is contained in the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a 
-result of their dependence on the performance of underlying assets or other variable market factors.  CMBIS recommends that investors should 
-independently evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to 
-make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of 
-CMBIS or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security 
-or any interest in securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers 
-or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information 
-contained in this report.  Anyone making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available 
-and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. 
-CMBIS provides the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. 
-CMBIS may issue other publications having information and/ or conclusions different from this report.  These publications reflect different assumption, 
-point-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent 
-with the recommendations or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself 
-and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business 
-relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect 
-the objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only 
-and this publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written 
-consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) 
-Order 2005 (as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, 
-Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities 
-Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy 
-of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.  
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser 
-as defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute 
-reports produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of 
-the Financial Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or 
-an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents 
-of the report to such persons only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising 
-from, or in connection with the report. 
+CMB International Securities | Equity Research | Company Update
+行 全 资 附
+les.
+A Wholly Owned Subsidiary Of China Merchants Bank
+LONGi – A (601012 CH)
+HOLD (Down)
+Target Price
+RMB32.40
+(Previous TP
+RMB32.37)
+Up/Downside
++11.53%
+LONGi released strong earnings preview, stating net profit to surge 95.5-107.2%
+Current Price
+RMB29.05
+net profit of ~RMB 1.7bn, marking a historical quarter high. In 2020, we see wafer
+supply to remain tight in 1Q20 but shifting towards oversupply, implying a
+China Solar Sector
+potential price war in 2H20. We expect wafer ASP to decline by 11.0% YoY, while
+module ASP to reduce 17.2% in 2020. As we expect competition becomes
+Robin Xiao
+intense for both wafer and module sales, we turn relative prudent on LONGi's
+share performance. We downgrade LONG to HOLD rating despite raising FY20E
+EPS by 7.4%.
+Profit reached historical high in 4Q19. Strong quarter profit implied not only
+significant shipment growth, but also outstanding profitability. By end-4Q19,
+we estimate L'ONGi's wafer capacity raised to 40.8GW, up 45.7% YoY, and
+overall GPM for wafer and module would be ~32% and ~25% respectively in
+FY19. We believe those figures would be significantly higher than peers,
+indicating LONGi's superior costs control and operating efficiency. LONGi's
+FY19E earnings was stronger than our estimates, mainly due to 9.3%/4.2%
+higher than our expected wafer and module shipment, respectively.
+■ Wafer and module price under pressure. Based on LONGi's capacity
+expansion plan, we expect external wafer/module 2020 shipment will increase
+60.5%/121.5% YoY to 7.49bn pieces and 18.45GW respectively, but ASP to
+decline 11.0%/17.2% YoY. We think mono-wafer supply will still be tight in
+Share Performance
+1Q20, supporting relatively high selling price, but price will likely to face
+pressures as more new capacity starts production, which will shift market
+situation to oversupply in 2H20. We expect price cut will reduce wafer/module
+GPM to 25.1%/21.1% in 2020.
+Wafer and module trending to larger size. LONGi launched M6 wafer with
+dimension of 166mm in 4Q19 in response to TJZ (002129 CH, NR)'s
+Source: Bloomberg
+challenge with newly developed M12 (210mm) products. According to mgmt.,
+M6 product accounted for less than 10% output and mainly used for internal
+12-mth Price Performance
+module production in 2019. In 2020, the Company expects M6 product will
+account for ~40% output, of which ~50% will be used for internal module
+production. At current stage, M6 series product is pricing at RMB 0.4/pcs and
+RMB 5 cents/watt higher than traditional M2 products, sustaining LONGi's
+profitability over peers. We expect the pricing premium will narrow as larger
+size product to supply.
+Downgrade to HOLD rating. Based on operating and forecast update, we
+revise LONGi's FY19-21E EPS by 19.6%/7.4%/-4.9% respectively to RMB
+1.50/1.62/1.84. We turn relatively prudent to LONGi's performance due to
+intense competition outlook. We lift our TP slightly from RMB32.37 to RMB
+32.40 based on FY20E 20x PER.
+Source: Bloomberg
+Auditor: PwC
+Earnings Summary
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: CMBIS estimates
+Source: CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: CMBIS estimates
+Source: CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives.
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from
+that which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a
+result of their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should
+independently evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to
+make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of
+CMBIS or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security
+or any interest in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers
+or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information
+contained in this report. Anyone making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available
+and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness.
+CMBIS provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice.
+CMBIS may issue other publications having information and/or conclusions different from this report. These publications reflect different assumption,
+point-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent
+with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself
+and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business
+relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect
+the objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only
+and this publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written
+consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion)
+Order 2005 (as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies,
+Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities
+Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy
+of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser
+as defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute
+reports produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of
+the Financial Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or
+an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents
+of the report to such persons only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising
+from, or in connection with the report.

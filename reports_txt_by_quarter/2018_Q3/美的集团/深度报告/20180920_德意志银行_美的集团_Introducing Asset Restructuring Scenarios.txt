@@ -1,63 +1,53 @@
-Midea
+Deutsche Bank
+Research
 Rating
+Company
 Hold
-Valuation & Risks
-Consumer
-Retail / Wholesale Trade
-Price at 7 Sep 2018 (CNY)
-40.30
-Price target - 12mth (CNY)
-43.00
-52-week range (CNY)
-62.12 - 40.30
-Shenzhen Index
-1,444
+Midea
 Company Update
 Asia
 China
-Company
-Midea
 Reuters
 Bloomberg
 Exchange
 Ticker
+Consumer
 000333.SZ
 000333 CH
 SHZ
-000333
-Date
-18 September 2018
-Deutsche Bank
-Research
+Retail / Wholesale Trade
 Introducing Asset Restructuring
 Scenarios
+Valuation & Risks
+John Chou
 Event: News reports discuss potential outcomes of Midea-LS restructuring
+Research Analyst
 An article from Xinhua News yesterday discussed a potential Midea-Little Swan
 (LS) restructuring, which could include an asset injection and privatization. This
 comes amid increasing concerns of a prolonged halt to the share trading. Against
+Anne Ling
 this backdrop, we provide the following analysis and views: (1) We present four
+Research Analyst
 scenarios for potential corporate action by Midea; (2) Yet, we continue to believe
-it would be diﬃcult for any corporate action by Midea to drive synergy with LS,
-given we view brand equity as the most signiﬁcant challenge. (3) We highlight
+it would be difficult for any corporate action by Midea to drive synergy with LS,
+given we view brand equity as the most significant challenge. (3) We highlight
+Price/price relative
 the key variable factors in this analysis, including: LS' B shares, government
 holdings in LS, and growing investor concerns preventing Midea from prolonging
 the suspension of trading.
 Little Swan: (A-share: 000418.SZ, NR, RMB46.5) (B-share: 200418.SZ, NR,
 HKD36.17)
 Background
-■
 Midea is likely in full control of LS: Based on public disclosures, Midea
 holds a 53% stake in LS (38% direct and 15% indirect), while Midea's
 CEO, Paul Fang, is the chairperson of LS. After Midea's operations-center
 reforms, we believe Midea has integrated its sales companies with LS'.
-■
 Frequent related-party transactions: Midea and LS record frequent
 related-party transactions. We believe LS accounts for the majority of
 Midea's washing-machine business (except for Toshiba washing-machine
 assets; we derive this conclusion from reviewing public related-party
 transaction disclosures). Also, LS holds the brand rights to Midea's
 premium brand ("Beverly").
-■
 Trading halt and asset restructuring: Midea announced a trading halt
 and potential asset restructuring with LS on 2018 September 9 (HKT),
 the company originally planned to resume trading before September
@@ -65,100 +55,45 @@ the company originally planned to resume trading before September
 However, Midea issued another announcement (dated 2018 September
 12) indicating that it was prolonging the trading halt, and stating that it
 would host a board meeting before September 28.
-John Chou
-Research Analyst
-+852-2203 6196
-Anne Ling
-Research Analyst
-+852-2203 6177
-Price/price relative
-Midea
-Shenzhen Index (Rebased)
-Jan '17
-Jul '17
-Jan '18
-Jul '18
-0
-25
-50
-75
-Performance (%)
-1m
-3m 12m
-Absolute
--2.0 -28.4
--4.1
-Shenzhen Index
--4.3 -18.4 -30.6
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-26.1
-Net debt/equity (%)
--19.4
-Book value/share (CNY)
-13.03
-Price/book (x)
-3.1
-Net interest cover (x)
-–
-Operating proﬁt margin (%)
-7.4
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+Deutsche Bank does and seeks to do business with companies covered in its res Distributed on: 18/09/2018 07:33:07 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
 ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. The content may not be distributed in The People's Republic of China
-(“The PRC”) (except in compliance with the applicable laws and regulations of PRC), excluding Special Administrative
+("The PRC") (except in compliance with the applicable laws and regulations of PRC), excluding Special Administrative
 Regions of Hong Kong and Macau.
-?
-Distributed on: 18/09/2018 07:33:07 GMT
-7T2se3r0Ot6kwoPa
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
 Based on the aforementioned news and our conversations with investors, we
 present below four scenarios, as well as the potential impact on our Midea
 investment case:
 Scenario 1: Midea injects washing-machine assets into LS
-■
 Insignificant change to Midea's earnings, in our view: We estimate the
 Toshiba washing-machine business accounts for less than 3% of Midea's
 revenue, so this would have an minor impact.
 Scenario 2: Midea increases holding in LS
-■
 Boost Midea's earnings (see Scenario 3 for calculations).
-■
-Unlikely to drive synergy, in our view: As Midea eﬀectively controls LS'
+Unlikely to drive synergy, in our view: As Midea effectively controls LS'
 branding, products, manufacturing and channel, we see limited accretion
 to synergy should Midea increase its holding in LS. We continue to
 believe the major risk faced by Midea's washing-machine business is not
-its eﬃciency, but weaker brand equity. The weakness is highlighted as
+its efficiency, but weaker brand equity. The weakness is highlighted as
 competitors (including the Casarte brand) branch into tier-3 cities with
-increasingly competitive pricing .
+increasingly competitive pricing.
 Scenario 3: Midea privatizes LS
-■
 Boost Midea's earnings: Assuming Midea privatizes LS, this could
 increase Midea's earnings by 3-5% (Figure 1).
-■
 Unlikely to drive synergy, in our view (see above)
-■
 Clean up the related-party transactions: This could help improve
 corporate governance.
 Scenario 4: Midea privatizes LS and distributes LS' net cash as a special
 dividend to Midea shareholders
-■
 Boost Midea's earnings (see above)
-■
 Unlikely to drive synergy, in our view (see above)
-■
 Special dividend may add value to Midea's shareholders: Assuming
 Midea privatizes LS and distributes all of LS' net cash to Midea
 shareholders, this could lead to a special dividend of RMB2.1 per share
 (or a 5% dividend yield, Figure 2)
-■
 It also may help reduce Midea's share pledges: We note that 10.1%
 of Midea's outstanding shares are being pledged by Midea Holdings
 (Midea's biggest shareholder, according to an announcement on June
@@ -166,61 +101,31 @@ of Midea's outstanding shares are being pledged by Midea Holdings
 concerns. If Midea Holdings uses the potential special dividend to
 reduce its pledges, this could especially ease long-term value investors'
 concerns. We note that some investors view heavy pledging as a
-corporate governance red ﬂag.
+corporate governance red flag.
 Risks and variables to our four scenarios:
-■
 LS' B shares may increase the complexity of a potential privatization:
 The B shares are denominated in HKD (although trading in Shenzhen).
-We believe the currency translation and shareholder proﬁle of the B share
+We believe the currency translation and shareholder profile of the B share
 increases the complexity of a potential deal.
-Page 2
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
-■
 Government holding in LS: Based on LS' annual report, the Wuxi
 government holds a 2.7% stake in the company. This may increase the
 complexity for any potential corporate action by Midea on LS.
-■
 Investors and MSCI's attention to significant trading halt may
 accelerate Midea's asset restructuring: Midea has released no timeline
 on this potential restructuring. However, we believe Midea would need
 to keep the halt to trading as short as possible. This is due to growing
-concerns over a signiﬁcant trading suspension among investors, as well
+concerns over a significant trading suspension among investors, as well
 as the MSCI.
-Figure 1: Simulation: Midea's 2018E earnings to
-increase 4% if it increased holding in LS to 100%
-Figure 2: Simulation: assume LS sells its wealth-
-management products and distributes the net cash to
-Midea's shareholders
 Source: Deutsche Bank estimates, Bloomberg Finance LP consensus (for LS 2018E earnings)
-Source: Deutsche Bank estimates, company ﬁnancial reports
-Deutsche Bank AG/Hong Kong
-Page 3
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
+Source: Deutsche Bank estimates, company financial reports
 Retail / Wholesale Trade
 Midea
-Model updated: 02 September 2018
-Running the numbers
-Asia
-China
-Retail / Wholesale Trade
 Midea
-Reuters: 000333.SZ
-Bloomberg: 000333 CH
+Reuters: 000333.SZ
+Bloomberg: 000333 CH
 Hold
-Price (7 Sep 18)
-CNY 40.30
-Target Price
-CNY 43.00
-52 Week range
-CNY 40.30 - 62.12
-Market cap (m)
-CNYm 265,130
- USDm 38,599
 Company Profile
 Midea is engaged mainly in the manufacture and sale of
 household electronics. The company's products include
@@ -229,646 +134,43 @@ refrigerators, washing machines and small home appliances.
 Price Performance
 Midea
 Shenzhen Index (Rebased)
-Jan '17
-Jan '18
-Jul '17
-Jul '18
-20
-40
-60
-0
-80
 Margin Trends
-EBITDA Margin
-EBIT Margin
-15
-16
-17
-18E
-19E
-20E
-6
-8
-10
-12
 Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-15
-16
-17
-18E
-19E
-20E
-0
-20
-40
-60
--20
-80
-24
-25
-26
-27
-28
-29
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-15
-16
-17
-18E
-19E
-20E
--40
--30
--20
--10
-0
-0
-100
-25
-50
-75
 John Chou
-+852 2203 6196
-john.chou@db.com
-Fiscal year end 31-Dec
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Financial Summary
-DB EPS (CNY)
-1.83
-2.30
-2.50
-3.17
-3.47
-4.01
-Reported EPS (CNY)
-2.00
-2.29
-2.66
-3.17
-3.50
-4.04
-DPS (CNY)
-1.20
-1.00
-1.20
-1.42
-1.58
-1.82
-BVPS (CNY)
-7.7
-9.5
-11.4
-13.0
-14.9
-17.2
-Weighted average shares (m)
-6,366
-6,423
-6,492
-6,570
-6,579
-6,579
-Average market cap (CNYm)
-200,484
-174,793
-262,981
-265,130
-265,130
-265,130
-Enterprise value (CNYm)
-196,415
-158,286
-256,615
-252,455
-243,714
-224,610
-Valuation Metrics
-P/E (DB) (x)
-17.2
-11.8
-16.2
-12.7
-11.6
-10.0
-P/E (Reported) (x)
-15.8
-11.9
-15.2
-12.7
-11.5
-10.0
-P/BV (x)
-4.25
-2.96
-4.88
-3.09
-2.70
-2.35
-FCF Yield (%)
-12.1
-14.1
-8.6
-4.8
-6.0
-10.5
-Dividend Yield (%)
-3.8
-3.7
-3.0
-3.5
-3.9
-4.5
-EV/Sales (x)
-1.4
-1.0
-1.1
-0.9
-0.8
-0.7
-EV/EBITDA (x)
-12.7
-8.5
-10.7
-10.6
-9.4
-7.6
-EV/EBIT (x)
-15.6
-10.5
-14.8
-12.7
-10.8
-8.6
-Income Statement (CNYm)
-Sales revenue
-138,441
-159,044
-240,712
-268,369
-289,799
-317,683
-Gross profit
-35,778
-43,429
-60,252
-71,447
-77,262
-85,472
-EBITDA
-15,478
-18,630
-24,012
-23,804
-25,877
-29,481
-Depreciation
-2,852
-3,578
-6,696
-3,884
-3,387
-3,415
-Amortisation
-0
-0
-0
-0
-0
-0
-EBIT
-12,626
-15,052
-17,316
-19,920
-22,490
-26,065
-Net interest income(expense)
--139
-1,006
--816
-1,061
-211
-324
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
-3,565
-2,856
-5,354
-5,272
-6,403
-7,109
-Profit before tax
-16,051
-18,915
-21,855
-26,252
-29,104
-33,498
-Income tax expense
-2,427
-3,053
-3,244
-3,990
-4,424
-5,092
-Minorities
-918
-1,178
-1,328
-1,460
-1,635
-1,799
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-12,707
-14,684
-17,284
-20,802
-23,045
-26,608
-DB adjustments (including dilution)
--1,028
-96
--1,073
-38
--217
--217
-DB Net profit
-11,679
-14,781
-16,211
-20,839
-22,828
-26,391
-Cash Flow (CNYm)
-Cash flow from operations
-26,764
-26,695
-24,443
-16,256
-19,574
-31,649
-Net Capex
--2,583
--2,132
--1,777
--3,526
--3,557
--3,789
-Free cash flow
-24,181
-24,563
-22,665
-12,731
-16,017
-27,861
-Equity raised/(bought back)
-1,702
-815
-1,668
--131
-0
-0
-Dividends paid
--4,908
--6,046
--7,908
--9,361
--10,370
--11,973
-Net inc/(dec) in borrowings
--4,837
-7,460
-26,096
--370
--2,900
--2,900
-Other investing/financing cash flows
--16,223
--19,465
--33,203
-2,700
-3,000
-3,200
-Net cash flow
--85
-7,326
-9,318
-5,568
-5,746
-16,187
-Change in working capital
-14,347
-8,248
--7,499
--6,762
--4,166
-4,860
-Balance Sheet (CNYm)
-Cash and other liquid assets
-11,862
-27,169
-48,274
-53,843
-59,589
-75,776
-Tangible fixed assets
-22,122
-27,925
-37,768
-37,784
-38,797
-40,482
-Goodwill/intangible assets
-2,393
-5,731
-28,904
-28,904
-28,904
-28,904
-Associates/investments
-3,047
-2,625
-2,987
-4,681
-6,410
-8,226
-Other assets
-89,418
-107,151
-130,174
-143,281
-153,557
-154,697
-Total assets
-128,842
-170,601
-248,107
-268,492
-287,257
-308,085
-Interest bearing debt
-4,011
-5,437
-35,707
-35,200
-32,300
-29,400
-Other liabilities
-68,799
-96,187
-129,475
-137,016
-144,371
-151,666
-Total liabilities
-72,810
-101,624
-165,182
-172,216
-176,671
-181,066
-Shareholders' equity
-49,202
-61,127
-73,737
-85,628
-98,302
-112,936
-Minorities
-6,830
-7,850
-9,188
-10,648
-12,283
-14,082
-Total shareholders' equity
-56,032
-68,977
-82,925
-96,276
-110,586
-127,019
-Net debt
--7,851
--21,732
--12,567
--18,643
--27,289
--46,376
-Key Company Metrics
-Sales growth (%)
--2.3
-14.9
-51.3
-11.5
-8.0
-9.6
-DB EPS growth (%)
--29.0
-25.4
-8.5
-27.0
-9.4
-15.6
-EBITDA Margin (%)
-11.2
-11.7
-10.0
-8.9
-8.9
-9.3
-EBIT Margin (%)
-9.1
-9.5
-7.2
-7.4
-7.8
-8.2
-Payout ratio (%)
-60.1
-43.7
-45.1
-45.0
-45.0
-45.0
-ROE (%)
-28.7
-26.6
-25.6
-26.1
-25.1
-25.2
-Capex/sales (%)
-2.3
-1.5
-1.3
-1.5
-1.4
-1.4
-Capex/depreciation (x)
-1.1
-0.6
-0.5
-1.0
-1.2
-1.3
-Net debt/equity (%)
--14.0
--31.5
--15.2
--19.4
--24.7
--36.5
-Net interest cover (x)
-90.9
-nm
-21.2
-nm
-nm
-nm
-Source: Company data, Deutsche Bank estimates
-Page 4
-Deutsche Bank AG/Hong Kong
 Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Midea
-000333.SZ
-40.30 (CNY) 17 Sep 2018
-1, 7, 14, 15
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors .
-Other information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than
-the primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at https://research.db.com/
-Research/Disclosures/CompanySearch. Aside from within this report, important risk and conﬂict disclosures can also be found at https://research.db.com/Research/Topics/Equities?
-topicId=RB0002. Investors are strongly encouraged to review this information before investing.
 Important Disclosures Required by U.S. Regulators
-Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.See
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States. See
 Important Disclosures Required by Non-US Regulators and Explanatory Notes.
-1.
-Within the past year, Deutsche Bank and/or its aﬃliate(s) has managed or co-managed a public or private
-oﬀering for this company, for which it received fees.
-7.
-Deutsche Bank and/or its aﬃliate(s) has received compensation from this company for the provision of
-investment banking or ﬁnancial advisory services within the past year.
-14.
-Deutsche Bank and/or its aﬃliate(s) has received non-investment banking related compensation from this
+Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private
+offering for this company, for which it received fees.
+Deutsche Bank and/or its affiliate(s) has received compensation from this company for the provision of
+investment banking or financial advisory services within the past year.
+Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this
 company within the past year.
-15.
 This company has been a client of Deutsche Bank Securities Inc. within the past year, during which time it
 received non-investment banking securities-related services.
 Important Disclosures Required by Non-U.S. Regulators
-Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.See
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States. See
 Important Disclosures Required by Non-US Regulators and Explanatory Notes.
-1.
-Within the past year, Deutsche Bank and/or its aﬃliate(s) has managed or co-managed a public or private
-oﬀering for this company, for which it received fees.
-7.
-Deutsche Bank and/or its aﬃliate(s) has received compensation from this company for the provision of
-investment banking or ﬁnancial advisory services within the past year.
+Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private
+offering for this company, for which it received fees.
+Deutsche Bank and/or its affiliate(s) has received compensation from this company for the provision of
+investment banking or financial advisory services within the past year.
 For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
 research, please see the most recently published company report or visit our global disclosure look-up page on our website
-at https://research.db.com/Research/Disclosures/CompanySearch
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. John Chou
-Deutsche Bank AG/Hong Kong
-Page 5
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
-Retail / Wholesale Trade
-Midea
+compensation for providing a specific recommendation or view in this report. John Chou
 Historical recommendations and target price. Midea (000333.SZ)
-(as of 09/17/2018)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-1
-2
-3
-4
-5 6
-Jan '17
-May '17
-Sep '17
-Jan '18
-May '18
-Sep '18
-0.00
-20.00
-40.00
-60.00
-80.00
-1.
-01/24/2017
-Buy, Target Price Change CNY 35.50 Richard Rui-
-Huang**
-4.
-07/09/2018
-Downgraded to Hold, Target Price Change CNY 52.00
-John Chou
-2.
-06/12/2017
-Buy, Target Price Change CNY 44.57 Anne Ling
-5.
-08/06/2018
-Hold, Target Price Change CNY 48.00 John Chou
-3.
-11/13/2017
-Buy, Target Price Change CNY 63.00 John Chou
-6.
-08/17/2018
-Hold, Target Price Change CNY 43.00 John Chou
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -877,309 +179,247 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Page 6
-Deutsche Bank AG/Hong Kong
 Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of those websites.
-??
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
-??
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies, perspectives
-or otherwise. Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes
-on. Analysts are paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives
+or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes
+on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
 banking, trading and principal trading revenues.
-??
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Some trade
-ideas for equities are listed as Catalyst Calls on the Research Website ( https://research.db.com/Research/ ) , and can be
-found on the general coverage list and also on the covered company ’ s page. A Catalyst Call represents a high-conviction
-belief by an analyst that a stock will outperform or underperform the market and/or a speciﬁed sector over a time frame of
+found on the general coverage list and also on the covered company ’s page. A Catalyst Call represents a high-conviction
+belief by an analyst that a stock will outperform or underperform the market and/or a specified sector over a time frame of
 no less than two weeks and no more than three months. In addition to Catalyst Calls, analysts may occasionally discuss
 with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or
 events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the frequency of changes in
-market conditions and in both general and company-speciﬁc economic prospects make it diﬃcult to update research at
-deﬁned intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
+market conditions and in both general and company-specific economic prospects make it difficult to update research at
+defined intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
 and the majority of reports are published at irregular intervals. This report is provided for informational purposes only and
-does not take into account the particular investment objectives, ﬁnancial situations, or needs of individual clients. It is not
-an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments or to participate in any particular trading strategy.
-Target prices are inherently imprecise and a product of the analyst ’ s judgment. The ﬁnancial instruments discussed
+does not take into account the particular investment objectives, financial situations, or needs of individual clients. It is not
+an offer or a solicitation of an offer to buy or sell any financial instruments or to participate in any particular trading strategy.
+Target prices are inherently imprecise and a product of the analyst ’s judgment. The financial instruments discussed
 in this report may not be suitable for all investors, and investors must make their own informed investment decisions.
-Prices and availability of ﬁnancial instruments are subject to change without notice, and investment transactions can lead
-to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial instrument is denominated in a currency other
-than an investor's currency, a change in exchange rates may adversely aﬀect the investment. Past performance is not
+Prices and availability of financial instruments are subject to change without notice, and investment transactions can lead
+to losses as a result of price fluctuations and other factors. If a financial instrument is denominated in a currency other
+than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not
 necessarily indicative of future results. Performance calculations exclude transaction costs, unless otherwise indicated.
 Unless otherwise indicated, prices are current as of the end of the previous trading session and are sourced from local
 exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from Deutsche Bank, subject companies, and
 other parties.
-??
 The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
-organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect to
-our research are available on our website ( https://research.db.com/Research/ ) under Disclaimer.
-??
-Deutsche Bank AG/Hong Kong
-Page 7
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
 Retail / Wholesale Trade
 Midea
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed-rate instruments (thus receiving these cash
-ﬂows), increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus
-cause a loss. The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the
-higher will be the loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus
+cause a loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the
+higher will be the loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the
 most common adverse macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client
-segmentation, regulation (including changes in assets holding limits for diﬀerent types of investors), changes in tax
-policies, currency convertibility (which may constrain currency conversion, repatriation of proﬁts and/or liquidation of
-positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of ﬁxed-
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to
-FX depreciation, or to speciﬁed interest rates – these are common in emerging markets. The index ﬁxings may – by
+segmentation, regulation (including changes in assets holding limits for different types of investors), changes in tax
+policies, currency convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of
+positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by
 construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
-the proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed
-to a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. Funding in a currency that diﬀers
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed
+to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency that differs
 from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks typical to
 options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
 appropriateness of these products for use by investors depends on the investors' own circumstances, including their
 tax position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should
-take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the contents of this
+take expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
 publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
 high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
 amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not
 suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp . If you are unable to
 access the website, please contact your Deutsche Bank representative for a copy of this important document.
-??
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
-exchange rates can be volatile and are subject to large ﬂuctuations; (ii) the value of currencies may be aﬀected by numerous
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous
 market factors, including world and national economic, political and regulatory events, events in equity and debt markets
 and changes in interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls,
-which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are aﬀected by the
-currency of an underlying security, eﬀectively assume currency risk.
-?
+which could affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the
+currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in
-the investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at
-https://research.db.com/Research/ on each company ’ s research page. Investors are strongly encouraged to review this
+the investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you or any of your agents (collectively, “You” or “Your”) with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you or any of your agents (collectively, "You" or "Your") with respect to any information
 provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, Deutsche Bank is not
 acting as your impartial adviser, and does not express any opinion or recommendation whatsoever as to any strategies,
 products or any other information presented in the materials. Information contained herein is being provided solely on the
 basis that the recipient will make an independent assessment of the merits of any investment decision, and it does not
 constitute a recommendation of, or express an opinion on, any product or service or any trading strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Page 8
-Deutsche Bank AG/Hong Kong
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
 In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to
-Catalyst Calls (“CC”) from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
-been made consistent with the categories used by Analysts globally; and the eﬀective time period for CCs has been
+Catalyst Calls ("CC") from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
+been made consistent with the categories used by Analysts globally; and the effective time period for CCs has been
 reduced from a maximum of 180 days to 90 days.
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
-??
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
 Financial Supervisory Authority.
-??
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571
 shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional Information"
 section shall apply to the fullest extent permissible by local laws and regulations, including without limitation the Code of
 Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
-??
 India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
-oﬃce at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 7180
 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
 nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
 Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
 no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
 administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL
-is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its aﬃliate(s)
+is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s)
 may have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
-“Shareholdings” section in the Annual Report at: https://www.db.com/ir/en/annual-reports.htm .
-??
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period..
-??
-Deutsche Bank AG/Hong Kong
-Page 9
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
 Korea: Distributed by Deutsche Securities Korea Co.
-??
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
 Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
-Branch (One Raﬄes Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
 of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as deﬁned in the
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the
 applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
-??
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within
 the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available only to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
-??
 Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
 appraisal or evaluation activity requiring a license in the Russian Federation.
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the ﬁnancial services activities that fall
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
 within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are available only to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the
-Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-speciﬁc
-research disclosures and related information at https://australia.db.com/australia/content/research-information.html
-Where research refers to any particular ﬁnancial product recipients of the research should consider any product disclosure
+Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific
+Where research refers to any particular financial product recipients of the research should consider any product disclosure
 statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
 the product. In preparing this report, the primary analyst or an individual who assisted in the preparation of this report
-has likely been in contact with the company that is the subject of this research for conﬁrmation/clariﬁcation of data,
+has likely been in contact with the company that is the subject of this research for confirmation/clarification of data,
 facts, statements, permission to use company-sourced material in the report, and/or site-visit attendance. Without prior
 approval from Research Management, analysts may not accept from current or potential Banking clients the costs of
 travel, accommodations, or other expenses incurred by analysts attending site visits, conferences, social events, and the
 like. Similarly, without prior approval from Research Management and Anti-Bribery and Corruption (“ABC”) team, analysts
 may not accept perks or other items of value for their personal use from issuers they cover.
-??
-Page 10
-Deutsche Bank AG/Hong Kong
 Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
-18 September 2018
 Retail / Wholesale Trade
 Midea
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2018 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 11
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
 Pam Finelli
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Global Head of Economics
 Global Head of Equity Research
-Anthony Klarman
-Global Head of
-Debt Research
-Kinner Lakhani
-Head of EMEA
-Equity Research
+Research
 Dave Clark
+Anthony Klarman
+Kinner Lakhani
+Global Head of
+Head of EMEA
 Head of APAC
+Debt Research
+Equity Research
 Equity Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International Production Locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
 2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500
-Provided for the exclusive use of Research Research at Provisional Access on 2018-09-19T01:37+00:00. DO NOT REDISTRIBUTE

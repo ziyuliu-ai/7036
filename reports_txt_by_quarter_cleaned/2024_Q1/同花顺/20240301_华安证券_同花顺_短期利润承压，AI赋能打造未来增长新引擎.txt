@@ -1,84 +1,249 @@
-短期利润承压，AI 赋能打造未来增长新引擎
-同花顺于2 月26 日发布2023 年年度报告。2023 年公司实现营收3564
-亿元，同比增长014%；实现归母净利润1402 亿元，同比下降1707%；
-实现扣非归母净利润1369 亿元，同比下降1527%。
-单Q4 实现营收1192 亿元，同比下降714%；实现归母净利润632 亿
-元，同比下降2186%实现扣非归母净利润611 亿元，同比下降1953%。
- 营收正向微增，利润短期承压
-营收方面，2023 年公司实现营收3564 亿元，同比增长014%。分业务
-来看：1）增值电信业务实现营收1529 亿元，同比下降061%，占总营
-收的比重为429%，同比下降03pct；2）广告及互联网业务推广服务实
-现营收1359 亿元，同比下降1097%，占总营收的比重为3813%，同
-比下降48pct；3）软件销售及维护业务实现营收438 亿元，同比增长
-5353%，占总营收的比重为123%，同比增加43pct；4）基金代销及其
-他交易服务业务实现营收239 亿元，同比增长1404%，占总营收的比重
-为67%，同比增加08pct。
-利润方面，2023 年公司实现归母净利润1402 亿元，同比下降1707%；
-实现扣非归母净利润1369 亿元，同比下降1527%。主要系公司集中资
-源对人工智能（AGI）大模型领域进行投入，研发费用增加；以及为扩大
-市场份额，加大销售推广力度，销售费用增加。
- 毛利率小幅下滑，研发投入持续加大
-2023 年公司综合毛利率为8909%，同比下降05pct；净利率为3935%，
-同比下降82pct。2023 年公司研发费用为1179 亿元，同比增长1051%，
-研发费用率为3309%，同比增加31pct，主要系公司继续加大人工智能
-技术应用研发，尤其是大模型方面的研发，在专业人才引进和算力资源建
-设等领域的投入等增加所致；销售费用为497 亿元，同比增长3515%，
-销售费用率为1395%，同比增加36pct，主要系加大营销推广力度，销
-售人员薪酬及广告宣传费用增加所致；管理费用为204 亿元，同比增长
-2719%，管理费用率为574%，同比增加12pct，主要系总部大楼折旧、
-管理人员薪酬及办公费用等增加所致。
- 流量优势明显，2023 年注册用户数同比增长147%
-此外还覆盖了大量的公募基金公司、私募基金公司、银行、保险公司、政
-府、科研院所、上市公司等机构客户；个人用户方面，截至 2023 年 12
-月 31 日，同花顺金融服务网累计注册用户约 62亿人，同比增长147%；
-每日使用同花顺网上行情免费客户端的人数平均约为 1447 万人，同比
-下降109%；每周活跃用户数约为 1936 万人，同比下降031%。根据
-Wind，2023 年沪深两市日均成交额为8765 亿元，同比下降52%。展望
-投资评级：买入（维持）
-报告日期：      2024-02-27
-近12 个月最高最低（元）
-公司价格与沪深300 走势比较
-公司深度兼具流量与技术，AI 赋能加
-公司点评三季报收入符合预期，AI
-金融未来可期2023-10-22
-未来，随着资本市场逐步回暖，公司作为金融信息服务行业领军者有望充
- 业内首家通过网信办备案的金融对话大模型—问财HithinkGPT
-2024 年1 月12 日，公司正式发布大模型——问财HithinkGPT，这是业
-内首家通过网信办备案的金融对话大模型。HithinkGPT 大模型是公司从
-训练语料、训练框架到模型结构的设计，均从零开始、创新构建，预训练
-金融语料达到万亿级 tokens，涵盖了股票、债券、期货、外汇、商品价
-格、宏观经济指标、行业数据等多个方面的数据，具有全面的实时金融数
-据、强大的语义理解、专业的投顾建议、生动的表达形式、可控的内容生
-成等特点，经过前期多轮测试与优化，该模型在金融场景中表现出色，能
-够高分通过多个金融领域的专业考试。未来，公司将加快现有人工智能产
-品业务与大模型的融合，在大模型金融投顾、大模型智能客服、大模
-型智能投研、大模型代码生成、大模型法律咨询、大模型办公助手、
-大模型翻译等领域开展应用，进一步提升用户体验，提高产品竞争力。
-展望未来，公司有望在 AI 赋能下进一步提升付费转化率及 ARPU 值。
-我们预计公司2024-2026 年分别实现收入402459521 亿元，同比增
-长13%14%14%；实现归母净利润157183211 亿元，同比增长
-12%16%15%，维持买入评级。
-1）资本市场波动风险；2）大模型研发不及预期。
-每股经营现金流（摊薄
-互联网公司，金融及产业复合背景，善于结合产业及投资视角进行卖方研究。2015 年水晶球第三名及 2017 年新
-使用合法合规的信息，独立、客观地出具本报告，本报告所采用的数据和信息均来自市场公开信息，本人对这些信
-息的准确性或完整性不做任何保证，也不保证所包含的信息和建议不会发生任何变更。报告中的信息和意见仅供参
-考。本人过去不曾与、现在不与、未来也将不会因本报告中的具体推荐意见或观点而直接或间接收任何形式的补偿，
-分析结论不受任何第三方的授意或影响，特此声明。
-报告中的信息或表述的意见均不构成对任何人的投资建议。在任何情况下，本公司、本公司员工或者关联机构不承
-诺投资者一定获利，不与投资者分享投资收益，也不对任何人因使用本报告中的任何内容所引致的任何损失负任何
-的拷贝、复印件或复制品，或再次分发给任何其他人，或以任何侵犯本公司版权的其他方式使用。如欲引用或转载
-引用和删改。如未经本公司授权，私自转载或者转发本报告，所引起的一切后果及法律责任由私自转载或转发者承
-担。本公司并保留追究其法律责任的权利。
-A 股以沪深300 指数为基准；新三板市场以三板成指（针对协议转让标的）或三板做市指数（针对做市转让标的）
-为基准；香港市场以恒生指数为基准；美国市场以纳斯达克指数或标普500 指数为基准。定义如下：
-增持—未来 6 个月的投资收益率领先市场基准指数 5%以上
-中性—未来 6 个月的投资收益率与市场基准指数的变动幅度相差-5%至 5%
-减持—未来 6 个月的投资收益率落后市场基准指数 5%以上
-买入—未来6-12 个月的投资收益率领先市场基准指数15%以上；
-增持—未来6-12 个月的投资收益率领先市场基准指数5%至15%；
-中性—未来6-12 个月的投资收益率与市场基准指数的变动幅度相差-5%至5%；
-减持—未来6-12 个月的投资收益率落后市场基准指数5%至15%；
-卖出—未来6-12 个月的投资收益率落后市场基准指数15%以上；
-无评级—因无法获取必要的资料，或者公司面临无法预见结果的重大不确定性事件，或者其他原因，致使无法
-给出明确的投资评级。
+事事である。『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中では、『正平の中で
+· 字符：字八 “ 上
+a ""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 -
+- """ " " " " " " " " " " " " " " " " "
+『『『『『『『『『『『『『『『『『『『
+" " " " " " " " " " " " " " " " " " "
+ē."E
+” = This ariuraPiù la li li li li li li li li li li li li li
+në në më në në në në në në në në në në në në në
+a"⊩ "
+電車ではではでするでするであるであるであるであるであるであるであるであるであるであ
+ē.□ in— in—
+."E" "
+” = This a si a si a si a si a si a si a si a
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+." "
+· III。III。
+n. "E " " " " " " " " " " " " " " " " " "
+.Pinara.
+a™ Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pape 1. Pa
+- "R=" = ""|- "" = "" = "" = "" = "" = "" = "" = ""
+a.F.
+” - Rangeria Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin
+a"."
+· Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+” ————————————————————————————————————
+『・『・『・『上間にでににににににににににににににににに
+『上電子』『正で記録では『上で記録では「上で記録である。」「上で記録である。「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「上で記録である。」「
+arileanieParileanie1. inie
+三事ではではでするでするでするでするでするでするでするでするでするでする
+- Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - Rail - R
+”『上間·日本『中間·日本』『中間·日本『中間·日本『中間・日本『中間・日本『中間・日本』
+”上零台小厅。“in”上
+『・・・・・・・・・・・・・・・・・・・
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+で『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『inel”『
+- 『『・『上で『上で『上で『上で『上で『上で『上で
+『・『・『上間『上間ににににりにりにりにりにりにりにりにり
+”『Pin Pin Pin Pin Pin Pin Pin Pin Pin Pin
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+· Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+「上事の体」と対していまって、「ルールールールールールールールールールールールールールールールールールールー
+in "E" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li "B" a" li
+『上電子では、『in line』『in line』
+a.""
+事事。『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』『正十二年』
+nën-lën lënën jë në për jë në për jë në për jë në për jë në për jë në për jë në për jë në për jë në në në në n
+事事。『ine afine”『ine afine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”
+· "E" a" "E" "E" "E" "E" "E" "E" "E" "E"
+事事。『事事』『事事』『事事』『事事』
+音い『『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である
+で表現なります。Papin likeでは。Papin likeでは、Papin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin likePapin
+· III-III-III-III-III-III-III-III
+· ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+— ""
+” “『ine a” “ ” “ ” ” “ ” ” ” ” ” ” ” ” ” ” ” ”
+në.Papi⊓
+· Parine air.Parine air.
+『『『『『『『『『『『『『『『『『『『
+· III----------------------------------
+”——『『inea nu nu nu nu nu nu nu nu nu nu nu nu nu
+『上で記録』『上で記録』「ルロルールールールールールールールールールールールールールールールールールール
+第一章。『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』『herber』
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+· III。『in la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni
+『『『旧『旧『旧『旧『旧『に『に『に『に
+『・『・『・『上間『上間『上間『上間『上間『上
+- Tin Barrier- Tin Barrier- Tin Barrier arin en in En Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barrier arin en Barr
+事事。『事事の記憶を引力によって『中では『中では『中で記憶をである。「中で記憶をである。である。である。である。である。である。である。である。
+9. a.".Pin".
+- " " a " " " " " " " " " " " " " " " "
+『上で記録を記述します。『ルーラーでは、では、「よります」という。「ルーラーでは、「よります」と、「よります」と、「よります」と、「よります」と、「よります」と、「よります」と、「おります」と、「よります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、「おります」と、
+事事情報である。「上間を可能した。「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた。」「上間を開かられた
+事事である。『ina la la la la la la la la la la la la la
+- Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+『上電子記載を『上電子記載を『正電子記載を『上電子記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を
+事事。『正皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神皇神
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+· Page air.Page air.
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+事事。『上電子『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『
+- Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+a "le "" " " " " " " " " " " " " " " " "
+電車で表現しまります。『inella nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela nuinela
+· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pail· Pai
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+” 『Pi · Pi · Pi · Pi · Pi · Pi · Pi · Pi
+a." "
+『『『上『上『上『上『上『ト『ト『ト『ト
+。『E
+e”⊩a”₽” n
+『上『上『上『上『上『上
+言いて、『記記記録 The The The The The The The The The The
+五事 a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line
+『上電子』『記事では「Line』『記事では、「Line』。『記事では、「Line』。『記事では、「Line』。『記事では、「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「Line』。「L
+aがlina『arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina arilina『ina aril
+| 上| 事事
+”『arika ni ni ni ni ni ni ni ni ni ni ni ni ni
+- 『he line line line line line line line lin
+書物で表現しています。「中では、では、では、では、では、では、では、では、では、では、
+事事。『中では『中では『中では『中では『中では『中では『中では『中では
+ahe ahe ahe ahe ahe ahe ahe ahe ahe ahe
+事事。『正本学』『正本学』『正本学』『正本学』
+『・『・『上『上『上『上『上『上『上『上
+· lu - lu - lu - lu - lu - lu - lu - lu
+音いでは、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事では、『記事で
+nie na i na la la la la la la la la la la la la la
+音…Page a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+音楽音楽学士『中で記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記
+言い。『事事』『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『
+表現。記事記事記事記事記事記事記事記事記事記事記事記事記事
+a "------------------------------------
+『『『『『『『『『『『『『『『『『『『
+的文字是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+フェース min zin lin in lin in lin in lin lin lin lin
+看着。
+電子
+では
+では
+では
+に
+では
+に
+で
+に
+で
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『でででにでにじにじににににににににににに
+· " " " " " " " " " " " " " " " " " " "
+事事。『上『記『上『上『上『上『上『上『上『上
+音います。1. The arm in a support of the support of the support of the support of the support of the support of the support of the support of the support of the support of the support of the support of the support of the sup
+・
+・
+・
+・
+・
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+i.l.
+『上電子記録記事で記載を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+事事。『事事』『上
+- 『・『上『上『上『上『上『上『上『上『上
+i.l.
+『上『記『上『上『上『上『上『上『上『上『
+『上電子』『ina Papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina papa nina
+中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—Barina中i—BarinaParinaParinaParinaParinaParinaParinaParinaParinaParinaParinaParinaParinaParinaParinaPar
+事事・『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+『『『『『『『『『『『『『『『『『『『
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+”『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·『上帝句·

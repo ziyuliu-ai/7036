@@ -1,3695 +1,1034 @@
-CMB International Securities | Equity Research | Coverage Initiation 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: CMBR AND http://www.cmbi.com.hk 
- 
-China Auto Sector 
-Jack Bai 
-(852) 3900 0835 
-jackbai@cmbi.com.hk 
- 
-China Renewable Sector 
-Robin Xiao 
-(852) 3900 0849 
-robinxiao@cmbi.com.hk 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-227,020
-Avg 3 mths t/o (RMB mn) 
-1,673
-52-week high/low 
- 97.91/42.30
-Total Issued Shares (mn) 
-915 (H) 
- 
-1,813 (A) 
-Source: Bloomberg 
- 
-Shareholding Structure 
-Wang Chuanfu 
-18.83% 
-Lv Xiangyang 
-8.77% 
-Bershire Hathaway Energy 
-8.25% 
-Source: Company announcement 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-25.3% 
-9.6%
-3-mth 
-52.8% 
-24.2%
-6-mth 
-48.7% 
-26.4%
-12-mth 
-58.5% 
-27.5%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Wind 
- 
-Auditor: Ernst & Young 
- 
- 
-Please cast your valuable vote 
-for CMBIS research team in the 
-2020 Asiamoney Brokers Poll: 
-https://euromoney.com/brokers 
-0.0
-20.0
-40.0
-60.0
-80.0
-100.0
-120.0
-Jul-19
-Oct-19
-Jan-20
-Apr-20
-002594.SZ
-000300.SH (rebased)
-(RMB)
-BUY (Initiation) 
-Target Price 
-RMB112.12 
-Up/Downside 
-+26.0% 
-Current Price 
-RMB88.99 
- 
-1 
-     23 Jul 2020 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Prompted by government policy and technological innovation, China's NEV 
+CMB International Securities | Equity Research | Coverage Initiation
+行 全 资 附
+A Wholly Owned Subsidiary Of China Merchants Bank
+BYD - A (002594 CH)
+BUY (Initiation)
+Hidden giant in the cave
+Target Price
+RMB112.12
+Up/Downside
++26.0%
+Current Price
+RMB88.99
+Prompted by government policy and technological innovation, China's NEV
 market is expected to enter into a rapid growth period with CARG of 43% in 2020-
-25E. As the pioneer in the NEV field in China, BYD was ranked No.1 in 
-NEPV/No.4 in NECV in 2019. We believe that the Company will maintain its 
-excellent performance thanks to its technological advantages and brand 
-recognition in the future. The Company is experiencing a re-rating process as 
-supply chain open up activities help release value from power battery and IGBT. 
-We believe the re-rating is yet to finish. We initiate BUY with SOTP-derived TP 
-of RMB112.12 per share.  
- China NEV industry to usher rapid growth from 2021E. We forecast that 
-NEV sales volume will achieve 1.7mn units in 2021E, an increase of 66% YoY, 
-supported by favorable policies such as the extension of subsidies/the 
-implementation of the double credit policy. BYD, as the undoubted leader in 
-China's NEV field, launched its blade battery early this year and will 
-subsequently launch its DM4.0 platform in 4Q20E, supporting NEV sales 
-growth. We expect its total vehicle sales (ICE and NEV) to increase by 34% 
-YoY in 2021E. The corresponding revenue from the auto segment will achieve 
-an increase of 47% YoY to RMB83.3bn in 2021E. 
- Blade Battery: a potential game-changer. BYD recently launched blade 
-battery and the first model (Han) equipped with blade batteries. While 
-ensuring safety, the blade battery extends the mile range, broadening the 
-application scenarios of traditional LFP. BYD is now actively developing the 
-2nd generation of blade batteries with improving costs and energy density. 
-We believe that the external shipment of the power battery will have a brilliant 
-potential since 2021E. We think incremental income from battery external 
-shipment will significantly lift BYD's overall valuation. We expect NP from 
-power battery business will achieve a CAGR of 161% through 2021E to 2025E. 
- Semiconductor: a new shining point from BYD’s supply chain. BYD 
-introduced 30 strategic investors into IGBT semiconductor business in Jun 
-2020 with a post investment valuation of RMB10.2bn. By far, BYD holds 72.3% 
-equity of IGBT business. We are optimistic about its IGBT business given its 
-import substitution potential in China’s NEV supply chain. We expect NP from 
-IGBT business will achieve a CAGR of 68% through 2021E to 2025E. 
- We are optimistic about the future growth potential of BYD and initiate 
-BUY rating with TP of RMB112.12 (26.0% upside potential). 
- 
-Earnings Summary 
-(YE 31 Dec) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Revenue (RMB mn) 
-130,055 
-127,739 
-148,901 
-190,449 
-266,797 
-YoY growth (%) 
-22.79% 
--1.78% 
-16.57% 
-27.90% 
-40.09% 
-Net income (RMB mn) 
-2,780 
-1,614 
-2,087 
-3,112 
-7,296 
-EPS (RMB) 
-0.93 
-0.50 
-0.67 
-1.04 
-2.58 
-YoY growth (%) 
--34% 
--47% 
-34% 
-56% 
-147% 
-Consensus EPS(RMB) 
-N/A 
-N/A 
-1.05 
-1.20 
-1.65 
-P/E (x) 
-95.52 
-178.96 
-133.15 
-85.24 
-34.53 
-P/B (x) 
-4.40 
-4.28 
-4.13 
-3.91 
-3.45 
-Yield (%) 
-0.26% 
-0.08% 
-0.10% 
-0.14% 
-0.34% 
-ROE (%) 
-5.05% 
-2.88% 
-3.61% 
-5.15% 
-11.02% 
-Net gearing (%) 
-64% 
-79% 
-89% 
-84% 
-83% 
-Source: Company data, Bloomberg, CMBIS estimates 
-BYD - A (002594 CH) 
-Hidden giant in the cave 
-23 Jul 2020 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Contents 
-Why shall we focus on NEV now? ....................................................................... 3 
-NEV market has enormous growth potential ............................................................ 3 
-Government policy laid a solid foundation for long-term development .............. 6 
-NEV to break through to high-end vehicles .............................................................. 7 
-NEV sales to reach 6.22mn units in 2025E with a CAGR of 43% in 2020-25E ..... 8 
-Why do we prefer BYD? ........................................................................................ 11 
-Auto - Leading market position in NEV market ...................................................... 12 
-NEV parts business ..................................................................................................... 21 
-1. 
-Power battery ........................................................................................................ 22 
-2. 
-IGBT module .......................................................................................................... 31 
-3. 
-Consumer electronics (Component + Assembly Service) ............................ 35 
-4. 
-Secondary rechargeable batteries and photovoltaics ................................... 36 
-5. 
-Other business (Cloud rail/bus) ......................................................................... 37 
-Financial Analysis ........................................................................................................ 39 
-Valuation...................................................................................................................... 41 
-Risk factors ................................................................................................................ 47 
-Financial Summary ................................................................................................. 48 
-Appendix ..................................................................................................................... 49 
- 
- 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Why shall we focus on NEV now? 
-NEV market has enormous growth potential 
-We see enormous growth potential of the NEV market in China. NEV market in China 
-is shaped under the backdrop of energy structure transformation with an aim to achieve 
-leapfrog development of the China auto industry. China NEV market was initially promoted 
-through heavy subsidy and experienced some disruptions due to government policy 
-changes. Entering into 2020, we think the market is getting mature, since 1) China has 
-formed the world’s largest consumer market for NEV; 2) NEV cost has experienced 
-continuous decline and is about to reach cost-parity line by 2023E; 3) government policy 
-has laid a solid foundation, turning from subsidy driven towards non-monetary long-term 
-development mechanism; and 4) NEV upgrade to high-end car model will bring more 
-competitions and opportunities. We project NEV sales volume in China to reach CAGR of 
-43.4% in 2020-25E, with reference to the Chinese government’s ambitious 25% NEV 
-penetration target by 2025E. We think the room for future development of NEV is huge. 
-A leapfrog strategy to tackle energy transformation and air pollution 
-Three main considerations have jointly formed the development strategy of China's NEV 
-industry. 1) From the perspective of energy structure, China's oil import volume is the 
-highest in the world with a dependence ratio of 72%, which affects China's energy security； 
-2) the serious pollution of fuel vehicles is becoming a demanding issue for Chinese society; 
-and 3) NEV development creates a leapfrog opportunity for China auto industry.  
-Subsidy bridge through the path to the world’s largest NEV consumer market 
-China has ranked No.1 globally in terms of both NEV production and sales for four 
-consecutive years since 2015. The achievements were highly dependent on policy support, 
-however, which as a subsidy to the NEV manufacturers has lowered retail price, helping 
-boost end-users demand.   
-In the early stages of the development of NEV, we observe the government has expanded 
-demand through industrial policies including fiscal subsidies, purchase tax reductions, and 
-restriction exemption. Since 2019, government has gradually withdrawn direct subsidy 
-while shifting the support from the production side to the user side. The government hopes 
-that the NEV industry can form its own competitiveness competent with ICE and achieve a 
-healthy development in the long run without any government support. 
-We estimate the central and local governments have provided a total of RMB200-300bn 
-subsidies for NEV industry in the past decade. In 2016, the MoF exposed the fraudulent 
-acts of NEV companies, which caused the government to gradually reduce subsidies from 
-2017. The adjustment on the subsidy policy has made NEV sales somewhat bumpy in the 
-past two years. However, China still realized NEV sales of 1.062mn units in 2019, 
-accounting for more than 50% of NEV sales of the global market.  
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Figure 1: Global NEPV sales in 2018/19 
- 
-Source: GGII, CMBIS 
-Figure 2: NEPV sales by country in 2019 
- 
-Source: GGII, CMBIS 
- 
-NEV market is turning from subsidy-driven towards non-monetary policy tools  
-As the domestic NEV market grew relative large enough to support its own development, 
-the government hopes to gradually reduce market intervention. In Jul 2018, China officially 
-relaxed the restrictions on foreign corporation of setting up NEV companies in China. As a 
-result, global NEV leader such as Tesla (TSLA US) started to set up factory in China. By 
-cutting subsidy supports and introducing competition, the Chinese local NEV companies 
-will be forced to accelerate innovation. In the near future from 2021E, non-monetary policy 
-tools such as “CAFC and NEV credit regulation”, will further foster competition and 
-therefore support the development of the NEV industry. We expect China’s NEV market to 
-experience a market clearance phase, while China NEV OEMs will likely to face increasing 
-challenges. As the market expands and competition becomes more orderly, we think 
-leading players will benefit from the shifting competitive landscape. 
-Cost reduction is the most critical factor in NEV industry 
-Subsidy cuts substantially amplify the pressures of cost reduction in the NEV industry. The 
-essence of the industry is to continuously improve cost structure through technology 
-advancement and the economies of scale brought by growing demand. 
-The manufacturing cost of NEV includes three major electric components (namely battery, 
-motor, and electronic control), automotive electronics, body, chassis suspension, interior 
-decoration, etc. Among them, batteries, motors and electronic controls constitute three 
-major components in the NEV industrial chain. In 2019, power batteries accounted for 
-about 40% of vehicle manufacturing costs. In other words, the cost of the power battery will 
-directly affect the manufacturing cost of NEV. Therefore, the cost reduction pace of power 
-battery directly determines the future development speed of NEV. Given 1) increasing 
-economies of scale with growing demand; 2) the improvement in the first-pass yield due to 
-the improvement of production technology; and 3) an expected cost reduction in raw 
-material, we expect that the unit cost of the battery would continue to decline.  
-According to GGII, the price of power batteries has been declining at an annual rate of 
-about 20% in past 5 years. At the end of 2019, the ex-VAT price for the ternary battery 
-system(pack) was RMB0.95-1.05/Wh while the price for the LFP system(pack) was 
-RMB0.85-0.95/Wh. It is expected that the ternary battery pack ex-VAT price will drop below 
-RMB0.90/Wh while the LFP pack ex-VAT price will drop below RMB0.8/Wh in 2020E. 
-Based on a diminishing path of battery cost, we estimate the costs parity to ICE can be 
-reached as early as 2023E. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-5 
-Figure 3: Average power battery price declined fast 
-in 2016-19 
- 
-Source: GGII, CMBIS estimates 
-Figure 4: Power battery capacity installed by vehicle 
-type 
- 
-Source: GGII, CMBIS 
- 
-Figure 5: BEV cost breakdown in 2019  
- 
-Source: Gasgoo, CMBIS 
-Figure 6: Power battery cost breakdown in 2019 
- 
-Source: Bloomberg, CMBIS 
- 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-6 
-Government policy laid a solid foundation for long-term development  
-The Chinese government has provided enormous support from the very beginning of the 
-NEV development in the country. In Sep 2001, MIIT has set up a special project for EV 
-within the national "863" plan during the "Tenth Five-Year Plan" period. However, we 
-observe that the first rapid growth period of the China NEV industry began in 2012. Since 
+25E. As the pioneer in the NEV field in China, BYD was ranked No.1 in
+NEPV/No.4 in NECV in 2019. We believe that the Company will maintain its
+China Auto Sector
+excellent performance thanks to its technological advantages and brand
+Jack Bai
+recognition in the future. The Company is experiencing a re-rating process as
+supply chain open up activities help release value from power battery and IGBT.
+We believe the re-rating is yet to finish. We initiate BUY with SOTP-derived TP
+China Renewable Sector
+of RMB112.12 per share.
+Robin Xiao
+■ China NEV industry to usher rapid growth from 2021E. We forecast that
+NEV sales volume will achieve 1.7mn units in 2021E, an increase of 66% YoY,
+supported by favorable policies such as the extension of subsidies/the
+Stock Data
+implementation of the double credit policy. BYD, as the undoubted leader in
+China's NEV field, launched its blade battery early this year and will
+subsequently launch its DM4.0 platform in 4Q20E, supporting NEV sales
+growth. We expect its total vehicle sales (ICE and NEV) to increase by 34%
+Source: Bloomberg
+YoY in 2021E. The corresponding revenue from the auto segment will achieve
+an increase of 47% YoY to RMB83.3bn in 2021E.
+Blade Battery: a potential game-changer. BYD recently launched blade
+battery and the first model (Han) equipped with blade batteries. While
+ensuring safety, the blade battery extends the mile range, broadening the
+application scenarios of traditional LFP. BYD is now actively developing the
+2nd generation of blade batteries with improving costs and energy density.
+We believe that the external shipment of the power battery will have a brilliant
+potential since 2021E. We think incremental income from battery external
+shipment will significantly lift BYD's overall valuation. We expect NP from
+power battery business will achieve a CAGR of 161% through 2021E to 2025E.
+Source: Bloomberg
+Semiconductor: a new shining point from BYD's supply chain. BYD
+12-mth Price Performance
+introduced 30 strategic investors into IGBT semiconductor business in Jun
+2020 with a post investment valuation of RMB10.2bn. By far, BYD holds 72.3%
+equity of IGBT business. We are optimistic about its IGBT business given its
+import substitution potential in China's NEV supply chain. We expect NP from
+IGBT business will achieve a CAGR of 68% through 2021E to 2025E.
+We are optimistic about the future growth potential of BYD and initiate
+BUY rating with TP of RMB112.12 (26.0% upside potential).
+Auditor: Ernst & Young
+Please cast your valuable vote
+for CMBIS research team in the
+2020 Asiamoney Brokers Poll:
+Contents
+Why shall we focus on NEV now?
+NEV market has enormous growth potential
+We see enormous growth potential of the NEV market in China. NEV market in China
+is shaped under the backdrop of energy structure transformation with an aim to achieve
+leapfrog development of the China auto industry. China NEV market was initially promoted
+through heavy subsidy and experienced some disruptions due to government policy
+changes. Entering into 2020, we think the market is getting mature, since 1) China has
+formed the world's largest consumer market for NEV; 2) NEV cost has experienced
+continuous decline and is about to reach cost-parity line by 2023E; 3) government policy
+has laid a solid foundation, turning from subsidy driven towards non-monetary long-term
+development mechanism; and 4) NEV upgrade to high-end car model will bring more
+competitions and opportunities. We project NEV sales volume in China to reach CAGR of
+43.4% in 2020-25E, with reference to the Chinese government's ambitious 25% NEV
+penetration target by 2025E. We think the room for future development of NEV is huge.
+A leapfrog strategy to tackle energy transformation and air pollution
+Three main considerations have jointly formed the development strategy of China's NEV
+industry. 1) From the perspective of energy structure, China's oil import volume is the
+highest in the world with a dependence ratio of 72%, which affects China's energy security;
+2) the serious pollution of fuel vehicles is becoming a demanding issue for Chinese society;
+and 3) NEV development creates a leapfrog opportunity for China auto industry.
+Subsidy bridge through the path to the world's largest NEV consumer market
+China has ranked No.1 globally in terms of both NEV production and sales for four
+consecutive years since 2015. The achievements were highly dependent on policy support,
+however, which as a subsidy to the NEV manufacturers has lowered retail price, helping
+boost end-users demand.
+In the early stages of the development of NEV, we observe the government has expanded
+demand through industrial policies including fiscal subsidies, purchase tax reductions, and
+restriction exemption. Since 2019, government has gradually withdrawn direct subsidy
+while shifting the support from the production side to the user side. The government hopes
+that the NEV industry can form its own competitiveness competent with ICE and achieve a
+healthy development in the long run without any government support.
+We estimate the central and local governments have provided a total of RMB200-300bn
+subsidies for NEV industry in the past decade. In 2016, the MoF exposed the fraudulent
+acts of NEV companies, which caused the government to gradually reduce subsidies from
+2017. The adjustment on the subsidy policy has made NEV sales somewhat bumpy in the
+past two years. However, China still realized NEV sales of 1.062mn units in 2019,
+accounting for more than 50% of NEV sales of the global market.
+Source: GGII, CMBIS
+Source: GGII, CMBIS
+NEV market is turning from subsidy-driven towards non-monetary policy tools
+As the domestic NEV market grew relative large enough to support its own development,
+the government hopes to gradually reduce market intervention. In Jul 2018, China officially
+relaxed the restrictions on foreign corporation of setting up NEV companies in China. As a
+result, global NEV leader such as Tesla (TSLA US) started to set up factory in China. By
+cutting subsidy supports and introducing competition, the Chinese local NEV companies
+will be forced to accelerate innovation. In the near future from 2021E, non-monetary policy
+tools such as "CAFC and NEV credit regulation", will further foster competition and
+therefore support the development of the NEV industry. We expect China's NEV market to
+experience a market clearance phase, while China NEV OEMs will likely to face increasing
+challenges. As the market expands and competition becomes more orderly, we think
+leading players will benefit from the shifting competitive landscape.
+Cost reduction is the most critical factor in NEV industry
+Subsidy cuts substantially amplify the pressures of cost reduction in the NEV industry. The
+essence of the industry is to continuously improve cost structure through technology
+advancement and the economies of scale brought by growing demand.
+The manufacturing cost of NEV includes three major electric components (namely battery,
+motor, and electronic control), automotive electronics, body, chassis suspension, interior
+decoration, etc. Among them, batteries, motors and electronic controls constitute three
+major components in the NEV industrial chain. In 2019, power batteries accounted for
+about 40% of vehicle manufacturing costs. In other words, the cost of the power battery will
+directly affect the manufacturing cost of NEV. Therefore, the cost reduction pace of power
+battery directly determines the future development speed of NEV. Given 1) increasing
+economies of scale with growing demand; 2) the improvement in the first-pass yield due to
+the improvement of production technology; and 3) an expected cost reduction in raw
+material, we expect that the unit cost of the battery would continue to decline.
+According to GGII, the price of power batteries has been declining at an annual rate of
+about 20% in past 5 years. At the end of 2019, the ex-VAT price for the ternary battery
+system(pack) was RMB0.95-1.05/Wh while the price for the LFP system(pack) was
+RMB0.85-0.95/Wh. It is expected that the ternary battery pack ex-VAT price will drop below
+RMB0.90/Wh while the LFP pack ex-VAT price will drop below RMB0.8/Wh in 2020E.
+Based on a diminishing path of battery cost, we estimate the costs parity to ICE can be
+reached as early as 2023E.
+Source: GGII, CMBIS estimates
+Source: GGII, CMBIS
+Source: Gasgoo, CMBIS
+Source: Bloomberg, CMBIS
+Government policy laid a solid foundation for long-term development
+The Chinese government has provided enormous support from the very beginning of the
+NEV development in the country. In Sep 2001, MIIT has set up a special project for EV
+within the national "863" plan during the "Tenth Five-Year Plan" period. However, we
+observe that the first rapid growth period of the China NEV industry began in 2012. Since
 the "Energy Saving and New Energy Vehicle Industry Development Plan (2012-2020) 《节
-能与新能源汽车产业发展规划（2012—2020 年）》" was issued by the State Council and 
-implemented in 2012, China NEV market has entered into a new phase.  
-Going forward, we think recent government policies laid a solid foundation to drive the NEV 
-industry’s sustainable growth. For the near term, MIIT official just extended the financial 
-subsidy for NEV by three years to end-2022 on 23 Apr 2020. For the longer-term, MIIT 
-released the "New Energy Vehicle Industry Development Plan (2021-2035)" (draft for 
-comments) on 3 Dec 2019,. According to the "Plan", China will set an ambitious target to 
-have NEV/Intelligent connected vehicles(ICV) sales volume accounting for 25%/30% of 
-total vehicle sales by 2025E. On 23 Jun 2020, a new version of “CAFC and NEV credit 
-regulation” was published, with rigorous mechanism designed to promote the future growth 
-of the NEV industry and to underpin the 2025E target. 
-Figure 7: Summary of national subsidy scheme 
- 
-Source: MIIT, CMBIS 
- 
- 
- 
- 
-Range (NEDC, km)
-2016
-2017
-2018
-2019
-2020E
-2021E
-2022E
-2023E
-100≤R<150
-25,000
-                              
-20,000
-   
--
-        
--
-        
--
-        
--
-        
--
-        
--
-        
-150≤R<200
-45,000
-                              
-36,000
-   
-15,000
-   
--
-        
--
-        
--
-        
--
-        
--
-        
-200≤R<250
-45,000
-                              
-36,000
-   
-24,000
-   
-18,000
-   
--
-        
--
-        
--
-        
--
-        
-250≤R<300
-55,000
-                              
-44,000
-   
-34,000
-   
-18,000
-   
--
-        
--
-        
--
-        
--
-        
-300≤R<400
-55,000
-                              
-44,000
-   
-45,000
-   
-18,000
-   
-16,200
-   
-12,960
-   
-9,072
-     
--
-        
-400≤R
-55,000
-                              
-44,000
-   
-50,000
-   
-25,000
-   
-22,500
-   
-18,000
-   
-12,600
-   
--
-        
-PHEV
-30,000
-                              
-24,000
-   
-22,000
-   
-10,000
-   
-9,000
-     
-7,200
-     
-5,040
-     
--
-        
-Retreat %
--20%
-14%
--50%
--10%
--20%
--30%
--100%
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-7 
-NEV to break through to high-end vehicles  
-We believe Year 2020 will become a starting point for NEV upgrade. The proportion of 
-A00-class NEV sales has begun to decline since 2017. Sales penetration rate of the A-00 
-class NEV declined from 54% in 2017 to 18% in 2019. Meanwhile, the proportion of A-class 
+能与新能源汽车产业发展规划(2012—2020年)》 " was issued by the State Council and
+implemented in 2012, China NEV market has entered into a new phase.
+Going forward, we think recent government policies laid a solid foundation to drive the NEV
+industry's sustainable growth. For the near term, MIIT official just extended the financial
+subsidy for NEV by three years to end-2022 on 23 Apr 2020. For the longer-term, MIIT
+released the "New Energy Vehicle Industry Development Plan (2021-2035)" (draft for
+comments) on 3 Dec 2019.. According to the "Plan", China will set an ambitious target to
+have NEV/Intelligent connected vehicles(ICV) sales volume accounting for 25%/30% of
+total vehicle sales by 2025E. On 23 Jun 2020, a new version of "CAFC and NEV credit
+regulation" was published, with rigorous mechanism designed to promote the future growth
+of the NEV industry and to underpin the 2025E target.
+Source: MIIT, CMBIS
+NEV to break through to high-end vehicles
+We believe Year 2020 will become a starting point for NEV upgrade. The proportion of
+class NEV declined from 54% in 2017 to 18% in 2019. Meanwhile, the proportion of A-class
 NEV sales gradually increased from 36% in 2017 to 51% in 2019. Market share of B/C-
-class NEV cars also rose from 4%/0% in 2018 to 13%/3% in 2019. The breakthrough of 
-NEV towards high-end vehicles reflects that consumers have begun to recognize 
-NEV as comparable with ICE.  
-In 2019, the Tesla Shanghai plant’s commencing production marked the official localization 
-of Model 3. At the same time, we also observe that many big names in ICE were also 
-accelerating the pace in electrification. For example, BBA (Daimler EQ series, BMW i series, 
-and Audi e-tron series) have accelerated its electrification strategies from 2020. We expect 
-a number of new models at different class-levels to be roll out by a variety of OEMs, forming 
-a complete product line in NEV industry. The market is expecting the B/C class EV market 
-will start to compete with ICE from 2020.  
-We believe the breakthrough will likely intensify competition between NEV manufacturers 
-and ICE OEMs, but this will also create opportunities such as significantly increasing the 
-NEV market sales volume as well as ASP boom with increasing high-end vehicle sales.   
-Figure 8: NEPV sales in China by class 
- 
-Source: CPCA, CMBIS 
-Figure 9: Tesla global sales by model in 2019 
- 
-Source: EV Sales, CMBIS 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-8 
-NEV sales to reach 6.22mn units in 2025E with a CAGR of 43% in 
-2020-25E 
-Short-term bumpy: EV sales to decline 15% YoY to 1.02mn units in 2020E 
-We expect the NEV sales to be 1.02mn units in 2020E, down 15% YoY. In 2019, China's 
-NEV production/sales were 1.24mn/1.21mn units, down 2.3%/4.0% YoY, respectively. 
-Looking back on 2019, the subsidies for NEV experienced a steep decline with a maximum 
-retreat of more than 50%, due to the subsidy transition period exited at the end of Jun 2019. 
-As a result, the rising retail price of NEV affected its relative competitiveness compared 
-with ICE. Since Jul 2019, NEV sales started a path heading south until the end of 2019. 
-Oct and Nov 2019 read dramatic decline of 46% and 44% YoY, respectively.  
-At the beginning of 2020, CAAM forecasts that China’s NEV sales will be about 1.20mn 
-units in 2020E at similar level as in 2019. However, since the supply side was seriously 
-disrupted, the total output in 1H20 has declined by 36.5% YoY. While demand had 
-disappeared given the negative income effects affected by COVID-19 in 1Q20, NEV sales 
-volume recorded only 393K in 1H20, down 37.4% YoY. As we expect policy support 
-measures should underpin the sales performance, we believe NEV will achieve an increase 
-of 10% YoY in 2H20E. As a result, we revise down our NEV sales forecast to 1.02mn units 
-in 2020E, a decline of 15%YoY. 
-Figure 10: NEV monthly sales in China 
- 
-Source: CAAM, CMBIS 
-Figure 11: Monthly PV sales in China 
- 
-Source: CAAM, CMBIS 
- 
-Medium-term growth to accelerate with a jump in 2021E 
-Although the subsidy retreats in 2020 are better than previously expected, three critical 
-factors, namely "reducing costs, improving battery life, and ensuring safety" will still be the 
-key tasks for the whole NEV industry in the medium-term, which will likely prompt 
-technological progress and meet customer demands. As we forecast below, NEV 
-production and sales volume derived from “double credit regulation” will jump significantly 
-in 2021E, making 2020E a perfect stage to accumulate related shares in NEV sector. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-9 
-Figure 12: NEV credit benchmark forecast 
- 
-Source: MIIT, CMBIS estimates 
-Figure 13: Production derived from double credit 
- 
-Source: MIIT, CMBIS estimates 
- 
-Long-term growth to be enormous with 43% CAGR in 2020-25E  
-Even though the cost of NEV will gradually decrease in the next three years, the retail price 
-will still be higher than the same grade of ICE without any subsidy. Given full recognition 
-of this fact, the government has already extended the subsidy by three years as compared 
-with the initial plan in 2020. Beyond financial subsidy, we expect that other trends such as 
-(1) double credits; (2) technical support; (3) battery charge subsidy at the operation side 
-may provide additional support. 
-As we mentioned earlier, we expect the cost parity with ICE will be achieved between 
-2023E and 2025E in terms of production cost. According to "Research on the Development 
-Trend of Chinese Traditional and New Energy Vehicles 2050" from CATARC, it will take 5 
-to 10 years to reach cost parity with ICE in terms of comprehensive cost. Therefore, we 
-believe that a surge in sales volume of NEV may happen in the coming 3-5 years as the 
-cost gap is shrinking rapidly. The market share of NEV will expand at accelerated speed 
-when cost parity nearly achieves.  
-We expect the real demand, especially A to C class NEV, will start to release shortly from 
-2020. As a result, both ASP for NEV and for components (power battery/IGBT) will rise as 
-the proportion of higher-class increases.  
-Starting from 2023E, we expect NEV sales volume to grow at an increasing speed with 
-improving sales structure. We take the penetration rate of 25% in 2025E set by MIIT as 
-given. We expect that the sales volume of NEV in China will be 6.22mn units in 2025E 
-with a CAGR of 43% between 2020E and 2025E. Both NEV OEMs and related NEV 
-parts/components companies will benefit from the future rapid growth, in our view. 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-10 
-Figure 14: Global NEV forecast by IEA 
- 
-Source: IEA, CMBIS 
- 
-Figure 15: NEV sales forecast in China 
- 
-Source: CAAM, CMBIS estimates 
-Figure 16: Power battery installed forecast in China 
- 
-Source: GGII, CMBIS estimates 
- 
- 
- 
-2020
-NEV sales voulme 
-7mn units
-Market share
-9%
-2030
-NEV sales voulme 
-30mn units
-Market share
-30%
-2040
-NEV sales voulme 
-70mn units
-Market share
-45%
-2050
-NEV sales voulme 
-100mn units
-Market share
-60%
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-11 
-Why do we prefer BYD? 
-BYD is one of the first few auto OEMs that invested in the NEV in China. The Company 
-has accumulated a great amount of technical knowledge while earning increasing brand 
-recognition. BYD has established leading market position in NEV sales. In 2019 in terms 
-of sales volume in a global context, BYD was ranked No.2 for total NEV sales; No.3 for 
-BEV sales; and No.1 for PHEV sales. We think BYD is well in the position to embrace the 
-opportunities that will arise with the enormous growth potential from the NEV market.  
-As a conglomerate, BYD is in the leading position in numbers of its business area, such as 
-NEV, power battery, IGBT, Cloud rail, Headset electronics, etc. In 2020-21E, we think BYD 
-has several eye-catching highlights, sequence by 
-1) releasing DM4.0 platform in 4Q20 to defense and enlarge it NEV market shares 
-through PHEV; 
-2) new launching cycle from 2H20E, especially its flagship model, “Han” to boost NEV 
-sales volume;   
-3) launching the new blade battery could be a potential game-changer in the power 
-battery market;  
-4) opening up battery supply to external customers from its “FinDreams” supply chains; 
-and  
-5) introducing strategic investors, and expressed the intention to sell its IGBT module 
-externally 
-The business: Auto segment accounts the most for revenue and gross profit 
-contribution 
-BYD’s main business can be divided into Automobiles and Related Products (internal 
-combustion engine and new energy vehicles), Handset Components and Assembly 
-Services, Rechargeable Batteries and Photovoltaic, and Other business (urban rail 
-transportation). In 2019, the Company achieved sales revenue of RMB127.7bn, of which 
-49.5% came from the auto and parts, 41.8% came from the handset components and 
-assembly business, 8.2% came from the secondary rechargeable battery business 
-(excluding car power batteries), and the remaining 0.5% came from other main businesses 
-(include cloud rail). In 2019, GP was RMB20.8bn, of which 66.5% came from the auto and 
-parts, 24.0% came from the handset components and assembly business, 9.4% came from 
-the secondary rechargeable battery business (excluding car power batteries), and 0.1% 
-came from other main businesses (include cloud rail).  
-Figure 17: Sales breakdown 
- 
-Source: Company data, CMBIS 
-Figure 18: GP breakdown 
- 
-Source: Company data, CMBIS 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-12 
-Auto - Leading market position in NEV market 
-The automotive segment includes two parts, internal combustion engine (ICE) and new 
-energy vehicles (NEV). BYD’s ICE sales was generally following a declining trend from 
-2014 to 2019 with squeezed market shares due to intensified market competition. In 
-reverse to ICE, NEV sales was following an increasing trend, experienced rapid growth 
-from 2015 to 2018. NEV will be our key focus in the automotive segment.  
-The Company has sold a total of 461.4K vehicles in 2019, a decrease of 11.4%YoY, due 
-to the overall market slowdown. Among the total sales, 231.9K of which are ICE, down 
-15.0%YoY whereas 229.5K of which are NEV, down 7.4%YoY. In the field of ICE, SUV 
-accounts for 52%; MPV accounts for 27%; and sedan accounts for 21% in terms of sales 
-volume. In 2019, auto business achieved revenues of RMB63.3bn, a drop of 16.8%YoY.  
-Figure 19: Total sales volume 
- 
-Source: Company data, CMBIS estimate 
-Figure 20: Sales trends by vehicle type 
- 
-Source: CPCA, CMBIS 
- 
-Figure 21: ICE sales volume 
- 
-Source: Company data, CMBIS 
-Figure 22: ICE sales by vehicle type in 2019 
- 
-Source: Company data, CMBIS 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-13 
- 
-NEV Highlight 1 – Comprehensive NEV types and technical routes 
+class NEV cars also rose from 4%/0% in 2018 to 13%/3% in 2019. The breakthrough of
+NEV towards high-end vehicles reflects that consumers have begun to recognize
+NEV as comparable with ICE.
+In 2019, the Tesla Shanghai plant's commencing production marked the official localization
+of Model 3. At the same time, we also observe that many big names in ICE were also
+accelerating the pace in electrification. For example, BBA (Daimler EQ series, BMW i series,
+and Audi e-tron series) have accelerated its electrification strategies from 2020. We expect
+a number of new models at different class-levels to be roll out by a variety of OEMs, forming
+a complete product line in NEV industry. The market is expecting the B/C class EV market
+will start to compete with ICE from 2020.
+We believe the breakthrough will likely intensify competition between NEV manufacturers
+and ICE OEMs, but this will also create opportunities such as significantly increasing the
+NEV market sales volume as well as ASP boom with increasing high-end vehicle sales.
+Source: EV Sales, CMBIS
+NEV sales to reach 6.22mn units in 2025E with a CAGR of 43% in
+2020-25E
+Short-term bumpy: EV sales to decline 15% YoY to 1.02mn units in 2020E
+We expect the NEV sales to be 1.02mn units in 2020E, down 15% YoY. In 2019, China's
+NEV production/sales were 1.24mn/1.21mn units, down 2.3%/4.0% YoY, respectively.
+Looking back on 2019, the subsidies for NEV experienced a steep decline with a maximum
+retreat of more than 50%, due to the subsidy transition period exited at the end of Jun 2019.
+As a result, the rising retail price of NEV affected its relative competitiveness compared
+with ICE. Since Jul 2019, NEV sales started a path heading south until the end of 2019.
+Oct and Nov 2019 read dramatic decline of 46% and 44% YoY, respectively.
+At the beginning of 2020, CAAM forecasts that China's NEV sales will be about 1.20mn
+units in 2020E at similar level as in 2019. However, since the supply side was seriously
+disrupted, the total output in 1H20 has declined by 36.5% YoY. While demand had
+disappeared given the negative income effects affected by COVID-19 in 1Q20, NEV sales
+volume recorded only 393K in 1H20, down 37.4% YoY. As we expect policy support
+measures should underpin the sales performance, we believe NEV will achieve an increase
+of 10% YoY in 2H20E. As a result, we revise down our NEV sales forecast to 1.02mn units
+in 2020E, a decline of 15%YoY.
+Source: CAAM, CMBIS
+Medium-term growth to accelerate with a jump in 2021E
+Although the subsidy retreats in 2020 are better than previously expected, three critical
+factors, namely "reducing costs, improving battery life, and ensuring safety" will still be the
+key tasks for the whole NEV industry in the medium-term, which will likely prompt
+technological progress and meet customer demands. As we forecast below, NEV
+production and sales volume derived from "double credit regulation" will jump significantly
+in 2021E, making 2020E a perfect stage to accumulate related shares in NEV sector.
+Figure 13: Production derived from double credit
+1,000,000
+Source: MIIT, CMBIS estimates
+Long-term growth to be enormous with 43% CAGR in 2020-25E
+Even though the cost of NEV will gradually decrease in the next three years, the retail price
+will still be higher than the same grade of ICE without any subsidy. Given full recognition
+of this fact, the government has already extended the subsidy by three years as compared
+with the initial plan in 2020. Beyond financial subsidy, we expect that other trends such as
+(1) double credits; (2) technical support; (3) battery charge subsidy at the operation side
+may provide additional support.
+As we mentioned earlier, we expect the cost parity with ICE will be achieved between
+2023E and 2025E in terms of production cost. According to "Research on the Development
+to 10 years to reach cost parity with ICE in terms of comprehensive cost. Therefore, we
+believe that a surge in sales volume of NEV may happen in the coming 3-5 years as the
+cost gap is shrinking rapidly. The market share of NEV will expand at accelerated speed
+when cost parity nearly achieves.
+We expect the real demand, especially A to C class NEV, will start to release shortly from
+2020. As a result, both ASP for NEV and for components (power battery/IGBT) will rise as
+the proportion of higher-class increases.
+Starting from 2023E, we expect NEV sales volume to grow at an increasing speed with
+improving sales structure. We take the penetration rate of 25% in 2025E set by MIIT as
+given. We expect that the sales volume of NEV in China will be 6.22mn units in 2025E
+with a CAGR of 43% between 2020E and 2025E. Both NEV OEMs and related NEV
+parts/components companies will benefit from the future rapid growth, in our view.
+Source: IEA, CMBIS
+Source: GGII, CMBIS estimates
+Source: CAAM, CMBIS estimates
+Why do we prefer BYD?
+BYD is one of the first few auto OEMs that invested in the NEV in China. The Company
+has accumulated a great amount of technical knowledge while earning increasing brand
+recognition. BYD has established leading market position in NEV sales. In 2019 in terms
+of sales volume in a global context, BYD was ranked No.2 for total NEV sales; No.3 for
+BEV sales; and No.1 for PHEV sales. We think BYD is well in the position to embrace the
+opportunities that will arise with the enormous growth potential from the NEV market.
+As a conglomerate, BYD is in the leading position in numbers of its business area, such as
+NEV, power battery, IGBT, Cloud rail, Headset electronics, etc. In 2020-21E, we think BYD
+has several eye-catching highlights, sequence by
+1) releasing DM4.0 platform in 4Q20 to defense and enlarge it NEV market shares
+through PHEV;
+2) new launching cycle from 2H20E, especially its flagship model, "Han" to boost NEV
+sales volume;
+3) launching the new blade battery could be a potential game-changer in the power
+battery market;
+opening up battery supply to external customers from its "FinDreams" supply chains;
+and
+introducing strategic investors, and expressed the intention to sell its IGBT module
+externally
+The business: Auto segment accounts the most for revenue and gross profit
+contribution
+BYD's main business can be divided into Automobiles and Related Products (internal
+combustion engine and new energy vehicles), Handset Components and Assembly
+Services, Rechargeable Batteries and Photovoltaic, and Other business (urban rail
+transportation). In 2019, the Company achieved sales revenue of RMB127.7bn, of which
+49.5% came from the auto and parts, 41.8% came from the handset components and
+assembly business, 8.2% came from the secondary rechargeable battery business
+(excluding car power batteries), and the remaining 0.5% came from other main businesses
+(include cloud rail). In 2019, GP was RMB20.8bn, of which 66.5% came from the auto and
+parts, 24.0% came from the handset components and assembly business, 9.4% came from
+the secondary rechargeable battery business (excluding car power batteries), and 0.1%
+came from other main businesses (include cloud rail).
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Auto - Leading market position in NEV market
+The automotive segment includes two parts, internal combustion engine (ICE) and new
+energy vehicles (NEV). BYD's ICE sales was generally following a declining trend from
+2014 to 2019 with squeezed market shares due to intensified market competition. In
+reverse to ICE, NEV sales was following an increasing trend, experienced rapid growth
+from 2015 to 2018. NEV will be our key focus in the automotive segment.
+The Company has sold a total of 461.4K vehicles in 2019, a decrease of 11.4%YoY, due
+to the overall market slowdown. Among the total sales, 231.9K of which are ICE, down
+15.0%YoY whereas 229.5K of which are NEV, down 7.4%YoY. In the field of ICE, SUV
+accounts for 52%; MPV accounts for 27%; and sedan accounts for 21% in terms of sales
+volume. In 2019, auto business achieved revenues of RMB63.3bn, a drop of 16.8%YoY.
+Source: Company data, CMBIS estimate
+Source: CPCA, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+NEV Highlight 1 – Comprehensive NEV types and technical routes
 BYD is one of the first few auto OEMs that invested in the NEV in China. Given first-
-mover advantage, the Company has accumulated a great amount of technical knowledge 
-while earning strong brand recognition. The Company has a high-level strategic agenda, 
-namely "7+4", covering seven types of vehicles such as PV, city bus, taxis, logistics, etc. 
-and in four special application scenarios such as warehousing, ports, airports, and mines. 
-In 2019, BYD was ranked No.2 globally in terms of NEV sales volume. Among them, its 
-BEV was ranked No.3 while PHEV ranked No.1 globally.  
-In 2019, PV accounted for 96% of its NEV sales while CV accounted for 4%. Its market 
-share in China has perfectly reflected BYD’s first-mover advantage and great product 
-recognition. In 2019, BYD ranks No.1 in the NEPV market with a market share of 21%. In 
-addition, BYD ranks No.4 in the NEV bus market with a market share of 8%. 
-Figure 23: NEV sales volume 
- 
-Source: Company data, CMBIS 
-Figure 24: NEV vehicle sales by type in 2019 
- 
-Source: Company data, CMBIS 
- 
-Figure 25: NEPV market share in 2019 
- 
-Source: GGII, CMBIS 
-Figure 26: NEV bus (6 meter+) market shares in 2019 
- 
-Source: 360buses, CMBIS 
- 
-In the NEPV field, BYD has two series models, namely Dynasty (Qin, Tang, Song, Yuan, 
-etc) and e series (e1, e2, S2). Dynasty models are priced ranging from RMB70K to 
-RMB260K. In 2019, BYD launched its e series, including e1/e2/e3/S2, which will focus on 
-mass-market with a price range at RMB60K to RMB140K. In Jul 2020, BYD launched a 
-brand new model, Han, with a price range from RMB220K to RMB280K. The new models 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-14 
+mover advantage, the Company has accumulated a great amount of technical knowledge
+while earning strong brand recognition. The Company has a high-level strategic agenda,
+namely "7+4", covering seven types of vehicles such as PV, city bus, taxis, logistics, etc.
+and in four special application scenarios such as warehousing, ports, airports, and mines.
+In 2019, BYD was ranked No.2 globally in terms of NEV sales volume. Among them, its
+BEV was ranked No.3 while PHEV ranked No.1 globally.
+In 2019, PV accounted for 96% of its NEV sales while CV accounted for 4%. Its market
+share in China has perfectly reflected BYD's first-mover advantage and great product
+recognition. In 2019, BYD ranks No.1 in the NEPV market with a market share of 21%. In
+addition, BYD ranks No.4 in the NEV bus market with a market share of 8%.
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: GGII, CMBIS
+Source: 360buses, CMBIS
+In the NEPV field, BYD has two series models, namely Dynasty (Qin, Tang, Song, Yuan,
+etc) and e series (e1, e2, S2). Dynasty models are priced ranging from RMB70K to
+RMB260K. In 2019, BYD launched its e series, including e1/e2/e3/S2, which will focus on
+mass-market with a price range at RMB60K to RMB140K. In Jul 2020, BYD launched a
+brand new model, Han, with a price range from RMB220K to RMB280K. The new models
 have enriched the product matrix and filled-in the product gap in the lower-/higher-
-end, which is expected to bring new growth.  
-In the NECV field, the main products include EV bus, EV coach, EV trucks and special CV, 
-etc. BYD has chosen BEV strategy in its CV market. Up to now, BYD has successfully sold 
-its EV bus in six continents and more than 50 countries, reflecting its global presence and 
-brand recognition. 
-Figure 27: Product matrix 
-EV 
-Hybrid 
-Fuel 
-CV 
-Tang EV 
-Tang DM 
-Tang 
-K6/7/8/8S/9 
-Song Pro EV 
-Song DM 
-Song/Song Pro 
-e5/6 
-Song Max EV 
-Song Max DM 
-Song Max 
-C6/7/8 
-Qin Pro EV 
-Qin Pro DM 
-Qin Pro 
-T3/4/5/7 
-Qin EV/EV 450 
-Qin DM 
-Qin 
-Special CV 
-Yuan EV/EV360 
-Han DM(NEW)  
-F3 
-  
-e1/2/3 
-  
-SuRui 
-  
-S2 
-  
-  
-  
-Han EV(NEW) 
- 
- 
- 
-Source: Company data, CMBIS 
-Figure 28: Qin 
- 
-Source: Autohome, CMBIS 
-Figure 29: Tang 
- 
-Source: Autohome, CMBIS 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-15 
-Figure 30: Song 
- 
-Source: Autohome, CMBIS 
-Figure 31: Yuan 
- 
-Source: Autohome, CMBIS 
- 
-Figure 32: Han 
- 
-Source: Autohome, CMBIS 
-Figure 33: e5(Taxi version) 
- 
-Source: Autohome, CMBIS 
- 
- 
-NEV Highlight 2 – Introduce international talents to improve product power 
-BYD introduces international talents to the team. As a Chinese company that goes 
-global, BYD actively seeks talents with different cultural backgrounds. They specialize in 
-areas of vehicle design, interior, and exterior decoration, NVH, chassis adjustment, etc. 
-The table below summarizes credentials of international experts and their responsible 
-areas. By hiring globally, BYD is able to absorb different ideas and enhance its product 
-performance and customer recognition. 
-Figure 34: International experts in different fields 
-Designer 
-Responsible Area 
-Former Employer 
-Wolfgang Egger 
-Design "Dragon Face" 
-Audi 
-JuanMa Lopez 
-Exterior 
-Ferrari 
-Michele Jauch-Paganetti 
-Interior 
-Mercedes Benz 
-Heebum CHA 
-NVH 
-Geely 
-Heinz Keck 
-Chassis adjustment 
-Mercedes Benz 
-Kevin E Wale 
-Strategy 
-GM 
-Source: Company data, CMBIS 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-16 
- 
-NEV Highlight 3 – High R&D Investment 
-BYD has been consistently invested in cutting-edge technology. In 2019, the 
-Company has R&D expenses of RMB4,141mn, representing 3.24% R&D expense to 
-revenue ratio, which was the highest since 2014. The annual patents of BYD increased 
-24,875 in 2019 from 130 in 2004, as a result of heavy R&D investments. BYD also 
-accumulated various technology advantage such as vehicle manufacturing, power battery, 
-and IGBT chip, etc. 
-Figure 35: R&D Expense/Expense ratio 
- 
-Source: Company data, CMBIS 
-Figure 36: Number of patents 
- 
-Source: SIPO, Wind, CMBIS 
- 
- 
-NEV Highlight 4 - DM4.0 Technology 
-We believe PHEV will outperform BEV in the overall NEV market in medium-term 
-given 1) policy shift; 2) cost advantage and 3) persistent mile range anxiety. Wan 
-Gang, Minister of Science and Technology, said that "the development of a high-efficiency 
-electromechanical hybrid system is the direction of our NEV". Recent updates on the 
-“Double credit” policy also tilts more to PHEV. It is commonly believed that PHEV will reach 
-cost parity sooner than that of BEV by the market. We also expect the mile range anxiety 
-will last in the future for a considerable period. We think consumers would prefer PHEV in 
-which BYD has a comparative advantage. Among the global NEV sales in 2019, 
-BEV/PHEV/FCV accounted for 74.6%/25.0%/0.4% respectively. We expect PHEV to 
-enlarge its overall shares in the medium-term. 
-Figure 37: Global NEPV ranking by auto group in 
-2019 
- 
-Source: GGII, CMBIS 
-Figure 38: Global NEPV sales by technology routes 
-in 2019 
- 
-Source: GGII, CMBIS 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-17 
- 
-Figure 39: Global BEV PV sales ranking in 2019 
- 
-Source: GGII, CMBIS 
-Figure 40: Global PHEV PV sales ranking in 2019 
- 
-Source: GGII, CMBIS 
- 
-Figure 41: Technology route forecast by IHS Markit 
- 
-Source: IHS Markit, CMBIS 
-Figure 42: Sales by power type in China 
- 
-Source: Wind, CMBIS 
- 
-In addition to overall PHEV market growth, BYD also has cutting-edge dual-mode 
-technology to support PHEV products. BYD expects to launch its 4th-generation PHEV 
-technology, Dual-Mode 4.0(DM4.0), in 4Q20E. DM4.0 consists of DM-p and DM-i platforms. 
-DM-p will shape its focus on power output. Han DM will be the first model equipped with a 
-DM-p platform. DM-i platform mainly focuses on the cost economy. We believe DM-i will 
-likely to help achieve the cost parity with ICE. If BYD can successfully achieve this goal, it 
-will help the Company 1) reiterate its brand recognition; 2) expand its market share by 
-utilizing the cost advantage. We expect BYD PHEV will have a strong performance and will 
-regain market share in 2021E prompted by new car models equipped with DM4.0 to launch. 
- 
-NEV Highlight 5 – To B business 
-BYD takes advantage of its first-mover advantage and has a strong economic moat 
-in the fields of EV taxi, EV ride-hailing vehicle, and EV city bus. For example, in 2019, 
-about 60K units of EV were sold to operating entities, accounting for 27% of its NEPV sales 
-volume. It commonly believes that the replacement cycle for a taxi is six years. If we mark 
-2015 as the beginning of the electrification among China's operating vehicles, we expect 
-that China's EV taxis/ride-hailing vehicle will start the first renewal cycle with an annual 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-18 
-proportion of 10-15% in the short-/medium- term. BYD, as the first batch of companies that 
-provide EV operating vehicles, will maintain a competitive advantage in the B field. 
- 
-NEV Highlight 6 – new launching cycle in 2H20E–2021E 
-Launching blade batteries and Han models will be marked as the origin of the new 
-product cycle, in our view. Han, a flagship B+ class vehicle, has accumulated over 20K 
-bookings as of now. We believe the monthly sales of Han will reach 3K to 4K with a potential 
-surprise. As previously mentioned, all DM models will equip with DM4.0 in later 2020E. A 
-new product cycle will revert its less-than-demanding performance in 1H20. 
- 
-Sales forecast 
-BYD’s NEV market share declined slightly from 19.7% in 2018 to 19.0% in 2019, due to 
-subsidy withdrawal which brought negative impacts to NEV sales. However, given the six 
-advantages discussed above, we expect BYD to start regain market share in the NEV 
-sector as the NEV market normalizing back to its trajectory. We expect its market 
-share in the NEV market will bounce back from 18.2% in 2020E to 18.8%/19.1% in 
-2021E/22E. In terms of ICE, we expect BYD also to slightly lose shares as market 
-competition intensifies. 
-Figure 43: Market share in China NEV Market 
- 
-Source: Company data, CMBIS estimate 
-Figure 44: ICE market share 
- 
-Source: Company data, CMBIS estimate 
- 
-Figure 45: Monthly sales: YoY growth 
- 
-Source: Company data, CMBIS 
-Figure 46: NEPV sales proportion by power type 
- 
-Source: Company data, CMBIS 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-19 
-Figure 47: NECV sales proportion by vehicle type 
- 
-Source: Company data, CMBIS 
-Figure 48: ICE sales proportion by vehicle type 
- 
-Source: Company data, CMBIS 
- 
- 
-Financial forecast 
-Affected by multiple factors such as the emission standard switch/subsidy retreat, NEV 
-sales in China were only 1.21mn units in 2019, down 4.0% YoY. BYD's NEV sales volume 
-was 230K in 2019, representing a decrease of 7.4%YoY. Affected by COVID-19, we think 
-the sales of NEV in China in 2020E will face great pressure as in 2019. However, we have 
-already observed that the central government had extended the subsidy schedule until 
-2022E from its original subsidy exit plan of 2020E. In addition, a variety of regions have 
-also introduced a local subsidy to boost NEV purchase in 2020E. Therefore, we expect the 
-sales volume of NEV in China will be to 1.02mn units, a strong rebound from 1H20, but still 
-indicating a decrease of 15%YoY. 
-We believe that BYD's launch of new batteries (Blade battery) and new models(Han) 
-will support its overall sales. BYD will also release its DM4.0 version PHEV across its all 
-major models in 4Q20E. At the same time, Guangdong and Shenzhen have introduced 
-NEV subsidy policies that will likely to support BYD's NEV sales. Even though BYD’s NEV 
-sales underperformed the market in 1H20, we remain confident in its performance in 2H20 
-and going forward. We expect BYD’s new car model launching cycle with cutting the edge 
-technologies will help the Company further improve its brand recognition, which will support 
-NEV sales. In 2020E, we forecast NEV will have a sales volume decline of 19% YoY (NEPV 
--19%/NECV -10%) with NEV sales volume of 186.3K units. We forecast ASP for NEV will 
-rise by 7% in 2020E as vehicle type/product mix changes. In 2021-22E, we expect NEV 
-sales volume to pick up rapidly to 319.9K/514.4K unites, respectively, while ASP to 
-maintain upward trends as NEV sales shift to high end models.  
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-20 
-Figure 49: NEV Sales forecast 
- 
-Source: Company data, CMBIS estimate 
-Figure 50: NEV ASP forecast 
- 
-Source: Company data, CMBIS estimate 
- 
-For ICE, we expect the rollout of Song Plus will underpin the ICE performance. 
-Specifically, we expect the sales volume of its ICE will be 209K in 2020E, a decline of 
-10%YoY. We expect the ASP for ICE will increase slightly to RMB105K in 2020E, an 
-increase of 5.0%YoY as the proportion of higher-class product increases. 
-Figure 51: ICE Sales forecast 
- 
-Source: Company data, CMBIS estimate 
-Figure 52: ICE ASP forecast 
- 
-Source: Company data, CMBIS estimate 
- 
-The aggregate sales volume will grow at -14.4%/34.1%/36.7% to 395K/530K/724K in 
-2020E/21E/22E. The aggregate ASP will grow at 5%/9%/10% to RMB144K/157K/173K in 
-2020E/21E/22E. As a result, we forecast the new car sales revenue will maintain a growth 
-rate at -10%/47%/51% to RMB57/83/125bn in 2020E/21E/22E. 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-21 
-NEV parts business 
-BYD was one of the auto OEMs that invested heavily in the NEV field and has 
-increasingly shifted its focus to NEV business. With the continuous investment in R&D, 
-the Company has accumulated technical advantage in the core technology of NEV supply 
-chains such as power battery and IGBT. Beside, BYD also has technological accumulation 
-in both EV and Hybrid technical routes. We believe the subsidy retreat happening now will 
-lead to NEV sector consolidation and will radically change the over-supply condition. We 
-believe BYD not only has adequate demand to survive this winter but also has the 
-capability/capacity to become a major supplier for other NEV OEMs when this consolidation 
-phase passes. 
- 
-Reorganizing the internal supply chain 
-The Company initially adopted a vertical integration model in its NEV supply chain 
-which internalized all production nodes in auto production (model design, mold 
-development, key parts design and manufacturing, assembly, quality control, sales 
-channel management, etc.). The vertical management model enables the Company to 
-accomplish technology accumulation in all production aspects. However, it also induces 
-higher management costs/production cost.  
-From 2017, BYD gradually opened up its supply chain. From the perspective of the supply 
-side, purchasing parts/components from the outside vendor can improve the quality of parts, 
-reduce procurement costs and management costs. From the perspective of the demand 
-side, the Company can monetize its advantages in parts/components (power batteries, 
-IGBT, etc) to foster new income sources and improve the performance of the automotive 
-sector. 
-Figure 53: Open up the supply chain 
- 
-Source: CMBIS 
- 
- 
-“FinDreams” 
-On 16 Mar 2020, BYD announced the establishment of five subsidiary companies 
-collectively known as “FinDreams (FinDreams Battery, FinDreams Vision, 
-FinDreams Technology, FinDreams Power and FinDreams Mould)”. The FinDreams 
-covers different businesses ranging from power batteries, semiconductors, chassis, and 
-other fields. It marked that BYD's supply chain reform has moved into a new stage. It is 
-also a big step forward for BYD to underpin its e-platform strategy. 
- 
- 
-•Reduce procurement costs
-•Reduce management costs
-•Improve the quality of some parts
-Supply-side
-•Increase segment income
-•Improve overall valuation
-Demand-side
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-22 
-We think BYD’s value will be highly dependent on its opening supply chain strategy for its 
-NEV parts business. We will focus on two of the key parts, namely the power battery 
-business and the semiconductor business, in our following discussion in this report.  We 
-think the future performance of “FinDreams” will be a critical factor for BYD and its valuation.  
-Figure 54: “FinDreams” 
-Names 
-Chinese Names 
-Business 
-FinDreams Battery 
-弗迪电池有限公司 
-Lithium battery, BMS 
-FinDreams Vision 
-弗迪视觉有限公司 
-Automotive lighting and signal system 
-related products 
-FinDreams Technology 
-弗迪科技有限公司 
-Automotive electronics and chassis 
-FinDreams Power  
-弗迪动力有限公司 
-Automotive powertrain 
-FinDreams Mould 
-弗迪模具有限公司 
-Automotive mould 
-Source: Company data, CMBIS 
-1. Power battery 
-BYD’s power battery was previously used for internal supply only. However, BYD 
-expressed the intention for external sales given that 1) power battery market has giant 
-demand high growth potential insight, and 2) the Company had accumulated technology 
-advantages in battery cost leadership and safety performance. According to BYD, several 
-OEMs had entered discussions with the Company. After the initial trial phases, we expect 
-BYD power battery to have external shipments from 2021, and to reach high shipment 
-growth in 2022E. We estimate the external shipment of BYD batteries to be 
-0.1/2.6/18.7GWh in 2020E/21E/22E respectively. The corresponding revenue will reach 
-RMB0.1/2.0/13.7bn in 20E/21E/22E. In 2025E, we forecast BYD will sell 72.0GWh 
-externally with a corresponding revenue of RMB46.1bn. 
- 
-Overview in the power battery industry 
-The power battery value chain can be divided into three sectors: raw materials in upstream, 
-production in midstream, and application in downstream. The power battery system can be 
-simply divided into hardware and software (BMS). The hardware includes a variety of levels 
-in the production-side, namely cell, module, and the final battery pack. The cell can also be 
-further divided into positive and negative electrodes, electrolytes, and separators. These 
-are derived from the raw materials, which are upstream of the whole value chain.  
-The upstream of power batteries is mainly dominated by mineral resources such as cobalt, 
-manganese, nickel, and lithium. Cobalt, manganese, nickel, lithium, and other raw 
-materials are used as positive electrode materials. Lithium ore is also used for both 
-negative electrode and electrolyte. Graphite is mainly used for the negative electrode. The 
-midstream includes the manufacture of the positive electrode, negative electrode, 
-electrolyte, and separator. The downstream of power batteries are mainly OEMs and 
-energy storage sectors. 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-23 
-Figure 55: Power battery value-chain  
- 
- 
-Source: CMBIS  
- 
-Power battery type 
-Power batteries can be mainly classified into two categories, LFP(LiFePO4) batteries 
-and ternary lithium batteries (including nickel cobalt manganese (NCM), nickel 
-cobalt aluminum (NCA)). Other types such as lithium manganese battery, lithium titanate 
-battery, super capacitor, have a relatively small proportion. One form of power battery, 
-namely solid-state battery, may potentially destruct the current landscape. However, we 
-believe that the technology of solid-state batteries was immature. It is expected to achieve 
-full commercialization around 2030E. Therefore, we still focus on LFP and ternary lithium 
-batteries here. 
-In general, LFP has the characteristics of good safety and low cost while the ternary 
-battery has a longer mile range given higher energy density. Due to the difference in 
-application scenarios, about 93% of BEV buses were equipped with LFP while about 74% 
-of BEV PV were installed with ternary lithium batteries.  
-Figure 56: Comparison between major battery type 
-Battery type 
-Advantages 
-Disadvantages 
-LFP 
-Good safety and low cost 
-Low energy density and inferior performance in low temperature  
-Ternary lithium 
-High energy density 
-High price and thermal instability 
-Source: CMBIS 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-24 
-According to GGII, in 2019, the total NEV that installed with power battery in China 
-was 1.18mn units, a decrease of 4%YoY. Among them, 916K of which were installed 
-with ternary batteries, accounting for 78% of total NEV; LFP was installed on 169K vehicles, 
-accounting for 14% of total NEV. 
-Figure 57: Monthly installed units by battery type in 
-2019 
- 
-Source: GGII, CMBIS 
-Figure 58: Installed units by battery type in 2019 
- 
- 
-Source: GGII, CMBIS 
- 
-According to GGII, in 2019, the total installed capacity power battery was 62.3GWh 
-an increase of 9%YoY. Among them, the installed capacity of ternary batteries was 
-38.4GWh, accounting for 61% of the total installed; the installed capacity of LFP was 
-20.0GWh, accounting for 32% of the total installed. 
-Figure 59: Monthly installed capacity by battery type 
-in 2019 
- 
-Source: GGII, CMBIS 
-Figure 60: Installed capacity by battery type in 2019 
- 
- 
-Source: GGII, CMBIS 
- 
-In the early stage of NEV development, the Chinese government adopted a whitelist 
-for power battery to foster the local industry. OEMs could receive financial subsidy only 
-if its power battery suppliers were admitted into the official power battery whitelist. A total 
-of 57 battery companies have been admitted to the list including CATL, Guoxuan Hi-Tech, 
-Lision, Optimum whereas foreign brands such as Samsung SDI, LG, Panasonic were all 
-excluded from the list. In Jun 2019, MIIT officially abolished whitelist marking the inception 
-of the new competition stage. The domestic power battery player will, therefore, face fiercer 
-competition from overseas giants such as LG and Samsung SDI. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-25 
-Figure 
-61: 
-Installed 
-capacity 
-ranking 
-in 
-2019:domestic player 
- 
-Source: APBIIA, CMBIS 
-Figure 62: Number of power battery companies in 
-China 
- 
-Source: GGII, APBIIA, CMBIS 
- 
-At the end of 2019, we can simply divide the power battery manufacturing 
-enterprises into three echelons. The first echelon includes CATL, Panasonic, BYD, LG, 
-Samsung SDI. The second consists of Farasis, Evebattery, Lision, Guoxuan Hi-tech, etc. 
-The third echelon comprises other small manufacturing enterprises. We calculated that 
-CR3 in the power battery industry reached 57%; CR5 reached 68%; CR10 reached 81% 
-in 2019. Since 2015, the number of power battery companies has gradually decreased 
-which reflecting the intensification of market competition. We expect that under the 
-pressure of cost reduction, top tiers will continue to gain market shares which makes the 
-industry further integrated. 
- 
-Technical roadmap 
-We believe the economies of scale will outweigh the technology process in the 
-process of cost reduction. There is a dispute about the technical route in the field of 
-power batteries. 
-Figure 63: Ternary lithium battery 
- 
-Source: CMBIS 
-Figure 64: LFP battery 
- 
-Source:  CMBIS 
- 
-Mile range 
-demand 
-from 
-custmer
-Subsidy 
-demand 
-from OEM
-Ternary 
-Lithium 
-Battery
-Safty 
-demand 
-from 
-custmer
-Cost 
-demand 
-from OEM
-LFP
-Battery
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-26 
-Figure 65: Element function in ternary lithium battery 
-Chemical element 
-Function 
-Nickel 
-Improve mile range 
-Cobalt 
-High discharge rate 
-Manganese 
-Improve safety 
- 
-Source: CMBIS 
-Figure 66: China Power battery in 2019 by shape 
- 
-Source:  GGII, CMBIS 
- 
-In the ternary lithium battery technical route, the development direction is determined to be 
-high nickel, which mainly solves the problem of mile range. At the same time, due to the 
-scarcity and monopoly of cobalt resources, high nickel also minimizes the supply chain risk. 
-The 811 monomer energy density can reach 280Wh/kg. According to SMM, NCM811 
-ternary precursor is still 29% more expensive than NCM523 ternary precursor. 
-Figure 67: Price: Cobalt vs Nickle 
- 
-Source: LME, CMBIS 
-Figure 68: Price: Positive electrode material 
- 
-Source:  Wind, CMBIS 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-27 
- 
-Figure 69: Price: Anode material 
- 
-Source: LME, CMBIS 
-Figure 70: Price: Lithium hexafluorophosphate 
- 
-Source:  Wind, CMBIS 
- 
-Figure 71: Ternary lithium battery in Jun 2020 
-Ternary precursor 
-Price(RMB K/tonne) 
-NCM523 
-72 
-NCM622 
-80 
-NCM811 
-93 
-Source: SMM, CMBIS 
- 
-BYD will change the game - Blade battery 
-However, BYD chose to focus on LFP battery development. BYD has consistently 
-optimized the physical structure of the LFP battery in order to improve its mile range by 
-increasing the system energy density.  
-In 2019, BYD has deployed NCM on all PVs while used LFP on all CVs. The situation has 
-changed recently as BYD released its blade battery on 29 Mar 2020. As one of LFP 
-batteries, the most important achievement of blade battery is that it improves the overall 
-energy density of the battery pack through process improvements, thereby overcoming the 
-disadvantage of short-range of LFP compared to NCM. In the meanwhile, it kept the 
-advantage of high safety and long lifespan of traditional LFP. In the nail penetration test, 
-the ternary battery can only achieve safety at the pack level, while the blade battery can 
-elevate it to the cell level. At the same time, the blade battery can make the new car NEDC 
-last more than 600 kilometers. It will be first used in Han EV in 3Q20E and then 
-subsequently equipped on Qin Pro, Qin EV, Song Plus, etc. in 4Q20E. 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-28 
-Figure 72: Physical structure improvement 
- Source: Company data, CMBIS 
-In terms of cost, the blade battery was 20-30% lower than the main-stream NCM811 
-at the pack level. In addition, luxury brands may focus more on safety as reputation risk 
-were greater than new entries. Such a significant cost advantage will provide great 
-competitive advantage overall in NCM. We believe power mass density/volume density will 
-increase further as BYD is in the process of R&D in the second generation of blade battery. 
-Figure 73: Blade battery 
- 
-Source: Company data, CMBIS 
-Figure 74: Blade battery test results 
- 
-Source: Company data, CMBIS 
- 
-We believe the release of its blade battery will totally change the competitive 
-landscape. While maintaining its safety nature of LFP, it has increased the mile range. As 
-a result, the blade battery broadens the application scenarios of LFP battery, enabling it to 
-be assembled in A to C-class NEVs. In the meanwhile, due to the nature of the ternary 
-lithium battery, the risk of thermal runaway when facing the acupuncture experiment is 
-higher than that of the LFP battery. We expect that BYD will focus on "safety" in the 
-marketing of blade battery so as to gain more market share in this sub-segment. Given 
-diverse demand from customers, blade battery will definitely fit in certain safety demands 
-and will gain more market shares. In other words, ternary lithium batteries will face 
-competition from its opponent. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-29 
-Figure 75: Trade-off between mile range and safety 
- 
-Source: CMBIS  
- 
- 
-Total power battery market size in China 
-According to the GGII, the total installed capacity of power batteries in China was 62.8GWh 
-in 2019. CATL was the dominant player in the power battery industry with a market share 
-of 51.8%. BYD was the 2nd largest player with a market share of 17.3%. 
-According to the CMBIS estimate, we forecast that the total installed capacity of power 
-batteries in China will be 55.6Gwh in 2020E, a decline of 10.8%YoY due to COVID-19 
-impacts. However, given CMBIS forecast on China’s NEV industry through 2025E, we 
-are confident that power battery installation will rebound back to its high growth 
-path in 2021E as NEV sales normalize to its high growth trajectory. 
-Figure 76: NEV sales forecast in China 
- 
-Source: CAAM, CMBIS estimate 
-Figure 77: Installed power in China 
- 
-Source: GGII, CMBIS estimate 
- 
- 
-Sales forecast 
-BYD has accumulated the technical advantage and production capacity as it 
-originated from the battery business. According to GGII, in 2019, the Company's 
-installed capacity was 197.6K units, with a market share of 16.8%; the installed power is 
-10.78GWh, with a market share of 17.3%.  
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-30 
-Figure 78: Installed vehicle units/market share in 
-China in 2019 
- 
-Source: Company data, CMBIS 
-Figure 79: Installed power/market share in China in 
-2019 
- 
-Source: Company data, CMBIS 
- 
-We expect BYD to have a total production capacity of 50GWh in 2020E, which is fully 
-capable of internal production. Among all production capacity, NCM/LFP/Blade accounts 
-for 30/10/10GW respectively. As of now, BYD has a total production capacity of a blade 
-battery of 10GWh, equivalent to about 180K units of the vehicle. In 2020E, we expect the 
-blade battery will prioritize internal supply as production was still in the ramp-up period. If 
-we take unit installed capacity of 54Wh, we expect a total production capacity of 0.93mn 
-units NEV in 2020E. BYD ranks No.2 in Chinese power battery supplier in terms of total 
-installed capacity with a leading position in battery density and safety aspects. Based on 
-our calculation, BYD has idle capacity for external sales. According to the Company’s 
-guidance, we expect the blade battery will be sold to external clients in late 2021E/early 
-2022E. 
-Figure 80: BYD’s Power battery production capacity 
-Power battery production capacity(GWh) 
-2019 
-2020E 
-2021E 
-2022E 
-2023E 
-2024E 
-2025E 
-Qinghai 
-24 
-24 
-24 
-24 
-24 
-24 
-24 
-Chongqing 
- 
-10 
-20 
-20 
-20 
-20 
-20 
-Xi'an 
- 
- 
-30 
-30 
-30 
-30 
-30 
-Changsha 
- 
- 
-20 
-20 
-20 
-20 
-20 
-Guangdong 
-16 
-16 
-16 
-16 
-16 
-16 
-16 
-BYD Changan 
- 
- 
-10 
-10 
-10 
-10 
-10 
-Capacity expansion 
- 
- 
- 
- 
-30 
-60 
-120 
-Total 
-40 
-50 
-120 
-120 
-150 
-180 
-240 
-Source:  Company data, CMBIS estimate 
- 
-Financial forecast 
-Given current production capacity, we believe its power batteries in 2020E will be mostly 
-installed internally. With the substantial increase in China’s NEV sales and capacity release, 
-we expect that the external shipment of power batteries will skyrocket from 2021E/22E. We 
-forecast the external shipment of BYD batteries to be 0.1/2.6/18.7GWh in 2020E/21E/22E 
-respectively. The corresponding revenue will reach RMB 0.1/2.0/13.7bn in 20E/21E/22E. 
-In addition, the Company has widely exploited in the supply chain upstream of power 
-batteries, including Lithium mine, the positive electrode, separator, electrolyte, etc., which 
-effectively guarantees the cost and the stability of its supply chain. BYD has widely 
-deployed in the upstream supply chain of power batteries, including salt lake lithium mine, 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-31 
-the positive electrode, separator, electrolyte, etc. By doing so, BYD is able to enforce cost 
-control measures while maintaining its supply chain stability. We believe the economies of 
-scale will realize, as the power battery will gradually sell to external customers, which will 
-ultimately reduce the unit cost. 
-We expect its power battery segment will get an independent listing on Starboard in 
-2022E, significantly lifting its segment valuation. 
-Figure 81: BYS’s power battery external sales forecast 
- (GWh,Unit) 
-2020E 
-2021E 
-2022E 
-2023E 
-2024E 
-2025E 
-Effective capacity 
-44.5 
-74.5 
-120 
-129 
-159 
-198 
-Effective capacity utilization 
-36% 
-43% 
-55% 
-65% 
-85% 
-87.0% 
-Production-sales ratio 
-64% 
-65% 
-75% 
-80% 
-85% 
-85% 
-Internal installed 
-       10.12  
-        18.24  
-        30.80  
-        44.04  
-        57.79  
-        74.42  
-External sales(power 
-capacity) 
-         0.13  
-         2.58  
-        18.70  
-        23.04  
-        57.09  
-        72.00  
-External sales(vehicle 
-units) 
-       2,471  
-      45,272  
-    312,214  
-    366,518  
-    864,694  
-  1,038,735  
-Source: Company data, CMBIS estimate 
-Figure 82: BYS’s power battery revenue forecast 
- (RMB mn) 
-2020E 
-2021E 
-2022E 
-2023E 
-2024E 
-2025E 
-Revenue 
- 108.7  
- 1,985.8  
- 13,661.0  
- 15,997.0  
- 37,646.0  
- 46,059.8  
-COGS 
- 86.92  
- 1,489.38  
- 9,835.92  
- 11,197.91  
- 25,222.83  
- 30,860.08  
-GP 
- 21.7  
- 496.5  
- 3,825.1  
- 4,799.1  
- 12,423.2  
- 15,199.7  
-GPM 
-20% 
-25% 
-28% 
-30% 
-33% 
-33% 
-Expense ratio* 
-14.00% 
-16.00% 
-16.00% 
-15.00% 
-15.00% 
-15.00% 
-NP 
- 7  
- 179  
- 1,639            2,152            5,621            7,535  
-NPM 
-6.0% 
-9.0% 
-12.0% 
-13.5% 
-14.9% 
-16.4% 
-YoY % 
-2641.5% 
-817.2% 
-31.2% 
-161.2% 
-34.1% 
-2021E-2025E CAGR 
- 
- 
- 
- 
- 
-155% 
-Source: Company data, CMBIS estimate 
-*Expense ratio includes S&A expense, R&D expense and Tax expense 
- 
-2. IGBT module 
-BYD’s IGBT is used for internal supply only as well. BYD semiconductor introduced 
-strategic investors and expressed the intention to sell its IGBT module externally. 
- 
- Overview in IGBT industry 
-IGBT (Insulated Gate Bipolar Transistor 绝缘栅双极型晶体管) is a composite fully 
-controlled voltage-driven power semiconductor device composed of BJT (bipolar 
-transistor) and MOSFET (insulated gate field effect transistor), which combines the 
-advantage of both BJT and MOSFET. IGBT is known as the "CPU" of power electronic 
-devices. 
-The power battery is generally stored as direct current and needs to be converted to 
-alternating current in order to drive the motor of EV (mainly classified as Permanent-magnet 
-synchronous motor 永磁同步电机 and AC asynchronous motor 交流异步电机). 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-32 
-Figure 83: IGBT chip technology development history 
-Generation 
-Technical characteristics 
-Chip 
-scale 
-Saturation 
-voltage 
-drop 
-Turn-off time 
-(microseconds) 
-Power 
-loss 
-Time 
-1st 
-Plane penetration type (PT) 
-100 
-3 
-0.5 
-100 
-1988 
-2nd 
-Improved plane penetration type (PT) 56 
-2.8 
-0.3 
-74 
-1990 
-3rd 
-Trench 
-40 
-2 
-0.25 
-51 
-1992 
-4th 
-Non-penetrating (NPT) 
-31 
-1.5 
-0.25 
-39 
-1997 
-5th 
-Field-Stop (FS) 
-27 
-1.3 
-0.18 
-33 
-2001 
-6th 
-Trench-type Field-Stop (FS-Trench) 
-24 
-1 
-0.15 
-29 
-2003 
-Source: SITRI industry research, CMBIS 
-IGBT directly controls the conversion of Direct Current/Alternating Current of the 
-drive system and also determines the maximum torque/maximum output power. In 
-addition to driving systems, IGBT was used on high-voltage chargers, air-conditioning 
-systems, and other electrical components of NEV. 
-IGBT chip is one of the critical components for EV engines. Due to design complexity, 
-sophisticated manufacture requirement, and a large investment, the IGBT sector has a high 
-entry barrier. For EV, the IGBT module accounts for about 50% of the cost of the motor 
-drive system/5%-10% of the total cost of the vehicle. Therefore, it is the 2nd-largest cost 
-component other than the power battery. It also determines the energy efficiency of the 
-vehicle. At present, about 90% of the IGBTs used in China depend on imports, most of 
-which are provided by Infineon, Mitsubishi, Fuji, ON Semiconductor, ABB. 
-Figure 84: IGBT 4.0 Wafer 
- 
-Source: Company, CMBIS 
-Figure 85: IGBT Module sales ranking 
- 
-Source: NE, CMBIS 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-33 
-Figure 86: Applications scenario of IGBT in China 
- 
-Source: Intelligence Research Group, CMBIS 
-Figure 87: China IGBT market size 
- 
-Source: Intelligence Research Group, CMBIS 
- 
- 
-BYD’s technology advantage and cost advantage 
-In 2005, BYD formed its own R&D team and started to invest in the IGBT industry. As 
-of now, BYD is a top auto OEM in China that has the capability of producing IGBT modules, 
-including IGBT chip design and manufacturing, IGBT module design and manufacturing, 
-QA platform, and NEV application.  
-In Dec 2018, BYD launched its IGBT 4.0. Its comprehensive loss is 20% lower than the 
-mainstream product while the temperature-cycle life is increased by more than 10 times. In 
-terms of cost, BYD has around one-third of cost advantage over a similar product. The 
-downstream application scenario covers A0 to B+ class vehicles while other main players 
-such as StarPower can only apply to A0 class vehicles. At the end of 2018, the yearly 
-production capacity of IGBT units was 600K. As of now, BYD has achieved a production 
-capacity of 1.2mn units per year. 
-On 14 Apr 2020, BYD announced that it had completed the internal transfer of its 
-wholly-owned subsidiary Shenzhen BYD Microelectronics Co., Ltd. through the 
-equity transfer and business transfer between its subsidiaries. Reorganized and 
-officially renamed BYD Semiconductor Co., Ltd. (hereinafter referred to as "BYD 
-Semiconductor"). BYD stated that it intends to introduce strategic investors by means of 
-the capital increase and share expansion, and actively seeks independent listing at an 
-appropriate time. However, after the completion of the introduction of strategic investors, 
-BYD Semiconductor will remain a subsidiary of BYD. At the same time, BYD is actively 
-deploying the next generation of semiconductor material SiC. The Company has 
-announced the successful development of SiC Mosfet, which is expected to improve the 
-performance of the entire vehicle by 10%. 
- 
-IGBT Market size forecast 
-According to "Intelligence Research Group", the global IGBT market size in 2018 was 
-USD5bn, an increase of 11.06%YoY. Of which, China was the world's single largest market 
-and has reached USD2.1bn market size, accounting for about 40% of the global IGBT 
-market. 
-According to GGII, China’s IGBT market will have a market size of RMB20bn in 2020E 
-driven by strong demand for NEV and charging piles. According to "Intelligence Research 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-34 
-Group", China's IGBT industry output will reach 78.2mn units while the demand will reach 
-196mn units by 2024E. 
-We estimate the total IGBT (NEV level) market size will reach RMB2.8bn in 2020E and 
-RMB18.3bn in 2025E. In 2019, the Company installed about 194K sets of NEV IGBTs 
-domestically, with a market share of 18% and a rank of 2nd place. 
-Figure 88: IGBT industry demand in China 
- 
-Source: Intelligence Research Group, CMBIS 
-Figure 89: IGBT (NEV level) forecast 
- 
-Source: CMBIS estimates 
- 
- 
-Financial forecast 
-Given its cost advantage, we believe BYD will materialize the import substitution in 
-the IGBT module industry. We expect that the external sales of the IGBT module will start 
-from 2021E/22E. We forecast the external shipment of IGBT to be 133K/274K in 
-2021E/22E respectively. The overall ASP will increase gradually as the proportion of higher 
-class increases. We forecast the corresponding revenue will reach RMB370/778mn in 
-2020E/21E. 
-We expect a surge in IGBT demand from NEV as NEV cost parity may materialize in 
-2023E. Therefore, we believe BYD will expand its IGBT production capacity in order to 
-meet downstream demand. In 2025E, BYD will sell 995K units of IGBT module externally 
-with revenue of RMB2.9bn. 
-We expect its power battery segment will get an independent listing on Starboard in 
-2021E, significantly lifting its segment valuation. 
-Figure 90: BYS’s IGBT external sales forecast 
- (Vehicle Unit in mn) 
-2020E 
-2021E 
-2022E 
-2023E 
-2024E 
-2025E 
-Production Capacity 
-       1.20  
-       1.20  
-       1.20  
-       1.20  
-       2.40  
-       2.40  
-Effective capacity utilization 
-16% 
-38% 
-66% 
-92% 
-75% 
-86% 
-Internal installed 
- 0.19  
- 0.32  
- 0.51  
- 0.70  
- 0.88  
- 1.07  
-External sales 
-0.00 
- 0.132  
- 0.274  
- 0.400  
- 0.915  
- 0.995  
-Unit price(RMB) 
- 2,779  
- 2,803  
- 2,826  
- 2,848  
- 2,924  
- 2,948  
-YoY % 
-0.9% 
-0.9% 
-1.2% 
-0.4% 
-2.7% 
-0.8% 
-Source: Company data, CMBIS estimates 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-35 
-Figure 91: BYS’s IGBT  forecast 
- (RMB mn) 
-2020E 
-2021E 
-2022E 
-2023E 
-2024E 
-2025E 
-Revenue 
- 370.1  
- 777.8  
- 1,138.4  
- 2,675.0  
- 2,932.8  
-GPM 
-30% 
-30% 
-30% 
-30% 
-30% 
-Exp ratio* 
-15% 
-15% 
-15% 
-15% 
-15% 
-NPM 
-15% 
-15% 
-15% 
-15% 
-15% 
-NP 
- 55.51  
- 116.66  
- 170.76  
- 401.26  
- 439.92  
-YoY% 
-110.2% 
-46.4% 
-135.0% 
-9.6% 
-2021E-2025E CAGR 
- 
- 
- 
- 
- 
-68% 
-Source: Company data, CMBIS estimate 
-*Expense ratio includes S&A expense, R&D expense and Tax expense 
-3. Consumer electronics (Component + Assembly Service) 
-BYD operates its consumer electronics segment through its subsidiary BYD 
-Electronics (285 HK). As one of the world's most comprehensive cell phone components 
-and assembly service providers, BYD provides a one-stop business model, including 
-design, component, and assembly services for domestic and foreign mobile phone 
-manufacturers. Its main customers include Apple, Samsung, Microsoft, Dell, Toshiba, 
-Hewlett-Packard, Huawei, Lenovo, and ZTE. 
-In recent years, BYD electronics has grown steadily in terms of revenue. In 2019, 
-BYD Electronics achieved revenues of RMB53.4bn, an increase of 26.4%YoY. However, 
-due to the slowdown in the smartphone market and the fierce competition, its bottom-line 
-drop to RMB1.65bn, a decline of 28.0% YoY.  
-BYD Electronics (285 HK) is covered by the CMBIS TMT team (Alex Ng). 
-Figure 92: PVH Technology 
- 
-Source: Company, CMBIS 
-Figure 93: 7 Series Aluminium Alloy 
- 
-Source: Company, CMBIS 
- 
- 
-Financial forecast 
-Due to different accounting in Mainland, China, and HKSAR, China, the revenue reported 
-by BYDE (285 HK) and the segment revenue in BYD (1211 HK) have a slight discrepancy. 
-Therefore, we take the growth rate forecast from the CMBIS TMT team as our key 
-assumption to keep the CMBI consistency. As a result, we believe the top-line for 
-handset components and assembly services will grow at 37.8%/12.8%/22.9% to 
-RMB74/83/102bn in 2020E/21E/22E. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-36 
-4. Secondary rechargeable batteries and photovoltaics 
-In the field of secondary rechargeable batteries, BYD carries layout covering the 
-entire supply chain, from the mineral resources to the final battery packs. It has 
-technical accumulations from battery design to module packing.  
-BYD’s current products include nickel-metal hydride batteries, lithium cobalt oxide batteries, 
-lithium iron phosphate batteries, ternary batteries, which are widely used in electronic 
-products, NEV, Energy storage, and other fields. 
-Through its rechargeable product, BYD also expands its business to the downstream 
-industry. It has also launched a variety of renewable energy solutions such as solar power 
-stations, energy storage power stations, electric forklifts, etc., providing a complete set of 
-renewable energy solutions from power generation to energy storage/consumption. 
-In 2019, the secondary rechargeable batteries and photovoltaics achieved revenue of 
-RMB10.5bn, an increase of 17.4%YoY. In 2020E, we expect this segment to maintain its 
-steady growth path. 
-Figure 94: Project type 
- 
-Source: Company, CMBIS 
-Figure 95: Project case study 
- 
-Source: Company, CMBIS 
- 
- 
-Financial forecast 
-According to CNESA, at the worst-case scenario, electrochemical energy storage will have 
-a total install capacity of 2,727MW in 2020E, an increase of 59.7%YoY; at the best-case 
-scenario, electrochemical energy storage will have a total install capacity of 3,092MW in 
-2020E, an increase of 80.9%YoY. Given the continued decline in battery prices and 
-demand from 5G base station construction, we are definitely optimistic about future 
-development of energy storage. For BYD, we expect the revenue from rechargeable 
-batteries and photovoltaic will be RMB13/14/16bn, an increase of 20%/15%/12% YoY 
-in 2020E. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-37 
-Figure 96: Types of energy storage in China 
- 
-Source: CNESA, CMBIS 
-Figure 97: Electrochemical energy storage in China 
- 
-Source: CNESA, CMBIS 
-5. Other business (Cloud rail/bus) 
-In Oct 2016, BYD released its first cloud rail prototype. Compared with traditional 
-subway/underground, cloud rail has advantages such as flexible route layout, low 
-construction cost, etc. At the end of 2019, many domestic cities include Yinchuan, Jining, 
-Bengbu, have expressed interest in Cloud rail while many foreign cities such as 
-Salvador(Brazil) also signed a construction contract with BYD. In 2019, other business 
-achieved revenues of RMB587mn, a decline of 79.5%YoY. 
-In 2020E, we believe the cloud rail business may surprise the market as two projects 
-(Shenzhen and Chongqing) was in great progress. We expect the market will have a 
-potential re-rating on its cloud rail segment as income gradually realizes. 
-Figure 98: Rendering – Cloud rail 
- 
-Source: Company, CMBIS 
-Figure 99: First Cloud rail project - Yingchuan 
- 
-Source: Company, CMBIS 
- 
- 
-Financial forecast 
-We only take cloud rail/bus as other businesses here. Given a more friendly policy 
-environment, we believe the cloud rail business may outperform its historical path. In 
-addition, we believe the fiscal policy will play a critical role in counter-cyclical adjustment 
-due to the negative impact of COVID-19 in 2020E. Therefore, we believe the local 
-government may expand its investment in urban transportation. Given the positive progress 
-in Shenzhen and Chongqing projects and the company’s guidance, we forecast that 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-38 
-revenue from the cloud rail business will be RMB5.9/7.3/8.8bn in 2020E/21E/22E, a 
-900.0%/25%/20%YoY increase. 
-Figure 100: Cloud rail revenue forecast  
- 
-Source: Company date, CMBIS estimate 
-Figure 101: Local government bond: special bond 
- 
-Source: MOF, CMBIS 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-39 
-Financial Analysis 
- 
-Revenue 
-The Company generates revenue through Automobiles and Related Products, Handset 
-Components and Assembly Services, Rechargeable Batteries and Photovoltaic, and Other 
-business. In 2019, revenue from auto and related products decreased by 16.8% YoY to 
-RMB 63.3bn, whereas revenue from handset components and assembly services 
-increased 26.4%YoY to RMB53.4bn. In 2019, revenue from rechargeable batteries and 
-photovoltaic increased 17.4% YoY to RMB10.5bn, whereas revenue from other businesses 
-decreased by 79.5% YoY to RMB587mn. 
-By summing up above each segment, we estimate the revenue for BYD will be 
-RMB149bn/190bn/267bn, an increase of 17%/28%/40% in 2020E/21E/22E. 
-Figure 102: Revenue forecast 
- 
-Source: Company data, CMBIS estimates 
-Figure 103: Revenue breakdown by segment 
- 
-Source: Company data, CMBIS estimates 
- 
- 
-Gross profit/Net profit(overall) 
-We believe four factors may put auto segment GPM into pressure in 1H20E given 1) BYD 
-has rolled e series which focus on the mass market; 2) great competition in overall NEV 
-market; 3) subsidy retreat; 4) COVID-19 impact. However, we still believe the GPM for NEV 
-in 2020E will exceed that of 2019E given 1) marginal YoY improvement in NEV industry 
-and 2) local subsidy support (i.e. Shenzhen). Therefore, we believe GPM from the auto 
-segment will slightly rise by 0.7ppt to 22.6% in 2020E. We take the GPM forecast for 
-Handset Components and Assembly Services from CMBI TMT. Specifically, we believe 
-GPM for this segment will be 10.1% in 2020E. We believe rechargeable batteries and 
-photovoltaic will keep its growth momentum with a GPM of 19.0% in 2020E. We believe 
-the GPM from the cloud rail business will rebound to 4.0% in 2020E. In aggregate, we 
-estimate the GPM for BYD will achieve 15.4% in 2020E. 
-Even though GPM for auto segment/HCAS will face downward pressure, we believe GPM 
-will keep at 15.2%/15.7% in 2021E/22E as power battery/IGBT has a higher margin 
-compared with other segments. 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-40 
-Figure 104: GPM forecast by segment 
- 
-Source: Company data, CMBIS estimates 
-Figure 105: GP/GPM 
- 
-Source: Company data, CMBIS estimates 
- 
-Figure 106: GP breakdown by segments 
- 
-Source: Company data, CMBIS estimates 
-Figure 107: Expense ratio breakdown 
- 
-Source: Company data, CMBIS estimates 
- 
-We expect a downward trend in expense ratio as the spin-off of its business 
-segments should increase overall operating efficiency. The derived NP will be 
-RMB2.0bn/3.1bn/7.3bn in 2020E/21E/22E, an increase of 29%/49%/134% respectively. 
-Figure 108: Expense ratio 
- 
-Source: Company data, CMBIS estimates 
-Figure 109: NP/YoY Growth rate 
- 
-Source: Company data, CMBIS estimates 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-41 
-Valuation 
-Initiate BUY with TP RMB112.12(26.0% upside)  
-We adopt the SOTP method to evaluate BYD’s value. We derive BYD’s overall value of 
-RMB359.9bn in 2021E, mainly comprised of 37% of Auto and related product sales and 
-45% of the newly emerging Power Battery business. We apply a 15% conglomerate 
-discount to reflect the complexity of BYD’s business segments. Our TP for BYD-A is 
-RMB112.12 per share, implying a 26.0% upside. We initiate BYD-A with BUY 
-recommendation.  
-For short-term to medium term, we think BYD’s valuation will be sensitive to 1) monthly 
-sales figure release of new car model; 2) power battery and IGBT’s progress on the external 
-shipment in 2021-22E; and 3) progress of potential spin-off of power battery and IGBT 
-business in the A-share market.  
-Valuation is experiencing re-rating 
-Looking back at BYD-A’s share price history in the past five years, a forward PER valuation 
-was ranged between 26.6x and 87.9x with an average of 52.3x; forward PBR valuation was 
-ranged between 1.9x and 4.5x with an average of 2.9x. 
-BYD’s valuation exhibited quite significant policy sensitivity. We observed obvious re-rating 
-from Jul 2017, as BYD-A was traded up 1 level, from -1 STD to +1 STD, driven by 1) 
-Chinese government’s establishment of long-term NEV promotion mechanism through 
-releasing policy draft of the double credit system; and 2) BYD was launching new flagship 
-MPV car called Song Max. We think the market’s recognition of NEV’s long-term high 
-growth potential and BYD’s new EV model’s competitiveness had triggered the re-rating. 
-From Jun 2020, we think BYD is experiencing another re-rating process, on the back of 1) 
-Chinese government’s revised double credit policy and target enforcement of the policy 
-from 2021; 2) NEV purchase subsidy to sustain with a step-down scheme until end-2022; 
-3) BYD launching new Han series car model and blade battery; and more importantly 4) 
-opening up supply chain strategy release value of power battery and IGBT business. 
-Although share price has experienced a significant rebound of 92% from a year low at year 
-begin, we believe the re-rating process is not yet finished, and we think our rigorous 
-valuation model supports our view. 
-Figure 110: BYD-A’s 5-Yr PE band exhibited a 
-significant path of re-rating since 3Q17 
- 
-Source: Bloomberg, CMBIS 
-Figure 111: BYD-A’s 5-Yr PB band 
- 
- 
-Source: Bloomberg, CMBIS 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-42 
-Our valuation for BYD points at RMB305.9bn 
-We adopt the SOTP method to evaluate BYD’s value, given the Company’s diverse 
-business segments. We also divide BYD’s business segments into two groups, namely 
- 
-the tangible group generating revenue and earnings from external customers with 
-the mature business model including 1) Auto, b) Handset Components and Assembly 
-services, and 3) Rechargeable Batteries and Photovoltaic; and  
- 
-the intangible group containing auto supply chain open up a business including 1) 
-Power Battery, 2) IGBT, and BYD’s emerging 3) Cloud Rail business.  
-We estimate the tangible group worth RMB170bn or RMB62.30 per share in FY21E, 
-comprised of RMB133bn from ICE and NEV auto sales, RMB12.3bn from rechargeable 
-batteries and photovoltaic business, and RMB24.7bn for HCAS business based on BYD’s 
-holdings on BYD Electronics (BYDE, 285 HK). Our tangible segment valuations are based 
-on market P/S comparable, and our in-house TMT team’s valuation on BYDE (link).  
-We believe BYD’s market value will be highly dependent on the intangible and emerging 
-business, especially from the power battery segment. We estimate the overall intangible 
-group worth RMB189.9bn or RMB69.6 per share in 2021E, leading by the power battery 
-segment with a valuation of RMB162.8bn or RMB59.69 per share. We has listed our 
-valuation details for power batter, IGBT, and cloud rail in our following discussions. 
-Figure 112: 2021E SOTP valuation summary  
-Valuation Method 
-Valuation method 
-Valuation multiple 
-2021E 
-Valuation 
-Implied share price 
-Automobiles and Related Products 
- 
- 
- 132,969  
- 48.74  
-       Traditional fuel vehicles 
-PS 
-0.5 
- 11,199  
- 4.10  
-       NEV 
-PS 
-2 
- 121,770  
- 44.63  
-Handset Components and Assembly Services* 
-PE 
-12 
- 24,682  
- 9.05  
-Rechargeable Batteries and Photovoltaic 
-PS 
-0.85 
- 12,323  
- 4.52  
-Power battery 
-2025E/PE 
-30 
-         162,837 
-59.69  
-IGBT 
-2025E/PE 
-35 
-      16,038 
- 5.88  
-Cloud rail 
-PS 
-1.5 
-           11,009  
-4.04  
-Total valuation 
- 
- 
-         359,859  
- 131.91  
-Valuation @ conglomerate discount 
- 
-0.85 
-        305,880  
-112.12 
-A Share price(RMB) 
- 
- 
- 
-112.12 
-AH discount(multiply) 
- 
-0.8 
- 
- 
-FX (RMB/HKD) 
- 
-0.897 
- 
- 
-H Share price(HKD) 
- 
- 
-  
-100.00 
-Source: CMBI estimates 
-*Valuation taken from CMBI TMT team 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-43 
-Figure 113: Valuation proportion in 2021E 
- 
-Source: Company data, CMBIS estimates 
-Figure 114: Valuation by segment in 2021E 
- 
-Source: Company data, CMBIS estimates 
- 
- 
-Power Battery 
-Since BYD just opened up its power battery supply chain to external customers, there is 
-no clear earnings data to support the valuation. We project BYD power battery’s long term 
-growth path based on the assumptions that the Company will gain NEV installation market 
-shares in China, and we expect the segment to have relatively stable net profit margin rate 
-at 15% with reference to CATL (300750 CH), a pure-play market leader of the power battery 
-business. In 2025E, we estimate the BYD power battery to seize 34.0% market share in 
-China, shipping 72GWh to external customers, realizing revenue and net profit of 
-RMB46bn/RMB7.5bn respectively.  
-We expect high shipment growth to continue, as our model implying only 9.0% of global 
-NEV penetration rate measure by vehicle sales in 2025. We apply 30x PER (based on 1X 
-PEG) on 2025E earnings and discount back to 2021 based on 8.5% WACC to derive a 
-2021E power battery valuation of RMB162.8bn. With reference to CATL’s market value of 
-RMB457bn and consensus estimates of 94x FY20E PER with earnings CAGR of 22.6% in 
-2019-22E, we think our valuation for BYD power battery is justified. BYD plans to take the 
-power battery business public by 2022E, by then we think the segment’s value can be fully 
-released. 
-Figure 115: Our estimate of BYD’s WACC 
- 
-Source: CMBIS estimates 
- 
- 
- 
-WACC Calculations 
-Cost of debt 
-4.5%
-Tax rate 
-20%
-After tax cost of debt 
-3.6%
-Adjusted beta
-1.06
-Market risk premium 
-11.07%
-Risk free rate 
-1.8%
-Cost of equity 
-13.5%
-% of debt financing 
-50%
-WACC
-8.5%
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-44 
-Figure 116: our valuation for BYD battery worth RMB148.6bn in 2021E 
- 
-Source: CMBIS estimates 
- 
-IGBT 
-Same as a power battery, BYD’s IGBT business provides no clear figure to support the 
-valuation. We also project IGBT’s expansion and external shipment path till 2025E, based 
-on several key assumptions including capacity addition, utilization rate, increasing ASP 
-trend as NEV sales shift towards high-end models as well as net profit margin. Our net 
-profit margin is set based on StarPower (603290 CH), a pure-play IGBT module 
-manufacturer just entering the NEV IGBT market. In 2025E, we estimate BYD IGBT to 
-seize 33.3% market share in China, shipping 1.07mn sets to domestic car installation, 
-realizing revenue and net profit of RMB2.93bn/RMB880mn respectively. 
-We apply 35x PER (based on 1X PEG) on 2025E earnings and discount back to 2021 
-based on 8.5% WACC to derive the 2021E IGBT valuation of RMB22.2bn. Taking 72.3% 
-of the total equity ratio, we estimate that value attributable to BYD will be RMB16.0bn.  
-StarPower is currently has a market value of RMB38.8bn, trading at FY20E 214x PER with 
-27.4% earnings CAGR in 2019-22E. Comparing with StarPower, we believe BYD has two 
-advantages 1) cover all types of vehicle from A0 to B+ class (StarPower can only apply to 
-A0); 2) great tracking record and larger market share in vehicle level IGBT; 3) high growth 
-potential as BYD will expand production capacity; 4) great reputation while StarPower has 
-fraudulent tracking record. As for a reference, BYD issued an announcement on 15 Jun 
-2020, that BYD Semiconductor has already accomplished A+ round of financing and 
-introduced a total of 30 strategic investors. After the A+ round of financing, the valuation of 
-BYD Semiconductor has reached RMB10.2bn. The Company plans to take its IGBT 
-business public listed in 2H21E. We think our valuation for BYD’s IGBT business is justified, 
-and the potential IPO will further unlock the segment’s value.  
- 
- 
+end, which is expected to bring new growth.
+In the NECV field, the main products include EV bus, EV coach, EV trucks and special CV,
+etc. BYD has chosen BEV strategy in its CV market. Up to now, BYD has successfully sold
+its EV bus in six continents and more than 50 countries, reflecting its global presence and
+brand recognition.
+Source: Autohome, CMBIS
+Source: Autohome, CMBIS
+Source: Autohome, CMBIS
+Source: Autohome, CMBIS
+Source: Autohome, CMBIS
+Source: Autohome, CMBIS
+NEV Highlight 2 – Introduce international talents to improve product power
+BYD introduces international talents to the team. As a Chinese company that goes
+global, BYD actively seeks talents with different cultural backgrounds. They specialize in
+areas of vehicle design, interior, and exterior decoration, NVH, chassis adjustment, etc.
+The table below summarizes credentials of international experts and their responsible
+areas. By hiring globally, BYD is able to absorb different ideas and enhance its product
+performance and customer recognition.
+NEV Highlight 3 – High R&D Investment
+BYD has been consistently invested in cutting-edge technology. In 2019, the
+Company has R&D expenses of RMB4,141mn, representing 3.24% R&D expense to
+revenue ratio, which was the highest since 2014. The annual patents of BYD increased
+24,875 in 2019 from 130 in 2004, as a result of heavy R&D investments. BYD also
+accumulated various technology advantage such as vehicle manufacturing, power battery,
+and IGBT chip, etc.
+Figure 36: Number of patents
+Source: Company data, CMBIS
+NEV Highlight 4 - DM4.0 Technology
+We believe PHEV will outperform BEV in the overall NEV market in medium-term
+given 1) policy shift; 2) cost advantage and 3) persistent mile range anxiety. Wan
+Gang, Minister of Science and Technology, said that "the development of a high-efficiency
+electromechanical hybrid system is the direction of our NEV". Recent updates on the
+"Double credit" policy also tilts more to PHEV. It is commonly believed that PHEV will reach
+cost parity sooner than that of BEV by the market. We also expect the mile range anxiety
+will last in the future for a considerable period. We think consumers would prefer PHEV in
+which BYD has a comparative advantage. Among the global NEV sales in 2019,
+BEV/PHEV/FCV accounted for 74.6%/25.0%/0.4% respectively. We expect PHEV to
+enlarge its overall shares in the medium-term.
+Source: GGII, CMBIS
+Source: GGII, CMBIS
+Source: GGII, CMBIS
+Source: GGII, CMBIS
+Source: IHS Markit, CMBIS
+In addition to overall PHEV market growth, BYD also has cutting-edge dual-mode
+technology to support PHEV products. BYD expects to launch its 4th-generation PHEV
+technology, Dual-Mode 4.0(DM4.0), in 4Q20E. DM4.0 consists of DM-p and DM-i platforms.
+DM-p will shape its focus on power output. Han DM will be the first model equipped with a
+DM-p platform. DM-i platform mainly focuses on the cost economy. We believe DM-i will
+likely to help achieve the cost parity with ICE. If BYD can successfully achieve this goal, it
+will help the Company 1) reiterate its brand recognition; 2) expand its market share by
+utilizing the cost advantage. We expect BYD PHEV will have a strong performance and will
+regain market share in 2021E prompted by new car models equipped with DM4.0 to launch.
+NEV Highlight 5 – To B business
+BYD takes advantage of its first-mover advantage and has a strong economic moat
+in the fields of EV taxi, EV ride-hailing vehicle, and EV city bus. For example, in 2019,
+about 60K units of EV were sold to operating entities, accounting for 27% of its NEPV sales
+volume. It commonly believes that the replacement cycle for a taxi is six years. If we mark
+2015 as the beginning of the electrification among China's operating vehicles, we expect
+that China's EV taxis/ride-hailing vehicle will start the first renewal cycle with an annual
+proportion of 10-15% in the short-/medium- term. BYD, as the first batch of companies that
+provide EV operating vehicles, will maintain a competitive advantage in the B field.
+NEV Highlight 6 – new launching cycle in 2H20E–2021E
+Launching blade batteries and Han models will be marked as the origin of the new
+product cycle, in our view. Han, a flagship B+ class vehicle, has accumulated over 20K
+bookings as of now. We believe the monthly sales of Han will reach 3K to 4K with a potential
+surprise. As previously mentioned, all DM models will equip with DM4.0 in later 2020E. A
+new product cycle will revert its less-than-demanding performance in 1H20.
+Sales forecast
+BYD's NEV market share declined slightly from 19.7% in 2018 to 19.0% in 2019, due to
+subsidy withdrawal which brought negative impacts to NEV sales. However, given the six
+advantages discussed above, we expect BYD to start regain market share in the NEV
+sector as the NEV market normalizing back to its trajectory. We expect its market
+share in the NEV market will bounce back from 18.2% in 2020E to 18.8%/19.1% in
+2021E/22E. In terms of ICE, we expect BYD also to slightly lose shares as market
+competition intensifies.
+Source: Company data, CMBIS estimate
+Source: Company data, CMBIS estimate
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Figure 48: ICE sales proportion by vehicle type
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Financial forecast
+Affected by multiple factors such as the emission standard switch/subsidy retreat, NEV
+sales in China were only 1.21mn units in 2019, down 4.0% YoY. BYD's NEV sales volume
+was 230K in 2019, representing a decrease of 7.4%YoY. Affected by COVID-19, we think
+the sales of NEV in China in 2020E will face great pressure as in 2019. However, we have
+already observed that the central government had extended the subsidy schedule until
+2022E from its original subsidy exit plan of 2020E. In addition, a variety of regions have
+also introduced a local subsidy to boost NEV purchase in 2020E. Therefore, we expect the
+sales volume of NEV in China will be to 1.02mn units, a strong rebound from 1H20, but still
+indicating a decrease of 15%YoY.
+We believe that BYD's launch of new batteries (Blade battery) and new models(Han)
+will support its overall sales. BYD will also release its DM4.0 version PHEV across its all
+major models in 4Q20E. At the same time, Guangdong and Shenzhen have introduced
+NEV subsidy policies that will likely to support BYD's NEV sales. Even though BYD's NEV
+and going forward. We expect BYD's new car model launching cycle with cutting the edge
+technologies will help the Company further improve its brand recognition, which will support
+NEV sales. In 2020E, we forecast NEV will have a sales volume decline of 19% YoY (NEPV
+-19%/NECV -10%) with NEV sales volume of 186.3K units. We forecast ASP for NEV will
+rise by 7% in 2020E as vehicle type/product mix changes. In 2021-22E, we expect NEV
+sales volume to pick up rapidly to 319.9K/514.4K unites, respectively, while ASP to
+maintain upward trends as NEV sales shift to high end models.
+Figure 50: NEV ASP forecast
+Source: Company data, CMBIS estimate
+Source: Company data, CMBIS estimate
+For ICE, we expect the rollout of Song Plus will underpin the ICE performance.
+Specifically, we expect the sales volume of its ICE will be 209K in 2020E, a decline of
+10%YoY. We expect the ASP for ICE will increase slightly to RMB105K in 2020E, an
+increase of 5.0%YoY as the proportion of higher-class product increases.
+Figure 52: ICE ASP forecast
+Source: Company data, CMBIS estimate
+The aggregate sales volume will grow at -14.4%/34.1%/36.7% to 395K/530K/724K in
+2020E/21E/22E. The aggregate ASP will grow at 5%/9%/10% to RMB144K/157K/173K in
+2020E/21E/22E. As a result, we forecast the new car sales revenue will maintain a growth
+rate at -10%/47%/51% to RMB57/83/125bn in 2020E/21E/22E.
+NEV parts business
+BYD was one of the auto OEMs that invested heavily in the NEV field and has
+increasingly shifted its focus to NEV business. With the continuous investment in R&D,
+the Company has accumulated technical advantage in the core technology of NEV supply
+chains such as power battery and IGBT. Beside, BYD also has technological accumulation
+in both EV and Hybrid technical routes. We believe the subsidy retreat happening now will
+lead to NEV sector consolidation and will radically change the over-supply condition. We
+believe BYD not only has adequate demand to survive this winter but also has the
+capability/capacity to become a major supplier for other NEV OEMs when this consolidation
+phase passes.
+Reorganizing the internal supply chain
+The Company initially adopted a vertical integration model in its NEV supply chain
+which internalized all production nodes in auto production (model design, mold
+development, key parts design and manufacturing, assembly, quality control, sales
+channel management, etc.). The vertical management model enables the Company to
+accomplish technology accumulation in all production aspects. However, it also induces
+higher management costs/production cost.
+From 2017, BYD gradually opened up its supply chain. From the perspective of the supply
+side, purchasing parts/components from the outside vendor can improve the quality of parts,
+reduce procurement costs and management costs. From the perspective of the demand
+side, the Company can monetize its advantages in parts/components (power batteries,
+IGBT, etc) to foster new income sources and improve the performance of the automotive
+sector.
+Source: CMBIS
+"FinDreams"
+On 16 Mar 2020, BYD announced the establishment of five subsidiary companies
+collectively known as "FinDreams (FinDreams Battery, FinDreams Vision,
+FinDreams Technology, FinDreams Power and FinDreams Mould)". The FinDreams
+covers different businesses ranging from power batteries, semiconductors, chassis, and
+other fields. It marked that BYD's supply chain reform has moved into a new stage. It is
+also a big step forward for BYD to underpin its e-platform strategy.
+We think BYD's value will be highly dependent on its opening supply chain strategy for its
+NEV parts business. We will focus on two of the key parts, namely the power battery
+business and the semiconductor business, in our following discussion in this report. We
+think the future performance of "FinDreams" will be a critical factor for BYD and its valuation.
+Figure 54: "FinDreams"
 Power battery
-2020E
-2021E
-2022E
-2023E
-2024E
-2025E
-Key assumptions
-Effective Capacity - GWh
-44.5
-74.5
-120
-129
-159
-198
-Effective capacity utilization rate-%
-36%
-43%
-55%
-65%
-85%
-87%
-External shipment - GWh
-0.13
-        
-2.58
-          
-18.70
-         
-23.04
-            
-57.09
-         
-72.00
-            
-EV installation - unit
-2,471
-      
-45,272
-      
-312,214
-     
-366,518
-        
-864,694
-     
-1,038,735
-     
-China EV battery market shares-%
-18.4%
-21.5%
-30.7%
-28.0%
-34.3%
-34.0%
-Global EV battery market shares-%
-10.2%
-14.9%
-25.4%
-24.8%
-30.5%
-28.0%
-ASP, VAT excl. - RMB/Wh
-810
-         
-769
-           
-731
-            
-694
-               
-659
-            
-640
-               
-Sales revenue - RMB mn
-109
-         
-1,986
-        
-13,661
-       
-15,997
-          
-37,646
-       
-46,060
-          
-Net margin %
-6.0%
-9.0%
-12.0%
-13.5%
-14.9%
-16.4%
-Net income - RMB mn
-7
-             
-179
-           
-1,639
-         
-2,152
-            
-5,621
-         
-7,535
-            
-YoY %
-n/a
-2642%
-817%
-31%
-161%
-34%
-PE multiple - 2025
-30
-Discounted segment value - RMB mn
-226,062
-        
-Discount back to 2021E
-162,837
-    
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-45 
-Figure 117: our valuation for IGBT worth RMB15.97bn in 2021E 
- 
-Source: CMBIS estimates 
-Note: * BYD had an A+ round equity financing by 15 Jun 2020. After the fund raising, BYD holds 72.3% shares 
-of BYD Semiconductor (i.e. the IGBT business).  
- 
-Cloud rail 
-In Jun 2018, the State Council issued the "Opinions on Further Strengthening the 
+BYD's power battery was previously used for internal supply only. However, BYD
+expressed the intention for external sales given that 1) power battery market has giant
+demand high growth potential insight, and 2) the Company had accumulated technology
+advantages in battery cost leadership and safety performance. According to BYD, several
+OEMs had entered discussions with the Company. After the initial trial phases, we expect
+BYD power battery to have external shipments from 2021, and to reach high shipment
+growth in 2022E. We estimate the external shipment of BYD batteries to be
+0.1/2.6/18.7GWh in 2020E/21E/22E respectively. The corresponding revenue will reach
+RMB0.1/2.0/13.7bn in 20E/21E/22E. In 2025E, we forecast BYD will sell 72.0GWh
+externally with a corresponding revenue of RMB46.1bn.
+Overview in the power battery industry
+The power battery value chain can be divided into three sectors: raw materials in upstream,
+production in midstream, and application in downstream. The power battery system can be
+simply divided into hardware and software (BMS). The hardware includes a variety of levels
+in the production-side, namely cell, module, and the final battery pack. The cell can also be
+further divided into positive and negative electrodes, electrolytes, and separators. These
+are derived from the raw materials, which are upstream of the whole value chain.
+The upstream of power batteries is mainly dominated by mineral resources such as cobalt,
+manganese, nickel, and lithium. Cobalt, manganese, nickel, lithium, and other raw
+materials are used as positive electrode materials. Lithium ore is also used for both
+negative electrode and electrolyte. Graphite is mainly used for the negative electrode. The
+midstream includes the manufacture of the positive electrode, negative electrode,
+electrolyte, and separator. The downstream of power batteries are mainly OEMs and
+energy storage sectors.
+Source: CMBIS
+Power battery type
+Power batteries can be mainly classified into two categories, LFP(LiFePO4) batteries
+and ternary lithium batteries (including nickel cobalt manganese (NCM), nickel
+cobalt aluminum (NCA)). Other types such as lithium manganese battery, lithium titanate
+battery, super capacitor, have a relatively small proportion. One form of power battery,
+namely solid-state battery, may potentially destruct the current landscape. However, we
+believe that the technology of solid-state batteries was immature. It is expected to achieve
+full commercialization around 2030E. Therefore, we still focus on LFP and ternary lithium
+batteries here.
+In general, LFP has the characteristics of good safety and low cost while the ternary
+battery has a longer mile range given higher energy density. Due to the difference in
+application scenarios, about 93% of BEV buses were equipped with LFP while about 74%
+of BEV PV were installed with ternary lithium batteries.
+Source: CMBIS
+According to GGII, in 2019, the total NEV that installed with power battery in China
+was 1.18mn units, a decrease of 4%YoY. Among them, 916K of which were installed
+with ternary batteries, accounting for 78% of total NEV; LFP was installed on 169K vehicles,
+accounting for 14% of total NEV.
+Source: GGII, CMBIS
+Source: GGII, CMBIS
+According to GGII, in 2019, the total installed capacity power battery was 62.3GWh
+an increase of 9%YoY. Among them, the installed capacity of ternary batteries was
+38.4GWh, accounting for 61% of the total installed; the installed capacity of LFP was
+20.0GWh, accounting for 32% of the total installed.
+Source: GGII, CMBIS
+In the early stage of NEV development, the Chinese government adopted a whitelist
+for power battery to foster the local industry. OEMs could receive financial subsidy only
+if its power battery suppliers were admitted into the official power battery whitelist. A total
+of 57 battery companies have been admitted to the list including CATL, Guoxuan Hi-Tech,
+Lision, Optimum whereas foreign brands such as Samsung SDI, LG, Panasonic were all
+excluded from the list. In Jun 2019, MIIT officially abolished whitelist marking the inception
+of the new competition stage. The domestic power battery player will, therefore, face fiercer
+competition from overseas giants such as LG and Samsung SDI.
+Source: APBIIA, CMBIS
+Source: GGII, APBIIA, CMBIS
+At the end of 2019, we can simply divide the power battery manufacturing
+enterprises into three echelons. The first echelon includes CATL, Panasonic, BYD, LG,
+Samsung SDI. The second consists of Farasis, Evebattery, Lision, Guoxuan Hi-tech, etc.
+The third echelon comprises other small manufacturing enterprises. We calculated that
+CR3 in the power battery industry reached 57%; CR5 reached 68%; CR10 reached 81%
+in 2019. Since 2015, the number of power battery companies has gradually decreased
+which reflecting the intensification of market competition. We expect that under the
+pressure of cost reduction, top tiers will continue to gain market shares which makes the
+industry further integrated.
+Technical roadmap
+We believe the economies of scale will outweigh the technology process in the
+process of cost reduction. There is a dispute about the technical route in the field of
+power batteries.
+Source: CMBIS
+Source: CMBIS
+Figure 66: China Power battery in 2019 by shape
+Source: CMBIS
+Source: GGII, CMBIS
+In the ternary lithium battery technical route, the development direction is determined to be
+high nickel, which mainly solves the problem of mile range. At the same time, due to the
+scarcity and monopoly of cobalt resources, high nickel also minimizes the supply chain risk.
+ternary precursor is still 29% more expensive than NCM523 ternary precursor.
+Source: LME, CMBIS
+Source: SMM, CMBIS
+BYD will change the game - Blade battery
+However, BYD chose to focus on LFP battery development. BYD has consistently
+optimized the physical structure of the LFP battery in order to improve its mile range by
+increasing the system energy density.
+In 2019, BYD has deployed NCM on all PVs while used LFP on all CVs. The situation has
+changed recently as BYD released its blade battery on 29 Mar 2020. As one of LFP
+batteries, the most important achievement of blade battery is that it improves the overall
+energy density of the battery pack through process improvements, thereby overcoming the
+disadvantage of short-range of LFP compared to NCM. In the meanwhile, it kept the
+advantage of high safety and long lifespan of traditional LFP. In the nail penetration test,
+the ternary battery can only achieve safety at the pack level, while the blade battery can
+elevate it to the cell level. At the same time, the blade battery can make the new car NEDC
+last more than 600 kilometers. It will be first used in Han EV in 3Q20E and then
+subsequently equipped on Qin Pro, Qin EV, Song Plus, etc. in 4Q20E.
+Figure 72: Physical structure improvement
+Source: Company data, CMBIS
+at the pack level. In addition, luxury brands may focus more on safety as reputation risk
+were greater than new entries. Such a significant cost advantage will provide great
+competitive advantage overall in NCM. We believe power mass density/volume density will
+increase further as BYD is in the process of R&D in the second generation of blade battery.
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+We believe the release of its blade battery will totally change the competitive
+landscape. While maintaining its safety nature of LFP, it has increased the mile range. As
+a result, the blade battery broadens the application scenarios of LFP battery, enabling it to
+be assembled in A to C-class NEVs. In the meanwhile, due to the nature of the ternary
+lithium battery, the risk of thermal runaway when facing the acupuncture experiment is
+higher than that of the LFP battery. We expect that BYD will focus on "safety" in the
+marketing of blade battery so as to gain more market share in this sub-segment. Given
+diverse demand from customers, blade battery will definitely fit in certain safety demands
+and will gain more market shares. In other words, ternary lithium batteries will face
+competition from its opponent.
+Source: CMBIS
+Total power battery market size in China
+According to the GGII, the total installed capacity of power batteries in China was 62.8GWh
+in 2019. CATL was the dominant player in the power battery industry with a market share
+of 51.8%. BYD was the 2nd largest player with a market share of 17.3%.
+According to the CMBIS estimate, we forecast that the total installed capacity of power
+impacts. However, given CMBIS forecast on China's NEV industry through 2025E, we
+are confident that power battery installation will rebound back to its high growth
+path in 2021E as NEV sales normalize to its high growth trajectory.
+Source: CAAM, CMBIS estimate
+Source: GGII, CMBIS estimate
+Sales forecast
+BYD has accumulated the technical advantage and production capacity as it
+originated from the battery business. According to GGII, in 2019, the Company's
+installed capacity was 197.6K units, with a market share of 16.8%; the installed power is
+10.78GWh, with a market share of 17.3%.
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+We expect BYD to have a total production capacity of 50GWh in 2020E, which is fully
+capable of internal production. Among all production capacity, NCM/LFP/Blade accounts
+for 30/10/10GW respectively. As of now, BYD has a total production capacity of a blade
+battery of 10GWh, equivalent to about 180K units of the vehicle. In 2020E, we expect the
+blade battery will prioritize internal supply as production was still in the ramp-up period. If
+we take unit installed capacity of 54Wh, we expect a total production capacity of 0.93mn
+units NEV in 2020E. BYD ranks No.2 in Chinese power battery supplier in terms of total
+installed capacity with a leading position in battery density and safety aspects. Based on
+our calculation, BYD has idle capacity for external sales. According to the Company's
+guidance, we expect the blade battery will be sold to external clients in late 2021E/early
+2022E.
+Source: Company data, CMBIS estimate
+Financial forecast
+Given current production capacity, we believe its power batteries in 2020E will be mostly
+installed internally. With the substantial increase in China's NEV sales and capacity release,
+we expect that the external shipment of power batteries will skyrocket from 2021E/22E. We
+forecast the external shipment of BYD batteries to be 0.1/2.6/18.7GWh in 2020E/21E/22E
+respectively. The corresponding revenue will reach RMB 0.1/2.0/13.7bn in 20E/21E/22E.
+In addition, the Company has widely exploited in the supply chain upstream of power
+batteries, including Lithium mine, the positive electrode, separator, electrolyte, etc., which
+effectively guarantees the cost and the stability of its supply chain. BYD has widely
+deployed in the upstream supply chain of power batteries, including salt lake lithium mine,
+the positive electrode, separator, electrolyte, etc. By doing so, BYD is able to enforce cost
+control measures while maintaining its supply chain stability. We believe the economies of
+scale will realize, as the power battery will gradually sell to external customers, which will
+ultimately reduce the unit cost.
+We expect its power battery segment will get an independent listing on Starboard in
+2022E, significantly lifting its segment valuation.
+Source: Company data, CMBIS estimate
+Source: Company data, CMBIS estimate
+2. IGBT module
+BYD's IGBT is used for internal supply only as well. BYD semiconductor introduced
+strategic investors and expressed the intention to sell its IGBT module externally.
+Overview in IGBT industry
+IGBT (Insulated Gate Bipolar Transistor 绝缘栅双极型晶体管) is a composite fully
+controlled voltage-driven power semiconductor device composed of BJT (bipolar
+transistor) and MOSFET (insulated gate field effect transistor), which combines the
+advantage of both BJT and MOSFET. IGBT is known as the "CPU" of power electronic
+devices.
+The power battery is generally stored as direct current and needs to be converted to
+alternating current in order to drive the motor of EV (mainly classified as Permanent-magnet
+synchronous motor 永磁同步电机 and AC asynchronous motor 交流异步电机).
+Source: SITRI industry research, CMBIS
+IGBT directly controls the conversion of Direct Current/Alternating Current of the
+drive system and also determines the maximum torque/maximum output power. In
+addition to driving systems, IGBT was used on high-voltage chargers, air-conditioning
+systems, and other electrical components of NEV.
+IGBT chip is one of the critical components for EV engines. Due to design complexity,
+sophisticated manufacture requirement, and a large investment, the IGBT sector has a high
+entry barrier. For EV, the IGBT module accounts for about 50% of the cost of the motor
+drive system/5%-10% of the total cost of the vehicle. Therefore, it is the 2nd-largest cost
+component other than the power battery. It also determines the energy efficiency of the
+vehicle. At present, about 90% of the IGBTs used in China depend on imports, most of
+which are provided by Infineon, Mitsubishi, Fuji, ON Semiconductor, ABB.
+Source: Company, CMBIS
+Source: NE, CMBIS
+Source: Intelligence Research Group, CMBIS
+Source: Intelligence Research Group, CMBIS
+BYD's technology advantage and cost advantage
+In 2005, BYD formed its own R&D team and started to invest in the IGBT industry. As
+of now, BYD is a top auto OEM in China that has the capability of producing IGBT modules,
+including IGBT chip design and manufacturing, IGBT module design and manufacturing,
+QA platform, and NEV application.
+In Dec 2018, BYD launched its IGBT 4.0. Its comprehensive loss is 20% lower than the
+mainstream product while the temperature-cycle life is increased by more than 10 times. In
+terms of cost, BYD has around one-third of cost advantage over a similar product. The
+downstream application scenario covers A0 to B+ class vehicles while other main players
+such as StarPower can only apply to A0 class vehicles. At the end of 2018, the yearly
+production capacity of IGBT units was 600K. As of now, BYD has achieved a production
+capacity of 1.2mn units per year.
+On 14 Apr 2020, BYD announced that it had completed the internal transfer of its
+wholly-owned subsidiary Shenzhen BYD Microelectronics Co., Ltd. through the
+equity transfer and business transfer between its subsidiaries. Reorganized and
+officially renamed BYD Semiconductor Co., Ltd. (hereinafter referred to as "BYD
+Semiconductor"). BYD stated that it intends to introduce strategic investors by means of
+the capital increase and share expansion, and actively seeks independent listing at an
+appropriate time. However, after the completion of the introduction of strategic investors,
+BYD Semiconductor will remain a subsidiary of BYD. At the same time, BYD is actively
+deploying the next generation of semiconductor material SiC. The Company has
+announced the successful development of SiC Mosfet, which is expected to improve the
+performance of the entire vehicle by 10%.
+IGBT Market size forecast
+According to "Intelligence Research Group", the global IGBT market size in 2018 was
+USD5bn, an increase of 11.06% YoY. Of which, China was the world's single largest market
+and has reached USD2.1bn market size, accounting for about 40% of the global IGBT
+market.
+According to GGII, China's IGBT market will have a market size of RMB20bn in 2020E
+driven by strong demand for NEV and charging piles. According to "Intelligence Research
+Group", China's IGBT industry output will reach 78.2mn units while the demand will reach
+196mn units by 2024E.
+We estimate the total IGBT (NEV level) market size will reach RMB2.8bn in 2020E and
+RMB18.3bn in 2025E. In 2019, the Company installed about 194K sets of NEV IGBTs
+domestically, with a market share of 18% and a rank of 2nd place.
+Figure 89: IGBT (NEV level) forecast
+Source: CMBIS estimates
+Source: Intelligence Research Group, CMBIS
+Financial forecast
+Given its cost advantage, we believe BYD will materialize the import substitution in
+the IGBT module industry. We expect that the external sales of the IGBT module will start
+from 2021E/22E. We forecast the external shipment of IGBT to be 133K/274K in
+2021E/22E respectively. The overall ASP will increase gradually as the proportion of higher
+class increases. We forecast the corresponding revenue will reach RMB370/778mn in
+2020E/21E.
+We expect a surge in IGBT demand from NEV as NEV cost parity may materialize in
+2023E. Therefore, we believe BYD will expand its IGBT production capacity in order to
+meet downstream demand. In 2025E, BYD will sell 995K units of IGBT module externally
+with revenue of RMB2.9bn.
+We expect its power battery segment will get an independent listing on Starboard in
+2021E, significantly lifting its segment valuation.
+Source: Company data, CMBIS estimate
+3. Consumer electronics (Component + Assembly Service)
+BYD operates its consumer electronics segment through its subsidiary BYD
+Electronics (285 HK). As one of the world's most comprehensive cell phone components
+and assembly service providers, BYD provides a one-stop business model, including
+design, component, and assembly services for domestic and foreign mobile phone
+manufacturers. Its main customers include Apple, Samsung, Microsoft, Dell, Toshiba,
+Hewlett-Packard, Huawei, Lenovo, and ZTE.
+In recent years, BYD electronics has grown steadily in terms of revenue. In 2019,
+BYD Electronics achieved revenues of RMB53.4bn, an increase of 26.4%YoY. However,
+due to the slowdown in the smartphone market and the fierce competition, its bottom-line
+drop to RMB1.65bn, a decline of 28.0% YoY.
+BYD Electronics (285 HK) is covered by the CMBIS TMT team (Alex Ng).
+Financial forecast
+Due to different accounting in Mainland, China, and HKSAR, China, the revenue reported
+by BYDE (285 HK) and the segment revenue in BYD (1211 HK) have a slight discrepancy.
+Therefore, we take the growth rate forecast from the CMBIS TMT team as our key
+assumption to keep the CMBI consistency. As a result, we believe the top-line for
+handset components and assembly services will grow at 37.8%/12.8%/22.9% to
+RMB74/83/102bn in 2020E/21E/22E.
+4. Secondary rechargeable batteries and photovoltaics
+In the field of secondary rechargeable batteries, BYD carries layout covering the
+entire supply chain, from the mineral resources to the final battery packs. It has
+technical accumulations from battery design to module packing.
+BYD's current products include nickel-metal hydride batteries, lithium cobalt oxide batteries,
+lithium iron phosphate batteries, ternary batteries, which are widely used in electronic
+products, NEV, Energy storage, and other fields.
+Through its rechargeable product, BYD also expands its business to the downstream
+industry. It has also launched a variety of renewable energy solutions such as solar power
+stations, energy storage power stations, electric forklifts, etc., providing a complete set of
+renewable energy solutions from power generation to energy storage/consumption.
+In 2019, the secondary rechargeable batteries and photovoltaics achieved revenue of
+RMB10.5bn, an increase of 17.4%YoY. In 2020E, we expect this segment to maintain its
+steady growth path.
+Figure 95: Project case study
+Source: Company, CMBIS
+According to CNESA, at the worst-case scenario, electrochemical energy storage will have
+a total install capacity of 2,727MW in 2020E, an increase of 59.7%YoY; at the best-case
+scenario, electrochemical energy storage will have a total install capacity of 3,092MW in
+2020E, an increase of 80.9%YoY. Given the continued decline in battery prices and
+demand from 5G base station construction, we are definitely optimistic about future
+development of energy storage. For BYD, we expect the revenue from rechargeable
+batteries and photovoltaic will be RMB13/14/16bn, an increase of 20%/15%/12% YoY
+in 2020E.
+Source: CNESA, CMBIS
+5. Other business (Cloud rail/bus)
+In Oct 2016, BYD released its first cloud rail prototype. Compared with traditional
+subway/underground, cloud rail has advantages such as flexible route layout, low
+construction cost, etc. At the end of 2019, many domestic cities include Yinchuan, Jining,
+Bengbu, have expressed interest in Cloud rail while many foreign cities such as
+Salvador(Brazil) also signed a construction contract with BYD. In 2019, other business
+achieved revenues of RMB587mn, a decline of 79.5%YoY.
+In 2020E, we believe the cloud rail business may surprise the market as two projects
+(Shenzhen and Chongqing) was in great progress. We expect the market will have a
+potential re-rating on its cloud rail segment as income gradually realizes.
+Source: Company, CMBIS
+Financial forecast
+We only take cloud rail/bus as other businesses here. Given a more friendly policy
+environment, we believe the cloud rail business may outperform its historical path. In
+addition, we believe the fiscal policy will play a critical role in counter-cyclical adjustment
+due to the negative impact of COVID-19 in 2020E. Therefore, we believe the local
+government may expand its investment in urban transportation. Given the positive progress
+in Shenzhen and Chongqing projects and the company's guidance, we forecast that
+revenue from the cloud rail business will be RMB5.9/7.3/8.8bn in 2020E/21E/22E, a
+900.0%/25%/20%YoY increase.
+Source: Company date, CMBIS estimate
+Source: MOF, CMBIS
+Financial Analysis
+Revenue
+The Company generates revenue through Automobiles and Related Products, Handset
+Components and Assembly Services, Rechargeable Batteries and Photovoltaic, and Other
+business. In 2019, revenue from auto and related products decreased by 16.8% YoY to
+RMB 63.3bn, whereas revenue from handset components and assembly services
+increased 26.4%YoY to RMB53.4bn. In 2019, revenue from rechargeable batteries and
+photovoltaic increased 17.4% YoY to RMB10.5bn, whereas revenue from other businesses
+decreased by 79.5% YoY to RMB587mn.
+By summing up above each segment, we estimate the revenue for BYD will be
+RMB149bn/190bn/267bn, an increase of 17%/28%/40% in 2020E/21E/22E.
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Gross profit/Net profit(overall)
+We believe four factors may put auto segment GPM into pressure in 1H20E given 1) BYD
+has rolled e series which focus on the mass market; 2) great competition in overall NEV
+market; 3) subsidy retreat; 4) COVID-19 impact. However, we still believe the GPM for NEV
+in 2020E will exceed that of 2019E given 1) marginal YoY improvement in NEV industry
+and 2) local subsidy support (i.e. Shenzhen). Therefore, we believe GPM from the auto
+segment will slightly rise by 0.7ppt to 22.6% in 2020E. We take the GPM forecast for
+Handset Components and Assembly Services from CMBI TMT. Specifically, we believe
+GPM for this segment will be 10.1% in 2020E. We believe rechargeable batteries and
+photovoltaic will keep its growth momentum with a GPM of 19.0% in 2020E. We believe
+the GPM from the cloud rail business will rebound to 4.0% in 2020E. In aggregate, we
+estimate the GPM for BYD will achieve 15.4% in 2020E.
+Even though GPM for auto segment/HCAS will face downward pressure, we believe GPM
+will keep at 15.2%/15.7% in 2021E/22E as power battery/IGBT has a higher margin
+compared with other segments.
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+We expect a downward trend in expense ratio as the spin-off of its business
+segments should increase overall operating efficiency. The derived NP will be
+RMB2.0bn/3.1bn/7.3bn in 2020E/21E/22E, an increase of 29%/49%/134% respectively.
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Valuation
+Initiate BUY with TP RMB112.12(26.0% upside)
+We adopt the SOTP method to evaluate BYD's value. We derive BYD's overall value of
+RMB359.9bn in 2021E, mainly comprised of 37% of Auto and related product sales and
+45% of the newly emerging Power Battery business. We apply a 15% conglomerate
+discount to reflect the complexity of BYD's business segments. Our TP for BYD-A is
+RMB112.12 per share, implying a 26.0% upside. We initiate BYD-A with BUY
+recommendation.
+For short-term to medium term, we think BYD's valuation will be sensitive to 1) monthly
+sales figure release of new car model; 2) power battery and IGBT's progress on the external
+shipment in 2021-22E; and 3) progress of potential spin-off of power battery and IGBT
+business in the A-share market.
+Valuation is experiencing re-rating
+Looking back at BYD-A's share price history in the past five years, a forward PER valuation
+was ranged between 26.6x and 87.9x with an average of 52.3x; forward PBR valuation was
+ranged between 1.9x and 4.5x with an average of 2.9x.
+BYD's valuation exhibited quite significant policy sensitivity. We observed obvious re-rating
+from Jul 2017, as BYD-A was traded up 1 level, from -1 STD to +1 STD, driven by 1)
+Chinese government's establishment of long-term NEV promotion mechanism through
+releasing policy draft of the double credit system; and 2) BYD was launching new flagship
+MPV car called Song Max. We think the market's recognition of NEV's long-term high
+growth potential and BYD's new EV model's competitiveness had triggered the re-rating.
+From Jun 2020, we think BYD is experiencing another re-rating process, on the back of 1)
+Chinese government's revised double credit policy and target enforcement of the policy
+from 2021; 2) NEV purchase subsidy to sustain with a step-down scheme until end-2022;
+3) BYD launching new Han series car model and blade battery; and more importantly 4)
+opening up supply chain strategy release value of power battery and IGBT business.
+Although share price has experienced a significant rebound of 92% from a year low at year
+begin, we believe the re-rating process is not yet finished, and we think our rigorous
+valuation model supports our view.
+Source: Bloomberg, CMBIS
+Source: Bloomberg, CMBIS
+Our valuation for BYD points at RMB305.9bn
+We adopt the SOTP method to evaluate BYD's value, given the Company's diverse
+business segments. We also divide BYD's business segments into two groups, namely
+the tangible group generating revenue and earnings from external customers with
+the mature business model including 1) Auto, b) Handset Components and Assembly
+services, and 3) Rechargeable Batteries and Photovoltaic; and
+the intangible group containing auto supply chain open up a business including 1)
+Power Battery, 2) IGBT, and BYD's emerging 3) Cloud Rail business.
+We estimate the tangible group worth RMB170bn or RMB62.30 per share in FY21E,
+comprised of RMB133bn from ICE and NEV auto sales, RMB12.3bn from rechargeable
+batteries and photovoltaic business, and RMB24.7bn for HCAS business based on BYD's
+holdings on BYD Electronics (BYDE, 285 HK). Our tangible segment valuations are based
+on market P/S comparable, and our in-house TMT team's valuation on BYDE (link).
+We believe BYD's market value will be highly dependent on the intangible and emerging
+business, especially from the power battery segment. We estimate the overall intangible
+group worth RMB189.9bn or RMB69.6 per share in 2021E, leading by the power battery
+segment with a valuation of RMB162.8bn or RMB59.69 per share. We has listed our
+valuation details for power batter, IGBT, and cloud rail in our following discussions.
+Source: CMBI estimates
+Figure 114: Valuation by segment in 2021E
+Source: Company data, CMBIS estimates
+Since BYD just opened up its power battery supply chain to external customers, there is
+no clear earnings data to support the valuation. We project BYD power battery's long term
+growth path based on the assumptions that the Company will gain NEV installation market
+shares in China, and we expect the segment to have relatively stable net profit margin rate
+at 15% with reference to CATL (300750 CH), a pure-play market leader of the power battery
+business. In 2025E, we estimate the BYD power battery to seize 34.0% market share in
+China, shipping 72GWh to external customers, realizing revenue and net profit of
+RMB46bn/RMB7.5bn respectively.
+We expect high shipment growth to continue, as our model implying only 9.0% of global
+NEV penetration rate measure by vehicle sales in 2025. We apply 30x PER (based on 1X
+PEG) on 2025E earnings and discount back to 2021 based on 8.5% WACC to derive a
+2021E power battery valuation of RMB162.8bn. With reference to CATL's market value of
+RMB457bn and consensus estimates of 94x FY20E PER with earnings CAGR of 22.6% in
+2019-22E, we think our valuation for BYD power battery is justified. BYD plans to take the
+power battery business public by 2022E, by then we think the segment's value can be fully
+released.
+Source: CMBIS estimates
+Source: CMBIS estimates
+IGBT
+Same as a power battery, BYD's IGBT business provides no clear figure to support the
+valuation. We also project IGBT's expansion and external shipment path till 2025E, based
+on several key assumptions including capacity addition, utilization rate, increasing ASP
+trend as NEV sales shift towards high-end models as well as net profit margin. Our net
+profit margin is set based on StarPower (603290 CH), a pure-play IGBT module
+manufacturer just entering the NEV IGBT market. In 2025E, we estimate BYD IGBT to
+seize 33.3% market share in China, shipping 1.07mn sets to domestic car installation,
+realizing revenue and net profit of RMB2.93bn/RMB880mn respectively.
+based on 8.5% WACC to derive the 2021E IGBT valuation of RMB22.2bn. Taking 72.3%
+of the total equity ratio, we estimate that value attributable to BYD will be RMB16.0bn.
+StarPower is currently has a market value of RMB38.8bn, trading at FY20E 214x PER with
+27.4% earnings CAGR in 2019-22E. Comparing with StarPower, we believe BYD has two
+advantages 1) cover all types of vehicle from A0 to B+ class (StarPower can only apply to
+A0); 2) great tracking record and larger market share in vehicle level IGBT; 3) high growth
+potential as BYD will expand production capacity; 4) great reputation while StarPower has
+fraudulent tracking record. As for a reference, BYD issued an announcement on 15 Jun
+2020, that BYD Semiconductor has already accomplished A+ round of financing and
+introduced a total of 30 strategic investors. After the A+ round of financing, the valuation of
+BYD Semiconductor has reached RMB10.2bn. The Company plans to take its IGBT
+business public listed in 2H21E. We think our valuation for BYD's IGBT business is justified,
+and the potential IPO will further unlock the segment's value.
+Source: CMBIS estimates
+Note: * BYD had an A+ round equity financing by 15 Jun 2020. After the fund raising, BYD holds 72.3% shares
+of BYD Semiconductor (i.e. the IGBT business).
+Cloud rail
+In Jun 2018, the State Council issued the "Opinions on Further Strengthening the
 Management of Urban Rail Transit Planning and Construction" 《关于进一步加强城市轨道
-交通规划建设管理的意见》(国办发〔2018〕52 号)(52 号文), tightening the application 
-criteria for the construction of urban rail projects. However, we observe recent policy 
-updates indicating policy loss in this field. Since 2020, the Chinese government has begun 
-to emphasize new infrastructure. Infrastructure projects in such fields as 5G networks, 
-extra-high-voltage power transmission projects, inter-city transit, vehicle charging stations, 
-big data centers, industrial networks, and projects exhibiting Internet of Things 
-characteristics are all considered to be examples of new infrastructure. Urban rail is the 
-only sub-field included in both new infrastructure and traditional infrastructure. 
-Given the policy spur and project progress, we forecast that the revenue from Cloud Rail 
-in 2021E will reach RMB7.3bn. We expect the cloud rail will get out of the dull pattern in 
-the past and head to a high growth period in the next few years. We take CRRC (601766 
-CH, NR) as our valuation reference. The forward average PS ratio of CRRC was 1.35x 
-while we take 1.50x PS for BYD to reflect the high potential growth potential backed by 
-contacts signed. We derive the Cloud Rail segment’s valuation of RMB11.0bn in 2021E.  
-Other potentials values 
-Though we have considered major explicit and implicit valuation, we believe BYD still has 
-other potential values that can be unlocked in the future.  
-1) Conservative market assumption. We only consider NEV sales, power battery, IGBT 
-module under the backdrop of China domestic market for now. If BYD starts to expand its 
-business aboard, we think the valuation will have the potential to rise further.  
-IGBT business
-2020E
-2021E
-2022E
-2023E
-2024E
-2025E
-Key assumptions
-Effective Capacity
-100,000
-  
-100,000
-    
-100,000
-     
-100,000
-        
-200,000
-     
-200,000
-        
-Effective capacity utilization rate
-1.20
-        
-1.20
-          
-1.20
-           
-1.20
-              
-2.40
-           
-2.40
-              
-15.5%
-37.7%
-65.7%
-91.7%
-74.6%
-86.2%
-Shipment to internal EV usage
-0.19
-        
-0.32
-          
-0.51
-           
-0.70
-              
-0.88
-           
-1.07
-              
-Shipment to external EV usage
--
-          
-0.13
-          
-0.27
-           
-0.40
-              
-0.91
-           
-0.99
-              
-China market shares 
-18.2%
-26.6%
-29.3%
-28.9%
-35.3%
-33.3%
-Unit ASP
-2,779
-      
-2,803
-        
-2,836
-         
-2,848
-            
-2,924
-         
-2,948
-            
-Sales revenue
--
-          
-370
-           
-778
-            
-1,138
-            
-2,675
-         
-2,933
-            
-Net margin
-0.0%
-30.0%
-30.0%
-30.0%
-30.0%
-30.0%
-Net income
--
-          
-111
-           
-233
-            
-342
-               
-803
-            
-880
-               
-YoY %
-n/a
-n/a
-110%
-46%
-135%
-10%
-PE multiple-2025
-35
-Segment value - RMB mn
-30,795
-          
-Discount back to 2021E
-22,182
-      
-@72.3% equity ratio*
-16,038
-      
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-46 
-2) Other hidden business segments. In addition to explicit and implicit valuation 
-mentioned in our previous discussion, we believe BYD still has additional values that can 
-be potentially realized in the future such as the NEV motor segment, platform technology, 
-etc. 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-47 
-Risk factors 
-Fiercer market competition 
-At present, the competitive landscape of the NEV is still undergoing dynamic changes. New 
-Comers (NIO, Weltmeister, Xpeng, etc) and foreign brands (Tesla, BBA, etc) are gradually 
-entering into the market. In the future, market competition will definitely intensify. To 
-continue to gain market share, BYD not only has to have the technical advantage as 
-previously mentioned but also form its own marketing strategy and product ecology.  
- 
-Slower external shipment process 
-As we mentioned, BYD’s valuation reflects its external shipments of power batteries and 
-IGBT modules. We expect BYD will start selling its NEV parts in 2021E. However, affected 
-by COVID-19, the external supply process may be slower than expected in terms of product 
-certification and business development. It may affect the short-term market sentiment even 
-though the long-term shipment process will stay intact. 
- 
-Unexpected technology route change 
-BYD placed major auto technology focus on BEV and PHEV. The Company is also making 
-considerable investments in LFP based blade power batteries. If FEV or battery technology 
-has a breakthrough and becomes market mainstream, BYD’s leading technology reserve 
-and product streams will be flipped, and it will have material impacts on product sales and 
-earnings performance of the Company.  
- 
-Policy support is less than expected 
-NEV sales still heavily rely on purchase subsidy, as NEV is yet to reach cost-parity to ICE. 
-Our short term NEV sales projection is based on the expectation of the enforcement of the 
-double credit system from 2021E, while long term sales projection is based on the 
-government’s NEV sales penetration rate target. If the government accelerates the existing 
-subsidy reduction plan or changing the future NEV penetration outlook, it will have material 
-impacts on product sales and earnings performance of the Company. 
- 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-48 
-Financial Summary 
-Income statement 
- 
- 
- 
- 
-  Cash flow 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E  YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Revenue 
-130,055 
-127,739 
-148,901 
-190,449 
-266,797  Net income 
-3,556 
-2,119 
-2,642 
-3,939 
-9,235 
-Cost of sales 
-(108,725) (106,924) (125,980) (161,557) (225,021)  D&A 
-9,995 
-9,933 
-10,035 
-12,193 
-14,571 
-Gross profit 
-21,330 
-20,814 
-22,921 
-28,892 
-41,776  Change in working capital 
-(291) 
-3,233 
-1,715 
-6,026 
-2,071 
- 
- 
- 
- 
- 
-  Others 
-(1,319) 
-5,923 
-- 
-- 
-- 
-Taxes and levies 
-(2,146) 
-(1,561) 
-(1,787) 
-(2,285) 
-(3,202)  Net cash from operating 
-12,523 
-14,741 
-11,419 
-10,850 
-23,213 
-S&D exp 
-(4,729) 
-(4,346) 
-(5,063) 
-(6,666) 
-(9,338)  
- 
- 
- 
- 
- 
-R&D exp 
-(3,760) 
-(4,141) 
-(4,467) 
-(5,523) 
-(7,604)  Capex & investments 
-(6,076) 
-(12,040) 
-(12,992) 
-(13,608) 
-(14,961) 
-Admin exp 
-(4,989) 
-(5,629) 
-(5,956) 
-(7,237) 
-(8,804)  Associated companies 
-(496) 
-(499) 
-(406) 
-(447) 
-(491) 
-Finance costs 
-(2,997) 
-(3,014) 
-(3,631) 
-(4,320) 
-(4,412)  Others 
-(7,659) 
-(8,342) 
-(3,236) 
-(5,009) 
-(6,438) 
-Impairment losses 
-(1,020) 
-(636) 
-(751) 
-(952) 
-(1,336)  Net cash from investing 
-(14,231) 
-(20,881) 
-(16,634) 
-(19,064) 
-(21,890) 
-Other income 
-2,328 
-1,724 
-2,143 
-2,907 
-3,837  
-Investment income 
-248 
-(809) 
-(521) 
-(286) 
-(267)  Equity raised 
-- 
-- 
-- 
-- 
-- 
-GL from changes in FV 
-(5) 
-10 
-(53) 
-4 
-(38)  Change of  Debts 
-5,076 
-10,535 
-13,113 
-15,583 
-10,045 
-GL on disposal  
-(19) 
-(100) 
-(72) 
-(88) 
-(168)  Dividend paid 
-(557) 
-(164) 
-(209) 
-(311) 
-(730) 
-Operating profit/(loss) 
-4,241 
-2,312 
-2,764 
-4,445 
-10,445  Others 
-(603) 
-(3,761) 
-5,691 
-5,000 
-8,928 
-Non-operating income 
-230 
-226 
-447 
-381 
-480  Net cash from financing 
-3,917 
-6,610 
-7,102 
-8,913 
-2,117 
-Non-operating expense 
-(86) 
-(107) 
-(112) 
-(143) 
-(212)  
-Profit before income tax 
-4,385 
-2,431 
-3,099 
-4,683 
-10,713  Net change in cash 
-2,209 
-470 
-1,887 
-699 
-3,440 
-Income tax expense 
-(829) 
-(312) 
-(457) 
-(743) 
-(1,479)  Cash at the beginning 
-9,903 
-13,052 
-12,650 
-14,537 
-15,236 
-Profit for the year 
-3,556 
-2,119 
-2,642 
-3,939 
-9,235  Others 
-941 
-(872) 
-0 
-(0) 
-(0) 
-Non-controlling interests 
-776 
-504 
-555 
-827 
-1,939  Cash at the end 
-13,052 
-12,650 
-14,537 
-15,236 
-18,676 
-NP 
-2,780 
-1,614 
-2,087 
-3,112 
-7,296  Less: pledged cash 
-- 
-- 
-- 
-- 
-- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E  YE 31 Dec 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Non-current assets 
-79,361 
-88,675 100,874 114,549 129,999  Sales mix (%) 
-Fixed asset 
-43,679 
-49,443 
-58,001 
-66,220 
-74,742  
-Automobiles 
-58% 
-50% 
-38% 
-44% 
-47% 
-Intangible assets 
-11,314 
-12,650 
-14,840 
-16,943 
-19,123  
-Handset Components 
-32% 
-42% 
-49% 
-44% 
-38% 
-Interest in joint 
-3,561 
-4,060 
-4,466 
-4,913 
-5,404  
-Rechargeable Batteries 
-7% 
-8% 
-8% 
-8% 
-6% 
-Other non-current assets 
-20,807 
-22,521 
-23,567 
-26,473 
-30,731  
-Other business 
-2% 
-0% 
-4% 
-4% 
-3% 
-  
- 
-Power battery 
-0% 
-0% 
-0% 
-1% 
-5% 
-Current assets 
-115,211 106,967 121,942 147,977 188,083  
-IGBT 
-0% 
-0% 
-0% 
-0% 
-0% 
-Cash 
-13,052 
-12,650 
-14,537 
-15,236 
-18,676  Total 
-100% 
-100% 
-100% 
-100% 
-100% 
-Account receivable 
-49,284 
-43,934 
-49,634 
-61,435 
-76,228  
-  
- 
- 
- 
- 
- 
-Inventory 
-26,330 
-25,572 
-30,578 
-38,466 
-50,005  P&L ratios (%) 
- 
- 
- 
- 
- 
-Other current assets 
-26,545 
-24,811 
-27,194 
-32,840 
-43,175  
-Gross profit margin 
-16% 
-16% 
-15% 
-15% 
-16% 
-  
- 
-Pre-tax margin 
-3% 
-2% 
-2% 
-2% 
-4% 
-Current liabilities 
-116,569 108,029 128,894 162,465 205,001  
-Net margin 
-3% 
-2% 
-2% 
-2% 
-3% 
-Borrowings 
-37,789 
-40,332 
-49,851 
-64,110 
-72,052  
-Effective tax rate 
-19% 
-13% 
-15% 
-16% 
-14% 
-Account payables 
-46,283 
-36,168 
-41,993 
-52,115 
-70,319  Balance sheet ratios 
- 
- 
- 
- 
- 
-Other payables 
-13,568 
-11,217 
-13,228 
-16,964 
-23,627  
-Current ratio (x) 
-0.99 
-0.99 
-0.95 
-0.91 
-0.92 
-Tax payables 
-18,930 
-20,311 
-23,822 
-29,276 
-39,003  
-Quick ratio (x) 
-0.59 
-0.59 
-0.55 
-0.52 
-0.50 
-  
- 
-Cash ratio (x) 
-0.11 
-0.12 
-0.11 
-0.09 
-0.09 
-Non-current liabilities 
-17,308 
-25,011 
-29,346 
-31,751 
-35,861  
-Debtors turnover days 
-138 
-126 
-122 
-118 
-104 
-Borrowings 
-13,924 
-21,916 
-25,511 
-26,834 
-28,937  
-Total debt / total equity 
-221% 
-213% 
-245% 
-284% 
-312% 
-Provisions 
-66 
-103 
-37 
-59 
-118  
-Net debt / equity ratio 
-64% 
-79% 
-89% 
-84% 
-83% 
-Deferred income tax 
-- 
-- 
-- 
-- 
--  Returns (%) 
- 
- 
- 
- 
- 
-Others 
-3,317 
-2,992 
-3,798 
-4,858 
-6,805  
-ROE 
-5% 
-3% 
-4% 
-5% 
-11% 
- 
- 
- 
- 
- 
-  
-ROA 
-4% 
-3% 
-3% 
-4% 
-5% 
-Total equity 
-60,694 
-62,601 
-64,576 
-68,310 
-77,220  Per share 
- 
- 
- 
- 
- 
-Minority Interest 
-5,496 
-5,839 
-5,737 
-6,209 
-6,939  
-EPS (RMB) 
-0.93 
-0.50 
-0.67 
-1.04 
-2.58 
-Shareholders' equity 
-55,198 
-56,762 
-58,839 
-62,101 
-70,281 
-DPS (RMB) 
-0.20 
-0.06 
-0.08 
-0.11 
-0.27 
- 
- 
- 
- 
- 
-  
-BVPS (RMB) 
-20.23 
-20.81 
-21.57 
-22.76 
-25.76 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Source: Company data, CMBIS estimates  
-Note: *All numbers are based on A share financial statement 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-49 
-Appendix 
- 
-Company background 
-BYD was established in 1995. At then, its main business was chargeable batteries for cell 
-phones. In 2003, BYD acquired Xi'an Qinchuan Automobile Co., Ltd. and officially entered 
-into the auto OEMs area. Its first vehicle model, F3, was launched in 2005 and the first EV, 
-F3e, was successfully developed in 2006. In 2008, the Company received an equity 
-investment from Berkshire Hathaway (BRK US) owned by Warren Buffett. Its Cloud Rail 
-business was successfully announced in 2016. At present, the Company has formed a 
-complete industrial cluster with NEV business as its core business.  
-Figure 118: Milestone 
- 
-Source: Company data, CMBIS 
- 
- 
-Organization Structure 
-Currently, BYD has a variety of business divisions. The 1st - 9th Business Group (BG) were 
-responsible for the cell phone business; the 11th - 19th BG were responsible for the 
-automotive business; the 21st – 23rd BG were responsible for the urban transportation 
-business. Recently, BYD has spun off its power battery business, IGBT business, NEV 
-motor business, etc. into five individual companies known as FinDreams (弗迪系). 
-Figure 119: Shareholder structure 
-Shareholder Structure 
-  
-Wang Chuanfu 
-18.83% 
-Lu xiangyang 
-8.77% 
-Berkshire Hathaway Energy 
-8.25% 
-Rongjie Investment Holdings 
-5.96% 
-Xia Zuoquan 
-3.72% 
- 
-Source: Company data, CMBIS 
-Figure 120: Organization structure 
- 
-Source: Company data, CMBIS 
- 
-Year
-Milestone
-1995
-Company founded
-2002
-Listed in Hong Kong
-2003
-Aquire Xi'an Qinchuan Automobile Co., Ltd. and enter auto manufacturing business
-2005
-F3 model rolled out
-2006
-The first EV - F3e model equipped with LTP battery was successfully developed
-2008
-Berkshire Hathaway announced that it has invested US$230 mn in BYD, accounting for 10% of the shares
-2008
-Hybrid vehicle - F3DM - equipped with the first generation DM technology was launched.
-2009
-Acquired Hunan Midea Coach Manufacturing Co., Ltd., and enter electric coach business
-2010
-Divison of sales channel  led to retail disruption/ Enter the photovoltaic field
-2011
-Listed in A share
-2013
-Qin, equipped with the second generation DM technology, was launched
-2016
-Cloud Rail was launched
-2018
-Tang, equipped with the third generation DM technology, was launched.
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-50 
- 
-Glossary 
-Figure 121: Glossary table 
-Abbreviation 
-English 
-In Chinese 
-NEV/EV 
-New Energy Vehicle/Energy 
-Vehicle 
-新能源汽车 
-ICE 
-Internal Combustion Engine 
-传统内燃机汽车 
-ICV 
-Intelligent Connected Vehicle 
-智能网联汽车 
-NEPV 
-New Energy Passenger Vehicle 
-新能源乘用车 
-NECV 
-New Energy Commercial Vehicle 
-新能源商用车 
-Double credit 
-policy 
-CAFC and NEV credit policy 
-双积分政策 
-BEV 
-Battery electronic vehicle 
-纯电动新能源车/纯电动路线 
-PHEV 
-Plug-in hybrid vehicle 
-插电式混动新能源车/插混路线 
-FCV 
-Fuel cell vehicle 
-氢燃料电池/氢燃料路线 
-Power battery 
-  
-动力电池 
-LFP 
-Lithium iron phosphate battery 
-磷酸铁锂电池 
-NCM 
-Nickel cobalt manganese battery 
-镍钴锰三元锂电池 
-NCA 
-Nickel cobalt lithium 
-镍钴铝三元锂电池 
-BMS 
-Battery management system 
-电池管理系统 
-IGBT 
-Insulated Gate Bipolar Transistor 
-绝缘栅双极型晶体管 
-Cloud rail 
-  
-云轨 
-FinDreams 
-  
-弗迪系 
-Source: CMBIS 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-51 
- 
- 
-23 Jul 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-52 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIS 
-does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position 
-or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in 
-the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the 
-performance of underlying assets or other variable market factors.  CMBIS recommends that investors should independently evaluate particular investments 
-and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or 
-its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in 
-securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be 
-liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone 
-making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. 
-CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the 
-information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue other 
-publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical 
-methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in 
-this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with 
-the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report 
-and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, 
-etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange 
-Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this research 
-report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.  
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as 
-defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced 
-by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers 
-Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined 
-in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the 
-extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+交通规划建设管理的意见》(国办发〔2018〕52 号)(52 号文), tightening the application
+criteria for the construction of urban rail projects. However, we observe recent policy
+updates indicating policy loss in this field. Since 2020, the Chinese government has begun
+to emphasize new infrastructure. Infrastructure projects in such fields as 5G networks,
+extra-high-voltage power transmission projects, inter-city transit, vehicle charging stations,
+big data centers, industrial networks, and projects exhibiting Internet of Things
+characteristics are all considered to be examples of new infrastructure. Urban rail is the
+only sub-field included in both new infrastructure and traditional infrastructure.
+Given the policy spur and project progress, we forecast that the revenue from Cloud Rail
+in 2021E will reach RMB7.3bn. We expect the cloud rail will get out of the dull pattern in
+CH, NR) as our valuation reference. The forward average PS ratio of CRRC was 1.35x
+while we take 1.50x PS for BYD to reflect the high potential growth potential backed by
+contacts signed. We derive the Cloud Rail segment's valuation of RMB11.0bn in 2021E.
+Other potentials values
+Though we have considered major explicit and implicit valuation, we believe BYD still has
+other potential values that can be unlocked in the future.
+1) Conservative market assumption. We only consider NEV sales, power battery, IGBT
+module under the backdrop of China domestic market for now. If BYD starts to expand its
+business aboard, we think the valuation will have the potential to rise further.
+2) Other hidden business segments. In addition to explicit and implicit valuation
+mentioned in our previous discussion, we believe BYD still has additional values that can
+be potentially realized in the future such as the NEV motor segment, platform technology,
+etc.
+Risk factors
+Fiercer market competition
+At present, the competitive landscape of the NEV is still undergoing dynamic changes. New
+Comers (NIO, Weltmeister, Xpeng, etc) and foreign brands (Tesla, BBA, etc) are gradually
+entering into the market. In the future, market competition will definitely intensify. To
+continue to gain market share, BYD not only has to have the technical advantage as
+previously mentioned but also form its own marketing strategy and product ecology.
+Slower external shipment process
+As we mentioned, BYD's valuation reflects its external shipments of power batteries and
+IGBT modules. We expect BYD will start selling its NEV parts in 2021E. However, affected
+by COVID-19, the external supply process may be slower than expected in terms of product
+certification and business development. It may affect the short-term market sentiment even
+though the long-term shipment process will stay intact.
+Unexpected technology route change
+BYD placed major auto technology focus on BEV and PHEV. The Company is also making
+considerable investments in LFP based blade power batteries. If FEV or battery technology
+has a breakthrough and becomes market mainstream, BYD's leading technology reserve
+and product streams will be flipped, and it will have material impacts on product sales and
+earnings performance of the Company.
+Policy support is less than expected
+NEV sales still heavily rely on purchase subsidy, as NEV is yet to reach cost-parity to ICE.
+Our short term NEV sales projection is based on the expectation of the enforcement of the
+double credit system from 2021E, while long term sales projection is based on the
+government's NEV sales penetration rate target. If the government accelerates the existing
+subsidy reduction plan or changing the future NEV penetration outlook, it will have material
+impacts on product sales and earnings performance of the Company.
+Financial Summary
+Source: Company data, CMBIS estimates
+Note: *All numbers are based on A share financial statement
+Appendix
+Company background
+BYD was established in 1995. At then, its main business was chargeable batteries for cell
+phones. In 2003, BYD acquired Xi'an Qinchuan Automobile Co., Ltd. and officially entered
+into the auto OEMs area. Its first vehicle model, F3, was launched in 2005 and the first EV,
+F3e, was successfully developed in 2006. In 2008, the Company received an equity
+investment from Berkshire Hathaway (BRK US) owned by Warren Buffett. Its Cloud Rail
+business was successfully announced in 2016. At present, the Company has formed a
+complete industrial cluster with NEV business as its core business.
+Source: Company data, CMBIS
+Organization Structure
+Currently, BYD has a variety of business divisions. The 1st - 9th Business Group (BG) were
+responsible for the cell phone business; the 11th - 19th BG were responsible for the
+automotive business; the 21st - 23rd BG were responsible for the urban transportation
+business. Recently, BYD has spun off its power battery business, IGBT business, NEV
+motor business, etc. into five individual companies known as FinDreams (弗迪系).
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Glossary
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in
+the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or
+its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the
+information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report
+and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc..) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange
+Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this research
+report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as
+defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced
+by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers
+Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined
+in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the
+extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

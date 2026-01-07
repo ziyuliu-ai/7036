@@ -1,315 +1,356 @@
-Key Data  
-GS Forecast  
-GS Factor Prole  
-Source Company data Goldman Sachs Research estimates
-See disclosures for details
-Market cap Rmb15tr  2131bn
-Enterprise value Rmb14tr  1917bn
-3m ADTV Rmb47bn  6682mn
-A-share Consumer Staples
-MA Rank 3
-Leases incl in net debt  EV No
-Asia ex Japan Conviction List
-Revenue (Rmb mn) New
-Revenue (Rmb mn) Old
-EBITDA (Rmb mn)
-EPS (Rmb) New
-EPS (Rmb) Old
-Dividend yield (%)
-600519SS relative to Asia ex Japan Coverage
-600519SS relative to A-share Consumer Staples
-Moutai reported 2019 results with Rev of Rmb888bn up 151%
-yoy in line with expectation and NP of Rmb412bn was up 17% yoy
-pre-announcement made on Jan 2
+Kweichow Moutai (600519.SS)
+2019 results largely in line, resilient growth ahead
+Xufa Liao, CFA
+600519.SS
+12m Price Target: Rmb1,360.00 Price: Rmb1,200.00 Upside: 13.3%
+Beijing Gao Hua Securities Company Limited
+Moutai reported 2019 results with Rev of Rmb88.8bn, up 15.1%
+Ning Wang
+yoy, in line with expectation, and NP of Rmb41.2bn was up 17% yoy,
+Beijing Gao Hua Securities Company Limited
+1% higher than our expectation and 2% higher than the company's
+pre-announcement made on Jan 2.
 Key points of the result
-In 4Q19 revenue was Rmb253bn up 14% yoy largely in line with
-the growth momentum in 1-3Q of 2019 NP in 4Q19 increased by
-3% yoy to Rmb107bn
+In 4Q19, revenue was Rmb25.3bn, up 14% yoy, largely in line with
+Key Data
+Market cap: Rmb1.5tr / $213.1bn
+the growth momentum in 1-3Q of 2019. NP in 4Q19 increased by
+Enterprise value: Rmb1.4tr / $191.7bn
+3m ADTV: Rmb4.7bn / $668.2mn
+3% yoy to Rmb10.7bn.
+China
+A-share Consumer Staples
 For the full year of 2019 revenue from Moutai spirits came in at
-Rmb758bn up 16% yoy GP margin was at at 938% In 2019 the
-basic production volume of Moutai spirits was at at 49922 tons
-Sales volume of Moutai spirits was 34546 tons up 65% yoy and
-was 35% higher than our expectations We note that the full year
-beginning of year plan of 31000 tons In our view this is further
+Leases incl. in net debt & EV?: No
+Rmb75.8bn, up 16% yoy. GP margin was flat at 93.8%. In 2019, the
+Asia ex. Japan Conviction List
+basic production volume of Moutai spirits was flat at 49922 tons.
+GS Forecast
+Sales volume of Moutai spirits was 34546 tons, up 6.5% yoy, and
+was 3.5% higher than our expectations. We note that the full year
+sales volume of 34546 tons is c.10% higher than the company's
+beginning of year plan of 31000 tons. In our view, this is further
+evidence of the flexibility in the company's overall annual supply and
 its ability to respond to changes in the retail price environment and
-market demand  This also implies a 104% ASP increase which is
-2% lower than our expectations though mainly on lower than
-expected direct sales We calculate that the ASP increase could be
-attributed to four factors price hike lagged effect of 2% VAT cut
-effect of 3% product mix upgrade of 4% and direct sales channel
-effect of 1%
+market demand. This also implies a 10.4% ASP increase, which is
+2% lower than our expectations though, mainly on lower than
+GS Factor Profile
+expected direct sales. We calculate that the ASP increase could be
+attributed to four factors: price hike lagged effect of 2%, VAT cut
+effect of 3%; product mix upgrade of 4% and direct sales channel
+effect of 1%.
 Sales to related parties (incl parent group and its subsidiaries) was
-Rmb58bn in 2018 up from Rmb255bn in 2018 Sales to related
-parties accounted for 43% of the net assets as end of 2019 and is
-in line with our expectations
-Nevertheless Its also worth noting that sales to the top 5 clients
-12m Price Target Rmb136000
-Price Rmb120000 Upside 133%
-Kweichow Moutai (600519SS)
-2019 results largely in line resilient growth ahead
-22 April 2020  345AM CST
-investors should be aware that the rm may have a conict of interest that could affect the objectivity of this
-report Investors should consider this report as only a single factor in making their investment decision For Reg AC
-certication and other important disclosures see the Disclosure Appendix or go to
-analysts with FINRA in the US
-Xufa Liao CFA
-Beijing Gao Hua Securities Company Limited
-Beijing Gao Hua Securities Company Limited
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
-Ratios  Valuation  
-Growth  Margins (%)  
-Price Performance  
-Source FactSet Price as of 21 Apr 2020 close
-FCF yield (%)
-EVEBITDAR (X)
-EVEBITDA (excl leases) (X)
-Net debtequity (%)
-Net debtequity (excl leases) (%)
-Interest cover (X)
-Days inventory outst sales
-Days payable outstanding
-DuPont ROE (%)
-Turnover (X)
-Leverage (X)
-Gross cash invested (ex cash) (Rmb)
-Average capital employed (Rmb)
-BVPS (Rmb)
-600519SS (Rmb)
-Shanghai - Shenzhen 300
-Rel to the Shanghai - Shenzhen 300
-22 April 2020
-Balance Sheet (Rmb mn)  
-Cash Flow (Rmb mn)  
-Source Company data Goldman Sachs Research estimates
-Other operating inc(exp)
-Depreciation  amortization
-Net interest inc(exp)
-Pre-tax profit
-Net inc (pre-exceptionals)
-Post-tax exceptionals
-Net inc (post-exceptionals)
-EPS (basic pre-except) (Rmb)
-EPS (diluted pre-except) (Rmb)
-EPS (basic post-except) (Rmb)
-EPS (diluted post-except) (Rmb)
-Div payout ratio (%)
-Cash  cash equivalents
+Rmb5.8bn in 2018, up from Rmb2.55bn in 2018. Sales to related
+parties accounted for 4.3% of the net assets as end of 2019 and is
+in line with our expectations.
+Source: Company data, Goldman Sachs Research estimates.
+Nevertheless, It's also worth noting that sales to the top 5 clients
+See disclosures for details.
+Goldman Sachs does and seeks to do business with companies covered in its research reports. As a result,
+investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this
+report. Investors should consider this report as only a single factor in making their investment decision. For Reg AC
+certification and other important disclosures, see the Disclosure Appendix, or go to
+analysts with FINRA in the U.S.
+Goldman Sachs
+Kweichow Moutai (600519.SS)
+Kweichow Moutai (600519.SS)
+Growth & Margins (%) _
+Total investments
 Other long-term assets
+1,576.9
+1,576.9
+1,576.9
+1,576.9
+Price Performance
+183,042.4
+218,820.5
+261,124.2
+310,189.0
+Total assets
+30,044.6
+34,551.2
+39,733.9
+45,694.0
+Accounts payable
 Short-term debt
 Short-term lease liabilities
+15,461.9
+26,270.9
 Other current liabilities
+11,048.7
+20,640.4
 Total current liabilities
+41,093.3
+50,013.1
+60,374.4
+71,964.9
 Long-term debt
 Long-term lease liabilities
 Other long-term liabilities
 Total long-term liabilities
-Total liabilities  equity
-Net debt adjusted
-DA add-back
-Minority interest add-back
-Net (inc)dec working capital
-Other operating cash flow
-Cash flow from operations
-Cash flow from investing
-Repayment of lease liabilities
-Inc(dec) in debt
-Other financing cash flows
-Cash flow from financing
-Kweichow Moutai (600519SS)
-Rating since Dec 3 2013
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
-eXaXrUuWlUmVlXcVMBmMrM6M9RaQmOqQsQpPjMpPrNkPoMtQaQpOnRMYtPyQwMpOmR
-was Rmb11bn (or 129% or total annual sales) up from only Rmb358bn in 2018 (or
-487% of total annual sales) Excluding related parties sales (in the top 5 client list) the
-sales to the other 4 clients was Rmb81bn 345x higher than the Rmb182bn in 2018
-We believe this surge to large clients likely reects sales to local government-related
-Revenue from series products (mid-to-low end) was Rmb954bn up 18% and GP
-margin improved slightly to 72% In 2019 sales volume of 30082 tons up 1% yoy and
-ASP was up 17% mainly due to direct price hike in addition to some products upgrade
-Management guided to a at volume growth of series products in early 2020
+Total liabilities
+41,166.0
+50,085.8
+60,447.0
+72,037.6
+Preferred shares
+136,010.3
+188,427.4
+222,223.3
+Total common equity
+159,828.8
+Source: FactSet. Price as of 21 Apr 2020 close.
+Cash Flow (Rmb mn)
+Source: Company data, Goldman Sachs Research estimates.
+Goldman Sachs
+Kweichow Moutai (600519.SS)
+was Rmb11bn (or 12.9% or total annual sales), up from only Rmb3.58bn in 2018 (or
+4.87% of total annual sales). Excluding related parties sales (in the top 5 client list), the
+sales to the other 4 clients was Rmb8.1bn, 3.45x higher than the Rmb1.82bn in 2018.
+We believe this surge to large clients likely reflects sales to local government-related
+SOEs.
+Revenue from series products (mid-to-low end) was Rmb9.54bn, up 18%, and GP
+margin improved slightly to 72%. In 2019, sales volume of 30082 tons, up 1% yoy, and
+ASP was up 17%, mainly due to direct price hike, in addition to some products upgrade.
+Management guided to a flat volume growth of series products in early 2020.
 2020 outlook
-Looking forward into 2020 we expect basic production volume to increase by 7% to
-54000 tons close to its current capacity of 56000 tons which is constrained in the
-short term by the corona virus impact
+The company maintained its guidance for 10% revenue growth in 2020.
+Looking forward into 2020, we expect basic production volume to increase by 7% to
+54000 tons, close to its current capacity of 56000 tons, which is constrained in the
+short term by the corona virus impact.
+Despite the challenging environment during Covid19 outbreak, we think the company
 could still maintain robust growth momentum thanks to its strong bargaining power
 based on the differential between ex-factory price (at Rmn969) and wholesale price (at
-Rmb2200 currently) per our channel checks
-Dec 27 of 2019 Assuming that this is the annual in-plan supply plan we believe it may
-be subject to additional out-of-plan supply in 2020 as seen in previous scal years
-Market Series Per the reports each distributor was asked to pay cRmb25mn to the
-1600 Moutai spirits distributors and that the ex-factory price as implied by the
-15x higher than Feitian Moutai we calculate that it could contribute Rmb4bn revenue
-(or c45% of the revenue in 2019) on 800-900 tons of volume (c25% of the sales
-volume in 2019) all else equal
-8% of total revenue) up 66% yoy and direct sales volume was 2651 tons (roughly 7%
-of Moutai spirits volume) This is still lower than our expectation though and we attribute
-this to the lower allocation of direct sales quota to the listco As per management the
-the c1000 tons in 2019 We believe the overall direct sales ratio will continue to increase
-in 2020 Meanwhile the sales to the parent group (or related party) should increase at
-the growth rate of the net assets which is roughly 20% as per our estimate Its still
-local-government related parties which at least in 2019 accounted for c11% of Moutai
-spirits sales
-22 April 2020
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
-Estimate changes valuation and key risks
-We ne-tune our 2020-22E EPS by 1% on average and introduce our 2023E EPS of
-Rmb6435 per share and we rollover our valuation to 2023E applying 27x (unchanged)
-on 2023E EPS (previously on 2022E EPS) and discount back to 2020 using 85% COE
-(previously 10% the change reected risk-free interest rate)  Our new-12m TP is raised
-by c12% to Rmb1360 Maintain Buy (on CL)
-Key risks 1) Further macroeconomic slowdown 2) lower-than-expected volume growth
-3) government regulation on price hikes 4) ongoing coronavirus outbreak impact
-22 April 2020
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
-We Xufa Liao CFA and Ning Wang hereby certify that all of the views expressed in this report accurately reect our personal views about the subject
-GS Factor Prole
-Returns and Multiple) Growth Financial Returns and Multiple are calculated by using normalized ranks for specic metrics for each stock The
-normalized ranks for the metrics are then averaged and converted into percentiles for the relevant attribute The precise calculation of each metric may
-vary depending on the scal year industry and region but the standard approach is as follows
-Growth is based on a stocks forward-looking sales growth EBITDA growth and EPS growth (for nancial stocks only EPS and sales growth) with a
-pricedividend (PD) EVEBITDA EVFCF and EVDebt Adjusted Cash Flow (DACF) (for nancial stocks only PE PB and PD) with a higher percentile
-indicating a stock trading at a higher multiple The Integrated percentile is calculated as the average of the Growth percentile Financial Returns
-percentile and (100% - Multiple percentile)
-Financial Returns and Multiple use the Goldman Sachs analyst forecasts at the scal year-end at least three quarters in the future Growth uses inputs
-For a more detailed description of how we calculate the GS Factor Prole please contact your GS representative
-Across our global coverage we examine stocks using an MA framework considering both qualitative factors and quantitative factors (which may vary
-factor into our price target and may or may not be discussed in research
-Quantum is Goldman Sachs proprietary database providing access to detailed nancial statement histories forecasts and ratios It can be used for
+Rmb2200 currently), per our channel checks.
+The company planned to provide 34500 tons of Moutai spirits supply as announced on
+Dec 27 of 2019. Assuming that this is the annual in-plan supply plan, we believe it may
+be subject to additional out-of-plan supply in 2020, as seen in previous fiscal years.
+According to media sources (weijiu), the company had asked distributors to order a new
+special commemorative Moutai spirits product to be called "Walking into Overseas
+Market Series". Per the reports, each distributor was asked to pay c.Rmb2.5mn to the
+company as end of March. For illustrative purposes, considering that there are about
+1600 Moutai spirits distributors and that the ex-factory price, as implied by the
+datapoints in the article, of this special commemorative product would be approximately
+1.5x higher than Feitian Moutai, we calculate that it could contribute Rmb4bn revenue
+(or c.4.5% of the revenue in 2019) on 800-900 tons of volume (c.2.5% of the sales
+volume in 2019), all else equal.
+As for channel mix, the company reported revenue from direct sales was Rmb7.24bn (or
+8% of total revenue), up 66% yoy and direct sales volume was 2651 tons (roughly 7%
+of Moutai spirits volume). This is still lower than our expectation though and we attribute
+this to the lower allocation of direct sales quota to the listco. As per management, the
+company will provide 2800 tons more supply to the self-owned stores in 2020, on top of
+the c.1000 tons in 2019. We believe the overall direct sales ratio will continue to increase
+in 2020. Meanwhile, the sales to the parent group (or related party) should increase at
+the growth rate of the net assets, which is roughly 20% as per our estimate. It's still
+unclear to us whether the company will increase or reduce the supply to
+local-government related parties, which, at least in 2019 accounted for c.11% of Moutai
+spirits sales.
+Goldman Sachs
+Kweichow Moutai (600519.SS)
+Estimate changes, valuation, and key risks
+We fine-tune our 2020-22E EPS by 1%, on average, and introduce our 2023E EPS of
+Rmb64.35 per share and we rollover our valuation to 2023E, applying 27x (unchanged)
+on 2023E EPS (previously on 2022E EPS) and discount back to 2020 using 8.5% COE
+(previously 10%, the change reflected risk-free interest rate). Our new-12mTP is raised
+by c.12% to Rmb1360. Maintain Buy (on CL).
+Key risks: 1) Further macroeconomic slowdown; 2) lower-than-expected volume growth;
+3) government regulation on price hikes; 4) ongoing coronavirus outbreak impact.
+Goldman Sachs
+Kweichow Moutai (600519.SS)
+Disclosure Appendix
+Reg AC
+We, Xufa Liao, CFA and Ning Wang, hereby certify that all of the views expressed in this report accurately reflect our personal views about the subject
+company or companies and its or their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly, related to the
+specific recommendations or views expressed in this report.
+GS Factor Profile
+The Goldman Sachs Factor Profile provides investment context for a stock by comparing key attributes to the market (i.e. our coverage universe) and its
+sector peers. The four key attributes depicted are: Growth, Financial Returns, Multiple (e.g. valuation) and Integrated (a composite of Growth, Financial
+Returns and Multiple). Growth, Financial Returns and Multiple are calculated by using normalized ranks for specific metrics for each stock. The
+normalized ranks for the metrics are then averaged and converted into percentiles for the relevant attribute. The precise calculation of each metric may
+vary depending on the fiscal year, industry and region, but the standard approach is as follows:
+Growth is based on a stock's forward-looking sales growth, EBITDA growth and EPS growth (for financial stocks, only EPS and sales growth), with a
+higher percentile indicating a higher growth company. Financial Returns is based on a stock's forward-looking ROE, ROCE and CROCI (for financial
+stocks, only ROE), with a higher percentile indicating a company with higher financial returns. Multiple is based on a stock's forward-looking P/E, P/B,
+price/dividend (P/D), EV/EBITDA, EV/FCF and EV/Debt Adjusted Cash Flow (DACF) (for financial stocks, only P/E, P/B and P/D), with a higher percentile
+indicating a stock trading at a higher multiple. The Integrated percentile is calculated as the average of the Growth percentile, Financial Returns
+percentile and (100% - Multiple percentile).
+Financial Returns and Multiple use the Goldman Sachs analyst forecasts at the fiscal year-end at least three guarters in the future. Growth uses inputs
+for the fiscal year at least seven quarters in the future compared with the year at least three quarters in the future (on a per-share basis for all metrics).
+For a more detailed description of how we calculate the GS Factor Profile, please contact your GS representative.
+M&A Rank
+Across our global coverage, we examine stocks using an M&A framework, considering both qualitative factors and quantitative factors (which may vary
+across sectors and regions) to incorporate the potential that certain companies could be acquired. We then assign a M&A rank as a means of scoring
+representing medium (15%-30%) probability and 3 representing low (0%-15%) probability. For companies ranked 1 or 2, in line with our standard
+departmental guidelines we incorporate an M&A component into our target price. M&A rank of 3 is considered immaterial and therefore does not
+factor into our price target, and may or may not be discussed in research.
+Quantum
+Quantum is Goldman Sachs' proprietary database providing access to detailed financial statement histories, forecasts and ratios. It can be used for
+in-depth analysis of a single company, or to make comparisons between companies in different sectors and markets.
+Disclosures
 Coverage group(s) of stocks by primary analyst(s)
-Xufa Liao CFA A-share Consumer Staples A-share Media
-A-share Consumer Staples Angel Yeast Anhui Gujing Distillery Co CS Paper Co Jiangsu Kings Luck Brewery Jiangsu Yanghe Kweichow Moutai
-Luzhou Laojiao Qinghai Huzhu Barley Wine Co Shanghai MG Shanxi Xinghuacun Fen Wine Sichuan Swellfun Co Sichuan Teway Food Group
-Wuliangye Yibin
-A-share Media Alpha Group Beijing Enlight Media Co Beijing Gehua CATV BlueFocus Communication China South Publishing  Media Focus Media
-Information Tech Guangdong Advertising Huayi Brothers Media IMAX China Holding Jiangsu Phoenix Oriental Pearl Wanda Film Zhejiang Huace
-Film  TV
-Company-specic regulatory disclosures
-by the Global Investment Research Division of Goldman Sachs and referred to in this research
-(Rmb120000)
-Goldman Sachs had a non-securities services client relationship during the past 12 months with Kweichow Moutai (Rmb120000)
-Distribution of ratingsinvestment banking relationships
+Xufa Liao, CFA: A-share Consumer Staples, A-share Media.
+A-share Consumer Staples: Angel Yeast, Anhui Gujing Distillery Co., C&S Paper Co., Jiangsu King's Luck Brewery, Jiangsu Yanghe, Kweichow Moutai,
+Luzhou Laojiao, Qinghai Huzhu Barley Wine Co., Shanghai M&G, Shanxi Xinghuacun Fen Wine, Sichuan Swellfun Co., Sichuan Teway Food Group,
+Wuliangye Yibin.
+A-share Media: Alpha Group, Beijing Enlight Media Co., Beijing Gehua CATV, BlueFocus Communication, China South Publishing & Media, Focus Media
+Information Tech, Guangdong Advertising, Huayi Brothers Media, IMAX China Holding, Jiangsu Phoenix, Oriental Pearl, Wanda Film, Zhejiang Huace
+Film & TV.
+Company-specific regulatory disclosures
+The following disclosures relate to relationships between The Goldman Sachs Group, Inc. (with its affiliates, "Goldman Sachs") and companies covered
+by the Global Investment Research Division of Goldman Sachs and referred to in this research.
+Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Kweichow Moutai
+(Rmb1,200.00)
+Goldman Sachs had a non-securities services client relationship during the past 12 months with: Kweichow Moutai (Rmb1,200,00)
+Distribution of ratings/investment banking relationships
 Goldman Sachs Investment Research global Equity coverage universe
-As of April 9 2020 Goldman Sachs Global Investment Research had investment ratings on 3023 equity securities Goldman Sachs assigns stocks as
-Buys and Sells on various regional Investment Lists stocks not so assigned are deemed Neutral Such assignments equate to Buy Hold and Sell for
-the purposes of the above disclosure required by the FINRA Rules See Ratings Coverage groups and related denitions below The Investment
-investment banking services within the previous twelve months
-Investment Banking Relationships
-22 April 2020
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
+As of April 9, 2020, Goldman Sachs Global Investment Research had investment ratings on 3,023 equity securities. Goldman Sachs assigns stocks as
+Buys and Sells on various regional Investment Lists; stocks not so assigned are deemed Neutral. Such assignments equate to Buy, Hold and Sell for
+the purposes of the above disclosure required by the FINRA Rules. See 'Ratings, Coverage groups and related definitions' below. The Investment
+Banking Relationships chart reflects the percentage of subject companies within each rating category for whom Goldman Sachs has provided
+investment banking services within the previous twelve months.
+Goldman Sachs
+Kweichow Moutai (600519.SS)
 Price target and rating history chart(s)
 Regulatory disclosures
 Disclosures required by United States laws and regulations
-public offerings in prior periods directorships for equity securities market making andor specialist role Goldman Sachs trades or may trade as a
-principal in debt securities (or in related derivatives) of issuers discussed in this report
-The following are additional required disclosures Ownership and material conicts of interest Goldman Sachs policy prohibits its analysts
-as ofcer or director Goldman Sachs policy generally prohibits its analysts persons reporting to analysts or members of their households from
-associated persons of Goldman Sachs  Co LLC and therefore may not be subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on
-Distribution of ratings See the distribution of ratings disclosure above  Price chart See the price chart with changes of ratings and price targets in
+See company-specific regulatory disclosures above for any of the following disclosures required as to companies referred to in this report: manager or
+co-manager in a pending transaction; 1% or other ownership; compensation for certain services; types of client relationships; managed/co-managed
+public offerings in prior periods; directorships; for equity securities, market making and/or specialist role. Goldman Sachs trades or may trade as a
+principal in debt securities (or in related derivatives) of issuers discussed in this report.
+The following are additional required disclosures: Ownership and material conflicts of interest: Goldman Sachs policy prohibits its analysts,
+professionals reporting to analysts and members of their households from owning securities of any company in the analyst's area of coverage.
+Analyst compensation: Analysts are paid in part based on the profitability of Goldman Sachs, which includes investment banking revenues. Analyst
+as officer or director: Goldman Sachs policy generally prohibits its analysts, persons reporting to analysts or members of their households from
+serving as an officer, director or advisor of any company in the analyst's area of coverage. Non-U.S. Analysts: Non-U.S. analysts may not be
+associated persons of Goldman Sachs & Co. LLC and therefore may not be subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on
+communications with subject company, public appearances and trading securities held by the analysts.
+Distribution of ratings: See the distribution of ratings disclosure above. Price chart: See the price chart, with changes of ratings and price targets in
+prior periods, above, or, if electronic format or if with respect to multiple companies which are the subject of this report, on the Goldman Sachs
 Additional disclosures required under the laws and regulations of jurisdictions other than the United States
-The following disclosures are those required by the jurisdiction indicated except to the extent already made above pursuant to United States laws and
-regulations Australia Goldman Sachs Australia Pty Ltd and its afliates are not authorised deposit-taking institutions (as that term is dened in the
-Banking Act 1959 (Cth)) in Australia and do not provide banking services nor carry on a banking business in Australia This research and any access to
-it is intended only for wholesale clients within the meaning of the Australian Corporations Act unless otherwise agreed by Goldman Sachs In
-producing research reports members of the Global Investment Research Division of Goldman Sachs Australia may attend site visits and other
-meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate and reasonable in the specic
-circumstances relating to the site visit or meeting To the extent that the contents of this document contains any nancial product advice it is general
-advice only and has been prepared by Goldman Sachs without taking into account a clients objectives nancial situation or needs A client should
-before acting on any such advice consider the appropriateness of the advice having regard to the clients own objectives nancial situation and needs
-A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests and a copy of Goldman Sachs Australian Sell-Side Research
-Brazil-registered analyst primarily responsible for the content of this research report as dened in Article 20 of CVM Instruction 598 is the rst author
-named at the beginning of this report unless indicated otherwise at the end of the text  Canada Goldman Sachs Canada Inc is an afliate of The
-Canada Inc has approved of and agreed to take responsibility for this research report in Canada if and to the extent that Goldman Sachs Canada Inc
-research may be obtained from Goldman Sachs (India) Securities Private Limited Research Analyst - SEBI Registration Number INH000001493 951-A
-Rational House Appasaheb Marathe Marg Prabhadevi Mumbai 400 025 India Corporate Identity Number U74140MH2006FTC160634 Phone 91 22
-6616 9000 Fax 91 22 6616 9001 Goldman Sachs may benecially own 1% or more of the securities (as such term is dened in clause 2 (h) the Indian
-research and any access to it is intended only for professional investors within the meaning of the Financial Services and Capital Markets Act
-from Goldman Sachs (Asia) LLC Seoul Branch  New Zealand Goldman Sachs New Zealand Limited and its afliates are neither registered banks
-nor deposit takers (as dened in the Reserve Bank of New Zealand Act 1989) in New Zealand This research and any access to it is intended for
-wholesale clients (as dened in the Financial Advisers Act 2008) unless otherwise agreed by Goldman Sachs A copy of certain Goldman Sachs
-Research reports distributed in the Russian Federation are not advertising as dened in the Russian legislation but are information and analysis not
-having product promotion as their main purpose and do not provide appraisal within the meaning of the Russian legislation on appraisal activity
-specic client and are prepared without analyzing the nancial circumstances investment proles or risk proles of clients Goldman Sachs assumes
-no responsibility for any investment decisions that may be taken by a client or any other person based on this research report  Singapore Further
-22 April 2020
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
-198602165W)  Taiwan This material is for reference only and must not be reprinted without permission Investors should carefully consider their own
-investment risk Investment results are the responsibility of the individual investor  United Kingdom Persons who would be categorized as retail
-clients in the United Kingdom as such term is dened in the rules of the Financial Conduct Authority should read this research in conjunction with prior
-Sachs International A copy of these risks warnings and a glossary of certain nancial terms used in this report are available from Goldman Sachs
-International on request
-European Union Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) (2016958) supplementing
-Regulation (EU) No 5962014 of the European Parliament and of the Council with regard to regulatory technical standards for the technical
-states the European Policy for Managing Conicts of Interest in Connection with Investment Research
-Japan Goldman Sachs Japan Co Ltd is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho
-69 and a member of Japan Securities Dealers Association Financial Futures Association of Japan and Type II Financial Instruments Firms Association
-any applicable disclosures required by Japanese stock exchanges the Japanese Securities Dealers Association or the Japanese Securities Finance
-Ratings coverage groups and related denitions
-Sell on an Investment List is determined by a stocks total return potential relative to its coverage Any stock not assigned as a Buy or a Sell on an
-Investment List with an active rating (ie a  stock that is not Rating Suspended Not Rated Coverage Suspended or Not Covered) is deemed Neutral
-the total return potential andor the likelihood of the realization of the return across their respective areas of coverage  The addition or removal of
-stocks from such Conviction lists do not represent a change in the analysts investment rating for such stocks
-Total return potential represents the upside or downside differential between the current share price and the price target including all paid or
-anticipated dividends expected during the time horizon associated with the price target Price targets are required for all covered stocks The total
-return potential price target and associated time horizon are stated in each report adding or reiterating an Investment List membership
-Coverage groups A list of all stocks in each coverage group is available by primary analyst stock and coverage group at
-Not Rated (NR) The investment rating and target price have been removed pursuant to Goldman Sachs policy when Goldman Sachs is acting in an
-Sachs Research has suspended the investment rating and price target for this stock because there is not a sufcient fundamental basis for
-determining or there are legal regulatory or policy constraints around publishing an investment rating or target The previous investment rating and
-price target if any are no longer in effect for this stock and should not be relied upon  Coverage Suspended (CS) Goldman Sachs has suspended
-is not available for display or is not applicable  Not Meaningful (NM) The information is not meaningful and is therefore excluded
-Global product distributing entities
-The Global Investment Research Division of Goldman Sachs produces and distributes research products for clients of Goldman Sachs on a global basis
-Brazil by Goldman Sachs do Brasil Corretora de Ttulos e Valores Mobilirios SA Ombudsman Goldman Sachs Brazil 0800 727 5764 and  or
-Sachs Canada Inc or Goldman Sachs  Co LLC in Hong Kong by Goldman Sachs (Asia) LLC in India by Goldman Sachs (India) Securities Private
-Ltd in Japan by Goldman Sachs Japan Co Ltd in the Republic of Korea by Goldman Sachs (Asia) LLC Seoul Branch in New Zealand by Goldman
-Sachs New Zealand Limited in Russia by OOO Goldman Sachs in Singapore by Goldman Sachs (Singapore) Pte (Company Number 198602165W)
-and in the United States of America by Goldman Sachs  Co LLC Goldman Sachs International has approved this research in connection with its
-distribution in the United Kingdom and European Union
-European Union Goldman Sachs International authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and
-the Prudential Regulation Authority has approved this research in connection with its distribution in the European Union and United Kingdom
-This research is for our clients only Other than disclosures relating to Goldman Sachs this research is based on current public information that we
-forecasts contained herein are as of the date hereof and are subject to change without prior notication We seek to update our research as
-appropriate but various regulations may prevent us from doing so Other than certain industry reports published on a periodic basis the large majority
-of reports are published at irregular intervals as appropriate in the analysts judgment
-Goldman Sachs conducts a global full-service integrated investment banking investment management and brokerage business We have investment
-trading desks that reect opinions that are contrary to the opinions expressed in this research Our asset management area principal trading desks and
-The analysts named in this report may have from time to time discussed with our clients including Goldman Sachs salespersons and traders or may
-discuss in this report trading strategies that reference catalysts or events that may have a near-term impact on the market price of the equity securities
-discussed in this report which impact may be directionally counter to the analysts published price target expectations for such stocks Any such
-trading strategies are distinct from and do not affect the analysts fundamental equity rating for such stocks which rating reects a stocks return
-potential relative to its coverage group as described herein
-We and our afliates ofcers directors and employees excluding equity and credit analysts will from time to time have long or short positions in act
-as principal in and buy or sell the securities or derivatives if any referred to in this research
-22 April 2020
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
-The views attributed to third party presenters at Goldman Sachs arranged conferences including individuals from other parts of Goldman Sachs do not
-necessarily reect those of Global Investment Research and are not an ofcial view of Goldman Sachs
-Any third party referenced herein including any salespeople traders and other professionals or members of their household may have positions in the
-products mentioned that are inconsistent with the views expressed by analysts named in this report
+The following disclosures are those required by the jurisdiction indicated, except to the extent already made above pursuant to United States laws and
+regulations. Australia: Goldman Sachs Australia Pty Ltd and its affiliates are not authorised deposit-taking institutions (as that term is defined in the
+Banking Act 1959 (Cth)) in Australia and do not provide banking services, nor carry on a banking business, in Australia. This research, and any access to
+it, is intended only for "wholesale clients" within the meaning of the Australian Corporations Act, unless otherwise agreed by Goldman Sachs. In
+producing research reports, members of the Global Investment Research Division of Goldman Sachs Australia may attend site visits and other
+meetings hosted by the companies and other entities which are the subject of its research reports. In some instances the costs of such site visits or
+meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate and reasonable in the specific
+circumstances relating to the site visit or meeting. To the extent that the contents of this document contains any financial product advice, it is general
+advice only and has been prepared by Goldman Sachs without taking into account a client's objectives, financial situation or needs. A client should,
+before acting on any such advice, consider the appropriateness of the advice having regard to the client's own objectives, financial situation and needs.
+A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests and a copy of Goldman Sachs' Australian Sell-Side Research
+Brazil-registered analyst primarily responsible for the content of this research report, as defined in Article 20 of CVM Instruction 598, is the first author
+named at the beginning of this report, unless indicated otherwise at the end of the text. Canada: Goldman Sachs Canada Inc. is an affiliate of The
+Goldman Sachs Group Inc. and therefore is included in the company specific disclosures relating to Goldman Sachs (as defined above). Goldman Sachs
+Canada Inc. has approved of, and agreed to take responsibility for, this research report in Canada if and to the extent that Goldman Sachs Canada Inc.
+disseminates this research report to its clients. Hong Kong: Further information on the securities of covered companies referred to in this research
+may be obtained on request from Goldman Sachs (Asia) L.L.C. India: Further information on the subject company or companies referred to in this
+research may be obtained from Goldman Sachs (India) Securities Private Limited, Research Analyst - SEBI Registration Number INH000001493, 951-A.
+6616 9000. Fax +91 22 6616 9001. Goldman Sachs may beneficially own 1% or more of the securities (as such term is defined in clause 2 (h) the Indian
+Securities Contracts (Regulation) Act, 1956) of the subject company or companies referred to in this research report. Japan: See below. Korea: This
+research, and any access to it, is intended only for "professional investors" within the meaning of the Financial Services and Capital Markets Act,
+unless otherwise agreed by Goldman Sachs. Further information on the subject company or companies referred to in this research may be obtained
+from Goldman Sachs (Asia) L.L.C., Seoul Branch, New Zealand: Goldman Sachs New Zealand Limited and its affiliates are neither "registered banks"
+nor "deposit takers" (as defined in the Reserve Bank of New Zealand Act 1989) in New Zealand. This research, and any access to it, is intended for
+"wholesale clients" (as defined in the Financial Advisers Act 2008) unless otherwise agreed by Goldman Sachs. A copy of certain Goldman Sachs
+Research reports distributed in the Russian Federation are not advertising as defined in the Russian legislation, but are information and analysis not
+having product promotion as their main purpose and do not provide appraisal within the meaning of the Russian legislation on appraisal activity.
+Research reports do not constitute a personalized investment recommendation as defined in Russian laws and regulations, are not addressed to a
+specific client, and are prepared without analyzing the financial circumstances, investment profiles or risk profiles of clients. Goldman Sachs assumes
+no responsibility for any investment decisions that may be taken by a client or any other person based on this research report. Singapore: Further
+Goldman Sachs
+Kweichow Moutai (600519.SS)
+information on the covered companies referred to in this research may be obtained from Goldman Sachs (Singapore) Pte. (Company Number:
+198602165W). Taiwan: This material is for reference only and must not be reprinted without permission. Investors should carefully consider their own
+investment risk. Investment results are the responsibility of the individual investor. United Kingdom: Persons who would be categorized as retail
+clients in the United Kingdom, as such term is defined in the rules of the Financial Conduct Authority, should read this research in conjunction with prior
+Goldman Sachs research on the covered companies referred to herein and should refer to the risk warnings that have been sent to them by Goldman
+Sachs International. A copy of these risks warnings, and a glossary of certain financial terms used in this report, are available from Goldman Sachs
+International on request.
+European Union: Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) (2016/958) supplementing
+Regulation (EU) No 596/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the technical
+arrangements for objective presentation of investment recommendations or other information recommending or suggesting an investment strategy
+states the European Policy for Managing Conflicts of Interest in Connection with Investment Research.
+Japan: Goldman Sachs Japan Co., Ltd. is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho
+69, and a member of Japan Securities Dealers Association, Financial Futures Association of Japan and Type II Financial Instruments Firms Association.
+Sales and purchase of equities are subject to commission pre-determined with clients plus consumption tax. See company-specific disclosures as to
+any applicable disclosures required by Japanese stock exchanges, the Japanese Securities Dealers Association or the Japanese Securities Finance
+Company.
+Ratings, coverage groups and related definitions
+Buy (B), Neutral (N), Sell (S) -Analysts recommend stocks as Buys or Sells for inclusion on various regional Investment Lists. Being assigned a Buy or
+Sell on an Investment List is determined by a stock's total return potential relative to its coverage. Any stock not assigned as a Buy or a Sell on an
+Investment List with an active rating (i.e., a stock that is not Rating Suspended, Not Rated, Coverage Suspended or Not Covered), is deemed Neutral.
+Each region's Investment Review Committee manages Regional Conviction lists, which represent investment recommendations focused on the size of
+the total return potential and/or the likelihood of the realization of the return across their respective areas of coverage. The addition or removal of
+stocks from such Conviction lists do not represent a change in the analysts' investment rating for such stocks.
+Total return potential represents the upside or downside differential between the current share price and the price target, including all paid or
+anticipated dividends, expected during the time horizon associated with the price target. Price targets are required for all covered stocks. The total
+return potential, price target and associated time horizon are stated in each report adding or reiterating an Investment List membership.
+Coverage groups: A list of all stocks in each coverage group is available by primary analyst, stock and coverage group at
+Not Rated (NR). The investment rating and target price have been removed pursuant to Goldman Sachs policy when Goldman Sachs is acting in an
+advisory capacity in a merger or strategic transaction involving this company and in certain other circumstances. Rating Suspended (RS). Goldman
+Sachs Research has suspended the investment rating and price target for this stock, because there is not a sufficient fundamental basis for
+determining, or there are legal, regulatory or policy constraints around publishing, an investment rating or target. The previous investment rating and
+price target, if any, are no longer in effect for this stock and should not be relied upon. Coverage Suspended (CS). Goldman Sachs has suspended
+coverage of this company. Not Covered (NC). Goldman Sachs does not cover this company. Not Available or Not Applicable (NA). The information
+is not available for display or is not applicable. Not Meaningful (NM). The information is not meaningful and is therefore excluded.
+Global product; distributing entities
+The Global Investment Research Division of Goldman Sachs produces and distributes research products for clients of Goldman Sachs on a global basis.
+Analysts based in Goldman Sachs offices around the world produce research on industries and companies, and research on macroeconomics,
+currencies, commodities and portfolio strategy. This research is disseminated in Australia by Goldman Sachs Australia Pty Ltd (ABN 21 006 797 897); in
+Brazil by Goldman Sachs do Brasil Corretora de Títulos e Valores Mobiliários S.A.; Ombudsman Goldman Sachs Brazil: 0800 727 5764 and / or
+Sachs Canada Inc. or Goldman Sachs & Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in India by Goldman Sachs (India) Securities Private
+Ltd.; in Japan by Goldman Sachs Japan Co., Ltd.; in the Republic of Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in New Zealand by Goldman
+Sachs New Zealand Limited; in Russia by OOO Goldman Sachs; in Singapore by Goldman Sachs (Singapore) Pte. (Company Number: 198602165W);
+and in the United States of America by Goldman Sachs & Co. LLC. Goldman Sachs International has approved this research in connection with its
+distribution in the United Kingdom and European Union.
+European Union: Goldman Sachs International authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and
+the Prudential Regulation Authority, has approved this research in connection with its distribution in the European Union and United Kingdom.
+General disclosures
+This research is for our clients only. Other than disclosures relating to Goldman Sachs, this research is based on current public information that we
+consider reliable, but we do not represent it is accurate or complete, and it should not be relied on as such. The information, opinions, estimates and
+forecasts contained herein are as of the date hereof and are subject to change without prior notification. We seek to update our research as
+appropriate, but various regulations may prevent us from doing so. Other than certain industry reports published on a periodic basis, the large majority
+of reports are published at irregular intervals as appropriate in the analyst's judgment.
+Goldman Sachs conducts a global full-service, integrated investment banking, investment management, and brokerage business. We have investment
+banking and other business relationships with a substantial percentage of the companies covered by our Global Investment Research Division.
+Our salespeople, traders, and other professionals may provide oral or written market commentary or trading strategies to our clients and principal
+trading desks that reflect opinions that are contrary to the opinions expressed in this research. Our asset management area, principal trading desks and
+investing businesses may make investment decisions that are inconsistent with the recommendations or views expressed in this research.
+The analysts named in this report may have from time to time discussed with our clients, including Goldman Sachs salespersons and traders, or may
+discuss in this report, trading strategies that reference catalysts or events that may have a near-term impact on the market price of the equity securities
+discussed in this report, which impact may be directionally counter to the analyst's published price target expectations for such stocks. Any such
+trading strategies are distinct from and do not affect the analyst's fundamental equity rating for such stocks, which rating reflects a stock's return
+potential relative to its coverage group as described herein.
+We and our affiliates, officers, directors, and employees, excluding equity and credit analysts, will from time to time have long or short positions in, act
+as principal in, and buy or sell, the securities or derivatives, if any, referred to in this research.
+Goldman Sachs
+Kweichow Moutai (600519.SS)
+The views attributed to third party presenters at Goldman Sachs arranged conferences, including individuals from other parts of Goldman Sachs, do not
+necessarily reflect those of Global Investment Research and are not an official view of Goldman Sachs.
+Any third party referenced herein, including any salespeople, traders and other professionals or members of their household, may have positions in the
+products mentioned that are inconsistent with the views expressed by analysts named in this report.
 This research is not an offer to sell or the solicitation of an offer to buy any security in any jurisdiction where such an offer or solicitation would be
-may uctuate Past performance is not a guide to future performance future returns are not guaranteed and a loss of original capital may occur
-Certain transactions including those involving futures options and other derivatives give rise to substantial risk and are not suitable for all investors
+illegal. It does not constitute a personal recommendation or take into account the particular investment objectives, financial situations, or needs of
+individual clients. Clients should consider whether any advice or recommendation in this research is suitable for their particular circumstances and, if
+appropriate, seek professional advice, including tax advice. The price and value of investments referred to in this research and the income from them
+may fluctuate. Past performance is not a guide to future performance, future returns are not guaranteed, and a loss of original capital may occur.
+Fluctuations in exchange rates could have adverse effects on the value or price of, or income derived from, certain investments.
+Certain transactions, including those involving futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors.
 Investors should review current options and futures disclosure documents which are available from Goldman Sachs sales representatives or at
-Transaction costs may be signicant in option strategies calling for multiple purchase and sales of options such as spreads Supporting documentation
-will be supplied upon request
-Differing Levels of Service provided by Global Investment Research The level and types of services provided to you by the Global Investment
-marketwide sector specic long term short term) the size and scope of your overall client relationship with GS and legal and regulatory constraints
-As an example certain clients may request to receive notications when research on specic securities is published and certain clients may request
-that specic data underlying analysts fundamental analysis available on our internal client websites be delivered to them electronically through data
-feeds or otherwise No change to an analysts fundamental research views (eg ratings price targets or material changes to earnings estimates for
-publication to our internal client websites or through other means as necessary to all clients who are entitled to receive such reports
-All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites Not all
-research content is redistributed to our clients or available to third-party aggregators nor is Goldman Sachs responsible for the redistribution of our
-research by third party aggregators For research models or other data related to one or more securities markets or asset classes (including related
- 2020 Goldman Sachs
-No part of this material may be (i) copied photocopied or duplicated in any form by any means or (ii) redistributed without the prior written
-consent of The Goldman Sachs Group Inc
-22 April 2020
-Kweichow Moutai (600519SS)
-1d683a11c25f4f6cbdfeb1dbe7d8b02d
+Transaction costs may be significant in option strategies calling for multiple purchase and sales of options such as spreads. Supporting documentation
+will be supplied upon request.
+Differing Levels of Service provided by Global Investment Research: The level and types of services provided to you by the Global Investment
+Research division of GS may vary as compared to that provided to internal and other external clients of GS, depending on various factors including your
+individual preferences as to the frequency and manner of receiving communication, your risk profile and investment focus and perspective (e.g.,
+marketwide, sector specific, long term, short term), the size and scope of your overall client relationship with GS, and legal and regulatory constraints.
+As an example, certain clients may request to receive notifications when research on specific securities is published, and certain clients may request
+that specific data underlying analysts' fundamental analysis available on our internal client websites be delivered to them electronically through data
+feeds or otherwise. No change to an analyst's fundamental research views (e.g., ratings, price targets, or material changes to earnings estimates for
+equity securities), will be communicated to any client prior to inclusion of such information in a research report broadly disseminated through electronic
+publication to our internal client websites or through other means, as necessary, to all clients who are entitled to receive such reports.
+All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites. Not all
+research content is redistributed to our clients or available to third-party aggregators, nor is Goldman Sachs responsible for the redistribution of our
+research by third party aggregators. For research, models or other data related to one or more securities, markets or asset classes (including related
+© 2020 Goldman Sachs.
+No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without the prior written
+consent of The Goldman Sachs Group, Inc.

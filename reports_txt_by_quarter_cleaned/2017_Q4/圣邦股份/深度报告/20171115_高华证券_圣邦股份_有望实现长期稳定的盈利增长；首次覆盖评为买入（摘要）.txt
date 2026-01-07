@@ -1,719 +1,428 @@
-圣邦股份 (300661SZ)
+投资决策
+圣邦股份 (300661.SZ)
+潜在回报: 25%
 有望实现长期稳定的盈利增长；首次覆盖评为买入 (摘要)
-圣邦股份是中国第二大模拟半导体设计公司，在物联网、电动车和AMOLED 领域
-拥有2000 多家客户和1000 种产品。我们预计圣邦将通过下列方式继续从海外同
-业手中赢得市场份额并实现盈利：1) 满足庞大的本地客户群的需求；2) 依靠其在
-国内市场上的差异化技术优势；3) 利用模拟半导体市场较为分散的特征（与规模
+建议理由
+圣邦股份是中国第二大模拟半导体设计公司,在物联网、电动车和 AMOLED 领域
+拥有 2,000 多家客户和 1,000 种产品。我们预计圣邦将通过下列方式继续从海外同
+业手中赢得市场份额并实现盈利: 1) 满足庞大的本地客户群的需求; 2) 依靠其在
+估值倍数
+国内市场上的差异化技术优势; 3) 利用模拟半导体市场较为分散的特征(与规模
+波动性
 更大的同业矽力杰相似）。我们认为该股股价尚未反映公司的长期增长潜力。我们
-首次覆盖圣邦股份给予买入评级，12 个月目标价格人民币116 元，上涨空间
-圣邦自2015 年以来大力投资于研发，2018 年50 种新产品将实现上量（用于物联
-网的低功率电源管理芯片(PMIC)、电池PMIC 和AMOLED 驱动器）。我们预计
-2017-21 年圣邦的收入年均复合增速将达到23%的强劲水平（2017 年预计同比增
-速为17%），但仍低于矽力杰2013-15 年间规模与之相似时50%的增速，归因于
+百分位
+20th
+40th
+80th
+100th
+60th
+■ 圣邦股份 (300661. SZ)
+25%。
+○ A股电信与科技行业平均水平
+投资摘要指标的全面描述请参见本
+报告的信息披露部分。
+主要数据
+推动因素
+圣邦自 2015 年以来大力投资于研发, 2018 年 50 种新产品将实现上量(用于物联
+网的低功率电源管理芯片(PMIC)、电池 PMIC 和 AMOLED 驱动器)。我们预计
+2017-21 年圣邦的收入年均复合增速将达到 23%的强劲水平(2017 年预计同比增
+速为 17%) ，但仍低于矽力杰 2013-15 年间规模与之相似时 50%的增速，归因于
 圣邦的研发投入密度较低以及产品结构有所不同。
-我们使用长期贴现市盈率以体现圣邦的长期增长潜力，由此得出12 个月目标价格
-人民币116 元：40 倍的2018 年预期市盈率同业均值乘以2021 年预期每股盈利并
-贴现回2018 年，隐含的2018 年预期市盈率为57 倍。虽然目前圣邦股价隐含的
-2018 年预期市盈率为46 倍（基于我们的预测），而A 股半导体同业均值为40
-倍，我们认为这一溢价与美国模拟半导体股票相对于半导体设计股票30%以上的
-溢价基本一致。尽管圣邦当前估值较高，我们认为隐含的2018 年预期市盈率目标
-57 倍有望实现，因为公司将：1) 利用其多元化产品组合；2) 实现产品结构改善；
+人民币 116 元:40 倍的 2018 年预期市盈率同业均值乘以 2021 年预期每股盈利并
+贴现回 2018 年，隐含的 2018 年预期市盈率为 57 倍。虽然目前圣邦股价隐含的
+倍,我们认为这一溢价与美国模拟半导体股票相对于半导体设计股票30%以上的
+溢价基本一致。尽管圣邦当前估值较高,我们认为隐含的 2018 年预期市盈率目标
+57 倍有望实现,因为公司将:1)利用其多元化产品组合;2)实现产品结构改善;
 并且(3) 在分散的模拟半导体市场上攫取市场份额。
+主要风险
 1) 中国模拟半导体企业之间的竞争加剧。2) 新产品推出延迟。3) 由于高度依赖台
 积电而面临供应链风险。
- 全文翻译随后提供
-吕东风 PhD (研究助理)
-存在业务关系，并且继续寻求发展这些关系。因此，投资者应当考虑
-到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告
+所属投资名单
+亚太买入名单
+行业评级: 中性
+吕东风, PhD (研究助理)
+存在业务关系，并且继续寻求发展这些关系。因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告
 信息披露附录，或请与您的投资代表联系。
-圣邦股份(300661SZ)
- 回报- 资本回报率
-报告的信息披露部分。
-12个月目标价格(Rmb)
-市值(Rmb mn  US mn)
-每股摊薄盈利(Rmb)
-每股基本盈利(Rmb)
-EVEBITDA(X)
-相对于沪深300指数
-资料来源：公司数据、高盛研究预测、FactSet（股价为11102017收盘价）
-圣邦股份 (300661SZ)
-圣邦股份： 财务数据概要
-损益表(Rmb mn)
-资产负债表(Rmb mn)
-销售、一般及管理费用
-其它营业收入（支出）
-每股基本盈利（非经常性项目前）(Rmb)
-每股基本盈利（非经常性项目后）(Rmb)
-每股摊薄盈利（非经常性项目后）(Rmb)
-不含员工股票期权费用的每股盈利(基本)
-不含员工股票期权费用的每股盈利(摊薄)
-每股净资产(Rmb)
-自由现金流收益率(%)
-增长率和利润率(%)
-平均运用资本回报率(%)
-净负债股东权益(%)
-EBIT利息保障倍数(X)
-现金流量表(Rmb mn)
-EVEBITDA(X)
-企业价值总投资现金(X)
-支付股息的现金（普通股和优先股）
-注：最后一个实际年度数据可能包括已公布和预测数据。
-资料来源：公司数据、高盛研究预测
-圣邦股份 (300661SZ)
-SG Micro No 2 player in Chinas analog device market
-Product overview A diversified portfolio of PMIC and signal chains
-Earnings analysis EPS CAGR of 27% in 2017E-2020E
-Analog firm trading at a premium expect further rerating
-Introducing MA rank for SG Micro
-Key risks to our investment thesis
-Main applications of SG Micros products
-Prices in this report are based on the Nov 09 2017 market close unless indicated otherwise
-Exhibit 1 We expect SG Micro to follow a similar growth
-pattern to Silergy in 2013 to 2016 at a similar scale
-Annual revenues at SG Micro and Silergy
-Exhibit 2 SG Micro has had lower RD intensity than
-% of RDrevenue at SG Micro and Silergy
-Source  Company data Gao Hua Securities Research
-Source  Company data Gao Hua Securities Research
-Revenue (mn)
-% RDrevenue
-圣邦股份 (300661SZ)
-SG Micro No 2 player in Chinas analog device market
-Founded in 2007 and based in Beijing SG Micro specializes in analog IC design and sales It has
-two main product lines PMIC (power management IC) and signal chain which are widely used in
-industrial automation and IoT devices (eg sharing bikes) SG Micro has a diversified portfolio of
-ADI and Maxim
-We are positive on SG Micros growth outlook for the following four reasons
-Compared with its overseas peers SG Micro has many local customers to provide
-superior service and time-to-market design enjoys abundant supply of junior engineers
+投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+圣邦股份:
+财务数据概要
+对此报告有贡献的人员
+吕东风, PhD
+侯雪婷
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+Table of contents
+Prices in this report are based on the Nov. 09 2017 market close unless indicated otherwise.
+% of R&D/revenue at SG Micro and Silergy
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+2017年11月13日
+圣邦股份 (300661.SZ)
+SG Micro: No. 2 player in China's analog device market
+Founded in 2007 and based in Beijing, SG Micro specializes in analog IC design and sales. It has
+two main product lines: PMIC (power management IC) and signal chain, which are widely used in
+cell phones, TVs, digital cameras, computers, consumer electronics, automobile electronics,
+industrial automation, and IoT devices (e.g., sharing bikes). SG Micro has a diversified portfolio of
+over 1,000 products and over 2,000 customers. It competes mostly with global peers such as TI,
+ADI, and Maxim.
+We are positive on SG Micro's growth outlook for the following four reasons.
+Compared with its overseas peers, SG Micro has many local customers to provide
+superior service and time-to-market design, enjoys abundant supply of junior engineers,
 and has a high valuation level in the A-share market to facilitate its potential acquisition
+of small local companies and attract talent.
 Analog is a fragmented market where smaller players can take share and remain
-profitable Richtek and Silergy are such examples For more on Chinas semiconductor
-design industry see our report Design and Conquer  in both new and traditional
-markets Buy SG Micro published on November 13 2017 While SG Micro has less than
-over 2012-2016 We expect SG Micro to continue the growth with a CAGR of 27% in
+profitable. Richtek and Silergy are such examples. For more on China's semiconductor
+design industry, see our report: Design and Conquer – in both new and traditional
+markets; Buy SG Micro, published on November 13, 2017. While SG Micro has less than
+1% market share in PMIC and signal chains, it delivered a net income CAGR of 14.5%
+over 2012-2016. We expect SG Micro to continue the growth with a CAGR of 27% in
 2017E-2021E driven by increased production and margin improvement from new
-products launches
+products launches.
 SG Micro offers a relatively more differentiated technology and product portfolio than its
-Chinese peers It leads in low power high current and high precision analog design
-chain products The revenue breakup between PMIC and signal chain products is 57%
-and 43% as of 1H17 respectively
-The Chairman and CEO of SG Micro Dr Zhang Shilong has a track record in analog
-RD over the past 20 years He has previously worked as an engineer in top analog
-firms in the US including Burr-Brown and TI and was also recruited by the Chinese
-government through the Thousand Talents Plan (the Recruitment Program of Global
-Experts by China) To maintain its technology advantage over peers we believe a low
-attrition rate of employees especially senior engineers is critical in an analog
-semiconductor industry SG Micro has had a very low employee turnover rate of below
-total shares are owned by employees while 46% is owned by Dr Zhang and
-shareholders acting in concert  We think having an experienced leader at the head of an
+Chinese peers. It leads in low power, high current, and high precision analog design.
+While most Chinese companies focus on PMIC, SG Micro has a niche position in signal
+chain products. The revenue breakup between PMIC and signal chain products is 57%
+and 43% as of 1H17, respectively.
+The Chairman and CEO of SG Micro, Dr. Zhang Shilong, has a track record in analog
+R&D over the past 20 years. He has previously worked as an engineer in top analog
+firms in the US, including Burr-Brown and TI, and was also recruited by the Chinese
+government through “the Thousand Talents Plan” (the Recruitment Program of Global
+Experts by China). To maintain its technology advantage over peers, we believe a low
+attrition rate of employees, especially senior engineers is critical in an analog
+semiconductor industry. SG Micro has had a very low employee turnover rate of below
+5% since inception in 2007, which we believe is partially attributed to competitive salary
+package and the relatively generous employee stock compensation. As of 3Q17, 7% of
+total shares are owned by employees while 46% is owned by Dr. Zhang and
+shareholders acting in concert. We think having an experienced leader at the head of an
 experienced and stable team should stand SG Micro in good stead to gain analog
-Our 12-month target price of Rmb 116 is based on long-term discounted PE of 40X derived from
-2018 average Wind consensus PE of A-share semiconductor design peers applied on 2021E
-EPS and discounted back to 2018E using a peer average COE of 113% implying a 2018E PE
-of 57X SG Micro is trading at a 465X 2018E GHe PE vs China A-share peer (Wind consensus)
-average of 40X We note that analog stocks often enjoy a valuation premium over other
-in the US analog stocks have over 30% higher 2018E PE and 600bps lower growth rate than
-other semiconductor design (Exhibit 3) Hence SG Micros valuation premium over other A-share
-semiconductor stocks is justified in our view We believe the stock will trade further up to our
-implied target multiple of 57X 2018E PE given its diversified portfolio improving product mix with
-higher margins and  continually increasing market share while retaining its technological
-advantage
-圣邦股份 (300661SZ)
-We initiate SG Micro with a Buy rating and upside potential of 23%
-Exhibit 3 Our PE premium of SG Micro over its A-share peer is largely consistent with the
-PE premium of over 30% of analog stocks over other semiconductor design stocks in US
-Note ADIs EPS CAGR is not included as growth is distorted by its acquisition of Linear Technology in 2017
-Pricing as of November 09 2017
-Source  Wind Bloomberg Goldman Sachs Global Investment Research Gao Hua Securities Research
-Key risks to our view include
-sizable Chinese analog names and while the market is fragmented we view the potential
-2) Delay in new products launch SG Micros new products should have higher gross margin if
-the launch delays or sell-through is below our expectations the margin recovery road (to global
-peers average level) will be challenging
-3) Supply chain management risk TSMC provides 99% of wafer supply to SG Micro and SG
-Micros new products with better cost structure will also rely on TSMCs advanced technology
-Although SG Micro is actively looking to cooperate with other suppliers any capacity issue from
-reliance on wafer supply from TSMC
-SG Micro (Rmb)
-TP implied 2018E PE
-A Share Other Semiconductor
-Goke Microelectronics
-Maxim (US)
-Texas Instruments (US)
-Analog Devices (US)
-Monolithic Power (US)
-US Other Semiconductor
-Intel (US)
-Xilinx (US)
-Skyworks (US)
-Qorvo (US)
-Microchip (US)
-Marvel (US)
-Cypress (US)
-Synaptics (US)
-Cavium (US)
-Trading PB
-Trading PE
-圣邦股份 (300661SZ)
-Product overview A diversified portfolio of PMIC and signal chains
-SG Micro has two main product lines namely PMIC and signal chains representing 60% and
-1000 products According to Gartner PMIC had US102bn TAM in 2016 similar to signal chain
-TAM of US103bn but signal chain products tend to have a longer life cycle and more stable
-chain business SG Micro has accumulated technology and new designs in its PMIC business in
+market share from global competitors like TI, ADI and Maxim.
+Our 12-month target price of Rmb 116 is based on long-term discounted P/E of 40X, derived from
+EPS and discounted back to 2018E using a peer average COE of 11.3%, implying a 2018E P/E
+average of 40X. We note that analog stocks often enjoy a valuation premium over other
+semiconductor companies due to analog's diversified product and customer bases. For example,
+in the US, analog stocks have over 30% higher 2018E P/E and 600bps lower growth rate than
+other semiconductor design (Exhibit 3). Hence, SG Micro's valuation premium over other A-share
+semiconductor stocks is justified in our view. We believe the stock will trade further up to our
+implied target multiple of 57X 2018E P/E given its diversified portfolio, improving product mix with
+higher margins and continually increasing market share while retaining its technological
+advantage.
+2017年11月13日
+圣邦股份 (300661.SZ)
+We initiate SG Micro with a Buy rating and upside potential of 23%.
+Note: ADI's EPS CAGR is not included as growth is distorted by its acquisition of Linear Technology in 2017.
+Key risks to our view include:
+1) Intensified competition among Chinese analog companies: We are aware of several
+sizable Chinese analog names, and while the market is fragmented, we view the potential
+increase in competition as a key risk.
+2) Delay in new products launch: SG Micro's new products should have higher gross margin, if
+the launch delays or sell-through is below our expectations, the margin recovery road (to global
+peers' average level) will be challenging.
+3) Supply chain management risk: TSMC provides 99% of wafer supply to SG Micro, and SG
+Micro's new products with better cost structure will also rely on TSMC's advanced technology.
+Although SG Micro is actively looking to cooperate with other suppliers, any capacity issue from
+TSMC could potentially cause problems for the company's normal operation given the high
+reliance on wafer supply from TSMC.
+2017年11月13日
+圣邦股份 (300661.SZ)
+Product overview: A diversified portfolio of PMIC and signal chains
+SG Micro has two main product lines, namely PMIC and signal chains, representing 60% and
+40% of its total revenues in 1H17E, respectively. The company has a diversified portfolio of over
+1,000 products. According to Gartner, PMIC had US$10.2bn TAM in 2016, similar to signal chain
+TAM of US$10.3bn, but signal chain products tend to have a longer life cycle and more stable
+margins. Often, a young analog company can ramp up a PMIC business faster than a signal
+chain business. SG Micro has accumulated technology and new designs in its PMIC business in
 the past two years and expects its PMIC business growth to surpass that of signal chain in 2017-
-Exhibit 4 SG Micro generated 60% and 40% of its total revenues from PMIC and signal chains in 1H17 respectively
-Introduction of signal chain and PMIC products
-Source  Company data Gao Hua Securities Research
-Operational Amplifiers
-AudioVideo Driver
-High efficiency of converting
-external power to output gain in
-order to guzzle less power and
-enable appliances to run cooler
-Tradeoff between high speed and
-low power depending on the
-needs of applications
-High speed high current drive
-and low noice inorder to output
-a high-quality analog signal that
-carries the data with high fidelity
-and power A well-designed high-
-performance interface IC can
-enable higher data rates andor
-longer cable lengths
-High speed and low pwer
-1) High performance in order to meet
-the high frequency requirements of
-advanced chips like microprocessors
-and graphics
-2) High efficiency in order to
-minimize the dissipation of heat
-3) High precision in order to deliver
-the necessary very low voltages
-required by advanced nodes
-transistors
-Nano Power Comparators
-High Speed Comparators
-DCDC Converters
-Application-Specific OpAmps
-Audio Power Amplifiers
-High Precision OpAmps
-Click-Pop Noise Suppressors
-P Supervisory Circuits
-Li-Ion Battery Chargers
-What are good qualities
-Product types and Descriptions
-Signal Chain Products
-A DC-coupled high-gain
-electronic voltage amplifier that
-can magnify the voltage andor
-the current of an input signle to a
-high-power output It needs an
-external power source
-Considered as a special set of
-two voltages or currents and
-outputs a digital signal indicating
-which is greater or lesser
-An IC which provides an
-interface function between a
-microprocessor microcontroller
-ASIC or general-purpose
-peripheral interface and a
-particular type of audio or video
-A device that can conduct analog or
-digital signals in either direction
-when on and isolates the switched
-terminals when off
-ICs for managing power
-requirements of the host system
-which refer to a wide range of chips
-At the most basic level PMICs take
-an input currentvoltage and
-transform it to a required output to
-deliver the necessary power (no more
-and no less) for running a
-semiconductor
-圣邦股份 (300661SZ)
-SG Micro sells most of its products through distributors to over 2000 diversified end-customers it
-sells directly only to ZTE SG Micros distributor partners are well known in China and include
-Beigaozhi Colorbeam Linpo Kei Kong etc The top-five distributors contribute around 62% of
-revenue While SG Micro works directly with end-customers for design-in its distributors fill the
-orders and handle logistics
-The smartphone sector represents 40% of SG Micros total revenues today but it is aiming for the
-smartphones consumer and autoindustrialsmedicals sectors to represent around 30% each in
-the near future
-SG Micro sources 99% of its wafers from TSMC the worlds leading foundry and relies on JCET
-TongFu and Unisem for packaging and testing
-Exhibit 5 SG Micro has a wide range of distributors and customers
-SG Micros supply chain distributors and end-customers
-Source  Company data Gao Hua Securities Research
-most of its peers due to its new entrant status in the China market and lack of cost advantages
-purchase wafers as well as packaging and testing services which are more expensive than
-internal productions at most overseas IDM (integrated design manufacturing) peers Despite its
-high-margin signal chain products SG Micro has lower margins than Silergy because Silergy has
+2019. The company expects its revenue mix of PMIC to increase to 70% in 2018 from 60% in
+1H17.
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+Diversified customer base and limited direct competition in China
+SG Micro sells most of its products through distributors to over 2,000 diversified end-customers; it
+sells directly only to ZTE. SG Micro's distributor partners are well known in China and include
+Beigaozhi, Colorbeam, Linpo, Kei Kong, etc. The top-five distributors contribute around 62% of
+revenue. While SG Micro works directly with end-customers for design-in, its distributors fill the
+orders and handle logistics.
+The smartphone sector represents 40% of SG Micro's total revenues today, but it is aiming for the
+smartphones, consumer, and auto/industrials/medicals sectors to represent around 30% each in
+the near future.
+SG Micro sources 99% of its wafers from TSMC, the world's leading foundry, and relies on JCET,
+TongFu, and Unisem for packaging and testing.
+Exhibit 5: SG Micro has a wide range of distributors and customers
+SG Micro's supply chain, distributors, and end-customers
+Source: Company data, Gao Hua Securities Research.
+In analog, SG Micro competes mostly with overseas companies (such as TI, ADI, and Maxim); it
+competes with Silergy in the standard DC/DC converter market. Its gross margins are lower than
+most of its peers due to its new entrant status in the China market and lack of cost advantages.
+Chinese analog companies, Silergy, SG Micro, and FineMade are fabless design companies that
+purchase wafers as well as packaging and testing services, which are more expensive than
+internal productions at most overseas IDM (integrated design manufacturing) peers. Despite its
+high-margin signal chain products, SG Micro has lower margins than Silergy because Silergy has
 a proprietary wafer manufacturing process that can reduce PMIC wafer cost by 20% relative to
-TSMCs generic process However SG Micro has said that TSMC has recently launched an
-180nm analog process that offers a similar cost structure as Silergys in-house process we
-expect the cost structure to improve over the next two years assuming Silergys cost structure
-remains in a steady state In addition SG Micro indicated that its new products tend to have
-higher margins so that as its new product increases in the mix its margin should improve
-gradually into 2018 and 2019 We expect around 100bps improvement in gross margins through
-2019E (vs 3Q17)
-Signal Chain
-Signal Chain
-Jiuan (Andon)
-圣邦股份 (300661SZ)
-Exhibit 6 In terms of development stage SG Micro is similar to where Silergy stood at 2013
-Source  Company data Gao Hua Securities Research
-Revenue (mn US)
-RD % of revenue
-SGA % of revenue
-圣邦股份 (300661SZ)
-Earnings analysis EPS CAGR of 27% in 2017E-2020E
-Revenue and profitability Given its lower RD intensity and improving product mix we expect
-SG Micros revenue growth to accelerate to 26% in 2018 from 17% yoy in 2017E and achieve a
-23% CAGR in 2017E-2021E below Silergys organic growth CAGR of 50% when it was operating
-in a similar scale in 2013-2015 In 2013-15 Silergy benefited from the rapid growth of the SSD
-quick ramp-up with the right end-application Looking forward SG Micro plans to drive its growth
-through PMIC design-in for IoT innovative devices (eg sharing bikes and Segway) and battery
-SG Micros GPM increased to 45% in 1H17 due to a temporary reduction of low-margin
+TSMC's generic process. However, SG Micro has said that TSMC has recently launched an
+180nm analog process that offers a similar cost structure as Silergy's in-house process; we
+expect the cost structure to improve over the next two years, assuming Silergy's cost structure
+remains in a steady state. In addition, SG Micro indicated that its new products tend to have
+higher margins so that, as its new product increases in the mix, its margin should improve
+gradually into 2018 and 2019. We expect around 100bps improvement in gross margins through
+2019E (vs 3Q17).
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+Earnings analysis: EPS CAGR of 27% in 2017E-2020E
+Revenue and profitability: Given its lower R&D intensity and improving product mix, we expect
+SG Micro's revenue growth to accelerate to 26% in 2018 from 17% yoy in 2017E, and achieve a
+23% CAGR in 2017E-2021E, below Silergy's organic growth CAGR of 50% when it was operating
+in a similar scale in 2013-2015. In 2013-15, Silergy benefited from the rapid growth of the SSD
+module business mainly driven by the company's focus on PMIC that has a large TAM and a
+quick ramp-up with the right end-application. Looking forward, SG Micro plans to drive its growth
+through PMIC design-in for IoT, innovative devices (e.g., sharing bikes and Segway) and battery.
+SG Micro's GPM increased to 45% in 1H17 due to a temporary reduction of low-margin
+smartphone business in the portfolio mix, but returned to 41% in 3Q17. The company expects its
 GPM to improve gradually as the mix of new products increases in the portfolio through 2018E-
-2021E We expect its GPM to improve by 2ppt to 43% in 2021E from 41% 2018E and help drive
-its EPS growth at 27% CAGR in 2017E-2020E
-Exhibit 7 We expect SG Micro to maintain stable growth
-with improving margin from 2017E-2021E
-SG Micros revenue and gross profit margin
-Exhibit 8 We expect SG Micros PMICs will outgrow
+2021E. We expect its GPM to improve by 2ppt to 43% in 2021E from 41% 2018E and help drive
+its EPS growth at 27% CAGR in 2017E-2020E.
+Exhibit 8: We expect SG Micro's PMICs will outgrow
 signal chain in the next few years
-SG Micros revenue mix
-Source  Company data Gao Hua Securities Research
-Source  Company data Gao Hua Securities Research
-We expect SG Micros OPEX as a % of revenue to stay stable at c23% in 2017E-2021E given its
-aim to continuously expand its product lines to narrow the gap with global leader TI and its net
-margin to improve to 199% in 2021E from 176% in 2017E driven by GPM improvement and
-from 149% in 2018E driven by continuous market share gains and net margin recovery
-Balance sheet SG Micro has a strong balance sheet It has a very short cash conversion cycle
-which averaged at 20 days in 2014-2016 below that of Silergy and On Bright at 92 and 107 days
-respectively SG Micros inventory days were shorter (average of 90 days vs 103 and 95 days at
-Silergy and On Bright) and its payable days were much longer (average of 96 days vs 34 and 65
-days at Silergy and On Bright) We attribute SG Micros short cash conversion to its superior
+SG Micro's revenue mix
+SG Micro's revenue and gross profit margin
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+We expect SG Micro's OPEX as a % of revenue to stay stable at c.23% in 2017E-2021E given its
+aim to continuously expand its product lines to narrow the gap with global leader TI, and its net
+margin to improve to 19.9% in 2021E from 17.6% in 2017E driven by GPM improvement and
+better net interest income. We expect SG Micro's ROE to improve moderately to 18.7% in 2021E,
+from 14.9% in 2018E, driven by continuous market share gains and net margin recovery.
+Balance sheet: SG Micro has a strong balance sheet. It has a very short cash conversion cycle
+which averaged at 20 days in 2014-2016, below that of Silergy and On Bright at 92 and 107 days,
+respectively. SG Micro's inventory days were shorter (average of 90 days vs. 103 and 95 days at
+days at Silergy and On Bright). We attribute SG Micro's short cash conversion to its superior
 supply chain management at its packaging partners and expect its cash conversion cycle to
-remain healthy Although our earnings model does not factor in any potential MA in the future
+remain healthy. Although our earnings model does not factor in any potential M&A in the future,
 we believe that the strong net cash position of over Rmb800mn by 2021E could potentially
 provide solid support for SG Micro to acquire small and private Chinese analog houses of good
-approach as a potential future strategy)
-Capex We also believe SG Micro will maintain its capex at a low level as it has done in the past
-given the nature of the fabless analog business model where the focus is on OPEX We also note
-Revenue (LHS)
-圣邦股份 (300661SZ)
-forecast SG Micros capex to sales ratio to stay at around 2% and free cash flow to grow at a
-CAGR of 25% in 2017E-2021E
-Dividends We also assume a dividend payout ratio of 10% in 2017E-2019E in line with the
-Leveragedebt SG Micro has zero debt as of 3Q17 While we do not rule out the possibility of
-requirement of raising funds in the next few years given the abundant cash at hand
-Exhibit 9 We expect SG Micros revenue growth to accelerate in 2018 reaping benefits of
-high investment in RD in 2015-2017
-Source  Company data Gao Hua Securities Research
-Exhibit 10 We expect SG Micros free cash flow to grow at 17%-27% in 2017E-2019E
-SG Micros cash flow statement 2014-2019E
-Source Company data Gao Hua Securities Research
-Total salesrevenues
-gross margin %
-Total operating expense
-EBITDA margin %
-EBIT  (operating profit)
-EBIT margin %
-Pre-tax margin %
-EPS - basic (Rmb)
-EPS - fully diluted (Rmb)
-Common dividends declared
-Dividends per share (Rmb)
-Fully diluted shares outstanding (mn)
-Cash flow statement (Rmb mn)
-Minority interest add-back
-Depreciation and amortization add-back
-(Increase)decrease in working capital 
-Other operating cash flow items
-Cash flow from operations
-(Acquisitions)divestitures
-Other investment cash flow items
-Cash flow from investing
-Increase(decrease) in short-term debt
-Increase(decrease) in long-term debt
-Increase(decrease) in preferred shares
-Change in minority interest
-Other financing cash flow items
-Cash flow from financing
-Free cash flow (Rmb mn)
-圣邦股份 (300661SZ)
-Exhibit 11 SG Micro has a strong balance sheet
-SG Micros balance sheet 2014-2019E
-Source  Company data Gao Hua Securities Research
-Balance sheet (Rmb mn)
-Inventorystocks
-Gross PPEFixed assets
-Less accumulated depreciation
-Net PPEFixed assets
-Accumulated amortization
-Other long-term assets
-Short-term debt and current portion of long-term de
-Other current liabilities
-Long-term debt
-Other long-term liabilitiescreditors
-Total long-term liabilities
-Common stock (includes par value capital surplus
-Minority interest (balance sheet)
-Total shareholders fundsequity
-Total liabilities and equity
-Other balance sheet items
-Book value per share (Rmb)
-Net working capital (Rmb mn)
-Net debt (Rmb mn)
-圣邦股份 (300661SZ)
-Analog firm trading at a premium expect further rerating
-We initiate SG Micro with a Buy rating and a 12-month target price of Rmb116 We value our A-
-capture long-term growth For SG Micro we apply its A-share peers average 2018E PE of 40X
-to 2021E EPS and discount it back to 2018 using a peer average cost of equity of 113% as
-shown in Exhibit 12 Our target price of Rmb116 implies a 2018E PE of 57X and 23% upside
-potential
-SG Micro is trading at a GHe PE of 465X 2018E vs China A-share peer (Wind consensus)
-average of 40X We note that analog stocks often enjoy a valuation premium over other
-in the United States analog stocks are trading at a 30% premium to the average 2018E PE for
-other semiconductor design firms while posting a growth rate that is 600 bps lower (Exhibit 3)
-Hence we believe SG Micros valuation premium over other A-share semiconductor stocks is
-justified
-We believe our implied 2018E PE of 57X should be achievable in the next 12 months based on
-the following reasons
+quality (in our discussion with SG Micro management, the company indicated its interest in this
+approach as a potential future strategy).
+Capex: We also believe SG Micro will maintain its capex at a low level as it has done in the past
+given the nature of the fabless analog business model where the focus is on OPEX. We also note
+that the company has also not indicated any capex plans or initiatives in the near future. We
+2017年11月13日
+圣邦股份 (300661.SZ)
+forecast SG Micro's capex to sales ratio to stay at around 2% and free cash flow to grow at a
+CAGR of 25% in 2017E-2021E.
+Dividends: We also assume a dividend payout ratio of 10% in 2017E-2019E, in line with the
+management's guidance (there is no past comparison as the company was only listed this year).
+Leverage/debt: SG Micro has zero debt as of 3Q17. While we do not rule out the possibility of
+the company levering up in the short to medium term, we believe SG Micro has limited
+requirement of raising funds in the next few years given the abundant cash at hand.
+SG Micro's income statement, 2014-2019E
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+2017年11月13日
+圣邦股份 (300661.SZ)
+SG Micro's balance sheet, 2014-2019E
+Source: Company data, Gao Hua Securities Research.
+2017年11月13日
+圣邦股份 (300661.SZ)
+Analog firm trading at a premium; expect further rerating
+We initiate SG Micro with a Buy rating and a 12-month target price of Rmb116. We value our A-
+share China fabless companies using a long-term discounted P/E methodology in order to
+capture long-term growth. For SG Micro, we apply its A-share peers' average 2018E P/E of 40X
+to 2021E EPS and discount it back to 2018 using a peer average cost of equity of 11.3%, as
+shown in Exhibit 12. Our target price of Rmb116 implies a 2018E P/E of 57X and 23% upside
+potential.
+average of 40X. We note that analog stocks often enjoy a valuation premium over other
+semiconductor companies due to analog's diversified product and customer bases. For example,
+in the United States, analog stocks are trading at a 30% premium to the average 2018E P/E for
+other semiconductor design firms while posting a growth rate that is 600 bps lower (Exhibit 3).
+Hence, we believe SG Micro's valuation premium over other A-share semiconductor stocks is
+justified.
+We believe our implied 2018E P/E of 57X should be achievable in the next 12 months based on
+the following reasons:
 We expect its new PMIC products with higher ASP to boost the earnings growth from
-toward new applications with high margins such as automobiles medical equipment
-industrial controls and IoT from its current high exposure to smartphone (40%-45% of
-total revenues)
-As one of Chinas leading analog brands SG Micro benefits from the trend of adopting
-Made in China products by customers like Huawei and ZTE which we believe will help
-and has a low turnover rate (below 5% since inception in 2007) A stable team is crucial
-Exhibit 12 Our 40X long-term discounted PE is derived from peers average 2018E
-consensus PE
-Source  Wind
-GokeMicroelectronics
-圣邦股份 (300661SZ)
-Exhibit 13 SG Micros average NTM PE since listing is
-SG Micros NTM consensus PE
-Exhibit 14 It has outperformed the index since listing in
-SG Micros relative performance vs MSCI China A share
-Source  Wind
-Source  Wind
-Note Prices as of November 09 2017 market close
-Source  Wind Datastream Gao Hua Securities Research
-SGMicro NTM PE
-Relative performance of SGMicro vs MSCI China A share since listing
-US mn 2017E 2018E
-SG Micro (Rmb)
-Goodix (Rmb)
-Hua Hong (HK)
-MediaTek (NT)
-Silergy (NT)
-TSMC (NT)
-TSMC-ADR (US)
-UMC-ADR(US)
-SMIC (US)
-SMIC-H shares (HK)
-Parade (NT)
-Trading PB
-Trading PE
-圣邦股份 (300661SZ)
-Introducing MA rank for SG Micro
-Across our global coverage we examine stocks using an MA framework considering both
+2017 after significant investment in R&D since 2015; the company is shifting its business
+toward new applications with high margins, such as automobiles, medical equipment,
+industrial controls, and IoT from its current high exposure to smartphone (40%-45% of
+total revenues).
+As one of China's leading analog brands, SG Micro benefits from the trend of adopting
+"Made in China" products by customers like Huawei and ZTE, which we believe will help
+it gain market share from global competitors (namely TI, ADI and Maxim).
+We believe the company can maintain its technology advantage given its strong design
+team. SG Micro continues to attract top engineers by offering competitive pay package
+and has a low turnover rate (below 5% since inception in 2007). A stable team is crucial
+for an analog company compared to a logic design house; analog design houses require
+more years of apprenticeship before a new analog professional can become productive.
+SG Micro's peers P/E consensus comparison
+2017年11月13日
+圣邦股份 (300661.SZ)
+Exhibit 13: SG Micro's average NTM P/E since listing is
+Exhibit 14: It has outperformed the index since listing in
+37X
+SG Micro's NTM consensus P/E
+SG Micro's relative performance vs. MSCI China A share
+Note: Prices as of November 09, 2017 market close.
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+Introducing M&A rank for SG Micro
+Across our global coverage, we examine stocks using an M&A framework, considering both
 qualitative factors and quantitative factors (which may vary across sectors and regions) to
-target price MA rank of 3 is considered immaterial and therefore does not factor into our price
-target and may or may not be discussed in research
-assessment of (1) impediments such as shareholder structurepreferences industry
-regulationsgovernment policies and takeover defense that could prevent a transaction from
-occurring (2) qualitative factors including (i) attractiveness of technology (ii) attractiveness of
-customers (iii) cost synergy potential (iv) otherintangible value and (3) quantitative factors
-including (i) market cap and (ii) valuations For details of our Asia technology MA framework
-see our report Pan Asia Technology Navigating the noise (6) Introduce MA framework update
-roadmap dated July 4 2016 for details
+incorporate the potential that certain companies could be acquired. We then assign an M&A rank
+as a means of scoring companies under our rated coverage from 1 to 3, with 1 representing high
+(30%-50%) probability of the company becoming an acquisition target, 2 representing medium
+(15%-30%) probability and 3 representing low (0%-15%) probability. For companies ranked 1 or 2,
+in line with our standard departmental guidelines we incorporate an M&A component into our
+target price. M&A rank of 3 is considered immaterial and therefore does not factor into our price
+target, and may or may not be discussed in research.
+In the Asia technology sector, we examine companies' potential as M&A targets based on the
+assessment of (1) impediments, such as shareholder structure/preferences, industry
+regulations/government policies, and takeover defense that could prevent a transaction from
+occurring, (2) qualitative factors, including: (i) attractiveness of technology, (ii) attractiveness of
+customers, (iii) cost synergy potential, (iv) other/intangible value; and (3) quantitative factors,
+including (i) market cap, and (ii) valuations. For details of our Asia technology M&A framework,
+see our report Pan Asia: Technology: Navigating the noise (6): Introduce M&A framework, update
+roadmap, dated July 4, 2016 for details.
 Shareholder structure and potential impediments
-When assessing potential impediments we take into consideration
-(1) Major shareholder preferences We assume that shareholders with a 20% or greater stake
-have a significant influence or a blocking stake and take into account any potential actions by
-major shareholders in the event of a possible acquisition by a third party (hostile or otherwise) or
-(2) Regulatory and or government policy impediments and
-(3) Possible takeover defense measures such as a poison pill
-We assign a No qualification if one or more of the three considerations above are applicable and
-a Yes qualification if these considerations do not apply
+We gauge whether there are any impediments to M&A, because if there are, a company is
+unlikely to become an M&A target even if it ranks 1 or 2 on qualitative/quantitative criteria.
+When assessing potential impediments we take into consideration:
+(1) Major shareholder preferences: We assume that shareholders with a 20% or greater stake
+have a significant influence, or a blocking stake, and take into account any potential actions by
+major shareholders in the event of a possible acquisition by a third party (hostile or otherwise), or
+if they have announced a preference to raise their stake in the company;
+(2) Regulatory and or government policy impediments; and
+(3) Possible takeover defense measures such as a poison pill.
+We assign a "No" qualification if one or more of the three considerations above are applicable and
+a "Yes" qualification if these considerations do not apply.
 Qualitative assessment criteria
-generating future value as well as its technological capabilities and intellectual property rights
-We assign a rank of 3 if its technology is unattractive or moderately attractive 2 if it is
-attractive and 1 if it is very attractive
-product applications We also take customer retention and end-market exposure (including sales
-channels) into account We assign a rank of 3 if its customer base and product applications are
-unattractive or moderately attractive 2 if they are attractive and 1 if they are very attractive
-3) Cost synergies We look at prospects for growth in business scale and scope for profit margin
-low or some possibility of synergies 2 if there is high possibility and 1 if there is very high
-possibility
-圣邦股份 (300661SZ)
-brand strength outstanding managementemployees and intangible assets We assign a rank of
-3 if they are unattractive or moderately attractive 2 if they are attractive and 1 if they are
-very attractive
+1) Technology: We look at whether or not a company has attractive technology capable of
+generating future value, as well as its technological capabilities and intellectual property rights.
+We assign a rank of "3" if its technology is unattractive or moderately attractive, "2" if it is
+attractive and "1" if it is very attractive.
+2) Customer base: We look at whether or not a company has an attractive customer base and
+product applications. We also take customer retention and end-market exposure (including sales
+channels) into account. We assign a rank of "3" if its customer base and product applications are
+unattractive or moderately attractive, "2" if they are attractive and "1" if they are very attractive.
+Cost synergies: We look at prospects for growth in business scale and scope for profit margin/
+yield improvement via acquisition of an M&A target company. We assign a rank of "3" if there is
+low or some possibility of synergies, "2" if there is high possibility, and "1" if there is very high
+possibility.
+2017年11月13日
+圣邦股份 (300661.SZ)
+4) Other: We look at whether or not a target company possesses attractive assets, including
+brand strength, outstanding management/employees, and intangible assets. We assign a rank of
+"3" if they are unattractive or moderately attractive, "2" if they are attractive, and "1" if they are
+very attractive.
 Quantitative assessment criteria
-cap ranges between regions) into account
-discount to peers are more likely to be acquired
-group or largely in line with the peer average 2 if its valuation is discounted and 1 if its
-valuation is significantly discounted We take into account differing valuation multiple ranges
-Within this framework we assign an MA rank of 3 to SG Micro
-Our MA rank of 3 for SG Micro mainly reflects its protective shareholding structure (nearly 46%
-held by Chairman Mr Zhang Shilong and other shareholders acting in concert) Moreover
+1) Market cap: We rank the companies in four tiers based on the assumption that the smaller a
+company is, the easier it is to acquire. We also take regional qualities (such as differing market
+cap ranges between regions) into account.
+Valuation: We look at whether a target company's three-year average P/E and EV/DACF are
+below the industry/peer average for the same period, as we believe companies trading at a
+discount to peers are more likely to be acquired.
+We assign a rank of "3" if the company appears overvalued relative to its respective industry peer
+group or largely in line with the peer average, "2" if its valuation is discounted, and "1" if its
+valuation is significantly discounted. We take into account differing valuation multiple ranges
+between the companies depending on their region and their peers.
+Within this framework, we assign an M&A rank of '3' to SG Micro
+Our M&A rank of '3' for SG Micro mainly reflects its protective shareholding structure (nearly 46%
+held by Chairman Mr. Zhang Shilong and other shareholders acting in concert). Moreover,
+as Mr. Zhang has laid out a very long-term vision/plan for the company, we believe he is likely to
+retain a controlling stake as long as possible. Also, we believe the company is more likely to be
 an acquirer rather than a target as the former would be a good way to quickly expand product
-acquisitions as a strategy
-Exhibit 16 We assign an MA rank of 3 to SG Micro
-SG Micros MA score summary
-Source  Gao Hua Securities Research
-Shareholders
-Shareholders structure
-Qualitative score (1-3)
-Quantitative score (1-3)
-圣邦股份 (300661SZ)
+lines to compete with global peers, and the company also indicated that it could consider
+acquisitions as a strategy.
+Exhibit 16: We assign an M&A rank of '3' to SG Micro
+SG Micro's M&A score summary
+Source: Gao Hua Securities Research.
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
 Key risks to our investment thesis
-We identify the following downside risks
-sizable Chinese analog names and although the market is fragmented we view the potential
-on DCDC PMICs On Bright focuses on ACDC PMIC 3PEAK strives to develop high-end signal-
-chain products FineMade makes PMICs for LED and battery applications etc Thus if Silergy (or
-2) Delay in new products launch SG Micros new products should have higher gross margin if
-the launch delays or sell-through is below our expectations the margin recovery (to global peers
-average level) road will be challenging
-3) Supply chain management risk TSMC provides 99% of wafer supply to SG Micro and SG
-Micros new products with better cost structure will also rely on TSMCs advanced technology
-Although SG Micro is actively looking to cooperate with other suppliers any capacity issue from
-reliance on wafer supply from TSMC
-4) Greater than expected employee turnover High-level engineers and engineer managers
-among senior engineers
-圣邦股份 (300661SZ)
-圣邦股份 (300661SZ)
-1) founder Dr Zhang and shareholders acting in concert and 2) employees own around 461%
-and 7% of total shares respectively
-Exhibit 17 Chairman Dr Zhang Shilong and shareholders acting in concert own 461% of SG Micros shares
-SG Micros shareholding structure as of 3Q17
-Source  Company data Gao Hua Securities Research
-Employees holding co
--Jin Hua Tian Da 217%
--Yin Hua Rui Shi 186%
--Gao Di Da Tian 156%
--Peng Cheng Int(partial) 102%
-Chairman Zhang Shilong and
-shareholders acting in concert
-Other VCs and individual
-圣邦股份 (300661SZ)
-Main applications of SG Micros products
-Exhibit 18 SG Micros PMIC and signal chain products have been widely used in various applications
-Source  Company data Gao Hua Securities Research
-Operational Amplifiers
-AudioVideo Driver
-Nano Power OpAmps
-Nano Power Comparators
-Headphone Drivers
-Analog Switches
-Low-dropout (LDO) volt regulator
-HeadphoneAmplifier
-Routes Signals for USB 20 Full-Speed
-Battery-PoweredEquipments
-WindowDetectors
-MicrophonePreamplifier
-Portable Instrumentation
-CommunicationEquipments
-Temperature Measurement
-IRReceiver
-Battery-Operated Equipment
-AudioVideoEquipments
-Battery Powered System
-MobilePhone  PDAs
-AlarmandMonitoringCircuits
-Cell Phones PDAs MP3s
-For examples
-Micro Power OpAmps
-ASICInputorOutputAmplifier
-High Speed Comparators
-Audio Drivers
-Complex Switches
-PCMCIACards
-SensorInterface
-Set-Top Box
-SDSDIOandMMCTwoPortMUX
-Modems  WirelessLAN
-PiezoElectricTransducerAmplifier Battery-Powered Systems
-PCVGAVideoMUXVideoSystems
-MP3Players
-MedicalInstrumentation
-Threshold DetectorsDiscriminators
-Blue-Ray DVD-Players
-AudioandVideoSignalRouting
-MobileCommunication
-3V5V Systems
-Home Theater in a Box
-DCDC Converters
-AudioOutput
-Zero-Crossing Detectors
-PDAPocketPCandSmartPhones
-PortableSystems
-Audio Power Amplifiers
-Load Switches
-USBPoweredModems
-SmokeDetectors
-MobilePhonesPDAsMP4sPMPs
-MotherboardUSBPowerSwitch
-CPUsandDSPs
-PortableandDesktopComputers
-USBDevicePowerSwitch
-PCCardsandNotebooks
-NotebookPC
-High Precision OpAmps
-DesktopsAudioSystem
-Hot-PlugPowerSupplies
-DigitalCameras
-PCMCIACards
-TemperatureMeasurements
-MultimediaMonitors
-LoadSwitch
-DSPCoreSupplies
-Battery-PoweredEquipment
-PressureSensors
-Distributed Power Systems
-PrecisionCurrentSensing
-Video Drivers
-Application-Specific OpAmps
-ElectronicScales
-SmartPhonesMobilePhones
-TFT-LCD Drive Circuits
-StrainGaugeAmplifiers
-Cable and Satellite Set-Top Boxes
-Low-PowerHandheldDevices
-Set-Top Boxes
-MedicalInstrumentation
-Video-on-Demand
-Pre-Regulator for Linear Regulators
-ThermocoupleAmplifiers
-Personal Video Recorders
-P Supervisory Circuits
-Cigarette Lighter Powered Devices
-Touch-Screen Displays
-HandheldTestEquipment
-Battery-PoweredComputersControllers
-DVDPVR Devices
-Single-CellLiBatteryPoweredProducts
-Low Noise OpAmps
-Other Portable Products
-MedicalEquipment
-PersonalMedicalProducts
-Personal Communication Devices
-EmbeddedControllers
-Portable Instrumentation
-Click-Pop Noise Suppressors
-CriticalPMonitoring
-GaAsBiasforRFPowerAmps
-AD Converter Buffer
-Set-TopBoxes
-SensorSupplyinPortableInstruments
-AD Converters
-Portable Gaming Consoles
-BipolarAmplifierSupply
-High Speed OpAmps
-Portable Media Players
-KeypadBacklight
-VideoLineDriver
-Li-Ion Battery Chargers
-WhiteLEDTorchFlashforCell
-Video-on-Demand
-Cellular and Cordless Phones
-Mobile Phones  PDAs etc
-PhonesDSCsandCamcorders
-Set-TopBoxes
-Stand-Alone Chargers
-SurveillanceVideoSystems
-Photodiode Amplification
-CCDImagingSystems
-Battery-Powered Instrumentation
-Small Logic Series products
-MOSFET Drivers
-GeneralPurposeHighCurrentBoost
-DigitalCameras
-Products and Applications
-GenericLightingFlash
-StrobeApplications
-Product types and Descriptions
-Signal Chain Products
-A DC-coupled high-gain
-electronic voltage amplifier that
-can magnify the voltage andor
-the current of an input signle to a
-high-power output It needs an
-external power source
-Considered as a special set of
-two voltages or currents and
-outputs a digital signal indicating
-which is greater or lesser
-An IC which provides an
-interface function between a
-microprocessor microcontroller
-ASIC or general-purpose
-peripheral interface and a
-particular type of audio or video
-A device that can conduct analog or
-digital signals in either direction
-when on and isolates the switched
-terminals when off
-ICs for managing power
-requirements of the host system
-which refer to a wide range of chips
-At the most basic level PMICs take
-an input currentvoltage and
-transform it to a required output to
-deliver the necessary power (no more
-and no less) for running a
-semiconductor
-圣邦股份 (300661SZ)
-不与，也将不会与本报告中的具体推荐意见或观点直接或间接相关。
+We identify the following downside risks:
+1) Intensified competition among Chinese analog companies: We are aware of several
+sizable Chinese analog names, and although the market is fragmented, we view the potential
+increase competition will be the key risk. For example, Silergy is the Chinese leader and focuses
+on DC/DC PMICs; On Bright focuses on AC/DC PMIC; 3PEAK strives to develop high-end signal-
+chain products; FineMade makes PMICs for LED and battery applications, etc. Thus, if Silergy (or
+other companies that are currently focusing on PMICs) also start to produce signal chain products,
+we believe the competition may intensify.
+2) Delay in new products launch: SG Micro's new products should have higher gross margin, if
+the launch delays or sell-through is below our expectations, the margin recovery (to global peers'
+average level) road will be challenging.
+3) Supply chain management risk: TSMC provides 99% of wafer supply to SG Micro, and SG
+Micro's new products with better cost structure will also rely on TSMC's advanced technology.
+Although SG Micro is actively looking to cooperate with other suppliers, any capacity issue from
+TSMC could potentially cause problems for the company's normal operation given the high
+reliance on wafer supply from TSMC.
+4) Greater than expected employee turnover: High-level engineers and engineer managers
+are very sought after in China. Any slowdown in the growth of the company and decline in
+employee stock compensation can potentially negatively impact the employee turnover especially
+among senior engineers.
+Appendices
+2017年11月13日
+圣邦股份 (300661.SZ)
+Ownership structure
+SG Micro has a strong founder and offers generous stock compensation to employees. Currently,
+1) founder Dr. Zhang and shareholders acting in concert and 2) employees own around 46.1%
+and 7% of total shares, respectively.
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+Main applications of SG Micro's products
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+信息披露附录
+我们，吕东风, PhD、 侯雪婷，在此申明，本报告所表述的所有观点准确反映了我们对上述公司或其证券的个人看法。此外，我们的薪金的任何部分不曾与，
+不与, 也将不会与本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增长、
 回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：
-增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本回报率
-和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EVFCF、EVEBITDA、EVDACF、市净率。 波动性根据12 个月的历史
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化,但标准方法如下:
+增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如 CROCI、平均运用资本回报率
+和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据 12 个月的历史
 波动性计算并经股息调整。
+并购评分
 在我们的全球覆盖范围中，我们使用并购框架来分析股票，综合考虑定性和定量因素（各行业和地区可能会有所不同）以计入某些公司被收购的可能性。然后
-我们按照从1 到3 对公司进行并购评分，其中1 分代表公司成为并购标的的概率较高(30%-50%)，2 分代表概率为中等(15%-30%)，3 分代表概率较低(0%-
-15%)。对于评分为1 或2 的公司，我们按照研究部统一标准将并购因素体现在我们的目标价格当中。并购评分为3 被认为意义不大，因此不予体现在我们的目
+我们按照从1到3对公司进行并购评分，其中1分代表公司成为并购标的的概率较高(30%-50%),2分代表概率为中等(15%-30%),3分代表概率较低(0%-
+Quantum
 Quantum 是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比较。
+GS SUSTAIN
 GS SUSTAIN 是一项侧重于通过发现优质行业领先企业而实现长期超额收益的全球投资策略。GS SUSTAIN 50 关注名单列出了我们认为凭借出色的资本回
-报、具有可持续性的竞争优势和对ESG（环境、社会和企业治理）风险的有效管理而有望在长期内相对于全球同业表现出色的行业领军企业。候选企业主要基
+报、具有可持续性的竞争优势和对 ESG（环境、社会和企业治理）风险的有效管理而有望在长期内相对于全球同业表现出色的行业领军企业。候选企业主要基
 于对企业在这三方面表现的综合量化分析筛选而出。
-吕东风 PhD：A 股电信与科技、大中华电信与科技。侯雪婷：A 股电信与科技、大中华电信与科技。
-A 股电信与科技：光迅科技、中联通(A)、大华股份、烽火通信、歌尔股份、汇顶科技、海康威视、海能达、圣邦股份、立讯精密、欧菲光、网宿科技、中兴通
+相关的股票研究范围
+吕东风, PhD: A 股电信与科技、大中华电信与科技。侯雪婷: A 股电信与科技、大中华电信与科技。
+A 股电信与科技: 光迅科技、中联通(A)、大华股份、烽火通信、歌尔股份、汇顶科技、海康威视、海能达、圣邦股份、立讯精密、欧菲光、网宿科技、中兴通
+讯(A)。
 大中华电信与科技：中国通信服务、中国移动、中国移动(ADR)、中电信、中电信(ADR)、中联通(H)、中联通(ADS)、华虹半导体、联发科、谱瑞科技、矽力
 杰、中芯国际、中芯国际(ADR)、舜宇光学、台积电、台积电 (ADR)、联电、联电 (ADR)、中兴通讯(H)。
-没有对下述公司的具体信息披露： 圣邦股份 (Rmb9815)
+信息披露
+与公司有关的法定披露
+的关系。
+没有对下述公司的具体信息披露: 圣邦股份 (Rmb98.15)
 公司评级、研究行业及评级和相关定义
 定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地区投资评估
 出评级的分布可能根据地区投资评估委员会的决定而有所不同。此外，每个地区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模
-格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。
-的其中一项代表其根据行业历史基本面及或估值对研究对象的投资前景的看法。 具吸引力(A)：未来12 个月内投资前景优于研究范围的历史基本面及或估
-值。 中性(N)：未来12 个月内投资前景相对研究范围的历史基本面及或估值持平。 谨慎(C)：未来12 个月内投资前景劣于研究范围的历史基本面及或估
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予以除去。
+了改变。
+的其中一项代表其根据行业历史基本面及 / 或估值对研究对象的投资前景的看法。 具吸引力(A): 未来 12 个月内投资前景优于研究范围的历史基本面及 / 或估
+值。中性(N):未来 12 个月内投资前景相对研究范围的历史基本面及 / 或估值持平。谨慎(C):未来 12 个月内投资前景劣于研究范围的历史基本面及 / 或估
 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票给予投资评级和价
-格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经暂停对该公司的研究。
-没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因此不包括在报告内。
-圣邦股份 (300661SZ)
-本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整性，客
-户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会适时地更新
-我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们的资
-产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
-本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
-在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到个别
-客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意见。本报告
-中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失本金。
-某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自这一
-投资的收入产生不良影响。
-策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。
-全球投资研究部提供的不同服务层级：根据您对接收沟通信息的频率和方式的个人偏好、您的风险承受能力、投资重心和视角（例如整体市场、具体行业、长
-盈利预测大幅调整）的改变，在被纳入研究报告、并通过电子形式发表在内部客户网上或通过其它必要方式向有权接收此类研究报告的所有客户大范围发布之
-前，不得向任何客户透露。
-或资产类别（包括相关服务）的研究报告、模型或其它数据，请联络您的高华销售代表。
+格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS): 我们已经暂停对该公司的研究。
+没有研究(NC): 我们没有对该公司进行研究。 不存在或不适用(NA): 此资料不存在或不适用。 无意义(NM): 此资料无意义, 因此不包括在报告内。
+全球投资研究
+2017年11月13日
+圣邦股份 (300661.SZ)
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。

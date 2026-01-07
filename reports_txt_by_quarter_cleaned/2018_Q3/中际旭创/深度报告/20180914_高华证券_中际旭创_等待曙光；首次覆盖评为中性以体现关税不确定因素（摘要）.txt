@@ -1,1420 +1,942 @@
-主要数据
-要素概要
-资料来源：公司数据、高盛研究预测
-  
-   
-    
-    
-    
-把握云5G资本开支机遇的光通信收发模块龙头企业 
+中际旭创 (300308.SZ)
+等待曙光；首次覆盖评为中性以体现关税不确定因素 (摘要)
+300308.SZ
+股价: Rmb42.06 上涨空间: 9.4%
 中际旭创是领先的光通信收发模块（可令数据通过光缆传输的设备）
-企业，2017年在全球拥有约5%的市场份额。目前公司已成为谷歌、
-亚马逊、阿里巴巴和腾讯等云方案提供商的主要供应商，并将于2019
-年率先推出下一代400G产品。同时，公司还将积极参与5G移动通信
+企业,2017年在全球拥有约5%的市场份额。目前公司已成为谷歌、
+亚马逊、阿里巴巴和腾讯等云方案提供商的主要供应商,并将于2019
+年率先推出下一代400G产品。同时,公司还将积极参与5G移动通信
 市场，其产品已经获得华为和中兴通讯的认可。我们预计云和5G双
+主要数据
 重资本开支引擎将推动行业增长，而中际旭创将凭借强大的研发能
+市值: Rmb19.9bn / $2.9bn
 力、领先的封装技术以及产品的快速更新继续扩大市场份额。
-但关税不确定因素令我们将该股评为中性
-由于美国客户对中际旭创总收入的贡献为60%左右，我们认为如果美
+企业价值: Rmb20.1bn / $2.9bn
+3个月日均成交量: Rmb229.8mn / $33.9mn
+A股电信与科技
+由于美国客户对中际旭创总收入的贡献为60%左右,我们认为如果美
 国加征关税，则公司盈利将受到重大影响。尽管我们的预测中尚未计
 入任何关税因素，但根据我们的情景分析（其中对中际旭创主要供应
-商进行了压力测试），我们估算：
-关税加征10%将令公司20181920年每股盈利减少
-12%16%2%；
-关税加征25%将令公司20181920年每股盈利减少
-18%30%12%
-12个月目标价人民币46元，体现了关税不确定因素
-鉴于关税不确定性，我们以中际旭创历史谷底估值倍数20倍乘以
-2019年预期每股盈利人民币229元，得出12个月目标价人民币为46
+商进行了压力测试),我们估算:
+关税加征10%将令公司2018/19/20年每股盈利减少
+12%/16%/2%;
+关税加征25%将令公司2018/19/20年每股盈利减少
+3/18
+9/18 E 12/18 E
+6/18
+18%/30%/12%;
+每股盈利 (Rmb)
+鉴于关税不确定性,我们以中际旭创历史谷底估值倍数20倍乘以
 元。我们还进行了不同的情景分析，包括根据高盛美国宏观经济团队
-的预测，对加征25%关税的情景赋予70%的概率，并对不加征关税的
-情景赋予30%的概率，这一方法得出的估值为人民币43元。
- 全文翻译随后提供
-  
-  
-  
-  
-中际旭创 (300308SZ)
-等待曙光；首次覆盖评为中性以体现关税不确定因素 (摘要)
-2018年9月13日  336PM CST
+的预测,对加征25%关税的情景赋予70%的概率,并对不加征关税的
+情景赋予30%的概率,这一方法得出的估值为人民币43元。
 因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告为作出投资决策的唯一
+全球投资研究
+中际旭创 (300308.SZ)
+资产负债表 (Rmb mn) __
+中际旭创 (300308.SZ)
+评级自2018年9月13日
+比率和估值
 增长率和利润率 (%)
-资料来源：公司数据、高盛研究预测、FactSet（股价为2018年9月12日收盘价）
+股价走势图
+相对于沪深300指数
 损益表 (Rmb mn)
-         
-         
-BCDE9F78
-BCDE9F78
-BCDE9FG8
-BCDE9FG8
-HI-JKLB70MN OP
-HI-JKLB70MN OP
-HI-)QKLB70MN OP
-HI-)QKLB70MN OP
-HI-JKLBG0MN OP
-HI-JKLBG0MN OP
-HI-)QKLBG0MN OP
-HI-)QKLBG0MN OP
-资产负债表 (Rmb mn) 
-现金流量表 (Rmb mn) 
-资料来源：公司数据、高盛研究预测
-FGHIJKL
-()%
-()%
-2()%
-2()%
--3456789
-()%
-()%
-中际旭创 (300308SZ)
-中际旭创 (300308SZ)
-PM Summary Waiting for the light
-Company Overview Leading optical module maker benefiting from cloud and 5G demand
-Scenario Analysis Potential US tariff impact and stress-testing the supply chain
-Competitive Advantages Strong RD superior packaging technology and fast product refresh cycle
-Industry Dual capex engines from cloud and 5G driving industry growth
-Financials Industry leading growth with superior ROE
-Valuation 12-month target price of Rmb46 reflects tariff uncertainties
-Key risks demand tariff and Silicon Photonics
-MA rank for Innolight
-中际旭创 (300308SZ)
-PM Summary Waiting for the light
-Founded and headquartered in Suzhou in 2008 Innolight researches designs builds
+2018年9月13日
+全球投资研究
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+PM Summary: Waiting for the light
+Company Overview
+Founded and headquartered in Suzhou in 2008, Innolight researches, designs, builds
 and markets high-speed optical transceiver modules - devices that enable the
-transmission of data via optical fiber cable With c5% global market share as of 2017
-Innolight is already a top supplier to cloud providers like Google Amazon Alibaba and
-Tencent and will be one of the first to provide next generation 400G products in 2019 At
-products already qualified by Huawei and ZTE
-With US exports accounting for c60% of current total revenue and all of its
-manufacturing facilities in China we believe potential US tariffs would have a material
-impact on earnings While we dont incorporate any tariffs into our estimates based on
-our scenario analysis that includes stress-testing Innolights top suppliers we see
-a 10% tariff to reduce EPS by 12%16%2%(18E19E20E)
-a 25% tariff to reduce EPS by 18%30%12%(18E19E20E)
+transmission of data via optical fiber cable. With c.5% global market share as of 2017,
+Innolight is already a top supplier to cloud providers like Google, Amazon, Alibaba and
+Tencent and will be one of the first to provide next generation 400G products in 2019. At
+the same time, it is set to supply to the 5G mobile communications market with its
+products already qualified by Huawei and ZTE.
+Scenario Analysis
+With US exports accounting for c.60% of current total revenue, and all of its
+manufacturing facilities in China, we believe potential US tariffs would have a material
+impact on earnings. While we don't incorporate any tariffs into our estimates, based on
+our scenario analysis that includes stress-testing Innolight s top suppliers, we see:
+a 10% tariff to reduce EPS by 12%/16%/2%(18E/19E/20E);
+a 25% tariff to reduce EPS by 18%/30%/12%(18E/19E/20E).
 Competitive Advantages
-1 Superior RD strength
-Stable management team with rich experience in RD
+#1: Superior R&D strength
+Stable management team with rich experience in R&D
+Strong commitment in R&D
 Industry-leading packaging technologies
-2 Fast decision making and product refresh cycle
-Concentrated RD focus on packaging technology
+#2: Fast decision making and product refresh cycle
+Concentrated R&D focus on packaging technology
 Industry-leading manufacturing facilities and experienced production personnel
 Strategic relationship with upstream chip makers and sub-module suppliers
 Trust building with key customers
-3 Best-in-class operational efficiency
-Lower RD and SGA costs vs overseas peers
-Higher gross profit margin vs domestic peers
-fixed-line network transport network and access network (FTTH) and wireless network
-(eg 4G 5G)
-中际旭创 (300308SZ)
-The main drivers of the growth are (1) increasing demand for data center services (2)
+#3: Best-in-class operational efficiency
+Lower R&D and SG&A costs vs. overseas peers
+Higher gross profit margin vs. domestic peers
+Industry
+The optical transceiver module market can be divided into two main sectors, Telecom
+and Datacom (i.e. datacenters/cloud). The Telecom market can be further divided into
+fixed-line network, transport network and access network (FTTH) and wireless network
+(e.g., 4G, 5G).
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Datacom: We forecast that the optical transceiver module market size of the global
+Datacom sector growing at 20% CAGR between 2018 and 2022, reaching $5.8 billion.
+The main drivers of the growth are (1) increasing demand for data center services, (2)
 continued penetration of fiber used in new-built data centers and (3) optical transceiver
-data rate upgrade in the newly built data centers
-at a 39% CAGR from 2018 to 2022 arriving at 17 billion (1) We forecast that the
+data rate upgrade in the newly built data centers.
+Telecom: According to our estimate, Innolight's addressable Telecom market will grow
+at a 39% CAGR from 2018 to 2022, arriving at $1.7 billion. (1) We forecast that the
 global 5G base station will reach around 12 million units in 2027 (the end of the 5G
-cycle) double the number of the total 4G base stations due to shorter coverage area (2)
+cycle), double the number of the total 4G base stations due to shorter coverage area. (2)
 25G and 100G optical transceiver modules will be the mainstream choice for the 5G
-fronthaul transmission network vs 10G modules for 4G network
-We believe Innolights 100G and 400G transceiver modules will be the key growth
-rate transceiver modules Going forward 100G and 400G transceiver modules will be
-the mainstream choice in our view for the data center accesscore layer networks and
-5G fronthaulbackhaul networks
-Innolight also has superior ROE than the majority of its global peers below industry
-average cash conversion cycle with low and stable financial leverage We see healthy
-and growing free cash flow over the next three years
-Given uncertainty around tariffs we apply Innolights trough multiple of 20X to 2019E
-EPS of Rmb229 to arrive at 12-month target price of Rmb46 implying 9% upside and
-therefore we initiate at Neutral We also explore different scenarios with the potential
-tariff and different multiples (detailed further inside) and a probability weighted
-theoretical value Scenarios
-No tariff Rmb69 (based on 30X PE on 2019E EPS of Rmb229) 64% upside
-10% tariff Rmb48 (based on 25X PE on 2019E EPS of Rmb193) 14% upside
-25% tariff Rmb32 (based on 20X PE on 2019E EPS of Rmb161) 24% downside
-Our US macro team assigns a 70% chance of tariff implementation with 25% on
-non-consumer products and an eventual deal to be reached in 12 months time
-Based on this for one scenario we apply a 70% probability to a 25% tariff scenario (20X
-PE)  a 30% probability to no tariff scenario (30X PE) to derive an implied value of
+fronthaul transmission network vs. 10G modules for 4G network.
+Financials
+We believe Innolight's 100G and 400G transceiver modules will be the key growth
+avenue for the company. With the constantly growing demand for data from end users,
+both Datacom and Telecom players are upgrading their current network with higher data
+rate transceiver modules. Going forward, 100G and 400G transceiver modules will be
+the mainstream choice in our view for the data center access/core layer networks and
+5G fronthaul/backhaul networks.
+Innolight also has superior ROE than the majority of its global peers, below industry
+average cash conversion cycle, with low and stable financial leverage. We see healthy
+and growing free cash flow over the next three years.
+Valuation
+Given uncertainty around tariffs, we apply Innolight's trough multiple of 20X to 2019E
+EPS of Rmb2.29 to arrive at 12-month target price of Rmb46, implying 9% upside and
+therefore we initiate at Neutral. We also explore different scenarios with the potential
+tariff, and different multiples (detailed further inside), and a probability weighted
+theoretical value. Scenarios:
+No tariff: Rmb69 (based on 30X P/E on 2019E EPS of Rmb2.29), 64% upside
+10% tariff: Rmb48 (based on 25X P/E on 2019E EPS of Rmb1.93), 14% upside
+25% tariff: Rmb32 (based on 20X P/E on 2019E EPS of Rmb1.61), 24% downside
+Our US macro team assigns a 70% chance of tariff implementation, with 25% on
+non-consumer products, and an eventual "deal" to be reached in 12 months' time.
+Based on this, for one scenario we apply a 70% probability to a 25% tariff scenario (20X
+P/E) + a 30% probability to no tariff scenario (30X P/E), to derive an implied value of
+Rmb43.
+Key risks
 Stronger or weaker demand from cloud and 5G capex
 Uncertainties around tariff implementation
-Competition from Silicon Photonics
-中际旭创 (300308SZ)
-Company Overview Leading optical module maker benefiting from
+3. Competition from Silicon Photonics
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Company Overview: Leading optical module maker benefiting from
 cloud and 5G demand
 A leading player in the global optical transceiver module industry
-Founded and headquartered in Suzhou in 2008 Innolight researches designs builds
+Founded and headquartered in Suzhou in 2008, Innolight researches, designs, builds
 and markets high-speed optical transceiver modules - devices that enable the
-transmission of data via optical fiber cable - used in a range of applications including
-transceiver modules work by converting a servers electrical signals into optical
-signals then transporting those optical signals by fiber-optic cables to a different server
-and then converting them back into electrical signals
+transmission of data via optical fiber cable - used in a range of applications, including
+cloud computing/data centers, long distance transmission and wireless access. The
+transceiver modules work by converting a server's electrical signals into optical
+signals, then transporting those optical signals by fiber-optic cables to a different server,
+and then converting them back into electrical signals.
 Innolight is a pure-play optical transceiver module manufacturer and its key investors
-include CapitalG the venture-capital fund of Googles parent Alphabet Inc and was
-acquired in July 2017 by Zhongji Equipment an A-share listed electrical equipment
-manufacturer based in Shandong Province After the acquisition Innolight accounted for
-Year founded
-Company headquarter
-Suzhou China
-Product portfolio
-10G25G40G100G200G400G optical transceiver module
-Top management
-Liu Sheng (CEO) Osa Mok (CMO) Wei-long William Lee (CTO) Charles X Wang
-Key investors
-CapitalG (Googles VC) Lightspeed Oriza Holdings Cowin Venture
-Market share
-Date of listing
-In July 2017 Innolight was acquired by Zhongji Equipment an A-share listed
-electrical equipment manufacturer Post acquisition Innolight accounted for
-9657% 2H17 revenue
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-The increase in data traffic from around the world especially with the growing
-penetration of cloud services and as the next generation of wireless networks looms is
+include CapitalG, the venture-capital fund of Google's parent Alphabet Inc, and was
+acquired in July 2017 by Zhongji Equipment, an A-share listed electrical equipment
+manufacturer based in Shandong Province. After the acquisition, Innolight accounted for
+96.57% of the combined company's 2H17 revenue.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+What is an optical transceiver module in layman's terms?
+Optical transceiver modules are devices that enable the transmission of data via optical fiber cables by converting
+electrical signals from servers into optical signals, and vice versa.
+Optical transceiver modules are applied in many scenarios - from cloud operators like Amazon to communications equipment
+manufacturers - and can operate at different transmission speeds and distances. The device is made up of a transmitter and receiver
+with one side of the module plugged into the server/switch, and the other side is connected to an optical fiber cable, thus achieving the
+conversion and transmission of data traffic. Simply put, whenever this is an optical fiber, an optical transceiver is needed at each end to
+"activate" the network.
+25G
+Laser
+TX3
+CDR
+Laser
+TX2
+CDR
+4:1WDMMux
+Lase
+CDR
+CDR
+Laser
+PIN
+RX(3
+CDR
+25G
+TIA
+RXC
+CDR
+PIN
+1:4WDMDeMu
+TIA
+PIN
+CDR
+RX1
+TIA
+CDR
+PIN
+100G
+Source: Company Data
+The increase in data traffic from around the world, especially with the growing
+penetration of cloud services and as the next generation of wireless networks looms, is
 boosting demand for optical fiber connections which can transmit data at a higher speed
-100G400G transceivers Innolight was among the first to develop products for the 100G
-players Currently Innolight is the No1 100G transceiver supplier for Google Amazon
-Alibaba Tencent and Huawei and No2 for Facebook according to Innolight
-management
-图表 2 Innolight revenue growth (2013-2017)
-图表 3 Innolight revenue breakdown by product type (2017)
-Innolight revenue (Rmb mn)
-yoy growth (%)
-equipment 6% 10G25G optical
-module 11%
-module 83%
-资料来源：Company data
-资料来源：Company data
-中际旭创 (300308SZ)
+and between longer distances as compared to copper cables.
+Innolight's R&D strength is demonstrated in the company's leading market position in
+100G/400G transceivers. Innolight was among the first to develop products for the 100G
+market in the industry and its products were widely used among global tier one Datacom
+players. Currently, Innolight is the No.1 100G transceiver supplier for Google, Amazon,
+Alibaba, Tencent, and Huawei, and No.2 for Facebook, according to Innolight
+management.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
 Innolight is also among the first to demonstrate the next generation 400G OSFP and
-QSFP-DD product in 2017 and has already started shipping these in small volumes to
+QSFP-DD product in 2017, and has already started shipping these in small volumes to
+Google and Amazon in 2018. The company expects volume shipment in 2019.
 Shareholding structure
-Innolights major shareholders are a mixture of Zhongji Equipment management
-Innolight management and institutional investors
-Weixiu Wang - Chairman and ex general manager of Zhongji Equipment is the
-largest shareholder holding a 153% stake as of June 2018 through direct holding
-(44% stake) and Shandong ZhongJi Investment Holding Co Ltd
-Sheng Liu - CEO of Innolight holds 6% stake through Suzhou Yixingfu Co Mgmt
-Center and Suzhou Yunjinchang Co Mgmt Center
+Innolight's major shareholders are a mixture of Zhongji Equipment management,
+Innolight management, and institutional investors.
+Weixiu Wang - Chairman and ex general manager of Zhongji Equipment, is the
+largest shareholder, holding a 15.3% stake as of June 2018, through direct holding
+(4.4% stake) and Shandong ZhongJi Investment Holding Co., Ltd.
+Sheng Liu - CEO of Innolight, holds 6% stake through Suzhou Yixingfu Co. Mgmt.
+Center and Suzhou Yunjinchang Co. Mgmt. Center.
 Hong Xin - ex Vice Chairman of Zhongji Equipment in 2012 and now holds 6% stake
-Xiaodong Wang - Charimans son serves as vice general manager and has 38%
-stake through Shandong ZhongJi Investment Holding Co Ltd
-图表 4 Innolight in numbers (as of June 2018)
-Key facts and numbers
-c75% of Innolights FY17 revenue was generated overseas
-Innolight has sales branches and distribution partners in North America Europe
-Japan Korea Russia Israel and China
-Prestigious global client base
-including Amazon Google Alibaba and Tencent and is among top suppliers to
-Stable management with rich
-predecessor) Opnext Oplink and Intel
-Innolight invested c8% of its FY2016 revenue in RD
-Innolight has 397 dedicated RD personnel
-Innolight has 3 RD centers in mainland China Taiwan and Silicon Valley in the
-Innolight has been granted 54 domestic patents of which 26 are invention
-Innolight has filed for 12 overseas patents and obtained 2 overseas patents
-Innolight has planned to invest Rmb 440 million in the new 400G production lines
-in Suzhou The new capacity is expected to produce 450000 400G transceiver
-Innolight produced 1990000 optical transceivers in 2H17
-Innolight has planned to invest Rmb 113 billion in a new industrial park in
-1600000 100G transceiver modules and 1400000 transceiver modules for 5G
-Manufacturing capability
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-Google Capital - holds a 30% stake in Innolight as an institutional investor
-Scenario Analysis Potential US tariff impact and stress-testing the
-With US exports accounting for around 60% of Innolights current total revenue and all
-of its manufacturing facilities located in China we believe potential tariffs on US imports
+directly.
+Xiaodong Wang - Chariman's son serves as vice general manager and has 3.8%
+stake through Shandong ZhongJi Investment Holding Co., Ltd.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Google Capital - holds a 3.0% stake in Innolight as an institutional investor.
+Scenario Analysis: Potential US tariff impact and stress-testing the
+supply chain
+With US exports accounting for around 60% of Innolight's current total revenue, and all
+of its manufacturing facilities located in China, we believe potential tariffs on US imports
 from China as proposed by the White House would have a material impact on earnings if
-enacted as optical transceiver modules are subject to the proposed tariff Therefore we
-conduct a scenario analysis and stress-testing on Innolights top suppliers to better
+enacted, as optical transceiver modules are subject to the proposed tariff. Therefore we
+conduct a scenario analysis and stress-testing on Innolight's top suppliers to better
 understand the potential change in estimates should the White House move forward with
-tariffs although note we do not incorporate any tariffs into our actual estimates given
-tariffs have not been implemented
-We conduct one scenario assuming tariffs are 25% in line with our US macro team
-which assigns a 70% chance of tariff implementation with 25% on non-consumer
-products and an eventual deal to be reached in 12 months time
-We also conduct a scenario assuming tariffs are 10% given this was the original
-proposed tariff before the White House lifted the proposal to 25%
-图表 5 Innolight shareholding structure (2Q18 reported)
-图表 6 Innolight Shareholding structure (2Q18 underlying)
-Holding Co
-Ltd 210%
-Suzhou Yixingfu Co
-Mgmt Center (Ltd
-Partnership) 86%
-Xin Hong 60%
-Wang Weixiu
-(Chairman) 44%
-Capital Co Ltd
-Co Mgmt Center
-(Ltd Partnership)
-(HK) Limited 36%
-Google Capital (HK)
-Limited 30%
-Inv Partnership
-(Ltd Partnership)
-Limited 21%
-Others 401%
-Wang Weixiu
-(Chairman)
-Liu Sheng
-(GM director)
-Xin Hong (Ex
-Xiaodong (Vice
-GM director
-Chairmans
-son) 38%
-Cloud (HK) Ltd
-(HK) Ltd 30%
-Others 601%
-资料来源：Company data
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-Scenario 1 10% tariff
-Our supply chain stress-testing result on Innolights top 5 suppliers show 3 out of 5
-of these suppliers can sustain a 5%-10% price cut See our analysis below
-Assumptions
-1 Assuming 70%60%50% of revenue is from overseas in 2018E19E20E
-2 For data center demand of US customers outside of US Innolight can ship
+tariffs, although note we do not incorporate any tariffs into our actual estimates given
+tariffs have not been implemented.
+1. We conduct one scenario assuming tariffs are 25%, in line with our US macro team
+which assigns a 70% chance of tariff implementation, with 25% on non-consumer
+products, and an eventual "deal" to be reached in 12 months' time.
+2. We also conduct a scenario assuming tariffs are 10% given this was the original
+proposed tariff before the White House lifted the proposal to 25%.
+2018年9月13日
+Scenario 1: 10% tariff
+We estimate 2%/4%/2% lower revenue and 12%/16%/2% lower net income in
+2018E/2019E/2020E.
+of these suppliers can sustain a 5%-10% price cut. See our analysis below.
+Assumptions:
+□ Revenue
+1. Assuming 70\%/60\%/50\% of revenue is from overseas in 2018E/19E/20E
+2. For data center demand of US customers outside of US, Innolight can ship
 directly to the end market
-3 According to Jones Lang LaSalle 34% of overseas data center capacity
+3. According to Jones Lang LaSalle, 34% of overseas data center capacity
 under construction now is from US
-4 We assume for overseas demand outside US Innolight can directly ship
-0%50%100% to end market
-图表 7 Financial impact from potential 10% and 25% tariff
-Innolight tariff sensitivity analysis
-Total salesrevenues
-Total operating expense
-Profitloss on disposal of assets (pre-tax)
-Foreign exchange gain(loss)
-Share of results in jointly controlled entities
-Pre-tax profit
-Extraordinary gain(loss)
-EPS - basic (Rmb)
-10% tariff
-25% tariff
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-1 Among COGS 65% of the value is for optical and electrical chips which are
+4. We assume for overseas demand outside US, Innolight can directly ship
+0%/50%/100% to end market
+□ COGS
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+1. Among COGS, 65% of the value is for optical and electrical chips, which are
 hard to find alternative suppliers
+2. We assume for the other non-critical components, Innolight can transfer half
 of its tariff to its suppliers
-3 We analyzed Innolights top 5 suppliers in 2014-2016 and estimate 3 out
-of 5 are able to sustain a 5%-10% price cut
-Scenario 2 25% tariff
-In this case because it would be more severe we believe Innolight would need to
-use a non-China OEM to manufacture their US shipments to avoid the tariffs similar
-to some of its global peers
-in 2018E2019E2020E due to the costs of outsourcing
-Assumptions
-1 Revenue will be unchanged since Innolight would use a non-China OEM to
+3. We analyzed Innolight's top 5 suppliers in 2014-2016, and estimate 3 out
+of 5 are able to sustain a 5%-10% price cut.
+Scenario 2: 25% tariff
+In this case because it would be more severe, we believe Innolight would need to
+use a non-China OEM to manufacture their US shipments to avoid the tariffs, similar
+to some of its global peers.
+Revenue therefore won't be impacted, but net income will be 18%/30%/12% lower
+in 2018E/2019E/2020E due to the costs of outsourcing.
+Assumptions:
+□ Revenue
+Revenue will be unchanged since Innolight would use a non-China OEM to
 manufacture their US shipments
-1 Innolights US demand are mostly 100G modules with c28% gross
-2 Assume OEM produced gross margin will be 5% lower (ie 23%) and OEM
+COGS
+1. Innolight's US demand are mostly 100G modules with c.28% gross
+margin currently
+2. Assume OEM produced gross margin will be 5% lower (i.e. 23%), and OEM
 will add a 10% cost margin
-3 Gross margin for 100G modules will be lowered to 15% when outsourced
-Stress-testing Innolights top suppliers
-We analyzed the gross margin and net margin sensitivity for Innolights top 5
+3. Gross margin for 100G modules will be lowered to 15% when outsourced
+Stress-testing Innolight's top suppliers
 suppliers over 2014-2016 (supplier names for 2017 not disclosed by Innolight) to
 estimate if Innolight could theoretically pass on some of the tariff pressure to its
-Mitsubishi Electric (covered by Ikuo Matsuhashi) Suzhou Agix (838112OC traded
-(covered by Mark Delaney) Using this historical data we believe 3 out of 5 of these
+suppliers, namely Avago (now known as Broadcom, covered by Toshiya Hari),
+Mitsubishi Electric (covered by Ikuo Matsuhashi), Suzhou Agix (838112.OC, traded
+on China OTC market, Not Covered), LuxNet (4979.TW, Not Covered), and Macom
+(covered by Mark Delaney). Using this historical data, we believe 3 out of 5 of these
 suppliers in theory could sustain a 5%-10% price cut based on our sensitivity
-analysis below meaning Innolight could past on tariff pressure to those in our view
-By using simple maths and historical data and holding everything else steady we
-a 15%-35% net margin even after a 5% price cut and those margins would still be
-hand have relatively thinnegative margins and thus would probably be less likely to
-be able to take price cuts
-中际旭创 (300308SZ)
-图表 8 Innolights top 5 suppliers
-2014 top 5 suppliers
-2015 top 5 suppliers
-2016 top 5 suppliers
-资料来源：Company data
-图表 9 Our calculations using simple maths show a 5%-10%
-additional ASP cut would likely bring down Avagos 2017
-net margin to c30% in our view
-图表 10 A 5% additional ASP cut would likely bring
-Mitsubishi Electrics 2017 net margin down to 24% while a
-10% could result in negative margin in our view  based on
-Avago ASP sensitivity analysis
-34% 31% 19% 38% 54% 52% 50% 61%
-Mitsubishi Electric ASP sensitivity analysis
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 11 Agix would likely have held 2017 net margin above
-above 20% even with an additional 5%-10% ASP cut in our
-图表 12 MA-COMs 2017 net margin would likely have
-been above 10% even with an extra 5% ASP cut but fall to
-71% with a 10% cut in our view
-Suzhou Agix ASP sensitivity analysis
-MA-COM ASP sensitivity analysis
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-Competitive Advantages Strong RD superior packaging
-technology and fast product refresh cycle
-1 Superior RD strength
-Stable management team with rich experience in RD
+analysis below meaning Innolight could past on tariff pressure to those in our view.
+By using simple maths and historical data and holding everything else steady, we
+estimate Avago/Agix/Macom could still have a historical 40%-60% gross margin and
+a 15%-35% net margin, even after a 5% price cut, and those margins would still be
+relatively high compared to historical trough levels. Mitsubishi/LuxNet on the other
+hand have relatively thin/negative margins, and thus would probably be less likely to
+be able to take price cuts.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Competitive Advantages: Strong R&D, superior packaging
+technology, and fast product refresh cycle
+#1: Superior R&D strength
+Stable management team with rich experience in R&D
 The global optical transceiver module industry has experienced accelerated product
-iteration in recent years due to increasing demand for data from end users The
-order to capture the growth opportunities
-Innolights top management team has extensive experience in the global optical
-held significant RD related positions in established industry giants like Pine
-Photonics Opnext Oplink Intel and Agere Systems (former Alcatel Lucent) By the
-end of 2017 Innolight had built a full-spectrum 400-person RD team with
-specialized expertise in optical electronic mechanical software testing and
-manufacturing procedures
-图表 13 LuxNet has been making a loss making for two years
-LuxNet ASP sensitivity analysis
-资料来源：Company data
-中际旭创 (300308SZ)
-Innolight has three Research Centers located in mainland China Taiwan and the
-US enabling it to attract a global talent pool in the industry At the end of 2017 the
-above degree Innolights RD spending accounted for  8% of their total sales in
-2017 which translates into around Rmb 375000 per person Innolight also partners
-with its clients to design products that are tailored to their specific needs For
-example Innolight partnered with Google to develop its 100G product which was
-later deployed in Googles new data centers
-Innolight has historically invested heavily in RD According to management
-图表 14 Research-focused key management team with rich industry experience
-Dr Sheng Liu
-Education experience
-Tsinghua University (Bachelor) Chinese Science Academy (MS) Georgia Institute of
-Technology (PhD)
-Previous work experience
-Served in Agere System (former Alcatel Lucent)
-2001-2003 China RD center principal at Pine Photonics Communications
-2003-2008 Senior manager RD department at Opnext Inc
-Thousand Talent Program Expert by Special Appointment
-Mr Osa Mok
-Education experience
-Texas AM University (MS) University of Santa Clara USA (MBA)
-Previous work experience
-1979-1985 Research analyst at Hambrecht  Quist
-1985-1992 Director at GTE
-1993-1999 Business development executives at Sunnyvale
-2000-2003 Cofounder  VP at Pine Photonics
-2004-2008 CEOCMO at Uniwave Inc
-Dr Wei-long William Lee
-Education experience
-Tsinghua University of Taiwan (BS) University of Illinois Urbana USA (PhD)
-Founder and CEO at Optical Instrumentation Corp
-2000-2003 Senior optical engineer at Pine Photonics Communications
-2004-2006 COO at Space Shuttle
-2006-2006 Chief Engineer at WaveSplitter Tech Inc
-2008-2009 General Manager at Oplink Communications
-Dr Charlie X Wang
-Education experience
-University of Science  Technology of China (PhD) UC Santa Cruz (Post-doctoral
-Previous work experience
-RD director at Opnext
-Major achievements
-Completed the research and development of the CWDM 10G40G optical
-transceiver module based on Fuse coupler Free space and PLC technologies
-Dr Hsing Kung
-Education experience
-National Cheng Kung University (Bachelor) University of Texas at Austin University
-of California Berkeley (PhD)
-Previous work experience
-1974-1983 Project manager at Hewlett-Packard
-1983-1995 Co-founder  VP of manufacturing at SDL
-1996-1998 Senior VP of business development  at American Xtal Technology
-1998-2000 CEO  Founder at Luxnet Corp
-2000-2005 Cofounder of Pine Photonics Communications
-Since 2006 Managing partner of Acorn Campus Ventures
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-growth reaching Rmb 277 mn in 2017 Innolight had an RDsales ratio of 7% in
-2017 trailing that of its global peers thanks to lower personnel costs in Mainland
-China Innolights RDsales ratio was in line with its domestic peers in 2017 but
+iteration in recent years due to increasing demand for data from end users. The
+trend requires R&D personnel to be both experienced and commercially agile in
+order to capture the growth opportunities.
+Innolight stop management team has extensive experience in the global optical
+communication industry and has been with the company for around 10 years. All
+members in the company's R&D leadership team are US-educated PhDs and have
+held significant R&D related positions in established industry giants like Pine
+Photonics, Opnext, Oplink, Intel and Agere Systems (former Alcatel Lucent). By the
+end of 2017, Innolight had built a full-spectrum 400-person R&D team with
+specialized expertise in optical, electronic, mechanical, software, testing and
+manufacturing procedures.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Strong commitment in R&D
+Innolight has three Research Centers located in mainland China, Taiwan and the
+US, enabling it to attract a global talent pool in the industry. At the end of 2017, the
+company has 397 dedicated R&D personnel and 366 employees have a Bachelor or
+above degree. Innolight's R&D spending accounted for ~ 8% of their total sales in
+2017, which translates into around Rmb 375,000 per person. Innolight also partners
+with its clients to design products that are tailored to their specific needs. For
+example, Innolight partnered with Google to develop its 100G product, which was
+later deployed in Google's new data centers.
+Innolight has historically invested heavily in R&D. According to management,
+Innolight spent 20% - 30% of their total sales in R&D when the company first started.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+It allowed the company to quickly ramp up their product portfolio. From 2012 to
+2017, the company's R&D spending grew at 71% CAGR thanks to its fast topline
+growth, reaching Rmb 277 mn in 2017. Innolight had an R&D/sales ratio of 7% in
+2017, trailing that of its global peers thanks to lower personnel costs in Mainland
+China. Innolight's R&D/sales ratio was in line with its domestic peers in 2017, but
 was ahead most of them in terms of absolute values (only Accelink spent more in
-RD than Innolight among domestic firms as Accelink is vertically integrated)
+R&D than Innolight among domestic firms, as Accelink is vertically integrated.).
 Industry-leading packaging technologies
-According to the management Innolight is the first in the industry to introduce
+According to the management, Innolight is the first in the industry to introduce
 non-hermetic packaging technology (COB) in data center optical transceiver
-modules Compared with hermetic packaging non-hermetic packaging enables cost
-reduction lower production precision requirement and less physical space which is
-ideal for data center applications
-and specifically its free space coupling technology According to a patent filed in
-increase its coupling error tolerance from 02um to around 1um significantly
+modules. Compared with hermetic packaging, non-hermetic packaging enables cost
+reduction, lower production precision requirement and less physical space, which is
+ideal for data center applications.
+Another core technology of the company is its single mode parallel optical design
+and specifically its free space coupling technology. According to a patent filed in
+China by the company, Innolight has developed a technology that enables it to
+increase its coupling error tolerance from <0.2um to around 1um, significantly
+improving the company's coupling efficiency and production yield. These
 leading-edge solutions require expertise and intellectual property across numerous
-disciplines including active and passive optical device design systems-level analog
-and mixed-signal integrated circuit design and optical device integration and
-packaging much of which is developed over time and cannot be easily replicated
-图表 15 Innolight grew its RD spending by a CAGR of 70%
-图表 16 Innolight focuses its RD on packaging technology
-RD expense (Rmb mn)
-RD expense (Rmb mn 2017)
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-2 Fast decision making and product refresh cycle
-Concentrated RD focus on packaging technology
-all segments in the value chain from chip design to module packaging Chip design
-and scale production is very capital intensive and time consuming Plus there are
-packaging technology and chooses to work with industry leading suppliers for their
-able to better leverage its own expertise in packaging technologies and maintain the
-flexibility in choosing a supplier that enables the quickest product launch
-Industry-leading manufacturing facilities and experienced production personnel
-Innolights NPI (New Product Introduction) team has c10 years of new product
-launch experiences and the manufacturing management team has on average more
-图表 17 COB packaging
-图表 18 Best-in-class free-space coupling technology
-What is COB packaging
+disciplines including active and passive optical device design, systems-level analog
+and mixed-signal integrated circuit design, and optical device integration and
+packaging, much of which is developed over time and cannot be easily replicated.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+图表 17: COB packaging
+图表 18: Best-in-class free-space coupling technology
+What is COB packaging:
 A bare chip that is mounted directly onto the
 printed circuit board (PCB) instead of being
-Advantages of COB packaging
+socketed to it
+Advantages of COB packaging:
 Enable fully automated production process
 Increase production precision
 Reduce packaging cost
 Require little physical space
-Lens for single mode laser coupling
-Patent no
-Wei-long William Lee (CTO) Charlie X
-Wang (VP RD) Liu Sheng (CEO) Hong Li
-Dengqun Yu Yuzhou Sun
-Technology advantage The technology allows the coupling error
-tolerance to increase from 02 um
-(industry norm) to 1 um greatly improving
-the coupling efficiency
-The improved coupling efficiency directly
-leads to production yield and productivity
-Key RD achievement in free-space coupling
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 19 Single mode laser coupling patent
-图表 20 Detailed explanation
-How it works
+Key sub components:
+1) Laser; 2) No.1 lens; 3) No.1 lens connected ring;
+No.2 lens; 5) No.2 lens connected ring;
+6) Hollow shaft slip ring; 7) Substrate
+How it works:
 Traditional single mode laser coupling uses
-a single lens to conduct active coupling
-However this method requires high
-production precision (02um coupling error)
+a single lens to conduct active coupling.
+However, this method requires high
+production precision (<0.2um coupling error)
 Innolight uses two coaxial lenses to enlarge
-the light spot enabling high coupling
+the light spot, enabling high coupling
 efficiency even the coupling error is relatively
-high (1um)
+high (~1um)
+Benefits:
 Improve production yield and productivity
-1) Laser2) No1 lens 3) No1 lens connected ring
-4) No2 lens 5) No2 lens connected ring
-6) Hollow shaft slip ring 7) Substrate
-资料来源：Company data
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-than 8 years of experience and over 5 years experience in the optical
-production management and efficiency Innolight has also invested heavily in
-automated production and testing lines Currently Innolight has 16 production lines
-and 160 fully automated testing systems Combining its main RD and
-quickly to market changes
+#2: Fast decision making and product refresh cycle
+Concentrated R&D focus on packaging technology
+Most of Innolight's global competitors are vertically integrated players, who cover
+all segments in the value chain, from chip design to module packaging. Chip design
+and scale production is very capital intensive and time consuming. Plus, there are
+many different types of optical chips, so it is very difficult for one company to be the
+best at everything. In comparison, Innolight focuses only on the transceiver module
+packaging technology and chooses to work with industry leading suppliers for their
+electrical/optical chips and other components. By doing so, we believe Innolight is
+able to better leverage its own expertise in packaging technologies and maintain the
+flexibility in choosing a supplier that enables the quickest product launch.
+Industry-leading manufacturing facilities and experienced production personnel
+Innolight's NPI (New Product Introduction) team has c.10 years of new product
+launch experiences and the manufacturing management team has on average more
+2018年9月13日
+than 8 years of experience and over 5 years' experience in the optical
+communication industry. The experienced production team enables smooth
+production management and efficiency. Innolight has also invested heavily in
+automated production and testing lines. Currently, Innolight has 16 production lines
+and 160 fully automated testing systems. Combining its main R&D and
+manufacturing facilities at a single location with company headquarters facilitates
+active cooperation between departments and also helps the company to respond
+quickly to market changes.
 Strategic relationship with upstream chip makers and sub-module suppliers
+To ensure a stable supply of key components, Innolight has built multiple strategic
 partnerships with major upstream chip and sub-module suppliers in various locations
-including North America Japan and mainland China In addition Innolight has a
+including North America, Japan and mainland China. In addition, Innolight has a
 joint-design-manufacture collaboration with Google for 100G data center optical
-transceiver modules As part of the collaboration Google purchases customized
-chips from a third party supplier and sells the chips to Innolight The collaboration will
+transceiver modules. As part of the collaboration, Google purchases customized
+chips from a third party supplier and sells the chips to Innolight. The collaboration will
 also help to stabilize chip supply as Google has an aligned interest with Innolight
-and much higher bargaining power in the industry
+and much higher bargaining power in the industry.
 Trust building with key customers
 Innolight has overseas branches and distribution partners in multiple worldwide
-locations including US EU Japan South Korea Russia and Israel The local
+locations including US, EU, Japan, South Korea, Russia and Israel. The local
 presence helps Innolight to better understand its customer needs and thus allows
-transceiver module supplier to Google Amazon Alibaba Huawei and Tencent and
-tested and certified by Huawei and ZTE enabling Innolight to tap into the 5G mobile
-technology market once the construction cycle starts
-3 Best-in-class operational efficiency
-Lower RD and SGA costs vs overseas peers
-(ex RD) and RD cost ratios From 2013  2017 Innolights RD cost ratio and
-its SGA (ex RD) cost ratio is cc 8% and cc 5% lower than its overseas peers
-This is largely attributable to much lower personnel cost in China vs US Based on
-around Rmb 850000 per annum based in the US while it will only cost around Rmb
-500000 for Innolight
-中际旭创 (300308SZ)
-Higher gross profit margin vs domestic peers
-Unlike most of its domestic peers Innolights product portfolio is relatively
-high-end with 40G100G optical transceiver module products accounting for 89% of
-players Therefore the pricing pressure on the low end is relatively high putting
-pressure on the GP margin Due to technology barriers most of Innolights
+the company to offer tailored products. Currently, Innolight is the largest 100G
+transceiver module supplier to Google, Amazon, Alibaba, Huawei and Tencent and
+is among the top suppliers for Facebook. Its telecom products have already been
+tested and certified by Huawei and ZTE, enabling Innolight to tap into the 5G mobile
+technology market once the construction cycle starts.
+#3: Best-in-class operational efficiency
+Lower R&D and SG&A costs vs. overseas peers
+Compared to most of its overseas competitors, Innolight has a much lower SG&A
+2017, Innolight's R&D cost ratio and
+its SG&A (ex. R&D) cost ratio is cc. 8% and cc. 5% lower than its overseas peers.
+This is largely attributable to much lower personnel cost in China vs. US. Based on
+our channel checks, a senior engineer level hire for major competitor Finisar will cost
+around Rmb 850,000 per annum based in the US, while it will only cost around Rmb
+500,000 for Innolight.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Higher gross profit margin vs. domestic peers
+Unlike most of its domestic peers, Innolight's product portfolio is relatively
+high-end, with 40G/100G optical transceiver module products accounting for 89% of
+the company's total 2H2017 sales (vs. 15% for Accelink). The low-end optical
+transceiver module market is highly competitive with both global and domestic
+players. Therefore, the pricing pressure on the low end is relatively high, putting
+pressure on the GP margin. Due to technology barriers, most of Innolight's
 domestic peers do not have the mass production capability for 100G transceiver
-modules with a high yield rate as Innolight does enabling Innolight to achieve a
-intense As Innolights SGA level is in line with its domestic peers its net profit
-margin outperforms most of its peers
-图表 21 Lower RD vs overseas peers on packaging
-focused RD and lower personnel cost in China
-图表 22 Lower SGA vs overseas peers thanks to lower
-personnel cost in China
-RD cost (%) Innolight vs overseas peers
-SGA cost (%) Innolight vs overseas peers
-资料来源：Company data
-资料来源：Company data
-图表 23 Innolight has higher gross margin and net margin
-than domestic peers
-图表 24  due to its high-end product mix and operational
-Gross margin (%) Innolight vs domestic peers
-Net profit margin (%) Innolight vs domestic peers
-资料来源：Company data
-资料来源：Company data
-中际旭创 (300308SZ)
-Industry Dual capex engines from cloud and 5G driving industry
-fixed-line network transport network and access network (FTTH) and wireless network
-(eg 4G 5G)
-图表 25 Global optical industry value chain map
-Optical Networking Equipment
-AXT (AXTI US)
-Ciena (CIEN)
-Apple (AAPL)
-Infinera (INFN)
-Amazon (AMZN)
-TE Connectivity (TEL)
-Facebook (FB)
-Padtec (Private)
-Alphabet (GOOGL)
-Juniper Networks (JNPR)
-Microsoft (MSFT)
-Equinix (EQIX)
-Verizon (VZ)
-Cisco (CSCO)
-CenturyLink (CTL)
-Nokia (NOKIAHE)
-NTT (9432T)
-Coriant (Private)
-Softbank (9984T)
-Fujitsu  (6702T)
-ADVA (ADVDE)
-Vodafone (VODL)
-Fujikura (5803T)
-Deutsche Telekom (DTEDE)
-NEC (6701T)
-Fujitsu  (6702T)
-Innolight (300308SZ)
-Huawei (Private)
-Alibaba (BABAUS)
-ZTE (000063SZ0763HK)
-Tencent (0700HK)
-Fiberhome (6000498SH)
-Baidu (BIDUUS)
-H3C (Private)
-China Mobile (0941HK)
-Mitsubishi Chemical (4188T)
-Sanan Optoelectronics (600703SH)
-Sumitomo Chemical (4005T)
-Sumitomo Electric (5802T)
-IQE (IQEL)
-Mitsubishi Electric (6503T)
-HGTECH (000988SZ)
-Accelink (002281SZ)
-Eoptolink (300502SH)
-O-Net tech (0877HK)
-PCL Tech (4977TW)
-HLJ (3688TW)
-Hisense Broadband (Private)
-Optical industry value chain
-Hisilicon (Private)
-Landmark (3081TW)
-Inphi (IPHI)
-Lumentum (LITE fomer JDSU)
-Acacia (ACIA)
-LuxNet (4979TW)
-GCS (4991TW)
-Furukawa Electric (5801T)
-VPEC 2455TW)
-(Mainland)
-Truelight (3450TW)
-MACOM (MTSI)
-Finisar (FNSR)
-Source photonics (Private)
-Oclaro (OCLR)
-Neophotonics (NPTN)
-Epiworks (Private)
-Applied Optoelectronics (AAOI)
-Wafer (Epi)
-ChipLaser
-Optical sub-assembly
-资料来源：Company data Goldman Sachs Global Investment Research Gao Hua Securities Research
-图表 26 We expect Innolights TAM to grow at a CAGR of
-22% over 2018E-2020E driven by cloud and 5G demand
-Total addressable market (US mn)
-Finisar 1480%
-onn 700%
-Accelink 560%
-Oclaro 540%
-Acacia 470%
-Neophotonics
-II-VI 390%
-Fujitsu Optical 
-Innolight 270%
-Others 3290%
-资料来源：Company data Gao Hua Securities Research
-资料来源：Ovum Company data
-中际旭创 (300308SZ)
-sector to grow at 20% CAGR between 2018 and 2022 reaching 58 billion The main
-drivers of the growth are (1) increasing demand for data center services (2) continued
+modules with a high yield rate as Innolight does, enabling Innolight to achieve a
+higher gross profit margin as competition in the high-end module market is less
+intense. As Innolight's SG&A level is in line with its domestic peers, its net profit
+margin, outperforms most of its peers.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Industry: Dual capex engines from cloud and 5G driving industry
+growth
+The optical transceiver module market can be divided into two main sectors, Telecom
+and Datacom (i.e. datacenters/cloud). The Telecom market can be further divided into
+fixed-line network, transport network and access network (FTTH) and wireless network
+(e.g., 4G, 5G).
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Datacom sector
+We forecast that the optical transceiver module market size of the global Datacom
+sector to grow at 20% CAGR between 2018 and 2022, reaching $5.8 billion. The main
+drivers of the growth are (1) increasing demand for data center services, (2) continued
 penetration of fiber used in new-built data centers and (3) optical transceiver data rate
-upgrade in the newly built data centers
-(1)  According to the Cisco Global Cloud Index the global data center traffic will reach
-206 Zettabytes by 2021 representing a 25% CAGR from 2016 to 2021 The trend is
-mainly driven by new applications such as 4K8K streaming ARVR and autonomous
-driving which have high bandwidth requirements The increase of data traffic triggers a
+upgrade in the newly built data centers.
+(1) According to the Cisco Global Cloud Index, the global data center traffic will reach
+20.6 Zettabytes by 2021, representing a 25% CAGR from 2016 to 2021. The trend is
+mainly driven by new applications such as 4K/8K streaming, AR/VR and autonomous
+driving, which have high bandwidth requirements. The increase of data traffic triggers a
 higher demand for optical fiber connections which can transmit data at a higher speed
-图表 28 Innolight has almost tripled its market share in the
-Innolight Revenue (Rmb mn)
-Innolight market share (%)
-资料来源：Ovum Company data
-资料来源：Company data
-资料来源：Bloomberg
-资料来源：Bloomberg
-中际旭创 (300308SZ)
-(2)  In 2016 around 90% of the DCs in China used the traditional three-layer structure
+and between longer distances as compared to copper cables.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+(2) In 2016, around 90% of the DCs in China used the traditional three-layer structure,
 which hardly requires fiber connections at the access layer (between servers and
-top-of-rack switches) However starting in 2013 with the advent of the two-layer
-increasing west to east (between-server) traffic within data centers will start to use
-all-fiber connections in the access layers significantly boosting data center optical
-transceiver usage (4 vs 0 per server) To cope with the increasing demand data center
-service providers like Google Amazon Apple Facebook Microsoft and Alibaba are
-also steadily increasing their investment in hyperscale data centers According to Cisco
+top-of-rack switches). However, starting in 2013, with the advent of the two-layer
+spin-and-leaf architecture data centers, which is designed to accommodate the
+increasing 'west to east' (between-server) traffic within data centers, will start to use
+all-fiber connections in the access layers, significantly boosting data center optical
+transceiver usage (4 vs. 0 per server). To cope with the increasing demand, data center
+service providers like Google, Amazon, Apple, Facebook, Microsoft, and Alibaba are
+also steadily increasing their investment in hyperscale data centers. According to Cisco,
 the number of global hyperscale data centers will increase from 338 in 2016 to 628 in
-(3)  Lastly we noticed that in new generation data centers 10G25G40G transceivers
-are replacing 125G transceivers that were used between servers and switches and
-connections In the future data centers are planning to adopt 400G and even higher
-data rate optical transceivers driving the ASP growth
-图表 32 Global data center IP traffic growth
-图表 33 Global hyper scale data center forecast
-Global data center IP traffic forecast
-Global hyper scale data center forecast
-Number of hyper scale data center
-资料来源：Cisco Global Cloud Index
-资料来源：Cisco Global Cloud Index
-图表 34 Traditional 3-layer data center
-图表 35 Two-layer data center
-资料来源：Cisco
-资料来源：Cisco
-中际旭创 (300308SZ)
-network (FTTH) and wireless network (eg 4G 5G)  Given that Innolight does not and
-is not expected to have exposure to the first three subsectors we only include the
-wireless network market in our framework
-图表 36 Alibaba Network  Optics Roadmap
-CWDM4 PSM4
-400G DR4 FR4
-16T OBO ()
-QSFP224-DD ()
-400G OBO ()
-SFP224-DD ()
-Alibaba Network  Optics Roadmap
+(3) Lastly, we noticed that in new generation data centers, 10G/25G/40G transceivers
+are replacing 1.25G transceivers that were used between servers and switches, and
+40G/100G transceivers are becoming the mainstream choice for switch-to-switch
+connections. In the future, data centers are planning to adopt 400G and even higher
+data rate optical transceivers, driving the ASP growth.
+2018年9月13日
 Bandwidth density 40x in 10 years
 Doubles - every 2 years
-图表 37 Data center construction pipeline (as of Sep 2018)
- of regions
-Location of new projects
-Amazon Data center under construction in Virginia - 2017 Nov
-First Amazon Data center in middle East - 2017 Sep
-Azure launches availability GA - 2018 Mar
-Two new data center in Australia - 2017 Aug
-Google to build data center near Dallas - 2018 Aug
-Google building cloud data center close to Swiss banks - 2018 May
-Facebook to build data center in Singapore - 2018 Sep
-Facebook to build data center in Alabama - 2018 June
-Facebook investment in Sweden  - 2018 May
-4 new network PoP announced 18 availability
-New availability zones will be
-located in the US Germany
-UK Japan and Australia
-Athub announced in May that it has secured orders from Alibaba to build data
-centers with an estimated scale 15000 cabinets (170k servers)
-E
-Tencent kicks off data center expansion with new sites in US India HK - 2018 Mar
- In Amazon AWS platform availability zones are individual data centers scattered around the world
- Microsoft introduced availability zone GA in Mar 2018 while it offers availability sets before
- Google is also building its own undersea fiber projects
- The service operator and provider for AWS China (Beijing) Region based out of Beijing and adjacent areas is Beijing Sinnet Technology Co Ltd (Sinnet) and the service operator and provider for AWS (Ningxia) Region based
-out of Ningxia is Ningxia Western Cloud Data Technology Co Ltd (NWCD)
-4 new regions
-12 more availability zones announced
-Bahrain HK Sweden a
-second AWS GovCloud region
-Microsoft (Azure)
-10 new regions annouced plans to offer
-preview to additional regions in the US Europe
-and Asia before the end of the year
-Switzerland Norway Korea
-Africa United Arab Emirates
-Amazon (AWS)
-Google cloud
-5 new regions announced 3 new undersea
-cables under construction
-Denmark (expected to open in
-2020) Singapore
-2 new regions announced
-资料来源：Company data
-中际旭创 (300308SZ)
-CAGR from 2018 to 2022 arriving at 17 billion The growth is mainly driven by the
-use in 2020 in China We forecast that the global 5G base station will reach around 12
-million units in 2027 (the end of the 5G cycle) double the number of the total 4G base
-stations due to shorter coverage area This will significantly push up the volume demand
-In the 5G era data transmission speed will be greatly increased According to China
-Mobile 5G data transmission speed will reach 15Gbps 10X that of 4G The data rate
-increase is achieved by using higher speed transceiver modules 25G and 100G optical
+Telecom sector
+Telecom market can be further divided into fixed-line network, transport network, access
+network (FTTH) and wireless network (e.g., 4G, 5G). Given that Innolight does not and
+is not expected to have exposure to the first three subsectors, we only include the
+wireless network market in our framework.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+According to our estimate, Innolight's addressable telecom market will grow at a 39%
+CAGR from 2018 to 2022, arriving at $1.7 billion. The growth is mainly driven by the
+rollout of global 5G network, which is expected by telcos to be available for commercial
+million units in 2027 (the end of the 5G cycle), double the number of the total 4G base
+stations due to shorter coverage area. This will significantly push up the volume demand
+for optical transceiver modules, as it is a key component for the 5G optical network.
+In the 5G era, data transmission speed will be greatly increased. According to China
+Mobile, 5G data transmission speed will reach 1.5Gbps, 10X that of 4G. The data rate
+increase is achieved by using higher speed transceiver modules. 25G and 100G optical
 transceiver modules will be the mainstream choice for the 5G fronthaul transmission
-network vs 10G modules for 4G network while 100G 200G and 400G will be widely
-used in the midhaul and backhaul transmission network
-资料来源：Bloomberg
-资料来源：Bloomberg
-中际旭创 (300308SZ)
-Financials Industry leading growth with superior ROE
-Innolight has experienced cc100% topline growth in the past five years vs c20%
-track record of launching new products early in the products life cycle In the
-recent 400G product cycle Innolight launched its 400G offering at the same time as
-its integrated global peers and 6 months earlier than its domestic peers The
-图表 40 Global Optical Transceiver Module Market Size
-Global Optical Transceiver Module Market Size (US mn)
-Total addressable market (US mn)
-Sales volume (unit)
-Revenue from 6G
-Sales volume (unit)
-Revenue from 10G
-Sales volume (unit)
-Revenue from 25G
-Sales volume (unit)
-Revenue from 100G
-Sales volume (unit)
-Revenue from 200G
-Sales volume (unit)
-Revenue from 400G
-Sales volume (unit)
-Sales volume (unit)
-Revenue from 10G
-Sales volume (unit)
-Revenue from 25G
-Sales volume (unit)
-Revenue from 40G
-Sales volume (unit)
-Revenue from 100G
-Sales volume (unit)
-Revenue from 200G
-Sales volume (unit)
-Revenue from 400G
-Sales volume (unit)
-资料来源：Gao Hua Securities Research
-中际旭创 (300308SZ)
-is the top 100G supplier to top-tier cloud service providers like Google Amazon
-Baidu Alibaba and Tencent and is among the top suppliers to Facebook (expects to
+network vs. 10G modules for 4G network, while 100G, 200G, and 400G will be widely
+used in the midhaul and backhaul transmission network.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Financials: Industry leading growth with superior ROE
+Revenue drivers
+Datacom
+Innolight has experienced cc.100% topline growth in the past five years vs. c.20%
+for its global peers due to a continuous market share gain. The company has a good
+track record of launching new products early in the product's life cycle. In the
+recent 400G product cycle, Innolight launched its 400G offering at the same time as
+its integrated global peers and 6 months earlier than its domestic peers. The
+first-to-market strategy enables the company to continuously gain market share in a
+less competitive market in early cycle of a new product. According to the
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+management, Innolight has a 20% to 30% market share in the global Datacom
+transceiver module market. Especially in the mainstream 100G market, the company
+is the top 100G supplier to top-tier cloud service providers like Google, Amazon,
+Baidu, Alibaba and Tencent, and is among the top suppliers to Facebook (expects to
+become No.2 supplier in 2H18). The leading position of Innolight in the Datacom
 market positions it well to capture the next round of data center upgrade from 100G
-to 400G transceiver modules
-transceiver module was adopted by China Mobile in their 3G network rollout while
-its 10G products were also widely deployed in the 4G network construction in China
-boost for the Innolights topline performance We forecast that the total number of
-the global 5G base stations will double that in the 4G era leading to significant
-volume demand increase for optical transceiver modules Innolight targets to take
-around 30% of the total 5G market share in China
-图表 41 Global data center IP traffic forecast
-图表 42 Global hyper scale data center forecast
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 43 China telco capex expected to inflect in 2019
-图表 44 Global 5G base stations installed base forecast
-China telco capex (US mn)
-资料来源：Bloomberg Company data
-资料来源：Gao Hua Securities Research
-中际旭创 (300308SZ)
-Looking into the future we believe Innolights 100G and 400G transceiver modules
-current network with higher data rate transceiver modules Going forward 100G and
+to 400G transceiver modules.
+Telecom
+Innolight's strong revenue growth also benefited from the telecom 3G and 4G
+construction cycles in China. According to the company, its 6G LTE SFP+ optical
+transceiver module was adopted by China Mobile in their 3G network rollout, while
+its 10G products were also widely deployed in the 4G network construction in China.
+Since China's 4G capex peak in 2015, demand from telecom customers have
+retreated. We believe the upcoming 5G construction cycle will be another major
+boost for the Innolight's topline performance. We forecast that the total number of
+the global 5G base stations will double that in the 4G era, leading to significant
+volume demand increase for optical transceiver modules. Innolight targets to take
+around 30% of the total 5G market share in China.
+Forecast
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Looking into the future, we believe Innolight's 100G and 400G transceiver modules
+will be the key growth avenue for the company. With the constantly growing demand
+for data from end users, both Datacom and Telecom players are upgrading their
+current network with higher data rate transceiver modules. Going forward, 100G and
 400G transceiver modules will be the mainstream choice in our view for the data
-center accesscore layer networks and 5G fronthaulbackhaul networks
-Innolight has planned to invest Rmb 113 billion in a new industrial park in Tongling
-transceiver modules annually and 1400000 transceiver modules for 5G wireless
-network Since first launching 400G products in 1Q2017 Innolight has already
+center access/core layer networks and 5G fronthaul/backhaul networks.
+Innolight has planned to invest Rmb 1.13 billion in a new industrial park in Tongling,
+Anhui. Upon completion, the new facility is expected to produce 1,600,000 100G
+transceiver modules annually and 1,400,000 transceiver modules for 5G wireless
+network. Since first launching 400G products in 1Q2017, Innolight has already
 shipped a small batch of samples to Amazon and Google for their newly built data
+centers, on par with its global integrated peers. In addition, the company has
 planned to invest Rmb 440 million to fund a new 400G optical transceiver module
-400G optical transceiver modules per year significantly increasing the current
-manufacturing capacity
-图表 45 We expect 100G and 400G products to be the main
-图表 46 By 2020E We expect 100G40G to account for
-57%20% of total revenue
-Innolight revenue breakdown (Rmb mn)
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 47 Innolight achieved the highest revenue CAGR over
-图表 48  and outperformed its global peers each year
-Revenue CAGR (2012-2017)
-Revenue growth (%) 2013 - 2017
-资料来源：Company data
-资料来源：Company data
-中际旭创 (300308SZ)
-Innolight is a pure-play optical transceiver module manufacturer while most of its
-a result its gross margin trails behind its global peers (cc 10%) as it needs to
+400G optical transceiver modules per year, significantly increasing the current
+manufacturing capacity.
+2018年9月13日
+全球投资研究
+Cost structure
+COGS and Suppliers
+Innolight is a pure-play optical transceiver module manufacturer, while most of its
+peers have different levels of vertical integration, especially its global competitors. As
+a result, its gross margin trails behind its global peers (cc. 10%), as it needs to
+import key optical components, especially laser chips (90% of high end chips for
 optical transceiver module are manufactured outside of China) from overseas
-suppliers In 2016 Avago and Google Inc are the top two suppliers of Innolight who
+suppliers. In 2016, Avago and Google Inc. are the top two suppliers of Innolight, who
+accounted for 14.85% of Innolight's total purchase. Japanese optical component
 suppliers Mitsubishi and Sumitomo are also the two important chip suppliers for the
-Innolight historically spent 20% - 30% of their annual revenue in RD when they first
-started the business This enabled them to quickly build up their product portfolio
-From 2013 Innolights RD spending started to see a decrease from 13% to 6% in
-leverage In the future it can be expected that Innolights RD spending will
-fluctuate with the product cycle of their new products (eg new 400G products ramp
-RD) cost Innolights SGA expenses were relatively stable in the past five years
-to an employee stock incentive plan  In 2015 Innolights stock-based
-2016 respectively  On average Innolights SGA (ex RD) expenses were
-significantly lower than its global peers (7%)
-On the bottom line Innolight has outperformed most of its peers in the past five
-years with a stable profit margin at 10%
-图表 49 Innolight COGS breakdown
-2016 As % of COGS
-Integrated circuit chips
-Raw materals  utility
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
+company.
+R&D
+The company has a strong commitment to R&D. According to the management,
+Innolight historically spent 20% - 30% of their annual revenue in R&D when they first
+started the business. This enabled them to quickly build up their product portfolio.
+From 2013, Innolight's R&D spending started to see a decrease from 13% to 6% in
+2017. This is largely thanks to the company's fast topline growth and lower R&D
+personnel cost in China. The R&D figure is now in line with its domestic competitors
+and cc. 6% lower than its global peers, improving the company's operating
+leverage. In the future, it can be expected that Innolight's R&D spending will
+fluctuate with the product cycle of their new products (e.g. new 400G products ramp
+up).
+SG&A
+The company's lower gross profit margin is further offset by its lower SG&A (ex.
+R&D) cost. Innolight's SG&A expenses were relatively stable in the past five years,
+at around 6% of the company's total revenue. The figure was higher in 2015 due
+to an employee stock incentive plan. In 2015, Innolight's stock-based
+compensation was Rmb 3,370 mn vs. Rmb 21 mn and Rmb 1,429 mn for 2014 and
+2016 respectively. On average, Innolight's SG&A (ex. R&D) expenses were
+significantly lower than its global peers (~7%).
+Net profit
+On the bottom line, Innolight has outperformed most of its peers in the past five
+years, with a stable profit margin at ~10%.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+图表 50: R&D as % of sales
+图表 51: SG&A as % of sales
+图表 52: Gross margin
+图表 53: Net profit margin
 Balance sheet and cash flow
-Shorter cash conversion cycle vs domestic peers
-In 2017 Innolight had a cash conversion cycle of 86 days (ie 29 months) which
-was much lower than domestic peers at more than 160 days and close to that of
-overseas players level The short cash conversion cycle mainly benefits from the
-lengthy account payable days Innolights longer inventory days and AP days are a
-图表 50 RD as % of sales
-图表 51 SGA as % of sales
-RD cost (%) 2013-2017
-SGA cost (%) 2013 - 2017
-资料来源：Company data
-资料来源：Company data
-图表 52 Gross margin
-图表 53 Net profit margin
-Gross margin (%) 2013 - 2017
-Net profit margin (%) 2013 - 2017
-资料来源：Company data
-资料来源：Company data
-中际旭创 (300308SZ)
+Shorter cash conversion cycle vs. domestic peers
+In 2017, Innolight had a cash conversion cycle of 86 days (i.e., 2.9 months), which
+was much lower than domestic peers at more than 160 days, and close to that of
+overseas players level. The short cash conversion cycle mainly benefits from the
+lengthy account payable days. Innolight's longer inventory days and AP days are a
+result of the fact that it purchases components from third-party suppliers.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+图表 54: Cash conversion cycle vs. peers
+图表 55: Account receivable days vs. peers
+图表 56: Inventory days vs. peers
+图表 57: Account payable days vs. peers
 Improving return on equity
-Innolights ROE has improved from 11% in 3Q2017 to 154% in 2Q2018 driven by
-growth in total asset turnover from 06x to 07x and net margin improvement from
-gaining market share and enjoy operating leverage we forecast ROE improving to
-26% by 2020E
+Innolight's ROE has improved from 11% in 3Q2017 to 15.4% in 2Q2018, driven by
+growth in total asset turnover from 0.6x to 0.7x and net margin improvement from
+11.4% to 11.9% over the same period. As we expect the company to continue
+gaining market share and enjoy operating leverage, we forecast ROE improving to
+26% by 2020E.
 Low and stable financial leverage
-We see Innolights financial leverage levels have remained low and stable over the
-past 4 quarters and see it staying low over the next 3 years Interest coverage ratios
-have shown improvement We do not see any short-term solvency risks on debt
-repayments given its current low debt levels
-图表 54 Cash conversion cycle vs peers
-图表 55 Account receivable days vs peers
-Cash Conversion Cycle (2017)
-Account receivable days (2017)
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 56 Inventory days vs peers
-图表 57 Account payable days vs peers
-Inventory days (2017)
-Account payable days (2017)
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 58 Industry leading return on equity
-Net profit margin (%)
-Turnover to asset ratio
-Asset to equity ratio
-Return on equity (%)
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-In 3Q2017 Innolight spent Rmb421mn on capex accounting for 156% of its total
-revenue Capex as % of revenue was at its peak in 4Q2017 then dropped to around
-10% Going forward we expect Innolights capex to be around Rmb500mn level in
-the next three years
-We expect Innolights free cash flow to grow stronger in next three years
-mainly driven by margin improvements
-图表 59 Low and stable financial leverage
-Total debt to capital ratio (x)
-Net debt to equity ratio (x)
-EBIT interest coverage ratio (x)
-EBITDA interest coverage (x)
-资料来源：Company data Gao Hua Securities Research
-图表 60 Innolight capex
-图表 61 Innolight Capex as a % of revenue
-Capex (Rmb mn)
-Capex as a % of revenue
-资料来源：Company data Gao Hua Securities Research
-资料来源：Company data Gao Hua Securities Research
-图表 62 Innolight free cash flow
-Free cash flow (Rmb mn)
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-Total salesrevenues
-Gross margin %
-Total operating expense
-EBITDA margin %
-EBIT margin %
-Pre-tax profit
-Net margin %
-EPS - basic
-EPS - fully diluted
-Weighted avg adj shares outstanding (mn)
-Fully diluted shares outstanding (mn)
-Period end shares outstanding (mn)
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-图表 64 Innolight balance sheet (Rmb mn)
-Inventorystocks
-Gross PPEFixed assets
-Less accumulated depreciation
-Net PPEFixed assets
-Accumulated amortization
-Other long-term assets
-Short-term debt and current portion of long-term debt
-Other current liabilities
-Long-term debt
-Other long-term liabilitiescreditors
-Total long-term liabilities
-Common stock (includes par value capital surplus and treasury)
-Minority interest (balance sheet)
-Total shareholders fundsequity
-Total liabilities and equity
-资料来源：Company data Gao Hua Securities Research
-图表 65 Innolight cash flow statement (Rmb mn)
-Minority interest add-back
-Depreciation and amortization add-back
-Net loss(gain) on asset sales
-(Increase)decrease in working capital 
-Other operating cash flow items
-Cash flow from operations
-(Acquisitions)divestitures
-Other investment cash flow items
-Cash flow from investing
-Increase(decrease) in short-term debt
-Increase(decrease) in long-term debt
-Increase(decrease) in preferred shares
-Change in minority interest
-Other financing cash flow items
-Cash flow from financing
-Effect of foreign exchange rate changes
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-Valuation 12-month target price of Rmb46 reflects tariff
-We believe PE is the key valuation metric investors focus on for Innolight as it takes
-into account all the revenue and cost elements affecting earnings (cost structure capital
-structure effective tax rate FX etc) and also reflects profit making ability This is also in
-line with our valuation methodology for the A-share tech space
-We forecast 34% revenue and 47% EPS CAGR for Innolight over 2018E-2020E and
-apply a 20X PE multiple on 2019E EPS of Rmb229 to reflect our cautious view amid
-trade uncertainties Our 12-month target price of Rmb46 implies 9% upside and
-therefore we initiate at Neutral
-Potential positive catalysts over the next twelve months include
-Volume shipment of 400G products in 2019 Innolight is already shipping in small
-volumes to Google and Amazon
-passed Huawei and ZTEs testing and is shipping in small volumes to them now
-average of 30X since 3Q17 when it was acquired by Zhongji Equipment Considering
-Innolights above industry revenueearnings CAGR we believe 30X is reasonable
-under normal circumstances vs current global peer average of 23X while we choose
+We see Innolight's financial leverage levels have remained low and stable over the
+past 4 quarters, and see it staying low over the next 3 years. Interest coverage ratios
+have shown improvement. We do not see any short-term solvency risks on debt
+repayments given its current low debt levels.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Capex
+In 3Q2017, Innolight spent Rmb421mn on capex, accounting for 15.6% of its total
+revenue. Capex as % of revenue was at its peak in 4Q2017, then dropped to around
+10%. Going forward, we expect Innolight's capex to be around Rmb500mn level in
+the next three years.
+Free cash flow
+We expect Innolight's free cash flow to grow stronger in next three years,
+mainly driven by margin improvements.
+2018年9月13日
+全球投资研究
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Valuation: 12-month target price of Rmb46 reflects tariff
+uncertainties
+We believe P/E is the key valuation metric investors focus on for Innolight, as it takes
+into account all the revenue and cost elements affecting earnings (cost structure, capital
+structure, effective tax rate, FX, etc.) and also reflects profit making ability. This is also in
+line with our valuation methodology for the A-share tech space.
+We forecast 34% revenue and 47% EPS CAGR for Innolight over 2018E-2020E, and
+apply a 20X P/E multiple on 2019E EPS of Rmb2.29 to reflect our cautious view amid
+trade uncertainties. Our 12-month target price of Rmb46 implies 9% upside, and
+therefore we initiate at Neutral.
+Potential positive catalysts over the next twelve months include:
+Volume shipment of 400G products in 2019, Innolight is already shipping in small
+volumes to Google and Amazon;
+2. 5G module procurement from Telecom customers in 2019, Innolight has already
+passed Huawei and ZTE's testing and is shipping in small volumes to them now.
+20X is the trough 12-month forward P/E multiple for Innolight compared with a historical
+average of 30X since 3Q17 when it was acquired by Zhongji Equipment. Considering
+Innolight's above industry revenue/earnings CAGR, we believe 30X is reasonable
+under normal circumstances vs. current global peer average of 23X, while we choose
 25X for our 10% tariff scenario as this is the midpoint multiple between our No tariff
-(30X) and 25% tariff (20X) scenarios
-We also explore different scenarios with the potential tariff and a probability weighted
-theoretical value
-No tariff Rmb69 (based on 30X PE on 2019E EPS of Rmb229) 64% upside
-10% tariff Rmb48 (based on 25X PE on 2019E EPS of Rmb193) 14% upside
-25% tariff Rmb32 (based on 20X PE on 2019E EPS of Rmb161) 24% downside
-Our US macro team assigns a 70% chance of tariff implementation with 25% on
-non-consumer products and an eventual deal to be reached in 12 months time
-Based on this we assign a 70% probability to 25% tariff scenario  a 30% probability to
-no tariff scenario to derive an implied value of Rmb2970%Rmb6930%Rmb43 In
-terms of forecasts we use the no tariff scenario given there has been no
+(30X) and 25% tariff (20X) scenarios.
+We also explore different scenarios with the potential tariff, and a probability weighted
+theoretical value.
+No tariff: Rmb69 (based on 30X P/E on 2019E EPS of Rmb2.29), 64% upside
+10% tariff: Rmb48 (based on 25X P/E on 2019E EPS of Rmb1.93), 14% upside
+25% tariff: Rmb32 (based on 20X P/E on 2019E EPS of Rmb1.61), 24% downside
+Our US macro team assigns a 70% chance of tariff implementation, with 25% on
+non-consumer products, and an eventual "deal" to be reached in 12 months' time.
+Based on this, we assign a 70% probability to 25% tariff scenario + a 30% probability to
+no tariff scenario, to derive an implied value of Rmb29*70%+Rmb69*30%=Rmb43. In
+terms of forecasts, we use the "no tariff" scenario given there has been no
 implementation to date and will adjust to the tariff level should the tariffs actually be
-implemented
-Quotes from US macro team
-While a number of details are uncertain to Trump Administrations proposed
-US200bn in additional tariffs on China our Washington team expects the White
-中际旭创 (300308SZ)
-House to move forward with these tariffs imposing a rate of 10% on consumer
-goods and 25% on other (industrialintermediate) products
-While the outlook is uncertain we expect the White House to move forward with
-tariffs on the majority of the next round of 200bn in imports proposed in July (70%
-chance) We expect that the recently proposed 25% tariff rate (up from the earlier
-proposed 10% rate) will be applied to a subset of the 200bn of targeted imports
-However the decision here is likely to rest in part on whether the recent CNY
-depreciation has reversed or continued by the time the decision is made likely in
-September
-We now see USDCNY weakening further past the psychologically important level of
-700 towards 690 and 710 in 3 and 6 months respectively but a reversion to 660
-in 12 months as an eventual deal still seems to us as a reasonable base case
-assumption
-Where are we vs consensus
-图表 66 GSGH Global Optical Component Valuation Comps (data as of Sep 12 2018 market close)
-Innolight (Rmb)
-Accelink (Rmb)
-Lumentum (US)
-Finisar (US)
-Acacia (US)
-Oclaro (US)
-AAOI (US)
-NeoPhotonics (US)
-HGTech (Rmb)
-Eoptolink (Rmb)
-RevenueEBITDAEPS
-2018E-2020E CAGR
-资料来源：Datastream Bloomberg Company data Goldman Sachs Global Investment Research Gao Hua Securities Research
-资料来源：Bloomberg Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-Key risks demand tariff and Silicon Photonics
-1 Stronger or weaker demand from cloud and 5G capex
+implemented.
+Quotes from US macro team:
+While a number of details are uncertain [to Trump Administration's proposed
+US$200bn in additional tariffs on China], our Washington team expects the White
+2018年9月13日
+House to move forward with these tariffs, imposing a rate of 10% on consumer
+goods and 25% on other (industrial/intermediate) products.
+While the outlook is uncertain, we expect the White House to move forward with
+tariffs on the majority of the next round of $200bn in imports proposed in July (70%
+chance). We expect that the recently proposed 25% tariff rate (up from the earlier
+proposed 10% rate) will be applied to a subset of the $200bn of targeted imports.
+However, the decision here is likely to rest in part on whether the recent CNY
+depreciation has reversed or continued by the time the decision is made, likely in
+September.
+We now see USD/CNY weakening further past the psychologically important level of
+in 12 months as an eventual "deal" still seems to us as a reasonable base case
+assumption.
+Where are we vs. consensus?
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+图表 68: Innolight 12-month forward P/E band
+图表 69: Innolight 12-month forward P/E
+Key risks: demand, tariff, and Silicon Photonics
+1. Stronger or weaker demand from cloud and 5G capex
 Our 34% revenue CAGR (2018E-202E) forecast for Innolight is based on resilient
-demand from both datacenter expansion and 5G rollout starting in 2H19 If the global
+demand from both datacenter expansion and 5G rollout starting in 2H19. If the global
 datacenter spending accelerates due to fast growth of global data traffic demand or
-slowdown in certain markets Innolight may experience a faster or slower growth
-trajectory than what we expect same is true if China or global 5G rollout progress is
-domestic customers demand and 70% from overseas Innolight now has very little
-customers
-2 Uncertainties around tariff implementation
-Amid the uncertainties around ongoing trade war between the United States and China
-the US has announced a second batch of US200bn tariff plans at a rate of either 10%
-or 25% which may take effect later this year Optical transceiver modules will be subject
-to the second batch of tariffs On Sep 7th the Wall Street Journal reported Trump
-ready to roll with yet more tariffs hitting 267bn in Chinese goods On Sep 12th the
-Wall Street Journal reported US Proposing New Round of Trade Talks With China
-before the US200bn tariff goes into effect Whether the tariffs will be implemented
+slows down due to rising component pricing as a result of the trade war or economic
+slowdown in certain markets, Innolight may experience a faster or slower growth
+trajectory than what we expect; same is true if China or global 5G rollout progress is
+faster or slower than our expectation. Currently, 30% of Innolight's revenue come from
+domestic customers' demand and 70% from overseas. Innolight now has very little
+exposure to the Telecom market, almost all of its revenue is generated by Datacom
+customers.
+2. Uncertainties around tariff implementation
+Amid the uncertainties around ongoing trade war between the United States and China,
+the US has announced a second batch of US$200bn tariff plans at a rate of either 10%
+or 25%, which may take effect later this year. Optical transceiver modules will be subject
+to the second batch of tariffs. On Sep 7th, the Wall Street Journal reported "Trump
+ready to roll with yet more tariffs, hitting $267bn in Chinese goods". On Sep 12th, the
+Wall Street Journal reported "U.S. Proposing New Round of Trade Talks With China
+before the US$200bn tariff goes into effect. Whether the tariffs will be implemented
 eventually and at what rate will they be implemented pose both upside and downside
-risks to Innolights fundamental business as well as share price For more details
+risks to Innolight' s fundamental business as well as share price. For more details
 please see our scenario analysis on potential US tariff impact and stress-testing the
-supply chain
-3 Competition from Silicon Photonics
-What is Silicon Photonics
-图表 68 Innolight 12-month forward PE band
-图表 69 Innolight 12-month forward PE
-Innolight 12-month forward PE
-资料来源：Bloomberg Gao Hua Securities Research
-资料来源：Bloomberg Gao Hua Securities Research
-中际旭创 (300308SZ)
+supply chain.
+3. Competition from Silicon Photonics
+What is Silicon Photonics?
+2018年9月13日
 Silicon Photonics is an emerging technology that uses semiconductor-grade silicon as
 the platform for the integration of active and passive photonic circuits along with
-using existing semiconductor fabrication techniques resulting in high-volume production
-invest into the space and made visible progress
+electronic components on a single micro-chip. Silicon photonic devices can be made
+using existing semiconductor fabrication techniques, resulting in high-volume production
+with low cost. Since 2000, companies like Intel, IBM, Acacia and Luxtera have started to
+invest into the space and made visible progress.
 Advantages of Silicon Photonics
-System integration Silicon photonics IC integrates waveguides modulator detector
-and demux onto one single chip According to Finisar over 84% of the functions are
-integrated with high yield at wafer level in a Si fab As silicon photonic chips are
-addition the small size of a silicon photonic chip also leads to improved chip density
-Low cost Conventional VCSEL DML and EML chips use InP or GaAs as raw
-material  Per inch InP costs around 88 and GaAs costs around 55 In
-from sand which only costs around 25 per inch
-Low power consumption The first generation of CFP2 100G transceiver modules
-module using silicon photonic chip only uses around 35 watts an 85% improvement
+System integration: Silicon photonics IC integrates waveguides, modulator, detector
+and de/mux onto one single chip. According to Finisar, over 84% of the functions are
+integrated with high yield at wafer level in a Si fab. As silicon photonic chips are
+much smaller than the optical components it replaces, hand assembly of hundreds
+of piece parts can be eliminated, significantly reducing manufacturing complexity. In
+addition, the small size of a silicon photonic chip also leads to improved chip density.
+Low cost: Conventional VCSEL, DML and EML chips use InP or GaAs as raw
+material. Per inch, InP costs around $88 and GaAs costs around $55. In
+comparison, silicon photonics chips use Si, a semiconductor that can be produced
+from sand, which only costs around $2.5 per inch.
+Low power consumption: The first generation of CFP2 100G transceiver modules
+consumes around 20-24 watts. In comparison, a similar CFP2 100G transceiver
+module using silicon photonic chip only uses around 3.5 watts, an 85% improvement
 from the conventional module mainly driven by the high level of integration and
-Scalability  Silicon photonics chips have the capability to incorporate Wavelength
-Division Multiplexing (WDM) optics Currently 100G data rate is achieved by using 4
-channels of 25G lasers at different wavelengths With WDM Silicon photonics
-optical transceiver can transmit up to 40 channels of light at different wavelengths
-coupling to a single strand of optical fiber
+compact size of the Silicon Photonics chips.
+Scalability: Silicon photonics chips have the capability to incorporate Wavelength
+channels of 25G lasers at different wavelengths. With WDM, Silicon photonics
+optical transceiver can transmit up to 40 channels of light at different wavelengths,
+coupling to a single strand of optical fiber.
 Major challenges faced in the 100G optical transceiver market
-In 2015 Luxtera unveiled its 100G PSM4 optical transceiver module supporting
-transmission distance of up to 2km In 2016 Intel for the first time announced the
+In 2015, Luxtera unveiled its 100G PSM4 optical transceiver module, supporting
+transmission distance of up to 2km. In 2016, Intel, for the first time, announced the
+commercial availability and volume production of its 100G silicon photonics optical
 transceiver module products in both PSM4 and CWDM4 specifications with transmission
-beginning Silicon Photonics 100G products face several challenges from conventional
-For very short reach links (100m) VCSEL materially outperforms Silicon Photonics
-in all performance metrics (costpower consumptiondensity)
-with conventional DML products in both PSM4 and CWDM4 specifications
+distance of up to 10km. Despite gaining adoption by Datacom customers in the
+beginning, Silicon Photonics 100G products face several challenges from conventional
+products.
+For very short reach links (<100m), VCSEL materially outperforms Silicon Photonics
+in all performance metrics (cost/power consumption/density).
+For the intermediate reach links (500m-2km), Silicon Photonics products compete
+with conventional DML products in both PSM4 and CWDM4 specifications.
 Silicon Photonics 100G PSM4 transceiver module is a relatively mature
-product taking up around 50% of the overall 100G PSM4 market share
-中际旭创 (300308SZ)
-However as PSM4 structure uses 70% more fibers than CWDM4 structure
-the overall market share for PSM4 products is shrinking with CWDM4
-For 100G CWDM4 products Silicon Photonics transceiver module still has not
+product, taking up around 50% of the overall 100G PSM4 market share.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+However, as PSM4 structure uses 70% more fibers than CWDM4 structure,
+becoming the mainstream choice for data center connections.
+For 100G CWDM4 products, Silicon Photonics transceiver module still has not
 achieved volume production due to production yield and product reliability
-issues (coupling error separate laser problem low economies of scale for
-CMOS and immature upstream supply chain)
-MA rank for Innolight
-Across our global coverage we examine stocks using an MA framework considering
+issues (coupling error, separate laser problem, low economies of scale for
+CMOS and immature upstream supply chain).
+M&A rank for Innolight
+Across our global coverage, we examine stocks using an M&A framework, considering
 both qualitative factors and quantitative factors (which may vary across sectors and
-acquisition target 2 representing medium (15%-30%) probability and 3 representing low
-rank of 3 is considered immaterial and therefore does not factor into our price target and
-may or may not be discussed in research
-We have previously examined our Asia Pacific technology coverage using an MA
-framework (see Navigating the noise (6) Introduce MA framework update
-targets and rank them from 1 to 3 based on our assessment of three key factors
-Firstly we look at whether there are any impediments such as shareholder
-structurepreferences industry regulationsgovernment policies and takeover defense
-strategies that could prevent a transaction from occurring We then consider four
-qualitative factors  attractiveness of technology attractiveness of customers cost
-synergy potential and otherintangible value  and two quantitative factors  market
-cap and valuations
+regions) to incorporate the potential that certain companies could be acquired. We then
+to 3, with 1 representing high (30%-50%) probability of the company becoming an
+acquisition target, 2 representing medium (15%-30%) probability and 3 representing low
+(0%-15%) probability. For companies ranked 1 or 2, in line with our standard
+departmental guidelines we incorporate an M&A component into our target price. M&A
+rank of 3 is considered immaterial and therefore does not factor into our price target, and
+may or may not be discussed in research.
+We have previously examined our Asia Pacific technology coverage using an M&A
+framework (see "Navigating the noise (6): Introduce M&A framework, update
+roadmap", July 4, 2016). In the framework, we examine companies' potential as M&A
+targets and rank them from 1 to 3 based on our assessment of three key factors.
+Firstly, we look at whether there are any impediments, such as shareholder
+structure/preferences, industry regulations/government policies, and takeover defense
+strategies that could prevent a transaction from occurring. We then consider four
+qualitative factors
+attractiveness of technology, attractiveness of customers, cost
+synergy potential, and other/intangible value
+and two quantitative factors
+market
+cap and valuations.
 Shareholder structure and potential impediments
-When assessing potential impediments we take into consideration
-       Major shareholder preferences (we assume that shareholders with a 20% or
-greater stake have significant influence or a blocking stake) and take into account any
+We gauge whether there are any impediments to M&A because, if there are, a company
+is unlikely to become an M&A target even if it ranks 1 or 2 on qualitative/quantitative
+criteria.
+When assessing potential impediments, we take into consideration:
+Major shareholder preferences (we assume that shareholders with a 20% or
+greater stake have significant influence, or a blocking stake), and take into account: any
 potential actions by major shareholders in the event of a possible acquisition by a third
-party (including whether they would likely be receptive or if they may be opposed to
-中际旭创 (300308SZ)
-       Regulatory and or government policy impediments and
-       Possible takeover defense measures such as a poison pill
-We assign a No qualification if one or more of the three considerations above are
-applicable and a Yes qualification if these considerations do not apply
+party (including whether they would likely be receptive, or if they may be opposed to
+selling), or if they have announced a preference to raise their stake in the company;
+2018年9月13日
+Regulatory and or government policy impediments; and
+Possible takeover defense measures such as a poison pill.
+We assign a "No" qualification if one or more of the three considerations above are
+applicable and a "Yes" qualification if these considerations do not apply.
 Four qualitative assessment criteria
-capable of generating future value as well as its technological capabilities and
-intellectual property rights We assign a rank of 3 if its technology is unattractive
-2 if it is moderately attractive and 1 if it is very attractive
-base and product applications We also take customer retention and end-market
-exposure (including sales channels) into account We assign a rank of 3 if its
-customer base and product applications are unattractive 2 if they are moderately
-attractive 1 if they are attractive
-       Cost synergies We look at prospects for growth in business scale and scope for
-rank of 3 if there is low possibility of synergies 2 if there is some possibility 
-1 if there is high possibility
-including brand strength outstanding managementemployees and intangible assets
-We assign a rank of 3 if they are unattractive 2 if they are moderately
-attractive 1 if they are attractive
+Technology: We look at whether or not a company has attractive technology
+capable of generating future value, as well as its technological capabilities and
+intellectual property rights. We assign a rank of "3" if its technology is unattractive,
+"2" if it is moderately attractive, and "1" if it is very attractive.
+Customer base: We look at whether or not a company has an attractive customer
+base and product applications. We also take customer retention and end-market
+exposure (including sales channels) into account. We assign a rank of "3" if its
+customer base and product applications are unattractive, "2" if they are moderately
+attractive, "1" if they are attractive.
+Cost synergies: We look at prospects for growth in business scale and scope for
+profit margin/ yield improvement via acquisition of an M&A target company. We assign a
+rank of "3" if there is low possibility of synergies, "2" if there is some possibility,
+"1" if there is high possibility.
+Other: We look at whether or not a target company possesses attractive assets,
+including brand strength, outstanding management/employees, and intangible assets.
+We assign a rank of "3" if they are unattractive, "2" if they are moderately
+attractive, "1" if they are attractive.
 Two quantitative assessment criteria
-easier it is to acquire We also take regional qualities (such as differing market cap
-ranges between regions) into account
-EVDACF are below the industrypeer average for the same period as we believe
-peer group 2 if its valuation is in line with the peer average 1 if its valuation
-is discounted We take into account differing valuation multiple ranges between the
-图表 70 We assign an MA ranking of 3 to Innolight
-资料来源：Gao Hua Securities Research
-中际旭创 (300308SZ)
-Within this overall framework we assign an MA rank of 3 to Innolight When
-Innolight was purchased by the listed Zhongji Equipment in 2017 the effective
+Market cap: We score a company based on the assumption that the smaller it is the
+easier it is to acquire. We also take regional qualities (such as differing market cap
+ranges between regions) into account.
+Valuation: We look at whether a target company's three-year average P/E and
+EV/DACF are below the industry/peer average for the same period, as we believe
+companies trading at a discount to peers are more likely to be acquired. We assign a
+score of "3" if the company appears overvalued relative to its respective industry
+"2" if its valuation is in line with the peer average, "1" if its valuation
+peer group,
+is discounted. We take into account differing valuation multiple ranges between the
+companies depending on their region and their peers.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Within this overall framework, we assign an M&A rank of '3' to Innolight. When
+Innolight was purchased by the listed Zhongji Equipment in 2017, the effective
+controller/controlling shareholder of the listed company (Mr. Wang Xiuwei, Chairman of
 Zhongji Equipment) made a promise to voluntarily remain as controlling shareholder and
-for an MA during the defined period
-However we believe MA may be a possible scenario after the defined five year period
-firms within the industry and sold to larger players later on In 1995 he sold SDL an
-In 2000 he co-founded Pine Photonics Communications with Innolights current CMO
-Innolights current CEO who was serving as the head of Pine Photonics China RD
-center Innolights current CTO Wei-long William Lee also worked in Pine Photonics at
-optoelectronics spin-off of Japans Hitachi Mr Liu Sheng continued to serve in Opnext
-as a senior manager in RD before founding Innolight in 2008  We believe this
-experience makes Innolights current key management open to the idea of an MA
-exit if a situation were to present itself
-Deal size (mn USD)
-VerticalHorizontal
-Neophotonics (low-speed transceiver)
-AVAGO (optical module arm)
-Note The LumentumOclaro proposed deal is not closed
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
+will not assist any party in seeking controlling shareholder status of the company within
+the 60 months of the deal's completion. This promise practically blocks any possibility
+for an M&A during the defined period.
+However, we believe M&A may be a possible scenario after the defined five year period
+given:
+The company's strategy advisor (former Chairman) historically co-founded several
+firms within the industry and sold to larger players later on. In 1995, he sold SDL, an
+optical equipment company to JDSU (later split into Lumentum and Viavi) for $41 billion.
+In 2000, he co-founded Pine Photonics Communications with Innolight's current CMO
+Mr. Osa Mok. During his five year tenure at the company, he worked with Liu Sheng,
+Innolight's current CEO, who was serving as the head of Pine Photonics' China R&D
+center. Innolight's current CTO, Wei-long William Lee also worked in Pine Photonics at
+the time as a senior optical engineer. The company was later sold to Opnext, the
+optoelectronics spin-off of Japan's Hitachi. Mr. Liu Sheng continued to serve in Opnext
+as a senior manager in R&D before founding Innolight in 2008. We believe this
+experience makes Innolight's current key management open to the idea of an M&A
+exit if a situation were to present itself.
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+Glossary
 CDR (clock and data recovery circuit) - connected to the optical transceiver on the
 end of a fiber channel link to extract timing information from a serial data stream to
-allow the receiving circuit to decode the transmitted data
+allow the receiving circuit to decode the transmitted data.
 LD (laser diode) - a semiconductor device similar to a light-emitting diode in which
-the laser beam is created at the diodes junction
-WDM DeMux (wavelength division demultiplexer) - A WDM system uses a
-multiplexer at the transmitter to join the several signals together and a demultiplexer
-at the receiver to split them apart
+the laser beam is created at the diode's junction.
+WDM De/Mux (wavelength division de/multiplexer) - A WDM system uses a
+multiplexer at the transmitter to join the several signals together, and a demultiplexer
+at the receiver to split them apart.
 SMF (single mode fiber) - an optical fiber designed to carry light only directly down
-the fiber
-TIA (transimpedance amplifiers) - a current to voltage converter almost exclusively
-implemented with one or more operational ampliers
-PIN - A PIN diode is a diode with a wide undoped intrinsic semiconductor region
-between a p-type semiconductor and an n-type semiconductor region
-ROSA - receiver optical sub-assembly TOSA - transmitter optical sub-assembly
-ROSA and TOSA together constitute transceiver module
+the fiber.
+TIA (transimpedance amplifiers) - a current to voltage converter, almost exclusively
+implemented with one or more operational ampliers.
+PIN - A PIN diode is a diode with a wide, undoped intrinsic semiconductor region
+between a p-type semiconductor and an n-type semiconductor region.
+ROSA - receiver optical sub-assembly; TOSA - transmitter optical sub-assembly.
+ROSA and TOSA together constitute transceiver module.
 Coupling - optical coupling is a method of interconnecting two devices to transfer an
-optical signal using light waves in the field of optoelectronics In practice an optical
-coupling is a connection between two optical cables using a coupling device
-图表 72 Company key milestones
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-图表 73 Innolight product mix
-Data Rate (Gbits)
-Temperature (deg C)
-C-DQ8FNMxxx-N00
-QSFP-DD AOC
-850nm VCSEL
-9W (each QSFP-DD)
-T-DQ8FNS-N00
-QSFP-DD SR8
-850nm VCSEL
-T-DQ4CNH-N00
-QSFP-DD DR4
-1310nm EML
-T-DQ4CNT-N00
-QSFP-DD FR4
-T-DQ4CNL-N00
-QSFP-DD LR4
-1296-1309nm LWDM EML
-C-OS8FNMxxx-N00
-850nm VCSEL
-9W (each OSFP)
-T-OS8FNS-N00
-850nm VCSEL
-T-OC8FNT-N00
-OSFP 2x FR4
-T-OS8FNL-N00
-1274-1309nm LWDM EML
-TR-FC85S-N00
-QSFP28 SR4
-850nm VCSEL
-TR-FC13R-N00
-QSFP28 LR4 (Ethernet)
-1294 -1310nm LWDM DFB
-TR-FC13L-NSN
-QSFP28 LR4 Dual Rates
-1294 - 1310nm LWDM EML
-TR-FC13V-N00
-QSFP28 CLR4 CWDM (Non-FEC)
-TR-FC13T-N00
-QSFP28 CWDM4 (FEC)
-TR-FC13X-N00
-QSFP28 eCWDM4
-TR-FC13D-N00
-QSFP28 ER4 Lite
-30km(Non-FEC)40km
-1294 -1310nm LWDM EML
-TR-FC13D-NSN
-QSFP28 ER4 Lite Dual Rates
-30km(Non-FEC)40km
-1294 - 1310nm LWDM EML
-TR-VC13T-N00
-QSFP28 PSM4
-1310nm DFB
-TP-VC13Txxxx-N00
-QSFP28 PSM4 Pigtail
-1310nm DFB
-TF-FCxxx-N00
-QSFP28 AOC
-850nm VCSEL
-25W (each QSFP28)
-TF-FPQYxxx-N00
-QSFP28 to 4x SFP28 AOC
-850nm VCSEL
-25W (QSFP28)   10W (each SFP28)
-TR-FC85S-E00
-QSFP28 SR4 (CPRI)
-850nm VCSEL
-TR-FC13X-R00
-QSFP28 CLR4 ET
-10km (wFEC)
-TR-QQ85S-N00
-850nm VCSEL
-TR-QQ85X-N00
-QSFP eSR4
-850nm VCSEL
-TR-QQ13T-N00
-TR-QQ13L-N00
-TR-QQ13E-N00
-TR-IQ13C-N00
-QSFP PSM IR4
-TR-IQ13L-N00
-QSFP PSM LR4
-1310nm DFB
-TF-QQxxx-N00
-850nm VCSEL
-15w (each QSFP)
-TR-QQ13Y-N00
-TF-QPQXxxx-N00
-QSFP to 4x SFP AOC
-850nm VCSEL
-15w (QSFP)  08w (each SFP)
-TF-PYxxx-N00
-850nm VCSEL
-10W (each SFP28)
-TR-PY85S-N00
-850nm VCSEL
-TR-PY13L-N00
-1310nm DFB
-TR-PY13D-N00
-SFP28 ER Lite
-30km(Non-FEC)40km
-1310nm EML
-TR-PY13L-V00
-SFP28 LR IT
-1310nm DFB
-TR-PY85S-V00
-SFP28 SR IT
-850nm VCSEL
-TR-LYxxL-V00
-SFP28 LR CWDM IT
-TR-DYxxL-V00
-SFP28 LR BiDi IT
-TR-DY13D-R00
-SFP28 ER Lite BiDi ET
-40km (wFEC)
-TR-PX13L-N00
-1310nm DFB
-TR-PX13L-V00
-1310nm DFB
-TR-PX15E-N00
-1550nm EML
-TR-PX15Z-N00
-1550nm EML
-TR-GXxxE-NSN
-SFP DWDM ER SONET
-TR-GXxxZ-NSN
-SFP DWDM ZR SONET
-资料来源：Company data Gao Hua Securities Research
-中际旭创 (300308SZ)
-图表 74 Government policy
-%XLOGPHJDGDWDFHQWHULQUHJLRQVWKDWDUHFROGDQGKDYHDGHTXDWHHQHUJ
-(QFRXUDJHEXLOGLQJVPDOOPLGVLHGGDWDFHQWHUVIRUORFDODQGUHDOWLPHDSSOLFDWLRQVDQGGHSORIOHLEOWR
-market needs in close proximity to users location
-Triple network integration
-7KLVUHIHUVWRWKHSURFHVVRIWUDGLWLRQDOWHOHFRPUDGLRDQGWHOHYLVLRQQHWZRUNVWUDQVIRUPLQJWRWKHQHW
-function and business scope The goal is to integrate those three networks in order to promote network
-connectivity and resource sharing
-FFHOHUDWHWKHRSHQLQJXSDQGVKDULQJRIJRYHUQPHQWGDWDSURPRWHLQWHJUDWLRQRIUHVRXUFHVDQGHQKDQFH
-governance capacity
-3URPRWHLQQRYDWLRQDQGGHYHORSPHQWQXUWXUHQHZLQGXVWUIRUPDWDQGVXSSRUWHFRQRPUHVWUXFWXULQJ
-%XLOGELJGDWDVHFXULWSURWHFWLRQVVWHPWRHQKDQFHQHWZRUNVDIHW
-%HVWDEOLVKFRPSUHKHQVLYHODZVDQGUHJXODWLRQVRQFRXOGFRPSXWLQJLQIRUPDWLRQVVWHPV
-Made in China 2025
-Facilitate 5G technology and product development the formulation of relevant standards the
-overall maturity of the 5G value chain and international collaboration
-National informatization development strategy outline
-2SWLPLHWKHODRXWRIGDWDFHQWHUVHQKDQFHWKHFRRUGLQDWLRQDQGWKHGHYHORSPHQWRIELJGDWDFORXG
-5HYHQXHUHDFKHG5PEWULOOLRQLQZLWK5RI
-7infrastructure investment to total Rmb20 trillion by 2020
-7GHYHORSPHQWLQGHURVHWRQGSODFHLQWKHZRUOG
-Mobile broadband penetration rate to reach 85% (by 2020)
-)LHGEURDGEDQGSHQHWUDWLRQUDWHUHDFKHG
-0RQWKOZLUHOHVVGDWDXVDJHUHDFKHGPESHUXVHU
-RXQWUVLGHYLOODJHILEHUDFFHVVUDWHUHDFKLQJ
-6SHFLILHGWKDWIRUDQGEHORZIUHTXHQFEDQGQROHVVWKDQILYHFLWLHV should start building 5G
-network in 2018 For each city base stations should be no less than 50 (in 2018)
- No of 5G terminals should be no less than 500
-2IIHUWRWKHFXVWRPHUV is no less than 100Mbps low latency 5G broadband service
-Plan on the rollout of IPv6 network
-)XOOFRPSDWLELOLWRI3YQHWZRUNLQKSHUVFDOHVDQGQHWZRUNEWKHHQGRI
-QQXDO7FRQVXPSWLRQVKRXOGUHDFKELOOLRQ50%ESHUDQQXDOJURZWKUDWHVKRXOGUHDFK
-%WKHHDU 98% of the administrative villages should achieve full 4G coverage and fiber
-broadband access
-(QVXUHWKDWEDOOXUEDQDUHDVDUHFRYHUHGERSWLFDOQHWZRUNDQGFDQRIIHU0ESVDFFHVV
-Guidance on construction  layout of datacenters
-State council notice on the action outline for promoting and
-development of Big Data
-new format of information industry
-ICT industry development plan 2016-2020
-Notice on the construction project of the 2018 new
-generation IT technology infrastructure
-Expand and upgrade IT consumption action plan 2018 -
-资料来源：Gao Hua Securities Research
-中际旭创 (300308SZ)
+optical signal using light waves in the field of optoelectronics. In practice, an optical
+coupling is a connection between two optical cables using a coupling device.
+Appendix
+2018年9月13日
+全球投资研究
+2018年9月13日
+全球投资研究
+图表 74: Government policy
+2018年9月13日
+全球投资研究
+中际旭创 (300308.SZ)
+信息披露附录
+本人，侯雪婷，在此申明，本报告所表述的所有观点准确反映了本人对上述公司或其证券的个人看法。此外，本人薪金的任何部分不曾与，不与，也将不
 会与本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增
 长、回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下:
 增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本
-回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EVFCF、EVEBITDA、EVDACF、市净率。 波动性根据
+回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据
 12个月的历史波动性计算并经股息调整。
+并购评分
 在我们的全球覆盖范围中，我们使用并购框架来分析股票，综合考虑定性和定量因素（各行业和地区可能会有所不同）以计入某些公司被收购的可能性。
 然后我们按照从1到3对公司进行并购评分，其中1分代表公司成为并购标的的概率较高(30%-50%)，2分代表概率为中等(15%-30%)，3分代表概率较低
-(0%-15%)。对于评分为1或2的公司，我们按照研究部统一标准将并购因素体现在我们的目标价格当中。并购评分为3被认为意义不大，因此不予体现在
+Quantum
 Quantum是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比
+GS SUSTAIN
 GS SUSTAIN是一项侧重于通过发现优质行业领先企业而实现长期超额收益的全球投资策略。GS SUSTAIN 50关注名单列出了我们认为凭借出色的资本
 回报、具有可持续性的竞争优势和对ESG（环境、社会和企业治理）风险的有效管理而有望在长期内相对于全球同业表现出色的行业领军企业。候选企
 业主要基于对企业在这三方面表现的综合量化分析筛选而出。
-侯雪婷：A股电信与科技、大中华电信与科技。
-Technology、Hytera Communications Corp、SG Micro Corp、Wangsu Science  Technology Co、Zhongji Innolight Co、ZTE Corp (A)。
-Corp、SMIC (ADR)、SMIC (H)、TSMC、TSMC (ADR)、United Microelectronics Corp、United Microelectronics Corp (ADR)、ZTE Corp (H)。
-没有对下述公司的具体信息披露： Zhongji Innolight Co (Rmb4206)
+相关的股票研究范围
+侯雪婷: A股电信与科技、大中华电信与科技。
+A股电信与科技: Accelink Technologies、China United Network Comm、Dahua Technology、Fiberhome Telecom Tech、Goodix、Hikvision Digital
+Technology, Hytera Communications Corp., SG Micro Corp., Wangsu Science & Technology Co., Zhongji Innolight Co., ZTE Corp. (A).
+大中华电信与科技: China Communication Services、China Mobile (HK)、China Mobile (HK) (ADR)、China Telecom (ADR)、China Telecom (H)、
+China Tower Corp., China Unicom (ADS), China Unicom (H), Hua Hong Semiconductor Ltd., Mediatek, Parade Technologies Ltd., Silergy
+Corp., SMIC (ADR), SMIC (H), TSMC, TSMC (ADR), United Microelectronics Corp., United Microelectronics Corp. (ADR), ZTE Corp. (H).
+信息披露
+与公司有关的法定披露
+的公司之间的关系。
+没有对下述公司的具体信息披露: Zhongji Innolight Co. (Rmb42.06)
 公司评级、研究行业及评级和相关定义
 回报决定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地
 行业中买入和卖出评级的分布可能根据地区投资评估委员会的决定而有所不同。此外，每个地区投资评估委员会管理着地区强力买入或卖出名单，该名单
 对这些股票的投资评级发生了改变。
-标价格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。
-评级中的其中一项代表其根据行业历史基本面及或估值对研究对象的投资前景的看法。 具吸引力(A)：未来12个月内投资前景优于研究范围的历史基本
-面及或估值。 中性(N)：未来12个月内投资前景相对研究范围的历史基本面及或估值持平。 谨慎(C)：未来12个月内投资前景劣于研究范围的历史基
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予
+评级中的其中一项代表其根据行业历史基本面及／或估值对研究对象的投资前景的看法。        具吸引力(A)：未来12个月内投资前景优于研究范围的历史基本
+面及／或估值。 中性(N)：未来12个月内投资前景相对研究范围的历史基本面及／或估值持平。 谨慎(C)：未来12个月内投资前景劣于研究范围的历史基
+本面及／或估值。
 以除去。 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票
 给予投资评级和价格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经
 暂停对该公司的研究。 没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因
-本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整
-性，客户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会
-中际旭创 (300308SZ)
-我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们
-的资产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
-该股的基本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
-在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到
-个别客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意
-见。本报告中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失
-某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自
-这一投资的收入产生不良影响。
-期权策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。
-全球投资研究部提供的不同服务层级：根据您对接收沟通信息的频率和方式的个人偏好、您的风险承受能力、投资重心和视角（例如整体市场、具体行
-票评级、目标价格或盈利预测大幅调整）的改变，在被纳入研究报告、并通过电子形式发表在内部客户网上或通过其它必要方式向有权接收此类研究报告
-的所有客户大范围发布之前，不得向任何客户透露。
-市场或资产类别（包括相关服务）的研究报告、模型或其它数据，请联络您的高华销售代表。
-中际旭创 (300308SZ)
+此不包括在报告内。
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。

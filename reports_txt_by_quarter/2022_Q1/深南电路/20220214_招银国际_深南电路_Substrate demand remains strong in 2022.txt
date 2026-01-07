@@ -1,1058 +1,166 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-China Technology Sector 
- 
-Lily Yang, Ph.D. 
-(852) 3916 3716 
-lilyyang@cmbi.com.hk 
- 
-Alex Ng 
-(852) 3900 0881 
-alexng@cmbi.com.hk 
- 
-Lana Lin 
-(852) 3761 8912 
-lanalin@cmbi.com.hk 
- 
- 
-Stock Data 
-Mkt Cap (HK$ mn) 
+行 全
+A Wholly Owned Subsidiary Of China Merchants Bank
+Shennan Circuits (002916 CH)
+HOLD (Maintain)
+Target Price
+RMB110.75
+(Previous TP
+RMB110.75)
+Up/Downside
+-3.7%
+Shennan Circuits raised RMB2.55bn through a private placement on Thursday,
+Current Price
+RMB115.05
+and key participants include National IC industry Investment Fund. The proceeds
+China Technology Sector
+will be used to expand high-end flip chip IC substrate manufacture. Although we
+think substrate demand will remain strong, the new capacity will not contribute
+Lily Yang, Ph.D.
+much before end of 2023. In addition, we believe the positive news have been
+priced in and the stock is fairly valued. Maintain HOLD with TP of RMB110.75.
+National IC Industry Investment Fund (Phase II) invested in Shennan's
+Alex Ng
+recent private placement. Shennan Circuits raised RMB2.55bn through a
+private placement. The company issued 23.7mn shares at a price of
+RMB107.62. There are 19 participants including Huatai Securities, National
+Lana Lin
+IC industry Investment Fund, JP Morgan Chase, UBS, etc. The fund will be
+used to expand Shennan's capacity in high-end flip chip IC substrate
+manufactures. In 1H21, substrate business accounted for ~19% of total
+revenue.
+Stock Data
+Mkt Cap (HK$ mn)
 56,282
-Avg 3 mths t/o (HK$ mn) 
-438
-52w High/Low (HK$)   
+IC substrate supply is expected to remain tight. We saw substrate demand
+Avg 3 mths t/o (HK$ mn)
+was strong since last year as we pointed out in our previous reports. Shennan
+52w High/Low (HK$)
 126.66/74.88
-Total Issued Shares (mn) 
-489.2
-Source: Bloomberg 
- 
-Shareholding Structure 
-AVIC International Holdings 
-67.06% 
-HK Securities Clearing 
-2.60% 
-China Asset Management Co 
-0.90% 
-Source: HKEx 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-0.4% 
-9.2%
-3-mth 
-6.1% 
-11.9%
-6-mth 
-8.3% 
-16.8%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Bloomberg 
- 
-Auditor: BDO 
- 
-Recent Reports: 
-1. Strong 3Q results; Cost pressure 
-remains – 2 Nov 2021 (Link) 
-2. Positive on capacity expansion plan; 
-Maintain HOLD on fair valuation – 25 
-Jun 2021 (Link) 
-0.0
-20.0
-40.0
-60.0
-80.0
-100.0
-120.0
-140.0
-Feb-21
-Apr-21
-Jun-21
-Aug-21
-Oct-21
-Dec-21
-002916 CH
-SZCOMP  (rebased)
-(HK$)
-HOLD (Maintain) 
-Target Price 
-RMB110.75 
-(Previous TP 
-RMB110.75) 
-Up/Downside 
-  -3.7% 
-Current Price 
-RMB115.05 
-1 
-     14 Feb 2022 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Shennan Circuits raised RMB2.55bn through a private placement on Thursday, 
-and key participants include National IC industry Investment Fund. The proceeds 
-will be used to expand high-end flip chip IC substrate manufacture. Although we 
-think substrate demand will remain strong, the new capacity will not contribute 
-much before end of 2023. In addition, we believe the positive news have been 
-priced in and the stock is fairly valued. Maintain HOLD with TP of RMB110.75. 
- National IC Industry Investment Fund (Phase II) invested in Shennan’s 
-recent private placement. Shennan Circuits raised RMB2.55bn through a 
-private placement. The company issued 23.7mn shares at a price of 
-RMB107.62. There are 19 participants including Huatai Securities, National 
-IC industry Investment Fund, JP Morgan Chase, UBS, etc. The fund will be 
-used to expand Shennan’s capacity in high-end flip chip IC substrate 
-manufactures. In 1H21, substrate business accounted for ~19% of total 
-revenue.  
- IC substrate supply is expected to remain tight. We saw substrate demand 
-was strong since last year as we pointed out in our previous reports. Shennan 
-has announced new capacity in Guangzhou factory, with planned capacity of 
-200mn FC-BGA and 3mn panel RF/FC-CSP. Looking forward, we believe the 
-demand will remain strong. BT substrate is expected to be tight at least in 
-1H22,while the supply of ABF substrate will fall short throughout 2022.  
- Shennan’s current substrate capacity is under full production; new 
-capacity will contribute in 2023/34E. Shennan’s existing substrate capacity 
-has been in full production since 2020, driven by strong semiconductor 
-demand. Current substrate capacity is 30w per year. New substrate capacity 
-includes Wuxi, Jiangsu and Guangzhou, Guangdong. 
- Maintain HOLD with TP of RMB110.75. Although we think substrate demand 
-will remain strong, the company’s current capacity is under full production and 
-new capacity will not contribute before end of 2023. As the positive news have 
-been priced in, we think the stock is fairly valued at the moment. Potential 
+Total Issued Shares (mn)
+has announced new capacity in Guangzhou factory, with planned capacity of
+Source: Bloomberg
+200mn FC-BGA and 3mn panel RF/FC-CSP. Looking forward, we believe the
+demand will remain strong. BT substrate is expected to be tight at least in
+Shareholding Structure
+1H22, while the supply of ABF substrate will fall short throughout 2022.
+67.06%
+AVIC International Holdings
+HK Securities Clearing
+2.60%
+Shennan's current substrate capacity is under full production; new
+China Asset Management Co
+0.90%
+Source: HKEx
+capacity will contribute in 2023/34E. Shennan's existing substrate capacity
+has been in full production since 2020, driven by strong semiconductor
+Share Performance
+demand. Current substrate capacity is 30w per year. New substrate capacity
+includes Wuxi, Jiangsu and Guangzhou, Guangdong.
+Maintain HOLD with TP of RMB110.75. Although we think substrate demand
+Source: Bloomberg
+will remain strong, the company's current capacity is under full production and
+new capacity will not contribute before end of 2023. As the positive news have
+12-mth Price Performance
+been priced in, we think the stock is fairly valued at the moment. Potential
 upside risks include faster-than-expected decline of material costs, higher-
-than-expected 5G infrastructure spending and consumer demand.   
- 
-Earnings Summary 
-(YE 31 Dec) 
-FY19A 
-FY20A 
-FY21E 
-FY22E 
-FY23E 
-Turnover (RMB mn) 
-10,524  
-11,600  
-13,141  
-15,629  
-17,668  
-YoY growth (%) 
-38.4% 
-10.2% 
-13.3% 
-18.9% 
-13.0% 
-Gross margin (%) 
-26.5% 
-26.5% 
-24.2% 
-25.0% 
-25.7% 
-Net profit (RMB mn) 
-1,234  
-1,430  
-1,423  
-1,819  
-2,200  
-EPS (RMB) 
-3.66 
-3.00 
-2.90 
-3.69 
-4.47 
-YoY growth (%) 
-47.0% 
--18.0% 
--3.4% 
-27.4% 
-21.0% 
-Consensus EPS (RMB) 
-NA 
-NA 
-2.92 
-3.74 
-4.38 
-PE (x) 
-26.7 
-32.6 
-33.7 
-26.5 
-21.9 
-PB (x) 
-6.6 
-6.3 
-5.7 
-4.9 
-4.2 
-Yield (%) 
-1.2% 
-1.0% 
-1.0% 
-1.2% 
-1.5% 
-ROE (%) 
-24.7% 
-19.2% 
-16.8% 
-18.5% 
-19.2% 
-Source: Company data, Bloomberg, CMBIS estimates 
- 
-Shennan Circuits (002916 CH) 
-Substrate demand remains strong in 2022 
-14 Feb 2022 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Company capacity 
-Shennan’s PCB capacity was about 200w sq m per year. The capacity of the Company’s 
-PCB production was ~80-85% in 1H21. New PCB capacity includes 1) Phase II plant in 
-Nantong, Jiangsu (58w sq m, currently ramping up in the mid-to-late stage) and 2) Phase 
-III plant in Nantong, Jiangsu (expected to begin production in 4Q22).  
-Shennan’s substrate capacity was 30w per year. New substrate capacity includes 1) Wuxi, 
-Jiangsu (60w, high-end substrate, currently ramping up in the late stage) and 2) 
-Guangzhou, Guangdong (expected to begin production in 2023).  
-Shennan announced to expand substrate capacity in Guangzhou production base, which 
-will add 200mn FC-BGA and 3mn panel RF/FC-CSP substrate capacity. We expect the 
-new project to contribute revenue in 2023/24E. Shennan’s existing substrate capacity has 
-been in full production since last year, driven by strong semiconductor demand. 
-Figure 1: Capacity Schedule 
-   
-Source: Company data, CMBIS estimates 
- 
- 
- 
-Capacity Schedule
-FY20
-FY21E
-FY22E
-FY23E
-PCB
-Shenzhen, Guangdong (100w sqm)
-Wuxi, Jiangsu (50w)
-Nantong, Jiangsu (50w, increased from 34w)
-NewNantong, Jiangsu (58w sqm)
-Substrate
-Shenzhen, Guangdong (30w, increased from 23w)
-NewWuxi, Jiangsu (60w sqm)
-NewGuangzhou, Guangong
-14 Feb 2022 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Figure 2: Copper: price is high while inventory is low 
-(China) 
- 
- 
-Source: Wind, CMBIS estimates 
-Figure 3: Copper foil accounts for the largest part of 
-CCL cost (2020) 
- 
-Source: Shengyi Electronics, CMBIS estimates 
- 
-Figure 4: 12M forward P/E chart 
- 
-Source: Company data, CMBIS 
- 
-Figure 5: 12M forward P/E band 
- 
-Source: Company data, CMBIS 
- 
- 
- 
- -
- 0.2
- 0.4
- 0.6
- 0.8
- 1.0
-0
-2
-4
-6
-8
-10
-12
-tonne (mn)
-US$/ton (k)
-China cooper inventory
-LME Copper 3m
-Copper foil
-30-50%
-Glass fiber
-25.0%
-Resin
-25.0%
-Other
-15
-20
-25
-30
-35
-40
-01-21
-03-21
-05-21
-07-21
-09-21
-11-21
-1-yr Forward P/E
-Mean
-Mean+1SD
-Mean-1SD
-0
-20
-40
-60
-80
-100
-120
-140
-160
-01/21
-03/21
-05/21
-07/21
-09/21
-11/21
-Closing Px
-22.4x
-26.3x
-30.1x
-33.9x
-37.7x
-(RMB)
-3M LME price at US$10,182 per ton (2022/2/10). 
-14 Feb 2022 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Financial Summary 
-Income statement 
- 
- 
- 
- 
-  Cash flow 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY19A 
-FY20A 
-FY21E 
-FY22E 
-FY23E  YE 31 Dec (RMB mn) 
-FY19A FY20A FY21E FY22E FY23E 
-Revenue 
-10,524 
-11,600 
-13,141 
-15,629 
-17,668  Net profit  
-1,234 
-1,431 
-1,424 
-1,820 
-2,202 
-Cost of sales 
-(7,732) 
-(8,530) 
-(9,955) (11,723) (13,119)  D&A 
-448 
-606 
-778 
-1,039 
-1,324 
-Gross profit 
-2,792 
-3,071 
-3,186 
-3,906 
-4,549  Change in working capital 
-(650) 
-(557) 
-(185) 
-(698) 
-(986) 
-  
-  
-  
-  
-  
-   Others 
-232 
-320 
-177 
-45 
-207 
-Selling exp 
-(218) 
-(167) 
-(231) 
-(250) 
-(282)  Net cash from operating 
-1,263 
-1,800 
-2,194 
-2,207 
-2,748 
-Admin exp (excl. R&D) 
-(501) 
-(480) 
-(508) 
-(594) 
-(654)    
-  
-  
-  
-  
-  
-R&D exp 
-(537) 
-(645) 
-(733) 
-(872) 
-(986)  Capex 
-(2,183) (2,486) 
-(893) (1,114) (1,316) 
-Finance costs 
-(72) 
-(152) 
-(64) 
-(69) 
-(64)  Other 
-186 
-(149) 
-27 
-201 
-26 
-Other operating exp. 
-2,702 
-2,889 
-3,164 
-3,661 
-4,104  Net cash from investing  
-(1,997) (2,635) 
-(866) 
-(914) (1,290) 
-Operating profit 
-1,418 
-1,625 
-1,559 
-2,030 
-2,431    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Share issuance 
-130 
-0 
-38 
-40 
-40 
-Other non-oper exp. 
-(14) 
-(19) 
-(6) 
-(16) 
-(13)  Dividend paid 
-(278) 
-(453) 
-(465) 
-(462) 
-(591) 
-Pre-tax profit 
-1,404 
-1,606 
-1,553 
-2,013 
-2,418  Other 
-1,664 
-383 
-1,145 
-166 
-341 
-  
-  
-  
-  
-  
-   Net cash from financing  
-1,516 
-(71) 
-719 
-(256) 
-(210) 
-Income tax expense 
-(170) 
-(175) 
-(129) 
-(193) 
-(216)    
-  
-  
-  
-  
-  
-Minority interests 
-1 
-1 
-1 
-2 
-2  Net change in cash 
-791 
-(937) 
-2,046 
-1,037 
-1,248 
-Net profit 
-1,234 
-1,430 
-1,423 
-1,819 
-2,200  Cash at beginning of the year 
-650 
-1,441 
-504 
-2,550 
-3,588 
- 
- Exchange difference 
-9 
-(31) 
-0 
-0 
-0 
-  
- 
- 
- 
- 
-  Cash at the end of the year 
-1,441 
-504 
-2,550 
-3,588 
-4,835 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY19A 
-FY20A 
-FY21E 
-FY22E 
-FY23E  YE 31 Dec 
-FY19A FY20A FY21E FY22E FY23E 
-Current assets 
-5,977 
-5,941 
-8,724 
-11,873 
-13,217  Revenue mix 
-  
-  
-  
-  
-  
-Cash & equivalents 
-1,444 
-507 
-2,550 
-3,588 
-4,835  PCB 
-7726 
-8311 
-8419 
-10260 
-11752 
-Account receivables 
-2,092 
-2,053 
-3,203 
-3,743 
-4,110  PCBA 
-1211 
-1160 
-1334 
-1321 
-1307 
-Inventory 
-1,504 
-2,206 
-1,942 
-3,268 
-2,979  Substrate 
-1164 
-1544 
-2574 
-3153 
-3623 
-Prepayment 
-3 
-6 
-12 
-11 
-14    
-  
-  
-  
-  
-  
-Other current assets 
-934 
-1,169 
-1,016 
-1,263 
-1,279  Growth (%) 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   Revenue 
-38.4% 
-10.2% 
-13.3% 
-18.9% 
-13.0% 
-Non-current assets 
-6,242 
-8,067 
-8,416 
-8,517 
-8,600  Operating profit 
-80.9% 
-14.6% 
--4.1% 
-30.2% 
-19.8% 
-PPE 
-4,310 
-6,485 
-8,400 
-10,141 
-11,871  Net profit 
-76.9% 
-15.9% 
--0.5% 
-27.8% 
-21.0% 
-Deferred tax assets 
-68 
-72 
-85 
-103 
-109    
-  
-  
-  
-  
-  
-Other non-current 
-1,865 
-1,509 
--69 
--1,727 
--3,380  Profit & loss ratio (%) 
-  
-  
-  
-  
-  
-Total assets 
-12,219 
-14,008 
-17,140 
-20,390 
-21,817  Gross margin 
-26.5% 
-26.5% 
-24.2% 
-25.0% 
-25.7% 
-  
-  
-  
-  
-  
-  
- Operating margin 
-13.5% 
-14.0% 
-11.9% 
-13.0% 
-13.8% 
-Current liabilities 
-4,670 
-4,932 
-6,071 
-7,842 
-7,312  Net profit margin 
-11.7% 
-12.3% 
-10.8% 
-11.6% 
-12.5% 
-ST borrowings 
-158 
-232 
-370 
-390 
-425    
-  
-  
-  
-  
-  
-Account payables 
-1,555 
-1,515 
-2,333 
-3,119 
-2,463  Balance sheet ratio 
-  
-  
-  
-  
-  
-Tax payable 
-46 
-22 
-55 
-49 
-61  Net debt/total equity (%) Net cash 
-10.5% Net cash Net cash Net cash 
-Other current liabilities 
-2,911 
-3,163 
-3,313 
-4,284 
-4,363  Current ratio  (x) 
-1.3 
-1.2 
-1.4 
-1.5 
-1.8 
-  
-  
-  
-  
-  
-  
- Receivable turnover days 
-64 
-65 
-73 
-81 
-81 
-Non-current liabilities 
-2,547 
-1,631 
-2,596 
-2,730 
-3,028  Inventory turnover days 
-(67) 
-(79) 
-76 
-81 
-87 
-LT borrowings 
-945 
-1,059 
-1,677 
-1,767 
-1,928  Payable turnover days 
-(67) 
-(66) 
-(71) 
-(85) 
-(78) 
-Deferred tax liability 
-3 
-6 
-7 
-9 
-9    
-  
-  
-  
-  
-  
-Other non-current 
-1,599 
-566 
-912 
-954 
-1,091  Profitability (%) 
-  
-  
-  
-  
-  
-Total liabilities 
-7,216 
-6,563 
-8,667 
-10,572 
-10,340  ROE 
-24.7% 
-19.2% 
-16.8% 
-18.5% 
-19.2% 
-  
-  
-  
-  
-  
-  
- ROA 
-10.1% 
-10.2% 
-8.3% 
-8.9% 
-10.1% 
-Share capital 
-339 
-489 
-491 
-492 
-494    
-  
-  
-  
-  
-  
-Reserve 
-2,231 
-3,660 
-3,696 
-3,734 
-3,773  Per share data (RMB) 
-  
-  
-  
-  
-  
-Minority interest 
-2 
-3 
-4 
-6 
-8  EPS 
-3.66 
-3.00 
-2.90 
-3.69 
-4.47 
-Total equity 
-5,003 
-7,444 
-8,472 
-9,818 
-11,477  DPS 
-1.15 
-0.95 
-0.94 
-1.20 
-1.45 
-Total liabilities and 
-12,219 
-14,008 
-17,140 
-20,390 
-21,817  BPS 
-14.84 
-15.61 
-17.25 
-19.93 
-23.29 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-Source: Company data, CMBIS estimates  
-14 Feb 2022 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-5 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIS does not 
-provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special 
-requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report.  The value 
-of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets 
-or other variable market factors.  CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to 
-consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s) 
-to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any 
-transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense 
-whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone making use of the information contained in this report 
-does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS 
-has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices 
-and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue other publications having information and/ or 
-conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment 
-decisions or take proprietary positions that are inconsistent with the recommendations or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of 
-its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this 
-report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any 
-responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published 
-in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended 
-from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and 
-may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-CMBIS is not a registered broker-dealer in the United States.  As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the 
-independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research 
-analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the 
-analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States 
-solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other 
-person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not 
-distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information 
-provided in this report should do so only through a U.S.-registered broker-dealer.   
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the 
-Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign 
-entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed 
-in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of 
-Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact 
-CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
+than-expected 5G infrastructure spending and consumer demand.
+Earnings Summary
+Source: Bloomberg
+Auditor: BDO
+Recent Reports:
+Strong 3Q results; Cost pressure
+remains - 2 Nov 2021 (Link)
+Positive on capacity expansion plan;
+Jun 2021 (Link)
+Source: Company data, Bloomberg, CMBIS estimates
+Company capacity
+Shennan's PCB capacity was about 200w sq m per year. The capacity of the Company's
+PCB production was ~80-85% in 1H21. New PCB capacity includes 1) Phase II plant in
+Nantong, Jiangsu (58w sq m, currently ramping up in the mid-to-late stage) and 2) Phase
+III plant in Nantong, Jiangsu (expected to begin production in 4Q22).
+Shennan's substrate capacity was 30w per year. New substrate capacity includes 1) Wuxi,
+Jiangsu (60w, high-end substrate, currently ramping up in the late stage) and 2)
+Guangzhou, Guangdong (expected to begin production in 2023).
+Shennan announced to expand substrate capacity in Guangzhou production base, which
+will add 200mn FC-BGA and 3mn panel RF/FC-CSP substrate capacity. We expect the
+new project to contribute revenue in 2023/24E. Shennan's existing substrate capacity has
+been in full production since last year, driven by strong semiconductor demand.
+Figure 1: Capacity Schedule
+Source: Company data, CMBIS estimates
+Source: Shengyi Electronics, CMBIS estimates
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS does not
+provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special
+requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report. The value
+of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
+or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to
+consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
+to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
+transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense
+whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone making use of the information contained in this report
+does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS
+has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices
+and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other publications having information and/or
+conclusions different from this report. These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment
+decisions or take proprietary positions that are inconsistent with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of
+its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this
+report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
+responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published
+in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended
+from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and
+may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+CMBIS is not a registered broker-dealer in the United States. As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the
+independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
+analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
+analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States
+solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other
+person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
+distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information
+provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the
+Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign
+entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed
+in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of
+Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact
+CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

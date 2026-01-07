@@ -1,630 +1,535 @@
-Pharmaceuticals 
-22 October 2018
+Deutsche Bank
+Research
+Rating
+Company
+Hengrui Medicine
+Buy
+Forecast Change
+Asia
+China
+Exchange Ticker
+Reuters
+Bloomberg
+Health Care
+600276.SS
+600276 CH
+SHH
+Pharmaceuticals /
+Biotechnology
 Deep dive into flagship drugs
+Jack Hu, Ph.D.
+Research Analyst
 A market leader for almost all flagship drugs
-Deutsche Bank AGHong Kong
-be aware that the firm may have a conflict of interest that could affect the objectivity of this report Investors should
-consider this report as only a single factor in making their investment decision DISCLOSURES AND ANALYST
-CERTIFICATIONS ARE LOCATED IN APPENDIX 1 MCI (P) 091042018
-Price at 18 Oct 2018 (CNY)
-Price target - 12mth (CNY)
-52-week range (CNY)
-Jack Hu PhD
-8550 to 7390 
-Sales (FYE)
-margin (FYE)
-Source Deutsche Bank
-Priceprice relative
-Shanghai Composite (Rebased)
-Performance (%)
-Source Deutsche Bank
-(apatinib) Aibeining Aisu and atracurium series All together they took in
-66% of total revenue in 1H18 by Rx data  Hengrui maintained its No 1 rank in
-many of the chemical classes in the past 45 years Also most of the 10 drugs
-experienced single-digit price cuts during the period except for Aitan whose
-ASP was slashed 37% in 1H18 upon NRDL entry We now model 21% and
-Expect limited impact from BE drug tender 3 drugs involved
-We expect limited impact on Hengrui from the drug tender in 11 large cities
-Related products include dexmedetomidine irbesartan and nab paclitaxel
-which accounted for 11% 1% and 0% of revenue in 1H18 respectively per
-Rx data Whether dexmedetomidine can pass BE before this tender remains
-uncertain now No matter whether Hengrui wins or loses the tender we
-estimate the impact on total revenue would be from -15% to -1% in 11 cities
-only while blended impact would be no more than 05% in absolute value
-Going forward we believe Hengrui holds a relatively robust franchise with
-Model revisions including minor changes to historical data
-The largest challenge for modeling Hengrui is the lack of sales data as the
-primarily replies upon its direct sales force public data also indicates Hengrui
-used third party CSOs (contract sales organizations) which explains the
+We analyzed competitive landscape of Hengrui's top 10 drugs including Aitan
+(apatinib), Aibeining, Aisu, and atracurium series. All together, they took in
+66% of total revenue in 1H18 by Rx data. Hengrui maintained its No. 1 rank in
+many of the chemical classes in the past 4.5 years. Also, most of the 10 drugs
+experienced single-digit price cuts during the period, except for Aitan, whose
+ASP was slashed 37% in 1H18 upon NRDL entry. We now model 21% and
+27% growth for net income in 2018 and 2019, respectively.
+Expect limited impact from BE drug tender; 3 drugs involved
+We expect limited impact on Hengrui from the drug tender in 11 large cities.
+Related products include dexmedetomidine, irbesartan, and nab paclitaxel,
+which accounted for 11%, 1%, and 0% of revenue in 1H18, respectively, per
+Price/price relative
+Rx data. Whether dexmedetomidine can pass BE before this tender remains
+uncertain now. No matter whether Hengrui wins or loses the tender, we
+estimate the impact on total revenue would be from -1.5% to -1% in 11 cities
+only, while blended impact would be no more than 0.5% in absolute value.
+Going forward, we believe Hengrui holds a relatively robust franchise with
+more focus on innovative drugs vs. competitors.
+Model revisions, including minor changes to historical data
+The largest challenge for modeling Hengrui is the lack of sales data, as the
+company does not report individual drug revenue at all. While Hengrui
+primarily replies upon its direct sales force, public data also indicates Hengrui
+used third party CSOs (contract sales organizations), which explains the
 discrepancy between Rx data and reported revenues on specific therapeutic
-classes We took time to reconcile these and believe our present model
-properly reflects Rx trends
-Decrease price target to RMB739 from RMB855 risks
-We decrease our PT mainly due to sector re-rating Our PT is based on 55x
-2019E EPS vs 64x previously We believe Hengrui deserves a premium in the
-multiple given the superior value of its products and its strong pipeline its A-
-share peers are trading at 29x 2019E EPS with 20% growth in 2020 (vs 27%
-we model for Hengrui) Key risks include regulatory delays setback in gastric
-Distributed on 22102018 005132 GMT
-7T2se3r0Ot6kwoPa
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-Model updated20 October 2018
-Pharmaceuticals  Biotechnology
-Reuters 600276SS
-Bloomberg 600276 CH
-Price (18 Oct 18)
-52 Week range
-CNY 5540 - 10150
-Market Cap (m)
-USDm 22526
-Jiangsu Hengrui Medicine Co Ltd was established in
-1970 and its headquarters is in Lianyungang Jiangsu
-manufacture and RD of drugs including those for
-oncology muscle relaxation and anesthetics contrast
-agents electrolytes and anti-infective drugs Apart from
-its domestic business Hengrui exports drugs to the US
-Europe and other countries
-Oct 16Jan 17Apr 17Jul 17 Oct 17Jan 18Apr 18Jul 18
-Shanghai Composite (Rebased)
-Growth  Profitability
-Sales growth (LHS)
-Net debtequity (LHS)
-Net interest cover (RHS)
-Jack Hu PhD
-Fiscal year end  31-Dec
-DB EPS (CNY)
-Reported EPS (CNY)
-BVPS (CNY)
-Weighted average shares (m)
-Average market cap (CNYm)
-Enterprise value (CNYm)
-PE (DB) (x)
-PE (Reported) (x)
-FCF Yield (%)
-Dividend Yield (%)
-EVSales (x)
-EVEBITDA (x)
-EVEBIT (x)
-Associatesaffiliates
-Exceptionalsextraordinaries
-DB adjustments (including dilution)
-Cash Flow (CNYm)
-Cash flow from operations
-Equity raised(bought back)
-Net inc(dec) in borrowings
-Other investingfinancing cash flows
-Change in working capital
-Balance Sheet (CNYm)
-Cash and other liquid assets
-Tangible fixed assets
-Goodwillintangible assets
-Associatesinvestments
-Interest bearing debt
-Shareholders equity
-Total shareholders equity
-Sales growth (%)
-DB EPS growth (%)
-EBITDA Margin (%)
-EBIT Margin (%)
-Payout ratio (%)
-Capexsales (%)
-Capexdepreciation (x)
-Net debtequity (%)
-Net interest cover (x)
-Source Company data Deutsche Bank estimates
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+classes. We took time to reconcile these and believe our present model
+properly reflects Rx trends.
+Decrease price target to RMB73.9 from RMB85.5; risks
+We decrease our PT mainly due to sector re-rating. Our PT is based on 55x
+2019E EPS, vs. 64x previously. We believe Hengrui deserves a premium in the
+multiple given the superior value of its products and its strong pipeline; its A-
+share peers are trading at 29x 2019E EPS with 20% growth in 2020 (vs. 27%
+we model for Hengrui). Key risks include regulatory delays, setback in gastric
+and ESCC for PD-1, as well as price cut and competition.
+Deutsche Bank AG/Hong Kong
+Distributed on: 22/10/2018 00:51:32 GMT
+Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should
+be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should
+consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST
+CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018.
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+Reuters: 600276.SS
+Bloomberg: 600276 CH
+Buy
+Company Profile
+Jiangsu Hengrui Medicine Co. Ltd. was established in
+1970 and its headquarters is in Lianyungang, Jiangsu
+province. The company is primarily involved in the
+manufacture and R&D of drugs, including those for
+oncology, muscle relaxation and anesthetics, contrast
+agents, electrolytes, and anti-infective drugs. Apart from
+its domestic business, Hengrui exports drugs to the US,
+Europe, and other countries.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data, Deutsche Bank estimates
+Jack Hu, Ph.D.
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+Summary
 DB analysis for top 10 drugs
-calculation
-dosagesformulations We also use 3M rolling average for market share and
-ASP data Our key takeaways include the following
-Most of the top 10 drugs delivered healthy growth in 1H18 while
-Aiheng lagged
-Out of top 10 Hengrui has a dominant position for 9 drugs in terms of
-market share
-Despite the threats of potential new rivals in each generic class for
-instance iodixanol sevoflurane and irinotecan we believe Hengrui is
-able to manage the risks well supported by strong marketing high-
-quality products and abundant pipeline
-Figure 1 Summary of top 10 drugs
-1H18 (RMB m)
-growth in 1H18
-% of total
-revenue in 1H18
-More than 10
-besylate for injection
-More than 10
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+We picked top 10 drugs according to Rx data and evaluated competitive
+landscape for each drug. In our calculation, we standardized all
+dosages/formulations. We also use 3M rolling average for market share and
+ASP data. Our key takeaways include the following:
+Most of the top 10 drugs delivered healthy growth in 1H18, while
+Aiheng lagged.
+Out of top 10, Hengrui has a dominant position for 9 drugs in terms of
+market share.
+Despite the threats of potential new rivals in each generic class, for
+instance, iodixanol, sevoflurane and irinotecan, we believe Hengrui is
+able to manage the risks well, supported by strong marketing, high-
+quality products, and abundant pipeline.
 Deep dive into flagship
+drugs
 Aisu (docetaxel)
-Sales growth of Aisu improved to 23% in 1H18 vs 13%1% in
-20172016 respectively In our view this is partly related to removal of
-restrictions to 2nd line treatment in national reimbursement last year
+Sales growth of Aisu improved to 23% in 1H18, vs. 13%/1% in
+2017/2016, respectively. In our view, this is partly related to removal of
+restrictions to 2nd line treatment in national reimbursement last year.
 Aisu was also taking more market share from early 2017 with
-relatively small price cut (4% in 1H18)
-Figure 2 Sales of Aisu accounted for 11% of total
-revenue in 1H18
-Figure 3 Growth acceleration of Aisu revenue since 2016
-Source Deutsche Bank Chinese Pharmaceutical Association (CPA)
-Source Deutsche Bank CPA
-Figure 4 Market share of major docetaxel players by
-Figure 5 ASP of docetaxel
-Taxotere (Aventis)
-Aisu (Hengrui)
-Xicun (Wanle Pharma)
-Duopafei (Qilu)
-Taxotere (Aventis)
-Aisu (Hengrui)
-Xicun (Wanle Pharma)
-Duopafei (Qilu)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+relatively small price cut (4% in 1H18).
+Source: Deutsche Bank, Chinese Pharmaceutical Association (CPA)
+Source: Deutsche Bank, CPA
 Aibeining (dexmedetomidine)
 Aibeining is the largest drug of Hengrui by our estimate and holds the
-majority of dexmedetomidine market in China
-According to Rx data this drug accounted for 11% of total revenue in
-1H18 and it grew 14% YoY during the period We also highlight the
-magnitude of price cut increased to 7% in 1H18 from 2% in 2016
-Figure 6 Sales of Aibeining accounted for 11% of total
-revenue in 1H18
-Figure 7 Revenue growth of Aibeining remained solid
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 8 Market share of major dexmedetomidine
-Figure 9 ASP of dexmedetomidine
-Leweijia (Guorui Pharma)
-Aibeining (Hengrui)
-Yisi (Nhwa Pharma)
-Chenjiao (Cisen Pharma)
-RMB 02mg
-Leweijia (Guorui Pharma)
-Aibeining (Hengrui)
-Yisi (Nhwa Pharma)
-Chenjiao (Cisen Pharma)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+majority of dexmedetomidine market in China.
+According to Rx data, this drug accounted for 11% of total revenue in
+1H18, and it grew 14% YoY during the period. We also highlight the
+magnitude of price cut increased to 7% in 1H18 from 2% in 2016,
+which we believe was due to intensified competition.
+Source: Deutsche Bank, CPA
 Aitan (apatinib)
-According to Rx data Aitan accounted for only 4% of Hengruis total
-sales in 1H18 vs 11% by DBe We highlight that the reason behind
-the difference is that a large portion of Aitan is sold in drug stores
+According to Rx data, Aitan accounted for only 4% of Hengrui's total
+sales in 1H18, vs. 11% by DBe. We highlight that the reason behind
+the difference is that a large portion of Aitan is sold in drug stores.
 We continue to expect very strong growth of Aitan in the next few
-Figure 10 Sales of Aitan accounted for 4% of total
-revenue in 1H18 by Rx data
-Figure 11 Robust revenue growth of Aitan continued
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 12 ASP of apatinib
-RMB 250mg
-Aitan (Hengrui)
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+quarters.
+Atracurium series
 Atracurium series includes cisatracurium besylate and atracurium
-besilate and the former takes up the majority of sales by Rx data
-Additionally atracurium besilate is an exclusive drug of Hengrui
-Growth of cisatracurium besylate remained solid while sales of
-atracurium besilate shrunk during the period
+besilate, and the former takes up the majority of sales by Rx data.
+Additionally, atracurium besilate is an exclusive drug of Hengrui.
+Growth of cisatracurium besylate remained solid, while sales of
+atracurium besilate shrunk during the period.
 Hengrui maintained prices quite well and experienced lower price cuts
-besilate declined moderately by 5% and 6% YoY respectively in 1H18
-Figure 13 Sales of Hengruis atracurium series
-accounted for 8% of total revenue in 1H18
-Figure 14 Healthy growth of Hengruis atracurium series
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 15 Market share of major cisatracurium besylate
-Figure 16 ASP of cisatracurium besylate
-Nimbex (GSK)
-Cisatracurium besylate (Hengrui)
-Kutai (Sinobiopharma)
-Cisatracurium besylate (Xianju Pharma)
-Nimbex (GSK)
-Cisatracurium besylate (Hengrui)
-Kutai (Sinobiopharma)
-Cisatracurium besylate (Xianju Pharma)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-Figure 17 ASP of atracurium besilate
-Atracurium besilate (Hengrui)
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-Hengruis ioversol was dominant in the market with 94% share in 1H18
-and contributed 8% of total revenue by Rx data This product delivered
-CAGR14-17 of 20%
-We see impact of both volume and price on revenue growth deceleration
-and price cut was 7% and 6% in 2017 and 1H18 respectively
-Figure 18 Sales of Hengruis ioversol accounted for 8%
-of total revenue in 1H18
-Figure 19 Revenue growth of Hengruis ioversol
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 20 Market share of major ioversol players by
-Figure 21 ASP of ioversol
-Optiray (Mallinckrodt)
-Ioversol (Hengrui)
-RMB 339g
-Optiray (Mallinckrodt)
-Ioversol (Hengrui)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-Hengruis iodixanol is another key drug in the contrast agents segment
-and accounted for 8% of total revenue in 1H18 Rx data indicated that
-it had been gaining market share since 2014 and charged at the
-lowest national price since 2015
-Sales growth of Hengruis iodixanol outperformed most of its flagship
-drugs with CAGR14-17 of 62% We remain optimistic on contrast
-agents franchise and anticipate strong growth momentum ahead
-Figure 22 Sales of Hengruis iodixanol accounted for 8%
-of total revenue in 1H18
-Figure 23 Revenue growth of Hengruis iodixanol
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 24 Market share of major iodixanol players by
-Figure 25 ASP of iodixanol
-Visipaque (GE Healthcare)
-Iodixanol (Hengrui)
-Iodixanol (Beilu Pharma)
-Iodixanol (Yangzi River Pharma)
-Visipaque (GE Healthcare)
-Iodixanol (Hengrui)
-Iodixanol (Beilu Pharma)
-Iodixanol (Yangzi River Pharma)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+vs. major competitors. ASP of cisatracurium besylate and atracurium
+besilate declined moderately by 5% and 6% YoY, respectively, in 1H18.
+Source: Deutsche Bank, CPA
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+loversol
+and contributed 8% of total revenue by Rx data. This product delivered
+CAGR14-17 of 20%.
+We see impact of both volume and price on revenue growth deceleration,
+and price cut was 7% and 6% in 2017 and 1H18, respectively.
+Source: Deutsche Bank, CPA
+Iodixanol
+Hengrui's iodixanol is another key drug in the contrast agents segment
+and accounted for 8% of total revenue in 1H18. Rx data indicated that
+it had been gaining market share since 2014, and charged at the
+lowest national price since 2015.
+Sales growth of Hengrui's iodixanol outperformed most of its flagship
+drugs, with CAGR14-17 of 62%. We remain optimistic on contrast
+agents franchise and anticipate strong growth momentum ahead.
 Kaiteli (sevoflurane)
-Sales growth of Kaiteli has slowed since 2015 according to Rx data
-while we believe its export revenue should have expanded rapidly
+Sales growth of Kaiteli has slowed since 2015 according to Rx data,
+while we believe its export revenue should have expanded rapidly.
 Hengrui continued to be the market leader in sevoflurane in China and
-retained over 60% market share in the past 45 years We anticipate
-market as Haixi Lianhe Pharmas generic is under regulatory review
-Figure 26 Sales of Kaiteli accounted for 8% of total
-revenue in 1H18
-Figure 27 Revenue growth of Kaiteli decelerated since
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 28 Market share of major sevoflurane players by
-Figure 29 ASP of sevoflurane
-Kaiteli (Hengrui)
-Sevoflurane (Hebei Yipin)
-Qifumei (Baxter)
-Sevofrane (AbbVie)
-Sevoflurane (Lunan Better)
-RMB 120ml
-Kaiteli (Hengrui)
-Sevoflurane (Hebei Yipin)
-Qifumei (Baxter)
-Sevofrane (AbbVie)
-Sevoflurane (Lunan Better)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+retained over 60% market share in the past 4.5 years. We anticipate
+more fierce competition in the future when the third player enters the
+market, as Haixi Lianhe Pharma's generic is under regulatory review.
+Source: Deutsche Bank, CPA
 Aili (irinotecan)
 Sales growth of Aili accelerated to 29% in 1H18 from 4% in 2015 per
-Rx data This might be owing to removal of restrictions to 2nd line
-treatment in tier 1 and special hospital in 2017 NRDL
-Figure 30 Sales of Aili accounted for 5% of total
-revenue in 1H18
-Figure 31 Revenue growth of Aili accelerated since 2015
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 32 Market share of major irinotecan players by
-Figure 33 ASP of irinotecan
-Camptosar (Pfizer)
-Aili (Hengrui)
-Yimailin (Qilu)
-Camptosar (Pfizer)
-Aili (Hengrui)
-Yimailin (Qilu)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+Rx data. This might be owing to removal of restrictions to 2nd line
+treatment in tier 1 and special hospital in 2017 NRDL.
 Aiheng (oxaliplatin)
 Aiheng maintained stable growth of 0-4% each year from 2014 to
+1H18.
 We are a bit surprised that Sanofi accumulated nearly 13% market
-share in the past 45 years while Hengrui lost 4%
-Figure 34 Sales of Aiheng accounted for 4% of total
-revenue in 1H18
-Figure 35 Revenue growth of Aiheng
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Figure 36 Market share of major oxaliplatin players by
-Figure 37 ASP of oxaliplatin
-Eloxatin (Sanofi)
-Aiheng (Hengrui)
-Qisha (Qilu)
-Aikebokang (Neptunus)
-Eloxatin (Sanofi)
-Aiheng (Hengrui)
-Qisha (Qilu)
-Aikebokang (Neptunus)
-Source Deutsche Bank CPA
-Source Deutsche Bank CPA
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-Appendix 1
+share in the past 4.5 years, while Hengrui lost 4%.
+Deutsche Bank AG/Hong Kong
 Important Disclosures
-Other information available upon request
-Recent price
-5660 (CNY) 19 Oct 18
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters Bloomberg and other vendors  Other
-before investing
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+before investing.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
 Analyst Certification
 The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
-subject issuer and the securities of the issuer In addition the undersigned lead analyst(s) has not and will not receive
-(as of 10192018)
-as of September 92002
-Analyst is no longer at Deutsche
-1     01112016         Buy Target Price Change CNY5500 Jack Hu PhD
-9     07112017         Buy Target Price Change CNY7810 Jack Hu PhD
-2     15032017         Buy Target Price Change CNY6000 Jack Hu PhD
-10   17012018         Buy Target Price Change CNY8220 Jack Hu PhD
-3     13042017         Buy Target Price Change CNY6350 Jack Hu PhD
-11   06042018         Buy Target Price Change CNY9410 Jack Hu PhD
-4     23042017         Buy Target Price Change CNY6500 Jack Hu PhD
-12   18042018         Buy Target Price Change CNY9280 Jack Hu PhD
-5     18052017         Buy Target Price Change CNY7000 Jack Hu PhD
-13   11052018         Buy Target Price Change CNY10410 Jack Hu PhD
-6     31052017         Buy Target Price Change CNY5850 Jack Hu PhD
-14   05062018         Buy Target Price Change CNY8580 Jack Hu PhD
-7     30082017         Buy Target Price Change CNY6050 Jack Hu PhD
-15   12082018         Buy Target Price Change CNY8550 Jack Hu PhD
-8     15102017         Buy Target Price Change CNY6900 Jack Hu PhD
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Jack Hu
+Historical recommendations and target price: Hengrui Medicine (600276.SS)
+(as of 10/19/2018)
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+Equity rating key
 Equity rating dispersion and banking relationships
-Buy Based on a current 12- month view of total
-share-holder return (TSR  percentage change in
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
 share price from current price to projected target price
-investors buy the stock
-Sell Based on a current 12-month view of total share-
-Hold We take a neutral view on the stock 12-months
-out and based on this time horizon do not
-prices supersede previously published research
-Asia-Pacific Universe
-Cos w Banking Relationship
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+plus pro-jected dividend yield ) , we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
 Additional Information
 The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
-Deutsche Bank) Though the information herein is believed to be reliable and has been obtained from public sources
-party websites in this report are provided for reader convenience only Deutsche Bank neither endorses the content nor
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
+believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+for
+the
+responsible
+accuracy
+security
+controls
+those
+websites.
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
-Deutsche Bank may consider this report in deciding to trade as principal It may also engage in transactions for its own
-account or with customers in a manner inconsistent with the views taken in this research report Others within
-Deutsche Bank including strategists sales staff and other analysts may take views that are inconsistent with those
-taken in this research report Deutsche Bank issues a variety of research products including fundamental analysis
-perspectives or otherwise Deutsche Bank andor its affiliates may also be holding debt or equity securities of the issuers
-it writes on Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates which includes
-Opinions estimates and projections constitute the current judgment of the author as of the date of this report They do
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice Deutsche Bank provides
-sometimes have shorter-term trade ideas that may be inconsistent with Deutsche Banks existing longer-term ratings
-high-conviction belief by an analyst that a stock will outperform or underperform the market andor a specified sector
-over a time frame of no less than two weeks and no more than three months In addition to Catalyst Calls analysts may
-occasionally discuss with our clients and with Deutsche Bank salespersons and traders trading strategies or ideas that
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank
+its
+for
+may
+act
+principal
+for
+own
+account
+agent
+another
+person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies,
+perspectives or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers
+it writes on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes
+investment
+banking,
+trading
+and
+principal
+trading
+revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings.
+and can be found on the general coverage list and also on the covered company's page. A Catalyst Call represents a
+high-conviction belief by an analyst that a stock will outperform or underperform the market and/or a specified sector
+over a time frame of no less than two weeks and no more than three months. In addition to Catalyst Calls, analysts may
+occasionally discuss with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that
 reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
-discussed in this report which impact may be directionally counter to the analysts current 12-month view of total return
-or investment return as described herein Deutsche Bank has no obligation to update modify or amend this report or to
-difficult to update research at defined intervals Updates are at the sole discretion of the coverage analyst or of the
-Research Department Management and the majority of reports are published at irregular intervals This report is
-provided for informational purposes only and does not take into account the particular investment objectives financial
-situations or needs of individual clients It is not an offer or a solicitation of an offer to buy or sell any financial
-instruments or to participate in any particular trading strategy Target prices are inherently imprecise and a product of
-the analysts judgment The financial instruments discussed in this report may not be suitable for all investors and
-investors must make their own informed investment decisions Prices and availability of financial instruments are
-subject to change without notice and investment transactions can lead to losses as a result of price fluctuations and
-other factors If a financial instrument is denominated in a currency other than an investors currency a change in
-exchange rates may adversely affect the investment Past performance is not necessarily indicative of future results
-Performance calculations exclude transaction costs unless otherwise indicated Unless otherwise indicated prices are
-current as of the end of the previous trading session and are sourced from local exchanges via Reuters Bloomberg and
-The Deutsche Bank Research Department is independent of other business divisions of the Bank Details regarding our
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the
+frequency of changes in market conditions and in both general and company-specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst or of the
+Research Department Management, and the majority of reports are published at irregular intervals. This report is
+provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial
+instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of
+the analyst's judgment. The financial instruments discussed in this report may not be suitable for all investors, and
+investors must make their own informed investment decisions. Prices and availability of financial instruments are
+subject to change without notice, and investment transactions can lead to losses as a result of price fluctuations and
+other factors. If a financial instrument is denominated in a currency other than an investor's currency, a change in
+exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results.
+Performance calculations exclude transaction costs, unless otherwise indicated. Unless otherwise indicated, prices are
+current as of the end of the previous trading session and are sourced from local exchanges via Reuters, Bloomberg and
+other vendors. Data is also sourced from Deutsche Bank, subject companies, and other parties.
+The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
 organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
-Disclaimer
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
+available
+website
+our
+research
+are
+our
+under
+Disclaimer.
+Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02:59+00:00. DO NOT REDISTRIBUTE
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
 Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
-to pay fixed or variable interest rates For an investor who is long fixed-rate instruments (thus receiving these cash
-flows) increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
-loss The longer the maturity of a certain cash flow and the higher the move in the discount factor the higher will be the
-macroeconomic shocks to receivers But counterparty exposure issuer creditworthiness client segmentation regulation
-(including changes in assets holding limits for different types of investors) changes in tax policies currency
-convertibility (which may constrain currency conversion repatriation of profits andor liquidation of positions) and
-instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation to FX
-construction  lag or mis-measure the actual move in the underlying variables they are intended to track The choice of
-the proper fixing (or metric) is particularly important in swaps markets where floating coupon rates (ie coupons
-indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons Funding in a currency
-that differs from the currency in which coupons are denominated carries FX risk Options on swaps (swaptions) the risks
-movements
-Derivative transactions involve numerous risks including market counterparty default and illiquidity risk The
-appropriateness of these products for use by investors depends on the investors own circumstances including their tax
-position their regulatory environment and the nature of their other assets and liabilities as such investors should take
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-income
+instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX
+depreciation, or to specified interest rates - these are common in emerging markets. The index fixings may - by
+construction - lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons
+indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency
+that differs from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks
+addition
+risks
+related
+typical
+options
+the
+rates
+movements.
+Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
+appropriateness of these products for use by investors depends on the investors' own circumstances, including their tax
+position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should take
 expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
-publication The risk of loss in futures trading and options foreign or domestic can be substantial As a result of the
-high degree of leverage obtainable in futures and options trading losses may be incurred that are greater than the
-amount of funds initially deposited  up to theoretically unlimited losses Trading in options involves risk and is not
-suitable for all investors Prior to buying or selling an option investors must review the Characteristics and Risks of
-access the website please contact your Deutsche Bank representative for a copy of this important document
-Participants in foreign exchange transactions may incur risks arising from several factors including the following (i)
-exchange rates can be volatile and are subject to large fluctuations (ii) the value of currencies may be affected by
-numerous market factors including world and national economic political and regulatory events events in equity and
-debt markets and changes in interest rates and (iii) currencies may be subject to devaluation or government-imposed
-exchange controls which could affect the value of the currency Investors in securities such as ADRs whose values are
-affected by the currency of an underlying security effectively assume currency risk
-Unless governing law provides otherwise all transactions should be executed through the Deutsche Bank entity in the
-investors home jurisdiction Aside from within this report important conflict disclosures can also be found at
-information before investing
-adviser consultant or fiduciary to you or any of your agents (collectively You or Your) with respect to any
-information provided in this report Deutsche Bank does not provide investment legal tax or accounting advice
-as to any strategies products or any other information presented in the materials Information contained herein is being
+publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
+high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
+amount of funds initially deposited - up to theoretically unlimited losses. Trading in options involves risk and is not
+suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
+access the website, please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government-imposed
+exchange controls, which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you or any of your agents (collectively, "You" or "Your") with respect to any
+information provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
-trading strategy
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
 The information presented is general in nature and is not directed to retirement accounts or any specific person or
-account type and is therefore provided to You on the express basis that it is not advice and You may not rely upon it in
-making Your decision The information we provide is being directed only to persons we believe to be financially
-sophisticated who are capable of evaluating investment risks independently both in general and with regard to
-particular transactions and investment strategies and who understand that Deutsche Bank has financial interests in the
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-offering of its products and services If this is not the case or if You are an IRA or other retail investor receiving this
-directly from us we ask that you inform us immediately
-In July 2018 Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to
-Catalyst Calls (CC) from SOLAR ideas the rating categories for Catalyst Calls originated in the Americas region have
-been made consistent with the categories used by Analysts globally and the effective time period for CCs has been
-reduced from a maximum of 180 days to 90 days
-United States Approved andor distributed by Deutsche Bank Securities Incorporated a member of FINRA NFA and
-SIPC Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
-regulations
-Germany Approved andor distributed by Deutsche Bank AG a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal office in Frankfurt am Main Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin Germanys Federal
-Authority
-United Kingdom Approved andor distributed by Deutsche Bank AG acting through its London Branch at Winchester
-House 1 Great Winchester Street London EC2N 2DB Deutsche Bank AG in the United Kingdom is authorised by the
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+directly from us, we ask that you inform us immediately.
+In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to
+Catalyst Calls ("CC") from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
+been made consistent with the categories used by Analysts globally; and the effective time period for CCs has been
+reduced from a maximum of 180 days to 90 days.
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal
+Financial
+Supervisory
+Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
-Conduct Authority Details about the extent of our authorisation and regulation are available on request
-Hong Kong Distributed by Deutsche Bank AG Hong Kong Branch or Deutsche Securities Asia Limited (save that any
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap 571
-shall be distributed solely by Deutsche Securities Asia Limited) The provisions set out above in the Additional
-Information section shall apply to the fullest extent permissible by local laws and regulations including without
-limitation the Code of Conduct for Persons Licensed or Registered with the Securities and Futures Commission 
-India Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN U65990MH2002PTC137431 and
-registered office at 14th Floor The Capital C-70 G Block Bandra Kurla Complex Mumbai (India) 400051 Tel  91 22
-7180 4444 It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
-nos NSE (Capital Market Segment) - INB231196834 NSE (FO Segment) INF231196834 NSE (Currency Derivatives
-Segment) INE231196834 BSE (Capital Market Segment) INB011196830 Merchant Banker bearing SEBI Registration
-no INM000010833 and Research Analyst bearing SEBI Registration no INH000001741 DEIPL may have received
-administrative warnings from the SEBI for breaches of Indian regulations The transmission of research through DEIPL is
-Deutsche Banks determination and will not make a recipient a client of DEIPL Deutsche Bank andor its affiliate(s) may
-Shareholdings
-Japan Approved andor distributed by Deutsche Securities Inc(DSI) Registration number - Registered as a financial
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No 117 Member of associations JSDA
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan Commissions and risks
-losses as a result of share price fluctuations and other factors Transactions in foreign stocks can lead to additional
-of losses to principal and other losses as a result of changes in market andor economic trends andor fluctuations in
-market value Before deciding on the purchase of financial products andor services customers should carefully read the
-relevant disclosures prospectuses and other documentation Moodys Standard  Poors and Fitch mentioned in
-this report are not registered credit rating agencies in Japan unless Japan or Nippon is specifically designated in the
-not disclosed according to the Financial Instruments and Exchange Law of Japan Target prices set by Deutsche Banks
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-South Africa Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
-Singapore This report is issued by Deutsche Bank AG Singapore Branch or Deutsche Securities Asia Limited Singapore
-Branch (One Raffles Quay 18-00 South Tower Singapore 048583 65 6423 8001) which may be contacted in respect
-of any matters arising from or in connection with this report Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor expert investor or institutional investor (as defined in
-the applicable Singapore laws and regulations) they accept legal responsibility to such person for its contents
-Taiwan Information on securitiesinvestments that trade in Taiwan is for your reference only Readers should
-independently evaluate investment risks and are solely responsible for their investment decisions Deutsche Bank
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
+shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional
+Information" section shall apply to the fullest extent permissible by local laws and regulations, including without
+limitation the Code of Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
+India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and
+7180 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
+nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
+Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
+no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL is
+Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s) may
+have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
+"Shareholdings"
+section
+Annual
+the
+Report
+at:
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+12-month
+equity
+analysts
+based
+forecast
+are
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+Korea:
+Distributed
+Deutsche
+Securities
+Korea
+Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+South
+1998/003298/10).
+Africa:
+Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in
+the applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
 research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
-written consent Information on securitiesinstruments that do not trade in Taiwan is for informational purposes only and
-securitiesinstruments
-Qatar Deutsche Bank AG in the Qatar Financial Centre (registered no 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall
-within the scope of its existing QFCRA license Its principal place of business in the QFC Qatar Financial Centre Tower
-West Bay Level 5 PO Box 14928 Doha Qatar This information has been distributed by Deutsche Bank AG Related
-financial products or services are only available only to Business Customers as defined by the Qatar Financial Centre
-Authority
-Russia The information interpretation and opinions submitted herein are not in the context of and do not constitute
-any appraisal or evaluation activity requiring a license in the Russian Federation
-Kingdom of Saudi Arabia Deutsche Securities Saudi Arabia LLC Company (registered no 07073-37) is regulated by the
-Capital Market Authority Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
-within the scope of its existing CMA license Its principal place of business in Saudi Arabia King Fahad Road Al Olaya
-United Arab Emirates Deutsche Bank AG in the Dubai International Financial Centre (registered no 00045) is regulated
-by the Dubai Financial Services Authority Deutsche Bank AG - DIFC Branch may only undertake the financial services
-activities that fall within the scope of its existing DFSA license Principal place of business in the DIFC Dubai
-International Financial Centre The Gate Village Building 5 PO Box 504902 Dubai UAE This information has been
-distributed by Deutsche Bank AG Related financial products or services are available only to Professional Clients as
-Authority
-Australia and New Zealand This research is intended only for wholesale clients within the meaning of the Australian
-Corporations Act and New Zealand Financial Advisors Act respectively Please refer to Australia-specific research
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+transactions
+clients
+securities/instruments.
+Branch
+may
+not
+execute
+for
+these
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall
+within the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available only to Business Customers, as defined by the Qatar Financial Centre
+Regulatory
+Authority.
+Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
+within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+17th
+Faisaliah
+Tower
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as
+defined
+Dubai
+Financial
+the
+Services
+Authority.
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific research
 research refers to any particular financial product recipients of the research should consider any product disclosure
-statement prospectus or other applicable disclosure document before making any decision about whether to acquire
-the product In preparing this report the primary analyst or an individual who assisted in the preparation of this report
-approval from Research Management analysts may not accept from current or potential Banking clients the costs of
-like Similarly without prior approval from Research Management and Anti-Bribery and Corruption (ABC) team
-analysts may not accept perks or other items of value for their personal use from issuers they cover
-Additional information relative to securities other financial products or issuers discussed in this report is available upon
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
-22 October 2018
-Pharmaceuticals  Biotechnology
-Deutsche Bank AGHong Kong
-request This report may not be reproduced distributed or published without Deutsche Banks prior written consent
-Copyright  2018 Deutsche Bank AG
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE
+statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
+the product. In preparing this report, the primary analyst or an individual who assisted in the preparation of this report
+has likely been in contact with the company that is the subject of this research for confirmation/clarification of data,
+facts, statements, permission to use company-sourced material in the report, and/or site-visit attendance. Without prior
+approval from Research Management, analysts may not accept from current or potential Banking clients the costs of
+travel, accommodations, or other expenses incurred by analysts attending site visits, conferences, social events, and the
+like. Similarly, without prior approval from Research Management and Anti-Bribery and Corruption ("ABC") team,
+analysts may not accept perks or other items of value for their personal use from issuers they cover.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2018 Deutsche Bank AG
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
+Steve Pollard
+Pam Finelli
+Michael Spencer
 Global Chief Operating Officer
 Head of APAC Research
 Head of Americas Research
+Research
 Global Head of Equity Research
+Kinner Lakhani
+Joe Liew
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Debt Research
+Equity Research
+Equity Research
+Francis Yared
+George Saravelos
+Jim Reid
+Peter Hooper
 Global Head of Rates Research
-Head of Germany Research
+Head of FX Research
+Global Head of
+Global Head of
+Thematic Research
+Economics Research
+Andreas Neubauer
+Spyros Mesomeris
 Global Head of Quantitative
+Head of Germany Research
+and QIS Research
 International locations
-Corner of Hunter  Phillip Streets
-Sydney NSW 2000
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Tel (49) 69 910 00
-International Commerce Centre
-1 Austin Road WestKowloon
-Deutsche Securities Inc
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
 2-11-1 Nagatacho
-Chiyoda-ku Tokyo 100-6171
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
+Japan
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
-London EC2N 2EQ
-Deutsche Bank Securities Inc
 60 Wall Street
-New York NY 10005
+London EC2N 2EQ
+United Kingdom
 United States of America
-Provided for the exclusive use of Research Research at Provisional Access on 2018-10-22T02590000 DO NOT REDISTRIBUTE

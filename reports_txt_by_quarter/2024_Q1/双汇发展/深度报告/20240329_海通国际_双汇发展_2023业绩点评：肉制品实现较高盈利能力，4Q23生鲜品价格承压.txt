@@ -1,1202 +1,532 @@
- 
- 
-观点聚焦 Investment Focus 
-本研究报告由海通国际分销，海通国际是由海通国际研究有限公司，海通证券印度私人有限公司，海通国际株式会社和海通国
-际证券集团其他各成员单位的证券研究团队所组成的全球品牌，海通国际证券集团各成员分别在其许可的司法管辖区内从事证
-券活动。关于海通国际的分析师证明，重要披露声明和免责声明，请参阅附录。(Please see appendix for English translation of the 
-disclaimer) 
- 
-研究报告Research Report 
- 
-28 Mar 2024 
- 
-双汇发展 Henan Shuanghui Investment & Development (000895 CH) 
-2023 业绩点评：肉制品实现较高盈利能力，4Q23 生鲜品价格承压 
-Meat Products Achieve High Profitability, Prices of Fresh Products is under Short-term Pressure 
-维持优于大市Maintain OUTPERFORM 
- 
-评级 
-优于大市OUTPERFORM 
-现价 
-Rmb25.87 
-目标价 
-Rmb31.75 
- 
-HTI ESG 
-1.4-2.7-3.5 
-E-S-G: 0-5, (Please refer to the Appendix for ESG comments) 
-义利评级 
-A+ 
-来源: 盟浪. Reproduced by permission; no further distribution 
-市值 
-Rmb89.62bn / US$12.41bn 
-日交易额 (3 个月均值) 
-US$52.87mn 
-发行股票数目 
-3,464mn 
-自由流通股 (%) 
-28% 
-1 年股价最高最低值 
-Rmb29.97-Rmb24.23 
-注：现价Rmb25.87 为2024 年3 月27 日收盘价 
-资料来源： Factset 
- 
- 
-1mth 
-3mth 
-12mth 
-绝对值 
--12.1% 
--1.0% 
-9.1% 
-绝对值（美元） 
--12.4% 
--2.1% 
-3.8% 
-相对MSCI China 
-26.8% 
-39.1% 
-56.9% 
- 
-(Rmb mn) 
-Dec-23A 
-Dec-24E 
-Dec-25E 
-Dec-26E 
-营业收入 
-60,097 
-64,033 
-68,232 
-71,642 
-(+/-) 
--4% 
-7% 
-7% 
-5% 
-净利润 
-5,053 
-5,500 
-5,825 
-6,542 
-(+/-) 
--10% 
-9% 
-6% 
-12% 
-全面摊薄EPS 
-(Rmb) 
-1.46 
-1.59 
-1.68 
-1.89 
-毛利率 
-17.3% 
-16.5% 
-16.6% 
-17.3% 
-净资产收益率 
-23.9% 
-24.1% 
-23.7% 
-24.6% 
-市盈率 
-18 
-16 
-15 
-14 
-资料来源：公司信息, HTI 
- 
- 
-(Please see APPENDIX 1 for English summary) 
-事件：双汇发展发布2023 年年报，公司实现营业收入601 亿元，
-同比-4.2%，实现归母净利润51 亿元，同比-10.1%，测算4Q23 实
-现营业收入138 亿元，同比-24.0%，实现归母净利润7.3 亿元，同
-比-53.4%。2H23 分红方案为每10 股7.0 元（含税），此外，1H23
-公司分红每10 股7.5 元（含税，合计派发现金红利50.2 亿元。  
-猪价维持低位拖累屠宰业务盈利能力。根据公告，2023 年屠宰业
-务实现收入 310 亿元，同比-7%，其中对外交易收入 266 亿元，同
-比-11%，内转收入43 亿元，同比+ 18%。2023 年公司屠宰量约 
-1269 万头，同比+12%，生鲜外销量141 万吨，同比+3%。4Q23 屠
-宰收入70 亿元，同比-33%，其中对外交易收入 62 亿元，同比-
-34%，内转收入 7.6 亿元，同比下降 22%。4Q23 公司屠宰量约 264 
-万头，同比+4%； 4Q23 生鲜外销量约30 万吨，同比-11%。公司屠
-宰量及生鲜品销量表现稳定，但由于4Q22 猪价较高，公司通过释
-放冻肉实现较好盈利，因此屠宰业务4Q23 盈利能力同比下滑。展
-望2024 年，猪价有所回升，屠宰业务盈利能力有望环比改善。 
-春节较晚导致肉制品销量承压，肉制品吨利表现优秀。根据公
-告，2023 年公司肉制品收入264 亿元，同比-3%。2023 年公司肉
-制品销量 151 亿吨，同比- 4%，单价 17.5 元/公斤，同比+0.8%。其
-中4Q23 肉制品收入 56 亿元，同比-18%。4Q23 公司肉制品销量约 
-32 万吨，同比-18%，单价17.4 元/公斤，同比+ 0.37%。2024 年春
-节较晚，节前备货主要元旦之后进行，因此4Q23 肉制品业务营收
-承压。2023 年公司肉制品吨利 4130 元/吨，同比+4%，创历史新
-高。4Q23 肉制品营业利润 17.5 亿元，同比+17%，肉制品吨均利
-约 4135 元/吨，同比+11%。展望2024 年，原材料价格预计维持稳
-定，且公司在猪价低位进行冻肉储备，预计肉制品业务吨利有望
-维持在较高水平。 
-销售网络持续完善，网点倍增计划持续落地。截至2023 年12 月
-末，公司共有经销商23570 家，对比年初净增加3632 家，增幅
-18.22%，其中长江以南6785 家，对比年初增幅5.0%；长江以北约
-1.68 万家，对比年初增幅24.6%。销售网点数量的增加将为公司未
-来销量增长提供有力支持。 
-盈利预测与投资建议：我们预计公司2024/25/26 年营收分别为
-640/682/716 亿元（前值719/740/NA 亿元），归母净利润分别为
-55/58/65 亿元（前值64/70/NA 亿元），对应PE 为16 X/15X/14X。
-结合公司的分红水平，我们认为股息率在4.5%及以上的水平，公
-司是具备较高投资吸引力的，因此给予公司2024 年20 倍PE（原
-为18x），对应目标价31.75 元（-7%），维持“优于大市”评级。 
-风险提示：肉制品需求不及预期，生猪价格涨幅超预期，新产品
-推广不及预期。 
-宋琦Qi Song 
-闻宏伟Hongwei Wen 
-q.song@htisec.com 
-hongwei.wen@htisec.com 
-70
-85
-100
-115
-130
-Price Return
-MSCI China
-Mar-23
-Jul-23
-Nov-23
-Volume
- 
- 
-28 Mar 2024 
-2 
-双汇发展 (000895 CH) 
-维持优于大市 
- 
-表格 1 可比公司估值情况 
-证券代码 
-证券简称 
-PE 
-  
- 
-2024E 
-000876.sz 
-新希望 
-19.4 
-002840.sz 
-华统股份 
-21.3 
-002714.sz 
-牧原股份 
-14.4 
-  
-平均 
-18.3 
-000895.sz 
-双汇发展 
-16.3 
-资料来源：wind, HTI 
- 
- 
- 
- 
-28 Mar 2024 
-3 
-双汇发展 (000895 CH) 
-维持优于大市 
-财务报表分析和预测 
-资产负债表 
-（百万元） 
-2022 
-2023 
-2024E 
-2025E 
-2026E 
-  
-利润表 
-（百万元） 
-2022 
-2023 
-2024E 
-2025E 
-2026E 
-现金及现金等价
-物 
-5769 
-2834 
-9748 
-13418 
-16958 
-  
-营业收入 
-##### 
-##### 
-##### 
-##### 
-##### 
-应收款项 
-257 
-246 
-263 
-280 
-294 
-  
-营业成本 
-##### 
-##### 
-##### 
-##### 
-##### 
-存货净额 
-6121 
-8267 
-6634 
-6589 
-6536 
-  
-营业税金及附加 
-342 
-337 
-359 
-382 
-401 
-其他流动资产 
-3928 
-5029 
-2817 
-2990 
-3138 
-  
-销售费用 
-1927 
-1914 
-1921 
-2047 
-2149 
-流动资产合计 
-16076 
-16376 
-19463 
-23278 
-26928 
-  
-管理费用 
-1134 
-1235 
-1281 
-1365 
-1290 
-固定资产及在建
-工程 
-15165 
-17075 
-15367 
-13794 
-12420 
-  
-财务费用 
--61 
--15 
-32 
-34 
-72 
-长期股权投资 
-182 
-218 
-238 
-258 
-278 
-  
-其他费用/ 
-（-收入） 
-338 
-555 
-46 
-75 
-79 
-无形资产 
-1224 
-1283 
-1340 
-1395 
-1448 
-  
-营业利润 
-7141 
-6637 
-6943 
-7450 
-8407 
-其他非流动资产 
-3766 
-1723 
-1886 
-1845 
-1818 
-  
-营业外净收支 
-19 
-8 
-1 
-9 
-6 
-非流动资产合计 
-20336 
-20299 
-18832 
-17292 
-15965 
-  
-利润总额 
-7160 
-6645 
-6944 
-7459 
-8413 
-资产总计 
-36412 
-36675 
-38294 
-40570 
-42893 
-  
-所得税费用 
-1443 
-1544 
-1389 
-1576 
-1805 
-短期借款 
-3229 
-6049 
-6049 
-6049 
-6049 
-  
-净利润 
-5717 
-5102 
-5556 
-5884 
-6608 
-应付款项 
-3919 
-3736 
-2211 
-2353 
-2451 
-  
-少数股东损益 
-96 
-49 
-56 
-59 
-66 
-其他流动负债 
-6353 
-4231 
-5704 
-6071 
-6312 
-  
-归母净利润 
-5621 
-5053 
-5500 
-5825 
-6542 
-流动负债合计 
-13501 
-14016 
-13965 
-14473 
-14812 
-  
-  
-  
-  
-  
-  
-  
-长期借款及应付
-债券 
-12 
-962 
-962 
-962 
-962 
-  
-财务指标 
-2022 
-2023 
-2024E 
-2025E 
-2026E 
-其他长期负债 
-716 
-552 
-552 
-552 
-552 
-  
-盈利能力 
-  
-  
-  
-  
-  
-长期负债合计 
-729 
-1513 
-1513 
-1513 
-1513 
-  
-ROE 
-25% 
-24% 
-24% 
-24% 
-25% 
-负债合计 
-14230 
-15529 
-15478 
-15986 
-16326 
-  
-毛利率 
-17% 
-17% 
-17% 
-17% 
-17% 
-股本 
-3465 
-3465 
-3465 
-3465 
-3465 
-  
-营业利润率 
-11% 
-11% 
-11% 
-11% 
-12% 
-股东权益 
-22182 
-21146 
-22816 
-24584 
-26567 
-  
-销售净利率 
-9% 
-8% 
-9% 
-9% 
-9% 
-负债和股东权益
-总计 
-36412 
-36675 
-38294 
-40570 
-42893 
-  
-成长能力 
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
-  
-营业收入增长率 
--6% 
--4% 
-7% 
-7% 
-5% 
-现金流量表 
-（百万元） 
-2022 
-2023 
-2024E 
-2025E 
-2026E 
-  
-营业利润增长率 
--14% 
-7% 
-5% 
-7% 
-13% 
-净利润 
-5717 
-5102 
-5556 
-5884 
-6608 
-  
-净利润增长率 
-16% 
--10% 
-9% 
-6% 
-12% 
-折旧摊销 
-1267 
-1535 
-1776 
-1643 
-1447 
-  
-偿债能力 
-  
-  
-  
-  
-  
-营运资金变动 
-1666 
--6216 
-3824 
-407 
-279 
-  
-资产负债率 
-39% 
-42% 
-40% 
-39% 
-38% 
-其他 
--1084 
-2967 
-44 
-52 
-56 
-  
-流动比 
-##### 
-##### 
-##### 
-##### 
-##### 
-经营活动现金流 
-7565 
-3388 
-11199 
-7986 
-8390 
-  
-速动比 
-74% 
-58% 
-92% 
-##### 
-##### 
-资本支出 
--3809 
--105 
--20 
--20 
--20 
-  
-  
- 
- 
- 
- 
- 
-其他 
-123 
-623 
--299 
--96 
--113 
-  
-每股指标与估
-值 
-2022 
-2023 
-2024E 
-2025E 
-2026E 
-投资活动现金流 
--3488 
--3178 
--319 
--116 
--133 
-  
-每股指标 
-  
-  
-  
-  
-  
-债务融资 
-877 
-3770 
-0 
-0 
-0 
-  
-EPS 
-1.62 
-1.46 
-1.59 
-1.68 
-1.89 
-权益融资 
-0 
-0 
-0 
-0 
-0 
-  
-BVPS 
-6.31 
-6.02 
-6.46 
-6.93 
-7.45 
-其他 
--6771 
--6387 
--3966 
--4200 
--4717 
-  
-估值 
-  
-  
-  
-  
-  
-筹资活动现金流 
--6415 
--3146 
--3966 
--4200 
--4717 
-  
-P/E 
-##### 
-##### 
-##### 
-##### 
-##### 
-汇率变动 
-0 
-1 
-0 
-0 
-0 
-  
-P/B 
-4.09 
-4.29 
-3.99 
-3.72 
-3.46 
-现金净增加额 
--2338 
--2936 
-6914 
-3670 
-3540 
-  
-P/S 
-1.42 
-1.49 
-1.39 
-1.31 
-1.25 
-备注：（1）表中计算估值指标的收盘价日期为3 月28 日；（2）以上各表均为简表 
-资料来源：公司年报（2023），海通国际 
- 
- 
-28 Mar 2024 
-4 
-双汇发展 (000895 CH) 
-维持优于大市 
- 
-APPENDIX 1 
-Summary 
-Event: Shuanghui Development released the 2023 annual report, in 2023 the company achieved operating income of 60.1 billion 
-yuan, 4.2% year-on-year, to achieve a net profit of 5.1 billion yuan, 10.1% year-on-year, estimated 4Q23 to achieve operating 
-income of 13.8 billion yuan, -24.0% year-on-year, to achieve a net profit of 730 million yuan, 53.4% year-on-year. The 2H23 
-dividend plan is 7.0 yuan per 10 shares (including tax), and the total cash dividend is 2.425 billion yuan, maintaining the company's 
-high dividend level. 
-Maintaining low pig prices weighed on profitability in the slaughtering business. According to the announcement, in 2023, the 
-slaughtering business achieved revenue of 31 billion yuan, -7% year-on-year, of which the external transaction income was 26.6 
-billion yuan, -11% year-on-year, and the internal transfer income was 4.3 billion yuan, + 18% year-on-year. In 2023, the company 
-slaughtered about 12.69 million heads, +12% year-on-year, and the fresh export sales of 1.41 million tons, +3% year-on-year. 4Q23 
-slaughter revenue was 7 billion yuan, -33% year-on-year, of which external transaction revenue was 6.2 billion yuan, -34% year-
-on-year, and internal transfer revenue was 760 million yuan, down 22% year-on-year. The slaughter volume of 4Q23 was about 
-2.64 million head, +4% year-on-year; 4Q23 fresh export sales of about 300,000 tons, -11% year-on-year. The company's 
-slaughtering volume and sales volume of fresh products were stable, but due to the high price of 4Q22 pigs, the company achieved 
-good profits by releasing frozen meat, so the profitability of slaughter business 4Q23 declined year-on-year. Looking forward to 
-2024, pig prices have recovered, and the profitability of slaughtering business is expected to improve quarter-on-quarter. 
-The late Spring Festival led to pressure on sales of meat products, and meat products performed well. According to the 
-announcement, the company's meat product revenue in 2023 is 26.4 billion yuan, which is -3% year-on-year. In 2023, the 
-company's sales volume of meat products was 15.1 billion tons, -4% year-on-year, and the unit price was 17.5 yuan/kg, +0.8% 
-year-on-year. Among them, the revenue of 4Q23 meat products was 5.6 billion yuan, -18% year-on-year. The sales volume of 4Q23 
-meat products was about 320,000 tons, -18% year-on-year, and the unit price was 17.4 yuan/kg, + 0.37% year-on-year. The Spring 
-Festival in 2024 is late, and pre-holiday stocking is mainly carried out after New Year's Day, so the revenue of 4Q23 meat products 
-business is under pressure. In 2023, the company's meat product ton profit of 4130 yuan/ton, +4% year-on-year, a record high. 
-The operating profit of 4Q23 meat products was 1.75 billion yuan, +17% year-on-year, and the average profit of meat products 
-tons was about 4135 yuan/ton, +11% year-on-year. Looking forward to 2024, the price of raw materials is expected to remain 
-stable, and the company is expected to reserve frozen meat at the low price of pigs, and the ton profit of the meat business is 
-expected to remain at a high level. 
-The sales network continues to improve, and the network doubling plan continues to land. As of the end of December 2023, the 
-company had a total of 23,570 dealers, a net increase of 3,632 compared with the beginning of the year, an increase of 18.22%, 
-including 6,785 south of the Yangtze River, an increase of 5.0% compared with the beginning of the year; The Yangtze River is 
-about 16,800, an increase of 24.6 percent compared with the beginning of the year. The increase in the number of sales outlets 
-will provide strong support for the company's future sales growth. 
-Profit Forecast and Investment advice: Based on the recent trend of pig prices, we have adjusted our forecast for future fresh food 
-prices. We estimate that the company's revenue in 2024/25/26 is 640/682/71.6 billion yuan (the previous value is 719/740/NA 
-billion yuan), the net profit attributable to the parent is 55/58/6.5 billion yuan (the previous value is 64/70/NA billion yuan), and 
-the corresponding PE is 16 X/15X/14X. Considering the rise in the price of live pigs in the future, the profitability of the fresh 
-products business is under pressure, but the continuous improvement of the profitability of meat products has given the company 
-20 times PE in 2024, corresponding to the target price of 31.75 yuan, maintaining the rating of ‘OUTPERFORM’. 
-Risk reminder: The demand for meat products is less than expected, the price of live pigs has increased more than expected, and 
-the promotion of new products is less than expected. 
- 
- 
- 
- 
- 
-5 
-APPENDIX 2 
-ESG Comments 
-Environmental: 
-Shuanghui's slaughter level is leading in China. 
-Social: 
-The company has created many job opportunities. 
-Governance: 
-Corporate governance is stable. 
- 
- 
- 
- 
- 
- 
- 
-6 
-附录APPENDIX 
-重要信息披露 
-本研究报告由海通国际分销，海通国际是由海通国际研究有限公司(HTIRL)，Haitong Securities India Private Limited (HSIPL)，Haitong International Japan K.K. (HTIJKK)和海通国际证券有限公
-司(HTISCL)的证券研究团队所组成的全球品牌，海通国际证券集团(HTISG)各成员分别在其许可的司法管辖区内从事证券活动。 
-IMPORTANT DISCLOSURES 
-This research report is distributed by Haitong International, a global brand name for the equity research teams of Haitong International Research Limited (“HTIRL”), Haitong Securities India Private 
-Limited (“HSIPL”), Haitong International Japan K.K. (“HTIJKK”), Haitong International Securities Company Limited (“HTISCL”), and any other members within the Haitong International Securities Group 
-of Companies (“HTISG”), each authorized to engage in securities activities in its respective jurisdiction. 
-HTIRL 分析师认证Analyst Certification: 
-我， 宋琦，在此保证（i）本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且（ii）我的报酬中没有任何部分与本研究报告中表达
-的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。我和我的家属（我已经告知他们）将不会在本研究
-报告发布后的3 个工作日内交易此研究报告所讨论目标公司的证券。I, Qi Song, certify that (i) the views expressed in this research report accurately reflect my personal views about any or all 
-of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or will be directly or indirectly related to the specific recommendations or views expressed 
-in this research report; and that I (including members of my household) have no financial interest in the security or securities of the subject companies discussed. I and my household, whom I have 
-already notified of this, will not deal in or trade any securities in respect of the issuer that I review within 3 business days after the research report is published. 
-我， 闻宏伟，在此保证（i）本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且（ii）我的报酬中没有任何部分与本研究报告中表
-达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。我和我的家属（我已经告知他们）将不会在本研
-究报告发布后的3 个工作日内交易此研究报告所讨论目标公司的证券。I, Hongwei Wen, certify that (i) the views expressed in this research report accurately reflect my personal views about 
-any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or will be directly or indirectly related to the specific recommendations or views 
-expressed in this research report; and that I (including members of my household) have no financial interest in the security or securities of the subject companies discussed. I and my household, 
-whom I have already notified of this, will not deal in or trade any securities in respect of the issuer that I review within 3 business days after the research report is published. 
- 
-利益冲突披露Conflict of Interest Disclosures 
-海通国际及其某些关联公司可从事投资银行业务和/或对本研究中的特定股票或公司进行做市或持有自营头寸。就本研究报告而言，以下是有关该等关系的披露事项（以下披露不能保
-证及时无遗漏，如需了解及时全面信息，请发邮件至ERD-Disclosure@htisec.com） 
-HTI and some of its affiliates may engage in investment banking and / or serve as a market maker or hold proprietary trading positions of certain stocks or companies in this research report. As far 
-as this research report is concerned, the following are the disclosure matters related to such relationship (As the following disclosure does not ensure timeliness and completeness, please send an 
-email to ERD-Disclosure@htisec.com if timely and comprehensive information is needed). 
- 
-000895.CH, 上海易方达新希望股权投资基金（有限合伙） 及新希望（天津）商业保理有限公司目前或过去12 个月内是海通的客户。海通向客户提供非投资银行业务的证券相关业务服
-务。 
-000895.CH, 上海易方达新希望股权投资基金（有限合伙） and 新希望（天津）商业保理有限公司 are/were a client of Haitong currently or within the past 12 months. The client has been 
-provided for non-investment-banking securities-related services. 
- 
-评级定义（从2020 年7 月1 日开始执行）： 
-海通国际（以下简称“HTI”）采用相对评级系统来为投资者推荐我们覆盖的公
-司：优于大市、中性或弱于大市。投资者应仔细阅读HTI 的评级定义。并且HTI
-发布分析师观点的完整信息，投资者应仔细阅读全文而非仅看评级。在任何情
-况下，分析师的评级和研究都不能作为投资建议。投资者的买卖股票的决策应
-基于各自情况（比如投资者的现有持仓）以及其他因素。 
-分析师股票评级 
-优于大市，未来12-18 个月内预期相对基准指数涨幅在10%以上，基准定义如
-下 
-中性，未来12-18 个月内预期相对基准指数变化不大，基准定义如下。根据
-FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。 
-弱于大市，未来12-18 个月内预期相对基准指数跌幅在10%以上，基准定义如
-下 
-各地股票基准指数：日本 – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – Nifty100, 美
-国 – SP500; 其他所有中国概念股 – MSCI China. 
-Ratings Definitions (from 1 Jul 2020):  
-Haitong International uses a relative rating system using Outperform, 
-Neutral, or Underperform for recommending the stocks we cover to 
-investors. Investors should carefully read the definitions of all ratings used 
-in Haitong International Research. In addition, since Haitong International 
-评级分布Rating Distribution 
- 
- 
- 
- 
- 
-7 
-Research contains more complete information concerning the analyst's 
-views, investors should carefully read Haitong International Research, in its 
-entirety, and not infer the contents from the rating alone. In any case, 
-ratings (or research) should not be used or relied upon as investment 
-advice. An investor's decision to buy or sell a stock should depend on 
-individual circumstances (such as the investor's existing holdings) and other 
-considerations. 
-Analyst Stock Ratings 
-Outperform: The stock’s total return over the next 12-18 months is 
-expected to exceed the return of its relevant broad market benchmark, as 
-indicated below.  
-Neutral: The stock’s total return over the next 12-18 months is expected to 
-be in line with the return of its relevant broad market benchmark, as 
-indicated below. For purposes only of FINRA/NYSE ratings distribution 
-rules, our Neutral rating falls into a hold rating category. 
-Underperform: The stock’s total return over the next 12-18 months is 
-expected to be below the return of its relevant broad market benchmark, 
-as indicated below. 
-Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, 
-Korea – KOSPI, Taiwan – TAIEX, India – Nifty100, US – SP500; for all other 
-China-concept stocks – MSCI China. 
- 
- 
-截至2023 年12 月31 日海通国际股票研究评级分布 
- 
-优于大市 
-中性 
-弱于大市 
- 
- 
-(持有) 
- 
-海通国际股票研究覆盖率   
-89.4% 
-9.6% 
-1.0% 
-投资银行客户*  
-3.9% 
-5.1% 
-5.6% 
-*在每个评级类别里投资银行客户所占的百分比。 
-上述分布中的买入，中性和卖出分别对应我们当前优于大市，中性和落后大市评级。 
-只有根据FINRA/NYSE 的评级分布规则，我们才将中性评级划入持有这一类别。请注意在上表中不包含非评级的股票。 
-此前的评级系统定义（直至2020 年6 月30 日）： 
-买入，未来12-18 个月内预期相对基准指数涨幅在10%以上，基准定义如下 
-中性，未来12-18 个月内预期相对基准指数变化不大，基准定义如下。根据FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。 
-卖出，未来12-18 个月内预期相对基准指数跌幅在10%以上，基准定义如下 
-各地股票基准指数：日本 – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – Nifty100; 其他所有中国概念股 – MSCI China. 
- 
-Haitong International Equity Research Ratings Distribution, as of December 31, 2023 
- 
-Outperform 
-Neutral 
-Underperform 
- 
- 
-(hold) 
- 
-HTI Equity Research Coverage   
-89.4% 
-9.6% 
-1.0% 
-IB clients*  
-3.9% 
-5.1% 
-5.6% 
-*Percentage of investment banking clients in each rating category. 
-BUY, Neutral, and SELL in the above distribution correspond to our current ratings of Outperform, Neutral, and Underperform. 
-For purposes only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. Please note that stocks with an NR designation are not included in the table above. 
-Previous rating system definitions (until 30 Jun 2020): 
-BUY: The stock’s total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark, as indicated below.  
-NEUTRAL: The stock’s total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark, as indicated below. For purposes 
-only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. 
-SELL: The stock’s total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark, as indicated below. 
-Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, Korea – KOSPI, Taiwan – TAIEX, India – Nifty100; for all other China-concept stocks – MSCI China. 
- 
-海通国际非评级研究：海通国际发布计量、筛选或短篇报告，并在报告中根据估值和其他指标对股票进行排名，或者基于可能的估值倍数提出建议价格。这种排名或建议价格并非为
-了进行股票评级、提出目标价格或进行基本面估值，而仅供参考使用。 
-Haitong International Non-Rated Research:  Haitong International publishes quantitative, screening or short reports which may rank stocks according to valuation and other metrics or may suggest 
-prices based on possible valuation multiples. Such rankings or suggested prices do not purport to be stock ratings or target prices or fundamental values and are for information only. 
- 
- 
- 
- 
-8 
-海通国际A 股覆盖：海通国际可能会就沪港通及深港通的中国A 股进行覆盖及评级。海通证券（600837.CH），海通国际于上海的母公司，也会于中国发布中国A 股的研究报告。但
-是，海通国际使用与海通证券不同的评级系统，所以海通国际与海通证券的中国A 股评级可能有所不同。 
-Haitong International Coverage of A-Shares:  Haitong International may cover and rate A-Shares that are subject to the Hong Kong Stock Connect scheme with Shanghai and Shenzhen. Haitong 
-Securities (HS; 600837 CH), the ultimate parent company of HTISG  based in Shanghai, covers and publishes research on these same A-Shares for distribution in mainland China. However, the rating 
-system employed by HS differs from that used by HTI and as a result there may be a difference in the HTI and HS ratings for the same A-share stocks. 
-海通国际优质100 A 股（Q100）指数：海通国际Q100 指数是一个包括100 支由海通证券覆盖的优质中国A 股的计量产品。这些股票是通过基于质量的筛选过程，并结合对海通证券 A
-股团队自下而上的研究。海通国际每季对Q100 指数成分作出复审。 
-Haitong International Quality 100 A-share (Q100) Index:  HTI’s Q100 Index is a quant product that consists of 100 of the highest-quality A-shares under coverage at HS in Shanghai. These stocks are 
-carefully selected through a quality-based screening process in combination with a review of the HS A-share team’s bottom-up research. The Q100 constituent companies are reviewed quarterly. 
- 
- 
-盟浪义利（FIN-ESG）数据通免责声明条款：在使用盟浪义利（FIN-ESG）数据之前，请务必仔细阅读本条款并同意本声明： 
-第一条 义利（FIN-ESG）数据系由盟浪可持续数字科技有限责任公司（以下简称“本公司”）基于合法取得的公开信息评估而成，本公司对信息的准确性及完整性不作任何保证。对公司
-的评估结果仅供参考，并不构成对任何个人或机构投资建议，也不能作为任何个人或机构购买、出售或持有相关金融产品的依据。本公司不对任何个人或机构投资者因使用本数据表
-述的评估结果造成的任何直接或间接损失负责。  
-第二条 盟浪并不因收到此评估数据而将收件人视为客户，收件人使用此数据时应根据自身实际情况作出自我独立判断。本数据所载内容反映的是盟浪在最初发布本数据日期当日的判
-断，盟浪有权在不发出通知的情况下更新、修订与发出其他与本数据所载内容不一致或有不同结论的数据。除非另行说明，本数据（如财务业绩数据等）仅代表过往表现，过往的业
-绩表现不作为日后回报的预测。  
-第三条 本数据版权归本公司所有，本公司依法保留各项权利。未经本公司事先书面许可授权，任何个人或机构不得将本数据中的评估结果用于任何营利性目的，不得对本数据进行修
-改、复制、编译、汇编、再次编辑、改编、删减、缩写、节选、发行、出租、展览、表演、放映、广播、信息网络传播、摄制、增加图标及说明等，否则因此给盟浪或其他第三方造
-成损失的，由用户承担相应的赔偿责任，盟浪不承担责任。 
-第四条 如本免责声明未约定，而盟浪网站平台载明的其他协议内容（如《盟浪网站用户注册协议》《盟浪网用户服务（含认证）协议》《盟浪网隐私政策》等）有约定的，则按其他
-协议的约定执行；若本免责声明与其他协议约定存在冲突或不一致的，则以本免责声明约定为准。 
-SusallWave FIN-ESG Data Service Disclaimer: Please read these terms and conditions below carefully and confirm your agreement and acceptance with these terms before using SusallWave FIN-
-ESG Data Service. 
-1. 
-FIN-ESG Data is produced by SusallWave Digital Technology Co., Ltd. (In short, SusallWave)’s assessment based on legal publicly accessible information. SusallWave shall not be responsible 
-for any accuracy and completeness of the information. The assessment result is for reference only. It is not for any investment advice for any individual or institution and not for basis of purchasing, 
-selling or holding any relative financial products. We will not be liable for any direct or indirect loss of any individual or institution as a result of using SusallWave FIN-ESG Data. 
-2. 
-SusallWave do not consider recipients as customers for receiving these data. When using the data, recipients shall make your own independent judgment according to your practical individual 
-status. The contents of the data reflect the judgment of us only on the release day. We have right to update and amend the data and release other data that contains inconsistent contents or 
-different conclusions without notification. Unless expressly stated, the data (e.g., financial performance data) represents past performance only and the past performance cannot be viewed as the 
-prediction of future return. 
-3. 
-The copyright of this data belongs to SusallWave, and we reserve all rights in accordance with the law. Without the prior written permission of our company, none of individual or institution 
-can use these data for any profitable purpose. Besides, none of individual or institution can take actions such as amendment, replication, translation, compilation, re-editing, adaption, deletion, 
-abbreviation, excerpts, issuance, rent, exhibition, performance, projection, broadcast, information network transmission, shooting, adding icons and instructions. If any loss of SusallWave or any 
-third-party is caused by those actions, users shall bear the corresponding compensation liability. SusallWave shall not be responsible for any loss. 
-4. 
-If any term is not contained in this disclaimer but written in other agreements on our website (e.g. User Registration Protocol of SusallWave Website, User Service (including authentication) 
-Agreement of SusallWave Website, Privacy Policy of Susallwave Website), it should be executed according to other agreements. If there is any difference between this disclaim and other agreements, 
-this disclaimer shall be applied.     
- 
-重要免责声明： 
-非印度证券的研究报告：本报告由海通国际证券集团有限公司（“HTISGL”）的全资附属公司海通国际研究有限公司（“HTIRL”）发行，该公司是根据香港证券及期货条例（第571 章）持
-有第4 类受规管活动（就证券提供意见）的持牌法团。该研究报告在HTISGL 的全资附属公司Haitong International (Japan) K.K.（“HTIJKK”）的协助下发行，HTIJKK 是由日本关东财务局监
-管为投资顾问。 
-印度证券的研究报告：本报告由从事证券交易、投资银行及证券分析及受Securities and Exchange Board of India（“SEBI”）监管的Haitong Securities India Private Limited（“HTSIPL”）所发
-行，包括制作及发布涵盖BSE Limited（“BSE”）和National Stock Exchange of India Limited（“NSE”）上市公司（统称为「印度交易所」）的研究报告。HTSIPL 于2016 年12 月22 日被收购
-并成为海通国际证券集团有限公司（“HTISG”）的一部分。  
-所有研究报告均以海通国际为名作为全球品牌，经许可由海通国际证券股份有限公司及/或海通国际证券集团的其他成员在其司法管辖区发布。 
-本文件所载信息和观点已被编译或源自可靠来源，但HTIRL、HTISCL 或任何其他属于海通国际证券集团有限公司（“HTISG”）的成员对其准确性、完整性和正确性不做任何明示或暗示的
-声明或保证。本文件中所有观点均截至本报告日期，如有更改，恕不另行通知。本文件仅供参考使用。文件中提及的任何公司或其股票的说明并非意图展示完整的内容，本文件并非/
- 
- 
- 
- 
-9 
-不应被解释为对证券买卖的明示或暗示地出价或征价。在某些司法管辖区，本文件中提及的证券可能无法进行买卖。如果投资产品以投资者本国货币以外的币种进行计价，则汇率变化
-可能会对投资产生不利影响。过去的表现并不一定代表将来的结果。某些特定交易，包括设计金融衍生工具的，有产生重大风险的可能性，因此并不适合所有的投资者。您还应认识到
-本文件中的建议并非为您量身定制。分析师并未考虑到您自身的财务情况，如您的财务状况和风险偏好。因此您必须自行分析并在适用的情况下咨询自己的法律、税收、会计、金融和
-其他方面的专业顾问，以期在投资之前评估该项建议是否适合于您。若由于使用本文件所载的材料而产生任何直接或间接的损失，HTISG 及其董事、雇员或代理人对此均不承担任何责
-任。  
-除对本文内容承担责任的分析师除外，HTISG 及我们的关联公司、高级管理人员、董事和雇员，均可不时作为主事人就本文件所述的任何证券或衍生品持有长仓或短仓以及进行买卖。
-HTISG 的销售员、交易员和其他专业人士均可向HTISG 的相关客户和公司提供与本文件所述意见相反的口头或书面市场评论意见或交易策略。HTISG 可做出与本文件所述建议或意见不
-一致的投资决策。但HTIRL 没有义务来确保本文件的收件人了解到该等交易决定、思路或建议。 
-请访问海通国际网站 www.equities.htisec.com ，查阅更多有关海通国际为预防和避免利益冲突设立的组织和行政安排的内容信息。 
-非美国分析师披露信息：本项研究首页上列明的海通国际分析师并未在FINRA 进行注册或者取得相应的资格，并且不受美国FINRA 有关与本项研究目标公司进行沟通、公开露面和自营
-证券交易的第2241 条规则之限制。 
- 
-IMPORTANT DISCLAIMER 
-For research reports on non-Indian securities: The research report is issued by Haitong International Research Limited (“HTIRL”), a wholly owned subsidiary of Haitong International Securities Group 
-Limited (“HTISGL”) and a licensed corporation to carry on Type 4 regulated activity (advising on securities) for the purpose of the Securities and Futures Ordinance (Cap. 571) of Hong Kong, with the 
-assistance of Haitong International (Japan) K.K. (“HTIJKK”), a wholly owned subsidiary of HTISGL and which is regulated as an Investment Adviser by the Kanto Finance Bureau of Japan. 
-For research reports on Indian securities: The research report is issued by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) 
-registered Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited (“BSE”) and the National Stock 
-Exchange of India Limited (“NSE”) (collectively referred to as “Indian Exchanges”). HSIPL was acquired and became part of the Haitong International Securities Group of Companies (“HTISG”) on 22 
-December 2016.  
-All the research reports are globally branded under the name Haitong International and approved for distribution by Haitong International Securities Company Limited (“HTISCL”) and/or any other 
-members within HTISG in their respective jurisdictions. 
-The information and opinions contained in this research report have been compiled or arrived at from sources believed to be reliable and in good faith but no representation or warranty, express or 
-implied, is made by HTIRL, HTISCL, HSIPL, HTIJKK or any other members within HTISG from which this research report may be received, as to their accuracy, completeness or correctness. All opinions 
-expressed herein are as of the date of this research report and are subject to change without notice. This research report is for information purpose only. Descriptions of any companies or their 
-securities mentioned herein are not intended to be complete and this research report is not, and should not be construed expressly or impliedly as, an offer to buy or sell securities. The securities 
-referred to in this research report may not be eligible for purchase or sale in some jurisdictions. If an investment product is denominated in a currency other than an investor's home currency, a 
-change in exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results. Certain transactions, including those involving derivatives, give rise to 
-substantial risk and are not suitable for all investors. You should also bear in mind that recommendations in this research report are not tailor-made for you. The analyst has not taken into account 
-your unique financial circumstances, such as your financial situation and risk appetite. You must, therefore, analyze and should, where applicable, consult your own legal, tax, accounting, financial 
-and other professional advisers to evaluate whether the recommendations suits you before investment. Neither HTISG nor any of its directors, employees or agents accepts any liability whatsoever 
-for any direct or consequential loss arising from any use of the materials contained in this research report.  
-HTISG and our affiliates, officers, directors, and employees, excluding the analysts responsible for the content of this document, will from time to time have long or short positions in, act as principal 
-in, and buy or sell, the securities or derivatives, if any, referred to in this research report. Sales, traders, and other professionals of HTISG may provide oral or written market commentary or trading 
-strategies to the relevant clients and the companies within HTISG that reflect opinions that are contrary to the opinions expressed in this research report. HTISG may make investment decisions that 
-are inconsistent with the recommendations or views expressed in this research report. HTI is under no obligation to ensure that such other trading decisions, ideas or recommendations are brought 
-to the attention of any recipient of this research report. 
-Please refer to HTI’s website www.equities.htisec.com for further information on HTI’s organizational and administrative arrangements set up for the prevention and avoidance of conflicts of interest 
-with respect to Research. 
-Non U.S. Analyst Disclosure:  The HTI analyst(s) listed on the cover of this Research is (are) not registered or qualified as a  research analyst with FINRA and are not subject to U.S. FINRA Rule 2241 
-restrictions on communications with companies that are the subject of the Research; public appearances; and trading securities by a research analyst. 
-分发和地区通知： 
-除非下文另有规定，否则任何希望讨论本报告或者就本项研究中讨论的任何证券进行任何交易的收件人均应联系其所在国家或地区的海通国际销售人员。   
-香港投资者的通知事项：海通国际证券股份有限公司(“HTISCL”)负责分发该研究报告，HTISCL 是在香港有权实施第1 类受规管活动（从事证券交易）的持牌公司。该研究报告并不构成
-《证券及期货条例》（香港法例第571 章）（以下简称“SFO”）所界定的要约邀请，证券要约或公众要约。本研究报告仅提供给SFO 所界定的“专业投资者”。本研究报告未经过证券及
-期货事务监察委员会的审查。您不应仅根据本研究报告中所载的信息做出投资决定。本研究报告的收件人就研究报告中产生或与之相关的任何事宜请联系HTISCL 销售人员。 
-美国投资者的通知事项：本研究报告由HTIRL，HSIPL 或HTIJKK 编写。 HTIRL，HSIPL，HTIJKK 以及任何非HTISG 美国联营公司，均未在美国注册，因此不受美国关于研究报告编制和研
-究分析人员独立性规定的约束。本研究报告提供给依照1934 年“美国证券交易法”第15a-6 条规定的豁免注册的「美国主要机构投资者」（“Major U.S. Institutional Investor”）和「机构投
-资者」（”U.S. Institutional Investors”）。在向美国机构投资者分发研究报告时，Haitong International Securities (USA) Inc. （“HTI USA”） 将对报告的内容负责。任何收到本研究报告的美国
-投资者，希望根据本研究报告提供的信息进行任何证券或相关金融工具买卖的交易，只能通过HTI USA。HTI USA 位于340 Madison Avenue, 12th Floor, New York, NY 10173，电话（212）
-351-6050。 HTI USA 是在美国于U.S. Securities and Exchange Commission（“SEC”）注册的经纪商，也是Financial Industry Regulatory Authority, Inc.（“FINRA”）的成员。 HTIUSA 不负责编写
-本研究报告，也不负责其中包含的分析。在任何情况下，收到本研究报告的任何美国投资者，不得直接与分析师直接联系，也不得通过HSIPL，HTIRL 或HTIJKK 直接进行买卖证券或相
-关金融工具的交易。本研究报告中出现的HSIPL，HTIRL 或HTIJKK 分析师没有注册或具备FINRA 的研究分析师资格，因此可能不受FINRA 第2241 条规定的与目标公司的交流，公开露面
- 
- 
- 
- 
-10 
-和分析师账户持有的交易证券等限制。投资本研究报告中讨论的任何非美国证券或相关金融工具（包括ADR）可能存在一定风险。非美国发行的证券可能没有注册，或不受美国法规的
-约束。有关非美国证券或相关金融工具的信息可能有限制。外国公司可能不受审计和汇报的标准以及与美国境内生效相符的监管要求。本研究报告中以美元以外的其他货币计价的任何
-证券或相关金融工具的投资或收益的价值受汇率波动的影响，可能对该等证券或相关金融工具的价值或收入产生正面或负面影响。美国收件人的所有问询请联系： 
- 
-Haitong International Securities (USA) Inc. 
-340 Madison Avenue, 12th Floor 
-New York, NY 10173 
-联系人电话：(212) 351 6050 
- 
- 
-DISTRIBUTION AND REGIONAL NOTICES 
-Except as otherwise indicated below, any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTI’s research should contact the Haitong International 
-salesperson in their own country or region.   
-Notice to Hong Kong investors: The research report is distributed by Haitong International Securities Company Limited (“HTISCL”), which is a licensed corporation to carry on Type 1 regulated activity 
-(dealing in securities) in Hong Kong. This research report does not constitute a solicitation or an offer of securities or an invitation to the public within the meaning of the SFO. This research report 
-is only to be circulated to "Professional Investors" as defined in the SFO. This research report has not been reviewed by the Securities and Futures Commission. You should not make investment 
-decisions solely on the basis of the information contained in this research report. Recipients of this research report are to contact HTISCL salespersons in respect of any matters arising from, or in 
-connection with, the research report. 
-Notice to U.S. investors: As described above, this research report was prepared by HTIRL, HSIPL or HTIJKK. Neither HTIRL, HSIPL, HTIJKK, nor any of the non U.S. HTISG affiliates is registered in the 
-United States and, therefore, is not subject to U.S. rules regarding the preparation of research reports and the independence of research analysts.  This research report is provided for distribution to 
-“major U.S. institutional investors” and “U.S. institutional investors” in reliance on the exemption from registration provided by Rule 15a-6 of the U.S. Securities Exchange Act of 1934, as amended. 
-When distributing research reports to “U.S. institutional investors,” HTI USA will accept the responsibilities for the content of the reports.  Any U.S. recipient of this research report wishing to effect 
-any transaction to buy or sell securities or related financial instruments based on the information provided in this research report should do so only through Haitong International Securities (USA) 
-Inc. (“HTI USA”), located at 340 Madison Avenue, 12th Floor, New York, NY 10173, USA; telephone (212) 351 6050.  HTI USA is a broker-dealer registered in the U.S. with the U.S. Securities and 
-Exchange Commission (the “SEC”) and a member of the Financial Industry Regulatory Authority, Inc. (“FINRA”).  HTI USA is not responsible for the preparation of this research report nor for the 
-analysis contained therein.  Under no circumstances should any U.S. recipient of this research report contact the analyst directly or effect any transaction to buy or sell securities or related financial 
-instruments directly through HSIPL, HTIRL or HTIJKK.  The HSIPL, HTIRL or HTIJKK analyst(s) whose name appears in this research report is not registered or qualified as a research analyst with FINRA 
-and, therefore, may not be subject to FINRA Rule 2241 restrictions on communications with a subject company, public appearances and trading securities held by a research analyst account.  Investing 
-in any non-U.S. securities or related financial instruments (including ADRs) discussed in this research report may present certain risks.  The securities of non-U.S. issuers may not be registered with, 
-or be subject to U.S. regulations.  Information on such non-U.S. securities or related financial instruments may be limited. Foreign companies may not be subject to audit and reporting standards 
-and regulatory requirements comparable to those in effect within the U.S.  The value of any investment or income from any securities or related financial instruments discussed in this research 
-report denominated in a currency other than U.S. dollars is subject to exchange rate fluctuations that may have a positive or adverse effect on the value of or income from such securities or related 
-financial instruments. All inquiries by U.S. recipients should be directed to: 
-Haitong International Securities (USA) Inc. 
-340 Madison Avenue, 12th Floor 
-New York, NY 10173 
-Attn:  Sales Desk at (212) 351 6050 
-中华人民共和国的通知事项：在中华人民共和国（下称“中国”，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用的中国法律法规而收到该材料的人
-员方可使用该材料。并且根据相关法律法规，该材料中的信息并不构成“在中国从事生产、经营活动”。本文件在中国并不构成相关证券的公共发售或认购。无论根据法律规定或其他任
-何规定，在取得中国政府所有的批准或许可之前，任何法人或自然人均不得直接或间接地购买本材料中的任何证券或任何实益权益。接收本文件的人员须遵守上述限制性规定。 
-加拿大投资者的通知事项：在任何情况下该等材料均不得被解释为在任何加拿大的司法管辖区内出售证券的要约或认购证券的要约邀请。本材料中所述证券在加拿大的任何要约或出
-售行为均只能在豁免向有关加拿大证券监管机构提交招股说明书的前提下由Haitong International Securities (USA) Inc. （“HTI USA”）予以实施，该公司是一家根据National Instrument 31-
-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations（“NI 31-103”）的规定得到「国际交易商豁免」（“International Dealer Exemption” ）的交易商，位于艾伯塔
-省、不列颠哥伦比亚省、安大略省和魁北克省。在加拿大，该等材料在任何情况下均不得被解释为任何证券的招股说明书、发行备忘录、广告或公开发行。加拿大的任何证券委员会或
-类似的监管机构均未审查或以任何方式批准该等材料、其中所载的信息或所述证券的优点，任何与此相反的声明即属违法。在收到该等材料时，每个加拿大的收件人均将被视为属于
-National Instrument 45-106 Prospectus Exemptions 第1.1 节或者Securities Act (Ontario)第73.3(1)节所规定的「认可投资者」（“Accredited Investor”），或者在适用情况下National 
-Instrument 31-103 第1.1 节所规定的「许可投资者」（“Permitted Investor”）。 
-新加坡投资者的通知事项：本研究报告由Haitong International Securities (Singapore) Pte Ltd（“HTISSPL”）[公司注册编号201311400G] 于新加坡提供。HTISSPL 是符合《财务顾问法》（第
-110 章）（“FAA”）定义的豁免财务顾问，可（a）提供关于证券，集体投资计划的部分，交易所衍生品合约和场外衍生品合约的建议（b）发行或公布有关证券、交易所衍生品合约和
-场外衍生品合约的研究分析或研究报告。本研究报告仅提供给符合《证券及期货法》（第289 章）第4A 条项下规定的机构投资者。对于因本研究报告而产生的或与之相关的任何问
-题，本研究报告的收件人应通过以下信息与HTISSPL 联系： 
-Haitong International Securities (Singapore) Pte. Ltd 
-50 Raffles Place, #33-03 Singapore Land Tower, Singapore 048623 
-电话: (65) 6536 1920 
- 
- 
- 
- 
-11 
-日本投资者的通知事项：本研究报告由海通国际证券有限公司所发布，旨在分发给从事投资管理的金融服务提供商或注册金融机构（根据日本金融机构和交易法（“FIEL”））第61
-（1）条，第17-11（1）条的执行及相关条款）。 
-英国及欧盟投资者的通知事项：本报告由从事投资顾问的Haitong International Securities Company Limited 所发布，本报告只面向有投资相关经验的专业客户发布。任何投资或与本报告
-相关的投资行为只面对此类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。Haitong International Securities Company Limited 的分支机构的净长期或短期金融权益可能
-超过本研究报告中提及的实体已发行股本总额的0.5％。特别提醒有些英文报告有可能此前已经通过中文或其它语言完成发布。 
-澳大利亚投资者的通知事项：Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited 和Haitong International Securities (UK) Limited 分别根据澳
-大利亚证券和投资委员会（以下简称“ASIC”）公司（废除及过度性）文书第2016/396 号规章在澳大利亚分发本项研究，该等规章免除了根据2001 年《公司法》在澳大利亚为批发客户
-提供金融服务时海通国际需持有澳大利亚金融服务许可的要求。ASIC 的规章副本可在以下网站获取：www.legislation.gov.au。海通国际提供的金融服务受外国法律法规规定的管制，该
-等法律与在澳大利亚所适用的法律存在差异。 
-印度投资者的通知事项：本报告由从事证券交易、投资银行及证券分析及受Securities and Exchange Board of India（“SEBI”）监管的Haitong Securities India Private Limited（“HTSIPL”）所
-发布，包括制作及发布涵盖BSE Limited（“BSE”）和National Stock Exchange of India Limited（“NSE”）（统称为「印度交易所」）研究报告。 
-研究机构名称: Haitong Securities India Private Limited 
-SEBI 研究分析师注册号: INH000002590 
-地址: 1203A, Floor 12A, Tower 2A, One World Center 
-841 Senapati Bapat Marg, Elphinstone Road, Mumbai 400 013, India 
-CIN U74140MH2011FTC224070 
-电话: +91 22 43156800 传真:+91 22 24216327 
-合规和申诉办公室联系人： Prasanna Chandwaskar ；电话: +91 22 43156803; 电子邮箱: prasanna.chandwaskar@htisec.com 
-“请注意，SEBI 授予的注册和 NISM 的认证并不保证中介的表现或为投资者提供任何回报保证”。 
- 
-本项研究仅供收件人使用，未经海通国际的书面同意不得予以复制和再次分发。 
-版权所有：海通国际证券集团有限公司2019 年。保留所有权利。 
- 
-People’s Republic of China (PRC): In the PRC, the research report is directed for the sole use of those who receive the research report in accordance with the applicable PRC laws and regulations. 
-Further, the information on the research report does not constitute "production and business activities in the PRC" under relevant PRC laws. This research report does not constitute a public offer 
-of the security, whether by sale or subscription, in the PRC. Further, no legal or natural persons of the PRC may directly or indirectly purchase any of the security or any beneficial interest therein 
-without obtaining all prior PRC government approvals or licenses that are required, whether statutorily or otherwise. Persons who come into possession of this research are required to observe 
-these restrictions. 
-Notice to Canadian Investors: Under no circumstances is this research report to be construed as an offer to sell securities or as a solicitation of an offer to buy securities in any jurisdiction of Canada. 
-Any offer or sale of the securities described herein in Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and 
-only by Haitong International Securities (USA) Inc., a dealer relying on the “international dealer exemption” under National Instrument 31-103 Registration Requirements, Exemptions and Ongoing 
-Registrant Obligations (“NI 31-103”) in Alberta, British Columbia, Ontario and Quebec. This research report is not, and under no circumstances should be construed as, a prospectus, an offering 
-memorandum, an advertisement or a public offering of any securities in Canada. No securities commission or similar regulatory authority in Canada has reviewed or in any way passed upon this 
-research report, the information contained herein or the merits of the securities described herein and any representation to the contrary is an offence. Upon receipt of this research report, each 
-Canadian recipient will be deemed to have represented that the investor is an “accredited investor” as such term is defined in section 1.1 of National Instrument 45-106 Prospectus Exemptions or, 
-in Ontario, in section 73.3(1) of the Securities Act (Ontario), as applicable, and a “permitted client” as such term is defined in section 1.1 of NI 31-103, respectively. 
-Notice to Singapore investors: This research report is provided in Singapore by or through Haitong International Securities (Singapore) Pte Ltd (“HTISSPL”) [Co Reg No 201311400G. HTISSPL is an 
-Exempt Financial Adviser under the Financial Advisers Act (Cap. 110) (“FAA”) to (a) advise on securities, units in a collective investment scheme, exchange-traded derivatives contracts and over-the-
-counter derivatives contracts and (b) issue or promulgate research analyses or research reports on securities, exchange-traded derivatives contracts and over-the-counter derivatives contracts. This 
-research report is only provided to institutional investors, within the meaning of Section 4A of the Securities and Futures Act (Cap. 289). Recipients of this research report are to contact HTISSPL via 
-the details below in respect of any matters arising from, or in connection with, the research report: 
-Haitong International Securities (Singapore) Pte. Ltd. 
-10 Collyer Quay, #19-01 - #19-05 Ocean Financial Centre, Singapore 049315 
-Telephone: (65) 6536 1920 
-Notice to Japanese investors: This research report is distributed by Haitong International Securities Company Limited and intended to be distributed to Financial Services Providers or Registered 
-Financial Institutions engaged in investment management (as defined in the Japan Financial Instruments and Exchange Act ("FIEL") Art. 61(1), Order for Enforcement of FIEL Art. 17-11(1), and related 
-articles). 
-Notice to UK and European Union investors: This research report is distributed by Haitong International Securities Company Limited. This research is directed at persons having professional 
-experience in matters relating to investments. Any investment or investment activity to which this research relates is available only to such persons or will be engaged in only with such persons. 
-Persons who do not have professional experience in matters relating to investments should not rely on this research.  Haitong International Securities Company Limited’s affiliates may have a net 
- 
- 
- 
- 
-12 
-long or short financial interest in excess of 0.5% of the total issued share capital of the entities mentioned in this research report.  Please be aware that any report in English may have been published 
-previously in Chinese or another language. 
-Notice to Australian investors: The research report is distributed in Australia by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong 
-International Securities (UK) Limited in reliance on ASIC Corporations (Repeal and Transitional) Instrument 2016/396, which exempts those HTISG entities from the requirement to hold an Australian 
-financial services license under the Corporations Act 2001 in respect of the financial services it provides to wholesale clients in Australia.  A copy of the ASIC Class Orders may be obtained at the 
-following website, www.legislation.gov.au.  Financial services provided by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong 
-International Securities (UK) Limited are regulated under foreign laws and regulatory requirements, which are different from the laws applying in Australia. 
-Notice to Indian investors: The research report is distributed by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) registered 
-Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited (“BSE”) and the National Stock Exchange of 
-India Limited (“NSE”) (collectively referred to as “Indian Exchanges”).   
-Name of the entity: Haitong Securities India Private Limited 
-SEBI Research Analyst Registration Number: INH000002590 
-Address : 1203A, Floor 12A, Tower 2A, One World Center 
-841 Senapati Bapat Marg, Elphinstone Road, Mumbai 400 013, India 
-CIN U74140MH2011FTC224070 
-Ph: +91 22 43156800 Fax:+91 22 24216327 
-Details of the Compliance Officer and Grievance Officer : Prasanna Chandwaskar :  Ph: +91 22 43156803; Email id: prasanna.chandwaskar@htisec.com 
-“Please note that Registration granted by SEBI and Certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors”. 
- 
-This research report is intended for the recipients only and may not be reproduced or redistributed without the written consent of an authorized signatory of HTISG. 
-Copyright: Haitong International Securities Group Limited 2019. All rights reserved. 
-http://equities.htisec.com/x/legal.html 
- 
- 
- 
- 
- 
- 
- 
- 
-13 
-Recommendation Chart 
-Source: Company data Bloomberg, HTI estimates 
- 
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+「Englisher」「in line line line line line line line li
+第一型・1. The arine n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n in line n
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まります。
+まりま
+-ï---
+『上『上『上『上『上『上『上『上『上『上
+『『『上で『上で『上で『上で『上で『上で『上で
+事事。『旧事事』『正明』『正明』『正明』『正明』『正明』『正明』『正明』『正明
+『・『・『・『ド『に『に『に『に『に『に『に『に『に
+『1415161718181818181818181818181818
+「・・・・・・・・・・・・・・・・・・・
+- Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+『・『・・・・・・・・・・・・・・・・・
+『『記事で記事で記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『helphafire』。『irea nire』。『irea nire』。
+- The Parine- Parine- Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine Parine
+- 『上電子- 『in la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la
+で記事で記事でに記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で
+" a"E" a"E" a"E" e"E" e"E" e"E" e"E" e"E
+『上電子』『正で記録では、『正で記録でする。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。
+『上ででいまった。ではにルでにルでにルでにルでにルでにルでにルでに
+事事。『上事事』『上事』『上事』『上事』『上事』
+音楽で表現ので記した。「in line line line line line line line li
+· ILB1.Benius nire
+音・『上でではにでにににににににににににににににに
+音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・音・
+電車で表現。『inela juike a juike a juike a juike a juike a juike a juike a juike a juike a juike a juike a juike a juike a
+”上電力型。1. In The Nation (I in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na in II ne na
+” ——R14. The nu nu nu nu nu nu nu nu nu nu nu nu nu
+音楽では、では、では、では、では、では、では、では、では、では、
+。『記事では『記事では「上事で『上事で「上事で「上事で「上事で「上事でと事でしずにしずしずしずしずしずしずしずしず
+· "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E" = "E"
+事情・『『上『『『『『『『『『『『『『『『『『
+「・・・・・・・・・・・・・・・・・・・
+『上『上『上『上『上『上『上『上『上『上
+· III。1. III。
+『『記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。」
+事事。『上間・『上間・『上間・『上間・『上間・『上間・『上間・『上間・
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+· IVER all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all line all lin
+·高小宝/电子型中间上。1. “是一个是一个是一个是一个是一个是一个是一个是一个是一个是一个是一个是一个是一个是
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+" a "li " a "li " " " " " " " " " " " " " " " " " "
+a in a lie nie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na
+a."E."
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+。Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pin - Pi
+” = "English" = "File" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "English" = "Eng
+in Pipe all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all like all lik
+，是事事。『上記』『上記』『上記』『上記』『上記』『上記』『上記』『上記』
+事事。『ina a lina a lina a lina a lina a lina a lina a lina a lina a lina a lina a lina a lina a lina a lina a lina a
+書物では大きなでは、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、1 では、
+” ——”『···································
+号）
+・
+では
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+· Barana ni u na na na na na na na na na na na na na
+” ————————————————————————————————————
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+nin ali. ali. ali. ali. ali. ali. ali. ali.
+a The a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affic a The Affi
+a The The The The The The The The The The
+shejina shajina shajina shajina shajina shajina shajina shajina shajina shajina shajina shajina shajina shajina
+· line
+音います。『a · · · · · · · · · · · · · · · · · · ·
+air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.la air.l
+a Tie Weine la Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a Tie a T
+shipman. I a'll a'll a'll a'll a'll a'll a'll a'
+ng. They ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ngingheit ng
+a li a li a li a li a li a li a li a li
+nin sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sale sul sa
+a si sla sla sla sla sla sla sla sla sla sla
+a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a sign a s
+音い a li li a li li a li li a li li li a li li li li li li li li li li li li li
+ni. 18−4. air. [a-ii. a. a. a. a. a. a. a. a. a. a. a. a. a.
+ame ame ame ame ame ame ame ame ame ame
+a The The The The The The The The The The
+mei nei arin and arin and arin and arin and arin arin and arin arin arin arin arin arin arin arin
+For Faring arm.
+言いて、では、では、では、では、では、では、では、では、では、では
+a∏r. 87 − 1 − 1 − 1 − 1 − 1 − 1 − 1 − 1 − 1 −
+電子 a'ir a'ir a'ir a'ir a'ir a'ir a'ir a'ir
+arine of the fire arine after of the fire arine after arine after arine after arine after arine after arine after arine after arine after arine after arine after arine after arine after arine after arine after arine after
+。電車『heibuspapapapapapapapapapapapapapapapapapapa
+The The The The The The The The The The
+mp:l-ample.
+言いには、 a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a rine a ri
+n The arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I arm. I
+· IIII。IIII。
+音いである。『正では「上でいる」では、「上では、「これでは、これでは、これでは、これでは、これでは、これでは、これでは、これでは、
+pagi.e3 − 1 − 1 − 1 − 1 − 1 − 1 − 1 − 1 − 1 −
+Bille ni na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na
+音いて、『 The The The The The The The The The The
+言いています。
+1
+! tall tall tall tall tall tall tall tal
+nineatetatie. The arium and the simile arium and the simile arium and the simile arium and the simile arium and the simile arium arium arium arium arium arium arium arium arium arium arium arium arium arium arium arium ar
+”上零台上。1. Li a li a li a li a li a li a li a li a
+· leinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinelleinellei
+。でもでは、でもでは、でもでは、でもでもできます。である。である。である。である。である。である。である。である
+でで『旧『旧『旧『旧『旧『にのにりにりにりにりにりにりにりにりにり
+in Pagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Bagin Ba
+a Tin E
+i - la la la la la la la la la la la la la
+ででにににににににににににににににににたにたにたにたにたれにれたれにれたれた
+i "Buga" a
+” herikaPin nu nu nu nu nu nu nu nu nu nu nu nu nu
+· IPi
+『事情記録』『事情記録』『事情記録』
+- The arine and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and naire and nair
+i "le "le "le "le "le "le "le "le "le "le
+Time a'in a'in a'in a'in a'in a'in a'in a'in
+nine a'in a'in a'in a'in a'in a'in a'in a'in
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+· Bullen a. Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Repident Rep
+事事。『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、
+n The The The The The The The The The The
+a The The The The The The The The The The
+of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the name of the
+nin each air. Bair each air. Bair each air. Bair each air. Bair each air. Bair each air. Bair each air. Bair e
+nir.ea-
+n The The The The The The The The The The
+きいます。
+きいました。
+きいました。
+では、
+では、
+では、
+では、
+では、
+では、
+では、
+では、
+音響では1. Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Tan La Ta
+aiur andrium and na de de de la la mara en la mara en la mara en la mara en la mara en la mara en la mara en lEn la mara en la mara en la mara en la mara en la mara en la mara en la mara en la mara en la mara en la mara e
+nin a h
+arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine
+音・1上1日1日1日1日1日1日1日1日1日
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+・『・『・ににににににににににににににに
+電子では、では、では、では、では、では、では、では、では、では、
+riendrien.Parin en de l'inner en l'en l'en l'en l'en l'en l'en l'en l
+”——”“inie”——”
+n Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Ten a Te
+a li -----------------------------------
+要要では、では、では、では、では、では、では、では、では、では、
+『『『記記』で記述
+nä.₽ä.
+· "E" a"/-----------------------------------
+事事。『ina la la la la la la la la la la la la la
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『『記事で記事である『記事で記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事
+”『arine afine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『ine”『
+n∏. Paper li⊩ a∏. Paper li⊩ and li⊩ and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and limit and l
+”『上電子』『旧歌号』
+” “皇祖” “皇祖” “自” “自” “自” “自” “自” “自” “自” “自” “自” “自
+- ""
+『上電子記録のでは、では、「中では、「中では、「中では、「中では、「中では、「中では、「中では、「中
+- The Time Time Time Time Time Time Time Tim
+『『『記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+në.Perin
+- The The The The The The The The The The
+。『ina la la la la la la la la la la la la la
+· Par The Par Par Par Par Par Par Par Par Par Par
+a. Pierierierierierierierierierierierierieri
+- ”Engli-Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rapine nür Rap
+n. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r. Paper a.r
+a”⊩a”—a”⊩a”—a”⊩a”—a”i⊩”a”—a”i⊩”a”i⊩”a”i⊩
+ni⊩anien.Pairienien.
+- 『he ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali le ali
+E-III-E-II-E-II-E-II-E-II-E-II-E-II-E-
+å. Pari⊾en in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in line in
+a. The a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r. −a.r.
+『『in Wairina a li ne ne ne ne ne ne ne ne ne ne ne ne ne
+- "" - "" - "" - "" - "" - "" - "" - "
+· "E-"E-"E-"E-"E-"E-"E-"E-"E-"E-"E-"E-"E-"
+ina lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. lihatika1. l
+- ΓΕΙΑΙΡΙΑΙΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑΙΑ
+· 『上帝』『上帝』『上帝』
+” ——”—————————————————————————————————
+『上で記録の『上で記録では、『上で記録である。「上で記録である。」『上で記録である。『上で記録である。
+në.Papi⊩ 8-di⊩10 iluanië.
+。『ine la la la la la la la la la la la la la
+ina Pia Pia Pia Pia Pia Pia Pia Pia Pia Pi
+nën-line.
+”上“
+”上零台上。Pin ju ju ju ju ju ju ju ju ju ju ju ju ju
+- 『helpa nikePinike nike
+· Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+で記事でで記事で記事で記事で記事で記事で記事で記事で記事で
+でもです。ででは、では、では、では、では、では、では、では、では、では
+事事。『正では、では、では、では、では、では、では、では、では、では、
+音響 - The Rain la ng la ng ng ng ng ng ng ng ng ng ng ng ng ng
+nënënënënënënënënënënënënënënënënënënë
+a li a li a li a li a li a li a li a li
+· Page a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The August a The
+· In a Parine a Pin in a Parine a Pin in a Parine a Pin in a Parine a Pin in a Parine a Pin in a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine a Parine
+The line line line line line line line lin
+a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir. a-ir.
+ا ayle ayle ayle ayle ayle ayle ayle ayle
+åäpika?in a?in a.liair air air air air air air air air air
+aがle and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and le and l
+afire and reference والله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند" الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند
+sylvation our je na samme a mende samme samme samme samme samme samme samme samme samme samme samme samme samme
+a "lierthe a "lierthe a "lierthe a "lierthe a "lierthe a "lierthe a "lierthe a "lierthe a "lierthe a "lierthe" الله عند الله الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله عند الله
+air.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea—ir.ea
+事事。『正明』『記事事』『記事事』『記事事』『記事事』
+- Tan Pair Balling a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a lin
+nin Badin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin a nin
+nin all na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line and na line an
+胃 - 智力- The number number number number number number number number number number number number number number number number number number number number number number number number number number number number number numb
+『『『『『『『『『『『『『『『『『『『
+ninethelp. a full land a full land a full land land land land land land land la
+The Thir after after after after after after after after after after after after after after after after after after after after after after after after after after after after after after after after after after after aft
+nin all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line all na line al
+三事中では、では、では、では、では、では、では、では、では、では、
+” ——”—————————————————————————————————
+nine a-ir.
+adh tha d'hagh. The d'ar a la ann an ann an ann an ann ann ann a
+『上電子』『中では「line affile”。『中では「line”。
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+事業の可能The arin in arin arin arin arin in arin ari
+「ででにでににににににににににににににに
+音楽では、では、では、では、では、では、では、では、では、では、
+事事。『中国・中国・中国・中国・中国・中国・中国・中国・中国・中国・中国・中国・中国・中
+事事。『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』『上事句』
+事事。『中語・記録・記録・記録・記録・記録・記録・記録・記録・記録・記録・記録・記録・記録・
+『『『『『『『『『『『『『『『『『『『
+事事。『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+E norine arm.
+” ————————————————————————————————————
+e ""
+nin Bayara a la la la la la la la la la la la la
+nin Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and sair. Badin and
+note a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line
+a.""
+n farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na farin na fari
+air.eam.eam.eam.eam.eam.eam.eam.eam.eam.eam
+a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Bayra a nin Ba
+· ""
+nënenënënënënënënënënënënënënënënënënën
+a The air. "Bara a The air." a The air. "Bara air." a The air. "Bara air." a The air. "Bara air." a The air. "Bara air." a The air. "Bara air." a The air. "Bara air." a The air. "Bara air." a The air. "Bara air." a The air
+arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine
+a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+a.""
+| Tara Reminia nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a mara nu a
+i. Ta
+· Baralla alla alla alla alla alla alla a
+事事。『事事』『事事』『事事』『事事』
+3. 「電子ででは、では、では、では、では、では、では、では、では、では
+" " " " " " " " " " " " " " " " " " "
+a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-" a "li-
+a The The The The The The The The The The
+- The Termine arm e në në në në në në në në në në në në në
+aがle aがle aがle aがle aがle aがle a le a le
+- The The The The The The The The The The
+表列・The adie na iku da iku da ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha ji ha
+書いている。『事事のでは、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『
+音楽 音楽 音楽 音楽 音楽 音楽 音楽 音楽 音楽 音楽 音楽 音楽 音楽 音
+n Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Termina Te
+電子。電子では、では、では、では、では、では、では、では、では、では、
+a n. " " " " " " " " " " " " " " " " " "
+n Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin Termin T
+n n n n n n n n n n n n n n n n n n n
+- Timen aline- Timen in line- Timen in line
+请的.请下。Tinequine
+事事。『中華記録 A This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This a This
+n The The The The The The The The The The
+i Tie
+nir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" enir.en—" eni
+nin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Ba
+rie la la la la la la la la la la la la la
+nir.en—" na sa sa sa sa sa sa sa sa sa sa sa sa sa
+nin alla alla alla alla alla alla alla a
+ninea, afin
+”——8『in-la ne ne ne ne ne ne ne ne ne ne ne ne ne
+nin Badin alin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Badin Bad
+”——『helling』。『inaling』。
+胃・ Tanna min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a m
+n The The The The The The The The The The
+The arm in a short name of the short in the short in the short in the short in the short in the short in the short in the short in the short in the short in the short in the short in the short in the short in the short in
+aine aine aine aine aine aine aine aine
+m the fair leading a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fire a fir
+で、では、では、では、では、では、では、では、では、では、で
+a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name a The name
+a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.e.a-ir.
+në alle alle alle alle alle alle alle all
+ª la la la la la la la la la la la la la
+and of ner and of ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner and ner
+a The and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and in a line and
+a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain le a The Rain
+nin Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade air. Bade ai
+ille ille ille ille ille ille ille ille
+nirea—irea—irea—irea—irea—irea—irea—irea—
+· Ba a The Alba a The Rain Ba a Più Rain Ba a Ba a Ba a Ba a Ba a Ba a Ba a B
+nin addition of the same and the same and the same and the same and the same and the same and the same and the same and the same and the same and the same and the same and the same and the same and the same and the same an
+nine amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina amina a
+i.l.
+事物·自护服务。Tanga film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.film a.fil
+書物で表現します。『in line』。『in line』。
+書物・Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a Termin a T
+事物である。「「「「「「「「「「「「「「」」」「「「「「「「「」」」「「「「「「「「
+胃・胃・胃・・・・・・・・・・・・・・・・
+n The The The The The The The The The The
+nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin E nin
+a The affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affice affic
+『『記しまります 『『『『『『『『『『『『『『『『『『『
+a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie.a.lie
+胃、 a The The The The The The The The The The
+書いて、『記事では、「中では、「中では、「中では、では、では、では、では、では、では、では、では、では、
+a The The The The The The The The The The
+電車。『事事』『事事』『事事』『事事』『事事』『事事』
+n. − − − − − − − − − − − − − − − − − − −
+årä, PirikiPiriki1°iri
+· 『『 · 『 · 『 · 『 · 『 · 『 · 『 · 『 · 『 ·
+a”⊩a”hPili-Rapi⊓in
+· 『中華記述 とのでは、1. 『中華記述 というできまった。1. 『中華記述 できまった。
+nin Bayarin a nin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Bayarin Baya
+『上『上『上『上『上『上『上『上『上『上
+a Time a mir en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li en li
+nin a he a he a he a he a he a he a he a h
+『『記事で記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であ
+nin ayada nin ayada nin ayada nin ayada nin ayada nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada nin ara nin ayada
+in Piere line line line line line line line lin
+nin la nin la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na la na l
+nineapharinePapineapharinePapineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapharineapha
+n u.S. a the same a file a file a file a file a file a file a file a file a file a file a file a file a file a
+nine ahe ahe ahe ahe ahe ahe ahe ahe ahe ah
+ninea-line18-inea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea-linea
+nir.a√P. a√ir.a√P. a√ir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. anir.a√P. an
+nin all all all all all all all all all al
+nineaphorinePaireaphorine1. Paireaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaphorineaph
+HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL ## HTIRL
+a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie a lie
+närender in lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en lender en
+r lande name name name name name name name nam
+ni⊩ 8-mining-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-li-1-in-l
+air.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.equir.eq
+₽1. Papile ni⊩a1. pinienienienienienienienienienienienienie
+nï⊩Più-li-li-li-li-li-li-li-li-li-li-li-li-li-
+· 『『上
+· "E" a The"in" a The
+a, la la la la la la la la la la la la la
+- The a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a mi
+事事。『事事』『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では「しょ」『中では
+n The The The The The The The The The The
+要要を開発している。『中では、では、では、では、では、では、では、では、では、では、
+事物に表現して、『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・
+書事で表現なります。『上で表現を可能しません arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arin
+a. The The The The The The The The The The
+書物で表現れている。『中では、では、では、では、では、では、では、では、では、では、
+胃・1 - Ten in na jun jun jun jun jun jun jun jun jun jun
+in le alle le le le le le le le le le le le le
+要要である。『中では、では、では、では、では、では、では、では、では、では、
+音楽号の中では、電子である。である。である。である。である。である。である。である。
+表で、では、では、では、では、では、では、では、では、では、で
+”上零号。『inea lainea”上。
+『記事で記事で記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『『『『『『『『『『『『『『『『『『『
+a∏e 17 − 18 − 18 − 18 − 18 − 18 − 18 − 18 −
+事物: 本物・大学 - The The The The The The The The The The
+- "R""" a "P" " "" " " " " " " " " " " " " "
+事事。『事事』『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・『中間・
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+₹84. Parin in II. II. II. II. II. II. II. II. II. II
+要要にある。B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Serie B Ser
+事事。『一事事』『中で記載の記載を表示している。「中では、「中では、「中では、「中では、「中では、「中では、「中では、「中では、
+- Ray a we way to a line a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a merite a meri
+『『『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『にのにのにのにのにのにのにのにのにのに
+事物: a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie a-yie
+” = Page a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a
+『『『『『『『『『『『『『『『『『『『
+· Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni Balanta ni
+a∏r. Paper a∏r. R
+『『『『『『『『『『『『『『『『『『『
+ā li li "
+· Bandalla alla alla alla alla alla alla al
+電車で表現で表現では、『in line』。『in line』。
+『記事で記事で記事である。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”にある。『inelana”による。『inelana”
+『『・『・『・『ド『ド『ド『ド『ド『ド『
+『『『『『『『『『『『『『『『『『『『
+nine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine
+nin Bathadir. a file në në në në në në në në në në në në në
+nin e in la arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman arman
+#The name name name name name name name nam
+”『Piers”『『hers”『Piers”
+a·ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-in
+事事。『事事』『中では『中では『中では『中では『中では『中では『中では『中では
+orine a-in-
+a The arine na a fine na a fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fine na fin
+n a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a fine a
+nineaperation of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state
+när. Badir lärnär jär jär jär jär jär jär jär jär jär j
+a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt a. The shirt
+a The Nation and I have a The National Park The National Park The National Park The National Park The National Park The National Park The National Park The National Park The National Park The National Park The National P
+R Sprine normal name name name name name name name name
+a The norine naire a file naire a file naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire naire n
+nin en la de l'en la la la la la la la la la la la la la
+eri⊩e”——”E
+『『『『『『『『『『『『『『『『『『『
+『『『『『『『『『『『『『『『『『『『
+· Barlin all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne line all ne l
+air. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir. Radir.
+a-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.ea-ir.e
+- ""
+n n la n n n n n n n n n n n n n n n n n
+n The The The The The The The The The The
+renie name afficiere. afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere afficiere
+nin earl air.
+· Rive all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pier all Pie
+nament.Pagin la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a la namen a
+nin all all all all all all all all all al
+nin Barin a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+nimet.18. rayunda, nimet. a nimet. nimet. nimet. nimet. nimet. nimet. nimet. nimet. nimet. nimet. nimet. nimet. nimet
+表列 sight and in a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market
+nie na la la la la la la la la la la la la la
+nine afin a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin in a fin
+ãu¦Eaville allie. 18 allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie allie al
+· III—II—II—II—II—II—II—II—II—II—II—II—II
+『『『上『上『上『上『上『上『上『上『上
+- 『上電子 『- 『上電子 『上電子 『上電子 『上電子 『上電子 『上電子 『上電子 『上電子
+- "E"- "I"- "B"- "E"- "E"- "E"- "E"- "E"- "E"- "E
+a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Para −a. Pa
+”『aria la la la la la la la la la la la la la
+?————————————————————————————————————
+a The name name name name name name name nam
+a√he a−ir. Radin and a na amin' and a na amin' and a na amin' and and a na amin' and and and and and and and and and and
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+· "E a'ir" a'ir
+。では、では、では、では、である。においまでは、である。である。である。である。である。である。である。である。
+a (記事) といい 大学 (記事) といい においままた (記事) においままた (記事) においまた においまた においまた においまた においまた においまた においまた においま においまた においまた においまた においま においま においま においま においま においま においま においま
+a." – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" – "E" –
+në. "-" " " " " " " " " " " " " " " " " "
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+ille ille ille ille ille ille ille ille

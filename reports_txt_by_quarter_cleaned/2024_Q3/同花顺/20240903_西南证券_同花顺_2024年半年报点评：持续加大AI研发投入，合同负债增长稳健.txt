@@ -1,89 +1,207 @@
-当前价：10291 元
-同 花 顺（300033）计算机
-目标价：12636 元（6 个月）
-持续加大AI 研发投入，合同负债增长稳健
-52 周内股价区间(元)
-1 同花顺（300033）：HithinkGPT正式发
-布，24 年业绩有望改善  (2024-03-01)
- 事件：公司发布2024 年半年报，2024H1 实现营收139 亿元，同比下滑
-55%；实现归母净利润36 亿元，同比下滑210%；实现扣非归母净利润34
-亿元，同比下降233%。单Q2 实现营收77 亿元，同比下滑105%；实现归
-母净利润26 亿元，同比下滑232%；实现扣非归母净利润25 亿元，同比下
- 广告导流业务逆势增长，收入端小幅承压。公司整体业务受市场情绪影响，
-24H1 两市总成交额合计达1003万亿元，同比下降100%。分业务来看：1）
-增值电信业务24H1实现营收77亿元，同比下滑110%。2）广告及互联网业
-务营收同比95%至35 亿元。3）软件销售及维护实现营收10 亿元，同比下
-滑72%。4）基金销售及其他业务实现营收17亿元，同比下滑49%。
- 持续加码AI 研发投入，产品竞争力不断提升。2024H1，公司毛利率为
-849%，同比下滑115pp。销售管理研发费用率分别为174% 82%
-426%，分别同比增长229pp136pp431pp。研发投入方面，公司继续加强
-人工智能技术研发，在金融资讯、金融问答、投资研究、代码生成、客户服
-务、营销推广、办公管理等业务环节均已应用生成式人工智能技术，提高服务
- 合同负债稳健增长，Q2 现金流流入降幅收窄。从现金流来看，公司上半年销
-售商品和提供劳务的现金流入达到157 亿元，同比-70%；单Q2 销售商品和
-提供劳务的现金流入达到92 亿元，同比-33%，下滑幅度较一季度（-
-117%）有所收窄。前瞻性指标来看，2024Q2 末合同负债为120 亿元，同比
-10 亿元（97%），较2024Q1 末86174 万元（77%），合同负债同环比
-增长，夯实收入增长潜力。
- 盈利预测与投资建议。考虑到公司作为金融信息服务龙头，随着市场活跃度稳
-步回升，主业将稳健增长；叠加公司AI 布局相较可比公司遥遥领先，AI 相关
-产品持续推进将打破业务边界，预计2024-2026年EPS 分别为243274311
-元，当前股价对应的PE 分别为423833 倍。公司应当享受龙头和AI 领先布
-局带来的估值溢价，给予24年52倍PE，对应目标价为12636元，维持买
- 风险提示：市场交投活跃度大幅下滑、研发进度不及预期、市场监管政策变
-动、行业竞争加剧等风险。
-归属母公司净利润（百万元）
-每股收益EPS（元）
-同花顺（300033）2024 年半年报点评
-1）增值电信服务：主要为C 端客户提供金融资讯、AI 交易工具等增值服务，以及为B
-端用户提供iFinD 金融终端和数据服务。C 端是公司的业务基石及重点技术投入领域，收入
-公式为月均日活用户数单日活价值量。受市场交易量影响短期增长略有压力；但随着
-AI 大模型持续赋能，叠加行业权益资产配置占比提升，大户趋势明显，未来单日活价值量
-有望持续提升。B 端iFinD 受Wind 持续提价影响，同时公司积极布局AI，产品力持续提升，
-市占率有望迎来加速提升。整体来看，预计2024-2026 年业务订单增速分别为-8%8%8%。
-2）软件销售及维护：主要向券商销售行情交易系统等2B 业务，信创相关投入随着金
-融信创持续深入渗透，相关系统改造升级也将带来该业务持续增长；但短期仍受下游信创
-推进节奏影响，我们预计2024-2026 年订单数量增速分别为-8%15%16%。
-3）广告及互联网业务推广服务：主要为各类机构的导流营销和开户服务，包括券商开
-户、银行信用卡、保险等，公司具备强大流量基础；叠加三方导流行业监管逐渐趋于规范
-化，行业龙头将持续受益，该业务增速有望恢复至较高水平，预计2024-2026 年订单增速
-分别为10%12%13%。
-4）基金销售及其他交易手续费：爱基金APP 功能持续完善，推出场外转场内、机构
-调研、AI 投顾等特色功能，并在投资者教育和流量转化策略上进一步改善，加速同花顺流
-量向爱基金导流，但短期仍受市场情绪影响，预计2024-2026 年订单数量增速分别为
--5%5%7%。
-基于以上假设，我们预测公司2024-2026 年分业务收入成本如下表：
-表1：分业务收入及毛利率
-同花顺（300033）2024 年半年报点评
-预计公司2024-2026 年营业收入分别为353 亿元（-09%）、389 亿元（103%）和
-432 亿元（110%），归母净利润分别为130 亿元（-70%）、147 亿元（129%）、167
-亿元（133%），EPS 分别为243 元、274 元、311 元，对应动态PE 分别为42 倍、38
-综合考虑公司所处金融信息行业与资本市场活跃度具备一定的关联性，选取同行业具
-有类似业务的东方财富和财富趋势作为可比公司。
-2024 年可比公司平均PE 为39 倍，公司PE 为42 倍，高于行业平均水平。考虑到公
-司作为金融信息服务龙头，随着市场活跃度稳步回升，主业将稳健增长；叠加公AI 布局相
-较可比公司遥遥领先，AI 相关产品持续推进将打破业务边界，公司应当享受龙头和AI 领先
-布局带来的估值溢价，给予24 年52 倍PE，对应目标价为12636 元，维持买入评级。
-同花顺（300033）2024 年半年报点评
-附表：财务预测与估值
-现金流量表（百万元）
-资产负债表（百万元）
-EBITDA销售收入
-销售商品提供劳务收到现金营业收入
-同花顺（300033）2024 年半年报点评
-诺不曾因，不因，也将不会因本报告中的具体推荐意见或观点而直接或间接获取任何形式的补偿。
-报告中投资建议所涉及的评级分为公司评级和行业评级（另有说明的除外）。评级标准为报告发布日后6 个月内的
-为基准。其中：A 股市场以沪深300 指数为基准，新三板市场以三板成指（针对协议转让标的）或三板做市指数（针
-对做市转让标的）为基准；香港市场以恒生指数为基准；美国市场以纳斯达克综合指数或标普500 指数为基准。
-非本公司签约客户，为控制投资风险，请取消接收、订阅或使用本报告中的任何信息。本公司也不会因接收人收到、
-并进行交易，还可能为这些公司提供或争取提供投资银行或财务顾问服务。
-本报告中的信息均来源于公开资料，本公司对这些信息的准确性、完整性或可靠性不作任何保证。本报告所载的
-升可跌，过往表现不应作为日后的表现依据。在不同时期，本公司可发出与本报告所载资料、意见及推测不一致的报
-告，本公司不保证本报告所含信息保持在最新状态。同时，本公司对本报告所含信息可在不发出通知的情形下做出修
-改，投资者应当自行关注相应的更新或修改。
-见均不构成对任何个人的投资建议。投资者应结合自己的投资目标和财务状况自行判断是否采用本报告所载内容和信
-息并自行承担风险，本公司及雇员对投资者使用本报告及其内容而造成的一切后果不承担任何法律责任。
-告及附录的，本公司将保留向其追究法律责任的权利。
-同花顺（300033）2024 年半年报点评
-总经理助理、销售总监
-同花顺（300033）2024 年半年报点评
+in Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+”『head a fine line”『ine”
+· Banda all na ship
+· "le" a"h"E" a"h
+e-ï-e-në-në-në-në-në-në-në-në-në-në-në-në-në-
+· 『上帝』『上帝』『上帝』『上帝』『上帝』『上帝』『上帝』『上帝』
+.『inela juine”『inela juine”
+ille
+- """ " " " " " " " " " " " " " " " " "
+『・『・『・『・『ド『ド『ド『ド『ド『ド
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+『上電子記録の記事で記載を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+· Bu all na na na na na na na na na na na na na
+arie anie anie anie anie anie anie anie an
+- 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・
+事事情報『事事情報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報
+· a.PuPin a.Pu
+· 『『 · 『 · 『 · 『 · 『 · 『 · 『 · 『 · 『 ·
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+事事では『inal noire』『inal noire』
+『『『『『『『『『『『『『『『『『『『
+- 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・
+音・『中では『中で『中で『中で『中で『中で『中で『中で『中で『中で『中で
+illa
+- 『『・『・『上間『上間『上間『上間『上間『上間
+音・電子 arin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin line nin lin
+a"⊩ "a"n "a"n "a"n "a"n "a"n "a"n "a"n "
+事事。『事事』『中では『中では『中では『中では『中では『中では『中では『中では
+音響・電子を開かれた。『上で表現を開かれた。『上で表現を開かれた。『上で表現を開かれた。
+『『『『『『『『『『『『『『『『『『『
+”——8.Pinie nine
+月記・記・記・記・記・にににににににににに
+第一条 では、1. 「ルーストーラー」「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルーストーラー」1. 「ルース
+a∏e när∥äränäränäränäränäränäränäränäränäränärä
+『上電子』『中では、では、では、では、では、では、では、では、では、では、
+事物。『事物』『中で記載を記載している。「中で記載している」
+事事。『ina Papelle”『ina Papelle”『ina Papelle”
+a"-" " " " " " " " " " " " " " " " " " "
+電車の通りを開からでは、では、では、では、では、では、では、では、では、では、
+『『記事で記載を記述と記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記
+”上等
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『上でのではではではではではではでででででででででで
+” arina arina pinie arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ari
+，
+是
+影
+影
+制
+記
+記
+形
+記
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+ara-----------------------------------
+- 『中国・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・
+。『旧で記録『旧で記録『記録
+¶ã.₽ã.
+" " " " " " " " " " " " " " " " " " "
+第一、『中で記録 The The The The The The The The The The
+- 『・『上間にでににににににににににににににににに
+· le nërPir nër nër nër nër nër nër nër nër nër në
+『『記事で記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記録を記
+端用。：：：：：：：：：：：：：：：：：：：
+· "English" a "Pies" e "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a "line" a
+事事。『上記記』『上記記』
+電車。『中では、『中では、『中では、では、では、では、では、では、では、では、では、では、
+arie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie narie
+· Barra arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ari
+引。『『記事では『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『にのにのにのにのにのにのにのにのにのに
+事事:『上『記『記『記『記『記『記『記『記『記
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+事。『上『記『上『上『上『上『上『上『上『上
+見る。『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、『上では、
+”Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+事事である。『中ではではである。である。である。である。である。である。である。である。
+事事。「事事」「事事」「事事」「事事」「事事」「事事」「事事」「
+第一条ででは、では、では、では、では、では、では、では、では、では
+i.l.
+音・『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『一直上電子』『
+。『上間・『上間・『上間・『上間・『上間・『上間・『上間・『上間・
+事。『上『上『上『上『上『上『上『上『トにりにりにりにりにりにりにりにりにりに
+- The The The The The The The The The The
+në.Pir
+· Pain Pain Pain Pain Pain Pain Pain Pain
+『『記書『記書『記書『記書『記書『記書『記書『
+事事であります。『inelana line』『inelana line』
+ille
+n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n li
+司上書
+写一个写一个写一个写一个写一个写一个写一个写一个写一。arinanananananananananananananananananan
+事事。『記書記録 a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie a Thie
+- "Relain la Pia" " " " " " " " " " " " " " " " " " "
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+書物のThe AがLaure arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine
+事。
+事。
+事。
+事。
+事。
+事。
+事。
+事。
+事。
+事。
+事。『正『『『『『『『『『『『『『『『『『『
+a"- "
+a・The The The The The The The The The The
+事事。『正事』『正事』『正事』『正事』
+a The The The The The The The The The The
+对 line arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arin
+『『記『上『上『上『上『上『上『上『上『
+事物の『記事では「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。」「記事である。にりにりにりにりにりにりにりにりにりに
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+・・・・・・・・・・・・・・・・・・・
+三『記事で記事で「記事でににににににににににににに
+事事。「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事事」「記事事にとにとににににににににににににににに
+是事情。1. “上海”，一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+電子 a Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin la Tin l
+= The The The The The The The The The The
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+事事。『正皇帝』『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+事事。1. Tanka jir
+事事。『上事』『上事』『上事』『上事』『上事』
+音・『記記に記に記ににににににににににににに
+事事。『上事句』『上事句』『上事句』
+事中 anie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na
+资量等。
+新聞 a The April Barrier and a The April Barrier and a The April Barrier and a The April Barrier and a The April Barrier and a The April Barrier and a The April Barrier and a The April Barrier and a The April Barrier
+三、The ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship a ship
+” ——”Pagin in a
+音響・『記事ではではではではではではではではではではではではではで
+事事。『中で記録を記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記述している。『中で記
+，BarilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleTilleT
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+選明 : 明子 : The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of th
+『『『記『上『上『上『上『上『上『上『上
+e Ti-
+· ""
+”——Rail—Rail—Rail—Rail—Rail—Rail—Rail—Rai
+i— "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+e "" " " " " " " " " " " " " " " " " "
+『上で記録』。『上で記録では、「中で記載である。」「中で記載である。」「中で記載である。」
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+a"le "" " " " " " " " " " " " " " " " " "
+！Page line nërLine nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line nër line n
+· ""
+" " " " " " " " " " " " " " " " " " "
+- 電子 The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a The a
+”——『Para”———————————————————————————————————
+” “『ire a ” “ ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” ” “ ” “ ” “ ” ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ” “ ”

@@ -1,5364 +1,838 @@
-Deutsche Bank 
-Markets Research 
-Rating 
-Buy 
-Asia 
-China 
-Energy 
-Chemicals 
-Company 
-Wanhua Chemical 
-Date 
-11 August 2017 
-Initiation of Coverage 
-A crown jewel in fine chemicals; 
-initiating Buy with TP RMB42.0 
-Reuters 
-Bloomberg 
-Exchange Ticker 
-600309.SS 
-600309 CH 
-SHH 
-600309 
- 
-A crown jewel in fine chemicals; initiating Buy with TP RMB42.0 
-  
-________________________________________________________________________________________________________________ 
-Deutsche Bank AG/Hong Kong 
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should 
-be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should 
-consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST 
-CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. 
-Price at 11 Aug 2017 (CNY) 
-31.44 
-Price target - 12mth (CNY) 
-42.00 
-52-week range (CNY) 
-34.71 - 19.12 
-Shanghai Composite 
-3,262 
-Vitus Leung 
-Research Analyst 
-(+852 )    2203 6158 
-vitus.leung@db.com
-Johnson Wan 
-Research Analyst 
-(+852 )    2203 6163 
-johnson.wan@db.com
-Stock data 
-Market cap (CNYm) 
-85,957 
-Market cap (USDm) 
-12,908 
-Shares outstanding (m) 
-2,734.0 
-Major shareholders 
-Wanhua 
-Industrial Group 
-(47.9%) 
-Free float (%) 
-52 
-Avg daily value traded 
-(USDm) 
-172.4 
-Source: Deutsche Bank 
-Forecasts & Ratios 
-2017E 
-2018E 
-2019E 
-EBITDA (RMB bn) 
-15.8 
-17.7 
-19.8 
-NP (RMB bn) 
-7.6 
-8.8 
-10.1 
-EPS (RMB) 
-2.79 
-3.22 
-3.68 
-Growth (%) 
-+97% 
-+15% 
-+14% 
-vs. Consensus 
-+9% 
-+14% 
-+11% 
-EV/EBITDA (x) 
-6.6x 
-5.7x 
-4.9x 
-P/E (x) 
-11.3x 
-9.8x 
-8.5x 
-P/B (x) 
-3.9x 
-3.1x 
-2.6x 
-ROE (%) 
-41% 
-35% 
-33% 
-Source: Deutsche Bank estimates 
-Key products abbreviation 
-Products 
-Full name 
-PU 
-Polyurethane 
-MDI 
-Methylene diphenyl diisocyanate 
-TDI 
-Toluene diisocyanate 
-TPU 
-Thermoplastic polyurethane 
-PC 
-Polycarbonate 
-SAP 
-Superabsorbent polymer 
-PVC 
-Polyvinyl chloride 
-VCM 
-Vinyl Chloride Monomer 
-Source: Deutsche Bank 
-Wanhua Chemical (WHC) is the biggest global methylene diphenyl 
-diisocyanate (MDI) producer with a 24% market share. Its share price has a 
-72% correlation with MDI spreads, and as  spreads have risen 165% in the last 
-12 months, the share price has risen +75%. However, we see more potential 
-share price upside as we believe the MDI upcycle will continue until 2020 on 
-slowing new capacity additions globally. We also see new product ramp-up 
-and potential asset injection as key earnings drivers. We expect WHC’s EPS to 
-achieve a 37% CAGR in 2016-19E with ROIC improving to 23% in 2017-19E. 
-Strong supply-demand supports MDI upcycle  
-In 2016-20E, we expect a 3.5% supply CAGR, below the 4.8% CAGR in 2010-
-16 when there was a big capacity increase. On the other hand, we expect 
-demand to record a healthy 5.6% CAGR during the same period, driven by 
-construction 
-materials, 
-which 
-account 
-for 
-52% 
-of 
-usage 
-globally. 
-Consequently, we expect the MDI operating rate to increase from 87% in 2016 
-to 94% by 2020. This should expand the MDI spread from RMB9,500/tonne in 
-2016 to RMB15,928/tonne in 2019E, a 19% CAGR. Other PU such as TDI also 
-will likely enter an upcycle post 2018E; we see the TDI operating rate reaching 
-89% by 2020. Conversely, with the new 300ktpa TDI line expected in 2018, we 
-project WHC’s PU volume should increase a 7% CAGR over 2016-19E. 
-Entering high-end chemicals market 
-Currently, polyurethane (PU) accounts for 55% of WHC’s revenue (71% of GP). 
-WHC has branched out to six new business units since 2015, of which TPU, 
-PC, and water-based paint are promising products, as China is still a net 
-importer of high-end TPU and PC products, and we believe water-based paint 
-will be a key beneficiary of the stricter environmental regulation. We expect 
-the revenue of the functional material and specialty chemicals segments to 
-register a 33% CAGR in 2016-19E and become a second growth driver.  
-Asset injection & new business ahead with flexible balance sheet  
-As stated by WHC, it is likely to acquire BorsodChem (BC) by Sep-2018 from 
-its parent company, Wanhua Industrial Group (WIG). BC holds a MDI/TDI/PVC 
-capacity of 240k/250k/400ktpa in Hungary. We believe this asset injection 
-would strengthen WHC’s global presence. Besides, the company is conducting 
-feasibility studies for the construction of a 1mntpa ethylene capacity and to 
-utilise its strong balance sheet (net gearing of 22%/2% in 2018E/19E). We have 
-not factored either of these events into our model currently.  
-Valuation and risks; target price RMB42.0 
-Our target price of RMB42.0 is based on 8.0x EV/EBITDA, at an 18% discount 
-to its historical average of 9.7x. We use a Gordon Growth Model, applying 
-average 2017-18E FCF growth to its EBITDA. The shares trade at 6.2x 12-
-month forward EV/EVITDA, at a 12% discount to global MDI peers and a 36% 
-discount to their historical mean. Our target price implies 4.7x 2017-18E P/B; 
-we believe the premium to global peers is justified as its ROE averaged 38% in 
-2017-18E, which is at a 137% premium over MDI peers. Key risks: fluctuations 
-in oil and chemical product prices, lower-than-expected GDP growth and 
-unexpected corporate actions with demanding valuation. More detail pp. 3-4. 
-Distributed on: 11/08/2017 17:01:07 GMT
-0bed7b6cf11c
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 2 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Model updated:09 August 2017 
-Running the numbers 
-Asia 
-China 
-Chemicals 
-Wanhua Chemical 
-Reuters: 600309.SS 
-Bloomberg: 600309 CH
-Buy 
-Price (11 Aug 17) 
-CNY 31.44
-Target Price 
-CNY 42.00
-52 Week range 
-CNY 19.12 - 34.71
-Market Cap (m) 
-CNYm 85,957
-USDm 12,908
-Company Profile 
-Wanhua Chemical Group Co. Ltd (WHC) was founded in 
-1998. The company engages in the production, sales, R&D 
-of downstream chemical products such as isocyanate, 
-polyol, and polyurethane. WHC is the largest MDI 
-producer in the world with more than 24% market shares 
-globally as of 2016. Moreover, the company started six 
-new business segments, including intermediate chemicals 
-products, polycarbonate (PC), TPU, water-based paints, 
-etc. 
-Price Performance 
-12
-16
-20
-24
-28
-32
-36
-Aug 15Nov 15Feb 16May 16Aug 16Nov 16Feb 17May 17
-Wanhua Chemical
-Shanghai Composite (Rebased)
- 
-Margin Trends 
-16
-20
-24
-28
-32
-36
-40
-15
-16
-17E
-18E
-19E
-EBITDA Margin
-EBIT Margin
- 
-Growth & Profitability 
-0
-10
-20
-30
-40
-50
-0
-10
-20
-30
-40
-50
-60
-15
-16
-17E
-18E
-19E
-Sales growth (LHS)
-ROE (RHS)
- 
-Solvency 
-0
-5
-10
-15
-20
-25
-30
-35
-0
-50
-100
-150
-200
-15
-16
-17E
-18E
-19E
-Net debt/equity (LHS)
-Net interest cover (RHS)
- 
-Vitus Leung 
-+852     2203 6158 
-vitus.leung@db.com 
-Fiscal year end  31-Dec 
-2015 
-2016 
-2017E 
-2018E 
-2019E 
-Financial Summary 
-DB EPS (CNY) 
-0.62
-1.42 
-2.79
-3.22 
-3.68
-Reported EPS (CNY) 
-0.62
-1.42 
-2.79
-3.22 
-3.68
-DPS (CNY) 
-0.17
-0.44 
-0.98
-1.29 
-1.47
-BVPS (CNY) 
-4.5
-5.7 
-8.2
-10.1 
-12.3
-Weighted average shares (m) 
-2,595
-2,595 
-2,728
-2,734 
-2,734
-Average market cap (CNYm) 
-54,994
-45,932 
-85,957
-85,957 
-85,957
-Enterprise value (CNYm) 
-81,640
-70,766 
-104,339
-100,781 
-96,112
-Valuation Metrics
-P/E (DB) (x) 
-34.2
-12.5 
-11.3
-9.8 
-8.5
-P/E (Reported) (x) 
-34.2
-12.5 
-11.3
-9.8 
-8.5
-P/BV (x) 
-3.96
-3.77 
-3.85
-3.12 
-2.56
-FCF Yield (%) 
-nm
-nm 
-10.8
-11.4 
-13.5
-Dividend Yield (%) 
-0.8
-2.5 
-3.1
-4.1 
-4.7
-EV/Sales (x) 
-4.2
-2.4 
-2.5
-2.2 
-1.8
-EV/EBITDA (x) 
-17.6
-8.7 
-6.6
-5.7 
-4.9
-EV/EBIT (x) 
-22.4
-10.8 
-8.3
-7.1 
-6.0
-Income Statement (CNYm) 
-Sales revenue 
-19,492
-30,100 
-41,398
-46,413 
-52,903
-Gross profit 
-5,872
-9,355 
-16,408
-18,549 
-20,929
-EBITDA 
-4,637
-8,108 
-15,828
-17,749 
-19,758
-Depreciation 
-934
-1,473 
-3,153
-3,390 
-3,616
-Amortisation 
-55
-73 
-174
-190 
-205
-EBIT 
-3,648
-6,562 
-12,501
-14,169 
-15,937
-Net interest income(expense) 
--841
--890 
--826
--660 
--504
-Associates/affiliates 
-0
-0 
-0
-0 
-0
-Exceptionals/extraordinaries 
-5
--74 
-0
-0 
-0
-Other pre-tax income/(expense) 
-143
-55 
-16
-18 
-19
-Profit before tax 
-2,954
-5,653 
-11,692
-13,527 
-15,452
-Income tax expense 
-675
-1,105 
-2,285
-2,644 
-3,020
-Minorities 
-670
-869 
-1,797
-2,079 
-2,374
-Other post-tax income/(expense) 
-0
-0 
-0
-0 
-0
-Net profit 
-1,610
-3,679 
-7,610
-8,804 
-10,057
-DB adjustments (including dilution) 
-0
-0 
-0
-0 
-0
-DB Net profit 
-1,610
-3,679 
-7,610
-8,804 
-10,057
-Cash Flow (CNYm) 
-Cash flow from operations 
-4,021
-4,602 
-12,538
-13,417 
-15,171
-Net Capex 
--9,050
--5,097 
--3,300
--3,600 
--3,600
-Free cash flow 
--5,029
--495 
-9,238
-9,817 
-11,571
-Equity raised/(bought back) 
-0
-0 
-2,500
-0 
-0
-Dividends paid 
--2,851
--1,866 
--3,489
--4,181 
--4,527
-Net inc/(dec) in borrowings 
-7,706
-3,607 
--4,893
--2,652 
--2,214
-Other investing/financing cash flows 
-180
--179 
-0
-0 
-0
-Net cash flow 
-6
-1,068 
-3,356
-2,984 
-4,830
-Change in working capital 
--1,079
--69 
--1,020
--1,705 
--1,586
-Balance Sheet (CNYm) 
-Cash and other liquid assets 
-2,066
-1,987 
-5,343
-8,327 
-13,157
-Tangible fixed assets 
-20,046
-28,468 
-28,902
-28,879 
-28,518
-Goodwill/intangible assets 
-2,530
-2,889 
-3,135
-3,402 
-3,654
-Associates/investments 
-186
-363 
-363
-363 
-363
-Other assets 
-22,976
-17,058 
-19,191
-22,215 
-24,650
-Total assets 
-47,804
-50,765 
-56,934
-63,187 
-70,343
-Interest bearing debt 
-25,646
-23,672 
-18,779
-16,127 
-13,913
-Other liabilities 
-7,335
-8,759 
-10,578
-12,122 
-13,083
-Total liabilities 
-32,981
-32,431 
-29,357
-28,248 
-26,996
-Shareholders' equity 
-11,571
-14,822 
-22,268
-27,551 
-33,585
-Minorities 
-3,252
-3,512 
-5,309
-7,387 
-9,762
-Total shareholders' equity 
-14,823
-18,334 
-27,577
-34,938 
-43,347
-Net debt 
-23,580
-21,685 
-13,436
-7,800 
-756
-Key Company Metrics 
-Sales growth (%) 
-nm
-54.4 
-37.5
-12.1 
-14.0
-DB EPS growth (%) 
-na
-128.6 
-96.7
-15.4 
-14.2
-EBITDA Margin (%) 
-23.8
-26.9 
-38.2
-38.2 
-37.3
-EBIT Margin (%) 
-18.7
-21.8 
-30.2
-30.5 
-30.1
-Payout ratio (%) 
-26.9
-31.0 
-35.0
-40.0 
-40.0
-ROE (%) 
-14.5
-27.9 
-41.0
-35.3 
-32.9
-Capex/sales (%) 
-46.4
-17.1 
-8.0
-7.8 
-6.8
-Capex/depreciation (x) 
-9.2
-3.3 
-1.0
-1.0 
-0.9
-Net debt/equity (%) 
-159.1
-118.3 
-48.7
-22.3 
-1.7
-Net interest cover (x) 
-4.3
-7.4 
-15.1
-21.5 
-31.6
-Source: Company data, Deutsche Bank estimates 
- 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 3
- 
- 
- 
-Investment thesis 
-Outlook 
-The MDI industry has very high technical and capital barriers and, hence it is a 
-highly concentrated market. In 2016, global MDI capacity amounted to 
-7.4mntpa, with the top five producers controlling c.77% of total capacity. 
-According to IHS, WHC ranks No. 1 among global MDI producers with a total 
-capacity of 1.8mntpa (24% of global market share). 
-MDI upcycle to continue until 2020E and new capacity in TDI 
-WHC benefits most from MDI improvement, in our view. We estimate MDI 
-demand will outpace capacity growth and the utilisation rate should reach 94% 
-by 2020E vs. 87% in 2016. We expect global MDI demand to record a 5.6% 
-CAGR in 2016-2020E, outpacing capacity expansion with a CAGR of 3.5%. We 
-see slowing MDI supply growth due to: 1) shutdowns of outdated production 
-facilities (including Korea, Japan, Spain, etc.); and 2) lack of capacity additions 
-in Asia; the only large new capacity would be Sadara Chemical, with a 400ktpa 
-capacity in the Middle East in 2018E. We expect WHC’s MDI spread to expand 
-to RMB15,928/tonne in 2019E, a 19% CAGR over 2016-19E.  
-New material production becoming new growth engine 
-With a more diversified product portfolio going forward, we believe this would 
-enable WHC to become less sensitive to the MDI cycle. We expect functional 
-material & specialty chemicals revenue to surge a 33% CAGR over 2016-19E. 
-Among the new products, thermoplastic polyurethane (TPU), polycarbonate 
-(PC), and water-based paint are the three most promising products.  
-Unlocking value & potential corporate actions 
-We estimate WHC’s net gearing should drop to 49% in 2017E vs. the 5-year 
-average of 126%. With strong cash flow ahead, WHC would become almost 
-net cash (without new investment) by 2019E. Also, we believe WHC’s healthy 
-balance sheet should enable it to acquire Wanhua Industrial Group’s (WIG) 
-stake in BorsodChem (BC), which has a MDI/TDI/PVC capacity of 240k/250k/ 
-400k-tpa in Hungary. This would strengthen WHC’s global presence, although 
-valuation is an uncertainty. Besides, WHC plans to build a 1mntpa ethylene 
-cracker capacity in Shandong, which will further its vertical integration. 
-Valuation 
-We derive WHC’s target price of RMB42.0/share by using 8.0x EV/EBITDA 
-based on the Gordon Growth Model, at an 18% discount to its historical 
-average of 9.7x. Our target price implies 4.7x 2017-18E P/B, which is 53% 
-higher than its +1 SD of historical mean P/B. 
-Risk 
-Key risks include: 1) slower-than-expected demand growth in the consumer 
-market, which is the main source of downstream demand for MDI, TPU, and 
-PC; 2) slower-than-expected energy price recovery; 3) slower-than-expected 
-ramp up in TPI capacity; and 4) any unexpected corporate actions with 
-demanding valuation. 
-Figure 1: 2016 MDI capacity shares 
-by stake 
-Wanhua
-24%
-BASF SE
-21%
-Covestro
-19%
-Huntsman Group
-13%
-Dow
-9%
-TOSOH
-5%
-BorsodChem *
-4%
-Others
-5%
- 
-Source: IHS, Deutsche Bank; Note: * - BorsodChem owned by 
-Wanhua’s parent company 
-Figure 2: WHC revenue breakdown 
-2016 
-PU, 55%
-Petrochemicals, 
-27%
-Functional 
-materials, 4%
-Special 
-chemicals, 
-5%
-Others, 8%
-Non-
-Core, 
-1%
-Source: Deutsche Bank estimates 
-Figure 3: Global MDI operating rate 
-70.0%
-73.0%
-76.0%
-79.0%
-82.0%
-85.0%
-88.0%
-91.0%
-94.0%
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-MDI Operating rate
-Source: Deutsche Bank estimates; Note: effective utilization rate 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 4 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Valuation 
-What next? More potential upside yet to price in 
-WHC share prices have almost doubled in the past 12 months, but we see 
-more upside considering: 1) MDI upcycle likely to continue until 2020E; 2) new 
-capacity to start in 2018E; and 3) new product ramp-up, plus potential asset 
-injection and new business plan. We believe past share price performance has 
-not fully reflected the strong improvement in free cash flow and return on 
-assets. We expect WHC’s EPS to achieve a 37% CAGR in 2016-19E with ROIC 
-improving to an average of 23% in 2017-19E from 15% in 2016.  
-Figure 4: WHC EV/EBITDA vs MDI spreads 
-Figure 5: EV/EBITDA vs ROIC 
-4.0x
-6.0x
-8.0x
-10.0x
-12.0x
-14.0x
-16.0x
-0
-5,000
-10,000
-15,000
-20,000
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-Spreads (MDI-Aniline), RMB/ton
-EV/EBITDA (RHS)
-TP : 8.0x
- 
-4.0x
-6.0x
-8.0x
-10.0x
-12.0x
-14.0x
-16.0x
-18.0x
-6%
-11%
-16%
-21%
-26%
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-ROIC (%)
-EV/EBITDA (RHS)
-TP : 8.0x
-Source: WIND, Bloomberg Finance LP, Deutsche Bank estimates 
-Source: WIND, Bloomberg Finance LP, Deutsche Bank estimates 
-WHC trades at 10.3x and 6.2x average 2017-18E P/E and EV/EBITDA, at a 
-discount of 19% and 12%, respectively, to global MDI peers, but its 2017-18E 
-P/B of 3.4x is at an 86% premium over global MDI peers. In our view, WHC 
-deserves to trade at a premium to peers given its superior ROE (137% higher 
-than peers) and strong free cash flow yields.  
-We derive our target price using the Gordon Growth Model. Our target price 
-RMB42.0/share is based on 8.0x EV/EBITDA, using 2017-18E FCF to its 
-EBITDA. This implies an 18% discount to its historical average EV/EBITDA of 
-9.7x while we expect its FCF to improve at a 12% CAGR in 2016-19E, much 
-better than in the previous MDI upcycle when WHC’s FCF stream was in a 
-deficit. Our EV/EBITDA-based TP is at a 7% discount to the DCF model 
-theoretical price. 
-Figure 6: WHC EV/EBITDA vs  FCF/EBITDA ratio 
-4.0x
-6.0x
-8.0x
-10.0x
-12.0x
-14.0x
-16.0x
--1.5x
--1.0x
--0.5x
-0.0x
-0.5x
-1.0x
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-FCF/EBITDA (forward)
-EV/EBITDA (RHS)
-TP : 8.0x
-Source: Bloomberg Finance LP, Deutsche Bank estimates 
-There is more potential  
-upside due to higher MDI 
-prices and larger volume 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 5
- 
- 
- 
-In our opinion, EV/EBITDA is a better methodology than DCF to value WHC 
-because: 1) it addresses free cash flow situation changes as WHC’s heavy 
-investment cycle has already passed; 2) it addresses the petrochemical 
-business cyclical; and 3) is in-line with our regional petrochemical company 
-valuation methodology. We cross check our valuation with a DCF below. 
-Figure 7: Target price methodology - EV/EBITDA vs DCF model 
-TP multiples
-2017E
-2018E
-2017-18E Average
-DCF Model
-EV/EBITDA: [(FCF/EBITDA) x (1+g) ]/ [WACC-g]
-WACC
-9.4%
-Cost of Equity
-Cost of Debt
-Terminal growth
-2.0%
-2.0%
-Debt/Total Capital
-20%
-Risk-free Rate
-3.9%
-Pre-tax Cost of Debt (a
-6.0%
-WACC
-9.4%
-9.4%
-Terminal growth
-2.0%
-Equity Risk Premium
-5.6%
-Tax Rate
-25.0%
-FCF (RMB bn)
-9.2
-9.8
-Company Beta
-1.20
-After-tax Cost of Debt
-4.5%
-EBITDA (RMB bn)
-15.26
-17.50
-Cost of Equity
-10.6%
-EV/EBITDA target
-8.3
-7.7
-8.0
-NPV for CashFlow
-RMBmn
-69,738
-Terminal growth
-RMBmn
-70,138
-Enterprise value
-RMB mn
-127,405
-135,393
-131,738
-Net (debt) / cash
-RMBmn
-(10,618)
-Net Debt/ (Cash)
-RMB mn
-13,436
-7,800
-10,618
-Minority interest
-RMBmn
-(6,348)
-MI
-RMB mn
-5,309
-7,387
-6,348
-Equity value
-RMBmn
-122,911
-Equity value
-RMB mn
-108,661
-120,205
-114,773
-DCF / share
-RMB
-45.0
-No. of Existing Shares (mn)
-2,734
-Target Price
-39.7
-44.0
-42.0
-Discount to DCF
--7%
- 
-Source: Deutsche Bank estimates 
- 
-Figure 8: Share price performance, ROIC, and key events  
-5%
-10%
-15%
-20%
-25%
-5
-10
-15
-20
-25
-30
-35
-40
-45
-Jan-11
-Apr-11
-Jul-11
-Oct-11
-Jan-12
-Apr-12
-Jul-12
-Oct-12
-Jan-13
-Apr-13
-Jul-13
-Oct-13
-Jan-14
-Apr-14
-Jul-14
-Oct-14
-Jan-15
-Apr-15
-Jul-15
-Oct-15
-Jan-16
-Apr-16
-Jul-16
-Oct-16
-Jan-17
-Apr-17
-Jul-17
-Oct-17
-Jan-18
-Apr-18
-Jul-18
-Oct-18
-Jan-19
-Apr-19
-ROIC - RHS
-Wanhua Share Price (RMB)
-17E
-RMB
-18E
-19E
-In Feburay 2011, the 
-parent company of 
-Wanhua Chemical 
-acquired BorsodChem to 
-execute globalization 
-strategy
-In November 2014, Wanhua 
-became world's largest MDI 
-producer 
-In 2016, Wanhua 
-implemented Industrial 
-4.0 project to boost the 
-automatic levels of 
-production to achieve 
-RMB 30.1bn revenue 
-with RMB 3.68bn profit
-In July 2015, Wanhua's 
-new PDH production unit 
-began operation with 
-propylene production 
-capacity of 0.75mn 
-tonnes per year
-From April to Octorber 
-2015, Wanhua's core 
-product Polymeric MDI 
-price dropped from RMB 
-15,000 to  RMB10,000 per 
-tonne by 33% in China
-From Jan to Jul 
-2017, MDI price 
-remained at high 
-level RMB 22,000-
-26,000/tonne
-In March 2012, 15 kt per 
-year HDI plant  was 
-commissioned with world-
-class quality towards 
-diversification development
-In June 2017 , Wanhua 
-Chemical was selected into 
-the first batch A-share listed 
-companies incorporated 
-into MSCI China Index
-Source: Company data, Deutsche Bank estimates 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 6 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Key charts 
-Figure 9: MDI global operating rate (%) 
-Figure 10: TDI global capacity addition growth (%) 
-70.0%
-73.0%
-76.0%
-79.0%
-82.0%
-85.0%
-88.0%
-91.0%
-94.0%
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-MDI Operating rate
- 
-70.0%
-73.0%
-76.0%
-79.0%
-82.0%
-85.0%
-88.0%
-91.0%
-94.0%
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-TDI Operating rate
- 
-Source: IHS, Deutsche Bank estimates; Note: effective utilization rate 
-Source: IHS, Deutsche Bank estimates; Note: effective utilization rate 
- 
-Figure 11: MDI net demand growth (k tonnes) 
-Figure 12: TDI net demand growth (k tonnes) 
--300
--200
--100
-0
-100
-200
-300
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-Net demand growth
- 
- 
--300
--200
--100
-0
-100
-200
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-Net demand growth
-Source: IHS, Deutsche Bank estimates 
-Source: IHS, Deutsche Bank estimates 
- 
-Figure 13: Comps 
-DB
-Target
-10-Aug
-Mkt Cap
-Name
-Ticker
 Rating
-Price
-Shr price (USD mn)
-FY17E
-FY18E
-FY17E
-FY18E
-FY17E
-FY18E
-FY17E
-FY18E
-FY17E
-FY18E
-Wanhua Chemical
-600309.SS
-CNY
-Buy
-42.00
-33.47
-13,018
-12.0
-10.4
-4.1
-3.3
-41.0
-35.3
-2.9
-3.8
-6.6
-5.7
-China - A Share Listed
-SPC - A
-600688.SS
-CNY
-Sell
-5.30
-6.93
-9,676
-13.0
-11.2
-2.7
-2.4
-21.9
-22.5
-3.5
-4.0
-6.2
-5.2
-Oriental Energy
-002221.SZ
-CNY
-NR
-NA
-11.80
-2,815
-12.9
-9.8
-2.3
-1.8
-18.1
-19.1
-NA
-NA
-8.9
-7.4
-Cangzhou Dahua
-600230.SS
-CNY
-NR
-NA
-48.35
-1,925
-11.3
-10.8
-5.2
-3.7
-45.8
-34.6
-NA
-NA
-NA
-NA
-Satellite Petrochemic 002648.SZ
-CNY
-NR
-NA
-15.87
-2,492
-17.6
-15.0
-2.8
-2.5
-17.1
-17.3
-2.7
-3.2
-18.4
-16.3
-Luxi Chemical
-000830.SZ
-CNY
-NR
-NA
-9.20
-1,915
-16.8
-13.8
-1.4
-1.3
-8.3
-9.1
-NA
-NA
-9.7
-8.8
-Befar
-601678.SS
-CNY
-NR
-NA
-8.56
-1,492
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Jiangshan Chemical 002061.SZ
-CNY
-NR
-NA
-12.03
-1,162
-18.1
-16.6
-2.0
-1.8
-14.5
-14.0
-1.1
-1.3
-2.2
-2.0
-Skshu Paint
-603737.SS
-CNY
-NR
-NA
-56.88
-841
-30.6
-21.7
-4.6
-4.0
-16.2
-19.4
-0.6
-0.9
-23.7
-17.7
-Haiyue
-600387.SS
-CNY
-NR
-NA
-12.42
-722
-96.0
-73.4
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Hongbaoli
-002165.SZ
-CNY
-NR
-NA
-6.42
-565
-22.0
-16.3
-2.0
-1.8
-11.1
-11.3
-NA
-NA
-11.6
-8.3
-Honghui New Materia002802.SZ
-CNY
-NR
-NA
-34.78
-596
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Weighted average
-14.6
-12.2
-3.0
-2.5
-26.3
-24.1
-2.2
-2.7
-7.1
-6.0
-Wanhua Chemical vs China - A Peers
--18%
--15%
-35%
-32%
-56%
-47%
-35%
-44%
--7%
--5%
-Overseas Listed
-BASF
-BASFn.DE
-EUR
-Buy
-101.00
-79.80
-86,008
-13.8
-12.7
-2.1
-2.0
-16.0
-16.1
-4.1
-4.4
-7.9
-7.4
-Covestro
-1COV.DE
-EUR
-Buy
-85.00
-65.74
-15,647
-9.2
-9.6
-2.6
-2.2
-31.2
-24.9
-3.8
-3.7
-5.1
-5.1
-Solvay
-SOLB.BR
-EUR
-Sell
-100.00
-121.70
-14,741
-12.5
-18.0
-1.2
-1.2
-10.0
-6.7
-3.0
-3.1
-7.4
-7.6
-Arkema
-AKE.PA
-EUR
-Buy
-115.00
-93.95
-8,348
-13.9
-12.2
-1.6
-1.5
-11.7
-12.4
-2.7
-2.9
-6.8
-6.2
-Lanxess
-LXSG.DE
-EUR
-Buy
-79.00
-64.52
-6,929
-37.3
-14.9
-2.2
-2.0
-6.1
-14.2
-1.2
-1.7
-8.9
-8.4
-Synthomer
-SYNTS.L
-GBP
-Buy
-550.00
-472.90
-2,086
-23.5
-17.3
-4.3
-3.8
-19.6
-23.2
-2.6
-2.8
-12.3
-10.8
-Weighted average
-14.5
-13.1
-2.1
-1.9
-16.4
-15.9
-3.7
-3.9
-7.6
-7.2
-Wanhua Chemical vs Oversea Peers
--17%
--20%
-97%
-74%
-150%
-123%
--21%
--2%
--12%
--20%
-HK Listed
-PetroChina
-0857.HK
-HKD
-Hold
-5.51
-4.99
-209,349
-33.4
-20.5
-0.6
-0.6
-2.0
-3.1
-1.3
-2.2
-6.1
-5.7
-Sinopec
-0386.HK
-HKD
-Buy
-7.27
-5.84
-105,760
-11.3
-9.7
-0.8
-0.8
-7.4
-8.3
-4.9
-5.7
-3.6
-3.2
-CNOOC Ltd
-0883.HK
-HKD
-Buy
-11.56
-8.79
-50,207
-15.4
-13.5
-0.9
-0.8
-5.7
-6.3
-4.8
-5.2
-4.3
-3.8
-SPC - H
-0338.HK
-HKD
-Buy
-5.80
-4.69
-9,676
-7.5
-6.5
-1.6
-1.4
-21.9
-22.5
-6.0
-7.0
-6.2
-5.2
-Weighted average
-24.1
-16.2
-0.8
-0.7
-4.5
-5.5
-2.9
-3.7
-5.2
-4.7
-Wanhua Chemical vs HK Listed Peers
--50%
--36%
-447%
-356%
-814%
-541%
-0%
-4%
-28%
-21%
-Trading
-Curr
-P/E (x)
-P/B (x)
-ROE (%)
-Dvd yield (%)
-EV/EBITDA (x)
-Source: Bloomberg Finance LP, Deutsche Bank estimates; Note: Bloomberg consensus estimates for non-rated (NR) companies 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 7
- 
- 
- 
-MDI 101 
-MDI (methylene diphenyl diisocyanate) is an aromatic diisocyanate. MDI reacts 
-with polyols in the manufacturing of polyurethane. MDI is categorised as pure 
-MDI and polymeric MDI.  
- 
-Pure MDI is mainly used to produce the slurry of synthetic leather, sole 
-resin, and spandex.  
- 
-Polymeric MDI is used to produce rigid PU foam, adhesive, and 
-flexible PU foams. 
-MDI is an aromatic diisocyanate consisted of isocyanate and polyhydric 
-alcohols. MDI is the most important feedstock for the production of 
-polyurethane (PU), which is the sixth-largest plastic after polyethylene, PVC, 
-polypropylene, polystyrene and ABS. PU possesses not only the elasticity of 
-rubber but also the strength of plastic with wide applications in economic 
-activities of multiple industries including chemicals, aerospace, automobile, 
-medical treatment, etc. 
-Highly concentrated market – MDI & TDI 
-The PU industry has very high technical and capital barriers, which lead to a 
-highly concentrated market. In 2016, global MDI capacity amounted to 
-7.4mntpa, with the top five producers controlling 77% of total capacity. WHC 
-tops the list of global MDI producers with total capacity at 1.8mntpa, followed 
-by BASF, Convestro, Huntsman, and Dow with a share of 21%, 19%, 13%, 9%, 
-respectively. Likewise, in the TDI market, the top five producers control 77% of 
-total capacity. In China, the MDI market is even more concentrated with only 
-five active producers and WHC’s 1.8mntpa capacity accounts for 62% of total 
-capacity. On TDI, the China landscape is changing, with WHC entering the TDI 
-market; its new 300ktpa capacity is scheduled to start in 2018, which will 
-instantly make it a market leader with a 24% share in China. 
-Figure 15: MDI capacity landscape: Global & China 
-Figure 16: TDI capacity landscape: Global & China 
-Wanhua
-24%
-BASF SE
-21%
-Covestro
-19%
-Huntsman Group
-13%
-Dow
-9%
-TOSOH
-5%
-BorsodChem *
-4%
-Others
-5%
-Global MDI 
-landscape 2016
- 
-Wanhua
-61%
-Covestro
-16%
-BASF
-13%
-SHG Lianheng  *
-8%
-TOSOH
-2%
-China MDI landscape,
-2016
- 
-BASF
-30%
-Covestro
-25%
-BorsodChem
-8%
-Mitsui Chemicals
-8%
-Cangzhou Dahua
-6%
-Hanwha Chemical
-5%
-Fujian Dongnan Chem.
-3%
-Gansu Ying.
-3%
-Others
-12%
-Global TDI 
-landscape, 2016
- 
-Covestro
-26%
-BASF
-23%
-Cangzhou 
-Dahua
-19%
-Dongnan Chem.
-10%
-Gansu Ying.
-10%
-Others
-12%
-2016
-Wanhua
-24%
-Covestro
-20%
-BASF
-17%
-Cangzhou 
-Dahua
-14%
-Dongnan Chem.
-8%
-Gansu Ying.
-8%
-Others
-9%
-2018E
-China TDI landscape
- 
-Source: IHS, Deutsche Bank; Note: * - BorsodChem owned by Wanhua’s parent company 
-Source: IHS, Deutsche Bank; Note: * - Owned by BASF, Huntsman, SGPC, Shanghai Huayi, and 
-Shanghai Chlor-Soda Chemical  
-Figure 14: MDI production flow 
-MDA
-Phosgene
-Hydrogen
-Nitrobenzene
-Coke
-Oxygen
-Aniline
-Formaldehyde
-CO
-Chlorine
-Nitric acid
-Concentrated 
-sulfuric acid
-Pure benzene
-MDI
-Pure MDI
-Distillation 
-separation
-Polymeric MDI
-Modified MDI
-Source: Deutsche Bank 
-PU is a highly concentrated 
-market both domestically and 
-globally 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 8 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-PU continues to be key 
-earnings driver while MDI 
-outlook improving  
- 
-The PU segment (MDI + TDI) accounted for 55% of WHC’s revenue in 
-2016. We believe the positive outlook of the MDI industry aligns with 
-WHC’s future performance. 
- 
-With improvements in the global MDI utilisation rate, we expect 
-WHC’s MDI margin to expand from RMB9,500/tonne in 2016 to 
-RMB15,9288/tonne in 2019E at a 19% CAGR. 
- 
-We expect China MDI demand to register a 7.3% CAGR over 2016-
-2020, a rise of 1.9mntpa. China MDI demand is mainly driven by 
-refrigerators, construction materials, and slurry and sole resin, which 
-account for 45%, 22.5%, and 18% of total demand, respectively.  
-Formula for a bull market: steady demand growth + 
-slowing capacity additions + feedstock cost drop 
-Global MDI capacity rose at a 4.8% CAGR between 2010 and 2016. More than 
-50% of total MDI capacity is located in Asia, followed by Europe with c.30% of 
-total capacity. However, we see global capacity additions slowing down to a 
-3.5% CAGR in 2016-20E to reach 8.2mntpa by the end of 2020E. China MDI 
-capacity expanded rapidly in 2011-16 with a 16% CAGR and reached 
-c.3.0mntpa in 2016, which exceeded the global capacity CAGR of c.5%.  
-We forecast another 1.06mtpa of new capacity to come on stream between 
-2017 and 2020E globally. Also, Jilin Connell MDI plans to roll out another 
-800ktpa of new MDI capacity (c.10% of global capacity) in 2018. However, 
-considering several environmental issues, the new capacity is highly likely to 
-be deferred. Therefore, we have not included this in our expected new 
-capacity. We believe rapid MDI capacity additions should slow down starting 
-in 2017. 
-Figure 17: MDI global capacity growth (k tonnes) 
-Figure 18: MDI net demand growth (k tonnes) 
--100
-0
-100
-200
-300
-400
-500
-600
-700
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-2021E
-2022E
-China
-Rest-of-the-world
- 
--300
--200
--100
-0
-100
-200
-300
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-Net demand growth
-Source: IHS, Deutsche Bank estimates 
-Source: IHS, Deutsche Bank estimates 
- 
-Capacity addition CARG will 
-slow to 3.5% in 2016- 2020E 
-from 4.8% CAGR in 2010-
-2016. 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 9
- 
- 
- 
-Figure 19: TDI global capacity growth (k tonnes) 
-Figure 20: TDI net demand growth (k tonnes) 
--300
--200
--100
-0
-100
-200
-300
-400
-500
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-China
-Rest-of-the-world
- 
--300
--200
--100
-0
-100
-200
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-Net demand growth
-Source: IHS, Deutsche Bank estimates 
-Source: IHS, Deutsche Bank estimates 
- 
-Figure 21: Global downstream demand breakdown 2016 
-Figure 22: China downstream demand breakdown 2016 
-52%
-13%
-11%
-8%
-5%
-12%
-Construction materials
-Reaction Injection
-Molding
-Refrigerator
-CASE System
-Slurry
-Others
- 
-23%
-5%
-45%
-3%
-18%
-7%
-Constructuin Industry
-Reaction Injection
-Molding
-Refrigerator
-Packing Materials
-Size
-Others
-Source: CKNI, Deutsche Bank 
-Source: CKNI, Deutsche Bank 
-Utilisation rate picking up 
-Globally, more than 52% of MDI consumption comes from construction 
-materials, and only 13% is used in refrigerators. In China, MDI is mainly used 
-in refrigerators, construction materials, and slurry and sole resin, accounting 
-for 45%, 22.5%, and 18%, respectively. China apparent MDI demand has 
-remained largely stable at c.1.9mnt since 2013. According to China’s 13th 
-Five-Year Plan, the domestic MDI demand CAGR in 2015- 2020E is 7.3%. 
-Figure 23: China MDI key downstream products demand 
- 
-Refrigerator 
-Production 
-(k unit) 
-YoY 
-Upholstered 
-furniture    
-(k unit) 
-YoY 
-Synthetic 
-leather      
-(k tonnes) 
-YoY 
-2010 
-70,552 
-26.4% 
-47,310 
-28% 
-2,146 
-16% 
-2011 
-78,818 
-11.7% 
-42,862 
--9% 
-2,403 
-12% 
-2012 
-75,136 
--4.7% 
-42,157 
--2% 
-3,143 
-31% 
-2013 
-76,418 
-1.7% 
-42,617 
-1% 
-3,470 
-10% 
-2014 
-75,465 
--1.2% 
-52,987 
-24% 
-3,751 
-8% 
-2015 
-73,174 
--3.0% 
-53,570 
-1% 
-3,438 
--8% 
-2016 
-74,583 
-1.9% 
-58,498 
-9% 
-3,315 
--4% 
-YTD 
-39,091 
-1.0% 
-N/A 
-N/A 
-1,382* 
-13% 
-Source: WIND, Deutsche Bank 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 10 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Suffering from the rapid capacity growth over the past five years, China MDI 
-facilities’ utilisation rate dipped to c.60% in 2015, and will likely continue to 
-drop to the low-50% levels due to capacity additions in 2016. Given stable 
-demand and consumption growth, we expect utilisation to gradually recover 
-from the trough level in 2016 with few new capacity additions.  
-Figure 24: China 13th Five-Year Plan – Petrochemical and chemical 
-development guidance 
-Products (Unit : k tons)
-2015 
-Demand
-2020 Demand 
-Forecast
-Demand 
-CAGR %
-Traditional Petrochemical Products
-Ethylene (Equivalent consumptions)
-40,300
-48,000
-3.6
-Propylene (Equivalent consumptions)
-31,800
-40,000
-4.7
-Paraxylene
-20,700
-28,500
-6.6
-Methanol
-52,380
-80,000
-8.8
-Ethanediol 
-13,350
-18,500
-6.7
-Potash Fertilizer( as K2O100%)
-11,450
-13,000
-2.5
-Typical High-end Products
-Polycarbonate 
-1,670
-2,300
-6.7
-PMMA (Equivalent consumptions)
-710
-1,000
-7.2
-Ethylene-vinyl acetate (EVA)
-1,180
-1,500
-4.9
-Silastic (as Polysiloxane, recycling included)
-750
-1,500
-14.9
-Butyl rubber
-310
-480
-9.1
-Methylene diphenyl diisocyanate (MDI) 
-1,900
-2,700
-7.3
-Polytetrafluoroethylene ( PTFE)
-74
-100
-6.3
-Organic Silicon Monomer( as siloxane, recycling included)
-900
-1,560
-11.6
-Source: MIIT, Deutsche Bank 
-The rapid capacity expansion over the past four years has caused global 
-utilisation to drop continuously, from 87% to 84% in 2015. However, as we 
-expect capacity additions to slow down, we estimate utilisation will rebound to 
-87% in 2017, 90% in 2018, 90% in 2019 and 91% in 2020. TDI is in a very 
-similar situation. We expect it to witness slowing capacity additions and after 
-2018, we believe there will be a lack of new supply which should help TDI 
-utilisation gradually recover to 89% by 2020E from 83% in 2016. 
-Figure 25: MDI global operating rate (%) 
-Figure 26: TDI global capacity additions growth (%) 
-70.0%
-73.0%
-76.0%
-79.0%
-82.0%
-85.0%
-88.0%
-91.0%
-94.0%
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-MDI Operating rate
- 
- 
-70.0%
-73.0%
-76.0%
-79.0%
-82.0%
-85.0%
-88.0%
-91.0%
-94.0%
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-TDI Operating rate
-Source: IHS, Deutsche Bank estimates; Note: effective utilization rate 
-Source: IHS, Deutsche Bank estimates; Note: effective utilization rate 
- 
- 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 11
- 
- 
- 
-Margin recovering  
-Despite the relatively stable downstream demand, MDI prices, especially in 
-Asia markets, have dropped significantly since the end of 2012 till 1H 2016, 
-which is mainly due to the rapid capacity expansion. Over the past five years, 
-more than 85% of new capacity additions have come from Asian producers, 
-and China MDI capacity increased by c.400ktonne p.a. (on average), while 
-apparent demand increased by only c.100ktonne p.a. The worsened supply-
-demand dynamic depressed MDI prices as well as the MDI-benzene spread. 
-Also, MDI prices are highly sensitive to crude oil prices, as aniline is one of the 
-main raw materials.  
-Figure 27: China MDI spread 
-Figure 28: China MDI net exports data 
-0
-500
-1000
-1500
-2000
-2500
-3000
-3500
-4000
-4500
-Jan-12
-Apr-12
-Jul-12
-Oct-12
-Jan-13
-Apr-13
-Jul-13
-Oct-13
-Jan-14
-Apr-14
-Jul-14
-Oct-14
-Jan-15
-Apr-15
-Jul-15
-Oct-15
-Jan-16
-Apr-16
-Jul-16
-Oct-16
-Jan-17
-Apr-17
-Jul-17
-USD/t
-MDI-Benzene Spread
-MDI
-Benzene
- 
- 
--60%
--40%
--20%
-0%
-20%
-40%
-60%
-80%
-100%
-0
-2,000
-4,000
-6,000
-8,000
-10,000
-12,000
-Jan-12
-Jul-12
-Jan-13
-Jul-13
-Jan-14
-Jul-14
-Jan-15
-Jul-15
-Jan-16
-Jul-16
-Jan-17
-MDI Net Exports (k tons)
-YoY %
- 
-Source: WIND, Deutsche Bank 
-Source: WIND, Deutsche Bank 
-Since 2016, China MDI prices have started to recover from the trough, driven 
-by: 1) decreased MDI imports from Japan and Korea, where MDI production 
-was unstable or halted, and China polymeric MDI imports declined by 15% in 
-the past trailing 12 months; and 2) stabilized crude oil price and chemical 
-prices. In the past four years, WHC’s share price and MDI are highly correlated 
-with a 0.72 R-square efficiency. 
-Figure 29: WHC share price vs MDI spread (0.72 R2) 
-Figure 30: WHC share price correlations with key 
-products and spreads 
-0
-5,000
-10,000
-15,000
-20,000
-10
-15
-20
-25
-30
-35
-40
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-WHC Share price (RMB/share)
-MDI Spreads (RMB/ton) - RHS
- 
- 
-Series
-Series
-Correlation
-WHC Share price (RMB/share)
-vs. MDI Spreads (RMB/ton)
-0.72
-vs.
-MDI (RMB/ton)
-0.53
-vs. Benzene (US$/ton) - RHS
--0.29 
-vs. Brent (US$/bbl) - RHS
--0.38 
-MDI Spreads (RMB/ton)
-vs.
-MDI (RMB/ton)
-0.86
-vs. Benzene (US$/ton)
--0.18 
-vs. Brent (US$/bbl)
--0.32 
-MDI price (US$/ton)
-vs. Benzene (US$/ton)
-0.46
-vs.
-Brent (US$/bbl)
-0.32
-Benzene (US$/ton)
-vs.
-Brent (US$/bbl)
-0.96  
-Source: WIND, Deutsche Bank 
-Source: WIND, Deutsche Bank 
- 
- 
-MDI prices and margin are 
-surging on supply-demand 
-tightening 
-WHC share price high 
-correlation to MDI margin 
-with 0.72 R-square 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 12 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-On the other hand, WHC share price correlation with petrochemical products is 
-lower than with MDI spreads. The highest correlation with a single product is 
-the MDI price with 0.53 R-square efficiency, while the WHC share price has a 
-negative correlation with the prices of benzene / Brent oil, which are its key 
-feedstocks, at -0.29 / -0.38 R-square efficiency, respectively. 
-We believe the MDI spread is determined more by its own supply and demand 
-other than cost-push factors because its correlation with benzene and Brent oil 
-prices is only -0.18/-0.32 R-square efficiency while it has 0.86 R-square 
-efficiency correlation with the MDI price. Conversely, the MDI price has 0.46 
-and 0.32 R-square efficiency correlation with benzene and Brent prices. 
-Figure 31: WHC share price vs Benzene price (-0.29 R2) 
-Figure 32: WHC share price vs Brent price (-0.38 R2) 
-500
-700
-900
-1,100
-1,300
-1,500
-10
-15
-20
-25
-30
-35
-40
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-WHC Share price (RMB/share)
-Benzene (US$/ton)
- 
-20
-40
-60
-80
-100
-120
-140
-10
-15
-20
-25
-30
-35
-40
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-WHC Share price (RMB/share)
-Brent (US$/bbl) - RHS
-Source: WIND, Deutsche Bank 
-Source: WIND, Deutsche Bank 
-Figure 33: MDI spread vs Benzene price (-0.18 R2) 
-Figure 34: MDI spread vs Brent oil (-0.32 R2) 
-20
-40
-60
-80
-100
-120
-140
-2,000
-6,000
-10,000
-14,000
-18,000
-22,000
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-MDI Spreads (RMB/ton)
-Brent (US$/bbl) - RHS
- 
-500
-700
-900
-1,100
-1,300
-1,500
-2,000
-7,000
-12,000
-17,000
-22,000
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-MDI Spreads (RMB/ton)
-Benzene (US$/ton) - RHS
-Source: WIND, Deutsche Bank 
-Source: WIND, Deutsche Bank 
-Figure 35: MDI price vs. Benzene price (0.46 R2) 
-Figure 36: MDI price vs. Brent price (0.32 R2) 
-20
-40
-60
-80
-100
-120
-140
-1,000
-1,500
-2,000
-2,500
-3,000
-3,500
-4,000
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-MDI (US$/ton)
-Brent (US$/bbl) - RHS
- 
- 
-500
-700
-900
-1,100
-1,300
-1,500
-1,000
-1,500
-2,000
-2,500
-3,000
-3,500
-4,000
-Aug-13
-Nov-13
-Feb-14
-May-14
-Aug-14
-Nov-14
-Feb-15
-May-15
-Aug-15
-Nov-15
-Feb-16
-May-16
-Aug-16
-Nov-16
-Feb-17
-May-17
-Aug-17
-MDI (US$/ton)
-Benzene (US$/ton) - RHS
- 
-Source: WIND, Deutsche Bank 
-Source: WIND, Deutsche Bank 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 13
- 
- 
- 
-New growth engines 
-Figure 39: Key products and usages by segment 
-Category
-PU
-Petrochem
-Functional Materials
-Special Chems
-Water-based Resin
-Products
-Pure MDI
-Propylene
-TPU
-- Special Isocyanate
-PA
-Poly MDI
-Polypropylene
-SAP
-HDI
-PUA
-Modified MDI
-MTBE
-PC
-HDMI
-PUD
-Monomeric MDI
-PO
-- Thickener
-IPDI
-Vac-Veova Emulsion
-TDI
-NPG
-ASE 
-- Special Amine
-Watersolubility HPR
-Polyol
-TBA
-HASE
-MDA
-UV
-HEUR
-HMDA
-IPDA
-MDBA
-Usages
-Appliances / Cold Chain
-Commodity Chemicals
-Electronics
-Appliances / Cold Chain
-Coatings
-Elastomers
-Clothing / Footwear
-Elastomers
-Adhesives
-Electronics
-Industrial Mechanical
-Sealants
-Personal Care
-Furniture / Bedding
-Automotive
-Automotive
-Building / Construction
-Sports Goods
-Coatings
-Sealants
-Toys
-PU Wheel
-Automotive
-Adhesives
-Toys
-Coatings
-Elastomers
-Adhesives
-Adhesives
-Furniture / Bedding
-Coatings
-Personal Care
- 
-Source: Company data, Deutsche Bank 
-A more diversified portfolio ahead 
-With a more diversified product portfolio going forward, we believe it should 
-enable WHC to become less sensitive to the MDI cycle. WHC has set up six 
-new business units to further strengthen its downstream products mix. Of the 
-new products produced from these six new business units, specialty 
-polyurethane (i.e. thermoplastic polyurethane - TPU), polycarbonate (PC), and 
-water-based paint are the three most promising. TPU is facing booming 
-downstream demand due to intelligent wearable devices. PC should alleviate 
-the pressure of high dependence on imports. Water-based paint should benefit 
-from stricter environment protection laws. We expect functional materials and 
-specialty chemicals revenue to record a 33% CAGR between 2016 and 2019E. 
-TPU: expecting ascending downstream demand  
-TPU is any-of-a-class of polyurethane plastics with many properties, including 
-elasticity, transparency, and resistance to oil, grease, and abrasion. TPU has 
-many applications, including automotive instrument panels, sporting goods, 
-medical devices, drive belts, and footwear.  
-WHC’s performance material business unit is the biggest TPU manufacturer in 
-APAC with the widest product range. Out of the c.500kt total capacity of 
-China, WHC’s annual TPU production capability is 90ktpa (18%) and offers 
-high-end TPU in the market.  
-TPU is now a popular material found in outer cases of mobile electronic 
-devices. Since 2014, TPU has become a dominant material serving as a 
-wristband for the booming market of intelligent wearable devices which 
-required high-end TPU. Conversely, China has become a TPU net export 
-country since 2013 while the majority of Chinese TPU is low-end product and 
-fails to meet the increasing high-end TPU demand. We observe that Chinese 
-high-end TPU demand still relies on imports, and TPU import prices are far 
-higher than export prices. 
-Figure 37: GP breakdown in 2016 
-71%
-13%
-3%
-7%
-5%
-PU
-Petrochemicals
-Functional materials
-Special chemicals
-Others
-Source: Company data, Deutsche Bank estimates 
-Figure 38: GP breakdown in 2019E 
-76%
-10%
-7%
-5% 3%
-PU
-Petrochemicals
-Functional materials
-Special chemicals
-Others
-Source: Company data, Deutsche Bank estimates 
-Figure 40: China major TPU makers 
-Producers
-Capacity (ktpa)
-Wanhua
-90
-Zhejiang Huafeng TPU
-35
-Covestro
-30
-BASF
-30
-Dongguan Hongde
-20
-Lubrizol
-20
-Baoding Bangtai
-15
-Nanguang Light Industry
-10
-Kunsheng Composite Plastic
-10
-361° (Fujian) Sporting Goods
-10
-Source: Company data, Ningbo Petrochemical Association 
-Deutsche Bank 
-Figure 41: TPU demand breakdown 
-in 2016 
-Shoes, 
-34%
-Profile 
-application
-s, 20%
-High-end 
-handbags, 
-7%
-Inflatable 
-bag, 7%
-Others, 
-32%
-Source: Chyxx.com, Deutsche Bank 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 14 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Figure 42: China TPU net-export and prices 
-Figure 43: China TPU market size 
- (15,000)
- (10,000)
- (5,000)
- -
- 5,000
- 10,000
-0
-1,000
-2,000
-3,000
-4,000
-5,000
-6,000
-Jan-00
-Jan-01
-Jan-02
-Jan-03
-Jan-04
-Jan-05
-Jan-06
-Jan-07
-Jan-08
-Jan-09
-Jan-10
-Jan-11
-Jan-12
-Jan-13
-Jan-14
-Jan-15
-Jan-16
-Jan-17
-Import prx(US$/ton)
-Export prx(US$/ton)
-Net export (kton) - RHS  
- 
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-0
-500
-1,000
-1,500
-2,000
-2,500
-3,000
-3,500
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-TPU China Marketing size (RMB mn)
-Growth rate%
- 
-Source: WIND, Deutsche Bank 
-Source: WIND, Chyxx.com, Deutsche Bank 
-PC: WHC a landscape changer in China 
-Polycarbonate (PC) is one of the five engineering plastics. PC is widely used in 
-electronic devices, household appliances, construction materials, automobile 
-manufacturing, and medical apparatus. PC has become the most popular 
-engineering plastic with the highest growth rate.  
-PC manufacturing has very high technological barriers; therefore, the PC 
-market is highly concentrated. Covestro (27% market share) is the global 
-market leader and global capacity is at 4.7mntpa, on our estimates. Currently, 
-China PC demand highly relies on imports.  
-WHC’s new PC line is expected to come on stream in 2018E, and it will 
-instantly become the second-largest (17% of China capacity) PC producer in 
-China. The company spent about RMB1.46bn on the 200ktpa capacity after it 
-raised RMB2.5bn from a private placement in January 2017. 
-Figure 45: PC capacity landscape: Global  
-Figure 46: PC capacity landscape: China 
-Covestro
-27%
-SABIC
-23%
-Lotte
-7%
-Teijin
-6%
-Mitsubishi
-6%
-Saudi Kayan
-5%
-Formosa Idemitsu
-4%
-Others
-22%
-Global PC landscape
-2016
- 
-Covestro
-33%
-Wanhua
-16%
-Teijin
-12%
-Luxi Chem
-11%
-Zhetie Dafoon
-8%
-Hengyuan
-8%
-Others
-12%
-2018E
-Covestro
-37%
-Teijin
-22%
-Zhetie 
-Dafoon
-15%
-Mitsubishi
-12%
-Others
-14%
-2016
-China PC landscape
- 
-Source: IHS, Deutsche Bank 
-Source: IHS, Deutsche Bank estimates 
-We expect that global capacity will outgrow demand in the coming years, 
-driven by Chinese capacity additions. We expect the overall operating rate to 
-peak at 85% in 2017-18E and decline to 80% by 2020E.  
-Figure 44: PC demand breakdown 
-Electronics
-38%
-Optical 
-Disk
-15%
-Film and 
-Plate
-13%
-Household 
-Appliances
-10%
-Vehicle
-4%
-Medical/ 
-Glasses
-2%
-Others
-18%
-Source: Deutsche Bank 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 15
- 
- 
- 
-Figure 47: PC global operating rate (%) 
-Figure 48: PC global capacity growth (k tonnes) 
-65.0%
-68.0%
-71.0%
-74.0%
-77.0%
-80.0%
-83.0%
-86.0%
-89.0%
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-PC Operating rate
- 
--200
-0
-200
-400
-600
-800
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-China
-Rest-of-the-world
-Average
-Source: IHS, Deutsche Bank estimates 
-Source: IHS, Deutsche Bank estimates 
-Water-based paint: the beneficiary of the “strictest” new environmental 
-protection law 
-Compared with traditional paint, water-based paint is more environmentally 
-friendly and cost efficient. In the global market, water-based paint has 
-surpassed traditional paint; it accounted for c.44% of the total paint 
-consumption in 2014. In China, the consumption of water-based paint used in 
-construction materials and automobile paint is growing rapidly, accounting 
-c.48%.  
-Water-based paint should benefit from stricter environment protection laws. 
-We expect the revenue of main business including MDI and the new chemical 
-products to see a CAGR of 21% in 2016-19E. As MDI only accounts for 41.7% 
-of the growth rate, we estimate the rest will come from new chemical 
-products and other core business segments including functional materials and 
-special chemicals. 
-Since 2015, there has been a paint tax of 4% under the new environment 
-protection law. However, paint with Volatile Organic Compounds (VOC) of less 
-than 420g/L will be waived from the paint tax. The 13th Five-Year Plan (2016-
-2020) petrochemical and chemicals development guidance also notes that 
-producers should facilitate the R&D and promotion process of environmentally 
-friendly 
-paints 
-and 
-efficiently 
-control 
-the 
-VOCs. 
-Being 
-the 
-most 
-environmentally friendly paint, water-based paint should be one of the main 
-beneficiaries of the “strictest” environment protection law as well as the 
-development guidance. 
-Figure 50: Water-based paint – main advantages  
-Advantages
-Content
-Environmental advantages
-The traditional solvent based paint has volatile organic compounds (VOC), which will cause pollution to atmosphere 
-environment. Long-term exposure to high VOC environment places people at serious risk of cancer. By contrast, water-
-based paints have zero emissions of VOC.
-Economic advantages
-Solvent based paints represent 75% of total 15 million tons industrial paints. If 50% will be replaced by water-based paints, 
-RMB15bn will be saved.
-Policy guidance advantages
-Since Feb. 1st, 2015, the government has levied 4% of consumption tax on coatings, with the exception of VOC lower than 
-420g/L in the construction process.
-Other advantages
-The inflammable and explosive problem during transportation, construction and production can be solved completely as 
-the dominating part is water.
- 
-Source: Deutsche Bank 
-Figure 49:  China water-based paint 
-demand 
-Building 
-(water-
-based)
-39%
-Industrial 
-Protection
-10%
-Building 
-(solvent)
-9%
-Carpentry
-9%
-Vehicle
-9%
-Powder
-9%
-Vessel
-5%
-Coiled 
-material
-2%
-Others
-8%
-Source: Company data Deutsche Bank 
-Water-based paint will benefit 
-from the stricter environment 
-protection law. 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 16 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Unlocking value & 
-potential corporate actions 
-WHC improved its balance sheet via issuance of 158mn new shares to repay 
-debt and set up new business in 2016. WHC’s net gearing should cut to 49% 
-in 2017E from 118% in 2016. All of WHC’s debt is in bank loans after repaying 
-the corporate bond in 2015. We expect that WHC’s net interest expense 
-should decrease to RMB504mn in 2019E from RMB890mn in 2015.  
-Moreover, as mentioned during public management meetings, the company is 
-likely to acquire WIG’s stake in BC by September 2018 which has a 
-MDI/TDI/PVC capacity of 240kpta / 250ktpa / 400ktpa in Hungary. Besides the 
-benefit of having instant capacity expansion, we believe the planned asset 
-injection could strengthen WHC’s global presence although valuation is an 
-uncertainty. Nowadays, MDI / TDI / PVC constructions usually cost about 
-RMB1.9bn / RMB2.1bn / RMB0.4bn for a 100ktpa of capacity. The overall 
-replacement cost for such capacity would be near RMB11.4bn. 
-Figure 52: China key projects capex per tonne since 2011 
-Total CAPEX
-Capacity
-Average CAPEX
-RMB mn
-ktons
-RMB mn/k tons
-MDI CAPEX
-Huntsman Shanghai
-Jun-16
-5,100
-240
-21.3
-BASF Chongqing
-Apr-15
-8,000
-400
-20.0
-Covestro Shanghai
-Jun-14
-5,000
-350
-14.3
-Huntsman Shanghai
-May-14
-4,660
-240
-19.4
-Total/Average
-18.7
-TDI
-Fujian Petrochemical
-Apr-17
-3,930
-200
-19.7
-BASF Germany
-Nov-15
-7,867
-300
-26.2
-Cangzhou Dahua
-Jun-12
-1,970
-100
-19.7
-Cangzhou Dahua
-Dec-11
-1,196
-70
-17.1
-Total/Average
-20.7
-PVC CAPEX
-Xinjiang Chengxuan
-Apr-17
-559
-100
-5.6
-Weinan Government
-May-16
-1,200
-300
-4.0
-Tangshan Government
-Jun-15
-300
-100
-3.0
-Yibing Jiangan
-Oct-14
-100
-20
-5.0
-Total/Average
-4.4
-Company
-Announcement 
 Date
-Source: Deutsche Bank  
-BC’s MDI and TDI capacity is equivalent to 13% / 83% of WHC 2018E capacity. 
-Our sensitivity analysis suggests BC has the potential to bring another 17% of 
-EBIT to WHC, assuming BC achieves a 75% utilisation rate with gross margins 
-of MDI / TDI similar to those of WHC, a PVC margin of USD240/tonne and its 
-operating expenses per unit doubles that of WHC. We have not factored any 
-potential acquisition in our model. 
-Besides, the company is conducting feasibility studies for constructing a 
-1mntpa ethylene capacity in Shandong, to utilise its expected net cash balance 
-sheet. We estimate WHC will reach close to net cash by 2019 and the potential 
-1 mntpa ethylene project will cost about USD4bn (RMB32bn in 2019E based 
-on our USD/RMB exchange rate forecast). If all these projects are realised by 
-2019E, assuming acquiring BC at market replacement cost and new ethylene 
-capex spend across 2019E-2022E, we estimate WHC’s net gearing would jump 
-Figure 51: Interest coverage and net 
-gearing 
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-140%
-160%
-180%
-0.0
-5.0
-10.0
-15.0
-20.0
-25.0
-30.0
-35.0
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019
-Interest coverage ratio (LHS)
-Net gearing / (net cash ratio)
-Net gearing including (potential proijects)
-Source: Company data, Deutsche Bank estimates 
-Even with all projects 
-realised, WHC’s net gearing 
-level would still be under 50% 
-by 2019E 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 17
- 
- 
- 
-to c.46% by the end of 2019. Hence, we see <50% of net gearing level as low 
-risk for further equity raising.  
-Sensitivity analysis 
-WHC’s earnings and target price are sensitive to MDI prices. Our sensitivity 
-analysis suggests for each 5% change in the MDI price, 2017E EPS would 
-change by 9%, and our target price would change by 10% correspondingly. 
-The earnings and target price sensitivity beta to MDI is c.1.8-2.0x. WHC’s 
-earnings and target price are also sensitive to the benzene price which is the 
-biggest cost factor for WHC. For each 5% change in the benzene price, 2017E 
-EPS and target price would change by 3% and 4%, respectively.  
-Figure 53: TP scenario analysis (RMB/tonne) 
-Figure 54: TP scenario analysis (RMB/tonne) 
-MDI price
-EPS (RMB/share)
-2017E
-2018E
-2019E
-Price Target (RMB/share)
--10%
-2.27
-2.65
-3.01
-34.0
--5%
-2.53
-2.93
-3.34
-38.0
-Base case
-2.79
-3.22
-3.68
-42.0
-5%
-3.05
-3.51
-4.01
-46.0
-10%
-3.31
-3.80
-4.35
-49.9
-Every +/- 5% change
-9%
-9%
-9%
-10%
- 
- 
-Benzene price
-EPS (RMB/share)
-2017E
-2018E
-2019E
-Price Target (RMB/share)
--10%
-2.98
-3.47
-3.99
-45.4
--5%
-2.88
-3.34
-3.83
-43.7
-Base case
-2.79
-3.22
-3.68
-42.0
-5%
-2.70
-3.10
-3.52
-40.3
-10%
-2.60
-2.97
-3.37
-38.5
-Every +/- 5% change
-3%
-4%
-4%
-4%
-Source: Deutsche Bank estimates 
-Source: Deutsche Bank estimates 
-WHC’s target price is more sensitive to the MDI price than the Benzene price. 
-According to our scenario analysis, if the MDI price increases by 15% and the 
-benzene price decreases by 15%, this would raise our target price by 41% to 
-RMB59. On the other hand, if the MDI price goes down by 15% and the 
-benzene price increases by 15%, our target price would fall 41% to RMB24.9. 
-These scenarios are more favorable to the upside comparison. 
-Figure 55: TP scenario analysis (RMB/tonne) 
-Figure 56: TP scenario analysis (RMB/tonne) 
-RMB/sh
-42.0
--15%
--10%
--5%
-0%
-5%
-10%
-15%
-15%
-24.9
-28.8
-32.8
-36.8
-40.8
-44.8
-48.7
-10%
-26.6
-30.6
-34.5
-38.5
-42.5
-46.5
-50.5
-5%
-28.3
-32.3
-36.3
-40.3
-44.2
-48.2
-52.2
-0%
-30.0
-34.0
-38.0
-42.0
-46.0
-49.9
-53.9
--5%
-31.8
-35.7
-39.7
-43.7
-47.7
-51.7
-55.7
--10%
-33.5
-37.5
-41.4
-45.4
-49.4
-53.4
-57.4
--15%
-35.2
-39.2
-43.2
-47.2
-51.1
-55.1
-59.1
-Benzene price
-MDI Price
-TP sensitivity
- 
-%
--15%
--10%
--5%
-0%
-5%
-10%
-15%
-15%
--41%
--31%
--22%
--12%
--3%
-7%
-16%
-10%
--37%
--27%
--18%
--8%
-1%
-11%
-20%
-5%
--33%
--23%
--14%
--4%
-5%
-15%
-24%
-0%
--29%
--19%
--10%
-0%
-10%
-19%
-28%
--5%
--24%
--15%
--5%
-4%
-14%
-23%
-33%
--10%
--20%
--11%
--1%
-8%
-18%
-27%
-37%
--15%
--16%
--7%
-3%
-12%
-22%
-31%
-41%
-Benzene price
-TP sensitivity
-MDI Price
- 
-Source: Deutsche Bank estimates 
-Source: Deutsche Bank estimates 
-Consensus 
-Our estimates are slightly higher than Bloomberg Finance LP consensus 
-estimates by 9-11%. We believe this is mainly due to our constructive view on 
-the MDI price trend. 
-MDI price has more influence 
-than Benzene price on WHC’s 
-share price  
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 18 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Figure 57: Share price vs consensus EPS movement 
-Figure 58: DB EPS estimates vs. consensus estimates 
-5
-15
-25
-35
-45
-1.0
-1.5
-2.0
-2.5
-3.0
-Apr-16
-May-16
-Jun-16
-Jul-16
-Aug-16
-Sep-16
-Oct-16
-Nov-16
-Dec-16
-Jan-17
-Feb-17
-Mar-17
-Apr-17
-May-17
-Jun-17
-Jul-17
-Aug-17
-2017E Consensus EPS
-2018E Consensus EPS
-WHC share price (RHS)
- 
-RMB/share
-2017E
-2018E
-2019E
-DB estimates
-2.79
-3.22
-3.68
-Bloomberg Consensus
-2.55
-2.83
-3.32
-Variance
-9%
-14%
-11%  
-Source: Bloomberg Finance LP, Deutsche Bank 
-Source: Bloomberg Finance LP,  Deutsche Bank 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 19
- 
- 
- 
-Valuation charts 
-WHC is trading at 3.4x forward P/B, higher than +1SD of the historical average 
-of 3.1x. We believe it is not fully reflecting a ROE rerating potential, which we 
-expect to reach 41% in 2017E.  
-On the other hand, the 6.2x forward EV/EBITDA is 36% below its historical 
-average of 9.7x or 3% below -1 SD of the historical average of 6.4x. Moreover, 
-the current trading multiple of 10.3x forward P/E is an 8% discount to its 
-historical average P/E.  
-Figure 59: 12-month forward P/E 
-Figure 60: 12-month forward EV/EBITDA 
-5.0x
-10.0x
-15.0x
-20.0x
-25.0x
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-P/E 10.3x
-Average 11.2x
-+1SD 15.6x
--1SD
-6.7x
- 
-4.0X
-6.0X
-8.0X
-10.0X
-12.0X
-14.0X
-16.0X
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-EV/EBITDA 6.16x
-Average 9.68x
-+1SD 12.97x
--1SD    6.39x
-Source: Company data, Bloomberg Finance LP, Deutsche Bank estimates  
-Source: Company data, Bloomberg Finance LP, Deutsche Bank estimates 
- 
-Figure 61: 12-month forward P/B band 
-Figure 62: 12-month forward P/B 
-5.0
-10.0
-15.0
-20.0
-25.0
-30.0
-35.0
-40.0
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-Price
-2.5X
-3.0X
-3.5X
-4.0X
- 
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-1.5X
-2.0X
-2.5X
-3.0X
-3.5X
-4.0X
-4.5X
-Feb-12
-Aug-12
-Feb-13
-Aug-13
-Feb-14
-Aug-14
-Feb-15
-Aug-15
-Feb-16
-Aug-16
-Feb-17
-Aug-17
-P/B 3.37x
-Average 2.63x
-+1SD 3.08x
--1SD 2.19x
-ROE 41.0%
- 
-Source: Company data, Bloomberg Finance LP, Deutsche Bank estimates 
-Source: Company data, Bloomberg Finance LP, Deutsche Bank estimates 
- 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 20 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Key assumptions and 
-financials 
-Income statement 
-ROIC to increase significantly in 2017E 
-On the back of higher MDI prices and expansion of new chemical product 
-range, we forecast revenue will increase 38%, 12%, and 14% in 2017E, 2018E, 
-and 2019E, respectively. We estimate GPM should gradually recover from 31% 
-in 2016 to 40% in 2019E. ROIC will also likely rebound sharply to an average of 
-23% in 2017-19E from 15% in 2016.  
-Figure 63: Key ratios 
-Ratio
-2015
-2016
-2017E
-2018E
-2019E
-ROA
-3.4%
-7.2%
-13.4%
-13.9%
-14.3%
-Net income margin
-8%
-12%
-18%
-19%
-19%
-Asset turnover
-44%
-61%
-77%
-77%
-79%
-Equity Multiplier
-318%
-297%
-235%
-192%
-171%
-ROE
-14.5%
-27.9%
-41.0%
-35.3%
-32.9%
-Invested capital
-37,881
-          
-36,169
-          
-43,019
-          
-48,128
-          
-54,723
-          
-ROIC
-7.4%
-14.6%
-23.4%
-23.7%
-23.4%
-Net Debt
-23,580
-          
-21,685
-          
-13,436
-          
-7,800
-            
-756
-               
-Equity
-14,823
-          
-18,334
-          
-27,577
-          
-34,938
-          
-43,347
-          
-Net gearing (%)
-159%
-118%
-49%
-22%
-2%  
-Source: Company data, Deutsche Bank estimates 
-MDI passed the toughest time, and new chemicals come to the stage 
-We expect MDI prices and spreads to further strengthen, driven by energy 
-prices recovery, slowing global new capacity additions and stable demand 
-growth. We project the PU segment’s GPM will be 50-56% in 2017E-19E vs. 
-41% in 2016. Functional material and special chemicals are the second growth 
-engine. As such, we estimate the two segments’ combine revenue will more 
-than double during 2016-2019. We expect petrochemical projects to run at full 
-steam in 2017-19 after two years of capacity ramp-up since 2015.  
-Figure 65: Business assumptions  
-Business assumptions 
-2015
-2016
-2017E
-2018E
-2019E
-PU (MDI, TDI, Polyether)
-Domestic MDI Capacity (kton)
-1,800
-1,800
-1,800
-1,800
-1,800
-Utilization rate %
-71%
-69%
-75%
-75%
-75%
-Production (kton)
-1,280
-1,236
-1,350
-1,350
-1,350
-MDI ASP
-10,964
-13,979
-20,689
-21,309
-22,801
-PU revenue (RMB mn)
-16,522
-16,417
-25,501
-28,726
-33,124
-GPM %
-14%
-41%
-56%
-52%
-50%
-Petrochemicals
-Capacity (kton)
-1,400
-1,400
-1,400
-1,400
-1,400
-Utilization rate %
-35%
-96%
-100%
-100%
-100%
-Production (kton)
-485
-1,346
-1,400
-1,400
-1,400
-Total Revenue (RMB mn)
-539
-8,261
-9,162
-10,137
-10,214
-GPM %
-1%
-14%
-3%
-16%
-15%
-Functional Materials (TPU, SAP , PC)
-Capacity (ktpa)
-100
-130
-200
-230
-360
-Utilization rate(%)
-72%
-84%
-71%
-75%
-73%
-Production volume (kton)
-72
-109
-142
-173
-262
-Revenue (RMB mn)
-1,009
-1,235
-1,866
-2,285
-3,651
-GPM %
-23%
-25%
-25%
-27%
-31%
-Special Chemicals
-Utilization rate(%)
-0%
-75%
-75%
-80%
-85%
-Production volume (kton)
-38
-55
-55
-58
-62
-Revenue (RMB mn)
-973
-1,497
-2,058
-2,327
-2,844
-GPM %
-42%
-46%
-43%
-36%
-36%
-Source: Company data, Deutsche Bank estimates 
- 
-WHC’s revenue to improve by 
-21% CAGR in 2016-2019E 
-due to higher MDI prices and 
-new products contribution 
-MDI GPM should continue to 
-increase to 56% in 2017E 
-Figure 64: WHC GPM & ROIC 
-WHC GPM & ROIC
-2015
-2016
-2017E
-2018E
-2019E
-GPM
-30%
-31%
-40%
-40%
-40%
-ROIC
-7.4%
-14.6%
-23.4%
-23.7%
-23.4%
-Segments GPM
-  PU 
-14%
-41%
-56%
-52%
-50%
-  Petrochemicals
-1%
-14%
-3%
-16%
-15%
-  Functional Materials
-23%
-25%
-25%
-27%
-31%
-  Special Chemicals
-42%
-46%
-43%
-36%
-36%
-Source: Company data, Deutsche Bank estimates 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 21
- 
- 
- 
-Figure 66: Income statement 
-Income statement (RMB mn)
-2015
-2016
-2017E
-2018E
-2019E
-Revenue
-19,492
-          
-30,100
-          
-41,398
-          
-46,331
-          
-52,803
-          
-Cost of Goods Sold
-(13,620)
-         
-(20,745)
-         
-(24,990)
-         
-(27,864)
-         
-(31,974)
-         
-Gross Profit
-5,872
-            
-9,355
-            
-16,408
-          
-18,467
-          
-20,829
-          
-GPM (%)
-30%
-31%
-40%
-40%
-39%
-Selling & Distribution
-(847)
-              
-(1,166)
-           
-(1,656)
-           
-(1,853)
-           
-(2,112)
-           
-General & Administrative
-(1,282)
-           
-(1,423)
-           
-(2,070)
-           
-(2,317)
-           
-(2,640)
-           
-EBIT
-3,648
-            
-6,562
-            
-12,501
-          
-14,094
-          
-15,846
-          
-EBITDA
-4,637
-            
-8,108
-            
-15,263
-          
-17,421
-          
-19,426
-          
-Interest expense
-(841)
-              
-(890)
-              
-(830)
-              
-(684)
-              
-(555)
-              
-One-off expenses/income
-8
-                   
-(22)
-                
--
-                
--
-                
--
-                
-Other non-core income/exp
-139
-               
-3
-                   
-16
-                 
-18
-                 
-19
-                 
-Profit before tax
-2,954
-            
-5,653
-            
-11,687
-          
-13,429
-          
-15,310
-          
-Income tax
-(675)
-              
-(1,105)
-           
-(2,284)
-           
-(2,625)
-           
-(2,993)
-           
-Effective tax rate (%)
-23%
-20%
-20%
-20%
-20%
-Profit after tax
-2,280
-            
-4,548
-            
-9,402
-            
-10,804
-          
-12,317
-          
-Minority income
-670
-               
-869
-               
-1,796
-            
-2,063
-            
-2,352
-            
-Net income
-1,610
-            
-3,679
-            
-7,607
-            
-8,740
-            
-9,965
-            
-EPS (RMB/share)
-0.620
-1.418
-2.788
-3.197
-3.645
-Growth (%)
--33%
-129%
-97%
-15%
-14%
-DPS (RMB/share)
-0.167
-0.439
-0.976
-1.279
-1.458
-Payout (%)
-27%
-31%
-35%
-40%
-40%
-Weight No# of shares (mn)
-2,595
-2,595
-2,728
-2,734
-2,734
-Source: Company data, Deutsche Bank estimates 
-Balance sheet 
-Net gearing ratio will drop significantly  
-On 16 January 2017, WHC issued 116mn new shares at RMB21.55/share for a 
-total sum of RMB2.5bn to develop its new business. After deleveraging, we 
-estimate the net gearing ratio will drop to 49% in 2017 from 119% in 2016. 
-With strong cash flow ahead, we expect net gearing will drop to 2% if no new 
-project announced.  
-Working capital  
-We expect working capital inflow in 2017 due to an increase in the amount of 
-trade payables, which offset an increase in trade receivables. Trade 
-receivable/payable days will likely remain largely stable, but inventory days 
-should drop to 60 days in 2017E from 74 days in 2015.  
-Figure 67: Working capital (2015-2019E) 
-Figure 68: Working capital cycle (2015-2019E) 
--10,000
--5,000
-0
-5,000
-10,000
-15,000
-2015
-2016
-2017E
-2018E
-2019E
-Inventory
-Trade receivables
-Advance payments
-Trade payables
- 
-0.0
-20.0
-40.0
-60.0
-80.0
-100.0
-2015
-2016
-2017E
-2018E
-2019E
-Inventory Days
-Bill receivables Days
-Advance payments Days
-Trade payables Days
-Working capital days
-Source: Company data, Deutsche Bank estimates 
-Source: Company data, Deutsche Bank estimates 
-WHC’s net gearing ratio will 
-drop to 49% in 2017E 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 22 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
- 
-Figure 69: Balance Sheet 
-Balance sheet (RMB mn)
-2015
-2016
-2017E
-2018E
-2019E
-Cash and cash equivalents
-2,066
-1,987
-5,343
-8,327
-13,157
-Inventories
-4,194
-4,337
-6,183
-8,043
-8,791
-Trade and other receivables
-2,580
-5,449
-6,159
-7,454
-9,236
-Other current assets
-2,186
-1,462
-1,747
-1,840
-1,858
-Total Current Assets
-11,027
-13,236
-19,431
-25,664
-33,041
-PP&E
-20,046
-28,468
-28,902
-28,879
-28,518
-Intangible assets
-2,252
-2,612
-2,857
-3,124
-3,376
-Investments 
-186
-363
-363
-363
-363
-Other long term assets
-14,293
-6,086
-5,380
-5,156
-5,044
-Total long term assets
-36,778
-37,529
-37,502
-37,522
-37,301
-Total Assets
-47,804
-50,765
-56,934
-63,187
-70,343
-Short-term borrowings
-12,151
-14,247
-10,255
-8,102
-6,388
-Trade/bill payable
-5,622
-5,328
-6,246
-7,402
-7,877
-Other payables
-584
-1,167
-1,762
-1,942
-2,132
-Others
-917
-1,860
-2,166
-2,373
-2,670
-Total Current Liabilities
-19,273
-22,601
-20,429
-19,819
-19,066
-Long-term borrowings
-11,440
-9,333
-8,432
-7,933
-7,433
-Other long-term liabilities
-2,268
-496
-496
-496
-496
-Total long-term liabilities
-13,708
-9,830
-8,929
-8,429
-7,930
-Total Liabilities
-32,981
-32,431
-29,357
-28,248
-26,996
-Shareholder's Equity
-11,571
-14,822
-22,268
-27,551
-33,585
-Minority interests
-3,252
-3,512
-5,309
-7,387
-9,762
-Total equity
-14,823
-18,334
-27,577
-34,938
-43,347
-Total Liabilities and Equity
-47,804
-50,765
-56,934
-63,187
-70,343
-Source: Company data, Deutsche Bank estimates 
-Cash flow statement 
-Issuing new shares  
-WHC raised RMB2.5bn via private placement at a placement price of 
-RMB21.55/share. Of the raised funds, RMB1.46bn will be invested in new PC 
-projects with total capacity of 200ktpa. RMB400mn will be used to build WHC 
-Shanghai Center, and the rest of funds will be used to repay bank loans and 
-replenish working capital. 
-Dividend and capital expenditure  
-WHC’s capex should remain at c.RMB3.3-3.6bn, which is the maintenance 
-capex, given the company does not have any Greenfield investment committed 
-currently. Moreover, in keeping with trends we have observed, WHC will likely 
-continue to increase dividends, with the payout ratio likely to increase from 
-31% in 2016 to 35% in 2017E and further to 40% in 2018-19E.  
-Figure 70: Cash flow statement 
-Cashflow statement (RMB mn)
-2015
-2016
-2017E
-2018E
-2019E
-Profit after tax
-2,280
-4,548
-9,406
-10,883
-12,432
-Change in working capital
--69
--1,044
--1,020
--1,705
--1,586
-Other non cash items
-1,698
-2,869
-3,327
-3,580
-3,821
-Finance cost
-694
-975
-826
-660
-504
-Net operating cash flow
-4,602
-7,349
-12,538
-13,417
-15,171
-Capex
--5,160
--4,113
--3,300
--3,600
--3,600
-Cash payments to acquire investments and JV 
--100
--15
-0
-0
-0
-Other investments
--38
--67
-0
-0
-0
-Cash received from disposal of assets
-63
-2
-0
-0
-0
-Others
-11
-224
-0
-0
-0
-Net investment cash flow
--5,225
--3,970
--3,300
--3,600
--3,600
-Share issuance
-0
-0
-2,500
-0
-0
-Net proceeds from borrowings
-3,638
--1,543
--4,893
--2,652
--2,214
-Dividends
--432
--1,139
--2,663
--3,522
--4,023
-Others
--1,449
--822
--826
--660
--504
-Net financing cash flow
-1,756
--3,504
--5,882
--6,833
--6,740
-Net changes
-1,134
--125
-3,356
-2,984
-4,830
-FX & other adjustment
--66
-26
-0
-0
-0
-Beginning cash balance
-1,025
-2,066
-1,987
-5,343
-8,327
-Ending cash balance
-2,092
-1,967
-5,343
-8,327
-13,157
-Balance sheet Cash
-2,066
-1,987
-5,343
-8,327
-13,157
-Source: Company data, Deutsche Bank estimates 
- 
-Dividend payout is set to 
-increase with strong FCF 
-ahead.  
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 23
- 
- 
- 
-Company profile 
-Business overview 
-Wanhua Chemical Group Co., Ltd. was established on 20 December 1998, and 
-was listed on the Shanghai Stock Exchange on 5 January 2001. As the most 
-competitive MDI producer in the world, WHC has set up R&D centres, 
-manufacturing bases, and business centers in Yantai, Ningbo, Beijing, Zhuhai, 
-Chengdu, and Shanghai in China, and it has set up more than 10 subsidiaries 
-or branches in Europe, the Middle East, America, Japan, Russia, India, etc. 
-Meanwhile, WHC has its own overseas manufacturing bases in Hungary.  
-The main business of WHC is R&D, production, and sales of PU series 
-products, such as isocyanate and polyol; petrochemical series products, such 
-as PO/AE; and functioning materials of water-based coatings and specialty 
-chemicals.  
-Figure 71: Business locations 
-United States 
-Brazil
-Turkey
-Hungary
-Moscow
-Dubai
-India
-Japan
-Korea
-China: 
-Beijing
-Yantai
-Shanghai 
-Ningbo 
-Foshan
-Hong Kong
-UK
-Source: Deutsche Bank, Company data 
- 
-Figure 72: Shareholder structure 
-Wanhua 
-Industrial 
-Group, 47.9%
-Public 
-shareholders, 
-52.1%
-Source: Company data, Deutsche Bank 
-WHC is a leading 
-international A-share listed 
-chemical group in China 
-PU is the major business 
-product of WHC 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 24 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Company structure & management profile 
-Figure 73: Business structure 
-Wanhua Chemical 
-Group Co., Ltd
-Wanhua Industrial Group
-Co., Ltd
-47.9%
-State-owned Assets 
-Supervision and 
-Administration 
-Commission of Yantai 
-Government
-Hecheng International 
-Co., Ltd.
-Yantai Zhongcheng 
-Investment Co., Ltd
-Shenzhen Zhongkaixin 
-Venture Capital Co., Ltd
-Beijing Dejie Huitong
-Science and 
-Technology Ltd
-Other public 
-shareholders
-52.1%
-39.497%
-19.583%
-19.253%
-17.588%
-4.079%
-Manufacture
-Wanhua Chemical (Ningbo) Co., Ltd
-Wanhua Chemical (Beijing) Co., Ltd
-Wanhua Chemical (Ningbo) Thermal Power Co., Ltd
-Wanhua Chemical (Yantai) Chlor-alkali Thermalpower Co., 
-Ltd Wanhua Chemical (Guangdong) Co., Ltd
-Wanhua Chemical (Ningbo) Chlor-alkali Co., Ltd
-Wanhua Chemical (Ningbo) Rongwei PU Co., Ltd
-Wanhua Chemical (Foshan) Rongwei PU Co., Ltd
-Wanhua Chemical (Yantai) Rongwei PU Co., Ltd
-% Stake
-74.5%
-100%
-51%
-60%
-100%
-50.4%
-80.0%
-80.0%
-80.0%
-Service
-Wanhua Chemical (Ningbo) Terminal Co., Ltd
-Shanghai Wanhua Industrial Development Co., Ltd
-Wanhua Chemical (HongKong) Co., Ltd
-Wanhua Chemical (U.S.A.) Co.,Ltd
-Wanhua Chemical International Holding Ltd Wanhua 
-Chemical (Japan) Co., Ltd
-Wanhua Chemical (Ningbo) Energy Trade Co., Ltd
-Ningbo Xinda Mingzhou Trade Co., Ltd
-Yantai Wanhua Chemical Design Institute Co., Ltd
-Wanhua Chemical (Yantai) sales Co., Ltd
-%Stake
-55%
-100%
-100%
-100%
-100%
-100%
-74.5%
-50.4%
-100%
-Source: Company data, Deutsche Bank 
- 
-Figure 74: Management profile  
-Name  
-Position 
-Age 
-Profile 
-Zengtai Liao 
-Chairman, President, & 
-Party Secretary 
-53 
-Mr Liao Zengtai, master and senior engineer, successively served as Chief Engineer and Vice-general 
-Manager of Yantai Wanhua Polyurethanes CO., Ltd. and General Manager of Ningbo Wanhua 
-Polyurethanes Co., Ltd. From Oct 16 to present, he is Chairman and Party Secretary of Wanhua 
-Industrial Group as well as Wanhua Chemical Group Co., Ltd. 
-Jiansheng Ding Director 
-62 
-Mr. Ding Jiansheng, with an MBA from National University of Singapore and a Taishan scholar, 
-successively served as Chairman, General Manager and Chief Technologist of Yantai Wanhua 
-Polyurethanes CO., Ltd. He is also Chairman of Wanhua Chemical Group co., Ltd, CEO of Wanhua 
-Industrial Group Co., Ltd, Chairman and CEO of Borsed Chem, Hungary, and Director of the National 
-Engineering Center for polyurethane. Since Oct 2016, he has been Director of Wanhua Chemical Group 
-Co., Ltd. 
-Guangwu Kou 
-Executive Vice President 50 
-Mr Kou Guangwu, master and senior accountant, successively served as Chief Accountant and Vice 
-General Manager of Yantai Wanhua Polyurethanes Co., Ltd. Since Dec 2004, he has been Director, 
-Executive Vice President, Chief Financial Administrator of Wanhua Chemical Group Co., Ltd. He is 
-Chairman of the Finance Committee and Chairman of the secretary committee board of the Shandong 
-Listed Company Association. 
-Pengtao Huo 
-Vice President 
-50 
-Pengtao Huo, PH.D in high polysicsm, worked in WR.Grace as a researcher, then in Pharmacia & 
-Upjohn as a project manager and later in Galt Lab Inc.as a manager from 1993 to 2002. He has 
-assumed the role of Vice President and Marketing Executive since April 2010. 
-Weiqi Hua 
-Vice President 
-44 
-Mr Hua Weiqi, PH.D in Chemical Engineering and MBA at Wright State University, joined Wanhua in 
-Jan 2001 and is Vice President and Technology Executive in Wanhua Chemical, as well as Executive 
-Director of the National Engineering Centre for polyurethanes. 
-Yifeng Chen 
-Vice President 
-39 
-Mr Chen Yifeng, master and professorate senior engineer, joined Wanhua in 1998, and is MDI Device 
-Manager of Ningbo Wanhua Polyurethane, Ltd, Manager at Production Control Department, 
-Production Director and Vice President of Wanhua Chemical Group. 
-Source: Deutsche Bank 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 25
- 
- 
- 
-Production flow  
-Figure 75: Wanhua production flow chart 
-Salt
-Benzene
-Aniline
-MDI
-Nitric acid
-Toluene
-TDI
-Coal
-Methanol
-Formaldehyde
-PO
-Propane
-Propylene
-Acrylic acid
-Water paint
-Hydrogen
-Butanol
-LPG
-SAP
-TBA
-Iso-butane
-Butane
-Methanol
-n-butane
-Coal
-Butyl Acrylate
-Acrylic acid
-MTBE
-Pure MDI
-Polymeric MDI
-Hard-foam polyether
-Methyl acrylate
-2-ethyl hexyl acrylate
-Soft-foam polyether
-Original feedstocks
-Intermediates 
-External products
-Hydrochloric acid 
-Internal use + external sell
-Caustic soda 
-Internal use + external sell
-Chlorine gas
-Internal use
-Steam  and electricity 
-Source: Company data, Deutsche Bank 
- 
-Key products abbreviation 
-Figure 76: Key products 
-Products
-Full name
-Products
-Full name
-PU
-Polyurethane
-PUD
-Polyurethane dispersion
-MDI
-Methylene diphenyl diisocyanate
-PF
-Phenol-formaldehyde resin
-TDI
-Toluene diisocyanate 
-PUA
-Polyurethane Acrylate 
-TPU
-Thermoplastic polyurethane
-HEUR
-Hydrophobically modified polyurethanes
-PC
-Polycarbonate
-HASE
-Hydrophobically modified alkali swellable emulsions
-SAP
-Superabsorbent polymer
-MTBE
-Methyl tert-butyl ether
-MDBA
-Methylenebis (n-sec-butylaniline)
-PVC
-Polyvinyl chloride
-IPDA
-Isophoronediamine
-VCM
-Vinyl Chloride Monomer
-MDA
-Methylene dioxyamphetamine
-Source: Deutsche Bank 
- 
- 
-The author of this report would like to acknowledge the contribution made by 
-Luka Li. 
- 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 26 
+Company
+Wanhua Chemical
+Buy
+Initiation of Coverage
+Asia
+China
+Exchange Ticker
+Reuters
+Bloomberg
+Energy
+600309.SS
+600309 CH
+SHH
+Chemicals
+A crown jewel in fine chemicals;
+Vitus Leung
+Johnson Wan
+Research Analyst
+Research Analyst
+Wanhua Chemical (WHC) is the biggest global methylene diphenyl
+diisocyanate (MDI) producer with a 24% market share. Its share price has a
+72% correlation with MDI spreads, and as spreads have risen 165% in the last
+12 months, the share price has risen +75%. However, we see more potential
+share price upside as we believe the MDI upcycle will continue until 2020 on
+slowing new capacity additions globally. We also see new product ramp-up
+and potential asset injection as key earnings drivers. We expect WHC's EPS to
+achieve a 37% CAGR in 2016-19E with ROIC improving to 23% in 2017-19E.
+Strong supply-demand supports MDI upcycle
+In 2016-20E, we expect a 3.5% supply CAGR, below the 4.8% CAGR in 2010-
+16 when there was a big capacity increase. On the other hand, we expect
+demand to record a healthy 5.6% CAGR during the same period, driven by
+construction materials, which account for 52% of usage globally.
+to 94% by 2020. This should expand the MDI spread from RMB9,500/tonne in
+Forecasts & Ratios
+2016 to RMB15,928/tonne in 2019E, a 19% CAGR. Other PU such as TDI also
+will likely enter an upcycle post 2018E; we see the TDI operating rate reaching
+89% by 2020. Conversely, with the new 300ktpa TDI line expected in 2018, we
+project WHC's PU volume should increase a 7% CAGR over 2016-19E.
+Entering high-end chemicals market
+Currently, polyurethane (PU) accounts for 55% of WHC's revenue (71% of GP).
+WHC has branched out to six new business units since 2015, of which TPU,
+PC, and water-based paint are promising products, as China is still a net
+importer of high-end TPU and PC products, and we believe water-based paint
+will be a key beneficiary of the stricter environmental regulation. We expect
+the revenue of the functional material and specialty chemicals segments to
+register a 33% CAGR in 2016-19E and become a second growth driver.
+Asset injection & new business ahead with flexible balance sheet
+Key products abbreviation
+As stated by WHC, it is likely to acquire BorsodChem (BC) by Sep-2018 from
+its parent company, Wanhua Industrial Group (WIG). BC holds a MDI/TDI/PVC
+capacity of 240k/250k/400ktpa in Hungary. We believe this asset injection
+would strengthen WHC's global presence. Besides, the company is conducting
+feasibility studies for the construction of a 1mntpa ethylene capacity and to
+utilise its strong balance sheet (net gearing of 22%/2% in 2018E/19E). We have
+not factored either of these events into our model currently.
+Our target price of RMB42.0 is based on 8.0x EV/EBITDA, at an 18% discount
+to its historical average of 9.7x. We use a Gordon Growth Model, applying
+average 2017-18E FCF growth to its EBITDA. The shares trade at 6.2x 12-
+month forward EV/EVITDA, at a 12% discount to global MDI peers and a 36%
+discount to their historical mean. Our target price implies 4.7x 2017-18E P/B;
+we believe the premium to global peers is justified as its ROE averaged 38% in
+2017-18E, which is at a 137% premium over MDI peers. Key risks: fluctuations
+in oil and chemical product prices, lower-than-expected GDP growth and
+unexpected corporate actions with demanding valuation. More detail pp. 3-4.
 Deutsche Bank AG/Hong Kong
- 
- 
- 
-Appendix 1 
- 
-Important Disclosures 
- 
-*Other information available upon request 
- 
-Disclosure checklist 
-Company 
-Ticker 
-Recent price* 
-Disclosure 
-Wanhua Chemical 
-600309.SS 
-33.47 (CNY) 10 Aug 17 
-NA 
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other 
+Distributed on: 11/08/2017 17:01:07 GMT
+Wanhua Chemical
+Reuters: 600309.SS
+Bloomberg: 600309 CH
+Buy
+Company Profile
+Wanhua Chemical Group Co. Ltd (WHC) was founded in
+1998. The company engages in the production, sales, R&D
+of downstream chemical products such as isocyanate,
+polyol, and polyurethane. WHC is the largest MDI
+producer in the world with more than 24% market shares
+globally as of 2016. Moreover, the company started six
+new business segments, including intermediate chemicals
+products, polycarbonate (PC), TPU, water-based paints,
+etc.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data, Deutsche Bank estimates
+Vitus Leung
+Investment thesis
+Outlook
+The MDI industry has very high technical and capital barriers and, hence it is a
+highly concentrated market. In 2016, global MDI capacity amounted to
+7.4mntpa, with the top five producers controlling c.77% of total capacity.
+According to IHS, WHC ranks No. 1 among global MDI producers with a total
+capacity of 1.8mntpa (24% of global market share).
+MDI upcycle to continue until 2020E and new capacity in TDI
+WHC benefits most from MDI improvement, in our view. We estimate MDI
+demand will outpace capacity growth and the utilisation rate should reach 94%
+by 2020E vs. 87% in 2016. We expect global MDI demand to record a 5.6%
+CAGR in 2016-2020E, outpacing capacity expansion with a CAGR of 3.5%. We
+see slowing MDI supply growth due to: 1) shutdowns of outdated production
+facilities (including Korea, Japan, Spain, etc.); and 2) lack of capacity additions
+in Asia; the only large new capacity would be Sadara Chemical, with a 400ktpa
+capacity in the Middle East in 2018E. We expect WHC's MDI spread to expand
+to RMB15,928/tonne in 2019E, a 19% CAGR over 2016-19E.
+Source: IHS. Deutsche Bank: Note: * - BorsodChem owned by
+New material production becoming new growth engine
+Wanhua's parent company
+With a more diversified product portfolio going forward, we believe this would
+enable WHC to become less sensitive to the MDI cycle. We expect functional
+material & specialty chemicals revenue to surge a 33% CAGR over 2016-19E.
+Among the new products, thermoplastic polyurethane (TPU), polycarbonate
+(PC), and water-based paint are the three most promising products.
+Unlocking value & potential corporate actions
+We estimate WHC's net gearing should drop to 49% in 2017E vs. the 5-year
+average of 126%. With strong cash flow ahead, WHC would become almost
+net cash (without new investment) by 2019E. Also, we believe WHC's healthy
+balance sheet should enable it to acquire Wanhua Industrial Group's (WIG)
+stake in BorsodChem (BC), which has a MDI/TDI/PVC capacity of 240k/250k/
+400k-tpa in Hungary. This would strengthen WHC's global presence, although
+valuation is an uncertainty. Besides, WHC plans to build a 1mntpa ethylene
+cracker capacity in Shandong, which will further its vertical integration.
+Figure 3: Global MDI operating rate
+Valuation
+We derive WHC's target price of RMB42.0/share by using 8.0x EV/EBITDA
+based on the Gordon Growth Model, at an 18% discount to its historical
+average of 9.7x. Our target price implies 4.7x 2017-18E P/B, which is 53%
+higher than its +1 SD of historical mean P/B.
+Risk
+Source: Deutsche Bank estimates; Note: effective utilization rate
+Key risks include: 1) slower-than-expected demand growth in the consumer
+market, which is the main source of downstream demand for MDI, TPU, and
+PC; 2) slower-than-expected energy price recovery; 3) slower-than-expected
+ramp up in TPI capacity; and 4) any unexpected corporate actions with
+demanding valuation.
+Valuation
+What next? More potential upside yet to price in
+WHC share prices have almost doubled in the past 12 months, but we see
+There is more potential
+more upside considering: 1) MDI upcycle likely to continue until 2020E; 2) new
+upside due to higher MDI
+capacity to start in 2018E; and 3) new product ramp-up, plus potential asset
+prices and larger volume
+injection and new business plan. We believe past share price performance has
+not fully reflected the strong improvement in free cash flow and return on
+assets. We expect WHC's EPS to achieve a 37% CAGR in 2016-19E with ROIC
+improving to an average of 23% in 2017-19E from 15% in 2016.
+WHC trades at 10.3x and 6.2x average 2017-18E P/E and EV/EBITDA, at a
+discount of 19% and 12%, respectively, to global MDI peers, but its 2017-18E
+P/B of 3.4x is at an 86% premium over global MDI peers. In our view, WHC
+deserves to trade at a premium to peers given its superior ROE (137% higher
+than peers) and strong free cash flow yields.
+We derive our target price using the Gordon Growth Model. Our target price
+RMB42.0/share is based on 8.0x EV/EBITDA, using 2017-18E FCF to its
+EBITDA. This implies an 18% discount to its historical average EV/EBITDA of
+9.7x while we expect its FCF to improve at a 12% CAGR in 2016-19E, much
+better than in the previous MDI upcycle when WHC's FCF stream was in a
+deficit. Our EV/EBITDA-based TP is at a 7% discount to the DCF model
+theoretical price.
+In our opinion, EV/EBITDA is a better methodology than DCF to value WHC
+because: 1) it addresses free cash flow situation changes as WHC's heavy
+investment cycle has already passed; 2) it addresses the petrochemical
+business cyclical; and 3) is in-line with our regional petrochemical company
+valuation methodology. We cross check our valuation with a DCF below.
+Source: Deutsche Bank estimates
+Key charts
+Source: IHS, Deutsche Bank estimates; Note: effective utilization rate
+Source: Bloomberg Finance LP, Deutsche Bank estimates; Note: Bloomberg consensus estimates for non-rated (NR) companies
+MDI 101
+MDI (methylene diphenyl diisocyanate) is an aromatic diisocyanate. MDI reacts
+with polyols in the manufacturing of polyurethane. MDI is categorised as pure
+MDI and polymeric MDI.
+Pure MDI is mainly used to produce the slurry of synthetic leather, sole
+resin, and spandex.
+Polymeric MDI is used to produce rigid PU foam, adhesive, and
+flexible PU foams.
+MDI is an aromatic diisocyanate consisted of isocyanate and polyhydric
+alcohols. MDI is the most important feedstock for the production of
+polyurethane (PU), which is the sixth-largest plastic after polyethylene, PVC,
+polypropylene, polystyrene and ABS. PU possesses not only the elasticity of
+rubber but also the strength of plastic with wide applications in economic
+activities of multiple industries including chemicals, aerospace, automobile,
+medical treatment, etc.
+Highly concentrated market – MDI & TDI
+The PU industry has very high technical and capital barriers, which lead to a
+PU is a highly concentrated
+highly concentrated market. In 2016, global MDI capacity amounted to
+market both domestically and
+7.4mntpa, with the top five producers controlling 77% of total capacity. WHC
+globally
+tops the list of global MDI producers with total capacity at 1.8mntpa, followed
+by BASF, Convestro, Huntsman, and Dow with a share of 21%, 19%, 13%, 9%,
+respectively. Likewise, in the TDI market, the top five producers control 77% of
+total capacity. In China, the MDI market is even more concentrated with only
+five active producers and WHC's 1.8mntpa capacity accounts for 62% of total
+capacity. On TDI, the China landscape is changing, with WHC entering the TDI
+market; its new 300ktpa capacity is scheduled to start in 2018, which will
+instantly make it a market leader with a 24% share in China.
+Source: IHS, Deutsche Bank; Note: * - BorsodChem owned by Wanhua's parent company
+Source: IHS, Deutsche Bank; Note: * - Owned by BASF, Huntsman, SGPC, Shanghai Huayi, and
+Shanghai Chlor-Soda Chemical
+PU continues to be key
+earnings driver while MDI
+outlook improving
+The PU segment (MDI + TDI) accounted for 55% of WHC's revenue in
+2016. We believe the positive outlook of the MDI industry aligns with
+WHC's future performance.
+With improvements in the global MDI utilisation rate, we expect
+WHC's MDI margin to expand from RMB9,500/tonne in 2016 to
+RMB15,9288/tonne in 2019E at a 19% CAGR.
+We expect China MDI demand to register a 7.3% CAGR over 2016-
+2020, a rise of 1.9mntpa. China MDI demand is mainly driven by
+refrigerators, construction materials, and slurry and sole resin, which
+account for 45%, 22.5%, and 18% of total demand, respectively.
+Formula for a bull market: steady demand growth +
+slowing capacity additions + feedstock cost drop
+Global MDI capacity rose at a 4.8% CAGR between 2010 and 2016. More than
+50% of total MDI capacity is located in Asia, followed by Europe with c.30% of
+total capacity. However, we see global capacity additions slowing down to a
+3.5% CAGR in 2016-20E to reach 8.2mntpa by the end of 2020E. China MDI
+capacity expanded rapidly in 2011-16 with a 16% CAGR and reached
+Capacity addition CARG will
+c.3.0mntpa in 2016, which exceeded the global capacity CAGR of c.5%.
+slow to 3.5% in 2016- 2020E
+from 4.8% CAGR in 2010-
+We forecast another 1.06mtpa of new capacity to come on stream between
+2017 and 2020E globally. Also, Jilin Connell MDI plans to roll out another
+800ktpa of new MDI capacity (c.10% of global capacity) in 2018. However,
+considering several environmental issues, the new capacity is highly likely to
+be deferred. Therefore, we have not included this in our expected new
+capacity. We believe rapid MDI capacity additions should slow down starting
+in 2017.
+Utilisation rate picking up
+Globally, more than 52% of MDI consumption comes from construction
+materials, and only 13% is used in refrigerators. In China, MDI is mainly used
+in refrigerators, construction materials, and slurry and sole resin, accounting
+for 45%, 22.5%, and 18%, respectively. China apparent MDI demand has
+remained largely stable at c.1.9mnt since 2013. According to China's 13th
+Five-Year Plan, the domestic MDI demand CAGR in 2015- 2020E is 7.3%.
+Suffering from the rapid capacity growth over the past five years, China MDI
+facilities' utilisation rate dipped to c.60% in 2015, and will likely continue to
+drop to the low-50% levels due to capacity additions in 2016. Given stable
+demand and consumption growth, we expect utilisation to gradually recover
+from the trough level in 2016 with few new capacity additions.
+The rapid capacity expansion over the past four years has caused global
+utilisation to drop continuously, from 87% to 84% in 2015. However, as we
+expect capacity additions to slow down, we estimate utilisation will rebound to
+87% in 2017, 90% in 2018, 90% in 2019 and 91% in 2020. TDI is in a very
+similar situation. We expect it to witness slowing capacity additions and after
+2018, we believe there will be a lack of new supply which should help TDI
+utilisation gradually recover to 89% by 2020E from 83% in 2016.
+Margin recovering
+Despite the relatively stable downstream demand, MDI prices, especially in
+MDI prices and margin are
+Asia markets, have dropped significantly since the end of 2012 till 1H 2016,
+surging on supply-demand
+which is mainly due to the rapid capacity expansion. Over the past five years,
+tightening
+more than 85% of new capacity additions have come from Asian producers,
+and China MDI capacity increased by c.400ktonne p.a. (on average), while
+apparent demand increased by only c.100ktonne p.a. The worsened supply-
+demand dynamic depressed MDI prices as well as the MDI-benzene spread.
+Also, MDI prices are highly sensitive to crude oil prices, as aniline is one of the
+main raw materials.
+Since 2016, China MDI prices have started to recover from the trough, driven
+WHC share price high
+by: 1) decreased MDI imports from Japan and Korea, where MDI production
+correlation to MDI margin
+was unstable or halted, and China polymeric MDI imports declined by 15% in
+with 0.72 R-square
+the past trailing 12 months; and 2) stabilized crude oil price and chemical
+prices. In the past four years, WHC's share price and MDI are highly correlated
+with a 0.72 R-square efficiency.
+Figure 30: WHC share price correlations with key
+products and spreads
+On the other hand, WHC share price correlation with petrochemical products is
+lower than with MDI spreads. The highest correlation with a single product is
+the MDI price with 0.53 R-square efficiency, while the WHC share price has a
+negative correlation with the prices of benzene / Brent oil, which are its key
+feedstocks, at -0.29 / -0.38 R-square efficiency, respectively.
+We believe the MDI spread is determined more by its own supply and demand
+other than cost-push factors because its correlation with benzene and Brent oil
+prices is only -0.18/-0.32 R-square efficiency while it has 0.86 R-square
+and 0.32 R-square efficiency correlation with benzene and Brent prices.
+New growth engines
+Source: Company data, Deutsche Bank estimates
+Source: Company data, Deutsche Bank
+A more diversified portfolio ahead
+With a more diversified product portfolio going forward, we believe it should
+enable WHC to become less sensitive to the MDI cycle. WHC has set up six
+new business units to further strengthen its downstream products mix. Of the
+Source: Company data, Deutsche Bank estimates
+new products produced from these six new business units, specialty
+polyurethane (i.e. thermoplastic polyurethane - TPU), polycarbonate (PC), and
+water-based paint are the three most promising. TPU is facing booming
+downstream demand due to intelligent wearable devices. PC should alleviate
+the pressure of high dependence on imports. Water-based paint should benefit
+from stricter environment protection laws. We expect functional materials and
+specialty chemicals revenue to record a 33% CAGR between 2016 and 2019E.
+TPU: expecting ascending downstream demand
+TPU is any-of-a-class of polyurethane plastics with many properties, including
+elasticity, transparency, and resistance to oil, grease, and abrasion. TPU has
+many applications, including automotive instrument panels, sporting goods,
+Source: Company data, Ningbo Petrochemical Association
+Deutsche Bank
+medical devices, drive belts, and footwear.
+WHC's performance material business unit is the biggest TPU manufacturer in
+APAC with the widest product range. Out of the c.500kt total capacity of
+China, WHC's annual TPU production capability is 90ktpa (18%) and offers
+high-end TPU in the market.
+TPU is now a popular material found in outer cases of mobile electronic
+devices. Since 2014, TPU has become a dominant material serving as a
+wristband for the booming market of intelligent wearable devices which
+required high-end TPU. Conversely, China has become a TPU net export
+country since 2013 while the majority of Chinese TPU is low-end product and
+fails to meet the increasing high-end TPU demand. We observe that Chinese
+high-end TPU demand still relies on imports, and TPU import prices are far
+higher than export prices.
+PC: WHC a landscape changer in China
+Polycarbonate (PC) is one of the five engineering plastics. PC is widely used in
+electronic devices, household appliances, construction materials, automobile
+manufacturing, and medical apparatus. PC has become the most popular
+engineering plastic with the highest growth rate.
+PC manufacturing has very high technological barriers; therefore, the PC
+market is highly concentrated. Covestro (27% market share) is the global
+market leader and global capacity is at 4.7mntpa, on our estimates. Currently,
+China PC demand highly relies on imports.
+WHC's new PC line is expected to come on stream in 2018E, and it will
+instantly become the second-largest (17% of China capacity) PC producer in
+China. The company spent about RMB1.46bn on the 200ktpa capacity after it
+raised RMB2.5bn from a private placement in January 2017.
+We expect that global capacity will outgrow demand in the coming years,
+driven by Chinese capacity additions. We expect the overall operating rate to
+peak at 85% in 2017-18E and decline to 80% by 2020E.
+Water-based paint: the beneficiary of the "strictest" new environmental
+protection law
+Compared with traditional paint, water-based paint is more environmentally
+friendly and cost efficient. In the global market, water-based paint has
+surpassed traditional paint; it accounted for c.44% of the total paint
+consumption in 2014. In China, the consumption of water-based paint used in
+construction materials and automobile paint is growing rapidly, accounting
+c.48%.
+Water-based paint should benefit from stricter environment protection laws.
+We expect the revenue of main business including MDI and the new chemical
+products to see a CAGR of 21% in 2016-19E. As MDI only accounts for 41.7%
+of the growth rate, we estimate the rest will come from new chemical
+products and other core business segments including functional materials and
+special chemicals.
+Source: Company data Deutsche Bank
+Since 2015, there has been a paint tax of 4% under the new environment
+protection law. However, paint with Volatile Organic Compounds (VOC) of less
+than 420g/L will be waived from the paint tax. The 13th Five-Year Plan (2016-
+Water-based paint will benefit
+2020) petrochemical and chemicals development guidance also notes that
+from the stricter environment
+producers should facilitate the R&D and promotion process of environmentally
+friendly paints and efficiently control the VOCs. Being the most
+protection law.
+environmentally friendly paint, water-based paint should be one of the main
+beneficiaries of the "strictest" environment protection law as well as the
+development guidance.
+Unlocking value &
+potential corporate actions
+WHC improved its balance sheet via issuance of 158mn new shares to repay
+debt and set up new business in 2016. WHC's net gearing should cut to 49%
+in 2017E from 118% in 2016. All of WHC's debt is in bank loans after repaying
+the corporate bond in 2015. We expect that WHC's net interest expense
+should decrease to RMB504mn in 2019E from RMB890mn in 2015.
+Moreover, as mentioned during public management meetings, the company is
+likely to acquire WIG's stake in BC by September 2018 which has a
+MDI/TDI/PVC capacity of 240kpta / 250ktpa / 400ktpa in Hungary. Besides the
+benefit of having instant capacity expansion, we believe the planned asset
+injection could strengthen WHC's global presence although valuation is an
+uncertainty. Nowadays, MDI / TDI / PVC constructions usually cost about
+RMB1.9bn / RMB2.1bn / RMB0.4bn for a 100ktpa of capacity. The overall
+replacement cost for such capacity would be near RMB11.4bn.
+Source: Company data, Deutsche Bank estimates
+BC's MDI and TDI capacity is equivalent to 13% / 83% of WHC 2018E capacity.
+Our sensitivity analysis suggests BC has the potential to bring another 17% of
+EBIT to WHC, assuming BC achieves a 75% utilisation rate with gross margins
+of MDI / TDI similar to those of WHC, a PVC margin of USD240/tonne and its
+operating expenses per unit doubles that of WHC. We have not factored any
+potential acquisition in our model.
+Besides, the company is conducting feasibility studies for constructing a
+Even with all projects
+1mntpa ethylene capacity in Shandong, to utilise its expected net cash balance
+realised, WHC's net gearing
+sheet. We estimate WHC will reach close to net cash by 2019 and the potential
+level would still be under 50%
+1 mntpa ethylene project will cost about USD4bn (RMB32bn in 2019E based
+by 2019E
+on our USD/RMB exchange rate forecast). If all these projects are realised by
+2019E, assuming acquiring BC at market replacement cost and new ethylene
+capex spend across 2019E-2022E, we estimate WHC's net gearing would jump
+to c.46% by the end of 2019. Hence, we see <50% of net gearing level as low
+risk for further equity raising.
+Sensitivity analysis
+WHC's earnings and target price are sensitive to MDI prices. Our sensitivity
+analysis suggests for each 5% change in the MDI price, 2017E EPS would
+change by 9%, and our target price would change by 10% correspondingly.
+The earnings and target price sensitivity beta to MDI is c.1.8-2.0x. WHC's
+earnings and target price are also sensitive to the benzene price which is the
+biggest cost factor for WHC. For each 5% change in the benzene price, 2017E
+EPS and target price would change by 3% and 4%, respectively.
+Source: Deutsche Bank estimates
+Source: Deutsche Bank estimates
+WHC's target price is more sensitive to the MDI price than the Benzene price.
+MDI price has more influence
+According to our scenario analysis, if the MDI price increases by 15% and the
+than Benzene price on WHC's
+benzene price decreases by 15%, this would raise our target price by 41% to
+share price
+RMB59. On the other hand, if the MDI price goes down by 15% and the
+benzene price increases by 15%, our target price would fall 41% to RMB24.9.
+These scenarios are more favorable to the upside comparison.
+Consensus
+Our estimates are slightly higher than Bloomberg Finance LP consensus
+estimates by 9-11%. We believe this is mainly due to our constructive view on
+the MDI price trend.
+Source: Bloomberg Finance LP, Deutsche Bank
+Source: Bloomberg Finance LP, Deutsche Bank
+Valuation charts
+WHC is trading at 3.4x forward P/B, higher than +1SD of the historical average
+of 3.1x. We believe it is not fully reflecting a ROE rerating potential, which we
+expect to reach 41% in 2017E.
+On the other hand, the 6.2x forward EV/EBITDA is 36% below its historical
+average of 9.7x or 3% below -1 SD of the historical average of 6.4x. Moreover,
+the current trading multiple of 10.3x forward P/E is an 8% discount to its
+historical average P/E.
+Source: Company data, Bloomberg Finance LP, Deutsche Bank estimates
+Figure 62: 12-month forward P/B
+4.5X
+45%
+40%
+4.0X
+35%
+3.5X
+30%
+3.0X
+25%
+2.5X
+20%
+2.0X
+15%
+1.5X
+10%
+Feb-12
+Aug-12
+Feb-13
+Aug-17
+Aug-13
+Aug-15
+Aug-16
+Feb-17
+Aug-14
+Average 2.63x
+-+1SD 3.08x
+P/B 3.37x
+ROE 41.0%
+--1SD 2.19x
+Source: Company data, Bloomberg Finance LP, Deutsche Bank estimates
+Key assumptions and
+financials
+Income statement
+ROIC to increase significantly in 2017E
+On the back of higher MDI prices and expansion of new chemical product
+WHC's revenue to improve by
+range, we forecast revenue will increase 38%, 12%, and 14% in 2017E, 2018E,
+21% CAGR in 2016-2019E
+and 2019E, respectively. We estimate GPM should gradually recover from 31%
+due to higher MDI prices and
+in 2016 to 40% in 2019E. ROIC will also likely rebound sharply to an average of
+new products contribution
+23% in 2017-19E from 15% in 2016.
+MDI passed the toughest time, and new chemicals come to the stage
+We expect MDI prices and spreads to further strengthen, driven by energy
+MDI GPM should continue to
+prices recovery, slowing global new capacity additions and stable demand
+increase to 56% in 2017E
+growth. We project the PU segment's GPM will be 50-56% in 2017E-19E vs.
+41% in 2016. Functional material and special chemicals are the second growth
+engine. As such, we estimate the two segments' combine revenue will more
+than double during 2016-2019. We expect petrochemical projects to run at full
+steam in 2017-19 after two years of capacity ramp-up since 2015.
+Figure 65: Business assumptions
+Balance sheet
+Net gearing ratio will drop significantly
+On 16 January 2017, WHC issued 116mn new shares at RMB21.55/share for a
+WHC's net gearing ratio will
+total sum of RMB2.5bn to develop its new business. After deleveraging, we
+drop to 49% in 2017E
+estimate the net gearing ratio will drop to 49% in 2017 from 119% in 2016.
+With strong cash flow ahead, we expect net gearing will drop to 2% if no new
+project announced.
+Working capital
+We expect working capital inflow in 2017 due to an increase in the amount of
+trade payables, which offset an increase in trade receivables. Trade
+receivable/payable days will likely remain largely stable, but inventory days
+should drop to 60 days in 2017E from 74 days in 2015.
+Figure 69: Balance Sheet
+Cash flow statement
+Issuing new shares
+WHC raised RMB2.5bn via private placement at a placement price of
+RMB21.55/share. Of the raised funds, RMB1.46bn will be invested in new PC
+projects with total capacity of 200ktpa. RMB400mn will be used to build WHC
+Shanghai Center, and the rest of funds will be used to repay bank loans and
+replenish working capital.
+Dividend and capital expenditure
+WHC's capex should remain at c.RMB3.3-3.6bn, which is the maintenance
+Dividend payout is set to
+capex, given the company does not have any Greenfield investment committed
+increase with strong FCF
+currently. Moreover, in keeping with trends we have observed, WHC will likely
+ahead.
+continue to increase dividends, with the payout ratio likely to increase from
+31% in 2016 to 35% in 2017E and further to 40% in 2018-19E.
+Source: Company data, Deutsche Bank estimates
+Company profile
+Business overview
+Wanhua Chemical Group Co., Ltd. was established on 20 December 1998, and
+WHC is a leading
+was listed on the Shanghai Stock Exchange on 5 January 2001. As the most
+international A-share listed
+competitive MDI producer in the world, WHC has set up R&D centres,
+chemical group in China
+manufacturing bases, and business centers in Yantai, Ningbo, Beijing, Zhuhai,
+Chengdu, and Shanghai in China, and it has set up more than 10 subsidiaries
+or branches in Europe, the Middle East, America, Japan, Russia, India, etc.
+Meanwhile, WHC has its own overseas manufacturing bases in Hungary.
+The main business of WHC is R&D, production, and sales of PU series
+PU is the major business
+products, such as isocyanate and polyol; petrochemical series products, such
+product of WHC
+as PO/AE; and functioning materials of water-based coatings and specialty
+chemicals.
+Company structure & management profile
+Source: Company data, Deutsche Bank
+Production flow
+Key products abbreviation
+The author of this report would like to acknowledge the contribution made by
+Luka Li.
+Important Disclosures
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Other
 information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
 primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
-http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr. Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the
-"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
-      
-For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
-research, please see the most recently published company report or visit our global disclosure look-up page on our 
-website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=600309.SS 
- 
-Analyst Certification 
-The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
-subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
-any compensation for providing a specific recommendation or view in this report. Vitus Leung 
-     
-Historical recommendations and target price: Wanhua Chemical (600309.SS) 
-(as of 8/10/2017) 
-0.00
-5.00
-10.00
-15.00
-20.00
-25.00
-30.00
-35.00
-40.00
-Aug 15
-Nov 15
-Feb 16
-May 16
-Aug 16
-Nov 16
-Feb 17
-May 17
-Security Price
-Date
- 
-Previous Recommendations 
-Strong Buy 
-Buy 
-Market Perform 
-Underperform 
-Not Rated 
-Suspended Rating 
-Current Recommendations 
-Buy 
-Hold 
-Sell 
-Not Rated 
-Suspended Rating 
-*New Recommendation Structure 
-as of September 9,2002 
-**Analyst is no longer at Deutsche 
-Bank 
-        
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 27
- 
- 
- 
-Equity rating key 
-Equity rating dispersion and banking relationships 
-Buy: Based on a current 12- month view of total 
-share-holder return (TSR = percentage change in 
-share price from current price to projected target price 
-plus pro-jected dividend yield ) , we recommend that 
-investors buy the stock. 
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Vitus Leung
+Historical recommendations and target price: Wanhua Chemical (600309.SS)
+(as of 8/10/2017)
+Equity rating key
+Equity rating dispersion and banking relationships
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
+share price from current price to projected target price
+plus pro-jected dividend yield ) , we recommend that
+investors buy the stock.
 Sell: Based on a current 12-month view of total share-
-holder return, we recommend that investors sell the 
-stock 
-Hold: We take a neutral view on the stock 12-months 
-out and, based on this time horizon, do not 
-recommend either a Buy or Sell. 
-Newly issued research recommendations and target 
-prices supersede previously published research. 
-53 %
-35 %
-11 %
-19 %
-20 %
-13 %
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
-Buy
-Hold
-Sell
-Asia-Pacific Universe
-Companies Covered
-Cos. w/ Banking Relationship
- 
-  
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 28 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
- 
-Additional Information 
- 
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 
-"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources 
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
-party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor 
-is responsible for the accuracy or security controls of these websites. 
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this 
-report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche 
-Bank may act as principal for its own account or as agent for another person. 
- 
-Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own 
-account or with customers, in a manner inconsistent with the views taken in this research report. Others within 
-Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those 
-taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, 
-equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication 
-may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or 
-otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. 
-Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment 
-banking, trading and principal trading revenues. 
- 
-Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do 
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides 
-liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts 
-sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term 
-ratings. Trade ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high 
-conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a 
-time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to 
-time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that 
-reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities 
-discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return 
-or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to 
-otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently 
-becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company 
-specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion 
-of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are 
-published at irregular intervals. This report is provided for informational purposes only and does not take into account 
-the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation 
-of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are 
-inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not 
-be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of 
-financial instruments are subject to change without notice and investment transactions can lead to losses as a result of 
-price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's 
-currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily 
-indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session, 
-and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank, 
-subject companies, and in some cases, other parties. 
- 
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding 
-our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect 
-to 
-our 
-research 
-is 
-available 
-on 
-our 
-website 
-under 
-Disclaimer 
-found 
-on 
-the 
-Legal 
-tab. 
- 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 29
- 
- 
- 
-Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise 
-to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash 
-flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a 
-loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the 
-loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse 
-macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation 
-(including changes in assets holding limits for different types of investors), changes in tax policies, currency 
-convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and 
-settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed 
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to 
-FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the 
-index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended 
-to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon 
-rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is 
-also important to acknowledge that funding in a currency that differs from the currency in which coupons are 
-denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to 
-the 
-risks 
-related 
-to 
-rates 
-movements. 
- 
-Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk. 
-The appropriateness or otherwise of these products for use by investors is dependent on the investors' own 
-circumstances including their tax position, their regulatory environment and the nature of their other assets and 
-liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar 
-to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can 
-be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be 
-incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable 
-for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized 
-Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the 
-website please contact your Deutsche Bank representative for a copy of this important document. 
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i) 
-exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by 
-numerous market factors, including world and national economic, political and regulatory events, events in equity and 
-debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed 
-exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are 
-affected by the currency of an underlying security, effectively assume currency risk. 
- 
-Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the 
-investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at 
-https://gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to 
-review this information before investing.  
- 
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial 
-adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information 
-provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice, 
-Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever 
-as to any strategies, products or any other information presented in the materials. Information contained herein is being 
-provided solely on the basis that the recipient will make an independent assessment of the merits of any investment 
-decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any 
-trading strategy. 
- 
-The information presented is general in nature and is not directed to retirement accounts or any specific person or 
-account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in 
-making Your decision. The information we provide is being directed only to persons we believe to be financially 
-sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to 
-particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Page 30 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this 
-directly 
-from 
-us, 
-we 
-ask 
-that 
-you 
-inform 
-us 
-immediately. 
- 
-United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and 
-SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA 
-regulations.  
- 
-Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated 
-in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under 
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal 
-Financial Supervisory Authority. 
- 
-United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester 
-House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the 
-Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial 
-Conduct Authority. Details about the extent of our authorisation and regulation are available on request. 
- 
-Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited. 
- 
-India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India 
-(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received 
-administrative warnings from the SEBI for breaches of Indian regulations. 
- 
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial 
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, 
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks 
-involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by 
-multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to 
-losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional 
-losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories 
-of investment advice, products and services. Recommended investment strategies, products and services carry the risk 
-of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in 
-market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the 
-relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in 
-this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the 
-name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank 
-Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are 
-not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's 
-equity analysts are based on a 12-month forecast period. 
- 
-Korea: Distributed by Deutsche Securities Korea Co. 
- 
-South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register 
-Number 
-in 
-South 
-Africa: 
-1998/003298/10). 
- 
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles 
-Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters 
-arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who 
-is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and 
-regulations), they accept legal responsibility to such person for its contents. 
- 
-Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should 
-independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank 
-research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without 
-written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and 
-11 August 2017 
-Chemicals 
-Wanhua Chemical 
-Deutsche Bank AG/Hong Kong 
-Page 31
- 
- 
- 
-is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, 
-Taipei 
-Branch 
-may 
-not 
-execute 
-transactions 
-for 
-clients 
-in 
-these 
-securities/instruments. 
- 
-Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre 
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall 
-within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, 
-West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related 
-financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre 
-Regulatory Authority. 
- 
-Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
-any appraisal or evaluation activity requiring a license in the Russian Federation. 
- 
-Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the 
-Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall 
-within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya 
-District, 
-P.O. 
-Box 
-301809, 
-Faisaliah 
-Tower 
-- 
-17th 
-Floor, 
-11372 
-Riyadh, 
-Saudi 
-Arabia. 
- 
-United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated 
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services 
-activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai 
-International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been 
-distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as 
-defined by the Dubai Financial Services Authority. 
- 
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product 
-referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please 
-refer 
-to 
-Australian 
-specific 
-research 
-disclosures 
-and 
-related 
-information 
-at 
-https://australia.db.com/australia/content/research-information.html  
- 
-Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian 
-Corporations Act and New Zealand Financial Advisors Act respectively. 
- 
-Additional information relative to securities, other financial products or issuers discussed in this report is available upon 
-request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent. 
-Copyright © 2017 Deutsche Bank AG 
-  
- 
- 
- 
- 
- 
-David Folkerts-Landau 
-Group Chief Economist and Global Head of Research 
- 
-Raj Hindocha 
-Global Chief Operating Officer 
-Research 
-Michael Spencer 
-Head of APAC Research 
-Global Head of Economics 
-Steve Pollard 
-Head of Americas Research 
-Global Head of Equity Research 
-Anthony Klarman 
-Global Head of 
-Debt Research 
-Paul Reynolds 
-Head of EMEA 
-Equity Research 
-Dave Clark 
-Head of APAC 
-Equity Research 
-Pam Finelli 
-Global Head of 
-Equity Derivatives Research 
- 
-  
-Andreas Neubauer 
-Head of Research - Germany 
-Spyros Mesomeris 
-Global Head of Quantitative 
-and QIS Research 
-  
-  
-International locations 
-Deutsche Bank AG 
-Deutsche Bank Place 
-Level 16 
-Corner of Hunter & Phillip Streets 
-Sydney, NSW 2000 
-Australia 
-Tel: (61) 2 8258 1234 
-Deutsche Bank AG 
-Mainzer Landstrasse 11-17 
-60329 Frankfurt am Main 
-Germany 
-Tel: (49) 69 910 00 
-Deutsche Bank AG 
-Filiale Hongkong 
-International Commerce Centre, 
-1 Austin Road West,Kowloon, 
-Hong Kong 
-Tel: (852) 2203 8888 
-Deutsche Securities Inc. 
-2-11-1 Nagatacho 
-Sanno Park Tower 
-Chiyoda-ku, Tokyo 100-6171 
-Japan 
-Tel: (81) 3 5156 6770 
- 
-Deutsche Bank AG London 
-1 Great Winchester Street 
-London EC2N 2EQ 
-United Kingdom 
-Tel: (44) 20 7545 8000 
-Deutsche Bank Securities Inc. 
-60 Wall Street 
-New York, NY 10005 
-United States of America 
-Tel: (1) 212 250 2500 
- 
- 
- 
-  
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank may act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on.
+Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
+banking, trading and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term
+conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a
+time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to
+time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that
+reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently
+becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company
+specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion
+of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are
+published at irregular intervals. This report is provided for informational purposes only and does not take into account
+the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation
+of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are
+inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not
+be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of
+financial instruments are subject to change without notice and investment transactions can lead to losses as a result of
+price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's
+currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily
+indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session,
+and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank,
+subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+available
+website
+under
+Disclaimer
+found
+the
+our
+research
+our
+Legal
+tab.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the
+index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended
+to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon
+rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is
+also important to acknowledge that funding in a currency that differs from the currency in which coupons are
+denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to
+risks
+the
+related
+rates
+movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own
+circumstances including their tax position, their regulatory environment and the nature of their other assets and
+liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar
+to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can
+be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be
+incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable
+for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized
+website please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+review this information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
+provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+from
+inform
+directly
+ask
+that
+you
+immediately.
+us,
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
+Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India
+(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+South
+1998/003298/10).
+Africa:
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters
+arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who
+is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and
+regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
+research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+clients
+securities/instruments.
+Branch
+not
+execute
+transactions
+for
+these
+may
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
+within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre
+Regulatory Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
+within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+17th
+Faisaliah
+Tower
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+refer
+Australian
+specific
+research
+disclosures
+information
+and
+related
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
+Head of Americas Research
+Global Head of Economics
+Research
+Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
+Equity Derivatives Research
+Andreas Neubauer
+Spyros Mesomeris
+Global Head of Quantitative
+Head of Research - Germany
+and QIS Research
+International locations
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
+Japan
+Australia
+Deutsche Bank AG London
+Deutsche Bank Securities Inc.
+1 Great Winchester Street
+60 Wall Street
+London EC2N 2EQ
+United Kingdom
+United States of America

@@ -1,55 +1,46 @@
-QSLI
 Rating
+Date
+Company
 Hold
-Valuation & Risks
-Energy
-Chemicals
-Price at 4 Sep 2017 (CNY)
-11.65
-Price target - 12mth (CNY)
-11.66
-52-week range (CNY)
-21.29 - 9.55
-Shenzhen Index
-2,046
+OSLI
 Forecast Change
 Asia
 China
-Company
-QSLI
 Reuters
 Bloomberg
 Exchange
 Ticker
+Energy
 000792.SZ
 000792 CH
 SHZ
-000792
-Date
-5 September 2017
-Deutsche Bank
-Markets Research
-Diﬃcult market ahead, but debt-to-
+Chemicals
+Difficult market ahead, but debt-to-
 equity swap plan holding up valuation
+Valuation & Risks
+Vitus Leung
 Core earnings break even; challenging market ahead but valuation holding up
+Research Analyst
 We expect a challenging operating environment for QSLI, particularly for its
 chemical integration project, which overhangs QSLI's performance. The company
 showed signs of improvement in operations QoQ in 2Q17 and reached operational
-breakeven; if we strip out one-oﬀ items (i.e., asset impairment), QSLI's core
-earnings entered positive territory with a proﬁt of RMB23mn in 2Q17 vs. a loss of
+Johnson Wan
+breakeven; if we strip out one-off items (i.e., asset impairment), QSLI's core
+Research Analyst
+earnings entered positive territory with a profit of RMB23mn in 2Q17 vs. a loss of
 RMB210mn in 1Q17, thanks to an improved transportation situation with higher
 potash sales volume QoQ. 2H17 should see an improvement HoH, with higher
 sales volume of potash/lithium, while the potential debt-to-equity swap may be
 the next catalyst for the share price; however, shaky market conditions plus
-diﬃcult ﬁnancials with higher DD&A charges could oﬀset the positives. We see a
-balanced risk-reward proﬁle and keep our Hold rating and TP of RMB11.66/share.
+difficult financials with higher DD&A charges could offset the positives. We see a
+balanced risk-reward profile and keep our Hold rating and TP of RMB11.66/share.
 Debt-to-equity swap plan to support share price; 1H17 net gearing at 114%
+Price/price relative
 The potential restructuring of debt should support QSLI's valuation, with two
 restructurings planned: 1) QSLI has proposed a debt-to-equity swap; and 2) a new
-bond issuance. EBIT broke even at RMB174mn in 1H17, while operating cash ﬂow
+bond issuance. EBIT broke even at RMB174mn in 1H17, while operating cash flow
 was RMB401mn, down 27% YoY. We see limited balance sheet improvement,
 with a net gearing of 114% in 1H17 (vs. 115% in 1H16/125% in FY16). On the other
-hand, QSLI signed a debt-to-equity swap MOU with Qinghai SASAC and CCB,
 forming a deleveraging fund of RMB20bn to facilitate the debt-to-equity swap
 process. The details of the plan are still under negotiation. As per our analysis,
 the debt-to-equity swap will likely be accretive for both ROE and EPS; under our
@@ -61,86 +52,26 @@ of RMB-0.188/share), down 243% YoY and in line with the preliminary results
 announcement. The sluggish 1H17 performance was mainly attributed to 1) asset
 impairment of RMB448mn on urea/methanol/inventory; 2) a 25% YoY decline in
 potash sales volume; 3) a 19% YoY dip in potash ASP; and 4) higher DD&A on
-magnesium integration and Haina PVC projects. Stripping out the one-oﬀ items,
-1H17 core net loss would have been RMB142mn vs. 1H16 core net proﬁt of
+magnesium integration and Haina PVC projects. Stripping out the one-off items,
+1H17 core net loss would have been RMB142mn vs. 1H16 core net profit of
 RMB347mn. Looking at the cash earnings, however, the EBITDA to net interest
 expenses was 2.0x in 1H17, while net gearing stood at 114%.
-■
 Sluggish potash performance: the segment revenue declined 39% YoY
 to RMB2.3bn, while GPM fell 7%pts YoY to 66%, due to 1) a 25% YoY
-Vitus Leung
-Research Analyst
-+852-2203 6158
-Johnson Wan
-Research Analyst
-+852-2203 6163
-Key changes
-Sales (FYE)
-8,757 to 8,272 ↓
--5.5%
-Op prof margin
-(FYE)
-18.5 to 13.6 ↓
--26.2%
-Net proﬁt (FYE)
-446.8 to -208.6 ↓
--146.7%
-Source: Deutsche Bank
-Price/price relative
-QSLI
-Shenzhen Index (Rebased)
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-0
-10
-20
-30
-Performance (%)
-1m
-3m 12m
-Absolute
--1.8 -17.7 -41.1
-Shenzhen Index
-5.3
-9.4
--2.6
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
--0.9
-Net debt/equity (%)
-155.9
-Book value/share (CNY)
-8.73
-Price/book (x)
-1.3
-Net interest cover (x)
-1.1
-Operating proﬁt margin (%)
-13.6
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
 Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
 ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017.
-Distributed on: 04/09/2017 23:12:07 GMT
-0bed7b6cf11c
-5 September 2017
-Chemicals
-QSLI
 decline in sales volume (by 626kton) to 1,847kton, from 2,474kton in
 1H16, attributed to delivery delays caused by transportation regulations
 beginning 4Q16; and 2) a 19% YoY dip in potash ASP to RMB1,284/ton
 (from RMB1,588/ton), excluding tax and transportation cost.
-■
 The worse-than-expected loss in the chemical segment was due to 1) a
 higher DD&A charge on magnesium integration and Haina PVC projects
 starting operations; 2) impairment provisions for inventory and urea and
 methanol plants; and 3) a dip in the overall utilization rate to below
-70%, inﬂuenced by an environmental inspection. This oﬀset the strong
+70%, influenced by an environmental inspection. This offset the strong
 performance in lithium, where revenue increased 4x to RMB172mn in
 1H17 (despite a GPM of 59%). Looking ahead, QSLI expects to double
 lithium carbonate production to c.4kton in 2H17.
@@ -151,1489 +82,38 @@ keep our DCF-derived TP at RMB11.66 (assuming a 6.6% WACC and 2% terminal
 growth), which implies 1.2x P/B in 17-18E; we believe the risks and rewards are
 balanced at a current valuation of 1.2x 17E P/B vs 1.1% 17E ROE, supported by
 a potentially ROE-/EPS-accretive debt-to-equity swap plan. Key downside risks:
-1) sluggish chemical prices and soft demand could lead to lower product sales;
+sluggish chemical prices and soft demand could lead to lower product sales;
 and 2) unfavorable government policy. Key upside risks: 1) better-than-expected
 potash prices; and 2) faster-than-expected demand growth.
-Figure 1: QSLI debt-to-equity swap scenario analysis
-Summary
-Unit
-Scenario 1
-Scenario 2
-Scenario 3
-Scenario 4
-DB Target 
-Price
-Current share 
-price
-+30% of current 
-share prices
--30% of current 
-share prices
-Swap @ share price
-RMB/share
-11.66
-11.65
-17.475
-8.155
-EPS enhancement
-%
-+135%
-+135%
-+169%
-+102%
-ROE enhancement
-%
-+1.9%pts
-+1.9%pts
-+1.9%pts
-+1.9%pts
-Oringal number of shares
-mn of shares
-2,786
-Number of new shares
-mn of shares
-1,715
-1,717
-1,144
-2,452
-After swap number of shares
-mn of shares
-4,501
-4,503
-3,931
-5,239
-Source: Company data, Deutsche Bank estimates
-Forecasts and ratios
-Year End Dec 31
-2015A
-2016A
-2017E
-2018E
-2019E
-Sales (CNYm)
-10,882.2
-10,364.1
-8,271.8
-9,006.9
-10,650.7
-EBITDA (CNYm)
-3,651.6
-3,172.2
-3,725.7
-4,387.8
-5,684.9
-Reported NPAT (CNYm)
-559.0
-341.3
--208.6
-268.5
-953.4
-Reported EPS FD(CNY)
-0.23
-0.12
--0.07
-0.10
-0.34
-DB EPS FD(CNY)
-0.23
-0.12
--0.07
-0.10
-0.34
-DB EPS growth (%)
-–
--47.2
-–
-–
-255.1
-Price/Book (x)
-3.1
-2.2
-1.3
-1.3
-1.3
-PER (x)
-105.2
-157.9
-–
-120.9
-34.0
-EV/EBITDA (x)
-24.9
-29.1
-18.8
-15.8
-11.9
-DPS (net) (CNY)
-0.02
-0.01
-0.00
-0.01
-0.04
-Yield (net) (%)
-0.1
-0.1
-0.0
-0.1
-0.3
-Source: Deutsche Bank estimates, company data
-Page 2
-Deutsche Bank AG/Hong Kong
-5 September 2017
-Chemicals
-QSLI
 Debt-to-equity scenario analysis
-Figure 2: Debt-to-equity scenario analysis for FY18E EPS and ROE
-Summary
-Unit
-Scenario 1
-Scenario 2
-Scenario 3
-Scenario 4
-DB Target 
-Price
-Current share 
-price
-+30% of current 
-share prices
--30% of current 
-share prices
-Swap @ share price
-RMB/share
-11.66
-11.65
-17.475
-8.155
-EPS enhancement
-%
-+135%
-+135%
-+169%
-+102%
-ROE enhancement
-%
-+1.9%pts
-+1.9%pts
-+1.9%pts
-+1.9%pts
-Oringal number of shares
-mn of shares
-2,786
-Number of new shares
-mn of shares
-1,715
-1,717
-1,144
-2,452
-After swap number of shares
-mn of shares
-4,501
-4,503
-3,931
-5,239
-Interest saving analysis
-Scenario 1
-Scenario 2
-Scenario 3
-Scenario 4
-Debt-to-equity swap amount
-RMBmn
-20,000
-Interest rate
-%
-5%
-Interest saving
-RMBmn
-1,000
-Tax rate
-%
-25%
-Potetnial income accretion 
-RMBmn
-750
-FY18E original net income
-RMBmn
-268
-FY18E after swap net income
-RMBmn
-1,018
-FY18E oringinal EPS
-RMB/share
-0.10
-0.10
-0.10
-0.10
-FY18E after swap EPS
-RMB/share
-0.23
-0.23
-0.26
-0.19
-EPS enhancement
-%
-+135%
-+135%
-+169%
-+102%
-ROE scenario analysis
-Scenario 1
-Scenario 2
-Scenario 3
-Scenario 4
-FY17E shareholders equity
-RMBmn
-24,316
-FY18E original shareholders equity
-RMBmn
-24,555
-FY18E orginal ROE
-%
-1.1%
-FY18 after swap shareholders equity
-RMBmn
-44,316
-FY18 after swap ROE
-%
-3.0%
-3.0%
-3.0%
-3.0%
-ROE enhancement
-%
-+1.9%pts
-+1.9%pts
-+1.9%pts
-+1.9%pts
-Source: Company data, Deutsche Bank estimates
-Key ﬁnancial data
-Figure 3: 1H17 income statement
-RMB million
-1H13
-2H13
-1H14
-2H14
-1H15
-2H15
-1H16
-2H16
-1H17
-1H17 YoY
-1H17 HoH
-Revenue
-4,129
-3,966
-4,204
-6,271
-4,317
-6,565
-5,273
-5,091
-5,065
--4%
--1%
-COGS
-(1,872)
-(2,059)
-(2,049)
-(3,028)
-(2,225)
-(2,967)
-(2,594)
-(3,347)
-(3,542)
-37%
-6%
-Gross Profit
-2,257
-1,907
-2,155
-3,242
-2,092
-3,598
-2,680
-1,744
-1,524
--43%
--13%
-SG&A
-(705)
-(920)
-(830)
-(1,322)
-(908)
-(1,640)
-(1,357)
-(572)
-(674)
--50%
-18%
-Operating profit
-1,552
-987
-1,324
-1,920
-1,183
-1,958
-1,323
-1,172
-849
--36%
--28%
-Other Income/(loss)
-(235)
-(254)
-(465)
-(334)
-(287)
-(1,080)
-(297)
-(642)
-(675)
-127%
-5%
-EBIT
-1,318
-732
-859
-1,586
-896
-878
-1,025
-529
-174
--83%
--67%
-Interest expense
-(262)
-(358)
-(310)
-(415)
-(449)
-(563)
-(584)
-(481)
-(660)
-13%
-37%
-Pretax income
-1,056
-375
-549
-1,171
-447
-316
-442
-48
-(486)
-NM
-NM
-Tax expense
-(163)
-(202)
-(112)
-(277)
-(106)
-(112)
-(78)
-(202)
-(35)
--55%
--83%
-Net profit
-893
-173
-437
-894
-341
-222
-364
-(154)
-(521)
--243%
-238%
-NP attributable to shareholders 
-822
-230
-429
-873
-361
-198
-329
-12
-(523)
-NM
-NM
-EPS
-0.52
-0.14
-0.27
-0.55
-0.23
-0.12
-0.18
-0.01
-(0.19)
-NM
-NM
-GPM%
-55%
-48%
-51%
-52%
-48%
-55%
-51%
-34%
-30%
--21% ppts
--4% ppts
-OPM%
-38%
-25%
-32%
-31%
-27%
-30%
-25%
-23%
-17%
--8% ppts
--6% ppts
-NIM%
-22%
-4%
-10%
-14%
-8%
-3%
-7%
--3%
--10%
--17% ppts
--7% ppts
-SG&A as % of Revenue
-17%
-23%
-20%
-21%
-21%
-25%
-26%
-11%
-13%
--12% ppts
-2% ppts
-Effective tax rate
-15%
-54%
-20%
-24%
-24%
-36%
-18%
-422%
--7%
--25% ppts
--429% ppts
+Key financial data
 Source: Company data, Deutsche Bank
 Key operating data
-Deutsche Bank AG/Hong Kong
-Page 3
-5 September 2017
-Chemicals
-QSLI
 Figure 4: Potash operating details
-Potassium Chloride
-1H16
-1H17
-1H17 YoY %
-Revenue (RMB mn)
-3,929
-2,372
--40%
-ASP(RMB/t)
-1,588
-1,284
--19%
-Production (th tonne)
-1,925
-1,977
-3%
-Sales (th tonne)
-2,474
-1,847
--25%
-GPM%
-73%
-66%
--8% ppts
-Source: Company data, Deutsche Bank
 Comps
 Figure 5: Global fertilizer comps
-Reuters
-DB
-Trading
-01-Sep
-Mkt Cap
-Name
-Ticker
-Rating
-Ccy
-Price
-(USD mn)
-FY17E FY18E FY17E FY18E FY17E FY18E FY17E FY18E FY17E FY18E FY17E FY18E
-China - H Listed
-China BlueChem
-3983.HK
-Buy
-HKD
-2.35
-1,355
-19.5
-9.9
-0.7
-0.6
-3.4
-6.5
-2.6
-5.1
-2.4
-1.6
-6.1
-11.0
-Sinofert
-0297.HK
-Hold
-HKD
-1.10
-979
-237.2
-21.9
-0.8
-0.7
-0.3
-3.4
-0.0
-1.2
-6.0
-3.3
--2.2
-2.9
-Weighted average
-99.8
-13.9
-0.7
-0.7
-1.9
-4.7
-1.9
-3.6
-4.9
-3.5
-2.3
-6.8
-China - A Listed
-3
-QSLI
-000792.SZ
-Hold
-CNY
-11.71
-4,226
-NA
-121.5
-1.2
-1.2
--0.8
-1.0
-NA
-0.1
-10.3
-8.7
--29%
-27%
-Shandong Kingenta
-002470.SZ
-NR
-CNY
-8.17
-3,873
-19.0
-16.1
-2.5
-2.3
-14.1
-15.4
-1.6
-1.9
-14.1
-11.3
-NA
-NA
-Yunnan Yuntianhua
-600096.SS
-NR
-CNY
-8.02
-1,595
-NA
-100.3
-2.8
-2.7
--2.7
-3.0
-NA
-NA
-12.9
-12.8
-NA
-NA
-Hualu-Hengsheng
-600426.SS
-NR
-CNY
-11.00
-2,683
-15.7
-12.0
-1.8
-1.6
-12.0
-13.8
-1.0
-1.3
-8.9
-7.9
-NA
-NA
-Shenzhen Batian
-002170.SZ
-NR
-CNY
-7.02
-940
-21.9
-15.3
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-Hubei Xingfa
-600141.SS
-NR
-CNY
-16.34
-1,231
-34.5
-28.6
-1.3
-1.3
-4.9
-5.8
-0.8
-0.9
-10.1
-9.5
-NA
-NA
-Weighted average
-10.8
-44.9
-1.5
-1.4
-5.8
-7.5
-1.2
-1.6
-9.2
-8.0
--0.3
-0.3
-Global (ex-HK/China) 
-Industries Qatar
-IQCD.QA
-Buy
-QAR
-91.00
-14,964
-14.2
-12.9
-1.5
-1.3
-10.9
-10.8
-4.4
-4.4
-27.4
-21.3
-2.7
-3.1
-Potash Corp
-POT.N
-Hold
-USD
-17.28
-14,517
-28.2
-25.4
-1.7
-1.7
-5.9
-6.7
-NA
-NA
-13.3
-11.7
-NA
-NA
-Agrium
-AGU.CN
-NR
-CAD
-121.04
-13,408
-19.9
-16.4
-2.1
-2.0
-10.8
-12.3
-3.6
-3.7
-10.5
-9.2
-NA
-NA
-Ma'aden
-1211.SE
-Sell
-SAR
-50.50
-15,734
-82.3
-44.5
-2.3
-2.2
-2.8
-5.0
-0.0
-0.0
-23.0
-17.2
-2.5
-3.4
-Yara
-YAR.OL
-Hold
-NOK
-329.20
-11,547
-20.3
-16.2
-1.2
-1.1
-5.9
-7.1
-2.7
-3.0
-9.3
-8.1
-5.5
-6.3
-PTT GC
-PTTGC.BK
-Buy
-THB
-76.00
-10,321
-11.8
-11.8
-1.3
-1.2
-11.4
-10.9
-4.2
-4.3
-7.0
-6.3
-11.7
-12.4
-Uralkali
-URKAq.L
-Sell
-USD
-138.20
-5,875
-8.7
-NA
-4.0
-NA
-60.3
-NA
-0.0
-NA
-8.3
-NA
-13.1
-NA
-PHOSAGRO
-PHORq.L
-Hold
-USD
-14.20
-5,517
-9.5
-9.0
-3.1
-2.6
-35.9
-31.1
-5.3
-5.5
-7.0
-6.5
-19.4
-18.7
-K + S
-SDFGn.DE
-Sell
-EUR
-20.43
-4,644
-20.6
-14.7
-0.8
-0.8
-4.1
-5.6
-2.2
-3.4
-11.4
-9.1
-3.4
-4.3
-Coromandel Int'l 
-CORF.BO
-Buy
-INR
-437.55
-1,168
-16.4
-21.0
-3.2
-3.9
-18.0
-19.7
-1.9
-1.4
-10.1
-12.7
-12.5
-14.0
-Weighted average
-26.1
-17.8
-2.1
-1.5
-13.6
-9.3
-2.7
-2.4
-14.1
-10.6
-9.8
-7.1
-ROIC (%)
-P/E (x)
-Dvd yield (%) EV/EBITDA (x)
-ROE (%)
-P/B (x)
 Source: Bloomberg Finance L.P., Deutsche Bank estimates; Note: Bloomberg consensus estimates for non-rated (NR) companies
-Page 4
-Deutsche Bank AG/Hong Kong
-5 September 2017
-Chemicals
-QSLI
-Model updated: 04 September 2017
-Running the numbers
-Asia
-China
-Chemicals
 QSLI
 Reuters: 000792.SZ
 Bloomberg: 000792 CH
 Hold
-Price (4 Sep 17)
-CNY 11.65
-Target Price
-CNY 11.66
-52 Week range
-CNY 9.55 - 21.29
-Market cap (m)
-CNYm 27,794
- USDm 4,225.9
 Company Profile
 QSLI is the largest potash fertilizer (MOP) manufacturer in China
 with 3.5mntpa of capacity and its new 1.5mntpa capacity is
 expected to come on-stream for a production trial in 2H16, which
 would boost capacity by 43%.
-Price Performance
-QSLI
-Shenzhen Index (Rebased)
-Jan '16
-Jan '17
-Jul '16
-Jul '17
-5
-10
-15
-20
-25
-30
-Margin Trends
-EBITDA Margin
-EBIT Margin
-15
-16
-17E
-18E
-19E
-10
-20
-30
-40
-50
-60
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-15
-16
-17E
-18E
-19E
--30
--20
--10
-0
-10
-20
-30
--2
-0
-2
-4
-6
-8
-10
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-15
-16
-17E
-18E
-19E
-0
-50
-100
-150
-200
-1
-1.5
-2
-2.5
-3
 Vitus Leung
-+852 2203 6158
-vitus.leung@db.com
-Fiscal year end 31-Dec
-2015
-2016
-2017E
-2018E
-2019E
-Financial Summary
-DB EPS (CNY)
-0.23
-0.12
--0.07
-0.10
-0.34
-Reported EPS (CNY)
-0.23
-0.12
--0.07
-0.10
-0.34
-DPS (CNY)
-0.02
-0.01
-0.00
-0.01
-0.04
-BVPS (CNY)
-8.2
-8.8
-8.7
-8.8
-9.1
-Weighted average shares (m)
-2,410
-2,786
-2,786
-2,786
-2,786
-Average market cap (CNYm)
-58,814
-53,884
-27,794
-27,794
-27,794
-Enterprise value (CNYm)
-90,958
-92,178
-70,023
-69,146
-67,475
-Valuation Metrics
-P/E (DB) (x)
-105.2
-157.9
-nm
-120.9
-34.0
-P/E (Reported) (x)
-105.2
-157.9
-nm
-120.9
-34.0
-P/BV (x)
-3.12
-2.17
-1.33
-1.32
-1.28
-FCF Yield (%)
-nm
-nm
-nm
-5.6
-7.4
-Dividend Yield (%)
-0.1
-0.1
-0.0
-0.1
-0.3
-EV/Sales (x)
-8.4
-8.9
-8.5
-7.7
-6.3
-EV/EBITDA (x)
-24.9
-29.1
-18.8
-15.8
-11.9
-EV/EBIT (x)
-38.5
-47.2
-62.0
-50.9
-29.1
-Income Statement (CNYm)
-Sales revenue
-10,882
-10,364
-8,272
-9,007
-10,651
-Gross profit
-5,690
-4,424
-3,703
-4,243
-5,681
-EBITDA
-3,652
-3,172
-3,726
-4,388
-5,685
-Depreciation
-1,249
-1,182
-2,535
-2,965
-3,299
-Amortisation
-38
-39
-62
-64
-67
-EBIT
-2,365
-1,951
-1,129
-1,358
-2,319
-Net interest income(expense)
--1,012
--1,065
--1,036
--1,029
--1,008
-Associates/affiliates
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
--1,151
--956
--448
-0
-0
-Other pre-tax income/(expense)
-560
-560
-56
-56
-56
-Profit before tax
-762
-489
--299
-385
-1,367
-Income tax expense
-218
-280
--171
-220
-782
-Minorities
--15
--132
-80
--104
--368
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-Net profit
-559
-341
--209
-268
-953
-DB adjustments (including dilution)
-0
-0
-0
-0
-0
-DB Net profit
-559
-341
--209
-268
-953
-Cash Flow (CNYm)
-Cash flow from operations
-753
-2,028
-731
-4,232
-4,616
-Net Capex
--5,119
--3,321
--2,800
--2,400
--2,200
-Free cash flow
--4,366
--1,293
--2,069
-1,832
-2,416
-Equity raised/(bought back)
-4,862
-1,482
-0
-0
-0
-Dividends paid
--2,579
--2,311
--1,036
--1,059
--1,113
-Net inc/(dec) in borrowings
-6,588
--1,966
--1,627
--482
--602
-Other investing/financing cash flows
-1,227
-944
-0
-0
-0
-Net cash flow
-5,732
--3,144
--4,732
-291
-701
-Change in working capital
--3,236
--1,597
--2,774
-8
--343
-Balance Sheet (CNYm)
-Cash and other liquid assets
-9,031
-5,813
-1,081
-1,372
-2,073
-Tangible fixed assets
-61,594
-65,680
-65,893
-65,283
-64,142
-Goodwill/intangible assets
-767
-816
-806
-787
-761
-Associates/investments
-563
-617
-617
-617
-617
-Other assets
-8,759
-10,020
-9,701
-10,602
-12,105
-Total assets
-80,713
-82,946
-78,098
-78,660
-79,698
-Interest bearing debt
-40,166
-42,876
-41,999
-41,517
-40,914
-Other liabilities
-16,065
-13,698
-9,855
-10,765
-11,924
-Total liabilities
-56,231
-56,574
-51,854
-52,281
-52,839
-Shareholders' equity
-22,911
-24,524
-24,316
-24,555
-25,403
-Minorities
-1,572
-1,847
-1,928
-1,824
-1,456
-Total shareholders' equity
-24,482
-26,372
-26,243
-26,379
-26,859
-Net debt
-31,135
-37,063
-40,918
-40,145
-38,842
-Key Company Metrics
-Sales growth (%)
-nm
--4.8
--20.2
-8.9
-18.3
-DB EPS growth (%)
-na
--47.2
-na
-na
-255.1
-EBITDA Margin (%)
-33.6
-30.6
-45.0
-48.7
-53.4
-EBIT Margin (%)
-21.7
-18.8
-13.6
-15.1
-21.8
-Payout ratio (%)
-8.9
-10.9
-nm
-11.0
-11.0
-ROE (%)
-2.8
-1.4
--0.9
-1.1
-3.8
-Capex/sales (%)
-47.1
-32.0
-33.8
-26.6
-20.7
-Capex/depreciation (x)
-4.0
-2.7
-1.1
-0.8
-0.7
-Net debt/equity (%)
-127.2
-140.5
-155.9
-152.2
-144.6
-Net interest cover (x)
-2.3
-1.8
-1.1
-1.3
-2.3
 Source: Company data, Deutsche Securities estimates
-Deutsche Bank AG/Hong Kong
-Page 5
-5 September 2017
-Chemicals
-QSLI
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-QSLI
-000792.SZ
-11.65 (CNY) 4 Sep 2017
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg, and other vendors. Other
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at http://gm.db.com/ger/disclosure/
-DisclosureDirectory.eqsr. Aside from within this report, important conﬂict disclosures can also be found at https://gm/db.com/equities under the "Disclosures Lookup" and "Legal"
-tabs. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Vitus Leung
-Historical recommendations and target price. QSLI (000792.SZ)
-(as of 09/04/2017)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-1
-2
-3
-4
-5
-6
-Sep '15
-Jan '16
-May '16
-Sep '16
-Jan '17
-May '17
-Sep '17
-0.00
-10.00
-20.00
-30.00
-40.00
-1.
-01/20/2016
-Hold, Target Price Change CNY 22,20 Vitus Leung
-4.
-02/08/2017
-Hold, Target Price Change CNY 19,10 Vitus Leung
-2.
-02/03/2016
-Hold, Target Price Change CNY 20,00 Vitus Leung
-5.
-05/03/2017
-Hold, Target Price Change CNY 17,50 Vitus Leung
-3.
-11/02/2016
-Hold, Target Price Change CNY 18,50 Vitus Leung
-6.
-06/30/2017
-Hold, Target Price Change CNY 11,66 Vitus Leung
-Page 6
-Deutsche Bank AG/Hong Kong
-5 September 2017
-Chemicals
-QSLI
+compensation for providing a specific recommendation or view in this report. Vitus Leung
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -1642,35 +122,30 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Deutsche Bank AG/Hong Kong
-Page 7
-5 September 2017
 Chemicals
 QSLI
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of these websites.
-?
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies or otherwise.
-Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
-paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment banking, trading
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
 and principal trading revenues.
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
-ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high conviction belief
 by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
 less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
 our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
@@ -1678,233 +153,193 @@ or events that may have a near-term or medium-term impact on the market price of
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
-the frequency of changes in market conditions and in both general and company speciﬁc economic prospects make it
-diﬃcult to update research at deﬁned intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
 the Research Department Management and as such the majority of reports are published at irregular intervals. This report
-is provided for informational purposes only and does not take into account the particular investment objectives, ﬁnancial
-situations, or needs of individual clients. It is not an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments
-or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst’s
-judgment. The ﬁnancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions. Prices and availability of ﬁnancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
+or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst's
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
 instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
-aﬀect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
 are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
 and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
 The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
 to our research is available on our website under Disclaimer found on the Legal tab.
-??
-Page 8
-Deutsche Bank AG/Hong Kong
-5 September 2017
-Chemicals
-QSLI
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed rate instruments (thus receiving these cash ﬂows),
-increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus cause a loss.
-The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the higher will be the
-loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the most common adverse
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
 macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
-(including changes in assets holding limits for diﬀerent types of investors), changes in tax policies, currency convertibility
-(which may constrain currency conversion, repatriation of proﬁts and/or the liquidation of positions), and settlement issues
-related to local clearing houses are also important risk factors to be considered. The sensitivity of ﬁxed income instruments
-to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to FX depreciation, or to
-speciﬁed interest rates – these are common in emerging markets. It is important to note that the index ﬁxings may -- by
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates – these are common in emerging markets. It is important to note that the index fixings may -- by
 construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
-proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. It is also important to acknowledge
-that funding in a currency that diﬀers from the currency in which coupons are denominated carries FX risk. Naturally,
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
 options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
 The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
 including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
-investors should take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
 contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
 result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
 than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
-to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options”, at http://
-www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the website please contact
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
 your Deutsche Bank representative for a copy of this important document.
-?
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
-exchange rates can be volatile and are subject to large ﬂuctuations; ( ii) the value of currencies may be aﬀected by
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
 numerous market factors, including world and national economic, political and regulatory events, events in equity and
 debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are
-aﬀected by the currency of an underlying security, eﬀectively assume currency risk.
-?
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
-investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at https://
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
 gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
 provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
 Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
 as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
 decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
 strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Deutsche Bank AG/Hong Kong
-Page 9
-5 September 2017
-Chemicals
-QSLI
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
-??
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
 German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal
 Financial Supervisory Authority.
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
-??
 India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
 as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
 warnings from the SEBI for breaches of Indian regulations.
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period.
 Korea: Distributed by Deutsche Securities Korea Co.
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raﬄes
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
 Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
 from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor, expert investor or institutional investor (as deﬁned in the applicable Singapore laws and regulations),
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
 they accept legal responsibility to such person for its contents.
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
-Page 10
-Deutsche Bank AG/Hong Kong
-5 September 2017
 Chemicals
 QSLI
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
 the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
 Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
 any appraisal or evaluation activity requiring a license in the Russian Federation.
-?
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
-the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the ﬁnancial services activities that
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
 fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are only available to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any ﬁnancial product
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
 referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
-refer to Australian speciﬁc research disclosures and related information at https://australia.db.com/australia/content/
 research-information.html
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
 Corporations Act and New Zealand Financial Advisors Act respectively.
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2017 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 11
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Research
+Global Head of Economics
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500

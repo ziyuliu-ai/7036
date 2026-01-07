@@ -1,525 +1,179 @@
-EQUITY RESEARCH 
- 
-Page | 1 | PHILLIPCAPITAL HONGKONG RESEARCH 
-寧德時代 (300750 CH) 
-動力電池王者，强者恒强 
- 
-中國 | 汽車零部件 | 首次覆蓋 
- 
- 
- 
-26 February 2020  
- 
- 
-投資概要 
-公司簡介 
+PhillipCapital
+寧德時代 (300750 CH)
+動力電池王者，强者恒强
+中國 | 汽車零部件 | 首次覆蓋
+買入 (首次)
+投資概要
+公司簡介
+(現價截至 2 月 24 日)
 寧德時代是全球領先的動力電池系統供應商，專注于新能源汽車動力電池系統和儲能
+目標價 CNY 185.3 (+20%)
 系統的研發、生産和銷售。主營業務包括動力電池系統、儲能系統和鋰電池材料系統
-（主要是三元前驅體），其中動力電池系統又包括電芯、模組和電池包，應用于電動
+(主要是三元前驅體),其中動力電池系統又包括電芯、模組和電池包,應用于電動
+公司資料
 乘用車、商用車等。此外，公司還通過收購廣東邦普進軍電池回收業務領域，投資控
-股國外鋰礦企業綁定原材料供應商，實現了上下游産業鏈的閉環布局。 
- 
-股權結構 
-公司發起人股東加上員工持股平臺合計占公司約59%的股份，持股較爲集中，股權結
-構穩定。公司于2015，2018，2019 年三次推出股權激勵，員工與公司利益深度綁定。 
- 
-融資概覽 
-公司成立于2011 年，2015 年變更爲股份制公司後，公司歷經8 輪融資，共取得資本
-162.8 億元，于2018 年6 月IPO 上市募資54.6 億元，以建設24GWh 的動力電池新産
-能項目；2019 年9 月公司公告將發行100 億元公司債券，以進一步保持産能擴張的有
-序推進。 
- 
-發展歷程 
-公司脫胎于全球消費電池（聚合鋰電池）龍頭、蘋果手機電池供應商ATL 的動力電池
-事業部。成立初期的公司承接了ATL 在消費電池的技術積累、製造經驗和品牌渠道，
-憑藉2012 年首單和華晨寶馬的成功合作，成爲當時國內唯一一家進入跨國汽車企業動
-力電池供應鏈的生産商，一戰成名。 
+普通股股東(百萬股):
+股國外鋰礦企業綁定原材料供應商，實現了上下游產業鏈的閉環布局。
+市值 (人民幣百萬元):
+52 周 最高價/最低價 (人民幣元):
+169.89/64
+股權結構
+公司發起人股東加上員工持股平臺合計占公司約 59%的股份,持股較爲集中,股權結
+構穩定。公司于 2015, 2018, 2019 年三次推出股權激勵, 員工與公司利益深度綁定。
+主要股東%
+融資概覽
+曾毓群
+公司成立于 2011 年, 2015 年變更爲股份制公司後, 公司歷經 8 輪融資, 共取得資本
+162.8 億元, 于 2018 年 6 月 IPO 上市募資 54.6 億元, 以建設 24GWh 的動力電池新産
+能項目: 2019 年 9 月公司公告將發行 100 億元公司債券,以進一步保持産能擴張的有
+序推進。
+股價 & 上證指數
+發展歷程
+公司脫胎于全球消費電池(聚合鋰電池)龍頭、蘋果手機電池供應商 ATL 的動力電池
+事業部。成立初期的公司承接了 ATL 在消費電池的技術積累、製造經驗和品牌渠道,
+憑藉 2012 年首單和華晨寶馬的成功合作，成爲當時國內唯一一家進入跨國汽車企業動
+力電池供應鏈的生產商,一戰成名。
 2014 年起，恰逢國家大力扶持新能源汽車産業鏈，國內動力鋰電池需求急速攀升，公
-司得以迅速成長。從出貨量來看，寧德時代自2017 年起穩居世界第一。2018 年和
-2019 年中國的動力電池裝機總量達到56.9GWh 和62.2GWh，寧德時代分別爲
-23.53GWh 和31.71GWh，市場份額高達41%和51%，較第二名比亞迪（20%，17%）第
-三名國軒高科（5%，5%）的差距不斷拉大。 
- 
-客戶集中度低利于分散風險 
-從客戶結構看，公司幾乎涵蓋了全部主流車企：國內商用車龍頭宇通客車，乘用車龍
+Source: Phillip Securities (HK) Research
+司得以迅速成長。從出貨量來看,寧德時代自 2017 年起穩居世界第一。2018 年和
+財務資料
+2019 年中國的動力電池裝機總量達到 56.9GWh 和 62.2GWh, 寧德時代分別爲
+23.53GWh 和 31.71GWh, 市場份額高達 41%和 51%, 較第二名比亞迪(20%, 17%)第
+三名國軒高科(5%,5%)的差距不斷拉大。
+客戶集中度低利于分散風險
+從客戶結構看，公司幾乎涵蓋了全部主流車企: 國內商用車龍頭宇通客車，乘用車龍
 頭主機廠上汽、廣汽、吉利，造車新勢力蔚來、威馬等均與公司深度合作，海外客戶
 方面，公司與寶馬合作久遠，也是大衆、戴姆勒、豐田、本田、沃爾沃等車企的供應
-商。近期又公布與特斯拉簽訂合作協議。相比于競爭對手三星和松下，寧德時代的客
-戶分布更加分散，利于分散風險。 
- 
-技術領先優勢，成本規模效應明顯 
+商。近期又公布與特斯拉簽訂合作協議。相比于競爭對手三星和松下, 寧德時代的客
+Source: Company reports, Phillip Securities Est.
+戶分布更加分散, 利于分散風險。
+研究員
+章晶 (+86 21-51699400-103)
+技術領先優勢，成本規模效應明顯
 近年來，寧德時代的規模持續增長，規模效應逐漸顯現，技術優勢進一步突出，競爭
-優勢凸顯。目前公司的動力電池成本已經降至0.75 元/Wh，除了原材料價格下降，規
-模效應對固定費用的攤薄，自動化率提升是主要原因。 
-1，技術優勢：早期與ATL 的協同效應提高了研發效率，後期又借助資本市場，爲高研
+優勢凸顯。目前公司的動力電池成本已經降至 0.75 元/Wh，除了原材料價格下降，規
+模效應對固定費用的攤薄，自動化率提升是主要原因。
+1,技術優勢:早期與 ATL 的協同效應提高了研發效率,後期又借助資本市場,爲高研
 發投入提供資金保障，使得公司能够在産品設計和技術創新上不斷取得突破，産品的
-能量密度逐年提升。截至2019 年上半年，公司共有研發人員4678 人，占員工總數的
-17%。研發支出占總營收7%，且全部費用化。公司及其子公司共擁有1909 項境內專
-利和59 項境外專利，正在申請的專利合計2571 項。 
-買入 （首次） 
-現價 CNY 154.41 
-(現價截至2 月24 日) 
-目標價 CNY 185.3 (+20%) 
- 
-公司資料 
-普通股股東 (百萬股) : 
-2208 
-市值 ( 人民幣百萬元) : 
-340999 
-52 周 最高價/最低價 (人民幣元) : 
-169.89/ 64 
- 
- 
- 
- 
-主要股東 % 
-曾毓群 
-25.88 
- 
- 
- 
- 
-股價 & 上證指數 
- 
-Source: Phillip Securities (HK) Research 
- 
-財務資料 
-CNY mn 
-FY17 
-FY18 FY19E FY20E 
-Net Sales 
-19997 29611 43713 57936 
-Net Profit 
-3878 
-3387 
-4400 
-5784 
-EPS, CNY 
-2.01 
-1.64 
-1.99 
-2.62 
-P/E, x 
-76.9 
-94.1 
-77.5 
-58.9 
-BVPS, CNY 
-12.63 
-15.01 
-16.73 
-18.93 
-P/BV, x 
-12.2 
-10.3 
-9.2 
-8.2 
-DPS (CNY) 
-0.00 
-0.14 
-0.20 
-0.40 
-Div. Yield (%) 
-0.0% 
-0.1% 
-0.1% 
-0.3% 
-Source: Company reports, Phillip Securities Est. 
- 
-研究員 
-章晶 (+ 86 21-51699400-103) 
-zhangjing@phillip.com.cn 
- 
- 
- 
-Page | 2 | PHILLIPCAPITAL HONGKONG RESEARCH 
-CATL 
-INITIATION REPORT 
- 
-2，規模成本效應：由于性能優异，公司的産品很受歡迎，配套的車型數量于同
-行中遙遙領先。需求和産能擴張形成良性循環，公司産能由2016 年的7GWh，
-增長到2019 年的約40GWh。公司目前在寧德、青海、溧陽建有生産基地，幷開
-始在德國建設首個海外生産基地。公司計劃2022 年總産能要達到150-
-160GWh，産能擴張不斷加速。 
- 
-總體上，我們預計公司産品的單位成本仍有進一步的下降空間，主要源于研發
-投入帶來的技術升級和前瞻性布局，産量提升帶來的規模效應，供應鏈管理，
-設備國産化替代，以及人工效率提升。 
- 
-財務指標健康，領跑行業 
-憑藉出貨量的攀升，寧德時代的經營業績也呈現爆炸式增長，收入從2014 年的
-8.9 億人民幣，增長到了2018 年的296 億，增長了32 倍；歸母淨利潤從0.544
-億，增長到33.9 億，增長61 倍。同時，公司各項財務指標健康，2014 至2018
-年毛利率分別爲25.7%/38.6%/43.7%/37%/32.8%，2017 年之後下滑主要因爲補貼
-政策退坡導致的降價，但仍較競爭對手高10 個百分點以上。償債能力上，負債
-率雖然因爲企業快速擴張持續提高，但仍低于行業平均水平，處于合理水平。
+能量密度逐年提升。截至 2019 年上半年，公司共有研發人員 4678 人，占員工總數的
+17%。研發支出占總營收 7%, 且全部費用化。公司及其子公司共擁有 1909 項境內專
+利和 59 項境外專利,正在申請的專利合計 2571 項。
+2, 規模成本效應: 由于性能優异, 公司的産品很受歡迎, 配套的車型數量于同
+行中遙遙領先。需求和産能擴張形成良性循環,公司産能由 2016 年的 7GWh,
+增長到 2019 年的約 40GWh。公司目前在寧德、青海、溧陽建有生産基地, 幷開
+始在德國建設首個海外生產基地。公司計劃 2022 年總產能要達到 150-
+160GWh,產能擴張不斷加速。
+總體上，我們預計公司產品的單位成本仍有進一步的下降空間，主要源于研發
+投入帶來的技術升級和前瞻性布局,產量提升帶來的規模效應,供應鏈管理,
+設備國産化替代,以及人工效率提升。
+財務指標健康，領跑行業
+憑藉出貨量的攀升,寧德時代的經營業績也呈現爆炸式增長,收入從 2014 年的
+年毛利率分別爲 25.7%/38.6%/43.7%/37%/32.8%, 2017 年之後下滑主要因爲補貼
+政策退坡導致的降價,但仍較競爭對手高 10 個百分點以上。償債能力上,負債
+率雖然因爲企業快速擴張持續提高,但仍低于行業平均水平,處于合理水平。
 公司對上下游的議價能力相對强勢，保證了良好的現金流。經營活動産生的現
-金流量淨額約爲帶息債務的兩倍，手握現金約爲帶息負債的近五倍，資産負債
-表强壯。 
- 
- 
-投資建議 
+金流量淨額約爲帶息債務的兩倍, 手握現金約爲帶息負債的近五倍, 資産負債
+表强壯。
+投資建議
 目前來看，全球尤其是歐洲各國的電動車政策在加碼，各大車企將加快新能源
 計劃。隨著後續規模的持續擴張、工程師紅利的釋放，龍頭企業的成本控制優
-勢將更爲凸顯，動力電池行業有望呈現强者恒强的格局。寧德時代在整個全球
-電動化趨勢當中將深度受益，或超市場預期。我們預計公司2019/2020/2021 年
-的每股盈利分別爲1.99/2.62/3.51 元人民幣，同比增長30%/31%/34%，給予目標
-價至185.3 人民幣元對應2019/2020/2021 年93/71/53 倍預計市盈率，買入評
-級。(現價截至2 月24 日) 
- 
- 
- 
-風險 
-新業務推進進度體低于預期 
-電動車銷量不及預期 
-宏觀經濟倒退影響産品需求 
-原材料價格急劇上漲或産品價格急劇下滑 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Page | 3 | PHILLIPCAPITAL HONGKONG RESEARCH 
-CATL 
-INITIATION REPORT 
-財務數據 
-FYE DEC
-FY17
-FY18
-FY19F
-FY20F
-FY21F
-Valuation Ratios
-P/E (X), adj.
-76.9
-94.1
-77.5
-58.9
-44.0
-P/B (X)
-12.2
-10.3
-9.2
-8.2
-7.0
-Dividend Yield (%)
-0.0%
-0.1%
-0.1%
-0.3%
-0.3%
-Per share data (RMB)
-EPS, (Basic)
-2.01
-1.64
-1.99
-2.62
-3.51
-EPS, (Diluted)
-2.01
-1.64
-1.99
-2.62
-3.51
-DPS
-0.14
-0.20
-0.40
-0.54
-BVPS
-12.63
-15.01
-16.73
-18.93
-21.95
-Growth & Margins (%)
-Growth
-Revenue
-40.1%
-48.1%
-47.6%
-32.5%
-34.0%
-EBIT
-57.5%
--20.2%
-15.7%
-34.1%
-40.3%
-Net Income, adj.
-41.9%
--12.7%
-29.9%
-31.4%
-34.1%
-Margins
-Gross margin
-36.3%
-32.8%
-28.8%
-28.0%
-27.7%
-EBIT margin
-24.4%
-13.1%
-10.3%
-10.4%
-10.9%
-Net Profit Margin
-19.4%
-11.4%
-10.1%
-10.0%
-10.0%
-Key Ratios
-ROE
-19.3%
-11.8%
-12.6%
-14.7%
-17.2%
-Income Statement (RMB mn)
-Revenue
-19997
-29611
-43713
-57936
-77645
-Gross profit
-7257
-9709
-12572
-16199
-21508
-EBIT
-4874
-3889
-4501
-6037
-8467
-Profit before tax
-4848
-4205
-5379
-7042
-9492
-Tax
-654
-469
-605
-792
-1068
-Profit for the period
-4194
-3736
-4774
-6250
-8424
-Minority interests
-316
-349
-374
-466
-667
-Total capital share
-1955
-2195
-2208
-2208
-2208
-Net profit
-3878
-3387
-4400
-5784
-7757
-Source: PSR 
- 
-(現價截至2 月24 日) 
- 
- 
- 
-Page | 4 | PHILLIPCAPITAL HONGKONG RESEARCH 
-CATL 
-INITIATION REPORT 
- 
-PHILLIP RESEARCH STOCK SELECTION SYSTEMS 
- 
-We do not base our recommendations entirely on the above quantitative return bands.  We consider qualitative factors like (but not limited to) a 
-stock's risk reward profile, market sentiment, recent rate of share price appreciation, presence or absence of stock price catalysts, and speculative 
-undertones surrounding the stock, before making our final recommendation 
- 
-GENERAL DISCLAIMER 
-This publication is prepared by Phillip Securities (Hong Kong) Ltd (“Phillip Securities”). By receiving or reading this publication, you agree to be bound by the terms and 
-limitations set out below.  
- 
-This publication shall not be reproduced in whole or in part, distributed or published by you for any purpose. Phillip Securities shall not be liable for any direct or 
-consequential loss arising from any use of material contained in this publication.  
- 
-The information contained in this publication has been obtained from public sources which Phillip Securities has no reason to believe are unreliable and any analysis, 
-forecasts, projections, expectations and opinions (collectively the “Research”) contained in this publication are based on such information and are expressions of belief 
-only. Phillip Securities has not verified this information and no representation or warranty, express or implied, is made that such information or Research is accurate, 
-complete or verified or should be relied upon as such. Any such information or Research contained in this publication is subject to change, and Phillip Securities shall not 
-have any responsibility to maintain the information or Research made available or to supply any corrections, updates or releases in connection therewith. In no event will 
-Phillip Securities be liable for any special, indirect, incidental or consequential damages which may be incurred from the use of the information or Research made 
-available, even if it has been advised of the possibility of such damages.  
- 
-Any opinions, forecasts, assumptions, estimates, valuations and prices contained in this material are as of the date indicated and are subject to change at any time 
-without prior notice.  
- 
-This material is intended for general circulation only and does not take into account the specific investment objectives, financial situation or particular needs of any 
-particular person. The products mentioned in this material may not be suitable for all investors and a person receiving or reading this material should seek advice from a 
-financial adviser regarding the suitability of such products, taking into account the specific investment objectives, financial situation or particular needs of that person, 
-before making a commitment to invest in any of such products. 
-This publication should not be relied upon as authoritative without further being subject to the recipient’s own independent verification and exercise of judgment. The 
-fact that this publication has been made available constitutes neither a recommendation to enter into a particular transaction nor a representation that any product 
-described in this material is suitable or appropriate for the recipient. Recipients should be aware that many of the products which may be described in this publication 
-involve significant risks and may not be suitable for all investors, and that any decision to enter into transactions involving such products should not be made unless all 
-such risks are understood and an independent determination has been made that such transactions would be appropriate. Any discussion of the risks contained herein 
-with respect to any product should not be considered to be a disclosure of all risks or a complete discussion of such risks.  
- 
-Nothing in this report shall be construed to be an offer or solicitation for the purchase or sale of a security. Any decision to purchase securities mentioned in this research 
-should take into account existing public information, including any registered prospectus in respect of such security. 
- 
-Disclosure of Interest 
-Analyst Disclosure: Neither the analyst(s) preparing this report nor his associate has any financial interest in or serves as an officer of the listed corporation covered in 
-this report. 
-Firm’s Disclosure: Phillip Securities does not have any investment banking relationship with the listed corporation covered in this report nor any financial interest of 1% or 
-more of the market capitalization in the listed corporation. In addition, no executive staff of Phillip Securities serves as an officer of the listed corporation. 
- 
-Availability 
-The information, tools and material presented herein are not directed, intended for distribution to or use by, any person or entity in any jurisdiction or country where 
-such distribution, publication, availability or use would be contrary to the applicable law or regulation or which would subject Phillip Securities to any registration or 
-licensing or other requirement, or penalty for contravention of such requirements within such jurisdiction. 
- 
-Information contained herein is based on sources that Phillip Securities (Hong Kong) Limited (“PSHK”) believed to be accurate. PSHK does not bear responsibility for any 
-loss occasioned by reliance placed upon the contents hereof.  PSHK (or its affiliates or employees) may have positions in relevant investment products. For details of 
-different product's risks, please visit the Risk Disclosures Statement on http://www.phillip.com.hk.   
-©  
-2020 Phillip Securities (Hong Kong) Limited 
-Total Return 
-Recommendation 
-Rating 
-Remarks 
->+20% 
-Buy 
-1 
->20% upside from the current price 
-+5% to +20% 
-Accumulate 
-2 
-+5% to +20%upside from the current price 
--5% to +5% 
-Neutral 
-3 
-Trade within  ± 5% from the current price 
--5% to -20% 
-Reduce 
-4 
--5% to -20% downside from the current price 
-<-20% 
-Sell 
-5 
->20%downside from the current price 
- 
- 
-Page | 5 | PHILLIPCAPITAL HONGKONG RESEARCH 
-COMPANY NAME  
- 
- 
-Contact Information (Regional Member Companies) 
- 
-SINGAPORE 
-Phillip Securities Pte Ltd 
-250 North Bridge Road, #06-00 Raffles City Tower, 
-Singapore 179101 
-Tel : (65) 6533 6001 Fax: (65) 6535 3834 
-www.phillip.com.sg 
-MALAYSIA 
-Phillip Capital Management Sdn Bhd 
-B-3-6 Block B Level 3, Megan Avenue II, 
-No. 12, Jalan Yap Kwan Seng, 50450 Kuala Lumpur 
-Tel (60) 3 2162 8841 Fax (60) 3 2166 5099 
-www.poems.com.my 
-JAPAN 
-Phillip Securities Japan, Ltd 
-4-2 Nihonbashi Kabutocho, Chuo-ku 
-Tokyo 103-0026 
-Tel: (81) 3 3666 2101 Fax: (81) 3 3664 0141 
-www.phillip.co.jp 
-INDONESIA  
-PT Phillip Securities Indonesia 
-ANZ Tower Level 23B, Jl Jend Sudirman Kav 33A, 
-Jakarta 10220, Indonesia 
-Tel (62) 21 5790 0800 Fax: (62) 21 5790 0809 
-www.phillip.co.id 
-CHINA  
-Phillip Financial Advisory (Shanghai) Co. Ltd.  
-No 436 Heng Feng Road, Green Tech Tower Unit 604 
-Shanghai 200 070 
-Tel (86) 21 5169 9400 Fax: (86) 21 6091 1155 
-www.phillip.com.cn 
-INDIA  
-PhillipCapital (India) Private Limited 
-No. 1, 18th Floor, Urmi Estate, 95 Ganpatrao Kadam Marg, 
-Lower Parel West, Mumbai 400013 
-Tel: (9122) 2300 2999 Fax: (9122) 6667 9955 
-www.phillipcapital.in 
-THAILAND 
-Phillip Securities (Thailand) Public Co. Ltd. 
-15th Floor, Vorawat Building,  849 Silom Road, 
-Silom, Bangrak, Bangkok 10500 Thailand 
-Tel (66) 2 2268 0999  Fax: (66) 2 2268 0921 
-www.phillip.co.th 
-FRANCE 
-King & Shaxson Capital Ltd. 
-3rd Floor, 35 Rue de la Bienfaisance  
-75008 Paris France 
-Tel (33) 1 4563 3100 Fax : (33) 1 4563 6017 
-www.kingandshaxson.com 
-UNITED KINGDOM  
-King & Shaxson Ltd. 
-6th Floor, Candlewick House, 120 Cannon Street 
-London, EC4N 6AS 
-Tel (44) 20 7929 5300 Fax: (44) 20 7283 6835 
-www.kingandshaxson.com 
-UNITED STATES 
-Phillip Futures Inc. 
-141 W Jackson Blvd Ste 3050 
-The Chicago Board of Trade Building 
-Chicago, IL 60604 USA 
-Tel (1) 312 356 9000 Fax: (1) 312 356 9005 
-AUSTRALIA  
-PhillipCapital Australia 
-Level 10, 330 Collins Street 
-Melbourne VIC 3000 
-Tel (+61) 3 8633 9803 Fax (+61) 3 8633 9899 
-www.phillipcapital.com.au 
-SRI LANKA  
-Asha Phillip Securities Limited 
-Level 4, Millennium House, 46/58 Navam Mawatha, 
-Colombo 2, Sri Lanka 
-Tel: (94) 11  2429 100 Fax: (94) 11 2429 199 
-www.ashaphillip.net/home.htm 
-HONG KONG  
-Phillip Securities (HK) Ltd 
-11/F United Centre 95 Queensway Hong Kong 
-Tel (852) 2277 6600 Fax: (852) 2868 5307 
-www.phillip.com.hk 
- 
- 
- 
+勢將更爲凸顯,動力電池行業有望呈現强者恒强的格局。寧德時代在整個全球
+電動化趨勢當中將深度受益,或超市場預期。我們預計公司 2019/2020/2021 年
+的每股盈利分別爲 1.99/2.62/3.51 元人民幣,同比增長 30%/31%/34%,給予目標
+價至 185.3 人民幣元對應 2019/2020/2021 年 93/71/53 倍預計市盈率，買入評
+級。(現價截至 2 月 24 日)
+新業務推進進度體低于預期
+電動車銷量不及預期
+宏觀經濟倒退影響産品需求
+原材料價格急劇上漲或産品價格急劇下滑
+財務數據
+Source: PSR
+(現價截至 2 月 24 日)
+PHILLIP RESEARCH STOCK SELECTION SYSTEMS
+We do not base our recommendations entirely on the above quantitative return bands. We consider qualitative factors like (but not limited to) a
+stock's risk reward profile, market sentiment, recent rate of share price appreciation, presence or absence of stock price catalysts, and speculative
+undertones surrounding the stock, before making our final recommendation
+GENERAL DISCLAIMER
+This publication is prepared by Phillip Securities (Hong Kong) Ltd ("Phillip Securities"). By receiving or reading this publication, you agree to be bound by the terms and
+limitations set out below.
+This publication shall not be reproduced in whole or in part, distributed or published by you for any purpose. Phillip Securities shall not be liable for any direct or
+consequential loss arising from any use of material contained in this publication.
+The information contained in this publication has been obtained from public sources which Phillip Securities has no reason to believe are unreliable and any analysis,
+forecasts, projections, expectations and opinions (collectively the "Research") contained in this publication are based on such information and are expressions of belief
+only. Phillip Securities has not verified this information and no representation or warranty, express or implied, is made that such information or Research is accurate,
+complete or verified or should be relied upon as such. Any such information or Research contained in this publication is subject to change, and Phillip Securities shall not
+have any responsibility to maintain the information or Research made available or to supply any corrections, updates or releases in connection therewith. In no event will
+Phillip Securities be liable for any special, indirect, incidental or consequential damages which may be incurred from the use of the information or Research made
+available, even if it has been advised of the possibility of such damages.
+Any opinions, forecasts, assumptions, estimates, valuations and prices contained in this material are as of the date indicated and are subject to change at any time
+without prior notice.
+This material is intended for general circulation only and does not take into account the specific investment objectives, financial situation or particular needs of any
+particular person. The products mentioned in this material may not be suitable for all investors and a person receiving or reading this material should seek advice from a
+financial adviser regarding the suitability of such products, taking into account the specific investment objectives, financial situation or particular needs of that person,
+before making a commitment to invest in any of such products.
+This publication should not be relied upon as authoritative without further being subject to the recipient's own independent verification and exercise of judgment. The
+fact that this publication has been made available constitutes neither a recommendation to enter into a particular transaction nor a representation that any product
+described in this material is suitable or appropriate for the recipient. Recipients should be aware that many of the products which may be described in this publication
+involve significant risks and may not be suitable for all investors, and that any decision to enter into transactions involving such products should not be made unless all
+such risks are understood and an independent determination has been made that such transactions would be appropriate. Any discussion of the risks contained herein
+with respect to any product should not be considered to be a disclosure of all risks or a complete discussion of such risks.
+Nothing in this report shall be construed to be an offer or solicitation for the purchase or sale of a security. Any decision to purchase securities mentioned in this research
+should take into account existing public information, including any registered prospectus in respect of such security.
+Disclosure of Interest
+Analyst Disclosure: Neither the analyst(s) preparing this report nor his associate has any financial interest in or serves as an officer of the listed corporation covered in
+this report.
+Firm's Disclosure: Phillip Securities does not have any investment banking relationship with the listed corporation covered in this report nor any financial interest of 1% or
+more of the market capitalization in the listed corporation. In addition, no executive staff of Phillip Securities serves as an officer of the listed corporation.
+Availability
+The information, tools and material presented herein are not directed, intended for distribution to or use by, any person or entity in any jurisdiction or country where
+such distribution, publication, availability or use would be contrary to the applicable law or regulation or which would subject Phillip Securities to any registration or
+licensing or other requirement, or penalty for contravention of such requirements within such jurisdiction.
+Information contained herein is based on sources that Phillip Securities (Hong Kong) Limited ("PSHK") believed to be accurate. PSHK does not bear responsibility for any
+loss occasioned by reliance placed upon the contents hereof. PSHK (or its affiliates or employees) may have positions in relevant investment products. For details of
+2020 Phillip Securities (Hong Kong) Limited
+Contact Information (Regional Member Companies)
+SINGAPORE
+MALAYSIA
+JAPAN
+Phillip Capital Management Sdn Bhd
+Phillip Securities Japan, Ltd
+Phillip Securities Pte Ltd
+250 North Bridge Road, #06-00 Raffles City Tower,
+B-3-6 Block B Level 3, Megan Avenue II,
+4-2 Nihonbashi Kabutocho, Chuo-ku
+No. 12, Jalan Yap Kwan Seng, 50450 Kuala Lumpur
+INDONESIA
+CHINA
+INDIA
+PT Phillip Securities Indonesia
+Phillip Financial Advisory (Shanghai) Co. Ltd.
+PhillipCapital (India) Private Limited
+ANZ Tower Level 23B, Jl Jend Sudirman Kav 33A,
+No. 1, 18th Floor, Urmi Estate, 95 Ganpatrao Kadam Marg,
+Jakarta 10220, Indonesia
+THAILAND
+FRANCE
+UNITED KINGDOM
+Phillip Securities (Thailand) Public Co. Ltd.
+King & Shaxson Capital Ltd.
+King & Shaxson Ltd.
+15th Floor, Vorawat Building, 849 Silom Road,
+3rd Floor, 35 Rue de la Bienfaisance
+6th Floor, Candlewick House, 120 Cannon Street
+Silom, Bangrak, Bangkok 10500 Thailand
+75008 Paris France
+London, EC4N 6AS
+UNITED STATES
+AUSTRALIA
+SRI LANKA
+Phillip Futures Inc.
+PhillipCapital Australia
+Asha Phillip Securities Limited
+Level 10, 330 Collins Street
+Level 4, Millennium House, 46/58 Navam Mawatha,
+The Chicago Board of Trade Building
+Colombo 2, Sri Lanka
+Chicago, IL 60604 USA
+HONG KONG
+Phillip Securities (HK) Ltd
+11/F United Centre 95 Queensway Hong Kong

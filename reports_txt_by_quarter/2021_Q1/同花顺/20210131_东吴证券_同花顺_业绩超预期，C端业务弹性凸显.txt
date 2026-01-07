@@ -1,509 +1,106 @@
-同花顺（300033） 
-        证券研究报告·公司研究·计算机应用 
- 
-1 / 3 
- 
- 
-东吴证券研究所 
-请务必阅读正文之后的免责声明部分 
-业绩超预期，C 端业务弹性凸显 
-买入（维持） 
-盈利预测与估值 
-2019A 
-2020E 
-2021E 
-2022E 
-营业收入（百万元） 
-1,742 
-3,240 
-4,716 
-5,934 
-同比（%） 
-25.6% 
-86.0% 
-45.6% 
-25.8% 
-归母净利润（百万元） 
-898 
-1,709 
-2,462 
-3,148 
-同比（%） 
-41.6% 
-90.4% 
-44.0% 
-27.9% 
-每股收益（元/股） 
-1.67 
-3.18 
-4.58 
-5.86 
-P/E（倍） 
-71.14 
-37.36 
-25.94 
-20.29 
- 
- 
- 
- 
- 
-投资要点 
- 公司披露2020 年业绩预告：预计2020 年归属于上市公司股东的净利润
-161,581.57-179,535.08 万元，同比增长80%-100%；扣除非经常性损益
-后的净利润150,459.19-167,176.88 万元，同比增长80%-100%，非经常
-性损益为 5,500-6,500 万元，主要为政府补助、投资收益等。 
- 预计基金销售及其他交易手续费业务在下半年增长进一步提速，低基数
-下市占率料进一步提升。根据wind 统计，2020 年全年新成立基金1,395
-只，同比增长34%，共发行份额31,199.64 亿份，同比大幅增长110%。
-分季度来看，Q1/Q2/Q3/Q4 新发份额同比增速分别为118%/125%/ 
-240%/21%，虽然Q4 新发行份额增速有所下降，但是结构上股票型及混
-合型基金的新发份额全年均保持超高增速，四个季度增速分别为325%/ 
-245%/ 368%/ 202%。公司2019 年基金销售及其他交易手续费实现收入
-23,516.70 万元，同比增长133.73%，低基数及高行业景气度下，我们预
-计公司市占率在2020 年有进一步提升。 
- 增值电信业务及广告互联网推广业务均受益于2020 年市场的成交额高
-增长，后续关注iFinD 业务进展。根据wind 统计，2020Q1/ Q2/ Q3/Q4A
-股市场成交额同比增速分别为47%/10%/129%/76%，全年成交额同比增
-长62%。公司通过加大 AI 技术应用研发、产品创新，进一步提升相关
-产品及服务品质，使得用户粘性、产品付费意愿进一步提升，同时由于
-部分券商合作业务集中在Q4 结算，导致Q4 同比增速相比前三季度进
-一步提升。我们看好iFinD 未来的成长潜力，公司的iFinD 产品已从仅
-提供数据阶段，升级演变成提供投研一体智能化解决平台，面向用户提
-供金融大数据、企业库、产业图谱、研报自动化生成、舆情监控、买方
-标签研究体系等一整套智能化解决方案，技术实力和功能处于业内领
-先。 
- 预计费用率同比下降。公司前三季度销售费用率、管理费用率及研发费
-用率均同比有所下滑，我们判断公司人力、销售等成本增速料将低于收
-入增速，预计净利率提升趋势也在Q4 得到了延续，进一步带来业绩弹
-性。 
- 盈利预测与投资评级：考虑到Q4 公司业绩的超预期表现，以及行业层
-面基金销售市场的高景气及第三方基金销售平台市占率的持续提升、A
-股市场仍然保持高成交等因素，上调公司盈利预测，预计公司
-2020/2021/2022 年归母净利润分别为17.09/24.62/31.48 亿元，对应PE
-分别为37/26/20 倍，公司当前估值相比可比公司具有较强吸引力，维持
-“买入”评级。 
- 风险提示：行业竞争日趋激烈风险；互联网系统及数据安全风险; 监管
-风险 
- 
- 
- 
- 
- 
- 
-股价走势 
- 
- 
-市场数据 
-收盘价(元) 
-118.79 
-一年最低/最高价 
-90.29/187.99 
-市净率(倍) 
-14.87 
-流通A 股市值(百
-万元) 
-32305.01 
-基础数据 
-           
- 
-每股净资产(元) 
-7.99 
-资产负债率(%) 
-29.61 
-总股本(百万股) 
-537.60 
-流通A 股(百万股) 
-271.95 
- 
-相关研究 
- 
-1、《同花顺（300033）：金融信
-息服务领域王者，掘金中国权益
-投资黄金时代》2021-01-05 
- 
-2021 年01 月30 日 
- 
- 
-证券分析师  张良卫 
-执业证号：S0600516070001 
-021-60199793 
-zhanglw@dwzq.com.cn 
-证券分析师  胡翔 
-执业证号：S0600516110001 
-021-60199793 
-hux@dwzq.com.cn 
- 
--17%
-0%
-17%
-34%
-51%
-69%
-86%
-103%
-2020-02
-2020-06
-2020-10
-同花顺
-沪深300
- 
-2 / 3 
- 
-东吴证券研究所 
-请务必阅读正文之后的免责声明部分 
- 
-公司点评报告 
- 
- 
- 
-同花顺三大财务预测表 
-资产负债表（百万元） 
-2019A 
-2020E 
-2021E 
-2022E   利润表（百万元） 
-2019A 
-2020E 
-2021E 2022E 
-流动资产 
-4,618 
-6,163 
-7,852 
-11,029   营业收入 
-1,742 
-3,240 
-4,716 5,934 
-  现金 
-4,012 
-5,527 
-7,211 
-10,348   减:营业成本 
-181 
-304 
-383 
-460 
-  应收账款 
-20 
-0 
-0 
-0       营业税金及附加 
-26 
-47 
-70 
-87 
-  存货 
-0 
-0 
-0 
-0        营业费用 
-199 
-371 
-540 
-679 
-  其他流动资产 
-587 
-636 
-641 
-680         管理费用 
-570 
-907 
-1,344 1,662 
-非流动资产 
-618 
-1,005 
-1,362 
-1,628        财务费用 
--105 
--114 
--148 
--210 
-  长期股权投资 
-0 
-0 
-0 
-0        资产减值损失 
-0 
-0 
-0 
-0 
-  固定资产 
-439 
-812 
-1,151 
-1,408   加:投资净收益 
-12 
-12 
-12 
-12 
-  在建工程 
-96 
-102 
-112 
-119        其他收益 
-72 
-72 
-72 
-72 
-  无形资产 
-77 
-85 
-94 
-95   营业利润 
-951 
-1,809 
-2,613 3,340 
-  其他非流动资产 
-6 
-6 
-5 
-6   加:营业外净收支 
-2 
-6 
-2 
-2 
-资产总计 
-5,236 
-7,168 
-9,214 
-12,656   利润总额 
-953 
-1,815 
-2,614 3,343 
-流动负债 
-1,243 
-1,923 
-1,927 
-2,627   减:所得税 
-56 
-106 
-152 
-195 
-短期借款 
-0 
-0 
-0 
-0        少数股东损益 
-0 
-0 
-0 
-0 
-应付账款 
-41 
-0 
-0 
-0   归属母公司净利润 
-898 
-1,709 
-2,462 3,148 
-其他流动负债 
-1,201 
-1,923 
-1,927 
-2,627   EBIT 
-833 
-1,672 
-2,423 3,079 
-非流动负债 
-3 
-3 
-3 
-3   EBITDA 
-871 
-1,715 
-2,493 3,173 
-长期借款 
-0 
-0 
-0 
-0  
- 
- 
- 
- 
- 
-其他非流动负债 
-3 
-3 
-3 
-3    
- 
- 
- 
- 
-负债合计 
-1,246 
-1,926 
-1,930 
-2,630   重要财务与估值指标 
-2019A 
-2020E 
-2021E 2022E 
-少数股东权益 
-0 
-0 
-0 
-0   每股收益(元) 
-1.67 
-3.18 
-4.58 
-5.86 
-归属母公司股东权益 
-3,990 
-5,242 
-7,284 
-10,027   每股净资产(元) 
-7.42 
-9.75 
-13.55 18.65 
-负债和股东权益 
-5,236 
-7,168 
-9,214 
-12,656   发行在外股份(百万股) 
-538 
-538 
-538 
-538 
-                    
- 
- 
- 
-  ROIC(%) 
-19.6% 
-30.0% 
-31.3% 28.9% 
- 
- 
- 
- 
-  
-ROE(%) 
-22.5% 
-32.6% 
-33.8% 31.4% 
-现金流量表（百万元） 
-2019A 
-2020E 
-2021E 
-2022E   毛利率(%) 
-89.6% 
-90.6% 
-91.9% 92.3% 
-经营活动现金流 
-1,219 
-2,277 
-2,371 
-3,679 
-销售净利率(%) 
-51.5% 
-52.8% 
-52.2% 53.0% 
-投资活动现金流 
--542 
--419 
--415 
--347   资产负债率(%) 
-23.8% 
-26.9% 
-21.0% 20.8% 
-筹资活动现金流 
--258 
--343 
--272 
--195   收入增长率(%) 
-25.6% 
-86.0% 
-45.6% 25.8% 
-现金净增加额 
-426 
-1,515 
-1,684 
-3,137  
-净利润增长率(%) 
-41.6% 
-90.4% 
-44.0% 27.9% 
-折旧和摊销 
-38 
-43 
-70 
-93  
-P/E 
-71.14 
-37.36 
-25.94 20.29 
-资本开支 
-129 
-387 
-357 
-266  
-P/B 
-16.01 
-12.18 
-8.77 
-6.37 
-营运资本变动 
-299 
-650 
--0 
-659  
-EV/EBITDA 
-68.61 
-33.96 
-22.70 16.84 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-数据来源：贝格数据，东吴证券研究所
- 
-3 / 3 
- 
-东吴证券研究所 
-请务必阅读正文之后的免责声明部分 
- 
- 免责及评级说明部分 
-免责声明 
-东吴证券股份有限公司经中国证券监督管理委员会批准，已具备证券投资咨
-询业务资格。 
-本研究报告仅供东吴证券股份有限公司（以下简称“本公司”）的客户使用。
-本公司不会因接收人收到本报告而视其为客户。在任何情况下，本报告中的信息
-或所表述的意见并不构成对任何人的投资建议，本公司不对任何人因使用本报告
-中的内容所导致的损失负任何责任。在法律许可的情况下，东吴证券及其所属关
-联机构可能会持有报告中提到的公司所发行的证券并进行交易，还可能为这些公
-司提供投资银行服务或其他服务。 
-市场有风险，投资需谨慎。本报告是基于本公司分析师认为可靠且已公开的
-信息，本公司力求但不保证这些信息的准确性和完整性，也不保证文中观点或陈
-述不会发生任何变更，在不同时期，本公司可发出与本报告所载资料、意见及推
-测不一致的报告。 
-本报告的版权归本公司所有，未经书面许可，任何机构和个人不得以任何形
-式翻版、复制和发布。如引用、刊发、转载，需征得东吴证券研究所同意，并注
-明出处为东吴证券研究所，且不得对本报告进行有悖原意的引用、删节和修改。 
- 
-东吴证券投资评级标准： 
-公司投资评级： 
-买入：预期未来6 个月个股涨跌幅相对大盘在15%以上； 
-增持：预期未来6 个月个股涨跌幅相对大盘介于5%与15%之间； 
-中性：预期未来 6 个月个股涨跌幅相对大盘介于-5%与5%之间； 
-减持：预期未来 6 个月个股涨跌幅相对大盘介于-15%与-5%之间； 
-卖出：预期未来 6 个月个股涨跌幅相对大盘在-15%以下。 
-行业投资评级： 
-增持： 预期未来6 个月内，行业指数相对强于大盘5%以上； 
-中性： 预期未来6 个月内，行业指数相对大盘-5%与5%； 
-减持： 预期未来6 个月内，行业指数相对弱于大盘5%以上。 
- 
-东吴证券研究所 
-苏州工业园区星阳街5 号 
-邮政编码：215021 
-传真：（0512）62938527 
-公司网址： http://www.dwzq.com.cn 
- 
- 
+a li li Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri
+| 事情を開発 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電
+”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『he
+-ï-l-l-
+- RailerPinenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de lin
+· Bandalle në në në në në në në në në në në në në
+· Bage all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all
+ille ille
+· "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E"
+a," "
+iliel—iliePieriel—ilie
+· Bage all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all
+。『旧·『上『旧·『上『旧·『上『旧·『上
+· "
+”『a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·』he a·『he a·』he a·『he a·』he a·『he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·
+■ Page 1. III.I n II. II. II. II. II. II. II. II. II.
+『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子
+音いでは、では、では、では、では、では、では、では、では、では、
+音響・電子 a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Ti
+■ National Page 1. In a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a
+事事。『上電子』『上電子』『上電子』『上電子』
+『『『『『『『『『『『『『『『『『『『
+「『・『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』
+『上電子記録の『正記』『正記』
+· "E
+電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電
+- Tien - "English" a Tien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en
+a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+・『上電子・・・・・・・・・・・・・・・・・・・
+『Earle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Par
+『上電子』『inalianalanalanalanalanalanalanalanalana
+” ——”—————————————————————————————————
+”上零台上“E”一个“E”一个“E”一个“E”一个“E”一个“E”一个“E”一个“E”一个
+a. Pa − Pi− Pi− Pi− Pi− Pi− Pi− Pi− Pi− Pi− P
+音楽であります。『hardinal arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ari
+in an an an an an an an an an an an an an
+「・・・にルにルにルにルにルにルにルにルに
+『・『・・・・・・・・・・・・・・・・・
+事事。『上電子』『上電子』『上電子』
+『『『記事で記事では『記事で記事である。「記事で記事である。「記事である。「記事である。「記事である。「記事である。「記事である。にしにしにしにしにしにしにしにしにしに
+· Ba The Ri Pi Ba Pi Pi Ba Pi Pi Ba Pi Ba Pi Pi Ba Pi Pi Ba Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi
+a.""
+「記事でに記事でに記事でに記事でに記事でにおにおにおにおにおにおにおにおにおに
+『heipelarine』『inapelarine』『inapelarine』
+『・『・に・に・に・に・に・に・に・に・
+”上零台点。Pina jina jina jina jina jina jina jina j
+- 『・・・・・・・・・・・・・・・・・・・
+”上“皇前”上“是一个”上“是一个”。“自”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”
+n." - "
+■ Bartina Pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina
+事事。『正報の『上間では『上間では『上間では『上間では『上間で『上間で『上間で『上間で『上間で『上間で『上間で『上間で
+音いでは、『ina la nie nie nie nie nie nie nie nie nie nie
+” = aniePaire1. inie
+『heileateleateleateleateleateleateleatelea
+· 『上電子』『旧で記録
+I. Papera Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine a
+- " - " - " " " " " " " " " " " " " " "
+· Rapa a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pi
+” 『『上電子』『inel” 『『inel” 『『inel” 『『inel” 『『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel”
+。『上『上『上『上『上『上『上『上『上『上
+『上電子』『中では『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山
+· "Bage" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a
+事事。『inelapina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina a
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+事事。『上記の記録を記述している。「中では、これでは、これでは、これでは、これでは、これでは、これでは、これでは、これ
+中in in in in in in in in in in in in in i
+事事。『上書中記』『中で記録の記録を記述している。「中で記録の記述といる。」「中で記載している。」「中で記載している。」「中で記載している。」「中で記載している。」「中で記載している。」
+「『『上『上『上『上『上『上『上『上『上
+” "arin arin" arin e in "e "arin" arin e "in "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin e "arin e "arin" arin e "arin e "arin e "arin e "arin e "arin e "arin e
+三事では、では、では、では、では、では、では、では、では、では、
+述为写作。
+· · · · · · · · · · · · · · · · · · ·
+-ï⊩-----------------------------------
+事事・『上電子『上電子『上電子『上電子
+『『『『『『『『『『『『『『『『『『『
+第二个 电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子
+- "I" a"li"i" lie lie lie lie lie lie lie lie lie lie
+- 『上電子』『上電子』『上電子』
+言い
+・
+では
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+『・『・『・『・『・『に『に『に『に『に
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+『上で記録では、では、では、では、では、では、では、では、では、では、
+i.l.
+”上零名。『inea juik
+『『『『『『『『『『『『『『『『『『『
+”『head
+『・『・『上間に『上間にににににににににににににににににに
+i në like
+ē li li a
+” “星” “星” “星” “星” “星” “星” “星” “星” “星” “星

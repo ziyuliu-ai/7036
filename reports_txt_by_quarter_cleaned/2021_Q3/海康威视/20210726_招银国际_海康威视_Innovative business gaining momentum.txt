@@ -1,255 +1,179 @@
-CMB International Securities  Equity Research  Company Update
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-China Software  IT Services
-Mkt Cap (RMB mn)
-Avg 3 mths to (RMB mn)
-52w HighLow (RMB)
-Total Issued Shares (mn)
-Source Bloomberg
+CMB International Securities | Equity Research | Company Update
+A Wholly Owned Subsidiary Of China Merchants Bank
+Hikvision (002415 CH)
+BUY (Maintain)
+Innovative business gaining momentum
+Target Price
+RMB80.00
+(Previous TP
+RMB75.65)
+Up/Downside
++18.7%
+Hikvision FY2Q21 beat our estimates as revenue continued to rebound strongly
+Current Price
+RMB67.40
+(+34% YoY). Key highlight of FY1H21 is the innovative business: (1) revenue
+China Software & IT Services
+grew +122% YoY to RMB5.6bn (16% of revenue) and (2) gross margin +3.1 pct
+pts YoY to 42% (vs. core surveillance 47%). Also, high inventory level strategy
+Marley Ngan
+helps secure customers amid global raw material shortage. Maintain BUY and
+raised target price to RMB80.00 (prior RMB75.65).
+■ FY2Q21 beat. Revenue was at RMB19.9bn (+34% YoY), and net profit was
+Stock Data
+at RMB4.3bn (+38% YoY). GPM missed (-5.3 pct pts YoY to 45.9%) on higher
+raw material price and product mix change. Opex control was better than
+expected with opex ratio of 26.4% (vs. CMBI estimate 28.1%). R&D expense
+increased 19% YoY while G&A expense declined 8% YoY. Net profit was
+boosted by tax credit (RMB570mn) that usually came in 3Q instead of 2Q. On
+operating level, profit was up +26% YoY to RMB3.9bn.
 Shareholding Structure
-Kung Hong Ka - Chairman
-Source Bloomberg
-Source Bloomberg
+Innovative business taking shape. We maintain our view that Hikvision is
+more than a surveillance company as camera applications are expanded by
+Source: Bloomberg
+embedding Al/ sensor technology. Innovative business segments (smart
+home products/ robotics/ thermal/ x-ray products etc.) revenue was up +122%
+Share Performance
+YoY to RMB5.6bn in FY1H21 and revenue contribution reached 16%. It is also
+positive to see innovative business GPM improvement (+3.1 pct pts to 41.6%
+in FY1H21), narrowing the gap with core surveillance GPM 47.2%.
+Source: Bloomberg
+High raw material level ensures stable supply to customers. Hikvision has
+adopted high inventory level strategy since Hisilicon ban in 2019. This helps
 12-mth Price Performance
-Source Bloomberg
-Auditor Deloitte
-China AI surveillance  2Q21
-preview eye on gross margin -
-China AI surveillance - Still a lot
+secure customers in FY1H21 amid global raw material shortage, especially
+for SMBG (revenue +106% YoY) and overseas business (+26%YoY).
+Inventory level increased further to RMB15.1bn (+35% YoY) in FY2Q21, of
+which RMB6.9bn are raw materials (+35% YoY). Customers are accepting
+shorter credit period to ensure stable supply and thus AR days shortened to
+114 in FY2Q21 (vs. 139 in FY2Q20). However, if raw material price hike
+persists, Hikvision could face increasing margin pressure.
+Source: Bloomberg
+Maintain BUY. We raised FY21-23E net profit by 5-7% to reflect stronger top-
+line growth and better opex control. Maintain BUY with new target price of
+Auditor: Deloitte
+RMB80.00 (based on unchanged 36x FY22 P/E). Key downside risk is that
+chip shortage may last for longer than expected.
+Related Reports
+preview: eye on gross margin -
+Earnings Summary
+China Al surveillance - Still a lot
 of Hisilicon inventories - 3 Jun
 Please cast your valuable vote
 for CMBIS research team in the
-2021 Asiamoney Brokers Poll
-SHSZ300 (rebased)
-BUY (Maintain)
-(Previous TP
-UpDownside
-Hikvision FY2Q21 beat our estimates as revenue continued to rebound strongly
-(34% YoY) Key highlight of FY1H21 is the innovative business (1) revenue
-grew 122% YoY to RMB56bn (16% of revenue) and (2) gross margin 31 pct
-pts YoY to 42% (vs core surveillance 47%) Also high inventory level strategy
-helps secure customers amid global raw material shortage Maintain BUY and
-raised target price to RMB8000 (prior RMB7565)
- FY2Q21 beat Revenue was at RMB199bn (34% YoY) and net profit was
-at RMB43bn (38% YoY) GPM missed (-53 pct pts YoY to 459%) on higher
-raw material price and product mix change Opex control was better than
-expected with opex ratio of 264% (vs CMBI estimate 281%) RD expense
-increased 19% YoY while GA expense declined 8% YoY Net profit was
-boosted by tax credit (RMB570mn) that usually came in 3Q instead of 2Q On
-operating level profit was up 26% YoY to RMB39bn
- Innovative business taking shape We maintain our view that Hikvision is
-embedding AI sensor technology Innovative business segments (smart
-home products robotics thermal x-ray products etc) revenue was up 122%
-YoY to RMB56bn in FY1H21 and revenue contribution reached 16% It is also
-positive to see innovative business GPM improvement (31 pct pts to 416%
-in FY1H21) narrowing the gap with core surveillance GPM 472%
- High raw material level ensures stable supply to customers Hikvision has
-adopted high inventory level strategy since Hisilicon ban in 2019 This helps
-secure customers in FY1H21 amid global raw material shortage especially
-for SMBG (revenue 106% YoY) and overseas business (26%YoY)
-Inventory level increased further to RMB151bn (35% YoY) in FY2Q21 of
-which RMB69bn are raw materials (35% YoY) Customers are accepting
-shorter credit period to ensure stable supply and thus AR days shortened to
-114 in FY2Q21 (vs 139 in FY2Q20) However if raw material price hike
-persists Hikvision could face increasing margin pressure
- Maintain BUY We raised FY21-23E net profit by 5-7% to reflect stronger top-
-line growth and better opex control Maintain BUY with new target price of
-RMB8000 (based on unchanged 36x FY22 PE) Key downside risk is that
-chip shortage may last for longer than expected
-(YE 31 Dec)
-Revenue (RMB mn)
-YoY growth (%)
-Net profit (RMB mn)
-YoY growth (%)
-Consensus EPS (RMB)
-Dividend Yield (%)
-Source Company data Bloomberg CMBIS estimates
-Hikvision (002415 CH)
-Innovative business gaining momentum
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 1 Quarterly revenue and YoY growth
-Source Company data
-Figure 2 Revenue breakdown (1H21)
-Source Company data
-Figure 3 Quarterly inventory and YoY growth
-Source Company data
-Figure 4 Quarterly gross margin
-Source Company data
-Figure 5 RD
-Source Company data
-Figure 6 Net profit vs operating cash flow
-Source Company data
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
+2021 Asiamoney Brokers Poll:
+Source: Company data, Bloomberg, CMBIS estimates
+Focus Charts
+Figure 2: Revenue breakdown (1H21)
+Source: Company data
+Source: Company data
+Source: Company data
+Figure 6: Net profit vs. operating cash flow
+Source: Company data
 FY2Q21 results review
-Revenue was at RMB19914mn (34% YoY 42% QoQ) beat our estimate by
-14% and in-line with consensus
-Gross profit was at RMB9148mn (20% YoY 40% QoQ) beat our estimate
-by 9% and in-line with consensus
-Gross margin was at 459% (-53 pct pts YoY -09 pct pts QoQ) below our
-estimate by 19 pct pts and consensus by 02 pct pts
-Operating profit was at RMB3899mn (26% YoY 52% QoQ) beat our
-estimate by 13%
-Operating margin was at 196% (-12 pct pts YoY 12 pct pts QoQ) below our
-estimate by 01 pct pts
-Net profit was at RMB4312mn (38% YoY 99% QoQ) beat our estimate by
+Revenue was at RMB19,914mn (+34% YoY, +42% QoQ), beat our estimate by
+14% and in-line with consensus.
+Gross profit was at RMB9,148mn (+20% YoY, +40% QoQ), beat our estimate
+by 9% and in-line with consensus.
+Gross margin was at 45.9%, (-5.3 pct pts YoY, -0.9 pct pts QoQ), below our
+estimate by 1.9 pct pts and consensus by 0.2 pct pts.
+Operating profit was at RMB3,899mn (+26% YoY, +52% QoQ), beat our
+estimate by 13%.
+Operating margin was at 19.6% (-1.2 pct pts YoY, +1.2 pct pts QoQ), below our
+estimate by 0.1 pct pts.
+Net profit was at RMB4,312mn (+38% YoY, +99% QoQ), beat our estimate by
 21% and consensus by 13%
-EPS was at RMB046 (38% YoY 99% QoQ) above our estimate by 21% and
-consensus by 22%
-Figure 7 FY2Q21 results review
--53 pct pts
--09 pct pts
--19 pct pts
--02 pct pts
-(adjusted)
-(adjusted)
--12 pct pts
-12 pct pts
--01 pct pts
--48 pct pts
-Net non-op
-Source Company data CMBIS
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 8 Hikvision earnings revision
-Source Company data CMBIS
-Figure 9 Hikvision CMBI estimates vs consensus
-Source Company data CMBIS Bloomberg
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 10 Operating model
-Other innovative business
-Gross margin breakdown
-Source Company data CMBIS
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 11 Quarterly operating model
-Net profit (loss)
-Growth (QoQ)
-Net profit (loss)
-Growth (YoY)
-Net profit (loss)
-Source Company data CMBIS
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Hikvision (002415 CH BUY TP RMB8000)
-We raised our target price to RMB8000 (prior RMB7565) based on unchanged 36x FY22
-PE 50% above its 3-year mean We believe Hikvision deserves re-rating as supply chain
-risk is mitigated after two years of product re-design Also strong growth in innovative
+EPS was at RMB0.46 (+38% YoY, +99% QoQ), above our estimate by 21% and
+consensus by 22%.
+Figure 7: FY2Q21 results review
+Earnings revision
+Source: Company data, CMBIS
+Source: Company data, CMBIS, Bloomberg
+Operating model
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Valuation
+Hikvision (002415 CH, BUY, TP RMB80.00)
+P/E, 50% above its 3-year mean. We believe Hikvision deserves re-rating as supply chain
+risk is mitigated after two years of product re-design. Also, strong growth in innovative
 business proves Hikvision transformation to an intelligent camera solution provider rather
-business (Ezviz Network) on STAR board We believe the spin-off could provide new
-financing channel to support IoT AI RD
-Figure 12 Peers valuation
-002415 CH BUY
-002236 CH HOLD
-002373 CH NR
-300271 CH NR
-002230 CH NR
-688256 CH NR
-Source Bloomberg CMBIS
-Figure 13 Hikvision 12M forward PE chart
-Source Bloomberg CMBIS
-Figure 14 Hikvision 12M forward PE band
-Source Bloomberg CMBIS
-1-yr fwd PE
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-FY20 FY21E FY22E FY23E  YE 31 Dec (RMB mn)
-FY20 FY21E FY22E FY23E
-(31140) (33958) (43336) (51053) (57922)  Depreciationamortization
-26518 29546 37267 44260 51101  Change in working capital
-(7257) (7378) (9264) (10202) (11619)  Net cash from operating
-(5484) (6379) (8172) (9663) (10837)  Capex
-Other operating exp
-(762)  Other
-11538 13583 17315 21359 25215  Net cash from investing
-878  Net borrowings
-Other non-oper exp
-1752  Dividend paid
-Pre-tax profit
-Net cash from financing
-(874)  Net change in cash
-Net profit to SH
-Cash (end of the year)
-YE 31 Dec (RMB mn)
-FY20 FY21E FY22E FY23E  YE 31 Dec
-FY20 FY21E FY22E FY23E
-Cash  equivalents
-27072 35460 32552 43871 63087  Core camera solution
-11268 11478 12342 15755 17353  Smart home business
-5573  Robotics
-Other innovative business
-Non-current assets
-9318 10170  Growth (%)
-1590  Revenue
-Other non-current assets
-5275  Operating profit
-6950  Gross margin
-9557 16142 30876  Operating margin
-9560  Net profit margin
-Other current liabilities
-Non-current liabilities
-3438  Current ratio  (x)
-2279  Receivable turnover days
-Other non-current liabilities
-1159  Inventory turnover days
-29885 34222 32220 41328 55604  Payable turnover days
-net cash net cash net cash net cash net cash
-5183  Profitability (%)
-(2202) (1207) (1115) (1115) (1115)  ROIC
-44904 53794 63394 74665 87266  Per share data (RMB)
-Total liabilities and
-BVPS (RMB)
-Source Company data CMBIS estimates
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Disclosures  Disclaimers
+than a pure surveillance company. Hikvision announced plan to spin off its smart home
+business (Ezviz Network) on STAR board. We believe the spin-off could provide new
+financing channel to support IoT/ AI R&D.
+Source: Bloomberg, CMBIS
+Source: Bloomberg, CMBIS
+Source: Bloomberg, CMBIS
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
 Analyst Certification
-The research analyst who is primary responsible for the content of this research report in whole or in part certifies that with respect to the securities
-or issuer that the analyst covered in this report (1) all of the views expressed accurately reflect his or her personal views about the subject securities
-in this report
-Besides the analyst confirms that neither the analyst nor hisher associates (as defined in the code of conduct issued by The Hong Kong Securities
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
 and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
-of this report (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report (3) serve
-covered in this report
- Stock with potential return of over 15% over next 12 months
- Stock with potential return of 15% to -10% over next 12 months
- Stock with potential loss of over 10% over next 12 months
- Stock is not rated by CMBIS
-OUTPERFORM                     Industry expected to outperform the relevant broad market benchmark over next 12 months
-MARKET-PERFORM             Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
-UNDERPERFORM                 Industry expected to underperform the relevant broad market benchmark over next 12 months
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
 CMB International Securities Limited
-Address 45F Champion Tower 3 Garden Road Hong Kong Tel (852) 3900 0888   Fax (852) 3900 0800
-CMB International Securities Limited (CMBIS) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
 of China Merchants Bank)
 Important Disclosures
-There are risks involved in transacting in any securities  The information contained in this report may not be suitable for the purposes of all investors  CMBIS does not
-provide individually tailored investment advice This report has been prepared without regard to the individual investment objectives financial position or special
-requirements  Past performance has no indication of future performance and actual events may differ materially from that which is contained in the report  The value
-of and returns from any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
-consult with a professional financial advisor in order to make their own investment decisions
-This report or any information contained herein have been prepared by the CMBIS solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
-to whom it is distributed  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
-transaction  Neither CMBIS nor any of its affiliates shareholders agents consultants directors officers or employees shall be liable for any loss damage or expense
-whatsoever whether direct or consequential incurred in relying on the information contained in this report  Anyone making use of the information contained in this report
-does so entirely at their own risk
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable CMBIS
-and forecasts on an AS IS basis  The information and contents are subject to change without notice CMBIS may issue other publications having information and or
-report As a result recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
-responsibility in respect thereof This report is for the use of intended recipients only and this publication may not be reproduced reprinted sold redistributed or published
-in whole or in part for any purpose without prior written consent of CMBIS
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS does not
+provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special
+requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report. The value
+of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
+or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to
+consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
+to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
+transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense
+whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone making use of the information contained in this report
+does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS
+has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices
+and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other publications having information and/or
+conclusions different from this report. These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment
+decisions or take proprietary positions that are inconsistent with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of
+its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this
+report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
+responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published
+in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
 For recipients of this document in the United Kingdom
 This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended
-from time to time)(The Order) or (II) are persons falling within Article 49(2) (a) to (d) (High Net Worth Companies Unincorporated Associations etc) of the Order and
-may not be provided to any other person without the prior written consent of CMBIS
+from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and
+may not be provided to any other person without the prior written consent of CMBIS.
 For recipients of this document in the United States
-CMBIS is not a registered broker-dealer in the United States  As a result CMBIS is not subject to US rules regarding the preparation of research reports and the
-independence of research analysts  The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
-analyst with the Financial Industry Regulatory Authority (FINRA)  The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
-analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report This report is intended for distribution in the United States
-solely to major US institutional investors as defined in Rule 15a-6 under the US Securities Exchange Act of 1934 as amended and may not be furnished to any other
-person in the United States Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
-distribute or provide this report to any other person Any US recipient of this report wishing to effect any transaction to buy or sell securities based on the information
-provided in this report should do so only through a US-registered broker-dealer
+CMBIS is not a registered broker-dealer in the United States. As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the
+independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
+analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
+analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States
+solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other
+person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
+distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information
+provided in this report should do so only through a U.S.-registered broker-dealer.
 For recipients of this document in Singapore
-This report is distributed in Singapore by CMBI (Singapore) Pte Limited (CMBISG) (Company Regn No 201731928D) an Exempt Financial Adviser as defined in the
-Financial Advisers Act (Cap 110) of Singapore and regulated by the Monetary Authority of Singapore CMBISG may distribute reports produced by its respective foreign
-entities affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations Where the report is distributed
-in Singapore to a person who is not an Accredited Investor Expert Investor or an Institutional Investor as defined in the Securities and Futures Act (Cap 289) of
-Singapore CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law Singapore recipients should contact
-CMBISG at 65 6350 4400 for matters arising from or in connection with the report
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the
+Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign
+entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed
+in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of
+Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact
+CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

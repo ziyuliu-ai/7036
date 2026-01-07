@@ -1,733 +1,409 @@
-%()-                                                                    01234
-%() PCB -0
-%002463
-%()
- 12 89 41961880
-%() 300 -
-l (891 PCB ABCDEFGHIJK
-L 1992 MNOPQBRSTMUVWXYZBR
-abcaNdaefaghijklNmnopqBrstuvw
-xBy PCB stzUeft8
-Uam PCB ePDDa
-C—aFG8B Pta
-iUe8U
-tDXFG2024 M H1 -tU 7381%
-l e-Be-
-eBtD8
-2015 MU 1010%B 2024 MMU 4159%FG
-mn 2015 MU 1801%B 2024 MMU 2499%
-l  PCB stB
-2024 MMBaBPCB st
-BUXBM2024
-MMTCU2024 MyU
-MPrismark T PCB UYB
- 2023 MU 265 6NY 2028 MU 325 6BMME
-Y 54%B—CUYB
-XCU PCB gh 2024 MU 9781 
- 2028 MU 14221 B2023-2028 MU CAGR E
-116%By CAGR U 54%UU 2 T
-l AI B%K PCB 
-( Omdia UC)BXC—-U GPU
-X0UY123B456st712
-3gh 2022 MU7 100 6Y 2024 MU 780 
-6BOmdia  2029 MBgh8 1510 6
- PCB e9%BeZ
- 3-5 MBNZ 2-3 MABCDEFGa
-CFGHIaJKLijkB PCB eMm
-N(OEPUQ9R)B7UB7Ue
-STBnU PCB UC7BnUUXUVAWU7
-X%mU5
-l FG8KX7XYv PCB st
-G PCB ZNYQL8KGB8KGBEV
-G PCB %ZFabcGU 56 B—Gz PCB %Z
-dce8fgaBG PCB %ZUBh8fga—
-%()-
-U BMSBattery Management SystemB8ijkgal
-Kmno8KGpcBqQl FPCFlexible
-Printed CircuitBrst8Bv08fgaU PCB %
-ALKuviNXBGwxyz8i8
-eCcM7X0BG PCB P 48 BhLuga
-Tl%-U HDI High Density InterconnectB%
-48 U 3 BL3 PLugawU LIDARLight Detection
-and RangingB8lU HDI %8C6BqQG
- PCB ZcUQ
-Ue8UtDXFG
-2024 M H1 -tU 7381%X 2209%
-tD8Ut 2024E-2026E M
-- 8628 6B11291 6B13247 6B-Y 47%B31%
-FG8Ut 2024E-2026E - 24 6B
-252 6B30 6B-Y 11%B5%X 19%
- PCB  2024E-2026E - 115 6B144
-6X 168 6 2024E-2026E - 118 6B147
-6X 171 6
-BtD8
-2015 MU 1010%B 2024 MMU 4159%Bg AI
-9-UstX(89y AI 
-B— PCB ABe-B
-YBN
-AI 7ZBV7ZBPCB stopBPCB 
-awindbcd012e
-%()-                         327                                         01234
-1 3456 PCB 789AI ABCDE  5
-11 FGHIJKLMNOABP78 PCB QR9STUVWXYZ  5
-12 Aabcdefghi  8
-13 AjkGlmjnoC  9
-14 PCB pqrstuvwxyz  10
-2 AI xyoC  13
-21 Tx7  13
-22  CAPEX xy  13
-22 AI 0—oC3  14
-23   PCB oDE  15
-24 AI xy PCB 6  16
-3 -VWxy PCB   18
-31 VW PCB xyg  18
-32 -VWa PCB 6  19
-33 VW6 PCB 6  19
-4 AQR6  22
-41 AQR  22
-42 A  24
-L%  25
-0  26
-%()-                         427                                         01234
- 1 A-QR  5
- 2 A-  6
- 3 AF5O  7
- 4 A 2024  9   8
- 5 Ade  9
- 6 Ao2017-2024H1  9
- 7 Ao2017-2024H1  9
- 8 A2024H1  10
- 9 A-82015-2024H1  10
- 10 2024  PCB ()  11
- 11 20242023  PCB oC()  11
- 12 2023-2028  PCB rUoC  12
- 13  PCB rUoC()  12
- 14 AT PCB AlFr  13
- 15 a CAPEX  14
- 16 6B  14
- 17 30—  15
- 18 3  15
- 19 2019-2024 3   15
- 20  a6 PCB  B  16
- 21 a66 ROADMAP  16
- 22 %( PCB )-601  17
- 23 AVW PCB AlFr  18
- 24  2024 -VW2oC 27%  19
- 25 33W245672016-2030E  20
- 26 389 PCB   21
- 27 89  22
- 28 Ade  23
-%()-                         527                                         01234
-1 % PCB ()AI -0
-11 0123456789 PCB ABCD
-EFGHIJKLMN
-L 1992 MNOPQBRSTMUVWXYZBRabca
-NdaefaghijklNmnopqBrstuvwxBy PCB stzU
-eft8Uam
- PCB ePDDaC—aFG8B
-Ptai
- 1 A-QR
-afgBhijklmnopbcd012e
-eOFGjkBeGgaga
-Kga8gaB8ijkgaB5BLKuv -ga(z8
-y)G8Gi8jkBe-
-88jkBe
-Xt8(K)jkBe
-(4G5GWiMaxLTE)K4X2(K)jkB
-eX()jkBe
-eBBATE mUeBmeB
-XtjkBeKffL
-K
-%()-                         627                                         01234
- 2 A-
-AWBCDEFBCDgBCDD-
-BCGHIBCJK—89L
-MBCNODPQRSDWTUDWKVW
-XITDabDcdeDcfghf
-ijDklmDnopqr stDuvw
-yzyzE —D78Xgg9
-stNnqroqrSDS7  
-780—
-7  6T  
-NDDDSDD——
-S op DbDcdeDDgU
-DDc—Ntx Dgut
-xDq txDqq t
-xSDN-SDvw
-DgDijgi
-78—D —wNS
-7 p 6DcdeD7 p 67de
-PX— 
-6
-jUcdeDfNeSD 
-gDD8D
-XITDabDcdeDkl
-mnopqr st
-afgBhijqrstpbcd012e
-(NO 1992 M 4 1995 M 10 B-
-dePXde-U6GdeE-
-Ug6J U
-8TZEA6S%
-PzK AU%de A
-8-TXVW6 cde de B
-p (3)B(3)-P-A340
-21-X2    Gl A3-4 5
-6(5697B A892B68
-989-a6AB56
-B2TCDP%E%FGT%HI%JHIK34
-A( LMBAPNO PQRSr 6UBGTU
-VWXAY PQRSr Z 6xo  
-A566VWU  BXA8
-O76Jxyjnix2abc7
-PdyVWUoCerd6fX (g3B
-%()-                         727                                         01234
- 3 AF5O
--de%iKCO%5UAB
-AT89(B    
-   
-pqAr)-dePXde-U6G
-deE-Ug6J
-pqAr)U8T
-ZEA6S%PzK
-AU%de2
-ntttt suvn w 4de
-pqAr)xyA- P lTlde-z
-l cde dede8U2FA1de5A8-
-TXVW6 cde de
-pq n UA6Gl%NfeceS
-y7NPPhScde 6W%i
-02182961d0
-pq n UA6Gl%X%
-%UX6  —621%01d
-0(3)-P-A34021-X
-2    Gl
-A3-4
-pq n UA6GlP%X7
-NcdeS%%UX6  —
-1dde0
-56(HIGHIBAiznU
-HI-—   VW
-F56(E256(a6a
-pq n UA6GlP97HI0N%3
-KSHI06 %
-N%SdeiN%3KS
-pq  A892B689
-89-a6AB56
-B2TCDP%E%FGT%HI%JHI
-K34A(
-pq n LM-Gl%U6%X
-%%21%de%de01d0pq n A
-y xLM 6E xLMZ n6A
-PQRSr xLM 6LM8 n     AU2
-PQRSr 6U
-pq  APNO PQRSr 6UBGTUVW
-XAY PQRSr Z 6xo 2
-%()-                         827                                         01234
-PQRSr Z
-6
- PQRSr -UVN3ATUVSAi
-zn3 PQRSr 6GlL2bBVWU
-9667A PQRSr gde6
-Ax6 PQRSr APCQ
-  6lUZ nD 
-pq  A566VWU  BX
-A8O76Jxyjnix2abc
-7PdyVWUoCerd6fX
-pq  AaiUg%VWZBC  de6%s
-67 Q de6A  LM2  
-PQRSr EdyGWXBLMBPA6U
-AA PQRSr gde69-xLM
- Q   de6g
-pq n (g3PAUAB  Gl
-%i%W%1%%X%7
-NcdeS%%UX6  —%-
-6o1d0de0A
-x(g3 6A(UAx(g3
-pq  k(g36Xiz6X
-ys  l26A(
-afgBhijbfgBhuBvbfgBh 2024 wxw3bfgBh 2023 ww3bfgBh 2022 ww3bfgB
-h 2019 ww3bfgBh 2017 ww3bfgBh 2015 ww3bcd012e
-12 OPQRSTUVWXYZ
-9Tmn 2024 M 9 B 100%U
-BIGGERING (BVI) HOLDINGSCOLTD 99 1943%
-8WUSGROUP91195%—9451%
-9—TeB9 29%
- 4 A 2024  9 
-ayzbcd012e
-%()-                         927                                         01234
-()BU
-lTSU9
-VPtU 3 Aa2 
-r 63 —V 51  12 
-zauvNU%ZUop
- 5 Ade
-afgBhijklnopbcd012e
-13 1abcde
-X%YUt 2017 MU 4627 6Y 2023
-MU 8938 6B2024 MMt 5424 6BY 441%
-%jkB(% 2017 MU 204 6 2023 MU 1513 6B2024
-MM% 1141 6BY 1316%Ut)YB
--ai-n PCB UTs
- 6 Ao2017-2024H1
- 7 Ao2017-2024H1
-awindbcd012e
-awindbcd012e
-营业收入（亿元，左轴）
-营业收入同比（%，右轴）
-归母净利润（亿元，左轴）
-净利润同比（%，右轴）
-%()-                         1027                                         01234
-Ue8UtD2024 MMB
--XUBtDt
-3828 6BY 7549%BtU 7381%2024 MMB
-CDaaC—iVB
-eUEsa8saL0Ta1sijk PCIe60 U
-De23 224Gbps (1024T 4c 16T
-)UeNOAMUBB20 e5c67GPU 8e
-DS 6 9 HDI U2BceB800G 5c67
-2024 MMFGt 1145 6B 394%B
-tU 2209%FGUX)UBP
-1UeebBv0TAXzTG
-UEVBABV SIPafi HDI eFGt
-—B-e 2023 MU 2596%Y 3369%
-eBtD8 2015 M
-U 1010%B 2024 MMU 4159%FGmn 2015
-MU 1801%B 2024 MMU 2499%
- 8 A2024H1
- 9 A-82015-2024H1
-awindbcd012e
-awindbcd012e
-14 PCB fghijklmnopq
-2024 MMBaBPCB stB
-UXBM2024 MMTC
-U2024 MyUMB Prismark C PCB 
-YBZY 50%BkY 72%k
-mnZU-YDEU%FGUZHI
-企业通讯市场板毛利率（%）
-%()-                         1127                                         01234
- 10 2024  PCB ()
-aPrismark2024Q1 1234bfgBh 2024 wxw3bcd012e
-13%63K
- 11 20242023  PCB oC()
-aPrismark2024Q1 1234bfgBh 2024 wxw3bcd012e
-13%63K
-PCB stRJYKLYMNUOPyUB—YZQB
--aHPCaDaFG8auv-UQR
-ST8iZc 2023 MUCUBPrismark 
-PCB  2023 MU 695 6NY 2028 MU 904 6BMME
-Y 54%BqQMzVWUY—XY9
-stUZ—wxB4— PCB stUeTXVWU
-BPrismark  2023-2028 M— PCB ZEY 42%BU
-B 2028 M— PCB Z8 465 6
-%()-                         1227                                         01234
- 12 2023-2028  PCB rUoC
-aPrismark2024Q1 1234bfgBh 2024 wxw3bcd012e
-13%63K
-Prismark T PCB UYB 2023 MU
-265 6NY 2028 MU 325 6BMMEY 54%B—
-CUYBXCU PCB 
-gh 2024 MU 9781  2028 MU 14221 B2023-2028 MU
-CAGR E 116%By CAGR U 54%UU 2 T
- 13  PCB rUoC()
-aPrismark2024Q2 1234bfgBh 2024 wxw3bcd012e
-13%63K
-%()-                         1327                                         01234
-21 rsOtuGvwxyzn
-2024 MMB-XUBtD
-t 3828 6BY 7549%B— AI X
-HPC m PCB etDtU 2023 MU 2113%
-Y 3148%
-2024 MMBCDaaC—i
-VBeUEsa8saL0Ta1sij
-k PCIe60 UDe23 224Gbps
-(1024T 4c 16T )UeNOAMUBB20 
-e5c67GPU 8eDS 6 9 HDI U2Bce
-B800G 5c67
-BtD PCB — 2015 MU 646%B
- 2024 MU 738%
- 14 AT PCB AlFr
-aWindbcd012e
-22  CAPEX no
-OpenAI VJ ChatGPT  GPT g—U-hGPT g—B
-GPT3 y 1750 CNUabhBh GPT4 UCy8N-z
-JUhCghMcdeN-fghUCghBn
-AaAPAizBGPT
-5BstgjUB AIGC tUBtqQ
-kNBBsBtgB—BB
-N AIGC —UlP
-%()-                         1427                                         01234
- 15 a CAPEX
- 16 6B
-aInformationisBeautifulbcd012e
-abcd012e
-jkmhCceCghBno9pBn
-U CPU05P GPU UghqsqQBmTC
-hCgh8N-BUsB—
-rDSU-s-tE-u2B3 AI tVW
-22 AI dexy
-Omdia SqRI—1
-SqR6 GPU 67oCVzK
-y%V 2022 6% 100 oC 2024 6 780 
-Omdia  2029  1510 
-AI o9%pq IDC Sq2023 
-30— 94  2022 oC 104% GPU 0—
--Zq 92%6 87  NPU%ASIC  FPGA
- GPU 0— 49%6oqJ 8%6C 7 
-2023 21%DH%HqJ 70%6
-0—(S%%DHHC 50%
-666Y0—
-J 60%6x%%TkSCz6o
-3)3ade6Hz3 AI 6
-s%z38 AI 63K(MxK
-AI )6AI y-0
-AI 17g0—B23-40y
-5X67Bxyde3BP%z87
- AI g%s6a AI 0—6%oxy
- AI 0—62oCIDC  2028 30— 124
- GPU 0—C 33%
-6a AI 9ogXY6
-sG%A%BCB%BD
-GEFGH6IIa
-JSq6a6%c1KX6g1
-%()-                         1527                                         01234
-6BChatGPT%Sora%LG%BRzM AI 9oaN1
-OP2024 3(QgSERST%U
-VI%%WXUrY6Z916
-Z6a AI 0—6g16
- 17 30—
- 18 3
-aIDCbcd012e
-aIDCbcd012e
-2023 36J 140 deGPU 
-q 85%636C 20
-Z6 14%I6q 67%6
-yxa6611a
-61KX6b37
-23 — PCB dxy
-aCa5GavwixUstQU
-VWyB7Xtzk3xBfwa
-t 40 XiBUstQVWy—AtVJ
-U2019-2023 M—sts)B
-—B2022 Mgh8
-591 6BY 1796%B2023 M 685 6AWC—
-aatwiB8P—UB—At0
-B2024 M—gh 749 6
- 19 2019-2024 3 
-a3jbcd012e
-2019-2024中国交换机市场规模趋势（亿元）
-%()-                         1627                                         01234
-aaoa4aaPCB iN
-—NdB8 32%-aoa4aa
-PCBB- 14%a10%a10%a8%a7%
- 20  a6 PCB  B
-akN12bcd012e
-24 AI  noN PCB 
-P8 Hot Chips2024 1—JUeKB6U
-Blackwell GPUBw HBM3e zBw NVSwitch5B 18TBU
-—B800GbU ConnectX-8 o—BP 800GB—U Spectrum-
-X800 X Quantum-X800 
-UBBlackwell ST GPU  2080 6jB9
-UX0slD8 4 ZB
-UNBUIXVcw 192GB U HBM3E )B
-UCkX EFGjkB NVLink CCX
-E AI hUsB8 NVLink 6 GPU sU
-18TBs UHcB90 LLM T8 576 6 GPU U
-DesU%y89stewxUBMy PCB
-imwU
- 21 a66 roadmap
-abcd012e
-%()-                         1727                                         01234
- PCB e9%BeZ
-3-5 MBNZ 2-3 MABCDEFGaCFGHIa
-JKLijkB PCB eMmN(OEPUQ
-9R)B7UB7UeSTBnU PCB UC7Bn
-Usscd6%6K
- 22 %( PCB )-601
-IntelX86 g
-anbcd012e
-%()-                         1827                                         01234
-3 A89BC PCB DEFG
-31 rsOtIJ PCB noZ
-2024 MMBG PCB k-BiAe%5HIB
-NdFGst 2023 MYUstB)6KrU
-jFGUXB4Y23BFG%
-opBFGstUzMkn5BG%
-yHIGUlBFGvUNdgB
-aizPwiUHIB—FG6
-—6UBMDE6stkU-s
-gB2024 MMFGt 1145 6B
- 394%B4FGtqiHIBFG
- 08 6 2024 MMZBFGU
-X)UBP1UeebBv0T
-AXzTGUEVBABV SIPafi
-HDI eDSXtEU)EBp2Pack FG 800V PS
-TUM7UvW2024 MM4z8al HDI ULK
-uv -PfaaUap2Pack i-FGe
-NYBFGtU 2023 MU 2596%Y
-—YZBSTekUGNdUZk-8KFG
-USTenUjYFGste66s
-UBgFGst8aXwiTs5U
-71BN%XTa9 HDIaa
-aaNijUFGUYZY1
- 23 AVW PCB AlFr
-aWindbcd012e
-%()-                         1927                                         01234
-32 IJT PCB N
-( TrendForce UCaX)BPCB  2023 MST8
--Bh 2023 MU7)BR—n PCB t
-UHIm-)B2023 M PCB Z 790 6B- 2022
-M 52%—G PCB jNYBy8KG
-PFG8B2023 MZCM 14%B8 105 6B
-PCB Z 11% 13% 2026 MG PCB ZkNY 145
-6B PCB Zj 15%B20222026 MG PCB Z
-CAGR  12%
-P8QBC 2023 MG PCB lU 48 G PCB
-U 40%B 2026 M 32%B%-U HDI j 15%
- 20%FPC  17% 20%BU- 8% 88%
- 95% 108%B%-UUHkj 112% 77%
-33 IJsN- PCB 
-G PCB ZNYQL8KGB8KGBEVG
- PCB %ZFabcGU 56 B—Gz PCB %Zdce8f
-gaBG PCB %ZUBh8fga—U BMSBattery Management
-SystemB8ijkgalKmno8KGpcBq
-Ql FPCFlexible Printed CircuitBrst8Bv
-08fgaU PCB %Zdc
-( Canalys UaXB2023 MMBFGc
-29%B8 1370 B8 17%—X9FGwxB
-dwc8 760 BFG 555%
- 24  2024 -VW2oC 27%
-aCanalysbcd012e
-%()-                         2027                                         01234
-—yFGUBFGUw
-1VJUC)B2023 M—Gc 2170 Bc
-2023 M—e 35%B88 24%B2
-cUVW 2024 Mk 40%B8e
-8 30%YZB 2030 M8e1 50%UBe
-abbcd012e
-ALKuviNXBGwxyz8i8eC
-cM7X0BG PCB P 48 BhLugaTl%-U
-HDI High Density InterconnectB% 48 U 3 BL3 P
-LugawU LIDARLight Detection and RangingB8lU HDI
-%8C6BqQG PCB ZcUQ
-2030 MLKuvGgagh8 5000 6(UC
-B—LKuvqQVWB2030 MLKuvGgaU
-gh8 5000 6B—aFXryeB
-D 2020 MS 120%UYB 2030 MQ 2400
-6UghBLKuvUM1Y
-%()-                         2127                                         01234
- 26 389 PCB 
-abcd012e
-vRwyqQLKuvwj 2018 M 2022 MB
-U L3 N-ULKuvBfpLKuvvGa
-pLKuvYiYQB 2030 MPB0
--uvG Robocab iLKuv
-XsBAGU7PGUL
-GTquwB7mqumB
-y7NdBw NdBoQR Bh
-U7nXsmn-UBuOLKu
-vmELKuvrVWVBmn4UT
-uwBh2ULKuv0szjsBw
-GLKuvVWGusB%TVWB
-NTUmGP L2 N-Uuv -N-U
-LGLKuvBqQUVWX(PUNN
- 2025 M)T— L0  L2 N-ULKu
-vBFfgaUy5h 2030 MvTB
--Ujy
-%()-                         2227                                         01234
- 27 89
-abcd012e
-4 01HI%JKLMNOPQR
-41 AB
-nPQU-BPXeNz2024
-MMV 367 6BY 6134%Bu 5 Va
-8 X 1 rzWT)
-EBooT6eaaUVBNVT0e
-VBCDaaC—iB
-V Class8 PUVaNoEtch 12
-Stub67milmax UEsVaPCB 8j3Vie
-VBD BHS DeweB OKS
-De0eB112Gbps Uevse24e5B
-3 9 HDI U UBB ec5B PFGAaGPUaXPU iSTU
-DgJ—B 112Gbps  512T U6R 800G
-5c5B224Gbps Ue(1024T 4c 16T )vs
-BNPOCPO STUwEV—e
-—U0 PCB 5c5qgT9 HDI e
-FG8BniNX7s PCB U0B
-rTEUN PCB TPsU PCBBf
-domain controllerBT box iecCUBPCB m
-UEH8BcUvsPEs
-XFGwA)EqVmBX
-zTyGlNEgBVUFG8
-%()-                         2327                                         01234
- 28 Ade
- Lowloss k
-P-k
-035mm  Pitch x
-no
- HDI 12
-1024TSwitchRouter
-Nqrkln
-o—1bno
- AI k
-NoEtch no
-- 3-5%—b
-kl
-no
-no(b
-kl
-BackdrillStub7milmax  Stub
-no
- PCBStub (
-bkl
-NM% PCBno
-kl%b-no
- PCB no
-(%(s)
-Class8 -no
-no-bkl
-0 Stub6milmax —12
-0 Stub —1
- PCBStub (
-45 224Gbps —1
- 1-2 78 224Gbps
-GFgno—
-e— PCB no
-gno-b
-k Class8 -
- 1-2 7b
-112Gbps Z—kl
-6 A NPOCPO kl1
-NPOCPO B%kl
-B%(b
-035mmPitch x
-no
-5 AEF-1
-- SLT klno
-A HDISLT kl—
-GH 5 A HDI —1
--TUklK7Kb-
-GH HDI —1
-GH PCB 8PQRS
-%()-                         2427                                         01234
-TpUVno—1
-WXgYZno—1
-gY8no—1
-Semi-flexDecap21 no—1
-GHyab
-GH 4D yno—
-PCB GcdZno—1
-gefGgghegi
-jZxno—1
-i
-lmkn
-5 A HDISIP klr—
-2C SIP kl—n
- SIP klno
-70um tur—1
-2C 70um tun
- 70umlaser —k
-035mmpitchBGA —1
-035mmpitchBGA n
- 035mmpitchBGA —k
-iwxm HDI no—y
-(noMyz
-bA HDI n
-2CA HDI no
-(noM
--(
- 4D 1
-2C 4D
- 4D 
-A HDI tu2mil 
-- 2mil 
- 2mil —
-HDC ino—1
-2C HDC noD
-ino—O
-afgBh 2023 ww3bcd012e
-42 
-Ue8UtDXFG
-2024 M H1 -tU 7381%X 2209%
-tD8Ut 2024E-2026E M-
-8628 6B11291 6B13247 6B-Y 47%B31%X 17%
-FG8Ut 2024E-2026E - 24 6B252 
-6B30 6B-Y 11%B5%X 19%
- PCB  2024E-2026E - 115 6B144 6
-X 168 6 2024E-2026E - 118 6B147 6X 171 
-%()-                         2527                                         01234
-BtD8 2015 M
-U 1010%B 2024 MMU 4159%Bg AI 9-Us
-tX(89y AI B— PCB AB
-e-BYBN
-AI 7ZBV7ZBPCB stopBPCB 
-%()-                         2627                                         01234
-9  9 AB
-A B 9 99
-BA BBC BB B9
-ABA 99
-BC9 BAC C 9A
-9A B BC BC99
-BC9 BA 9 9A
-A AB A ACBA
-CA 9 99C 9A
- AB A B
-C A9 BA BA
-B CA9 B A9
-  9 
-BB   C
-A BB B B9
-9 B A 
-CA A A 
-AA A A A
-9A A BA CA
-A9  9C CC
-C A9 BA BA
-BB B9 BA A
-A BAA  A
-C9 DBC DCAB D
- BC 9 B
-D9 DB D9 DC9
-D9A D9CB DC9 DCBC
-DA99 D9B
-B9E BEA E99 E9A
-D D9
-C BC B  EVEBITDA
-BE AEC E EC9
-aTUT4bcd012e
-%()-                         2727                                         01234
-U
-234Gt2RE1S00105230600011HIJjkJKBJJKBL—PJ8g
-J8 MjRBJMOVj8NBTMT YBRk-kORk-k
-stSXgNBPYjQRynBkSTU8st
-567Gt2RE1S00105240700011VWdJ1XJdPBXYJCXJK2022
-M0L2ZB MEMS XFaAI aPCBai
-d0—2Zt1U2ZGtBPabUGtatcdUjB
-EEgUxBeOaw6dBdlUCXxQLxBd-n
-xUss7fMg92BM792hdUxX71VMg5—UxXijk
-d-S7la7aqQM71d—UmijhooMglR
-UnoBp7MgqjUiHIBg
-L2Z9R—2ZstjkuN15B2ZtdL2Z9
-—L-vBX7hw—a—xya—Dzd—UxQEg
-BL2Za1B4nxUss7fMg92MgBd
-—UxUij7TNnMg-UMgBdadNewT7
-eB7eBM7nMg-d—UMgz4UMgH8SMg
-TMeiBgf6UMg-dadNewTL2Z
-wT1—UVsU2ZqvsBs
-dkFBqRL2ZRkBdUMg7PMgjRMgl
-RUaeBVMg-BPMgFdUjRf
-dz4BwL2ZqBq6L2ZB7ndvs
-iUXfqRdBLeVdBUTML
-Vedq9TMU
-PdVJ 6 6zB2Zst CmnZm2Zs CU—B
-A 9P() 300  CqPqN nUqf Cnf
-UP CP8 Cc 500  Cf1
-—qQ 6 6Uu C 5%P
-—s—qQ 6 6U CU5Km-5% 5%
-—qQ 6 6U C 5%P
-—qQ 6-12 6Uu C 15%P
-—qQ 6-12 6Uu C 5% 15%
-—s—qQ 6-12 6U CU5Km-5% 5%
-—qQ 6-12 6U C 5%
-6—qQ 6-12 6U C 15%P
-N—UBekjU7sBeB
-6UN
+沪电股份：数据中心和汽车 PCB 双轮驱动
+投资评级: 买入(首次)
+主要观点:
+● 沪电股份:高端 PCB 核心供应商,数通合汽车双轮驱动
+公司自 1992 年成立以来,经过多年的发展和长期积累,公司已经在技
+术、质量、成本、品牌、规模等方面形成相对竞争优势，居行业先进地
+位,是 PCB 行业内的重要品牌之一。公司主要业务一直专注于印制电
+路板的生产、销售及相关售后服务。公司 PCB 产品以通信通讯设备、
+数据中心基础设施、汽车电子为核心应用领域、辅以工业设备、半导体
+芯片测试等应用领域。公司的核心产品印制电路板的主要终端应用为企
+业通讯市场和汽车应用市场。2024年H1分别占比营业收入的73.81%
+和 22.09%。
+公司价格与沪深 300 走势比较
+●公司产品具备较强技术实力，产品维持较高盈利能力
+从公司产品毛利率看,企业通讯市场用印制电路板毛利率持续提升从
+2015 年的 10.10%, 提升至 2024 年上半年的 41.59%; 汽车板毛利率
+维持相对稳定从 2015 年的 18.01%, 提升至 2024 年上半年的 24.99%。
+● 从 PCB 行业整体趋势看呈现复苏迹象，服务器应用增速最快
+2024 年上半年,由于库存改善、需求逐步恢复, PCB 行业开始呈现复
+苏迹象,观察目前的去库存速度和节奏,预计到年底将持续改善。2024
+年下半年大多数细分应用领域的库存将完全正常化。2024 年是复苏的
+一年。Prismark 预测多层 PCB 市场的所有细分领域均有增长，预计将
+从 2023 年的 265 亿美元成长至 2028 年的 325 亿美元, 五年年均复合
+增长率约为 5.4%，其中服务器/数据存储领域的增长将最强劲，预计总
+体服务器和数据存储应用的 PCB 市场规模从 2024 年的 97.81 亿美金
+提升至 2028 年的 142.21 亿美金, 2023-2028 年的 CAGR 复合增速为
+11.6%, 是平均 CAGR 增速的 5.4%的增速的 2 倍多。
+● AI 芯片需求强劲，芯片持续迭代带动 PCB 领域需求
+根据 Omdia 的数据显示,目前用于云计算和数据中心人工智能的 GPU
+和其他加速芯片的高速增长最终会放缓, 但在改变整个行业之前不会放
+缓。市场规模已从 2022 年的不到 100 亿美元增长到 2024 年的 780 亿
+美元，Omdia 预计到 2029 年，市场规模将最终达到 1510 亿美元。服
+务器 PCB 产品需要与服务器芯片保持同步代际更迭,产品生命周期一
+般在3-5年,成熟期一般在2-3年。随各世代芯片平台在信号传输速率、
+数据传输损耗、布线密度等方面要求提升, 服务器 PCB 产品也需要相
+应升级。根据广合科技的招股书显示，不同的服务器芯片，不同的产品
+架构,对应的 PCB 的层数不同,对应的板厚和厚径比均随着芯片的不
+同和迭代有相应的变化。
+● 汽车电动化和智能化不断促进 PCB 行业需求
+车用 PCB 产值成长主力来自电动车渗透率提升，纯电动车（BEV）
+每车平均 PCB 价值约为传统燃油车的 5~6 倍，其中车内 PCB 价值
+含量最高者为电控系统，约占整车 PCB 价值的一半，而电控系统中
+的 BMS（Battery Management System，电池管理系统）目前主要采
+用线束连接。在电动车轻量化趋势下，未来将逐步采用 FPC（Flexible
+Printed Circuit, 软性印刷电路板),将进一步增加电控系统的 PCB 价
+值含量。
+随自动驾驶等级和渗透率持续提升，平均每车配备镜头及雷达等电子
+产品数量也将不断增加,目前车用 PCB 以 4~8 层板为主,而自驾系统
+多采单价较高的 HDI 板（High Density Interconnect），其价格约为
+4~8 层板的 3 倍，L3 以上自驾系统配备的 LIDAR（Light Detection
+and Ranging，光达）所采用的 HDI 价格可达数十美元，亦为未来车
+● 投资建议
+公司的核心产品印制电路板的主要终端应用为企业通讯市场和汽车应
+用市场。2024 年 H1 分别占比营业收入的 73.81%和 22.09%。
+我们预计企业通讯市场公司印制电路板的营业收入 2024E-2026E 年分
+别为 86.28 亿元, 112.91 亿元, 132.47 亿元, 分别同比增长 47%, 31%
+和 17%。
+汽车应用市场印制电路板的营业收入 2024E-2026E 分别为 24 亿元.
+25.2 亿元, 30 亿元, 分别同比增长 11%, 5%和 19%。
+亿元和 171 亿元。
+从公司目前毛利率看，企业通讯市场用印制电路板毛利率持续提升从
+2015 年的 10.10%，提升至 2024 年上半年的 41.59%，主要系核心 AI
+客户保持较高的行业景气度和增速。我们认为沪电股份是 AI 算力时
+代,服务器中 PCB 重要供应商,考虑公司产品盈利能力较强,且营收
+風险提示
+AI 需求不及预期,公司研发不及预期,PCB 行业竞争激烈,PCB 核心
+上游材料成本高企
+单位:百万元
+● 重要财务指标
+正文目录
+图表目录
+1 国内重要的 PCB 高端供应商，AI 行业打开公
+司成长空间
+1.1 历经三十余载风雨兼程,公司成为高端 PCB 核心供应
+商, 数通合汽车双轮驱动
+公司自 1992 年成立以来,经过多年的发展和长期积累,公司已经在技术、质量、
+成本、品牌、规模等方面形成相对竞争优势,居行业先进地位,是 PCB 行业内的重
+要品牌之一。公司主要业务一直专注于印制电路板的生产、销售及相关售后服务。
+公司 PCB 产品以通信通讯设备、数据中心基础设施、汽车电子为核心应用领域,辅
+以工业设备、半导体芯片测试等应用领域。
+图表 1 沪电股份公司主要核心产品
+产品中心
+公司产品应用范围广泛。在汽车方面,公司终端产品应用于刹车系统,转向系统,
+动力系统,新能源电机系统, 电池管理系统, 逆变器, 自动驾驶辅助系统(雷达,摄像
+头),车身电子,车载娱乐设施,导航等;在电源设备方面,公司终端产品应用于直流-直
+流转换器,高端设备/计算机电力供给; 计算机/电脑方面, 公司终端产品应用于高端
+服务器和工业用计算机;电信基础设施(无线)方面,公司终端产品应用于基站
+(4G,5G,WiMax,LTE),天线,滤波器和功率放大器;核心网络(有线)方面,公司终端产
+品应用于高端路由器,交换器和存储(云计算);半导体方面,公司终端产品应用于专
+为芯片设计定制品, 仿真器, ATE 测试相关的产品, 老化测试相关产品, 晶圆测试
+承载板和探针卡载板;工业方面,公司终端产品应用于动力控制,温湿度控制,工厂自
+动化,建筑机械,办公设备。
+公司前身昆山沪士成立于 1992 年 4 月; 1995 年 10 月公司开始投产,主要生
+于楠梓电子生产能力饱和时的剩余订单;1997年由于受亚洲金融危机影响, 楠梓电子客
+户订单已无法满足其自身产能需求,导致转移给公司的订单数量大幅减少,开工率不足
+为改变被动接单局面,公司开始脱离榆梓电子独立开拓市场、技术和产品;2000年公司
+自主开发了应用于基础电信通讯设备和汽车市场等领域的 HDI 技术; 2002 年沪利微电成
+立; 2006 年沪士国际成立,沪士国际目前主要是为方便公司在中国内地以外获取订单以
+及销售所设, 并于 2009 年 10 月开始经营; 2010 年公司于深交所中小板上市; 2012 年黄
+石沪士和黄石供应链成立; 2015年, 公司昆山新厂顺利投产, 并完成了与生产相关的昆
+山老厂搬迁工作。昆山新厂已顺利获得老厂区所有客户对全部产品的认可。黄石新厂顺
+利完成试生产，并已顺利通过华为、中兴、烽火通讯、夏普、日立等近三十家国内外客
+户认证; 2017 年胜伟策成立，同年公司为巩固和加强与 Schweizer 的合作关系, 经董事
+会批准,公司新购入 Schweizer 约 15.24%的股权,持股比例增加至 19.74%; 2019 年,
+公司黄石二厂的汽车电子板专线已在 2019 年顺利完成建厂和试产, 设立了全公司目前自
+动化和智能化程度最高的生产线,利用好逆境持续投资稳步前进,保持并扩大竞争优势,
+为后续汽车电子市场增长恢复后的需求做好准备;2022年沪士泰国成立。
+图表 3 沪电股份公司历史沿革和重要里程碑
+作关系, 购入
+得 Schweizer 监事会席位(其职能类似中国公司董事会),这将使得公司能够进
+Schweizer 约
+一步深入参与 Schweizer 的经营，共担风险并分享积极成果。汽车电子化以及
+15.24%的股权
+智能驾驶的趋势日益明显，公司将与 Schweizer 共同努力加快相关技术的开发
+以及市场化。本公司持有的 Schweizer 公司股票，作为长期股权投资核算，截
+止 2017 年年末的期末账面价值折合约 13, 214 万元人民币。
+根据 2019 年年报，公司黄石二厂的汽车电子板专线已在 2019 年顺利完成建厂和试产，设立了全
+公司目前自动化和智能化程度最高的生产线，利用好逆境持续投资稳步前进，保持并扩大竞争优
+2019年
+势，为后续汽车电子市场增长恢复后的需求做好准备。
+根据 2022 年年报，公司出于对混合动力、纯电动汽车驱动系统等方面 POB 技术面临的问题、发展
+趋势以及 p2Pack 技术前景的判断，公司于 2022 年初投资参股胜伟策，并于 2022 年末与
+2022 年
+Schweizer 签署了《股权转让协议》，后续该交易如经批准完成，胜伟策将成为公司的控股子公
+司，公司将与 Schweizer 共同努力加快相关技术的开发以及市场化，提供所需支持以促使胜伟策
+根据 2023 年年报，沪士泰国为公司控股子公司，成立于 2022 年，经营范
+围:生产、进出口、批发、零售、运输单、双面及多层电路板、高密度互连
+积层板 (HDI)、电路板组装产品、电子设备使用的连接线和连接器、以及所
+2022 年
+沪士泰国成立
+有用于生产的原材料及相关产品和配件,包括售后服务和技术服务。公司
+持有沪士泰国 99%的股权公司关联方新士电子私人有限公司持有沪士泰国
+1%的股权。
+根据 2024 年半年报，沪士泰国生产基地的各项建设工作有序推进。第一期生产线的设备安装与调
+2024 年上半
+试工作正在陆续展开,预计将于2024年第四季度着手安排试生产,并启动新产能的客户认证与产
+品导入工作。
+1.2 公司股权结构相对分散,技术实力行业先进
+公司股权结构相对分散。截止 2024 年 9 月份, 吴礼淦家族持有 100%的
+BIGGERING (BVI) HOLDINGSCO.,LTD 股份同时持有公司股份占比 19.43%; 楠梓
+电子全资子公司WUSGROUP持股占比11.95%;香港中央结算公司持股占比4.51%;
+前十大股东名单中机构投资者占据六席,持股占比2.9%。
+图表 4 沪电股份公司股权结构 (截止 2024 年 9 月)
+根据公司官网显示，在知识产权战略上,公司部署知识产权作为公司创新的核
+心之一,积极适应国际形势,构建知识产权战略框架,制定知识产权的保护与实施计
+划,完善研发体制,以提高企业的技术水平。公司目前获得了3项注册商标、2项计算
+机软件著作权及专利授权 63 项,其中发明专利 51 项,实用新型专利 12 项,目前这些
+专利技术整体处于国内前列、国际先进水平,成为公司的最具有价值的核心技术竞争
+1.3 公司稳健经营,业绩稳步增长
+公司营收和利润稳健增长。公司的营业收入从2017年的46.27亿元增长至2023
+年的 89.38 亿元, 2024 年上半年实现营业收入 54.24 亿元, 同比增长 44.1%。在净
+年上半年公司实现净利润 11.41 亿元,同比增长 131.6%。公司的业绩增长,主要受
+益于人工智能、高速运算服务器等新兴计算场景对 PCB 的结构性需求。
+公司的核心产品印制电路板的主要终端应用为企业通讯市场。2024年上半年,
+受益于人工智能和网络基础设施的强劲需求,公司企业通讯市场板实现营业收入约
+38.28 亿元, 同比大幅增长约 75.49%, 占比营业收入的 73.81%。2024 年上半年,
+公司在数据通讯、高速网络设备、数据中心等领域持续投入研发，主要涉及高速产
+品的信号完整性、电源完整性、高密复杂结构、可靠性等方面。公司基于 PCle6.0 的
+下一代通用服务器产品已开始技术认证;支持 224Gbps 速率(102.4T 交换容量 1.6T
+交换机)的产品主要技术已完成预研;OAM/UBB2.0 产品已批量出货;GPU 类产品已
+通过 6 阶 HDI 的认证,准备量产;在网络交换产品部分,800G 交换机已批量出货。
+2024 年上半年公司汽车板整体实现营业收入约 11.45 亿元, 同比微增约 3.94%,
+占比营业收入的22.09%。公司依托在汽车应用领域的技术实力和深厚积累,以及稳
+定可靠的产品品质，进一步加大与诸多国际知名零部件厂商和国内多家新能源车企
+的合作研发力度，携手共同开发 SIP、域控制器等领域 HDI 产品。公司汽车板营业
+收入中, 新兴产品市场终端应用从 2023 年的约 25.96%增长至约 33.69%。
+从公司产品毛利率看,企业通讯市场用印制电路板毛利率持续提升从2015年
+年的 18.01%，提升至 2024 年上半年的 24.99%。
+图表 9 沪电股份公司主要终端领域毛利率（2015-2024H1）
+1.4 PCB 行业呈现复苏迹象，库存持续改善
+2024 年上半年, 由于库存改善、需求逐步恢复, PCB 行业开始呈现复苏迹象,
+观察目前的去库存速度和节奏,预计到年底将持续改善。2024年下半年大多数细分
+应用领域的库存将完全正常化。2024 年是复苏的一年,据 Prismark 估算 PCB 市场
+整体将实现正增长，产值预计同比增长约 5.0%，面积预计同比增长约 7.2%。面积
+相对于产值的较高增长反映了持续的价格侵蚀的预期影响。
+图表 10 2024 年全球 PCB 产值预测(产品类别),产值单位:百万美元
+产值单位: 百万美元
+图表 11 2024/2023 全球 PCB 产值增长率预测(产品类别)
+PCB 行业经历从强劲增长到疲弱增长甚至收缩的循环是正常的,从中长期来看,
+人工智能、HPC、通信基础设施、汽车电子、具有先进人工智能能力的便携式智能
+消费电子设备等预期将产生增量需求。在 2023 年低基数的基础上, Prismark 预测
+PCB 市场将从 2023 年的 695 亿美元成长至 2028 年的 904 亿美元, 五年年均复合
+增长率约为5.4%,预计在未来五年内东南亚将实现最高的增长率。中国仍将继续保
+持行业的主导制造中心地位, 但由于中国 PCB 行业的产品结构和一些向东南亚的生
+产转移, Prismark 预测 2023-2028 年中国 PCB 产值复合增长率约为 4.2%, 略低于
+全球, 预计到 2028 年中国 PCB 产值将达到约 465 亿美元。
+图表 12 2023-2028 年全球 PCB 产值复合增长率预测，产值单位:百万美元
+Prismark 预测多层 PCB 市场的所有细分领域均有增长, 预计将从 2023 年的
+265 亿美元成长至 2028 年的 325 亿美元, 五年年均复合增长率约为 5.4%, 其中服
+务器/数据存储领域的增长将最强劲,预计总体服务器和数据存储应用的 PCB 市场
+规模从 2024 年的 97.81 亿美金提升至 2028 年的 142.21 亿美金, 2023-2028 年的
+CAGR 复合增速为 11.6%, 是平均 CAGR 增速的 5.4%的增速的 2 倍多。
+2 AI 需求持续增长
+2.1 沪电股份企业通讯板市场维持高景气
+2024年上半年,受益于人工智能和网络基础设施的强劲需求,公司企业通讯
+市场板实现营业收入约 38.28 亿元, 同比大幅增长约 75.49%, 其中 AI 服务器和
+HPC 相关 PCB 产品占公司企业通讯市场板营业收入的比重从 2023 年的约 21.13%
+增长至约 31.48%。
+2024 年上半年, 公司在数据通讯、高速网络设备、数据中心等领域持续投入
+研发,主要涉及高速产品的信号完整性、电源完整性、高密复杂结构、可靠性等方
+面。公司基于 PCle6.0 的下一代通用服务器产品已开始技术认证;支持 224Gbps
+速率(102.4T 交换容量 1.6T 交换机)的产品主要技术已完成预研;OAM/UBB2.0 产
+品已批量出货;GPU 类产品已通过 6 阶 HDI 的认证,准备量产;在网络交换产品部
+分,800G交换机已批量出货。
+从营收占比看,企业通讯 PCB 在整体营收占比中从 2015 年的 64.6%,提升
+至 2024 年的 73.8%。
+2.2 互联网大厂 CAPEX 持续投入大模型军备竞赛
+OpenAI 发布 ChatGPT 属于 GPT 系列中的聊天机器人模型。GPT 系列中,
+GPT3 是由 1750 亿参数组成的语言模型, 而 GPT4 的参数更是达万亿级别。国内
+目前公布的大模型参数规模也普遍在百亿至千亿级别。如此庞大的参数规模，对
+于芯片提供商、云服务厂商以及服务器厂商都产生了新需求。全球范围内, GPT
+具备从底层改变各行业规则的能力，作为 AIGC 产业的基建，算力产业在未来有
+望成为一项公共服务渗透入各行各业。基于此,智算中心作为公共算力基础设施,
+成为 AIGC 基建中的关键环节。
+图表 16 大模型训练需要的成本和芯片缺口
+图表 15 互联网厂商对应投入 CAPEX
+从需求方面看当前大模型参数量在百亿至千亿参数规模，在训练阶段，对芯
+片的需求从 CPU+加速器转变为以 GPU 主导的大规模并行计算。未来, 当多数大
+模型参数规模到达万亿级别, 将产生更大的算力需求。 在单芯片性能之上, 智算中
+心能够通过算力的生产-调度-聚合-释放,支持 AI 产业化发展。
+2.2 AI 服务器领域快速增长,中国市场需求强劲
+Omdia 最新《云计算和数据中心人工智能处理器预测》报告指出,目前用于云计算
+和数据中心人工智能的 GPU 和其他加速芯片的高速增长最终会放缓，但在改变整个行
+业之前不会放缓。市场规模已从 2022 年的不到 100 亿美元增长到 2024 年的 780 亿美
+元，Omdia 预计到 2029 年，市场规模将最终达到 1510 亿美元。
+大模型时代下 AI 训练市场激增，产品供不应求。根据 IDC 数据显示，2023 全年
+中国加速服务器市场规模达到 94 亿美元，同比 2022 年增长 104%。其中 GPU 服务器
+依然是主导地位，占据 92%的市场份额，达到 87 亿美元。同时 NPU、ASIC 和 FPGA
+等非 GPU 加速服务器以同比 49%的增速占据了近 8%的市场份额，超过 7 亿美元。
+2023 年,从厂商销售额角度看,浪潮、新华三、宁畅位居前三,占据了近70%的
+市场份额:从服务器出货台数角度看浪潮、坤前、新华三位居前三名，占有超过 50%以
+上的市场份额; 从行业的角度看, 互联网依然是最大的采购行业, 占整体加速服务器市
+场近60%的份额,此外金融、电信、交通和医疗健康等多数行业均有超过一倍以上的增
+从国际环境来看,由于美国对相关技术及产品的管控,一方面限制了中国 AI 产业的
+发展:另一方面也激发了中国本土厂商自研 AI 芯片的积极性。在国家政策支持下，多家
+AI 芯片厂商旗下的新产品纷沓而来, AI 行业正在陆续摆脱“缺芯”困境。从宏观层面看,
+AI 行业在研发更高算力服务器与芯片和开发生成式人工智能两项主线任务之外, 在全方
+位生态建设与绿色可持续技术两个领域也将成为另一个关注点。从市场与产业链角度看,
+在 AI 行业与算力市场不断发展的背景下，市场对于 AI 服务器的需求不断增大，将持续
+亿美元。其中非 GPU 服务器市场规模将超过 33%。
+大模型的落地对于 AI 产业软件适配解决方案与算力基础设施的市场将有明显带动
+作用。人工智能发展已经初见规模，语音识别、人脸识别、文字生成、图文创作等应用
+已经从研究模型落地，大模型应用在日常生产生活当中起到的作用越来越明显。基于对
+海量数据的训练和对模型的不断调优，人工智能大模型具有更精准的执行能力和更强大
+的场景可迁移性。其中，ChatGPT、Sora、星火、文心一言等 AI 软件对外公开发布时更
+是反响热烈。2024年，中国政府致力于产业数智化转型，人工智能将在诸如元宇宙、城
+市治理、工业制造、农业生产等综合复杂性场景中的广泛应用提供更好的方案。这些大
+模型广受关注的同时，对于训练型 AI 服务器的算力提出了更大的要求。
+图表 17 中国加速计算服务器市场预测
+图表 18 中国人工智能芯片市场份额
+2023 年，中国加速芯片的市场规模达到近 140 万张。从技术角度来看，GPU 卡占
+万张，约占整个市场份额的 14%。用于推理的人工智能芯片占据了 67%的市场份额。市
+场继续保持对大模型研发的投资热情。人工智能芯片的应用场景更加多样化，更有针对
+性的人工智能芯片正被投资到更精准的细分市场。国产芯片性能明显提升，相关产业链
+逐步形成。
+2.3 交换机升级迭代打开 PCB 增量市场空间
+云计算、大数据、5G、物联网等信息技术的应用为网络设备行业带来了新的
+发展机遇。同时, 国家不断在产业政策层面鼓励与支持信息化建设, 如“互联网+”、
+工业 4.0 和新基建等，我国的网络设备行业迎来发展机遇。中商产业研究院发布
+的《2019-2023 年中国交换机行业市场前景调查及投融资战略研究报告》显示,
+交换机在中国网络设备市场占据了绝大部分市场份额, 2022 年市场规模达到约为
+591 亿元, 同比增长 17.96%, 2023 年约为 685 亿元。随着交换机在数据中心网
+预测，2024 年中国交换机市场规模将增至749 亿元。
+图表 19 2019-2024 年中国交换机市场规模预测
+交换机主要由芯片、光器件、插接件、阻容器件、壳体、PCB等资源组成。
+其中芯片成本占比最高,达32%。其次分别为光器件、插接件、阻容器件、壳体、
+PCB, 占比分别为 14%、10%、10%、8%、7%。
+图表 20 交换机对应的 PCB 产品配置(交换机成本结构占比情况)
+2.4 AI 芯片持续迭代将带动 PCB 的升级
+以英伟达在 Hot Chips2024 大会中公布的产品路线为例,公司推出了新的
+Blackwell GPU, 配有八组 HBM3e 内存, 搭配 NVSwitch5, 具有 1.8TB/秒的端
+口,800Gb/秒的 ConnectX-8 网络接口卡,以及具有800GB/秒端口的 Spectrum-
+X800 和 Quantum-X800 交换机。
+作为全球最强大的芯片, Blackwell 架构 GPU 拥有 2080 亿个晶体管, 确保
+了芯片具有极高的计算能力和复杂性;采用台积电 4 纳米工艺制造,提高了芯片
+的集成度,降低了功耗和发热量;配备 192GB 的 HBM3E 显存,极大提升了芯片
+的数据处理能力和效率。在信号传输方面, 第五代 NVLink 为提高数万亿参数和混
+合专家 AI 模型的性能, 最新一代英伟达 NVLink 为每个 GPU 提供了突破性的
+1.8TB/s 的双向吞吐量，确保最复杂 LLM 之间多达 576 个 GPU 之间的无缝高速
+通信。产品性能的持续迭代是英伟达保持行业领导者地位的核心原因，也是 PCB
+等服务器相关配件提升的主要原因。
+服务器 PCB 产品需要与服务器芯片保持同步代际更迭,产品生命周期一般在
+3-5年,成熟期一般在2-3年。随各世代芯片平台在信号传输速率、数据传输损耗、
+布线密度等方面要求提升,服务器 PCB 产品也需要相应升级。根据广合科技的招
+股书显示,不同的服务器芯片,不同的产品架构,对应的 PCB 的层数不同,对
+应的板厚和厚径比均随着芯片的不同和迭代有相应的变化。
+3 新能源汽车智能化持续推动 PCB 量价齐升
+3.1 沪电股份汽车 PCB 领域持续发力
+2024 年上半年, 车用 PCB 供应链面临挑战, 受铜等大宗商品价格变化影响,
+材料成本上升。汽车行业作为 2023 年增长最强劲的行业之一, 开始显示出疲软的
+迹象。尽管新能源汽车的渗透率仍将提升,但其在主要市场需求增长放缓,汽车价
+格竞争激烈,新能源汽车行业的“内卷”现象也日益严重。面对市场变化,车价可能
+是影响新能源车渗透率的关键因素之一,新能源汽车需进一步降低成本。此外,因
+受到欧盟、美国等政策压力以及销售地域局限等因素的影响，中国新能源汽车出
+口呈现出渐次回落的态势，这也反映出该行业所面临的挑战与调整。
+在此背景下,2024年上半年公司汽车板整体实现营业收入约11.45亿元,同
+比微增约 3.94%，但受胜伟策汽车板业务尚未扭亏等因素影响，汽车板毛利率同
+比减少约 0.8 个百分点。在 2024 年上半年期间, 公司依托在汽车应用领域的技术
+实力和深厚积累，以及稳定可靠的产品品质，进一步加大与诸多国际知名零部件
+厂商和国内多家新能源车企的合作研发力度, 携手共同开发 SIP、域控制器等领域
+HDI产品:通过和产业链合作伙伴的深度合作, p2Pack 在汽车 800V 及以上高压架
+构的应用也取得不错的进展。2024 年上半年公司毫米波雷达、采用 HDI 的自动
+驾驶辅助以及智能座舱域控制器、埋陶瓷、厚铜、p2Pack 等新兴汽车板产品市
+场持续成长,占公司汽车板营业收入的比重从 2023 年的约 25.96%增长至约
+33.69%。
+从中长期看，消费者希望降低用车成本的强烈期望助推了全球电动汽车渗透
+率的上涨:消费者对智能技术的偏好则促使全球汽车行业参与者推出提升出行体
+验的服务，因此汽车行业电气化、智能化和网联化等多种颠覆性趋势变化的步伐
+不会停滞，其技术升级迭代和渗透率提升将为多层、高阶 HDI、高频高速、耐高
+压、耐高温、高集成等方向的汽车板细分市场提供强劲的长期增长机会。
+3.2 新能源汽车对 PCB 的拉动
+根据 TrendForce 的数据统计和研究显示, PCB 领域在 2023 年由于消费电子
+应用占比较高，而 2023 年的终端需求回温不明显，导致经济逆风对于 PCB 产业
+年衰退 5.2%。其中车用 PCB 市场则逆势成长,主要是受惠于全球电动车渗透率
+持续提升以及汽车电子化，2023 年产值预估年增 14%，达 105 亿美元，占整体
+亿美元，占整体 PCB 产值比重则上升至 15%, 2022~2026 年车用 PCB 产值
+CAGR 约 12%。
+以种类来看, 预估 2023 年车用 PCB 主要采用的 4~8 层板占整体车用 PCB
+的比重约为 40%, 至 2026 年将下降至 32%, 单价较高的 HDI 板比重则由 15%上
+升至 20%: FPC 板由 17%上升至 20%. 厚铜板及射频板分别由 8%及 8.8%上升
+至 9.5%及 10.8%, 单价较低的单双层面板则由 11.2%下降至 7.7%。
+3.3 汽车的电动化和智能化带来 PCB 需求的提升
+车用 PCB 产值成长主力来自电动车渗透率提升，纯电动车（BEV）每车平
+均 PCB 价值约为传统燃油车的 5~6 倍，其中车内 PCB 价值含量最高者为电控
+系统, 约占整车 PCB 价值的一半, 而电控系统中的 BMS (Battery Management
+System，电池管理系统）目前主要采用线束连接。在电动车轻量化趋势下，未
+来将逐步采用 FPC（Flexible Printed Circuit，软性印刷电路板），将进一步增
+加电控系统的 PCB 价值含量。
+根据 Canalys 的统计和预测, 2023 年全年,全球新能源汽车销量预计增幅
+29%, 达到 1370 万辆, 渗透率达 17%。中国仍将保持最大新能源汽车市场地位,
+本地销量预计达 760 万辆,占全球新能源汽车市场 55.5%。
+中国是新能源汽车市场的核心市场,新能源汽车的渗透率持续提升。据乘联
+会发布的最新数据显示, 2023年中国乘用车累计零售量为 2,170万辆, 销量重回
+疫情前水平。2023 年中国新能源产品占比超 35%, 纯电渗透率达 24%, 呈现放
+量上涨的发展态势。预计 2024 年新能源渗透率有望超 40%, 纯电产品渗透率可
+达 30%。长期看, 到 2030 年纯电产品会占据 50%的市场, 新能源产品整体将占
+比 70%以上。
+图表 25 中国乘用车销量回顾和趋势（2016-2030E）
+随自动驾驶等级和渗透率持续提升,平均每车配备镜头及雷达等电子产品数
+量也将不断增加，目前车用 PCB 以 4~8 层板为主，而自驾系统多采单价较高的
+HDI 板 (High Density Interconnect), 其价格约为 4~8 层板的 3 倍, L3 以上
+自驾系统配备的 LIDAR（Light Detection and Ranging，光达）所采用的 HDI
+2030 年自动驾驶车端系统市场规模将达 5,000 亿元。根据罗兰贝格的数据
+预测,预计中国自动驾驶市场在未来将快速发展,2030年自动驾驶车端系统的市
+场规模将达约 5,000 亿元, 其中芯片、传感器和软件算法是主要贡献者, 算法与
+亿元的市场规模，同时自动驾驶所需的云端服务需求也会快速增长。
+图表 26 中国自动驾驶市场规模提升带动 PCB 需求提升
+渐进式场景落地是未来自动驾驶技术落地方向。从 2018 年到 2022 年,实
+现高速公路上的部分 L3 级别的场景化自动驾驶,如高速路段自动驾驶物流车队、
+高速路段自动驾驶长途客运等。长远来看,预计2030年以后,在复杂市区将实现
+全场景无人驾驶私家车与 Robocab 等完全自动驾驶。
+鉴于技术实现难度和场景实现急迫性，商用车的货运场景以及乘用车的自主
+停车及结构化道路场景将优先落地，货运相关场景整体优先于客运相关场景，主
+要是因为货运成本压力大,场景落地即可有效节约成本,直接带来经济效益,而且
+封闭/特定区域的货运场景对技术和安全性要求相对较低,将率先广泛应用自动驾
+驶相关技术。结合自动驾驶软硬件发展路径, 需求技术相对容易的结构化道路场
+景将率先落地, 而城市开放道路的自动驾驶由于技术复杂性与政策严管性, 落地
+较缓慢。
+乘用车自动驾驶发展将由停车场景先行，逐渐往结构化道路场景发展，最后
+完成非结构化城市道路场景的实现。当前乘用车以 L2 级别的驾驶辅助与高级别的
+自主代客泊车自动驾驶为主要应用,未来的发展仍然以技术的成熟与升级为基础:
+预计到 2025 年开始陆续在结构化道路场景中尝试 LO 到 L2 级别的有条件自动驾
+驶, 传感器与控制系统的革新是主要变化:而 2030 年后进入城市非结构化道路,
+感知与决策能力的增强则是核心要点。
+图表 27 自动驾驶应用落地场景
+自动驾驶应用落地场景
+4公司核心的在研项目和盈利预测
+4.1 公司核心在研产品
+公司积极应对外部环境带来的挑战,坚持以技术创新和产品升级为内核。2024
+年上半年公司研发投入约3.67亿元,同比增长约61.34%,先后取得5项发明专利、
+8 项实用新型专利和 1 项计算机软件著作权。公司与国内外终端客户展开多领域深
+度合作, 直接或间接参与多个新产品、新工艺、新项目的研发, 成功开发多款新产品
+并导入量产。
+公司研发技术领域持续积累，在数据通讯、高速网络设备、数据中心等领域、
+研发项目主要涉及 Class8 及以上材料的运用及开发、NoEtch 氧化技术&背钻
+Stub6/7milmax 的高速信号完整性技术研发、PCB 供电技术方案研发等。在产品
+开发部分, 通用服务器 BHS 平台产品已落地开始产品化, 同时开始预研下一代 OKS
+平台产品;加速计算产品部分, 112Gbps 速率的产品已开始进行产品认证及样品交付,
+3 阶 HDI 的 UBB 产品已开始量产交付. 基于 PFGA、GPU、XPU 等芯片架构的新
+平台部分目前在规划布局中;网络交换部分,基于 112Gbps 速率 51.2T 的盒式 800G
+交换机已批量交付,224Gbps 速率的产品(102.4T 交换容量 1.6T 交换机)开始进行
+预研, NPO/CPO 架构的交换/路由目前正配合客户在研发中;半导体芯片测试用产品
+中的高复杂 PCB 已批量交付并同步规划多阶 HDI 产品。
+在汽车电子领域，市场应用端对高等级和高信赖性 PCB 的要求增加，主要体
+现在能够提供多功能整合运算的集成 PCB 结构以及耐热性更好的 PCB，例如
+domain controller, 多功能 box 等产品。同时由于大量数据运算的需求, PCB 相
+关的信号损失要求更严格，公司投入大量的资源进行材料研究以及信号完整性测试
+与分析。公司和国际知名汽车零配件厂商深度合作并投资开发相应技术，同时和国
+内多家头部新能源车企形成合作关系共同开发更高功能的汽车电子部件。
+4.2 公司盈利预测和投资建议
+公司的核心产品印制电路板的主要终端应用为企业通讯市场和汽车应用市
+场。2024 年 H1 分别占比营业收入的 73.81%和 22.09%。
+我们预计企业通讯市场公司印制电路板的营业收入 2024E-2026E 年分别为
+86.28 亿元, 112.91 亿元, 132.47 亿元, 分别同比增长 47%, 31%和 17%。
+汽车应用市场印制电路板的营业收入 2024E-2026E 分别为 24 亿元, 25.2 亿
+元,30 亿元,分别同比增长11%,5%和19%。
+我们预计公司 PCB 市场收入总体 2024E-2026E 分别为 115 亿元，144 亿元
+和 168 亿元。总体公司营收 2024E-2026E 分别为 118 亿元, 147 亿元和 171 亿
+从公司目前毛利率看,企业通讯市场用印制电路板毛利率持续提升从2015年
+的 10.10%, 提升至 2024 年上半年的 41.59%, 主要系核心 AI 客户保持较高的行
+业景气度和增速。我们认为沪电股份是 AI 算力时代, 服务器中 PCB 重要供应商,
+AI 需求不及预期,公司研发不及预期,PCB 行业竞争激烈,PCB 核心上游材
+料成本高企
+财务报表与盈利预测
+主要财务比率
+行业研究框架和财务分析体系成熟，擅长买方视角投资机遇分析对比，全面负责团队电子行业研究工作。
+使用合法合规的信息，独立、客观地出具本报告，本报告所采用的数据和信息均来自市场公开信息，本人对这些
+信息的准确性或完整性不做任何保证，也不保证所包含的信息和建议不会发生任何变更。报告中的信息和意见仅
+供参考。本人过去不曾与、现在不与、未来也将不会因本报告中的具体推荐意见或观点而直接或间接收任何形式

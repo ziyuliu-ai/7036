@@ -1,10 +1,11 @@
 import sys
 import re
 import numpy as np
+import os
 from sentence_transformers import SentenceTransformer, util
 
 # ============================================================
-# 1. 加载 bge-m3 模型
+# 1. Load the BGE-m3 embedding model
 # ============================================================
 
 class EmbeddingClassifier:
@@ -12,7 +13,7 @@ class EmbeddingClassifier:
         print("Loading BGE-m3 embedding model...")
         self.model = SentenceTransformer("BAAI/bge-m3")
 
-        # 正文示例
+        # Positive examples (representative body text)
         self.pos_examples = [
             "公司发布公告，2019年一季度实现营业收入同比增长，经营性现金流持续改善。",
             "光伏单晶硅片行业景气度回升，公司产能扩张顺利推进，盈利能力显著提升。",
@@ -26,7 +27,7 @@ class EmbeddingClassifier:
             "公司预计未来将迎来光伏与半导体双轮驱动的增长新时代。"
         ]
 
-        # 噪声示例
+        # Negative / noise examples (table headers, metadata, disclaimers, etc.)
         self.neg_examples = [
             "主要股东（2019Q1）",
             "基本数据（截至2019年06月20日）",
@@ -43,6 +44,7 @@ class EmbeddingClassifier:
             "52周内股价区间（元）",
             "近3月换手率",
             "股价表现（最近一年）",
+            "股价历史走势",
             "相对指数表现",
             "5.2/11.96",
             "27.55%",
@@ -65,124 +67,180 @@ class EmbeddingClassifier:
         ]
 
 
-        # 预计算 embedding
+        # Precompute embeddings for example lists to speed up classification
         self.pos_emb = self.model.encode(self.pos_examples, convert_to_tensor=True)
         self.neg_emb = self.model.encode(self.neg_examples, convert_to_tensor=True)
 
     # ============================================================
-    # classify：加入短句增强逻辑
+    # classify: short-text heuristics added
     # ============================================================
+
     def classify(self, line: str) -> str:
+        """Classify a single line as 'text' or 'noise'.
+
+        The method uses embedding similarity against positive/negative example
+        pools, plus a set of heuristics tailored for short lines (numeric-only
+        lines, symbol-heavy lines, and a length-based penalty).
+        """
+
         text = line.strip()
         if not text:
-            return "噪声"
+            return "noise"
 
         length = len(text)
 
         # -------------------------
-        # 1. 强规则：短句噪声优先
-        # -------------------------
-        if length <= 20:
-            if re.match(r"^[\d\.\-/%]+$", text) or \
-               re.search(r"(亿|万|元|%|同比|环比|YOY|《|》|【|】)", text):
-                return "噪声"
-
-        # -------------------------
-        # 2. embedding 相似度
+        # 1. embedding similarity
         # -------------------------
         emb = self.model.encode(text, convert_to_tensor=True)
         pos_sim = util.cos_sim(emb, self.pos_emb).max().item()
         neg_sim = util.cos_sim(emb, self.neg_emb).max().item()
 
         # -------------------------
-        # 3. 短句惩罚（弱规则）
+        # 2. Strong rule: prefer noise for very short lines that look numeric
+        # -------------------------
+        if length <= 20:
+            if re.match(r"^[\d\.\-/%]+$", text) or \
+            re.search(r"(亿|万|元|%|同比|环比|YOY|《|》|【|】)", text):
+                neg_sim += 0.2  # heuristic penalty, tunable
+
+        # -------------------------
+        # 3. Short-text penalty: shorter lines receive larger penalty
         # -------------------------
         if length < 20:
-            # 如果短句包含明显正文词，则不惩罚
-            if not re.search(r"(收入|净利润|增长|业务|产能)", text):
-                neg_sim += 0.3  # 轻微惩罚
+            # penalty formula example: (20 - length) * 0.01
+            neg_sim += (20 - length) * 0.01
+
+            # # reduce penalty if short line contains clear body-text keywords
+            # if re.search(r"(收入|净利润|增长|业务|产能)", text):
+            #     neg_sim -= 0.2  # optional reduction, tunable
 
         # -------------------------
-        # 4. 最终决策
+        # 4. Digit/symbol ratio penalty
         # -------------------------
-        NEG_THRESHOLD = 0.3
+        num_symbol_chars = len(re.findall(r"[\d\.\-/%]【】《》<>", text))
+        ratio = num_symbol_chars / max(1, length)
+        neg_sim += ratio * 0.3  # ratio penalty, tunable
+
+        # -------------------------
+        # 5. Final decision
+        # -------------------------
+        NEG_THRESHOLD = 0.65
 
         if neg_sim > NEG_THRESHOLD and neg_sim > pos_sim:
-            return "噪声"
+            return "noise"
         else:
-            return "正文"
-
+            return "text"
 
 # ============================================================
-# 2. recheck：上下文增强二次判断
+# 2. Recheck: context-aware secondary judgment
 # ============================================================
+clf = EmbeddingClassifier()
 
 def recheck_with_context(lines, labels, clf, i):
+    """Re-evaluate a possibly-noise line using surrounding context.
+
+    This function constructs short candidates by joining the current line
+    with neighboring lines (previous/next) or using the nearest labeled
+    'text' lines and asks the classifier to re-evaluate. It is used to
+    reduce false positives for short lines that only make sense together
+    with context.
+    """
+
     line = lines[i].strip()
 
+    # Treat very short lines as noise by default
     if len(line.strip()) < 10:
-        return "噪声"
+        return "noise"
 
     if not line:
-        return "噪声"
+        return "noise"
 
     prev1 = lines[i-1] if i > 0 else ""
-    next1 = lines[i+1] if i < len(lines)-1 else ""
 
-    prev_pos = ""
-    for j in range(i-1, -1, -1):
-        if labels[j] == "正文":
-            prev_pos = lines[j]
-            break
+    # next1 = lines[i+1] if i < len(lines)-1 else ""
 
-    next_pos = ""
-    for j in range(i+1, len(lines)):
-        if labels[j] == "正文":
-            next_pos = lines[j]
-            break
+    # prev_pos = ""
+    # for j in range(i-1, -1, -1):
+    #     if labels[j] == "text":
+    #         prev_pos = lines[j]
+    #         break
+
+    # next_pos = ""
+    # for j in range(i+1, len(lines)):
+    #     if labels[j] == "text":
+    #         next_pos = lines[j]
+    #         break
 
     candidates = [
         line,
-        prev1 + " " + line,
-        line + " " + next1
+        prev1 + "" + line,
+        # line + "" + next1
         # prev_pos + " " + line + " " + next_pos,
     ]
 
     for text in candidates:
-        if clf.classify(text) == "正文":
-            return "正文"
+        if clf.classify(text) == "text":
+            return "text"
 
-    return "噪声"
+    return "noise"
 
 
-# ============================================================
-# 3. 主程序
-# ============================================================
+def batch_clean(input_dir, output_dir):
+    """Recursively label all .txt files in `input_dir` and write labeled files to `output_dir`.
 
-def main():
-    input_path = r"D:\MFIN\7036\reports_txt\TCL中环\20190401_粤开证券_TCL中环_【联讯电新公司点评】：中环股份：业绩符合预期，产能顺利释放助公司成长.txt"
-    output_path = r"D:\MFIN\7036\reports_txt\TCL中环\20190401_粤开证券_TCL中环_【联讯电新公司点评】：中环股份：业绩符合预期，产能顺利释放助公司成长_clean.txt"
+    The function preserves directory structure and calls `clean_file` for each
+    file. Files are expected to contain one line per logical text segment.
+    """
 
-    print(f"读取文件: {input_path}")
+    for root, _, files in os.walk(input_dir):
+        for file in files:
+            if not file.endswith(".txt"):
+                continue
+
+            in_path = os.path.join(root, file)
+            rel_path = os.path.relpath(root, input_dir)
+            out_dir = os.path.join(output_dir, rel_path)
+            os.makedirs(out_dir, exist_ok=True)
+
+            out_path = os.path.join(out_dir, file)
+            clean_file(in_path, out_path)
+
+def clean_file(input_path, output_path):
+    """Label a single file: classify each line and optionally re-check using context.
+
+    Output format: each output line is `label\t<original line>` where label
+    is either `text` or `noise`.
+    """
+    print(f"Processing file: {input_path}")
     with open(input_path, "r", encoding="utf-8") as f:
         lines = f.read().splitlines()
 
-    clf = EmbeddingClassifier()
 
-    # 第一次分类
+    # First-pass classification using embeddings and heuristics
     labels = [clf.classify(line) for line in lines]
 
-    # 第二次 recheck
+    # Second-pass: recheck lines labeled as 'noise' using neighboring context
     for i in range(len(lines)):
-        if labels[i] == "噪声":
+        if labels[i] == "noise":
             labels[i] = recheck_with_context(lines, labels, clf, i)
 
-    print(f"写入标签结果: {output_path}")
+    print(f"Writing output to: {output_path}")
     with open(output_path, "w", encoding="utf-8") as out_f:
         for label, line in zip(labels, lines):
             out_f.write(f"{label}\t{line}\n")
 
-    print("标注完成！")
+    print("File cleaned!")
+# ============================================================
+# 3. Main program
+# ============================================================
+
+def main():
+    """Entry point: label all cleaned report files into a labeled directory."""
+    input_path = r"reports_txt_by_quarter_cleaned"
+    output_path = r"reports_txt_by_quarter_cleaned_labeled"
+    batch_clean(input_path, output_path)
+    print("labeling done!")
 
 
 if __name__ == "__main__":

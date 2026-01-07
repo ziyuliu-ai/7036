@@ -1,1687 +1,453 @@
-Deutsche Bank 
- Markets Research 
-Rating 
-Buy 
-Asia 
-China 
-Consumer 
-Retail / Wholesale Trade 
-Company 
-Gree 
- 
-Date 
-31 August 2017 
-Forecast Change 
- 
-2Q17 beat but GPM pressure in 2H17; 
-Buy given inexpensive valuation  
-Reuters 
-Bloomberg 
-Exchange Ticker 
-000651.SZ 
-000651 CH 
-SHZ 
-000651 
- 
- 
-Forecasts And Ratios 
-Year End Dec 31 
-2015A 
-2016A 
-2017E 
-2018E 
-2019E 
-Sales (CNYm) 
-99,812.6 108,682.7 139,979.7 155,684.2 171,216.9 
-EBITDA (CNYm) 
-14,315.1 
-15,515.4 
-24,349.0 
-25,866.2 
-28,495.9 
-Reported NPAT (CNYm) 
-12,532.4 
-15,421.0 
-20,569.0 
-22,163.2 
-24,638.1 
-Reported EPS FD(CNY) 
-2.08 
-2.56 
-3.42 
-3.68 
-4.10 
-DB EPS FD(CNY) 
-2.08 
-2.56 
-3.42 
-3.68 
-4.10 
-OLD DB EPS FD(CNY) 
-2.08 
-2.56 
-3.13 
-3.45 
-3.84 
-% Change 
-0.0% 
-0.0% 
-9.1% 
-6.9% 
-6.7% 
-DB EPS growth (%) 
--11.5 
-23.0 
-33.4 
-7.8 
-11.2 
-PER (x) 
-10.3 
-8.3 
-11.3 
-10.5 
-9.4 
-EV/EBITDA (x) 
-2.7 
-2.3 
-4.6 
-3.7 
-2.6 
-DPS (net) (CNY) 
-1.50 
-1.50 
-2.05 
-2.21 
-2.46 
-Yield (net) (%) 
-7.0 
-7.1 
-5.3 
-5.7 
-6.4 
-Source: Deutsche Bank estimates, company data 
-1 DB EPS is fully diluted and excludes non-recurring items 
-2 Multiples and yields calculations use average historical prices for past years and spot prices for current and future years, except P/B which uses 
-Valuation remains inexpensive at 11/11x 17/18 PE and 5% yield 
-  
-________________________________________________________________________________________________________________ 
-Deutsche Bank AG/Hong Kong 
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should 
-be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should 
-consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST 
-CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. 
- 
-Price at 31 Aug 2017 (CNY) 
-38.65 
-Price target - 12mth (CNY) 
-44.40 
-52-week range (CNY) 
-41.53 - 19.49 
-Shenzhen Index 
-2,028 
-Anne Ling 
-Research Analyst 
-(+852 )    2203 6177
-anne.ling@db.com 
-John Chou 
-Research Analyst 
-(+852)   2203 6196 
-john.chou@db.com 
-Key changes 
-TP 
-38.87 to 44.40 ↑ 
-14.2% 
-Sales (FYE) 
-131,413 to 
-139,980 
-↑ 
-6.5% 
-Op prof 
-margin (FYE) 
-15.5 to 16.2 ↑ 
-4.4% 
-Net profit 
-(FYE) 
-18,857.2 to 
-20,569.0 
-↑ 
-9.1% 
-Source: Deutsche Bank 
-Price/price relative 
-10
-20
-30
-40
-50
-9/15
-3/16
-9/16
-3/17
-Gree
-Shenzhen Index (Rebased)
-Performance (%) 
-1m 
-3m 
-12m 
-Absolute 
--1.5 
-13.4 
-101.1 
-Shenzhen Index 
-3.2 
-7.2 
--4.6 
-Source: Deutsche Bank 
- 
-Gree’s 2Q17 NP beat DB/market estimates by 35%/17% due to sales growth 
-acceleration and operating leverage. We believe channel inventory remains at a 
-healthy level at the beginning of the cold year (end of July). Thus, we raised our 
-sales forecasts for 2017-2019 by 7-9%. Meanwhile, we lower our 2017 GPM 
-forecast by 1.6ppt to reflect raw material price hike pressure in 2H17. Although 
-2018 will be a tough year given high base in 2017 due to property boom and 
-restocking, we believe product upgrades and relatively inexpensive valuation 
-with 5% yield warrants a Buy recommendation. 
-2H17 outlook – channel inventory remains healthy but more pressure on GPM 
-For 2H17, we expect Gree to report a 19% rise in sales with 10% increase in 
-volume as we believe the current channel inventory level remains healthy 
-(~21m units). Meanwhile, we expect GPM to decline 1.3ppt to 31.4% from 
-32.7% in 1H17 due to continuous raw material price increase. However, opex 
-ratio might remain low as demand remains strong. We expect EBITM of 15% 
-in 2H17 (15.5% in 1H17).  
-2Q17 NP beat due to sales growth acceleration and operating leverage 
-2Q17 saw NP up 68% on sales up by 60% vs 1Q sales/NP up by 19%/27%, 
-mainly thanks to restocking cycle and strong demand from retail end. GPM 
-shrank 8ppt to 30.2% affected by raw materials cost hike, while opex ratio 
-contracted 12.6% to 14.1%. Thus, the company still enjoys an operating 
-leverage with EBIT margin improving 7.6ppt to 16%.  
-Raising target price to RMB44.4 from RMB38.87; risks 
-We use DCF to value the company with a new target price of RMB44.4 (old 
-RMB38.87), as we raise our FY17-FY19 NP forecast by 7-9%. Our target price 
-implies 13x/12x FY17/18 PE, which is at a premium to its historical valuation 
-point during de-stocking of channel inventory, and dividend yield at 4.6% for 
-FY17E. Downside risks include competition, subsidy policy, and M&A. 
-Distributed on: 31/08/2017 15:10:01 GMT
-0bed7b6cf11c
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Page 2 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Model updated:31 August 2017 
-Running the numbers 
-Asia 
-China 
-Retail / Wholesale Trade 
-Gree 
-Reuters: 000651.SZ 
-Bloomberg: 000651 CH
-Buy 
-Price (31 Aug 17) 
-CNY 38.65
-Target Price 
-CNY 44.40
-52 Week range 
-CNY 19.49 - 41.53
-Market Cap (m) 
-CNYm 232,508
-USDm 35,321
-Company Profile 
-Gree is mainly engaged in the manufacture and 
-distribution of household air conditioners and central air 
-conditioners. 
-Price Performance 
-10
-20
-30
-40
-50
-Sep 15Dec 15Mar 16Jun 16Sep 16Dec 16Mar 17Jun 17
-Gree
-Shenzhen Index (Rebased)
-Margin Trends 
-11
-12
-14
-15
-17
-18
-14
-15
-16
-17E
-18E
-19E
-EBITDA Margin
-EBIT Margin
-Growth & Profitability 
-0
-10
-20
-30
-40
--40
--30
--20
--10
-0
-10
-20
-30
-40
-14
-15
-16
-17E
-18E
-19E
-Sales growth (LHS)
-ROE (RHS)
- 
-Solvency 
--200
--150
--100
--50
-0
-14
-15
-16
-17E
-18E
-19E
-Net debt/equity (LHS)
-Net interest cover (RHS)
-Anne Ling 
-+852     2203 6177 
-anne.ling@db.com 
-Fiscal year end  31-Dec 
-2014 
-2015 
-2016 
-2017E 
-2018E 
-2019E 
-Financial Summary 
-DB EPS (CNY) 
-2.35
-2.08
-2.56
-3.42
-3.68
-4.10 
-Reported EPS (CNY) 
-2.35
-2.08
-2.56
-3.42
-3.68
-4.10 
-DPS (CNY) 
-1.50
-1.50
-1.50
-2.05
-2.21
-2.46 
-BVPS (CNY) 
-14.7
-7.9
-9.0
-10.3
-11.8
-13.4 
-Weighted average shares (m) 
-6,016
-6,016
-6,016
-6,016
-6,016
-6,016 
-Average market cap (CNYm) 
-83,062
-128,915
-127,585
-232,508
-232,508
-232,508 
-Enterprise value (CNYm) 
-28,595
-38,315
-36,239
-112,780
-94,460
-75,270 
-Valuation Metrics
-P/E (DB) (x) 
-5.9
-10.3
-8.3
-11.3
-10.5
-9.4 
-P/E (Reported) (x) 
-5.9
-10.3
-8.3
-11.3
-10.5
-9.4 
-P/BV (x) 
-1.20
-2.83
-2.75
-3.74
-3.28
-2.88 
-FCF Yield (%) 
-20.2
-34.2
-11.6
-17.6
-13.7
-14.7 
-Dividend Yield (%) 
-10.9
-7.0
-7.1
-5.3
-5.7
-6.4 
-EV/Sales (x) 
-0.2
-0.4
-0.3
-0.8
-0.6
-0.4 
-EV/EBITDA (x) 
-1.7
-2.7
-2.3
-4.6
-3.7
-2.6 
-EV/EBIT (x) 
-1.8
-3.0
-2.6
-5.0
-3.9
-2.8 
-Income Statement (CNYm) 
-Sales revenue 
-138,643
-99,813
-108,683
-139,980
-155,684
-171,217 
-Gross profit 
-50,609
-33,861
-36,591
-45,078
-50,406
-55,581 
-EBITDA 
-17,171
-14,315
-15,515
-24,349
-25,866
-28,496 
-Depreciation 
-1,357
-1,338
-1,838
-1,729
-1,795
-1,875 
-Amortisation 
-0
-0
-0
-0
-0
-0 
-EBIT 
-15,814
-12,977
-13,678
-22,620
-24,071
-26,620 
-Net interest income(expense) 
-942
-1,929
-4,846
-2,092
-2,556
-2,981 
-Associates/affiliates 
--4
-3
-8
-6
-6
-6 
-Exceptionals/extraordinaries 
-0
-0
-0
-0
-0
-0 
-Other pre-tax income/(expense) 
-0
-0
-0
-0
-0
-0 
-Profit before tax 
-16,752
-14,909
-18,531
-24,718
-26,633
-29,607 
-Income tax expense 
-2,499
-2,286
-3,007
-4,010
-4,321
-4,804 
-Minorities 
-98
-91
-104
-138
-149
-166 
-Other post-tax income/(expense) 
-0
-0
-0
-0
-0
-0 
-Net profit 
-14,155
-12,532
-15,421
-20,569
-22,163
-24,638 
-DB adjustments (including dilution) 
-0
-0
-0
-0
-0
-0 
-DB Net profit 
-14,155
-12,532
-15,421
-20,569
-22,163
-24,638 
-Cash Flow (CNYm) 
-Cash flow from operations 
-18,556
-46,954
-18,070
-43,235
-34,408
-37,042 
-Net Capex 
--1,777
--2,885
--3,277
--2,380
--2,647
--2,911 
-Free cash flow 
-16,779
-44,070
-14,793
-40,856
-31,762
-34,132 
-Equity raised/(bought back) 
-0
-0
-0
-0
-0
-0 
-Dividends paid 
--4,676
--9,525
--9,180
--12,341
--13,298
--14,783 
-Net inc/(dec) in borrowings 
-2,417
-1,526
-792
-0
-0
-11,363 
-Other investing/financing cash flows 
-1,483
--1,796
-389
-0
-0
-0 
-Net cash flow 
-16,004
-34,274
-6,793
-28,514
-18,464
-30,712 
-Change in working capital 
-6,559
-32,374
--85
-19,921
-9,996
-9,887 
-Balance Sheet (CNYm) 
-Cash and other liquid assets 
-54,546
-88,820
-95,613
-124,127
-142,591
-161,940 
-Tangible fixed assets 
-17,948
-18,588
-21,636
-22,286
-23,138
-24,173 
-Goodwill/intangible assets 
-0
-0
-0
-0
-0
-0 
-Associates/investments 
-9,946
-13,397
-8,155
-8,161
-8,167
-8,173 
-Other assets 
-73,791
-40,894
-56,965
-69,417
-75,665
-81,845 
-Total assets 
-156,231
-161,698
-182,370
-223,992
-249,561
-276,131 
-Interest bearing debt 
-9,046
-10,572
-11,363
-11,363
-11,363
-11,363 
-Other liabilities 
-102,054
-102,560
-116,083
-149,339
-165,894
-182,443 
-Total liabilities 
-111,099
-113,131
-127,446
-160,702
-177,257
-193,806 
-Shareholders' equity 
-44,153
-47,521
-53,864
-62,092
-70,957
-80,812 
-Minorities 
-979
-1,045
-1,060
-1,198
-1,347
-1,513 
-Total shareholders' equity 
-45,131
-48,567
-54,924
-63,289
-72,304
-82,325 
-Net debt 
--45,500
--78,248
--84,250
--112,764
--131,228
--150,577 
-Key Company Metrics 
-Sales growth (%) 
-16.4
--28.0
-8.9
-28.8
-11.2
-10.0 
-DB EPS growth (%) 
-30.2
--11.5
-23.0
-33.4
-7.8
-11.2 
-EBITDA Margin (%) 
-12.4
-14.3
-14.3
-17.4
-16.6
-16.6 
-EBIT Margin (%) 
-11.4
-13.0
-12.6
-16.2
-15.5
-15.5 
-Payout ratio (%) 
-63.7
-72.0
-58.5
-60.0
-60.0
-60.0 
-ROE (%) 
-36.0
-27.3
-30.4
-35.5
-33.3
-32.5 
-Capex/sales (%) 
-1.3
-2.9
-3.0
-1.7
-1.7
-1.7 
-Capex/depreciation (x) 
-1.3
-2.2
-1.8
-1.4
-1.5
-1.6 
-Net debt/equity (%) 
--100.8
--161.1
--153.4
--178.2
--181.5
--182.9 
-Net interest cover (x) 
-nm
-nm
-nm
-nm
-nm
-nm 
-Source: Company data, Deutsche Bank estimates 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Deutsche Bank AG/Hong Kong 
-Page 3
- 
- 
- 
-Valuation and risks  
-Our primary valuation methodology is DCF. As most of Gree’s business comes 
-from China, we use a 9.5% China COE, provided by Deutsche Bank’s 
-Economics Team. We use a beta of 1 and a long-term growth rate of 2%, in 
-line with our 2.0-2.5% sector assumption for other consumer stocks that we 
-cover. This comes to a fair value estimate of RMB44.4/share, implying an 
-FY17/18E PE of 13/12x. Downside risks include fierce competition, volatility in 
-government subsidy policy, and M&A. 
- 
-Figure 1: DB estimate vs. market consensus  
-RMBm
-FY17E
-FY18E
-FY19E
-FY17E
-FY18E
-FY19E
-FY17E
-FY18E
-FY19E
-FY17E
-FY18E
-FY19E
-FY17E
-FY18E
-FY19E
-Gross sales 
-141,394
-157,257
-172,946
-131,413
-144,733
-159,427
-131,940 144,553
-158,437
-8%
-9%
-8%
-7%
-9%
-9%
-EBIT
-22,620
-24,071
-26,620
-20,346
-22,470
-24,917
-19,382
-21,183
-23,716
-11%
-7%
-7%
-17%
-14%
-12%
-Net profit
-20,569
-22,163
-24,638
-18,857
-20,733
-23,088
-18,969
-21,197
-23,299
-9%
-7%
-7%
-8%
-5%
-6%
-Current forecast
-Previous forecast
-Market forecast
-% change vs. previous
-% change vs. market
-Source: Deutsche Bank, Bloomberg Finance LP  
-1H/2Q17 results review  
-2Q17 NP beat DB/market estimates by 35%/17% thanks to better than 
-expected topline growth and operating leverage   
-2Q17 NP was up 68% as sales rose 60%, both registering an acceleration in 
-growth vs. 1Q. This is mainly thanks to restocking cycle and strong demand 
-from retail end, together with an extraordinarily low base in 2Q16. Excluding 
-connected transaction with Zhuhai Yinlong in 2Q, core sales grew 42%.  
-EBIT margin thus saw an improvement of 7.6ppt to 16% 
-During this quarter, GPM shrank 8ppt to 30.2%, while opex ratio contracted 
-12.6% to 14.1%. We believe this was due to a mixture of the following reasons: 
- 
-Raw material cost (e.g. copper (17% of total raw material) price 
-climbed 4%/5%/4% for 4Q16/1Q17/2Q17) hike and less promotion 
-expense required during a tight supply market,  
- 
-Recognition of some of the rebates which were booked in the previous 
-years, given the air con retail market boom in 1H17.   
-1H17 NP rose by 48% on gross sales increase of 40% 
-Gree reported 48% NP growth to RMB9.4bn on gross sales up 40% to 
-RMB70bn in 1H17. Sales beat market/DB estimates by 12%/11% and NP beat 
-market/DB estimates by 9%/18%, mainly due to lower-than-expected opex  
-ratio (5.5ppt lower than DBe) despite a lower GPM (3.9ppt lower than DBe) 
-resulting from raw material cost hike, and overseas business saw GPM 
-declining 8ppt.  
-EBIT margin has improved by 4ppt to 15.5%.  Excluding connected transaction 
-with Zhuhai Yinlong, core sales saw 27% growth. The company was also 
-negatively affected by foreign exchange loss of RMB491m vs. an exchange 
-gain of RMB2.3bn, due to RMB depreciation this year vs. the opposite trend 
-last year. 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Page 4 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Market share gain achieved 
-According to China IOL, Gree’s sales volume (sell-in) jumped by 40% (vs. 33% 
-in 1Q) with 68% growth from domestic market in 2Q (vs. 62% in 1Q). The high 
-growth momentum has continued in July when Gree’s sell-in volume moved 
-up by 41% despite a high base last year.   
-Based on statistics from China Market Monitor, Gree gained 4.8ppt/2.1ppt 
-market share in terms of sales volume and sales value to 34.6%/38.7% in 1H17. 
-ASP also increased 4.9% to RMB4192. This is in line with Gree’s strategy focus 
-to gain market share which was mentioned during 2016 annual results 
-conference.   
-By product segment, Gree also focused on centralized air conditioner market, 
-which has a higher industry growth with 25% growth in 1H17. Gree 
-maintained its leading position in the segment since 2012.  
-Its prepaid rebates balance increased 3% to RMB60bn in 1H17. Cash flow 
-from operation has declined 68% to RMB3.6bn largely due to inventories being 
-increased 134% for the upcoming peak season.   
-2H17 outlook 
-For 2H17, we expect Gree to report a 19% rise in sales with 10% increase in 
-volume as we believe the extremely hot summer helped to digest channel 
-inventories and the inventory level has been reduced from around 31m units as 
-of March 2017 to 21m units as of July 2017, according to China IOL. 
-Compared with 1H17, slower growth in 2H17 is expected due to high base in 
-2016, as 2017’s growth driver includes retail end demand (property market 
-boom and trading up for better models) and restocking by distributors.  
-GPM might be under pressure (we expect a decline of 1.3ppt to 31.4% from 
-32.7% in 1H17) due to rise in raw material price. However, opex ratio might 
-remain low as demand remains strong. We expect EBITM of 15% in 2H17 
-(15.5% in 1H17) assuming the GPM pressure in 2H17 will be more than 1H17. 
-Figure 2: Major raw material cost yoy % vs. Gree’s COGS 
-ratio  
-Figure 3: Residential GFA (accumulated) ytd vs. air 
-conditioner accumulated domestic sell-in sales volume 
-yoy % 
- 
- 
--60.0%
--40.0%
--20.0%
-0.0%
-20.0%
-40.0%
-60.0%
-80.0%
-100.0%
--40%
--20%
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-Jul-04
-Jul-05
-Jul-06
-Jul-07
-Jul-08
-Jul-09
-Jul-10
-Jul-11
-Jul-12
-Jul-13
-Jul-14
-Jul-15
-Jul-16
-Jul-17
-Residential GFA accumulated sales ytd
-Air conditioner accumulated domestic sales
-(sell-in) lagging 6 months (RHS)
-Source: Deutsche Bank, Bloomberg Finance LP. Note: blended raw materials assuming 17% are 
-copper, 5% of steel, 5% aluminium and 73% of others   
-Source: Deutsche Bank, China IOL, NBS 
- 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Deutsche Bank AG/Hong Kong 
-Page 5
- 
- 
- 
-Figure 4: Quarterly results highlights   
-YE 31Dec, RMBm
-1Q14
-2Q14
-3Q14
-4Q14
-1Q15
-2Q15
-3Q15
-4Q15
-1Q16
-2Q16
-3Q16
-4Q16
-1Q17
-2Q17
-3Q17E
-4Q17E
-Gross sales
-25,010
-33,920
-41,089
-39,986
-25,094
-26,517
-32,065
-16,889
-25,098
-24,993
-33,679
-26,342
-30,035
-39,985
-40,549
-30,823
-yoy growth
-12%
-9%
-17%
-27%
-0%
--22%
--22%
--58%
-0%
--6%
-5%
-54%
-19%
-60%
-20%
-20%
-Full year contribution
-18%
-24%
-29%
-29%
-25%
-26%
-32%
-17%
-23%
-23%
-31%
-24%
-21%
-28%
-29%
-22%
-Gross profit
-8,881
-11,060
-16,143
-15,189
-8,287
-6,868
-12,643
-6,097
-8,604
-9,797
-10,984
-7,749
-10,549
-12,361
-15,409
-7,033
-GP margin
-35.5%
-32.6%
-39.3%
-38.0%
-33.0%
-25.9%
-39.4%
-36.1%
-34.3%
-39.2%
-32.6%
-29.4%
-35.1%
-30.9%
-38.0%
-22.8%
-EBIT
-2,485
-3,834
-4,729
-4,766
-3,139
-3,447
-3,974
-2,417
-2,713
-2,064
-5,210
-3,694
-4,675
-6,317
-6,990
-4,637
-yoy growth
-66%
-12%
-13%
-31%
-26%
--10%
--16%
--49%
--14%
--40%
-31%
-53%
-72%
-206%
-34%
-26%
-EBIT margin
-9.9%
-11.3%
-11.5%
-11.9%
-12.5%
-13.0%
-12.4%
-14.3%
-10.8%
-8.3%
-15.5%
-14.0%
-15.0%
-15.9%
-16.8%
-11.9%
-Net profit
-2,255
-3,463
-4,109
-4,328
-2,775
-2,945
-4,232
-2,580
-3,160
-3,243
-4,827
-4,192
-4,015
-5,438
-6,519
-4,598
-Full year contribution
-16%
-24%
-29%
-31%
-22%
-24%
-34%
-21%
-20%
-21%
-31%
-27%
-20%
-26%
-32%
-22%
-Source: Deutsche Bank, company announcement  
- 
- 
-The author of this report wishes to acknowledge the contribution made by 
-Louise Li, employee of Evalueserve, a third-party provider to Deutsche Bank of 
-offshore research support services. 
- 
- 
- 
- 
- 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Page 6 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Appendix 1 
- 
-Important Disclosures 
- 
-*Other information available upon request 
- 
-Disclosure checklist 
-Company 
-Ticker 
-Recent price* 
-Disclosure 
-Gree 
-000651.SZ 
-38.65 (CNY) 31 Aug 17 
-14 
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other 
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the 
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at 
-http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr. Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the 
-"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
- 
-Important Disclosures Required by U.S. Regulators 
-Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States. 
-See Important Disclosures Required by Non-US Regulators and Explanatory Notes. 
-14. Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company 
-within the past year. 
-     
-For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
-research, please see the most recently published company report or visit our global disclosure look-up page on our 
-website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=000651.SZ 
- 
-Analyst Certification 
-The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
-subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
-any compensation for providing a specific recommendation or view in this report. Anne Ling 
-     
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Deutsche Bank AG/Hong Kong 
-Page 7
- 
- 
- 
-Historical recommendations and target price: Gree (000651.SZ) 
-(as of 8/31/2017) 
-1
-2
-3
-4
-5
-6
-0.00
-5.00
-10.00
-15.00
-20.00
-25.00
-30.00
-35.00
-40.00
-45.00
-Sep 15
-Dec 15
-Mar 16
-Jun 16
-Sep 16
-Dec 16
-Mar 17
-Jun 17
-Security Price
+Rating
 Date
-Previous Recommendations 
-Strong Buy 
-Buy 
-Market Perform 
-Underperform 
-Not Rated 
-Suspended Rating 
-Current Recommendations 
-Buy 
-Hold 
-Sell 
-Not Rated 
-Suspended Rating 
-*New Recommendation Structure 
-as of September 9,2002 
-**Analyst is no longer at Deutsche 
-Bank 
-1.     07/10/2015:         Upgrade to Hold, Target Price Change CNY17.27 
-Richard Rui-Huang** 
-4.     01/09/2016:         Upgrade to Buy, Target Price Change CNY24.91 
-Richard Rui-Huang** 
-2.     15/02/2016:         Hold, Target Price Change CNY16.29 Richard Rui-
-Huang** 
-5.     30/11/2016:         Buy, Target Price Change CNY28.48 Richard Rui-
-Huang** 
-3.     04/05/2016:         Hold, Target Price Change CNY18.10 Richard Rui-
-Huang** 
-6.     12/06/2017:         Buy, Target Price Change CNY38.87 Anne Ling 
-    
-Equity rating key 
-Equity rating dispersion and banking relationships 
-Buy: Based on a current 12- month view of total 
-share-holder return (TSR = percentage change in 
-share price from current price to projected target price 
-plus pro-jected dividend yield ) , we recommend that 
-investors buy the stock. 
-Sell: Based on a current 12-month view of total share-
-holder return, we recommend that investors sell the 
-stock 
-Hold: We take a neutral view on the stock 12-months 
-out and, based on this time horizon, do not 
-recommend either a Buy or Sell. 
-Newly issued research recommendations and target 
-prices supersede previously published research. 
-53 %
-36 %
-11 %
-18 %
-19 %
-12 %
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
+Company
+Gree
 Buy
-Hold
-Sell
-Asia-Pacific Universe
-Companies Covered
-Cos. w/ Banking Relationship
- 
-  
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Page 8 
+Forecast Change
+Asia
+China
+Reuters
+Bloomberg
+Exchange Ticker
+Consumer
+000651.SZ
+000651 CH
+SHZ
+Retail / Wholesale Trade
+2Q17 beat but GPM pressure in 2H17;
+Anne Ling
+John Chou
+Buy given inexpensive valuation
+Research Analyst
+Research Analyst
+Valuation remains inexpensive at 11/11x 17/18 PE and 5% yield
+Gree's 2Q17 NP beat DB/market estimates by 35%/17% due to sales growth
+acceleration and operating leverage. We believe channel inventory remains at a
+healthy level at the beginning of the cold year (end of July). Thus, we raised our
+sales forecasts for 2017-2019 by 7-9%. Meanwhile, we lower our 2017 GPM
+forecast by 1.6ppt to reflect raw material price hike pressure in 2H17. Although
+2018 will be a tough year given high base in 2017 due to property boom and
+restocking, we believe product upgrades and relatively inexpensive valuation
+with 5% yield warrants a Buy recommendation.
+2H17 outlook – channel inventory remains healthy but more pressure on GPM
+For 2H17, we expect Gree to report a 19% rise in sales with 10% increase in
+volume as we believe the current channel inventory level remains healthy
+Price/price relative
+(~21m units). Meanwhile, we expect GPM to decline 1.3ppt to 31.4% from
+32.7% in 1H17 due to continuous raw material price increase. However, opex
+ratio might remain low as demand remains strong. We expect EBITM of 15%
+in 2H17 (15.5% in 1H17).
+2Q17 NP beat due to sales growth acceleration and operating leverage
+2Q17 saw NP up 68% on sales up by 60% vs 1Q sales/NP up by 19%/27%,
+mainly thanks to restocking cycle and strong demand from retail end. GPM
+shrank 8ppt to 30.2% affected by raw materials cost hike, while opex ratio
+contracted 12.6% to 14.1%. Thus, the company still enjoys an operating
+leverage with EBIT margin improving 7.6ppt to 16%.
+Raising target price to RMB44.4 from RMB38.87; risks
+We use DCF to value the company with a new target price of RMB44.4 (old
+RMB38.87), as we raise our FY17-FY19 NP forecast by 7-9%. Our target price
+implies 13x/12x FY17/18 PE, which is at a premium to its historical valuation
+point during de-stocking of channel inventory, and dividend yield at 4.6% for
+FY17E. Downside risks include competition, subsidy policy, and M&A.
 Deutsche Bank AG/Hong Kong
- 
- 
- 
- 
-Additional Information 
- 
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 
-"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources 
+Gree
+Reuters: 000651.SZ
+Bloomberg: 000651 CH
+Buy
+Company Profile
+Gree is mainly engaged in the manufacture and
+distribution of household air conditioners and central air
+conditioners.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data, Deutsche Bank estimates
+Anne Ling
+Valuation and risks
+Our primary valuation methodology is DCF. As most of Gree's business comes
+from China, we use a 9.5% China COE, provided by Deutsche Bank's
+Economics Team. We use a beta of 1 and a long-term growth rate of 2%, in
+line with our 2.0-2.5% sector assumption for other consumer stocks that we
+cover. This comes to a fair value estimate of RMB44.4/share, implying an
+FY17/18E PE of 13/12x. Downside risks include fierce competition, volatility in
+government subsidy policy, and M&A.
+Source: Deutsche Bank, Bloomberg Finance LP
+1H/2Q17 results review
+2Q17 NP beat DB/market estimates by 35%/17% thanks to better than
+expected topline growth and operating leverage
+2Q17 NP was up 68% as sales rose 60%, both registering an acceleration in
+growth vs. 1Q. This is mainly thanks to restocking cycle and strong demand
+from retail end, together with an extraordinarily low base in 2Q16. Excluding
+connected transaction with Zhuhai Yinlong in 2Q, core sales grew 42%.
+EBIT margin thus saw an improvement of 7.6ppt to 16%
+During this quarter, GPM shrank 8ppt to 30.2%, while opex ratio contracted
+12.6% to 14.1%. We believe this was due to a mixture of the following reasons:
+Raw material cost (e.g. copper (17% of total raw material) price
+climbed 4%/5%/4% for 4Q16/1Q17/2Q17) hike and less promotion
+expense required during a tight supply market,
+Recognition of some of the rebates which were booked in the previous
+years, given the air con retail market boom in 1H17.
+1H17 NP rose by 48% on gross sales increase of 40%
+Gree reported 48% NP growth to RMB9.4bn on gross sales up 40% to
+RMB70bn in 1H17. Sales beat market/DB estimates by 12%/11% and NP beat
+market/DB estimates by 9%/18%, mainly due to lower-than-expected opex
+ratio (5.5ppt lower than DBe) despite a lower GPM (3.9ppt lower than DBe)
+resulting from raw material cost hike, and overseas business saw GPM
+declining 8ppt.
+EBIT margin has improved by 4ppt to 15.5%. Excluding connected transaction
+with Zhuhai Yinlong, core sales saw 27% growth. The company was also
+negatively affected by foreign exchange loss of RMB491m vs. an exchange
+gain of RMB2.3bn, due to RMB depreciation this year vs. the opposite trend
+last year.
+Market share gain achieved
+According to China IOL, Gree's sales volume (sell-in) jumped by 40% (vs. 33%)
+in 1Q) with 68% growth from domestic market in 2Q (vs. 62% in 1Q). The high
+growth momentum has continued in July when Gree's sell-in volume moved
+up by 41% despite a high base last year.
+Based on statistics from China Market Monitor, Gree gained 4.8ppt/2.1ppt
+market share in terms of sales volume and sales value to 34.6%/38.7% in 1H17.
+ASP also increased 4.9% to RMB4192. This is in line with Gree's strategy focus
+to gain market share which was mentioned during 2016 annual results
+conference.
+By product segment, Gree also focused on centralized air conditioner market,
+which has a higher industry growth with 25% growth in 1H17. Gree
+maintained its leading position in the segment since 2012.
+Its prepaid rebates balance increased 3% to RMB60bn in 1H17. Cash flow
+from operation has declined 68% to RMB3.6bn largely due to inventories being
+increased 134% for the upcoming peak season.
+2H17 outlook
+For 2H17, we expect Gree to report a 19% rise in sales with 10% increase in
+volume as we believe the extremely hot summer helped to digest channel
+inventories and the inventory level has been reduced from around 31m units as
+of March 2017 to 21m units as of July 2017, according to China IOL.
+Compared with 1H17, slower growth in 2H17 is expected due to high base in
+2016, as 2017's growth driver includes retail end demand (property market
+boom and trading up for better models) and restocking by distributors.
+GPM might be under pressure (we expect a decline of 1.3ppt to 31.4% from
+32.7% in 1H17) due to rise in raw material price. However, opex ratio might
+(15.5% in 1H17) assuming the GPM pressure in 2H17 will be more than 1H17.
+Source: Deutsche Bank, Bloomberg Finance LP. Note: blended raw materials assuming 17% are
+copper, 5% of steel, 5% aluminium and 73% of others
+Figure 4: Quarterly results highlights
+Source: Deutsche Bank, company announcement
+The author of this report wishes to acknowledge the contribution made by
+Louise Li, employee of Evalueserve, a third-party provider to Deutsche Bank of
+offshore research support services.
+Important Disclosures
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing.
+Important Disclosures Required by U.S. Regulators
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
+See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
+14. Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company
+within the past year.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Anne Ling
+Historical recommendations and target price: Gree (000651.SZ)
+(as of 8/31/2017)
+07/10/2015:
+01/09/2016:
+Richard Rui-Huang**
+Richard Rui-Huang**
+30/11/2016:
+15/02/2016:
+Hold, Target Price Change CNY16.29 Richard Rui-
+Buy, Target Price Change CNY28.48 Richard Rui-
+Huang**
+Huang**
+3. 04/05/2016:
+12/06/2017:
+Hold, Target Price Change CNY18.10 Richard Rui-
+Buy, Target Price Change CNY38.87 Anne Ling
+Huang**
+Equity rating key
+Equity rating dispersion and banking relationships
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
+share price from current price to projected target price
+plus pro-jected dividend yield), we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
-party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor 
-is responsible for the accuracy or security controls of these websites. 
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this 
-report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche 
-Bank may act as principal for its own account or as agent for another person. 
- 
-Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own 
-account or with customers, in a manner inconsistent with the views taken in this research report. Others within 
-Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those 
-taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, 
-equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication 
-may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or 
-otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. 
-Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment 
-banking, trading and principal trading revenues. 
- 
-Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do 
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides 
-liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts 
-sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term 
-ratings. Trade ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high 
-conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a 
-time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to 
-time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that 
-reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities 
-discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return 
-or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to 
-otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently 
-becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company 
-specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion 
-of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are 
-published at irregular intervals. This report is provided for informational purposes only and does not take into account 
-the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation 
-of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are 
-inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not 
-be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of 
-financial instruments are subject to change without notice and investment transactions can lead to losses as a result of 
-price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's 
-currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily 
-indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session, 
-and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank, 
-subject companies, and in some cases, other parties. 
- 
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding 
-our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect 
-to 
-our 
-research 
-is 
-available 
-on 
-our 
-website 
-under 
-Disclaimer 
-found 
-on 
-the 
-Legal 
-tab. 
- 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Deutsche Bank AG/Hong Kong 
-Page 9
- 
- 
- 
-Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise 
-to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash 
-flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a 
-loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the 
-loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse 
-macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation 
-(including changes in assets holding limits for different types of investors), changes in tax policies, currency 
-convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and 
-settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed 
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to 
-FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the 
-index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended 
-to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon 
-rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is 
-also important to acknowledge that funding in a currency that differs from the currency in which coupons are 
-denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to 
-the 
-risks 
-related 
-to 
-rates 
-movements. 
- 
-Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk. 
-The appropriateness or otherwise of these products for use by investors is dependent on the investors' own 
-circumstances including their tax position, their regulatory environment and the nature of their other assets and 
-liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar 
-to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can 
-be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be 
-incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable 
-for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized 
-Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the 
-website please contact your Deutsche Bank representative for a copy of this important document. 
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i) 
-exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by 
-numerous market factors, including world and national economic, political and regulatory events, events in equity and 
-debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed 
-exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are 
-affected by the currency of an underlying security, effectively assume currency risk. 
- 
-Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the 
-investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at 
-https://gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to 
-review this information before investing.  
- 
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial 
-adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information 
-provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice, 
-Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever 
-as to any strategies, products or any other information presented in the materials. Information contained herein is being 
-provided solely on the basis that the recipient will make an independent assessment of the merits of any investment 
-decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any 
-trading strategy. 
- 
-The information presented is general in nature and is not directed to retirement accounts or any specific person or 
-account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in 
-making Your decision. The information we provide is being directed only to persons we believe to be financially 
-sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to 
-particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Page 10 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this 
-directly 
-from 
-us, 
-we 
-ask 
-that 
-you 
-inform 
-us 
-immediately. 
- 
-United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and 
-SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA 
-regulations.  
- 
-Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated 
-in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under 
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal 
-Financial Supervisory Authority. 
- 
-United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester 
-House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the 
-Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial 
-Conduct Authority. Details about the extent of our authorisation and regulation are available on request. 
- 
-Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited. 
- 
-India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India 
-(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received 
-administrative warnings from the SEBI for breaches of Indian regulations. 
- 
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial 
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, 
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks 
-involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by 
-multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to 
-losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional 
-losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories 
-of investment advice, products and services. Recommended investment strategies, products and services carry the risk 
-of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in 
-market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the 
-relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in 
-this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the 
-name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank 
-Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are 
-not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's 
-equity analysts are based on a 12-month forecast period. 
- 
-Korea: Distributed by Deutsche Securities Korea Co. 
- 
-South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register 
-Number 
-in 
-South 
-Africa: 
-1998/003298/10). 
- 
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles 
-Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters 
-arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who 
-is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and 
-regulations), they accept legal responsibility to such person for its contents. 
- 
-Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should 
-independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank 
-research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without 
-written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and 
-31 August 2017 
-Retail / Wholesale Trade 
-Gree 
-Deutsche Bank AG/Hong Kong 
-Page 11
- 
- 
- 
-is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, 
-Taipei 
-Branch 
-may 
-not 
-execute 
-transactions 
-for 
-clients 
-in 
-these 
-securities/instruments. 
- 
-Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre 
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall 
-within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, 
-West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related 
-financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre 
-Regulatory Authority. 
- 
-Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
-any appraisal or evaluation activity requiring a license in the Russian Federation. 
- 
-Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the 
-Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall 
-within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya 
-District, 
-P.O. 
-Box 
-301809, 
-Faisaliah 
-Tower 
-- 
-17th 
-Floor, 
-11372 
-Riyadh, 
-Saudi 
-Arabia. 
- 
-United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated 
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services 
-activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai 
-International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been 
-distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as 
-defined by the Dubai Financial Services Authority. 
- 
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product 
-referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please 
-refer 
-to 
-Australian 
-specific 
-research 
-disclosures 
-and 
-related 
-information 
-at 
-https://australia.db.com/australia/content/research-information.html  
- 
-Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian 
-Corporations Act and New Zealand Financial Advisors Act respectively. 
- 
-Additional information relative to securities, other financial products or issuers discussed in this report is available upon 
-request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent. 
-Copyright © 2017 Deutsche Bank AG 
-  
- 
- 
- 
- 
- 
-David Folkerts-Landau 
-Group Chief Economist and Global Head of Research 
- 
-Raj Hindocha 
-Global Chief Operating Officer 
-Research 
-Michael Spencer 
-Head of APAC Research 
-Global Head of Economics 
-Steve Pollard 
-Head of Americas Research 
-Global Head of Equity Research 
-Anthony Klarman 
-Global Head of 
-Debt Research 
-Paul Reynolds 
-Head of EMEA 
-Equity Research 
-Dave Clark 
-Head of APAC 
-Equity Research 
-Pam Finelli 
-Global Head of 
-Equity Derivatives Research 
- 
-  
-Andreas Neubauer 
-Head of Research - Germany 
-Spyros Mesomeris 
-Global Head of Quantitative 
-and QIS Research 
-  
-  
-International locations 
-Deutsche Bank AG 
-Deutsche Bank Place 
-Level 16 
-Corner of Hunter & Phillip Streets 
-Sydney, NSW 2000 
-Australia 
-Tel: (61) 2 8258 1234 
-Deutsche Bank AG 
-Mainzer Landstrasse 11-17 
-60329 Frankfurt am Main 
-Germany 
-Tel: (49) 69 910 00 
-Deutsche Bank AG 
-Filiale Hongkong 
-International Commerce Centre, 
-1 Austin Road West,Kowloon, 
-Hong Kong 
-Tel: (852) 2203 8888 
-Deutsche Securities Inc. 
-2-11-1 Nagatacho 
-Sanno Park Tower 
-Chiyoda-ku, Tokyo 100-6171 
-Japan 
-Tel: (81) 3 5156 6770 
- 
-Deutsche Bank AG London 
-1 Great Winchester Street 
-London EC2N 2EQ 
-United Kingdom 
-Tel: (44) 20 7545 8000 
-Deutsche Bank Securities Inc. 
-60 Wall Street 
-New York, NY 10005 
-United States of America 
-Tel: (1) 212 250 2500 
- 
- 
- 
-  
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank may act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on.
+Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
+banking, trading and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term
+conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a
+time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to
+time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that
+reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently
+becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company
+specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion
+of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are
+published at irregular intervals. This report is provided for informational purposes only and does not take into account
+the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation
+of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are
+inherently imprecise and a product of the analyst's judgment. The financial instruments discussed in this report may not
+be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of
+financial instruments are subject to change without notice and investment transactions can lead to losses as a result of
+price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's
+currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily
+indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session,
+and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank,
+subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+available
+website
+under
+Disclaimer
+found
+the
+our
+research
+our
+Legal
+tab.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the
+index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended
+to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon
+rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is
+also important to acknowledge that funding in a currency that differs from the currency in which coupons are
+denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to
+risks
+the
+related
+rates
+movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own
+circumstances including their tax position, their regulatory environment and the nature of their other assets and
+liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar
+to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can
+be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be
+incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable
+for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized
+website please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+review this information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
+provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+from
+inform
+directly
+ask
+that
+you
+immediately.
+us,
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
+Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India
+(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+South
+1998/003298/10).
+Africa:
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters
+arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who
+is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and
+regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
+research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited.
+Taipei
+clients
+securities/instruments.
+Branch
+not
+execute
+transactions
+for
+these
+may
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
+within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre
+Regulatory Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
+within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+17th
+Faisaliah
+Tower
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+refer
+Australian
+specific
+research
+disclosures
+information
+and
+related
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
+Head of Americas Research
+Global Head of Economics
+Research
+Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
+Equity Derivatives Research
+Andreas Neubauer
+Spyros Mesomeris
+Head of Research - Germany
+Global Head of Quantitative
+and QIS Research
+International locations
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
+Japan
+Australia
+Deutsche Bank AG London
+Deutsche Bank Securities Inc.
+1 Great Winchester Street
+60 Wall Street
+London EC2N 2EQ
+United Kingdom
+United States of America

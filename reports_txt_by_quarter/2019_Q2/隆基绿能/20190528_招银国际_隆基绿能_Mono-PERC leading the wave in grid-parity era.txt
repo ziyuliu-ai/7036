@@ -1,772 +1,124 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-ACCESS KEY TO OUR REPORTS ON BLOOMBERG: CMBR 
- 
-China Solar Sector 
- 
-Robin Xiao 
-(852) 3900 0849 
-robinxiao@cmbi.com.hk  
- 
- 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-86,619
-Avg 3 mths t/o (RMB mn) 
-956.39
-52w High/Low (RMB)   
-25.60/9.51
-Total Issued Shares (mn) 
-3,450
-Source: Bloomberg 
- 
-Shareholding Structure 
-Li Zhenguo 
-15.0% 
-Li Chunan 
-11.0% 
-Free float 
-50.4% 
-Source: Bloomberg 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-4.4% 
-16.2%
-3-mth 
-2.2% 
-5.9%
-6-mth 
-70.4% 
-51.6%
-12-mth 
-16.3% 
-40.8%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Bloomberg 
- 
-Auditor: RSM China 
- 
-0
-5
-10
-15
-20
-25
-30
-5/2018
-9/2018
-1/2019
-5/2019
-601012 CH
- SZCOMP  (rebased)
-(US$)
-NON-RATED 
- 
-Current Price 
-RMB23.90 
- 
- 
-1 
-     28 May 2019 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-SUMMARY. We have met with LONGi’s management recently to discuss the 
-Company and solar sector outlook in FY19/20E. Overall, we are optimistic on 
-LONGi’s expansion strategy backed by 1) stably increasing mono-PERC product 
-demand from the overseas market, 2) cost leadership led by advanced mono-Si 
-growing and diamond wire saw technology combo, and 3) demand recovery in 
-China market which will likely boost ASP in 2H19E.  
- World’s largest mono-crystalline product manufacturer. LONGi has more 
-than 19 years’ experience specialized in producing mono-Si solar wafer, cells 
-and high-efficient modules. The Company is now the largest mono-crystalline 
-product supplier in the world. Mgmt. believed mono-PERC product is the most 
-suitable high-efficient PV product offering high photoelectric conversion 
-potential in the grid-parity era. By 1Q19, LONGi mono-cell products offered 
-up to 22%+ efficiency during mass production, leading PV peers in China.  
- Technology advancement and cost leadership build the key edges. 
-LONGi was the first to achieve a breakthrough adopting diamond wire saw 
-cutting for mono-Si rod. Together with unique mono-Si growing technologies 
-supported by localized equipment, LONGi had successfully built up cost 
-leadership in mono-wafer production, which kicked off a trend in replacing 
-multi-wafer and meeting high-efficient PV module demand since 2017. LONGi 
-recorded 1Q19 GPM of 23.5%, and mgmt. expected GPM to further improve 
-with lower Poly-Si costs and cost reduction measures in 2Q19E.   
- Market potential and expansion strategies. LONGi placed key module sales 
-focus on the overseas market, in view of short-term policy uncertainties in 
-China. Mgmt. expected global PV installation to reach 120GW in 2019, and 
-shared optimistic market outlook in Europe, after EU ends anti-dumping and 
-anti-subsidy measures. To capture future growth, LONGi targets to expand 
-mono-wafer capacity to 65GW by end-2021, representing FY18-21E capacity 
-CAGR of 32.4%. 
- Valuation is still attractive on long term growth prospects. Trading at 
-21.1x/16.6x FY19/20E P/E, LONGi has no significant valuation premium 
-comparing to peers. Given its leading market position as well as rapid capacity 
-expansion with profitable margin, we believe there is still upside on both 
-earnings and valuation.  
-Earnings Summary 
-(YE 31 Dec) 
-FY14A 
-FY15A 
-FY16A 
-FY17AE 
-FY18A 
-Revenue (RMB mn) 
-3,680 
-5,947 
-11,531 
-16,362 
-21,988 
-YoY growth (%) 
-NA 
-61.6 
-93.9 
-41.9 
-34.4 
-Net income (RMB mn) 
-294 
-520 
-1,547 
-3,565 
-2,558 
-EPS (RMB) 
-0.55 
-0.31 
-0.86 
-1.81 
-0.93 
-YoY growth (%) 
-NA 
-(43.6) 
-177.4 
-110.5 
-(48.6) 
-P/E (x) 
-43.5 
-77.1 
-27.8 
-13.2 
-25.7 
-P/B (x) 
-4.1 
-7.5 
-4.7 
-3.5 
-4.2 
-Yield (%) 
-0.5 
-0.2 
-0.4 
-0.8 
-0.4 
-ROE (%) 
-9.4 
-9.8 
-17.0 
-26.6 
-16.4 
-Net gearing (%) 
-Net cash 
-33 
-Net cash 
-Net cash 
-Net cash 
+A Wholly Owned Subsidiary Of China Merchants Bank
+LONGi (601012 CH)
+NON-RATED
+Mono-PERC leading the wave in grid-parity era
+Current Price
+RMB23.90
+SUMMARY. We have met with LONGi's management recently to discuss the
+Company and solar sector outlook in FY19/20E. Overall, we are optimistic on
+LONGi's expansion strategy backed by 1) stably increasing mono-PERC product
+China Solar Sector
+demand from the overseas market, 2) cost leadership led by advanced mono-Si
+growing and diamond wire saw technology combo, and 3) demand recovery in
+Robin Xiao
+China market which will likely boost ASP in 2H19E.
+World's largest mono-crystalline product manufacturer. LONGi has more
+than 19 years' experience specialized in producing mono-Si solar wafer, cells
+Stock Data
+and high-efficient modules. The Company is now the largest mono-crystalline
+product supplier in the world. Mamt. believed mono-PERC product is the most
+suitable high-efficient PV product offering high photoelectric conversion
+potential in the grid-parity era. By 1Q19, LONGi mono-cell products offered
+up to 22%+ efficiency during mass production, leading PV peers in China.
+Shareholding Structure
+■ Technology advancement and cost leadership build the key edges.
+LONGi was the first to achieve a breakthrough adopting diamond wire saw
+cutting for mono-Si rod. Together with unique mono-Si growing technologies
+supported by localized equipment, LONGi had successfully built up cost
+leadership in mono-wafer production, which kicked off a trend in replacing
+Share Performance
+multi-wafer and meeting high-efficient PV module demand since 2017. LONGi
+recorded 1Q19 GPM of 23.5%, and mgmt. expected GPM to further improve
+with lower Poly-Si costs and cost reduction measures in 2Q19E.
+Market potential and expansion strategies. LONGi placed key module sales
+focus on the overseas market, in view of short-term policy uncertainties in
+Source: Bloomberg
+China. Mgmt. expected global PV installation to reach 120GW in 2019, and
+12-mth Price Performance
+shared optimistic market outlook in Europe, after EU ends anti-dumping and
+anti-subsidy measures. To capture future growth, LONGi targets to expand
+mono-wafer capacity to 65GW by end-2021, representing FY18-21E capacity
+CAGR of 32.4%.
+Valuation is still attractive on long term growth prospects. Trading at
+21.1x/16.6x FY19/20E P/E, LONGi has no significant valuation premium
+comparing to peers. Given its leading market position as well as rapid capacity
+expansion with profitable margin, we believe there is still upside on both
+earnings and valuation.
+Source: Bloomberg
+Auditor: RSM China
+Earnings Summary
 Source: Company data
-LONGi (601012 CH) 
-Mono-PERC leading the wave in grid-parity era 
-28 May 2019 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Section Title: Focus Charts  
-Figure 1: LONGi exhibited significant growth after 
-achieved technology breakthrough in 2015 
- 
-Source: Company data 
-Figure 2: LONGi’s FY18 revenue distribution 
- 
- 
-Source: Company data 
- 
-Figure 3: LONGi’s GPM for solar module and mono 
-wafer 
- 
-Source: Company data 
- 
-Figure 4: LONGi had well control in total borrowings, 
-and liabilities/assets ratio remained healthy 
- 
-Source: Company data 
- 
-Figure 5: LONGi’s operating profit and net profit 
- 
- 
-Source: Company data 
-Figure 6: LONGi’s operating profit and net profit 
-margin 
- 
-Source: Company data 
- 
- 
-28 May 2019 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Figure 7: Peers’ valuation  
- 
-Source: Bloomberg, CMBIS  
- 
- 
-Market
-cap
-Stock
-price
-EPS-
-CAGR
-(Rmb, mn) (Rmb)
-18A
-19E
-20E
-18-20E
-18A
-19E
-20E
-18
-19E
-20E
-Polysilicon & cell 
-TONGWEI CO-A
-600438 CH
-60,021
-15.46
-0.520
-      
-0.823
-      
-1.042
-      
-41.6%
-15.9
-    
-18.8
-    
-14.8
-    
-4.0
-      
-3.3
-      
-2.8
-      
-Mono Silicon  Wafer
-LONGI GREEN EN-A
-601012 CH
-86,619
-23.90
-0.930
-      
-1.131
-      
-1.443
-      
-24.6%
-33.9
-    
-21.1
-    
-16.6
-    
-4.8
-      
-3.8
-      
-3.1
-      
-TIANJIN ZHONG-A
-002129 CH
-27,852
-10.00
-0.234
-      
-0.348
-      
-0.577
-      
-57.1%
-39.6
-    
-28.7
-    
-17.3
-    
-2.4
-      
-2.2
-      
-1.9
-      
-Module
-GCL SYSTEM INT-A
-002506 CH
-30,086
-5.94
-0.009
-      
-0.032
-      
-0.028
-      
-76.4%
-134.9
-  
-185.6
-  
-212.1
-  
-7.2
-      
-7.9
-      
-7.6
-      
-SHENZHEN TOPRA-A
-002218 CH
-4,166
-3.37
-0.070
-      
-0.010
-      
-N/A
-N/A
-46.4
-    
-337.0
-  
-N/A
-N/A
-N/A
-N/A
-JOLYWOOD SUZHO-A
-300393 CH
-4,130
-17.31
-0.530
-      
-0.917
-      
-1.730
-      
-80.7%
-31.1
-    
-18.9
-    
-10.0
-    
-N/A
-1.4
-      
-1.2
-      
-CHANGZHOU ALMA-A
-002623 CH
-2,350
-14.69
-0.500
-      
-0.433
-      
-0.520
-      
-2.0%
-46.6
-    
-33.9
-    
-28.3
-    
-N/A
-1.1
-      
-1.0
-      
-Inverter 
-SUNGROW POWER -A
-300274 CH
-14,275
-9.79
-0.560
-      
-0.747
-      
-0.939
-      
-29.5%
-18.3
-    
-13.1
-    
-10.4
-    
-1.8
-      
-1.6
-      
-1.4
-      
-ZHEJIANG CHINT-A
-601877 CH
-50,644
-23.54
-1.680
-      
-1.990
-      
-2.362
-      
-18.6%
-15.4
-    
-11.8
-    
-10.0
-    
-2.3
-      
-2.0
-      
-1.8
-      
-HENZHEN INVT-A
-002334 CH
-3,995
-5.30
-0.297
-      
-0.410
-      
-N/A
-N/A
-17.8
-    
-12.9
-    
-N/A
-N/A
-N/A
-N/A
-SHENZHEN HOPEW-A
-603063 CH
-4,395
-10.20
-0.130
-      
-0.590
-      
-0.830
-      
-152.7%
-111.7
-  
-17.3
-    
-12.3
-    
-N/A
-N/A
-N/A
-Machine & equipments
-ZHEJIANG JINGS-A
-300316 CH
-15,711
-12.23
-0.460
-      
-0.588
-      
-0.782
-      
-30.4%
-27.0
-    
-20.8
-    
-15.6
-    
-3.8
-      
-3.3
-      
-2.9
-      
-SHENZHEN SC NE-A
-300724 CH
-9,302
-29.07
-1.150
-      
-1.318
-      
-1.685
-      
-21.0%
-25.3
-    
-22.1
-    
-17.3
-    
-7.1
-      
-3.6
-      
-3.0
-      
-BEIJING JINGYU-A
-601908 CH
-7,023
-3.52
-0.230
-      
-0.300
-      
-N/A
-N/A
-26.2
-    
-11.7
-    
-N/A
-N/A
-N/A
-N/A
-EVA 
-HANGZHOU FIRST-A
-603806 CH
-18,301
-35.02
-1.440
-      
-1.380
-      
-1.735
-      
-9.8%
-21.2
-    
-25.4
-    
-20.2
-    
-3.1
-      
-3.0
-      
-2.7
-      
-Diamond Wire
-NANJING SANCHA-A
-300554 CH
-1,485
-15.87
-39.7%
-N/A
-N/A
-N/A
-40.0
-    
-N/A
-N/A
-N/A
-N/A
-N/A
-PV Farm development
-CECEP SOLAR EN-A
-000591 CH
-10,284
-3.42
-0.287
-      
-0.450
-      
-0.490
-      
-30.7%
-12.2
-    
-7.6
-      
-7.0
-      
-0.8
-      
-0.8
-      
-0.8
-      
-JIANGSU LINYAN-A
-601222 CH
-8,242
-4.67
-0.430
-      
-0.553
-      
-0.655
-      
-23.4%
-10.7
-    
-8.4
-      
-7.1
-      
-0.8
-      
-0.8
-      
-0.7
-      
-Total
-42.7%
-37.46
-  
-46.78
-  
-28.50
-  
-3.5
-      
-2.7
-      
-2.4
-      
-Total exclude module
-39.9%
-29.66
-  
-16.91
-  
-13.51
-  
-3.1
-      
-2.4
-      
-2.1
-      
-PER
-PBR
-EPS
-Ticker &
-subsector
-Company &
-sub-sector
-28 May 2019 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the 
-securities or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the 
-subject securities or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views 
-expressed by that analyst in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of 
-issue of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) 
-serve as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed 
-companies covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  
-CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, 
-financial position or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that 
-which is contained in the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of 
-their dependence on the performance of underlying assets or other variable market factors.  CMBIS recommends that investors should independently 
-evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to make their own 
-investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS 
-and/or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any 
-interest in securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees 
-shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  
-Anyone making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and 
-reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS 
-provides the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue 
-other publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and 
-analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations 
-or views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships 
-with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this 
-report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not 
-be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 
-2005 (as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated 
-Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange 
-Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this research 
-report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.  
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as 
-defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports 
-produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial 
-Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, 
-as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons 
-only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
+Section Title: Focus Charts
+Source: Company data
+Source: Company data
+Source: Company data
+Source: Company data
+Source: Company data
+Source: Company data
+Source: Bloomberg, CMBIS
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the
+securities or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the
+subject securities or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views
+expressed by that analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of
+issue of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3)
+serve as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed
+companies covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives,
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that
+which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of
+their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should independently
+evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to make their own
+investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS
+and/or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any
+interest in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees
+shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.
+Anyone making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and
+reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS
+provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue
+other publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and
+analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations
+or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships
+with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this
+report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not
+be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order
+2005 (as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated
+Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange
+Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this research
+report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as
+defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports
+produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial
+Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor,
+as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons
+only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

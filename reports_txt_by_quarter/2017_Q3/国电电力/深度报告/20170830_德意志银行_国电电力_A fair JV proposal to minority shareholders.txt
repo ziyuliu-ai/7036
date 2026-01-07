@@ -1,2472 +1,413 @@
-Deutsche Bank 
- Markets Research 
-Rating 
-Hold 
-Asia 
-China 
-Utilities 
-Utilities 
-Company 
-GD Power 
- 
-Date 
-29 August 2017 
-Breaking News 
- 
-A fair JV proposal to minority 
-shareholders 
-Reuters 
-Bloomberg 
-Exchange Ticker 
-600795.SS 
-600795 CH 
-SHH 
-600795 
- 
- 
-Forecasts And Ratios 
-Year End Dec 31 
-2015A 
-2016A 
-2017E 
-2018E 
-2019E 
-Sales (CNYm) 
-54,583 
-58,416 
-59,875 
-64,371 
-67,914 
-Reported NPAT (CNYm) 
-4,364 
-4,727 
-3,782 
-5,615 
-5,982 
-DB EPS FD (CNY) 
-0.287 
-0.241 
-0.192 
-0.286 
-0.304 
-DB EPS growth (%) 
--7.5 
--16.1 
--20.0 
-48.5 
-6.5 
-PER (x) 
-17.0 
-12.7 
-18.7 
-12.6 
-11.8 
-Price/BV (x) 
-1.5 
-1.2 
-1.3 
-1.2 
-1.2 
-Yield (net) (%) 
-2.3 
-3.6 
-2.4 
-3.6 
-3.9 
-ROE (%) 
-8.9 
-9.2 
-7.2 
-10.1 
-10.1 
-Source: Deutsche Bank estimates, company data 
-1 DB EPS is fully diluted and excludes non-recurring items 
-2 Multiples and yields calculations use average historical prices for past years and spot prices for current and future years, except P/B which uses 
-SOE reform kicks off for IPPs 
-  
-________________________________________________________________________________________________________________ 
-Deutsche Bank AG/Hong Kong 
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should 
-be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should 
-consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST 
-CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. 
- 
-Price at 18 Jul 2017 (CNY) 
-3.60 
-Price target - 12mth (CNY) 
-3.50 
-52-week range (CNY) 
-3.60 - 2.94 
-Shanghai Composite 
-3,332 
-Michael Tong, CFA 
-Research Analyst 
-(+852 )    2203 6167 
-michael.tong@db.com
-Hanyu Zhang 
-Research Associate 
-(+852 )    2203 6207 
-hanyu.zhang@db.com 
-Price/price relative 
-2.0
-3.0
-4.0
-5.0
-6.0
-7/15
-1/16
-7/16
-1/17
-GD Power
-Shanghai Composite (Rebased)
-Performance (%) 
-1m 
-3m 
-12m 
-Absolute 
-0.0 
-7.1 
-21.6 
-Shanghai Composite 
-2.1 
--0.3 
-4.7 
-Source: Deutsche Bank 
- 
-GD Power announced the proposal of formulating a JV with Shenhua by 
-injecting thermal power assets from both companies. Meanwhile, the State 
-Council also approved the merger between Guodian Group and Shenhua 
-Group, parentco of the two listcos, into a newly named State Energy 
-Investment Corporate, which will be the new parentco of both GD Power and 
-Shenhua Energy. Based on preliminary terms disclosed, the terms look fair to 
-GD Power’s minority shareholders and the merger of both parentcos should be 
-strategically positive on the back of stronger vertical integration between coal 
-and power and enhanced consolidation in the power sector. 
-A fair multiple for GD Power’s thermal power assets 
-Based on the terms disclosed, GD Power’s thermal assets (to be injected into 
-the new JV) will be valued at 1.28x book value, which is in line with GD’s 
-trading multiples (1.3x P/B) prior to stock suspension. Moreover, if we consider 
-GD Power’s 25% capacity related to hydro power, which enjoys a higher PB as 
-per listed peers, this multiple is slightly favorable. Our preliminary analysis 
-suggests very limited earnings impact based on GD’s 56% stake in this new JV 
-and the combined net profit base of Rmb752mn in 1H17. 
-A glimpse of the new thermal power giant  
-The new JV will have a total consolidated capacity of 80.3GW, up from the 
-52.5GW currently owned by GD. Based on FY16 outputs, the new JV’s output 
-is set to be 60% higher. The geographic span will be broadened with market 
-share further enhanced in key markets such as Jiangsu, Zhejiang and Anhui. 
-With the merger of parentcos, GD Power can leverage more on the vertical 
-integration with coal producers and reduce earnings volatility arising from coal 
-price movement. Nevertheless, the synergy may take some time to materialize 
-and we still believe implementation of fuel-tariff pass-through policy and coal 
-price decline are more near-term earnings drivers for thermal IPPs. 
-Valuation and risks 
-Our target price of HKD3.5 is based on DCF with WACC of 8.2% and zero 
-terminal growth. Key upside/downside risks include: uncertainties related to 
-the restructure, coal price fluctuations, and magnitude of tariff hike at year-end. 
-Distributed on: 28/08/2017 17:57:33 GMT
-0bed7b6cf11c
-29 August 2017 
-Utilities 
-GD Power 
-Page 2 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Model updated:09 May 2017 
-Running the numbers 
-Asia 
-China 
-Utilities 
-GD Power 
-Reuters: 600795.SS 
-Bloomberg: 600795 CH
-Hold 
-Price (18 Jul 17) 
-CNY 3.60
-Target Price 
-CNY 3.50
-52 Week range 
-CNY 2.94 - 3.60
-Market Cap (m) 
-CNYm 70,741
-USDm 10,614
-Company Profile 
-GD Power Development Co., Ltd. (GD Power) is primarily 
-engaged in power generation and distribution in China. 
-The 
-company 
-also 
-has 
-business 
-in 
-new 
-energy 
-development and environmental protection projects. GD 
-Power's total consolidated capacity reached 46.3GW and 
-total power generation reached 169bn kWh at end-2015. 
-China Guodian Corporation, a central SOE under SASAC, 
-is its parentco with a stake of 46.09%. 
-Price Performance 
-2.0
-3.0
-4.0
-5.0
-6.0
-Jul 15 Oct 15Jan 16Apr 16Jul 16 Oct 16Jan 17Apr 17
-GD Power
-Shanghai Composite (Rebased)
-Margin Trends 
-10
-20
-30
-40
-50
-14
-15
-16
-17E
-18E
-19E
-EBITDA Margin
-EBIT Margin
-Growth & Profitability 
-0
-5
-10
-15
--15
--10
--5
-0
-5
-10
-14
-15
-16
-17E
-18E
-19E
-Sales growth (LHS)
-ROE (RHS)
-Solvency 
-0
-1
-1
-2
-2
-3
-3
-0
-50
-100
-150
-200
-250
-14
-15
-16
-17E
-18E
-19E
-Net debt/equity (LHS)
-Net interest cover (RHS)
-Michael Tong, CFA 
-+852     2203 6167 
-michael.tong@db.com 
-Fiscal year end  31-Dec 
-2014 
-2015 
-2016 
-2017E 
-2018E 
-2019E 
-Financial Summary 
-DB EPS (CNY) 
-0.31
-0.29
-0.24
-0.19
-0.29
-0.30 
-Reported EPS (CNY) 
-0.34
-0.22
-0.24
-0.19
-0.29
-0.30 
-DPS (CNY) 
-0.15
-0.11
-0.11
-0.09
-0.13
-0.14 
-BVPS (CNY) 
-2.5
-2.6
-2.6
-2.7
-2.9
-3.1 
-Weighted average shares (m) 
-17,456
-19,237
-19,650
-19,650
-19,650
-19,650 
-Average market cap (CNYm) 
-43,030
-93,826
-59,853
-70,741
-70,741
-70,741 
-Enterprise value (CNYm) 
-187,577
-245,675
-218,682
-233,176
-236,249
-233,000 
-Valuation Metrics
-P/E (DB) (x) 
-8.0
-17.0
-12.7
-18.7
-12.6
-11.8 
-P/E (Reported) (x) 
-7.3
-22.0
-12.7
-18.7
-12.6
-11.8 
-P/BV (x) 
-1.85
-1.54
-1.19
-1.32
-1.23
-1.16 
-FCF Yield (%) 
-nm
-nm
-nm
-nm
-nm
-9.5 
-Dividend Yield (%) 
-6.1
-2.3
-3.6
-2.4
-3.6
-3.9 
-EV/Sales (x) 
-3.1
-4.5
-3.7
-3.9
-3.7
-3.4 
-EV/EBITDA (x) 
-7.5
-9.9
-8.8
-10.4
-8.7
-8.1 
-EV/EBIT (x) 
-12.1
-16.4
-16.9
-20.8
-15.7
-14.9 
-Income Statement (CNYm) 
-Sales revenue 
-61,475
-54,583
-58,416
-59,875
-64,371
-67,914 
-Gross profit 
-25,805
-25,703
-25,571
-23,249
-28,107
-29,696 
-EBITDA 
-24,873
-24,896
-24,774
-22,433
-27,230
-28,771 
-Depreciation 
-9,331
-9,812
-11,747
-11,167
-12,118
-13,095 
-Amortisation 
-61
-67
-71
-71
-71
-71 
-EBIT 
-15,481
-15,017
-12,956
-11,195
-15,040
-15,604 
-Net interest income(expense) 
--6,667
--5,763
--5,884
--6,258
--6,368
--6,527 
-Associates/affiliates 
-1,727
--55
-1,653
-1,687
-1,854
-2,065 
-Exceptionals/extraordinaries 
-533
-475
-459
-321
-132
-132 
-Other pre-tax income/(expense) 
-588
-84
--75
-0
-0
-0 
-Profit before tax 
-11,662
-9,758
-9,109
-6,945
-10,658
-11,274 
-Income tax expense 
-2,550
-2,610
-2,090
-1,367
-2,201
-2,302 
-Minorities 
-3,037
-2,784
-2,291
-1,796
-2,841
-2,990 
-Other post-tax income/(expense) 
-0
-0
-0
-0
-0
-0 
-Net profit 
-6,075
-4,364
-4,727
-3,782
-5,615
-5,982 
-DB adjustments (including dilution) 
--521
-1,268
-0
-0
-0
-0 
-DB Net profit 
-5,554
-5,632
-4,727
-3,782
-5,615
-5,982 
-Cash Flow (CNYm) 
-Cash flow from operations 
-16,008
-18,470
-17,476
-17,092
-16,916
-21,019 
-Net Capex 
--23,964
--20,665
--20,024
--18,427
--17,273
--14,278 
-Free cash flow 
--7,956
--2,195
--2,547
--1,335
--357
-6,741 
-Equity raised/(bought back) 
-2,513
-633
-0
-0
-0
-0 
-Dividends paid 
--7,298
--8,058
--5,646
--2,162
--1,729
--2,568 
-Net inc/(dec) in borrowings 
-4,391
-7,405
-6,091
-4,616
-1,388
--5,972 
-Other investing/financing cash flows 
-8,132
-3,307
-1,866
--270
--360
-0 
-Net cash flow 
--218
-1,092
--236
-850
--1,058
--1,799 
-Change in working capital 
--891
-1,174
--578
-1,963
--1,876
-946 
-Balance Sheet (CNYm) 
-Cash and other liquid assets 
-2,349
-3,441
-3,334
-4,184
-3,126
-1,327 
-Tangible fixed assets 
-199,092
-206,223
-221,809
-229,069
-234,224
-235,407 
-Goodwill/intangible assets 
-2,939
-2,811
-3,126
-3,055
-2,983
-2,912 
-Associates/investments 
-17,895
-18,132
-20,124
-22,082
-24,296
-26,361 
-Other assets 
-24,084
-19,578
-22,874
-23,567
-24,028
-24,636 
-Total assets 
-246,359
-250,185
-271,267
-281,956
-288,656
-290,642 
-Interest bearing debt 
-146,152
-154,282
-160,136
-164,752
-166,140
-160,168 
-Other liabilities 
-34,414
-26,379
-36,959
-39,616
-38,200
-39,754 
-Total liabilities 
-180,567
-180,661
-197,095
-204,368
-204,340
-199,922 
-Shareholders' equity 
-47,154
-50,384
-52,020
-53,641
-57,527
-60,942 
-Minorities 
-18,639
-19,140
-22,151
-23,948
-26,789
-29,778 
-Total shareholders' equity 
-65,792
-69,524
-74,172
-77,588
-84,316
-90,720 
-Net debt 
-143,803
-150,841
-156,802
-160,569
-163,015
-158,841 
-Key Company Metrics 
-Sales growth (%) 
--7.3
--11.2
-7.0
-2.5
-7.5
-5.5 
-DB EPS growth (%) 
--5.1
--7.5
--16.1
--20.0
-48.5
-6.5 
-EBITDA Margin (%) 
-40.5
-45.6
-42.4
-37.5
-42.3
-42.4 
-EBIT Margin (%) 
-25.2
-27.5
-22.2
-18.7
-23.4
-23.0 
-Payout ratio (%) 
-43.1
-48.5
-45.7
-45.7
-45.7
-45.7 
-ROE (%) 
-14.2
-8.9
-9.2
-7.2
-10.1
-10.1 
-Capex/sales (%) 
-39.0
-37.9
-34.3
-30.8
-26.8
-21.0 
-Capex/depreciation (x) 
-2.6
-2.1
-1.7
-1.6
-1.4
-1.1 
-Net debt/equity (%) 
-218.6
-217.0
-211.4
-206.9
-193.3
-175.1 
-Net interest cover (x) 
-2.3
-2.6
-2.2
-1.8
-2.4
-2.4 
-Source: Company data, Deutsche Bank estimates 
-29 August 2017 
-Utilities 
-GD Power 
-Deutsche Bank AG/Hong Kong 
-Page 3
- 
- 
- 
-Details of the merger plan announced 
-After market close today, GD Power announced the proposal of formulating a 
-JV with Shenhua by injecting thermal power assets from both companies.  
-Meanwhile, the State Council also approved the merger between Guodian 
-Group and Shenhua Group, parentco of the two listcos, into a newly named 
-State Energy Investment Corporate, which will be the new parentco of both 
-GD Power and Shenhua Energy. 
-Based on the announcement, GD Power would contribute 30GW consolidated 
-thermal power assets and Shenhua Energy will contribute 28GW thermal 
-asserts to form a JV, after which GD Power will hold 56% of the merged JV. 
-Based on the disclosure, the JV will own 58GW consolidated thermal power 
-assets, with an estimated Rmb752mn net profit attributable to shareholders.  
-Based on the terms disclosed, GD Power’s thermal assets (to be injected into 
-the new JV) will be valued at 1.28x book value, which is in line with GD’s 
-trading multiples (1.3x P/B) prior to stock suspension. Shenhua’s assets will be 
-valued at 1.16x book value. Based on 1H17 profits, GD Power’s average 
-annualized ROA of contributed assets is at c.1.4% and ROE at c.2.6%, while 
-Shenhua’s average annualized ROA (of contributed assets) is c.1.5% and ROE 
-is at c.2.5%.  
-Figure 1: A new JV formed with the asset contribution of GD and Shenhua 
-End 1H17
-GD asset 
-contribution
-Shenhua asset 
-contribution
-JV
-Consolidated Capacity (MW )
-29.7
-                   
-27.8
-                    
-57.5
-          
-    - Thermal
-29.7
-                           
-27.8
-                             
-57.5
-                
-    - hydro
-    - wind
-1H17 Financials (Rmb mn)
-Revenue
-26,667
-                      
-21,642
-                        
-48,308
-           
-Net profit
-743
-                            
-723
-                              
-1,466
-             
-Net profit attributable to shareholders
-441
-                     
-311
-                      
-752
-                 
-Total assets
-106,054
-                    
-96,084
-                        
-Total liabilities
-58,891
-                      
-49,401
-                        
-Total equity
-47,163
-                      
-46,683
-                        
-Liabilities/Asset
-55.5%
-51.4%
-Source: Company data, Deutsche Bank estimates 
-Our preliminary analysis suggests very limited earnings impact based on GD’s 
-56% stake in this new JV and the combined net profit base of Rmb752mn in 
-1H17 (see Figure 2 for details). 
-29 August 2017 
-Utilities 
-GD Power 
-Page 4 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Figure 2: Detailed financials of the contributed assets 
-Net profit attributable to shareholders
-(Rmb mn)
-Stake
-1H17
-2016
-1H17
-2016
-Datong
-大同发电
-60%
-64
-                    
-564
-                   
-38
-                     
-338
-                    
-Datong II
-大同第二发电厂
-100%
-65
-                    
-295
-                   
-65
-                     
-295
-                    
-Dongsheng
-东胜热电
-55%
-34
-                    
-87
-                      
-19
-                     
-48
-                      
-Zhuanghe
-庄河发电
-51%
-(53)
-                   
-85
-                      
-(27)
-                    
-43
-                      
-Dalian Devlp Zone
-大连开发区热电厂
-100%
-1
-                      
-94
-                      
-1
-                        
-94
-                      
-Chaoyang
-朝阳热电
-100%
-21
-                    
-(5)
-                       
-21
-                     
-(5)
-                        
-Jianbi
-谏壁发电
-100%
-46
-                    
-154
-                   
-46
-                     
-154
-                    
-Jiangsu
-江苏电力
-100%
-358
-                  
-2,370
-                
-358
-                   
-2,370
-                 
-Beilun I
-北仑第一发电
-70%
-85
-                    
-351
-                   
-60
-                     
-246
-                    
-Beilun III
-北仑第三发电
-50%
-258
-                  
-658
-                   
-129
-                   
-329
-                    
-Zheneng Beilun
-浙能北仑
-49%
-132
-                  
-424
-                   
-64
-                     
-208
-                    
-Zheneng Leqing
-浙能乐清
-23%
-83
-                    
-296
-                   
-19
-                     
-68
-                      
-Nanxun Gas Power
-南浔天然气热电
-100%
--
-                   
--
-                     
--
-                    
--
-                     
-GD Anhui
-国电安徽
-100%
-(151)
-                 
-258
-                   
-(151)
-                  
-258
-                    
-Dawukou
-大武口分公司
-100%
-6
-                      
-(4)
-                       
-6
-                        
-(4)
-                        
-Ningxia Shizuishan
-宁夏石嘴山发电
-50%
-(80)
-                   
-74
-                      
-(40)
-                    
-37
-                      
-Shizuishan I
-石嘴山第一发电
-60%
-(101)
-                 
-(44)
-                     
-(61)
-                    
-(26)
-                     
-GD Ningdong
-国电宁东
-51%
--
-                   
--
-                     
--
-                    
--
-                     
-Dawukou Thermal
-大武口热电
-60%
-(98)
-                   
-(23)
-                     
-(59)
-                    
-(14)
-                     
-Xinjiang Power
-新疆电力
-100%
-(90)
-                   
-(130)
-                  
-(90)
-                    
-(130)
-                   
-Jiuquan
-酒泉发电
-100%
-(39)
-                   
-(60)
-                     
-(39)
-                    
-(60)
-                     
-Waigaoqiao II
-外高桥第二发电
-40%
-202
-                  
-490
-                   
-81
-                     
-196
-                    
-GD Total
-743
-            
-5,935
-          
-441
-             
-4,445
-           
-Guohua Int'l Power
-国华国际电力
-70%
-(3)
-                     
-467
-                   
-(2)
-                       
-327
-                    
-Baode
-保德发电
-91%
-(43)
-                   
-(40)
-                     
-(39)
-                    
-(36)
-                     
-Hequ
-河曲发电
-80%
-(34)
-                   
-36
-                      
-(27)
-                    
-29
-                      
-Salaqi
-萨拉齐电厂
-100%
-(90)
-                   
-(79)
-                     
-(90)
-                    
-(79)
-                     
-Hulunbeier
-呼伦贝尔发电
-80%
-47
-                    
-69
-                      
-37
-                     
-55
-                      
-Shangwan
-上湾热电厂
-100%
-25
-                    
-30
-                      
-25
-                     
-30
-                      
-Caicang
-太仓发电
-50%
-113
-                  
-288
-                   
-56
-                     
-144
-                    
-Chenjiangang
-陈家港发电
-55%
-63
-                    
-202
-                   
-35
-                     
-111
-                    
-Xuzhou
-徐州发电
-100%
-0
-                      
-210
-                   
-0
-                        
-210
-                    
-Zhoushan
-舟山发电
-51%
-30
-                    
-104
-                   
-15
-                     
-53
-                      
-Yuyao Gas Power
-余姚燃气发电
-80%
-66
-                    
-24
-                      
-53
-                     
-19
-                      
-Zheneng Power
-浙能发电
-60%
-349
-                  
-1,034
-                
-210
-                   
-620
-                    
-Shenwan Energy
-神皖能源
-51%
-108
-                  
-886
-                   
-55
-                     
-452
-                    
-Ningxia Ningdong
-宁夏宁东发电
-100%
-(53)
-                   
-4
-                        
-(53)
-                    
-4
-                         
-Shenhua Ningdong
-神华宁东发电
-57%
-(4)
-                     
-(13)
-                     
-(2)
-                       
-(7)
-                        
-Midong
-米东热电厂
-100%
-2
-                      
-(32)
-                     
-2
-                        
-(32)
-                     
-Wucaiwan
-五彩湾发电
-100%
-9
-                      
-2
-                        
-9
-                        
-2
-                         
-Jiahua
-嘉华发电
-20%
-139
-                  
-984
-                   
-28
-                     
-197
-                    
-Shenhua total
-723
-            
-4,176
-          
-311
-             
-2,098
-           
-GD+Shenhua
-1,466
-         
-10,111
-        
-752
-             
-6,544
-           
-GD shares in JV
-56%
-56%
-Eearnings impact to GD Pow er
-(19)
-              
-(776)
-             
-Net proft
-Source: Company data, Deutsche Bank estimates 
-29 August 2017 
-Utilities 
-GD Power 
-Deutsche Bank AG/Hong Kong 
-Page 5
- 
- 
- 
-Synergies expected after the restructure 
-According to the announcement, the restructure will help GD Power to expand 
-its thermal power market share in Jiangsu, Zhejiang and Anhui. With the 
-merger of parentcos, GD Power can leverage more on the vertical integration 
-with coal producers and reduce earnings volatility arising from coal price 
-movement. Nevertheless, the synergy may take some time to materialize and 
-we still believe implementation of fuel-tariff pass-through policy and coal price 
-decline are more near-term earnings drivers for thermal IPPs. 
-After the group-level merger, we estimate the State Energy Investment 
-Corporate to have total power capacity of 224GW, of which 174GW is thermal, 
-17GW is hydro and 32GW is wind. The company will have 17% market share 
-in terms of thermal power capacity with >25% market share in six provinces 
-(Tianjin, Hebei, Jilin, Jiangxi, Shaanxi, Ningxia). The company should also have 
-21% market share in wind power with >25% market share in 12 provinces (see 
-Figure 3 for details). The higher market concentration, in the long run, can 
-accelerate supply side reform and reduce price competition. 
- 
-Figure 3: Group-level market share in thermal/wind power after the merger 
-Thermal capacity (MW) - end 2016
-Wind power capacity (MW) - end 2016
-GD Group
-Shenhua Group
-GD+Shenhua
-China total 
-Mkt share
-GD Group
-Shenhua Group
-GD+Shenhua
-China total 
-Mkt share
-Beijing
--
-                       
-950
-                       
-950
-                  
-9,709
-10%
-Beijing
--
-                           
--
-                           
--
-                      
-186
-0%
-Tianjin
-1,545
-                  
-2,374
-                   
-3,919
-               
-13,783
-28%
-Tianjin
-155
-                          
--
-                           
-155
-                     
-286
-54%
-Hebei
-4,094
-                  
-7,410
-                   
-11,504
-            
-45,101
-26%
-Hebei
-1,713
-                       
-1,086
-                       
-2,799
-                 
-11,877
-24%
-Shanxi
-7,660
-                  
-5,200
-                   
-12,860
-            
-63,286
-20%
-Shanxi
-1,658
-                       
--
-                           
-1,658
-                 
-7,707
-22%
-Inner Mongolia
-4,839
-                  
-5,396
-                   
-10,235
-            
-76,094
-13%
-Inner Mongolia
-3,550
-                       
-1,721
-                       
-5,271
-                 
-25,566
-21%
-Liaoning
-3,694
-                  
-3,760
-                   
-7,454
-               
-31,140
-24%
-Liaoning
-2,355
-                       
-99
-                            
-2,454
-                 
-6,947
-35%
-Jilin
-5,000
-                  
--
-                        
-5,000
-               
-17,774
-28%
-Jilin
-641
-                          
-50
-                            
-691
-                     
-5,047
-14%
-Heilongjiang
-2,898
-                  
--
-                        
-2,898
-               
-21,038
-14%
-Heilongjiang
-1,446
-                       
-125
-                          
-1,571
-                 
-5,610
-28%
-Shanghai
-714
-                      
--
-                        
-714
-                  
-22,642
-3%
-Shanghai
-56
-                            
--
-                           
-56
-                       
-712
-8%
-Jiangsu
-11,646
-                
-4,580
-                   
-16,226
-            
-87,267
-19%
-Jiangsu
-2,024
-                       
-250
-                          
-2,274
-                 
-5,613
-41%
-Zhejiang
-3,510
-                  
-6,090
-                   
-9,600
-               
-60,621
-16%
-Zhejiang
-467
-                          
--
-                           
-467
-                     
-1,190
-39%
-Anhui
-3,829
-                  
-4,600
-                   
-8,429
-               
-49,154
-17%
-Anhui
-1,071
-                       
-48
-                            
-1,118
-                 
-1,767
-63%
-Fujian
-3,538
-                  
-2,700
-                   
-6,238
-               
-29,018
-21%
-Fujian
-779
-                          
--
-                           
-779
-                     
-2,142
-36%
-Jiangxi
-4,820
-                  
--
-                        
-4,820
-               
-19,176
-25%
-Jiangxi
-47
-                            
--
-                           
-47
-                       
-1,077
-4%
-Shandong
-8,280
-                  
-2,000
-                   
-10,280
-            
-95,402
-11%
-Shandong
-807
-                          
-1,486
-                       
-2,293
-                 
-8,389
-27%
-Henan
-4,228
-                  
-4,520
-                   
-8,748
-               
-64,311
-14%
-Henan
--
-                           
--
-                           
--
-                      
-1,041
-0%
-Hubei
-5,045
-                  
--
-                        
-5,045
-               
-26,940
-19%
-Hubei
--
-                           
--
-                           
--
-                      
-2,010
-0%
-Hunan
-1,496
-                  
--
-                        
-1,496
-               
-23,218
-6%
-Hunan
-171
-                          
--
-                           
-171
-                     
-2,167
-8%
-Guangdong
-761
-                      
-5,660
-                   
-6,421
-               
-77,417
-8%
-Guangdong
-205
-                          
-133
-                          
-337
-                     
-2,683
-13%
-Guangxi
-2,226
-                  
-700
-                       
-2,926
-               
-21,848
-13%
-Guangxi
-112
-                          
--
-                           
-112
-                     
-674
-17%
-Hainan
-379
-                      
--
-                        
-379
-                  
-4,643
-8%
-Hainan
-116
-                          
--
-                           
-116
-                     
-311
-37%
-Chongqing
-574
-                      
-2,100
-                   
-2,674
-               
-13,432
-20%
-Chongqing
-175
-                          
--
-                           
-175
-                     
-280
-63%
-Sichuan
-509
-                      
-2,260
-                   
-2,769
-               
-16,421
-17%
-Sichuan
--
-                           
--
-                           
--
-                      
-1,247
-0%
-Guizhou
-2,814
-                  
--
-                        
-2,814
-               
-30,136
-9%
-Guizhou
-751
-                          
--
-                           
-751
-                     
-3,616
-21%
-Yunnan
-3,366
-                  
--
-                        
-3,366
-               
-14,020
-24%
-Yunnan
-1,179
-                       
--
-                           
-1,179
-                 
-7,374
-16%
-Tibet
-13
-                        
--
-                        
-13
-                    
-412
-3%
-Tibet
-9
-                               
--
-                           
-9
-                         
-10
-88%
-Shaanxi
-3,122
-                  
-5,710
-                   
-8,832
-               
-30,433
-29%
-Shaanxi
-514
-                          
-149
-                          
-663
-                     
-2,487
-27%
-Gansu
-3,066
-                  
--
-                        
-3,066
-               
-20,017
-15%
-Gansu
-1,746
-                       
--
-                           
-1,746
-                 
-12,772
-14%
-Qinghai
-246
-                      
--
-                        
-246
-                  
-4,021
-6%
-Qinghai
--
-                           
--
-                           
--
-                      
-686
-0%
-Ningxia
-3,356
-                  
-2,850
-                   
-6,206
-               
-21,647
-29%
-Ningxia
-1,568
-                       
--
-                           
-1,568
-                 
-9,416
-17%
-Xinjiang
-3,917
-                  
-5,520
-                   
-9,437
-               
-43,758
-22%
-Xinjiang
-2,327
-                       
-750
-                          
-3,076
-                 
-17,760
-17%
-Total
-101,189
-              
-74,380
-                 
-175,569
-          
-1,053,880
-  
-17%
-Total
-25,642
-                    
-5,894
-                       
-31,535
-               
-148,646
-       
-21%
-Source: Company data, industry data, Deutsche Bank estimates 
- 
- 
-29 August 2017 
-Utilities 
-GD Power 
-Page 6 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Figure 4: GD Group structure 
-Source: Company data, Deutsche Bank 
- 
- 
- 
-29 August 2017 
-Utilities 
-GD Power 
-Deutsche Bank AG/Hong Kong 
-Page 7
- 
- 
- 
-Appendix 1 
- 
-Important Disclosures 
- 
-*Other information available upon request 
- 
-Disclosure checklist 
-Company 
-Ticker 
-Recent price* 
-Disclosure 
-GD Power 
-600795.SS 
-3.60 (CNY) 18 Jul 17 
-NA 
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other 
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the 
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at 
-http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr. Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the 
-"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
-      
-For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
-research, please see the most recently published company report or visit our global disclosure look-up page on our 
-website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=600795.SS 
- 
-Analyst Certification 
-The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
-subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
-any compensation for providing a specific recommendation or view in this report. Michael Tong 
-     
-Historical recommendations and target price: GD Power (600795.SS) 
-(as of 7/18/2017) 
-1
-2
-3
-4
-5
-0.00
-0.50
-1.00
-1.50
-2.00
-2.50
-3.00
-3.50
-4.00
-4.50
-5.00
-Aug 15
-Nov 15
-Feb 16
-May 16
-Aug 16
-Nov 16
-Feb 17
-May 17
-Security Price
 Date
-Previous Recommendations 
-Strong Buy 
-Buy 
-Market Perform 
-Underperform 
-Not Rated 
-Suspended Rating 
-Current Recommendations 
-Buy 
-Hold 
-Sell 
-Not Rated 
-Suspended Rating 
-*New Recommendation Structure 
-as of September 9,2002 
-**Analyst is no longer at Deutsche 
-Bank 
-1.     09/12/2015:         Hold, Target Price Change CNY4.70 Michael Tong, 
-CFA 
-4.     11/04/2017:         Hold, Target Price Change CNY3.30 Michael Tong, 
-CFA 
-2.     12/05/2016:         Upgrade to Buy, Target Price Change CNY3.60 Michael 
-Tong, CFA 
-5.     09/05/2017:         Hold, Target Price Change CNY3.50 Michael Tong, 
-CFA 
-3.     14/02/2017:         Downgrade to Hold, Target Price Change CNY3.40 
-Michael Tong, CFA 
-   
-29 August 2017 
-Utilities 
-GD Power 
-Page 8 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Equity rating key 
-Equity rating dispersion and banking relationships 
-Buy: Based on a current 12- month view of total 
-share-holder return (TSR = percentage change in 
-share price from current price to projected target price 
-plus pro-jected dividend yield ) , we recommend that 
-investors buy the stock. 
-Sell: Based on a current 12-month view of total share-
-holder return, we recommend that investors sell the 
-stock 
-Hold: We take a neutral view on the stock 12-months 
-out and, based on this time horizon, do not 
-recommend either a Buy or Sell. 
-Newly issued research recommendations and target 
-prices supersede previously published research. 
-53 %
-35 %
-11 %
-18 %
-19 %
-11 %
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
-Buy
+Rating
+Company
 Hold
-Sell
-Asia-Pacific Universe
-Companies Covered
-Cos. w/ Banking Relationship
- 
-  
-29 August 2017 
-Utilities 
-GD Power 
-Deutsche Bank AG/Hong Kong 
-Page 9
- 
- 
- 
- 
-Additional Information 
- 
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 
-"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources 
+GD Power
+Breaking News
+Asia
+China
+Reuters
+Bloomberg
+Exchange Ticker
+Utilities
+600795.SS
+600795 CH
+SHH
+Utilities
+A fair JV proposal to minority
+Michael Tong, CFA
+Hanyu Zhang
+shareholders
+Research Associate
+Research Analyst
+SOE reform kicks off for IPPs
+GD Power announced the proposal of formulating a JV with Shenhua by
+injecting thermal power assets from both companies. Meanwhile, the State
+Price/price relative
+Council also approved the merger between Guodian Group and Shenhua
+Group, parentco of the two listcos, into a newly named State Energy
+Investment Corporate, which will be the new parentco of both GD Power and
+Shenhua Energy. Based on preliminary terms disclosed, the terms look fair to
+GD Power's minority shareholders and the merger of both parentcos should be
+strategically positive on the back of stronger vertical integration between coal
+and power and enhanced consolidation in the power sector.
+A fair multiple for GD Power's thermal power assets
+Based on the terms disclosed, GD Power's thermal assets (to be injected into
+the new JV) will be valued at 1.28x book value, which is in line with GD's
+trading multiples (1.3x P/B) prior to stock suspension. Moreover, if we consider
+GD Power's 25% capacity related to hydro power, which enjoys a higher PB as
+per listed peers, this multiple is slightly favorable. Our preliminary analysis
+suggests very limited earnings impact based on GD's 56% stake in this new JV
+and the combined net profit base of Rmb752mn in 1H17.
+A glimpse of the new thermal power giant
+The new JV will have a total consolidated capacity of 80.3GW, up from the
+52.5GW currently owned by GD. Based on FY16 outputs, the new JV's output
+is set to be 60% higher. The geographic span will be broadened with market
+share further enhanced in key markets such as Jiangsu, Zhejiang and Anhui.
+With the merger of parentcos, GD Power can leverage more on the vertical
+integration with coal producers and reduce earnings volatility arising from coal
+price movement. Nevertheless, the synergy may take some time to materialize
+and we still believe implementation of fuel-tariff pass-through policy and coal
+price decline are more near-term earnings drivers for thermal IPPs.
+Valuation and risks
+Our target price of HKD3.5 is based on DCF with WACC of 8.2% and zero
+terminal growth. Key upside/downside risks include: uncertainties related to
+the restructure, coal price fluctuations, and magnitude of tariff hike at year-end.
+Deutsche Bank AG/Hong Kong
+Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should
+be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should
+consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST
+CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017.
+GD Power
+Reuters: 600795.SS
+Bloomberg: 600795 CH
+Hold
+Company Profile
+GD Power Development Co., Ltd. (GD Power) is primarily
+engaged in power generation and distribution in China.
+The company also has business in new energy
+development and environmental protection projects. GD
+Power's total consolidated capacity reached 46.3GW and
+total power generation reached 169bn kWh at end-2015.
+is its parentco with a stake of 46.09%.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data, Deutsche Bank estimates
+Michael Tong, CFA
+Details of the merger plan announced
+After market close today, GD Power announced the proposal of formulating a
+JV with Shenhua by injecting thermal power assets from both companies.
+Meanwhile, the State Council also approved the merger between Guodian
+Group and Shenhua Group, parentco of the two listcos, into a newly named
+State Energy Investment Corporate, which will be the new parentco of both
+GD Power and Shenhua Energy.
+Based on the announcement, GD Power would contribute 30GW consolidated
+thermal power assets and Shenhua Energy will contribute 28GW thermal
+asserts to form a JV, after which GD Power will hold 56% of the merged JV.
+Based on the disclosure, the JV will own 58GW consolidated thermal power
+assets, with an estimated Rmb752mn net profit attributable to shareholders.
+Based on the terms disclosed, GD Power's thermal assets (to be injected into
+the new JV) will be valued at 1.28x book value, which is in line with GD's
+trading multiples (1.3x P/B) prior to stock suspension. Shenhua's assets will be
+valued at 1.16x book value. Based on 1H17 profits, GD Power's average
+annualized ROA of contributed assets is at c.1.4% and ROE at c.2.6%, while
+Shenhua's average annualized ROA (of contributed assets) is c.1.5% and ROE
+is at c.2.5%.
+Our preliminary analysis suggests very limited earnings impact based on GD's
+56% stake in this new JV and the combined net profit base of Rmb752mn in
+1H17 (see Figure 2 for details).
+Synergies expected after the restructure
+According to the announcement, the restructure will help GD Power to expand
+its thermal power market share in Jiangsu, Zhejiang and Anhui. With the
+merger of parentcos, GD Power can leverage more on the vertical integration
+with coal producers and reduce earnings volatility arising from coal price
+movement. Nevertheless, the synergy may take some time to materialize and
+we still believe implementation of fuel-tariff pass-through policy and coal price
+decline are more near-term earnings drivers for thermal IPPs.
+After the group-level merger, we estimate the State Energy Investment
+Corporate to have total power capacity of 224GW, of which 174GW is thermal,
+17GW is hydro and 32GW is wind. The company will have 17% market share
+in terms of thermal power capacity with >25% market share in six provinces
+(Tianjin, Hebei, Jilin, Jiangxi, Shaanxi, Ningxia). The company should also have
+21% market share in wind power with >25% market share in 12 provinces (see
+Figure 3 for details). The higher market concentration, in the long run, can
+accelerate supply side reform and reduce price competition.
+Source: Company data, Deutsche Bank
+Important Disclosures
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Michael Tong
+Historical recommendations and target price: GD Power (600795.SS)
+(as of 7/18/2017)
+Equity rating key
+Equity rating dispersion and banking relationships
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
+share price from current price to projected target price
+plus pro-jected dividend yield ), we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
-party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor 
-is responsible for the accuracy or security controls of these websites. 
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this 
-report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche 
-Bank may act as principal for its own account or as agent for another person. 
- 
-Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own 
-account or with customers, in a manner inconsistent with the views taken in this research report. Others within 
-Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those 
-taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, 
-equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication 
-may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or 
-otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. 
-Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment 
-banking, trading and principal trading revenues. 
- 
-Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do 
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides 
-liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts 
-sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term 
-ratings. Trade ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high 
-conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a 
-time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to 
-time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that 
-reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities 
-discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return 
-or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to 
-otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently 
-becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company 
-specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion 
-of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are 
-published at irregular intervals. This report is provided for informational purposes only and does not take into account 
-the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation 
-of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are 
-inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not 
-be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of 
-financial instruments are subject to change without notice and investment transactions can lead to losses as a result of 
-price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's 
-currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily 
-indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session, 
-and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank, 
-subject companies, and in some cases, other parties. 
- 
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding 
-our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect 
-to 
-our 
-research 
-is 
-available 
-on 
-our 
-website 
-under 
-Disclaimer 
-found 
-on 
-the 
-Legal 
-tab. 
- 
-29 August 2017 
-Utilities 
-GD Power 
-Page 10 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise 
-to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash 
-flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a 
-loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the 
-loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse 
-macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation 
-(including changes in assets holding limits for different types of investors), changes in tax policies, currency 
-convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and 
-settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed 
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to 
-FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the 
-index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended 
-to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon 
-rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is 
-also important to acknowledge that funding in a currency that differs from the currency in which coupons are 
-denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to 
-the 
-risks 
-related 
-to 
-rates 
-movements. 
- 
-Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk. 
-The appropriateness or otherwise of these products for use by investors is dependent on the investors' own 
-circumstances including their tax position, their regulatory environment and the nature of their other assets and 
-liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar 
-to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can 
-be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be 
-incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable 
-for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized 
-Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the 
-website please contact your Deutsche Bank representative for a copy of this important document. 
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i) 
-exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by 
-numerous market factors, including world and national economic, political and regulatory events, events in equity and 
-debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed 
-exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are 
-affected by the currency of an underlying security, effectively assume currency risk. 
- 
-Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the 
-investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at 
-https://gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to 
-review this information before investing.  
- 
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial 
-adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information 
-provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice, 
-Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever 
-as to any strategies, products or any other information presented in the materials. Information contained herein is being 
-provided solely on the basis that the recipient will make an independent assessment of the merits of any investment 
-decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any 
-trading strategy. 
- 
-The information presented is general in nature and is not directed to retirement accounts or any specific person or 
-account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in 
-making Your decision. The information we provide is being directed only to persons we believe to be financially 
-sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to 
-particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the 
-29 August 2017 
-Utilities 
-GD Power 
-Deutsche Bank AG/Hong Kong 
-Page 11
- 
- 
- 
-offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this 
-directly 
-from 
-us, 
-we 
-ask 
-that 
-you 
-inform 
-us 
-immediately. 
- 
-United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and 
-SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA 
-regulations.  
- 
-Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated 
-in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under 
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal 
-Financial Supervisory Authority. 
- 
-United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester 
-House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the 
-Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial 
-Conduct Authority. Details about the extent of our authorisation and regulation are available on request. 
- 
-Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited. 
- 
-India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India 
-(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received 
-administrative warnings from the SEBI for breaches of Indian regulations. 
- 
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial 
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, 
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks 
-involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by 
-multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to 
-losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional 
-losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories 
-of investment advice, products and services. Recommended investment strategies, products and services carry the risk 
-of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in 
-market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the 
-relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in 
-this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the 
-name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank 
-Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are 
-not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's 
-equity analysts are based on a 12-month forecast period. 
- 
-Korea: Distributed by Deutsche Securities Korea Co. 
- 
-South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register 
-Number 
-in 
-South 
-Africa: 
-1998/003298/10). 
- 
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles 
-Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters 
-arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who 
-is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and 
-regulations), they accept legal responsibility to such person for its contents. 
- 
-Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should 
-independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank 
-research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without 
-written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and 
-29 August 2017 
-Utilities 
-GD Power 
-Page 12 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, 
-Taipei 
-Branch 
-may 
-not 
-execute 
-transactions 
-for 
-clients 
-in 
-these 
-securities/instruments. 
- 
-Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre 
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall 
-within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, 
-West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related 
-financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre 
-Regulatory Authority. 
- 
-Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
-any appraisal or evaluation activity requiring a license in the Russian Federation. 
- 
-Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the 
-Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall 
-within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya 
-District, 
-P.O. 
-Box 
-301809, 
-Faisaliah 
-Tower 
-- 
-17th 
-Floor, 
-11372 
-Riyadh, 
-Saudi 
-Arabia. 
- 
-United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated 
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services 
-activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai 
-International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been 
-distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as 
-defined by the Dubai Financial Services Authority. 
- 
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product 
-referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please 
-refer 
-to 
-Australian 
-specific 
-research 
-disclosures 
-and 
-related 
-information 
-at 
-https://australia.db.com/australia/content/research-information.html  
- 
-Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian 
-Corporations Act and New Zealand Financial Advisors Act respectively. 
- 
-Additional information relative to securities, other financial products or issuers discussed in this report is available upon 
-request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent. 
-Copyright © 2017 Deutsche Bank AG 
-  
- 
- 
- 
- 
- 
-David Folkerts-Landau 
-Group Chief Economist and Global Head of Research 
- 
-Raj Hindocha 
-Global Chief Operating Officer 
-Research 
-Michael Spencer 
-Head of APAC Research 
-Global Head of Economics 
-Steve Pollard 
-Head of Americas Research 
-Global Head of Equity Research 
-Anthony Klarman 
-Global Head of 
-Debt Research 
-Paul Reynolds 
-Head of EMEA 
-Equity Research 
-Dave Clark 
-Head of APAC 
-Equity Research 
-Pam Finelli 
-Global Head of 
-Equity Derivatives Research 
- 
-  
-Andreas Neubauer 
-Head of Research - Germany 
-Spyros Mesomeris 
-Global Head of Quantitative 
-and QIS Research 
-  
-  
-International locations 
-Deutsche Bank AG 
-Deutsche Bank Place 
-Level 16 
-Corner of Hunter & Phillip Streets 
-Sydney, NSW 2000 
-Australia 
-Tel: (61) 2 8258 1234 
-Deutsche Bank AG 
-Mainzer Landstrasse 11-17 
-60329 Frankfurt am Main 
-Germany 
-Tel: (49) 69 910 00 
-Deutsche Bank AG 
-Filiale Hongkong 
-International Commerce Centre, 
-1 Austin Road West,Kowloon, 
-Hong Kong 
-Tel: (852) 2203 8888 
-Deutsche Securities Inc. 
-2-11-1 Nagatacho 
-Sanno Park Tower 
-Chiyoda-ku, Tokyo 100-6171 
-Japan 
-Tel: (81) 3 5156 6770 
- 
-Deutsche Bank AG London 
-1 Great Winchester Street 
-London EC2N 2EQ 
-United Kingdom 
-Tel: (44) 20 7545 8000 
-Deutsche Bank Securities Inc. 
-60 Wall Street 
-New York, NY 10005 
-United States of America 
-Tel: (1) 212 250 2500 
- 
- 
- 
-  
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank may act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on.
+Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
+banking, trading and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term
+conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a
+time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to
+time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that
+reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently
+becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company
+specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion
+of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are
+published at irregular intervals. This report is provided for informational purposes only and does not take into account
+the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation
+of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are
+inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not
+be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of
+financial instruments are subject to change without notice and investment transactions can lead to losses as a result of
+price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's
+currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily
+indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session,
+and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank,
+subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+available
+website
+under
+Disclaimer
+found
+our
+research
+our
+the
+Legal
+tab.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the
+index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended
+to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon
+rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is
+also important to acknowledge that funding in a currency that differs from the currency in which coupons are
+denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to
+risks
+related
+the
+rates
+movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own
+circumstances including their tax position, their regulatory environment and the nature of their other assets and
+liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar
+to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can
+be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be
+incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable
+for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized
+website please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+review this information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
+provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+inform
+directly
+from
+ask
+that
+immediately.
+us,
+you
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
+Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India
+(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+1998/003298/10).
+South
+Africa:
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters
+arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who
+is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and
+regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
+research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+clients
+securities/instruments.
+Branch
+not
+execute
+transactions
+for
+these
+may
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
+within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre
+Regulatory Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
+within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+Tower
+17th
+Faisaliah
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+refer
+Australian
+specific
+research
+disclosures
+information
+and
+related
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
+Head of Americas Research
+Global Head of Economics
+Research
+Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
+Equity Derivatives Research
+Andreas Neubauer
+Spyros Mesomeris
+Head of Research - Germany
+Global Head of Quantitative
+and QIS Research
+International locations
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank Place
+2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
+Japan
+Australia
+Deutsche Bank AG London
+Deutsche Bank Securities Inc.
+1 Great Winchester Street
+60 Wall Street
+London EC2N 2EQ
+United Kingdom
+United States of America

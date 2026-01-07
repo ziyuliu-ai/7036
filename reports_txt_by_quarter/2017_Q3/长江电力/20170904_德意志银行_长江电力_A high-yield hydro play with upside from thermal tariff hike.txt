@@ -1,59 +1,60 @@
-Yangtze Power
 Rating
+Date
+Company
+Yangtze Power
 Buy
-Valuation & Risks
-Utilities
-Utilities
-Price at 31 Aug 2017 (CNY)
-14.99
-Price target - 12mth (CNY)
-17.50
-52-week range (CNY)
-15.64 - 12.45
-Shanghai Composite
-3,361
 Results
 Asia
 China
-Company
-Yangtze Power
 Reuters
 Bloomberg
 Exchange
 Ticker
+Utilities
 600900.SS
 600900 CH
 SHH
-600900
-Date
-1 September 2017
-Deutsche Bank
-Markets Research
+Utilities
 A high-yield hydro play with upside
-from thermal tariﬀ hike
-Yangtze reported in-line 1H17 results with net proﬁt up 7% yoy. Yangtze will enjoy
-a higher tariﬀ for its inter-provincial power sales in 2H17 thanks to a thermal tariﬀ
-hike in July. Furthermore, it may also beneﬁt from another round of thermal tariﬀ
-hikes at year end. The company also has further room for ﬁnancial cost savings
+from thermal tariff hike
+Valuation & Risks
+Yangtze reported in-line 1H17 results with net profit up 7% yoy. Yangtze will enjoy
+Michael Tong, CFA
+Research Analyst
+a higher tariff for its inter-provincial power sales in 2H17 thanks to a thermal tariff
+hike in July. Furthermore, it may also benefit from another round of thermal tariff
+hikes at year end. The company also has further room for financial cost savings
+Hanyu Zhang
 as the mgmt aim to lower their debt/asset ratio to 30%. We maintain Buy on
+Research Analyst
 Yangtze due to its unique dividend commitment supported by highly predictable
-cash ﬂows which generate a an attractive 4.3% 2017E yield.
+cash flows which generate a an attractive 4.3% 2017E yield.
+Price/price relative
 1H17 results in line
-Yangtze's net proﬁt was up 7% yoy to Rmb8.1bn in 1H17, in line with our forecast.
-The growth is mainly driven by cost savings (SG&A -18% yoy; ﬁnancial cost -13%
-yoy) and investment gains (+82% yoy), partially oﬀset by weaker net output (-4%
+Yangtze's net profit was up 7% yoy to Rmb8.1bn in 1H17, in line with our forecast.
+The growth is mainly driven by cost savings (SG&A -18% yoy; financial cost -13%
+yoy) and investment gains (+82% yoy), partially offset by weaker net output (-4%
 yoy). Generation declined in Three gorges (-11%) and Gezhouba (-4%) due to weak
-water ﬂows and slightly increased in Xiluodu and Xiangjiaba (+4%). Free cash
-ﬂow reached Rmb10bn in 1H17.
+water flows and slightly increased in Xiluodu and Xiangjiaba (+4%). Free cash
+Shanghai Composite (Rebased)
+— Yangtze Power
+flow reached Rmb10bn in 1H17.
 Key takeaways from conference call
-Tariﬀ: Mgmt expect a higher tariﬀ in second half for their inter-provincial power
+Tariff: Mgmt expect a higher tariff in second half for their inter-provincial power
 sold by Xiluodu and Xiangjiaba to Shanghai and Guangdong thanks to the thermal
-tariﬀ hike on 1 July. There is further room for tariﬀ hikes if the fuel cost pass-
+tariff hike on 1 July. There is further room for tariff hikes if the fuel cost pass-
 through for thermal plants is executed at year end.
+ROE (%)
+Net debt/equity (%)
+Book value/share (CNY)
 Power output: Mgmt expect full-year output to reach 191-200 bn kwh. The
+Price/book (x)
 generation was impacted by a typhoon in July-Aug but has started to recover in
+Net interest cover (x)
 Sept. Market-based volume is expected to rise over the next few years.
-Capital structure and financial cost:  Mgmt plan to use cash ﬂow for debt
+Operating profit margin (%)
+Source: Deutsche Bank
+Capital structure and financial cost: Mgmt plan to use cash flow for debt
 repayment as they do not have major M&A plans currently. Mgmt expect the
 debt to asset ratio to decrease from the current 59% to 30%, after which Yangtze
 may consider M&A and raise the debt to asset ratio to 60% again. Mgmt are
@@ -62,243 +63,37 @@ comfortable with a debt ratio of 42-55% . In 1H17, the average interest rate was
 Capex: Yangtze does not have a major M&A target for now but expects to acquire
 some hydro/power retail assets related to its core business. Mgmt are also looking
 for potential targets overseas and the company has gained experience via a
-Michael Tong, CFA
-Research Analyst
-+852-2203 6167
-Hanyu Zhang
-Research Analyst
-+852-2203 6207
-Price/price relative
-Yangtze Power
-Shanghai Composite (Rebased)
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-10
-15
-5
-20
-Performance (%)
-1m
-3m 12m
-Absolute
--1.7
-1.1
-8.7
-Shanghai Composite
-2.7
-7.8
-8.9
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-15.3
-Net debt/equity (%)
-60.1
-Book value/share (CNY)
-6.00
-Price/book (x)
-2.5
-Net interest cover (x)
-4.2
-Operating proﬁt margin (%)
-55.3
-Source: Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
-this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017.
-Distributed on: 01/09/2017 10:21:07 GMT
-0bed7b6cf11c
-1 September 2017
-Utilities
-Yangtze Power
 288MW wind power acquisition in Germany. Over 2018-19, the company has
 budgeted for Rmb10bn capex each year.
 Other key takeaways: Yangtze will continue to use investment income to smooth
-the earnings volatility driven by water ﬂows ﬂuctuations.
-Forecasts and ratios
-Year End Dec 31
-2015A
-2016A
-2017E
-2018E
-2019E
-Sales (CNYm)
-24,239
-48,939
-47,505
-47,735
-48,201
-EBITDA (CNYm)
-19,588
-40,114
-38,988
-39,193
-39,583
-Reported NPAT (CNYm)
-11,520
-20,781
-19,861
-18,315
-18,767
-Reported EPS FD(CNY)
-0.698
-0.945
-0.903
-0.832
-0.853
-DB EPS FD (CNY)
-0.668
-0.934
-0.903
-0.832
-0.853
-DB EPS growth (%)
--6.9
-39.9
--3.3
--7.8
-2.5
-PER (x)
-18.7
-13.7
-16.6
-18.0
-17.6
-Price/BV (x)
-2.5
-2.2
-2.5
-2.4
-2.3
-EV/EBITDA (x)
-12.0
-9.0
-9.8
-9.5
-9.0
-DPS (net) (CNY)
-0.476
-0.713
-0.650
-0.650
-0.650
-Yield (net) (%)
-3.8
-5.6
-4.3
-4.3
-4.3
-ROE (%)
-13.0
-18.9
-15.3
-13.7
-13.6
-Source: Deutsche Bank estimates, company data
-Page 2
-Deutsche Bank AG/Hong Kong
-1 September 2017
-Utilities
-Yangtze Power
-Appendix 1
+the earnings volatility driven by water flows fluctuations.
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Yangtze Power
-600900.SS
-14.97 (CNY) 1 Sep 2017
-1, 7
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg, and other vendors. Other
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at http://gm.db.com/ger/disclosure/
-DisclosureDirectory.eqsr. Aside from within this report, important conﬂict disclosures can also be found at https://gm/db.com/equities under the "Disclosures Lookup" and "Legal"
-tabs. Investors are strongly encouraged to review this information before investing.
 Important Disclosures Required by U.S. Regulators
 Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
 See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
-1.
-Within the past year, Deutsche Bank and/or its aﬃliate(s) has managed or co-managed a public or private
-oﬀering for this company, for which it received fees.
-7.
-Deutsche Bank and/or its aﬃliate(s) has received compensation from this company for the provision of
-investment banking or ﬁnancial advisory services within the past year.
+Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private
+offering for this company, for which it received fees.
+Deutsche Bank and/or its affiliate(s) has received compensation from this company for the provision of
+investment banking or financial advisory services within the past year.
 Important Disclosures Required by Non-U.S. Regulators
 Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
 See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
-1.
-Within the past year, Deutsche Bank and/or its aﬃliate(s) has managed or co-managed a public or private
-oﬀering for this company, for which it received fees.
-7.
-Deutsche Bank and/or its aﬃliate(s) has received compensation from this company for the provision of
-investment banking or ﬁnancial advisory services within the past year.
+Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private
+offering for this company, for which it received fees.
+Deutsche Bank and/or its affiliate(s) has received compensation from this company for the provision of
+investment banking or financial advisory services within the past year.
 For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
 research, please see the most recently published company report or visit our global disclosure look-up page on our website
-at http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Michael Tong
-Deutsche Bank AG/Hong Kong
-Page 3
-1 September 2017
-Utilities
-Yangtze Power
+compensation for providing a specific recommendation or view in this report. Michael Tong
 Historical recommendations and target price. Yangtze Power (600900.SS)
-(as of 08/31/2017)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-1
-2
-3
-4
-Jan '16
-Jan '17
-May '16
-Sep '16
-May '17
-Sep '17
-0.00
-5.00
-10.00
-15.00
-20.00
-1.
-05/12/2016
-Buy, Target Price Change CNY 17,00 Michael Tong,
-CFA
-3.
-02/14/2017
-Buy, Target Price Change CNY 17,40 Michael Tong,
-CFA
-2.
-09/20/2016
-Buy, Target Price Change CNY 17,10 Michael Tong,
-CFA
-4.
-05/03/2017
-Buy, Target Price Change CNY 17,50 Michael Tong,
-CFA
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -307,35 +102,30 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Page 4
-Deutsche Bank AG/Hong Kong
-1 September 2017
 Utilities
 Yangtze Power
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of these websites.
-?
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies or otherwise.
-Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
-paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment banking, trading
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
 and principal trading revenues.
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
-ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high conviction belief
 by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
 less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
 our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
@@ -343,233 +133,195 @@ or events that may have a near-term or medium-term impact on the market price of
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
-the frequency of changes in market conditions and in both general and company speciﬁc economic prospects make it
-diﬃcult to update research at deﬁned intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
 the Research Department Management and as such the majority of reports are published at irregular intervals. This report
-is provided for informational purposes only and does not take into account the particular investment objectives, ﬁnancial
-situations, or needs of individual clients. It is not an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
 or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst’s
-judgment. The ﬁnancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions. Prices and availability of ﬁnancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
 instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
-aﬀect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
 are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
 and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
 The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
 to our research is available on our website under Disclaimer found on the Legal tab.
-??
-Deutsche Bank AG/Hong Kong
-Page 5
-1 September 2017
-Utilities
-Yangtze Power
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed rate instruments (thus receiving these cash ﬂows),
-increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus cause a loss.
-The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the higher will be the
-loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the most common adverse
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
 macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
-(including changes in assets holding limits for diﬀerent types of investors), changes in tax policies, currency convertibility
-(which may constrain currency conversion, repatriation of proﬁts and/or the liquidation of positions), and settlement issues
-related to local clearing houses are also important risk factors to be considered. The sensitivity of ﬁxed income instruments
-to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to FX depreciation, or to
-speciﬁed interest rates – these are common in emerging markets. It is important to note that the index ﬁxings may -- by
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates – these are common in emerging markets. It is important to note that the index fixings may -- by
 construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
-proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. It is also important to acknowledge
-that funding in a currency that diﬀers from the currency in which coupons are denominated carries FX risk. Naturally,
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
 options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
 The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
 including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
-investors should take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
 contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
 result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
 than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
-to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options”, at http://
-www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the website please contact
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
 your Deutsche Bank representative for a copy of this important document.
-?
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
-exchange rates can be volatile and are subject to large ﬂuctuations; ( ii) the value of currencies may be aﬀected by
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
 numerous market factors, including world and national economic, political and regulatory events, events in equity and
 debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are
-aﬀected by the currency of an underlying security, eﬀectively assume currency risk.
-?
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
-investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at https://
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
 gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
 provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
 Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
 as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
 decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
 strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Page 6
-Deutsche Bank AG/Hong Kong
-1 September 2017
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 Utilities
 Yangtze Power
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
-??
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
 Financial Supervisory Authority.
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
-??
 India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
 as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
 warnings from the SEBI for breaches of Indian regulations.
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period.
 Korea: Distributed by Deutsche Securities Korea Co.
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raﬄes
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
 Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
 from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor, expert investor or institutional investor (as deﬁned in the applicable Singapore laws and regulations),
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
 they accept legal responsibility to such person for its contents.
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
-Deutsche Bank AG/Hong Kong
-Page 7
-1 September 2017
 Utilities
 Yangtze Power
-construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
+construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited. Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
 the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
 Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
 any appraisal or evaluation activity requiring a license in the Russian Federation.
-?
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
-the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the ﬁnancial services activities that
-fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
+fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olava
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are only available to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any ﬁnancial product
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
 referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
-refer to Australian speciﬁc research disclosures and related information at https://australia.db.com/australia/content/
 research-information.html
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
 Corporations Act and New Zealand Financial Advisors Act respectively.
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2017 Deutsche Bank AG
-Page 8
-Deutsche Bank AG/Hong Kong
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
+Steve Pollard
 Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
 Michael Spencer
 Head of APAC Research
-Global Head of Economics
-Steve Pollard
+Global Chief Operating Officer
 Head of Americas Research
+Global Head of Economics
+Research
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+60329 Frankfurt am Main
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500

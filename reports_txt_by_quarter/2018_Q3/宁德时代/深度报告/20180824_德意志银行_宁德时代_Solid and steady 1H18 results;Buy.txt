@@ -1,47 +1,44 @@
-p
-CATL
+Deutsche Bank
+Research
 Rating
+Date
+Company
+CATI
 Buy
-Valuation & Risks
-Automobiles & Components
-Price at 23 Aug 2018 (CNY)
-69.10
-Price target - 12mth (CNY)
-79.00
-52-week range (CNY)
-91.77 - 36.20
-HANG SENG INDEX
-27,790
 Results
 Asia
 China
-Company
-CATL
 Reuters
 Bloomberg
 Exchange
 Ticker
+Automobiles & Components
 300750.SZ
 300750 CH
 SHZ
-300750
-Date
-24 August 2018
-Deutsche Bank
-Research
 Solid and steady 1H18 results; Buy
+Valuation & Risks
+Neil Sun
 Strong 1H18 results; maintain buy on optimistic order outlook
-CATL's 1H18 recurring net proﬁt increased by 37% YoY, the mid-point of
-its previously issued proﬁt alert. Both the battery system segment (revenue
+Research Analyst
+CATL's 1H18 recurring net profit increased by 37% YoY, the mid-point of
+its previously issued profit alert. Both the battery system segment (revenue
 +35% YoY) and material segment (revenue +124% YoY) came in ahead of our
-expectation. Blended gross proﬁt margin at 30.9% in 1H18 (vs. 2018E DBe at
+James Kan
+expectation. Blended gross profit margin at 30.9% in 1H18 (vs. 2018E DBe at
+Research Analyst
 30.2%) is also on track of our expectation of margin stabilization. We lift our
 2018E-2020E earnings by 1%/8%/6% to factor in the battery contracts signed with
 auto OEM, and revise our target price to RMB79.0 accordingly. Buy maintained.
+Sharon Ding
+Research Analyst
 Positive signs from battery system segment
++852-2203-5716
 Battery system segment revenue came in at RMB7.2b, up 35% YoY with a gross
-proﬁt margin of 32.7% in 1H18. The performance of battery segment is tracking
+profit margin of 32.7% in 1H18. The performance of battery segment is tracking
+Vincent Ha, CFA
 slightly ahead of our expectation, mainly thanks to the economies of scale and
+Research Analyst
 CATL's component cost advantage. With several procurement orders signed with
 auto OEMs, we believe the company is well positioned to more than triple its
 battery production volume from 12.9GWh in 2017 to 43.4GWh in 2020E.
@@ -53,1735 +50,60 @@ plays a critical role in CATL's cost control, as it helps the company to reduce
 certain variables regarding cathode material processing, and thus maintain high
 consistency level of its battery performance.
 Lifting target price to RMB79.0 on battery contract wins; risks
-We lift our 2018E - 2020E DBe earnings forecast by 1%/8%/6%, mainly to reﬂect
+We lift our 2018E - 2020E DBe earnings forecast by 1%/8%/6%, mainly to reflect
 a more positive revenue outlook and incremental battery contracts signed with
 overseas and domestic auto OEMs. Our valuation method is unchanged, based
 on 36x 2019E EPS against a recurring income growth at a 32% 3-year CAGR. Key
 risks: unexpected changes in EV demand and government's subsidy policy.
-Forecasts and ratios
-Year End Dec 31
-2016A
-2017A
-2018E
-2019E
-2020E
-Sales (CNYm)
-14,879.0
-19,996.9
-27,241.2
-38,192.9
-46,877.7
-Reported NPAT (CNYm)
-2,851.8
-3,878.0
-3,512.1
-4,769.6
-6,174.7
-Source: Deutsche Bank estimates, company data
-Neil Sun
-Research Analyst
-+852-2203 6136
-James Kan
-Research Analyst
-+852-2203 6146
-Sharon Ding
-Research Analyst
-+852-2203-5716
-Vincent Ha, CFA
-Research Analyst
-+852-2203 6247
-Key changes
-TP
-72.20 to 79.00 ↑
-9.4%
-Sales (FYE)
-27,003 to
-27,241
-↑
-0.9%
-Op prof margin
-(FYE)
-15.6 to 15.7 ↑
-0.1%
-Net proﬁt (FYE)
-3,477.5 to
-3,512.1
-↑
-1.0%
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-12.1
-Net debt/equity (%)
--20.0
-Book value/share (CNY)
-15.45
-Operating proﬁt margin (%)
-15.7
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+Deutsche Bank does and seeks to do business with companies covered in its res Distributed on: 24/08/2018 04:18:08 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE ’ S
-REPUBLIC OF CHINA (“THE PRC”) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
+are located in appendix 1. MCI (P) 091/04/2018. The content may not be distributed in the people ' s
+REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC), EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU
-Distributed on: 24/08/2018 04:18:08 GMT
-7T2se3r0Ot6kwoPa
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
-Figure 1: CATL's summary of income statement
-Rmb mn
-2015
-2016
-2017
-2018E
-2019E
-2020E
-1Q18
-2Q18
-1H17
-2H17
-1H18
-2H18E
-Revenue
-5,703
-       
-14,879
-     
-19,997
-       
-27,241
-         
-38,193
-         
-46,878
-      
-3,712
-       
-5,648
-       
-6,295
-       
-13,702
-     
-9,360
-       
-17,882
-     
-YoY 
-558%
-161%
-34%
-36%
-40%
-23%
-155%
-17%
-49%
-31%
-COGS
-3,539
-       
-8,486
-       
-12,836
-       
-19,016
-         
-26,987
-         
-33,164
-      
-2,510
-       
-3,956
-       
-3,959
-       
-8,877
-       
-6,467
-       
-12,549
-     
-COGS
-3,499
-       
-8,377
-       
-12,740
-       
-18,885
-         
-26,804
-         
-32,939
-      
-2,496
-       
-3,936
-       
-3,935
-       
-8,806
-       
-6,432
-       
-12,454
-     
-Surcharge tax
-40
-            
-109
-          
-96
-              
-131
-183
-225
-15
-            
-21
-            
-24
-            
-72
-            
-35
-            
-95
-            
-Gross proft
-2,164
-       
-6,393
-       
-7,161
-         
-8,225
-           
-11,206
-         
-13,714
-      
-1,201
-       
-1,691
-       
-2,336
-       
-4,825
-       
-2,893
-       
-5,333
-       
-Gross profit margin
-37.9%
-43.0%
-35.8%
-30.2%
-29.3%
-29.3%
-32.4%
-29.9%
-37.1%
-35.2%
-30.9%
-29.8%
-SG&A
-951
-          
-2,784
-       
-3,752
-         
-4,567
-           
-6,021
-           
-6,874
-        
-713
-          
-1,056
-       
-1,474
-       
-2,278
-       
-1,769
-       
-2,798
-       
-SG&A as % of Revenue
-16.7%
-18.7%
-18.8%
-16.8%
-15.8%
-14.7%
-19%
-19%
-23%
-17%
-19%
-16%
-Operating income
-1,213
-       
-3,609
-       
-3,409
-         
-3,658
-           
-5,185
-           
-6,840
-        
-488
-          
-635
-          
-862
-          
-2,547
-       
-1,124
-       
-2,535
-       
-Operating profit margin
-21.3%
-24.3%
-17.0%
-13.4%
-13.6%
-14.6%
-13.2%
-11.2%
-13.7%
-18.6%
-12.0%
-14.2%
-Other income / expense
-(3)
-             
-(128)
-        
-1,482
-         
-605
-              
-637
-              
-781
-           
-55
-            
-19
-            
-1,473
-       
-9
-              
-74
-            
-531
-          
-EBIT
-1,209
-       
-3,481
-       
-4,890
-         
-4,264
-           
-5,822
-           
-7,621
-        
-544
-          
-654
-          
-2,335
-       
-2,555
-       
-1,198
-       
-3,066
-       
-EBIT margin
-21.2%
-23.4%
-24.5%
-15.7%
-15.2%
-16.3%
-14.7%
-11.6%
-37.1%
-18.6%
-12.8%
-17.1%
-D&A
-189
-          
-779
-          
-1,355
-         
-2,160
-           
-3,071
-           
-3,560
-        
-441
-          
-540
-          
-509
-          
-846
-          
-981
-          
-1,179
-       
-EBITDA
-1,398
-       
-4,260
-       
-6,245
-         
-6,424
-           
-8,893
-           
-11,182
-      
-985
-          
-1,193
-       
-2,844
-       
-3,401
-       
-2,179
-       
-4,245
-       
-EBITDA margin
-24.5%
-28.6%
-31.2%
-23.6%
-23.3%
-23.9%
-26.5%
-21.1%
-45.2%
-24.8%
-23.3%
-23.7%
-Net finance cost
-109
-          
-80
-            
-42
-              
--127
--141
--98
-3
-              
-(26)
-          
-48
-            
-(6)
-            
-(23)
-          
-(104)
-        
-PBT
-1,100
-       
-3,400
-       
-4,848
-         
-4,391
-           
-5,963
-           
-7,719
-        
-541
-          
-680
-          
-2,287
-       
-2,561
-       
-1,221
-       
-3,170
-       
-Tax
-149
-          
-482
-          
-654
-            
-592
-804
-1,041
-72
-            
-79
-            
-312
-          
-342
-          
-151
-          
-442
-          
-Nominal effective tax rate
-13.6%
-14.2%
-13.5%
-13.5%
-13.5%
-13.5%
-13.3%
-11.6%
-13.6%
-13.4%
-12.4%
-13.9%
-PAT
-951
-          
-2,918
-       
-4,194
-         
-3,798
-           
-5,158
-           
-6,678
-        
-469
-          
-601
-          
-1,975
-       
-2,219
-       
-1,070
-       
-2,729
-       
-Minority interest
-20
-            
-67
-            
-316
-            
-286
-              
-389
-              
-503
-           
-56
-            
-103
-          
-164
-          
-152
-          
-159
-          
-127
-          
-NPAT attributable to sharholders
-931
-          
-2,852
-       
-3,878
-         
-3,512
-           
-4,770
-           
-6,175
-        
-413
-          
-498
-          
-1,811
-       
-2,067
-       
-911
-          
-2,601
-       
-YoY 
-1610%
-206%
-36%
--9%
-36%
-29%
-NM
--73%
--50%
-26%
-Net profit margin
-16.3%
-19.2%
-19.4%
-12.9%
-12.5%
-13.2%
-11.1%
-8.8%
-28.8%
-15.1%
-9.7%
-14.5%
-Disposal gain
-(1)
-             
-(152)
-        
-960
-            
-(0)
-            
-(2)
-            
-1,036
-       
-(76)
-          
-(2)
-            
-2
-              
-Non-operating government grants
-69
-            
-181
-          
-444
-            
-605
-              
-637
-              
-781
-           
-154
-          
-65
-            
-272
-          
-172
-          
-219
-          
-386
-          
-Investment income from WM products
-14
-            
-48
-            
-354
-            
--
-               
--
-               
--
-            
-16
-            
-21
-            
-219
-          
-135
-          
-37
-            
-(37)
-          
-Other non-operating income
-(14)
-           
-7
-              
-16
-              
-1
-              
-4
-              
-6
-              
-10
-            
-5
-              
-(5)
-            
-minus: income tax impact
-12
-            
-17
-            
-263
-            
-82
-                
-86
-                
-105
-           
-25
-            
-13
-            
-229
-          
-34
-            
-39
-            
-43
-            
-minus: minority interest impact
-6
-              
-2
-              
-10
-              
-1
-              
-4
-              
-4
-              
-5
-              
-6
-              
-(6)
-            
-Recurring NPAT attributable to sharholder
-880
-          
-2,786
-       
-2,376
-         
-2,988
-           
-4,219
-           
-5,499
-        
-269
-          
-428
-          
-511
-          
-1,865
-       
-697
-          
-2,291
-       
-YoY 
-NM
-217%
--15%
-26%
-41%
-30%
--296%
--38%
-37%
-23%
-Recurring Net profit margin
-15.4%
-18.7%
-11.9%
-11.0%
-11.0%
-11.7%
-7.2%
-7.6%
-8.1%
-13.6%
-7.4%
-12.8%
 Source: Company data, Deutsche Bank estimates
-Figure 2: Key summary of CATL's operational and ﬁnancial data
-Key Summary
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Effective Capacity
-GWh
-0.6
-2.6
-7.6
-17.1
-32.0
-46.0
-54.0
-Sales
-MWh
-247
-          
-2,187
-        
-6,798
-          
-11,844
-        
-19,911
-        
-31,691
-        
-43,391
-        
-ASP
-RMB/kWh
-2.89
-2.28
-2.06
-1.41
-1.16
-1.04
-0.97
-COGS
-RMB/kWh
-2.21
-1.33
-1.13
-0.91
-0.80
-0.73
-0.68
-Sales 
-RMB mn
-867
-          
-5,703
-        
-14,879
-        
-19,997
-        
-27,241
-        
-38,193
-        
-46,878
-        
-Battery sales
-RMB mn
-715
-          
-4,981
-        
-13,976
-        
-16,657
-        
-23,101
-        
-32,660
-        
-40,201
-        
-Gross profit
-RMB mn
-223
-          
-2,164
-        
-6,393
-          
-7,161
-          
-8,225
-          
-11,206
-        
-13,714
-        
-NPAT
-RMB mn
-54
-            
-931
-           
-2,852
-          
-3,878
-          
-3,512
-          
-4,770
-          
-6,175
-          
-GP Margin
-%
-25.7%
-37.9%
-43.0%
-35.8%
-30.2%
-29.3%
-29.3%
-NP Marign
-%
-6.3%
-16.3%
-19.2%
-19.4%
-12.9%
-12.5%
-13.2%
 Source: Company data, Deutsche Bank estimates
-Page 2
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
 Figure 3: Forecast changes for CATL
-RMBm
-2018E
-2019E
-2020E
-New
-Old
-Change%
-New
-Old
-Change%
-New
-Old
-Change%
-Revenue
-27,241
-            
-27,003
-            
-1%
-38,193
-            
-35,516
-            
-8%
-46,878
-            
-44,803
-            
-5%
-Gross profit
-8,225
-              
-8,147
-              
-1%
-11,206
-            
-10,363
-            
-8%
-13,714
-            
-13,015
-            
-5%
-Operating income
-3,658
-              
-3,621
-              
-1%
-5,185
-              
-4,764
-              
-9%
-6,840
-              
-6,445
-              
-6%
-Net profit
-3,512
-              
-3,478
-              
-1%
-4,770
-              
-4,397
-              
-8%
-6,175
-              
-5,833
-              
-6%
 Source: Deutsche Bank estimates
 Figure 4: Deutsche Bank estimates vs. consensus for CATL
-RMBm
-2018E
-2019E
-2020E
-DB estimates
-Consensus
-DBe/Cons.
-DB estimates
-Consensus
-DBe/Cons.
-DB estimates
-Consensus
-DBe/Cons.
-Revenue
-27,241
-            
-25,758
-            
-106%
-38,193
-            
-34,993
-            
-109%
-46,878
-            
-45,561
-            
-103%
-Gross profit
-8,225
-              
-8,086
-              
-102%
-11,206
-            
-10,447
-            
-107%
-13,714
-            
-13,172
-            
-104%
-Operating income
-3,658
-              
-3,843
-              
-95%
-5,185
-              
-5,064
-              
-102%
-6,840
-              
-6,700
-              
-102%
-NP
-3,512
-              
-3,140
-              
-112%
-4,770
-              
-4,060
-              
-117%
-6,175
-              
-5,357
-              
-115%
 Source: Deutsche Bank estimates, Bloomberg Finance LP
-Deutsche Bank AG/Hong Kong
-Page 3
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
-Model updated: 24 August 2018
-Running the numbers
-Asia
-China
-Automobiles & Components
 CATL
-Reuters: 300750.SZ
-Bloomberg: 300750 CH
-Buy
-Price (23 Aug 18)
-CNY 69.10
-Target Price
-CNY 79.00
-52 Week range
-CNY 36.20 - 91.77
-Market cap (m)
-CNYm 150,115
- USDm 21,854
+Reuters: 300750.SZ
+Bloomberg: 300750 CH
 Company Profile
 CATL operates as a battery products manufacturing company.
 The Company produces and sells power battery materials,
 energy storage battery materials, energy storage battery cells,
 battery systems, and other products. CATL also provides
 batteries recycling services.
-Price Performance
-CATL
-HANG SENG INDEX (Rebased)
-11. Jun
-25. Jun
-9. Jul
-23. Jul
-6. Aug
-20. Aug
-20
-40
-60
-80
-100
-Margin Trends
-EBITDA Margin
-EBIT Margin
-15
-16
-17
-18E
-19E
-20E
-10
-15
-20
-25
-30
-35
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-15
-16
-17
-18E
-19E
-20E
-0
-200
-400
-600
-0
-50
-100
-150
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-15
-16
-17
-18E
-19E
-20E
--50
-0
-50
-100
-150
-0
-50
-100
-150
-200
 Neil Sun
-+852 2203 6136
-neil.sun@db.com
-Fiscal year end 31-Dec
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Financial Summary
-DB EPS (CNY)
-1.98
-4.65
-1.98
-1.62
-2.20
-2.84
-Reported EPS (CNY)
-1.98
-4.65
-1.98
-1.62
-2.20
-2.84
-DPS (CNY)
-0.15
-0.09
-0.04
-0.00
-0.00
-0.00
-BVPS (CNY)
-2.7
-25.3
-12.6
-15.5
-17.6
-20.5
-Weighted average shares (m)
-471
-613
-1,955
-2,172
-2,172
-2,172
-Average market cap (CNYm)
-na
-na
-na
-150,115
-150,115
-150,115
-Enterprise value (CNYm)
-na
-na
-na
-145,048
-148,088
-145,969
-Valuation Metrics
-P/E (DB) (x)
-na
-na
-na
-42.7
-31.5
-24.3
-P/E (Reported) (x)
-na
-na
-na
-42.7
-31.5
-24.3
-P/BV (x)
-0.00
-0.00
-0.00
-4.47
-3.92
-3.37
-FCF Yield (%)
-na
-na
-na
-nm
-nm
-1.7
-Dividend Yield (%)
-na
-na
-na
-0.0
-0.0
-0.0
-EV/Sales (x)
-nm
-nm
-nm
-5.3
-3.9
-3.1
-EV/EBITDA (x)
-nm
-nm
-nm
-22.6
-16.7
-13.1
-EV/EBIT (x)
-nm
-nm
-nm
-34.0
-25.4
-19.2
-Income Statement (CNYm)
-Sales revenue
-5,703
-14,879
-19,997
-27,241
-38,193
-46,878
-Gross profit
-2,164
-6,393
-7,161
-8,225
-11,206
-13,714
-EBITDA
-1,398
-4,260
-6,245
-6,424
-8,893
-11,182
-Depreciation
-189
-779
-1,355
-2,160
-3,071
-3,560
-Amortisation
-0
-0
-0
-0
-0
-0
-EBIT
-1,209
-3,481
-4,890
-4,264
-5,822
-7,621
-Net interest income(expense)
--109
--80
--42
-127
-141
-98
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Profit before tax
-1,100
-3,400
-4,848
-4,391
-5,963
-7,719
-Income tax expense
-149
-482
-654
-592
-804
-1,041
-Minorities
-20
-67
-316
-286
-389
-503
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-931
-2,852
-3,878
-3,512
-4,770
-6,175
-DB adjustments (including dilution)
-0
-0
-0
-0
-0
-0
-DB Net profit
-931
-2,852
-3,878
-3,512
-4,770
-6,175
-Cash Flow (CNYm)
-Cash flow from operations
-665
-2,109
-2,341
-3,294
-4,521
-7,092
-Net Capex
--1,554
--2,801
--7,180
--8,180
--7,172
--4,470
-Free cash flow
--889
--692
--4,840
--4,886
--2,651
-2,622
-Equity raised/(bought back)
-0
-0
-0
-5,352
-0
-0
-Dividends paid
--69
--54
--82
-0
-0
-0
-Net inc/(dec) in borrowings
-202
-993
-3,055
-1,200
-1,100
-1,100
-Other investing/financing cash flows
-1,219
-402
-5,490
-0
-0
-0
-Net cash flow
-462
-650
-3,624
-1,666
--1,551
-3,722
-Change in working capital
--537
--2,051
--2,203
--2,738
--3,820
--3,235
-Balance Sheet (CNYm)
-Cash and other liquid assets
-1,293
-2,457
-14,081
-15,747
-14,196
-17,917
-Tangible fixed assets
-2,419
-5,513
-11,719
-17,225
-21,091
-21,790
-Goodwill/intangible assets
-603
-722
-1,509
-2,023
-2,258
-2,469
-Associates/investments
-0
-0
-0
-0
-0
-0
-Other assets
-4,358
-19,897
-22,354
-28,516
-37,466
-44,526
-Total assets
-8,673
-28,588
-49,663
-63,511
-75,012
-86,702
-Interest bearing debt
-3,398
-3,650
-7,423
-8,623
-9,723
-10,823
-Other liabilities
-3,777
-9,147
-15,768
-19,266
-24,508
-28,421
-Total liabilities
-7,175
-12,797
-23,192
-27,889
-34,231
-39,244
-Shareholders' equity
-1,254
-15,489
-24,701
-33,566
-38,335
-44,510
-Minorities
-245
-302
-1,770
-2,056
-2,445
-2,948
-Total shareholders' equity
-1,498
-15,791
-26,471
-35,622
-40,780
-47,458
-Net debt
-2,105
-1,193
--6,658
--7,124
--4,472
--7,094
-Key Company Metrics
-Sales growth (%)
-557.9
-160.9
-34.4
-36.2
-40.2
-22.7
-DB EPS growth (%)
-626.7
-135.1
--57.3
--18.5
-35.8
-29.5
-EBITDA Margin (%)
-24.5
-28.6
-31.2
-23.6
-23.3
-23.9
-EBIT Margin (%)
-21.2
-23.4
-24.5
-15.7
-15.2
-16.3
-Payout ratio (%)
-7.5
-1.9
-2.1
-0.0
-0.0
-0.0
-ROE (%)
-123.2
-34.1
-19.3
-12.1
-13.3
-14.9
-Capex/sales (%)
-27.2
-18.8
-35.9
-30.0
-18.8
-9.5
-Capex/depreciation (x)
-8.2
-3.6
-5.3
-3.8
-2.3
-1.3
-Net debt/equity (%)
-140.5
-7.6
--25.2
--20.0
--11.0
--14.9
-Net interest cover (x)
-11.1
-43.3
-116.0
-nm
-nm
-nm
 Source: Company data, Deutsche Bank estimates
-Page 4
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
-Automobiles & Components
-CATL
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-CATL
-300750.SZ
-69.10 (CNY) 23 Aug 2018
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors .
-Other information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than
-the primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at https://research.db.com/
-Research/Disclosures/CompanySearch. Aside from within this report, important risk and conﬂict disclosures can also be found at https://research.db.com/Research/Topics/Equities?
-topicId=RB0002. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Neil Sun
+compensation for providing a specific recommendation or view in this report. Neil Sun
 Historical recommendations and target price. CATL (300750.SZ)
-(as of 08/23/2018)
 Current Recommendations
 Buy
 Hold
 Sell
 Not Rated
-Suspended Rating
-** Analyst is no longer at
 Deutsche Bank
-Date
-Security price
-1
-11. Jun
-25. Jun
-9. Jul
-23. Jul
-6. Aug
-20. Aug
-0.00
-25.00
-50.00
-75.00
-100.00
-125.00
-1.
 06/12/2018
 Buy, Target Price Change CNY 72.20 Neil Sun
-Deutsche Bank AG/Hong Kong
-Page 5
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
-Automobiles & Components
-CATL
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -1790,309 +112,244 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Page 6
-Deutsche Bank AG/Hong Kong
 Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of those websites.
-??
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
-??
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies, perspectives
-or otherwise. Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes
-on. Analysts are paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives
+or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes
+on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
 banking, trading and principal trading revenues.
-??
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Some trade
-ideas for equities are listed as Catalyst Calls on the Research Website ( https://research.db.com/Research/ ) , and can be
-found on the general coverage list and also on the covered company ’ s page. A Catalyst Call represents a high-conviction
-belief by an analyst that a stock will outperform or underperform the market and/or a speciﬁed sector over a time frame of
+found on the general coverage list and also on the covered company ’s page. A Catalyst Call represents a high-conviction
+belief by an analyst that a stock will outperform or underperform the market and/or a specified sector over a time frame of
 no less than two weeks and no more than three months. In addition to Catalyst Calls, analysts may occasionally discuss
 with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or
 events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the frequency of changes in
-market conditions and in both general and company-speciﬁc economic prospects make it diﬃcult to update research at
-deﬁned intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
+market conditions and in both general and company-specific economic prospects make it difficult to update research at
+defined intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
 and the majority of reports are published at irregular intervals. This report is provided for informational purposes only and
-does not take into account the particular investment objectives, ﬁnancial situations, or needs of individual clients. It is not
-an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments or to participate in any particular trading strategy.
-Target prices are inherently imprecise and a product of the analyst ’ s judgment. The ﬁnancial instruments discussed
+does not take into account the particular investment objectives, financial situations, or needs of individual clients. It is not
+an offer or a solicitation of an offer to buy or sell any financial instruments or to participate in any particular trading strategy.
+Target prices are inherently imprecise and a product of the analyst ’s judgment. The financial instruments discussed
 in this report may not be suitable for all investors, and investors must make their own informed investment decisions.
-Prices and availability of ﬁnancial instruments are subject to change without notice, and investment transactions can lead
-to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial instrument is denominated in a currency other
-than an investor's currency, a change in exchange rates may adversely aﬀect the investment. Past performance is not
+Prices and availability of financial instruments are subject to change without notice, and investment transactions can lead
+to losses as a result of price fluctuations and other factors. If a financial instrument is denominated in a currency other
+than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not
 necessarily indicative of future results. Performance calculations exclude transaction costs, unless otherwise indicated.
 Unless otherwise indicated, prices are current as of the end of the previous trading session and are sourced from local
 exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from Deutsche Bank, subject companies, and
 other parties.
-??
 The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
-organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect to
-our research are available on our website ( https://research.db.com/Research/ ) under Disclaimer.
-??
-Deutsche Bank AG/Hong Kong
-Page 7
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
 Automobiles & Components
 CATL
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed-rate instruments (thus receiving these cash
-ﬂows), increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus
-cause a loss. The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the
-higher will be the loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus
+cause a loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the
+higher will be the loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the
 most common adverse macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client
-segmentation, regulation (including changes in assets holding limits for diﬀerent types of investors), changes in tax
-policies, currency convertibility (which may constrain currency conversion, repatriation of proﬁts and/or liquidation of
-positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of ﬁxed-
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to
-FX depreciation, or to speciﬁed interest rates – these are common in emerging markets. The index ﬁxings may – by
+segmentation, regulation (including changes in assets holding limits for different types of investors), changes in tax
+policies, currency convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of
+positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by
 construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
-the proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed
-to a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. Funding in a currency that diﬀers
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed
+to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency that differs
 from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks typical to
 options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
 appropriateness of these products for use by investors depends on the investors' own circumstances, including their
 tax position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should
-take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the contents of this
+take expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
 publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
 high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
 amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not
 suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp . If you are unable to
 access the website, please contact your Deutsche Bank representative for a copy of this important document.
-??
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
-exchange rates can be volatile and are subject to large ﬂuctuations; (ii) the value of currencies may be aﬀected by numerous
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous
 market factors, including world and national economic, political and regulatory events, events in equity and debt markets
 and changes in interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls,
-which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are aﬀected by the
-currency of an underlying security, eﬀectively assume currency risk.
-?
+which could affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the
+currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in
-the investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at
-https://research.db.com/Research/ on each company ’ s research page. Investors are strongly encouraged to review this
+the investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you or any of your agents (collectively, “You” or “Your”) with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you or any of your agents (collectively, "You" or "Your") with respect to any information
 provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, Deutsche Bank is not
 acting as your impartial adviser, and does not express any opinion or recommendation whatsoever as to any strategies,
 products or any other information presented in the materials. Information contained herein is being provided solely on the
 basis that the recipient will make an independent assessment of the merits of any investment decision, and it does not
 constitute a recommendation of, or express an opinion on, any product or service or any trading strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Page 8
-Deutsche Bank AG/Hong Kong
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
 In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to
-Catalyst Calls (“CC”) from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
-been made consistent with the categories used by Analysts globally; and the eﬀective time period for CCs has been
+Catalyst Calls ("CC") from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
+been made consistent with the categories used by Analysts globally; and the effective time period for CCs has been
 reduced from a maximum of 180 days to 90 days.
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
-??
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
 Financial Supervisory Authority.
-??
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571
 shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional Information"
 section shall apply to the fullest extent permissible by local laws and regulations, including without limitation the Code of
 Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
-??
 India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
-oﬃce at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 7180
 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
 nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
 Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
 no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
 administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL
-is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its aﬃliate(s)
+is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s)
 may have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
-“Shareholdings” section in the Annual Report at: https://www.db.com/ir/en/annual-reports.htm .
-??
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period..
-??
-Deutsche Bank AG/Hong Kong
-Page 9
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
 Korea: Distributed by Deutsche Securities Korea Co.
-??
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
 Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
-Branch (One Raﬄes Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
 of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as deﬁned in the
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the
 applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
-??
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within
 the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available only to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
-??
 Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
 appraisal or evaluation activity requiring a license in the Russian Federation.
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the ﬁnancial services activities that fall
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
 within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are available only to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the
-Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-speciﬁc
-research disclosures and related information at https://australia.db.com/australia/content/research-information.html
-Where research refers to any particular ﬁnancial product recipients of the research should consider any product disclosure
+Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific
+Where research refers to any particular financial product recipients of the research should consider any product disclosure
 statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
 the product. In preparing this report, the primary analyst or an individual who assisted in the preparation of this report
-has likely been in contact with the company that is the subject of this research for conﬁrmation/clariﬁcation of data,
+has likely been in contact with the company that is the subject of this research for confirmation/clarification of data,
 facts, statements, permission to use company-sourced material in the report, and/or site-visit attendance. Without prior
 approval from Research Management, analysts may not accept from current or potential Banking clients the costs of
 travel, accommodations, or other expenses incurred by analysts attending site visits, conferences, social events, and the
 like. Similarly, without prior approval from Research Management and Anti-Bribery and Corruption (“ABC”) team, analysts
 may not accept perks or other items of value for their personal use from issuers they cover.
-??
-Page 10
-Deutsche Bank AG/Hong Kong
 Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
-24 August 2018
 Automobiles & Components
 CATL
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2018 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 11
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
 Pam Finelli
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Global Head of Economics
 Global Head of Equity Research
-Anthony Klarman
-Global Head of
-Debt Research
-Kinner Lakhani
-Head of EMEA
-Equity Research
+Research
 Dave Clark
+Anthony Klarman
+Kinner Lakhani
+Global Head of
+Head of EMEA
 Head of APAC
+Debt Research
+Equity Research
 Equity Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International Production Locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
 2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
 1 Great Winchester Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
-United States of America
-Tel: (1) 212 250 2500
-Provided for the exclusive use of Research Research at Provisional Access on 2018-08-24T05:03+00:00. DO NOT REDISTRIBUTE

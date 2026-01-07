@@ -1,584 +1,99 @@
-证券研究报告·公司点评报告·软件开发 
- 
-东吴证券研究所 
- 
- 1 / 3 
-请务必阅读正文之后的免责声明部分 
-同花顺（300033） 
-2023 年一季报点评：业绩稳健增长，关注AI
-应用持续落地 
- 
-2023 年04 月25 日 
-  
-证券分析师  张良卫
-执业证书：S0600516070001
-021-60199793
-zhanglw@dwzq.com.cn
-证券分析师  胡翔
-执业证书：S0600516110001
-021-60199793
-hux@dwzq.com.cn
-研究助理  晋晨曦
-执业证书：S0600122090072
-jincx@dwzq.com.cn
- 
-  
-股价走势 
- 
- 
-市场数据 
- 
-收盘价(元) 
-185.00
-一年最低/最高价 
-70.13/239.22
-市净率(倍) 
-16.53
-流通A 股市值(百
-万元) 
-50,236.04
-总市值(百万元) 
-99,456.00
- 
- 
-基础数据 
- 
-每股净资产(元,LF) 
-11.19
-资产负债率(%,LF) 
-25.42
-总股本(百万股) 
-537.60
-流通A 股(百万股) 
-271.55
- 
- 
-相关研究 
- 
-《同花顺(300033)：2022 年报点
-评：业绩符合预期，AI 技术应用
-打开业绩增长空间》 
-2023-02-28
-《同花顺(300033)：金融信息服
-务龙头，AI 技术赋能及应用落地
-有望打开远期空间》 
-2023-02-06
- 
-买入（维持） 
-盈利预测与估值 
-2022A 
-2023E 
-2024E 
-2025E 
-营业总收入（百万元） 
-3,559 
-4,578 
-5,352 
-6,075 
-同比 
-1% 
-29% 
-17% 
-13% 
-归属母公司净利润（百万元） 
-1,691 
-2,178 
-2,533 
-2,897 
-同比 
--12% 
-29% 
-16% 
-14% 
-每股收益-最新股本摊薄（元/股） 
-3.15 
-4.05 
-4.71 
-5.39 
-P/E（现价&最新股本摊薄） 
-58.81 
-45.66 
-39.27 
-34.34 
-关键词：#业绩符合预期 #新产品、新技术、新客户 
-投资要点 
-◼ 事件：2023Q1 公司实现营业收入6.1 亿元，同比增长18.42%；实现归
-母净利润1.22 亿元，同比增长9.26%；实现扣非归母净利润1.15 亿元，
-同比增长7.06%；销售商品、提供劳务收到的现金7.45 亿元，同比提升
-14.8%，公司23Q1 业绩符合我们预期。 
-◼ 证券市场Q1 略显疲软，公司业绩实现逆势增长。2023Q1 证券市场延
-续2022 年趋势，根据WIND 统计，2023Q1 全部A 股成交额同比下降
-11.2%。尽管市场略显疲软，公司营收及销售收款仍实现同比增长，主
-因公司不断利用 AI 等最新技术优化产品，深度挖掘用户需求，投资者
-对金融信息服务需求增加。此外，2023Q1，公司合同负债达10.72 亿元，
-环比增长9%。 
-◼ 规模扩张加大成本费用，致净利率同比下降。2023Q1，公司归母净利率
-达20.04%，同比下降1.68pct，主因公司规模扩张致成本费用提升：1）
-由于采购的信息数据费用、技术服务人员薪酬等增加，23Q1，公司毛利
-率达82.4%，同比下降1.58pct；2）公司规模扩大，总部大楼等固定资
-产折旧、员工薪酬等增加，23Q1 公司管理费用率为9.24%，同比提升
-1.08pct；3）公司加大精准营销推广力度及相应投入，23Q1 公司销售费
-用率为14.44%，同比提升0.53pct。 
-◼ 加大研发投入，关注AI 应用落地。公司持续加大研发投入，进一步加
-大对机器学习、自然语言处理等关键技术攻关，特别是在AI 大模型、
-AIGC 等领域的应用研究。23Q1，公司研发费用达2.81 亿元，同比提升
-7.47%。公司前瞻布局AI，具备海量金融垂类数据基础，有望在多个领
-域打造新的盈利增长引擎： 1）基于多年经验及流量规模积累，已具备
-海量金融垂类数据基础。2）公司自2009 年起即已布局AI 领域，目前
-已有i 问财、智能语音、智能机器人等产品及服务。3）公司基于自主智
-能语音技术的产品已应用于多家证券公司、基金公司及电信运营商；同
-花顺虚拟数字人对话平台已落地多个大型客户。 
-◼ 盈利预测与投资评级：考虑到公司的互联网金融信息服务龙头地位及竞
-争力；AI 技术赋能增值服务，应用拓展至多场景，有望打开业绩增长空
-间。我们维持此前盈利预测，预计23-25 年归母净利润为22/25/29 亿元，
-同比变动29%/16%/14%，对应当前股价PE 分别为46/39/34 倍，维持
-“买入”评级。 
-◼ 风险提示：行业竞争风险，AI 技术及应用发展不及预期 
--15%
-5%
-25%
-45%
-65%
-85%
-105%
-125%
-145%
-165%
-2022/4/25
-2022/8/24
-2022/12/23
-2023/4/23
-同花顺
-沪深300
- 
-请务必阅读正文之后的免责声明部分 
-东吴证券研究所 
-公司点评报告 
- 
- 2 / 3 
- 
-同花顺三大财务预测表 
- 
-资产负债表（百万元） 
-2022A 
-2023E 
-2024E 
-2025E  利润表（百万元） 
-2022A 
-2023E 
-2024E 
-2025E 
-流动资产 
-7,616 
-9,714 
-12,282 
-15,079  营业总收入 
-3,559 
-4,578 
-5,352 
-6,075 
-货币资金及交易性金融资产 
-7,538 
-9,599 
-12,169 
-14,938  
-营业成本(含金融类) 
-370 
-395 
-451 
-516 
-经营性应收款项 
-39 
-67 
-57 
-82  
-税金及附加 
-47 
-64 
-75 
-85 
-存货 
-0 
-0 
-0 
-0  
-销售费用 
-368 
-458 
-535 
-607 
-合同资产 
-0 
-0 
-0 
-0  
-管理费用 
-161 
-220 
-230 
-261 
-其他流动资产 
-39 
-48 
-56 
-59  
-研发费用 
-1,067 
-1,373 
-1,659 
-1,883 
-非流动资产 
-1,412 
-1,620 
-1,813 
-2,008  
-财务费用 
--184 
--163 
--213 
--270 
-长期股权投资 
-2 
-3 
-3 
-4  
-加:其他收益 
-110 
-101 
-114 
-129 
-固定资产及使用权资产 
-703 
-763 
-849 
-967  
-投资净收益 
-0 
-0 
-1 
-1 
-在建工程 
-346 
-403 
-486 
-526  
-公允价值变动 
-0 
-0 
-0 
-0 
-无形资产 
-347 
-437 
-462 
-498  
-减值损失 
-0 
-0 
-0 
-0 
-商誉 
-4 
-4 
-4 
-4  
-资产处置收益 
-0 
-0 
-0 
-0 
-长期待摊费用 
-0 
-0 
-0 
-0  营业利润 
-1,841 
-2,333 
-2,729 
-3,121 
-其他非流动资产 
-9 
-9 
-9 
-9  
-营业外净收支  
-1 
-0 
-0 
-0 
-资产总计 
-9,028 
-11,334 
-14,095 
-17,087  利润总额 
-1,842 
-2,333 
-2,729 
-3,121 
-流动负债 
-1,682 
-1,838 
-2,066 
-2,161  
-减:所得税 
-151 
-155 
-197 
-225 
-短期借款及一年内到期的非流动负债 
-1 
-1 
-1 
-1  净利润 
-1,691 
-2,178 
-2,533 
-2,897 
-经营性应付款项 
-110 
-58 
-144 
-95  
-减:少数股东损益 
-0 
-0 
-0 
-0 
-合同负债 
-982 
-1,094 
-1,132 
-1,174  归属母公司净利润 
-1,691 
-2,178 
-2,533 
-2,897 
-其他流动负债 
-589 
-684 
-789 
-892   
- 
- 
- 
- 
-非流动负债 
-101 
-65 
-65 
-65  每股收益-最新股本摊薄(元) 
-3.15 
-4.05 
-4.71 
-5.39 
-长期借款 
-0 
-0 
-0 
-0   
- 
- 
- 
- 
-应付债券 
-0 
-0 
-0 
-0  EBIT 
-1,657 
-2,169 
-2,516 
-2,851 
-租赁负债 
-1 
-1 
-1 
-1  EBITDA 
-1,711 
-2,233 
-2,592 
-2,943 
-其他非流动负债 
-100 
-64 
-64 
-64   
- 
- 
- 
- 
-负债合计 
-1,782 
-1,903 
-2,131 
-2,226  毛利率(%) 
-89.61 
-91.37 
-91.57 
-91.50 
-归属母公司股东权益 
-7,245 
-9,431 
-11,964 
-14,860  归母净利率(%) 
-47.52 
-47.57 
-47.32 
-47.68 
-少数股东权益 
-0 
-0 
-0 
-0   
- 
- 
- 
- 
-所有者权益合计 
-7,245 
-9,431 
-11,964 
-14,860  收入增长率(%) 
-1.40 
-28.63 
-16.92 
-13.49 
-负债和股东权益 
-9,028 
-11,334 
-14,095 
-17,087  归母净利润增长率(%) 
--11.51 
-28.78 
-16.30 
-14.36 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
-现金流量表（百万元） 
-2022A 
-2023E 
-2024E 
-2025E  重要财务与估值指标 
-2022A 
-2023E 
-2024E 
-2025E 
-经营活动现金流 
-1,750 
-2,360 
-2,839 
-3,055  每股净资产(元) 
-13.48 
-17.54 
-22.25 
-27.64 
-投资活动现金流 
--290 
--272 
--269 
--286  最新发行在外股份（百万股） 
-538 
-538 
-538 
-538 
-筹资活动现金流 
--969 
--28 
-0 
-0  ROIC(%) 
-22.17 
-24.28 
-21.82 
-19.72 
-现金净增加额 
-544 
-2,060 
-2,570 
-2,769  ROE-摊薄(%) 
-23.34 
-23.09 
-21.17 
-19.49 
-折旧和摊销 
-54 
-64 
-76 
-92  资产负债率(%) 
-19.74 
-16.79 
-15.12 
-13.03 
-资本开支 
--282 
--271 
--269 
--286  P/E（现价&最新股本摊薄） 
-58.81 
-45.66 
-39.27 
-34.34 
-营运资本变动 
-12 
-118 
-231 
-67  P/B（现价） 
-13.73 
-10.55 
-8.31 
-6.69 
-数据来源:Wind,东吴证券研究所，全文如无特殊注明，相关数据的货币单位均为人民币，预测均为东吴证券研究所预测。 
- 
- 
-免责及评级说明部分 
- 
- 
-免责声明 
-东吴证券股份有限公司经中国证券监督管理委员会批准，已具备证券投资咨
-询业务资格。 
-本研究报告仅供东吴证券股份有限公司（以下简称“本公司”）的客户使用。
-本公司不会因接收人收到本报告而视其为客户。在任何情况下，本报告中的信息
-或所表述的意见并不构成对任何人的投资建议，本公司不对任何人因使用本报告
-中的内容所导致的损失负任何责任。在法律许可的情况下，东吴证券及其所属关
-联机构可能会持有报告中提到的公司所发行的证券并进行交易，还可能为这些公
-司提供投资银行服务或其他服务。 
-市场有风险，投资需谨慎。本报告是基于本公司分析师认为可靠且已公开的
-信息，本公司力求但不保证这些信息的准确性和完整性，也不保证文中观点或陈
-述不会发生任何变更，在不同时期，本公司可发出与本报告所载资料、意见及推
-测不一致的报告。 
-本报告的版权归本公司所有，未经书面许可，任何机构和个人不得以任何形
-式翻版、复制和发布。如引用、刊发、转载，需征得东吴证券研究所同意，并注
-明出处为东吴证券研究所，且不得对本报告进行有悖原意的引用、删节和修改。 
- 
-东吴证券投资评级标准： 
-公司投资评级： 
-买入：预期未来6 个月个股涨跌幅相对大盘在15%以上； 
-增持：预期未来6 个月个股涨跌幅相对大盘介于5%与15%之间； 
-中性：预期未来 6 个月个股涨跌幅相对大盘介于-5%与5%之间； 
-减持：预期未来 6 个月个股涨跌幅相对大盘介于-15%与-5%之间； 
-卖出：预期未来 6 个月个股涨跌幅相对大盘在-15%以下。 
-行业投资评级： 
-增持： 预期未来6 个月内，行业指数相对强于大盘5%以上； 
-中性： 预期未来6 个月内，行业指数相对大盘-5%与5%； 
-减持： 预期未来6 个月内，行业指数相对弱于大盘5%以上。 
- 
-东吴证券研究所 
-苏州工业园区星阳街5 号 
-邮政编码：215021 
-传真：（0512）62938527 
-公司网址： http://www.dwzq.com.cn 
+第一次 (
+第一次記載記載記載記載記載記載記載記載記載記載記載記載記載
+· "le "le "le "le "le "le "le "le "le "le
+i.l.
+- 『でにでにルプト
+në.Papi⊓
+e”⊩a”h.Piri⊪a”hilina jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirika jirik
+”——8——————————————————————————————————
+『・『・『・『に『に『に『に『に『にりにりにりにりに
+。Pin - in - in - in - in - in - in - in -
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+『上電子』『正記』『正記』『正記』『正記』『正記』『正記』『正記』『正記
+- "En "En "En "En "En "En "En "En "En "En
+ā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neī
+· "En "le "le "le "le "le "le "le "le "le "le
+”Pa
+”Pin Pin Pin Pin Pin Pin Pin Pin Pin Pin
+”————————————————————————————————————
+事事で表現。『heipela nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a nike a n
+”『a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·』he a·『he a·『he a·』he a·『he a·』he a·『he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·
+事。Pinenie nine
+『『中では『記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事である。『記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記
+| 事業 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電
+· 『heishada li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li nei1. a li ne
+" a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a. Pierie ne line a.
+” 『Pina Pina Pina Pina Pina Pina Pina Pina
+illa que que l'illa que que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa que l'illa
+『語で記載をでいまでいまでいまでいまでいまでいまでいまでいまでいまでいま
+『in-le-ne-le-le-le-le-le-le-le-le-le-le-le-le-le
+- 『hara a la la la la la la la la la la la la
+”『护士句····································
+『headallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallanghallan
+『上電子』『正で記録では『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。『正で記録である。
+目・電子電子・記事で記事で記事である。に記事である。に記事である。に記事である。に記事である。ににににににににににににににににににに
+事事情報『記事句』『inelana lana lana lana lana lana lana lan
+『heire』『inela nile』『inela nile』『inela nile』
+『上電子記録の記憶報告記憶報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報
+· "E" a Tin B
+”『ine a line”『ine”
+■ ninapinapinapinapinapinapinapinapinapina
+。『『上で『上で『上で『上で『上で『上で『上で『
+” = The arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ari
+1.en-in-a-nu-nu-nu-nu-nu-nu-nu-nu-nu-nu-nu-nu-nu-
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+- 『上電子』- 『上電子』- 『上電子』
+” “Page” a”ir“ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a”ir” a
+eire Paire1. nirea − irea – irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − irea − ire
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上『上『上『上に上に上に上に上に上に上
+音響・19 a The Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin Parine Rafin
+a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The River a The
+· 『中語·中華·自小正》『中語·自小正》『中語·自小正》
+”Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a Tile a T
+『helperale.le”。『inapapapapapapapapapapapapapapapapapapap
+”上帝。『ina la la la la la la la la la la la la la
+電車のin le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile le nile ni
+”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin”——Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidin Rapidi
+- Time all nin line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n line n l
+” = "English" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill" = "Fill"
+- 『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+”『ine a”『ine a”
+『上電子』『中では『中では『中では『中では『中では『中では『中では『中では
+a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a”pe?a. − a
+a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ir
+・電子電子に記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記
+章 Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+等等。1. Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan
+事事。『上事句』『中間』『中間』『中間』『中間』『中間』『中間』『中間』『中間
+『『『上『上『上『上『上『上『上『上『上
+『『『記事では『上間『上間『上間『上間『上間『上間『上間『上
+a.irPapin a.irPapin a.ir
+述一个是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+n. − − − − − − − − − − − − − − − − − − −
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+。『herial newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspa
+”上零名。『inal a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line
+事事。『inailea
+看います。「事事では「herine”「herine”「herine”「herine”「herine”「herine”「herine”「herine”「herine”「herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine
+- The The The The The The The The The The
+- "I" = a'ir" e a'ir
+- 『上電子』『上電子』『上電子』
+- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『
+· "En "En "En "En "En "En "En "En "En "En
+· III-leleii-leleii-lelelelelelelelelelelelelel
+” ——”—————————————————————————————————
+i—li-li-li-li-li-li-li-li-li-li-li-li-li-l
+· Rail nilePinie nileInile

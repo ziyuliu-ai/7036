@@ -1,177 +1,139 @@
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-4 Nov 2024
-CMB International Global Markets  Equity Research  Company Update
 Maxscend (300782 CH)
+LT growth intact; D/G to HOLD as the company
+HOLD (Down)
 goes through business model transformation
-Maxscend released its 3Q24 results Revenue declined by 23% YoY1% QoQ
-to RMB11bn driven by a weaker seasonality as smartphone demand is not
-showing strong recovery NP declined by 84% YoY55% QoQ to RMB71mn
-mainly due to GPM erosion (down 43ppts sequentially to 371%) on 1) fab
-ramp-up 2) an unfavorable product mix towards higher module shipments and
-3) USDRMB FX impacts NPM dropped to 66% from 143%321% in
-2Q243Q23 on lower GPM higher RD costs (up 66% YoY) and asset
-impairment loss Although Maxscends LT growth prospects remain intact we
-downgrade the stock to HOLD on ST pain from business transformation
-(fabless to fab-lite) that weighs on profitability TP adjusted to RMB86
-corresponding to 45x 2025E PE (vs 445x before)
- Unlike a usual peak season in 3Q (40% QoQ growth pre-pandemic in
-3Q1819 and 48% QoQ in 3Q23) quarterly sales were flattish
-sequentially (-1%) showing a weak market demand Although we have
-expected weakness would be a drag to 3Q24 sales top-line growth was still
-below ourBBG consensus by 21%24% Therefore we revise down our
-202425E revenue forecasts by 8%7% with FY2425E revenue growth
-adjusted to 47%23% YoY
- Module business to be the key driver of future growth In 9M24
-Maxscend saw module revenue contribution increase (43% est of sales vs
-36% in 2023) to RMB14bn We expect module share to increase further
-to 49%55% in 202425E as we believe modulization in RFFE industry has
- GPM is expected to recover to 40% in 2H25 We expect margin to face
-ongoing challenges in the next 2-3 quarters due to capacity ramp-up at
-Xinzhuo and utilization not yet achieving the optimized level (slow recovery
-in demand) The margin headwind may persist at least into 1H25 as the
-(est RMB137mn depreciation in 4Q24E and a total of RMB550mn in 2024E
-per mgmt) We cut GPM estimates by 19ppt11ppt for 202425E
- Downgrade to HOLD with adj TP at RMB86 based on 45x 2025E PE
-(close to peers avg of 41x 2025E PE) We believe Maxscend must
-endure the trials of transformative business model shift through challenges
-before shining bright again on the global stage Key upside risks 1) faster-
-than-expected recovery in demand and share expansions and 2)
-depreciations less severe impacts on margins key downside risks 1)
-slower-than-expected capacity ramp-up 2) weak recovery in demand and
-3) escalating geopolitical tensions
+Target Price
+RMB86.00
+Maxscend released its 3Q24 results. Revenue declined by 23% YoY/1% QoQ
+to RMB1.1bn, driven by a weaker seasonality as smartphone demand is not
 (Previous TP
-RMB10000)
-UpDownside
-Lily YANG PhD
-Mkt Cap (RMB mn)
-Avg 3 mths to (RMB mn)
-52w HighLow (RMB)
-Total Issued Shares (mn)
-Source FactSet
+RMB100.00)
+showing strong recovery. NP declined by 84% YoY/55% QoQ to RMB71mn,
+Up/Downside
+(5.8\%)
+mainly due to GPM erosion (down 4.3ppts sequentially to 37.1%) on 1) fab
+Current Price
+RMB91.26
+ramp-up, 2) an unfavorable product mix towards higher module shipments, and
+China Semiconductors
+3) USD/RMB FX impacts. NPM dropped to 6.6% from 14.3%/32.1% in
+2Q24/3Q23 on lower GPM, higher R&D costs (up 66% YoY) and asset
+Lily YANG, Ph.D
+impairment loss. Although Maxscend's LT growth prospects remain intact, we
+downgrade the stock to HOLD on ST pain from business transformation
+(fabless to fab-lite) that weighs on profitability. TP adjusted to RMB86,
+Kevin ZHANG
+corresponding to 45x 2025E P/E (vs. 44.5x before).
+Unlike a usual peak season in 3Q (40% QoQ growth pre-pandemic in
+3Q18/19 and 48% QoQ in 3Q23), quarterly sales were flattish
+Stock Data
+sequentially (-1%), showing a weak market demand. Although we have
+expected weakness would be a drag to 3Q24 sales, top-line growth was still
+below our/BBG consensus by 21%/24%. Therefore, we revise down our
+2024/25E revenue forecasts by 8%/7%, with FY24/25E revenue growth
+adjusted to 4.7%/23% YoY.
 Shareholding Structure
-Source Bloomberg
-Source FactSet
+Module business to be the key driver of future growth. In 9M24,
+Maxscend saw module revenue contribution increase (43% est. of sales vs.
+36% in 2023) to ~RMB1.4bn. We expect module share to increase further
+to 49%/55% in 2024/25E, as we believe modulization in RFFE industry has
+Share Performance
+become a mainstream trend providing a more integrated solution.
+■ GPM is expected to recover to 40%+ in 2H25. We expect margin to face
+ongoing challenges in the next 2-3 quarters, due to capacity ramp-up at
+Xinzhuo and utilization not yet achieving the optimized level (slow recovery
+Source: FactSet
+in demand). The margin headwind may persist at least into 1H25 as the
 12-mth Price Performance
-Source FactSet
-(YE 31 Dec)
-Revenue (RMB mn)
-YoY growth (%)
-Gross margin (%)
-Net profit (RMB mn)
-YoY growth (%)
-EPS (Reported) (RMB)
-EPS (Adjusted) (RMB)
-Source Company data Bloomberg CMBIGM estimates
-4 Nov 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 1 1-yr forward PE band
-Source Company data Bloomberg
-Figure 2 PE chart
-Source Company data Bloomberg
-Figure 3 Earnings revisions
-Source Company data CMBIGM estimates
-Figure 4 CMBIGM estimates vs Bloomberg consensus
-Source Company data CMBIGM estimates Bloomberg consensus
-1-yr Forward PE
-4 Nov 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 5 Company financials
-RD expense
-Net profit attributable
-Source Company data CMBIGM estimates
-Figure 6 Peers table
-Sanan Opto
-Source Company data Bloomberg consensus CMBIGM estimates
-Note earnings estimates based on Bloomberg consensus data as of 1 Nov close
-4 Nov 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-SGA expense
-RD expense
-Other gains(losses)
-Pre-tax profit
-YE 31 Dec (RMB mn)
-Cash  equivalents
-Non-current assets
-Right-of-use assets
-Other non-current assets
-Short-term borrowings
-Other current liabilities
-Non-current liabilities
-Long-term borrowings
-Other non-current liabilities
-Total shareholders equity
-Total equity and liabilities
-4 Nov 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-Profit before taxation
-Depreciation  amortization
-Change in working capital
-Net cash from operations
-Net cash from investing
-Net cash from financing
-Cash at the beginning of the year
-Cash at the end of the year
-Return on equity (ROE)
-GEARINGLIQUIDITYACTIVITIES
-Current ratio (x)
-Source Company data CMBIGM estimates Note The calculation of net cash includes financial assets
-4 Nov 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Disclosures  Disclaimers
+company continues to transfer products fabrication to its own production line
+(RM
+(est. RMB137mn depreciation in 4Q24E and a total of RMB550mn in 2024E
+per mgmt.). We cut GPM estimates by 1.9ppt/1.1ppt for 2024/25E.
+Downgrade to HOLD, with adj. TP at RMB86, based on 45x 2025E P/E
+(close to peers' avg. of ~41x 2025E P/E). We believe Maxscend must
+endure the trials of transformative business model shift through challenges
+before shining bright again on the global stage. Key upside risks: 1) faster-
+Source: FactSet
+than-expected recovery in demand and share expansions and 2)
+depreciation's less severe impacts on margins; key downside risks: 1)
+slower-than-expected capacity ramp-up, 2) weak recovery in demand, and
+escalating geopolitical tensions.
+Mean+1SD
+Source: Company data, Bloomberg
+Source: Company data, CMBIGM estimates
+Source: Company data, CMBIGM estimates, Bloomberg consensus
+Source: Company data, CMBIGM estimates
+Source: Company data, Bloomberg consensus, CMBIGM estimates
+Note: earnings estimates based on Bloomberg consensus; data as of 1 Nov close.
+Financial Summary
+Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets.
+Disclosures & Disclaimers
 Analyst Certification
-The research analyst who is primary responsible for the content of this research report in whole or in part certifies that with respect to the securities or issuer
-that the analyst covered in this report (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer and (2)
-Besides the analyst confirms that neither the analyst nor hisher associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
-Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report (2) will
-deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report (3) serve as an officer of any of the Hong
- Stock with potential return of over 15% over next 12 months
- Stock with potential return of 15% to -10% over next 12 months
- Stock with potential loss of over 10% over next 12 months
- Stock is not rated by CMBIGM
-OUTPERFORM                     Industry expected to outperform the relevant broad market benchmark over next 12 months
-MARKET-PERFORM             Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
-UNDERPERFORM                 Industry expected to underperform the relevant broad market benchmark over next 12 months
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities or issuer
+that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer; and (2)
+no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
+Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will
+deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as an officer of any of the Hong
+Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies covered in this report.
+CMBIGM Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIGM
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
 CMB International Global Markets Limited
-Address 45F Champion Tower 3 Garden Road Hong Kong Tel (852) 3900 0888   Fax (852) 3900 0800
-CMB International Global Markets Limited (CMBIGM) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
+CMB International Global Markets Limited ("CMBIGM") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
 subsidiary of China Merchants Bank)
 Important Disclosures
-There are risks involved in transacting in any securities  The information contained in this report may not be suitable for the purposes of all investors  CMBIGM
-does not provide individually tailored investment advice This report has been prepared without regard to the individual investment objectives financial position
-or special requirements  Past performance has no indication of future performance and actual events may differ materially from that which is contained in the
-report  The value of and returns from any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
-and strategies and encourages investors to consult with a professional financial advisor in order to make their own investment decisions
-This report or any information contained herein have been prepared by the CMBIGM solely for the purpose of supplying information to the clients of CMBIGM
-or its affiliate(s) to whom it is distributed  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
-securities or enter into any transaction  Neither CMBIGM nor any of its affiliates shareholders agents consultants directors officers or employees shall be
-liable for any loss damage or expense whatsoever whether direct or consequential incurred in relying on the information contained in this report  Anyone
-making use of the information contained in this report does so entirely at their own risk
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable
-the information advices and forecasts on an AS IS basis  The information and contents are subject to change without notice CMBIGM may issue other
-publications having information and or conclusions different from this report  These publications reflect different assumption point-of-view and analytical
-this report
-on behalf of its clients from time to time Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
-and CMBIGM will not assume any responsibility in respect thereof This report is for the use of intended recipients only and this publication may not be
-reproduced reprinted sold redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIGM
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the
+report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIGM recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM
+or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides
+the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIGM may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report
+and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM.
+Additional information on recommended securities is available upon request.
 For recipients of this document in the United Kingdom
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005
-(as amended from time to time)(The Order) or (II) are persons falling within Article 49(2) (a) to (d) (High Net Worth Companies Unincorporated Associations
-etc) of the Order and may not be provided to any other person without the prior written consent of CMBIGM
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc..) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.
 For recipients of this document in the United States
-CMBIGM is not a registered broker-dealer in the United States  As a result CMBIGM is not subject to US rules regarding the preparation of research reports
-and the independence of research analysts  The research analyst who is primary responsible for the content of this research report is not registered or qualified
-as a research analyst with the Financial Industry Regulatory Authority (FINRA)  The analyst is not subject to applicable restrictions under FINRA Rules
-intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report This report is
-intended for distribution in the United States solely to major US institutional investors as defined in Rule 15a-6 under the US Securities Exchange Act of
-1934 as amended and may not be furnished to any other person in the United States Each major US institutional investor that receives a copy of this report
-by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person Any US recipient of this report wishing to
-effect any transaction to buy or sell securities based on the information provided in this report should do so only through a US-registered broker-dealer
+CMBIGM is not a registered broker-dealer in the United States. As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports
+and the independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified
+as a research analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules
+intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is
+intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of
+1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report
+by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to
+effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.
 For recipients of this document in Singapore
-This report is distributed in Singapore by CMBI (Singapore) Pte Limited (CMBISG) (Company Regn No 201731928D) an Exempt Financial Adviser as defined
-in the Financial Advisers Act (Cap 110) of Singapore and regulated by the Monetary Authority of Singapore CMBISG may distribute reports produced by its
-respective foreign entities affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations
-Where the report is distributed in Singapore to a person who is not an Accredited Investor Expert Investor or an Institutional Investor as defined in the Securities
-and Futures Act (Cap 289) of Singapore CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law
-Singapore recipients should contact CMBISG at 65 6350 4400 for matters arising from or in connection with the report
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined
+in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its
+respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations.
+Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities
+and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law.
+Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

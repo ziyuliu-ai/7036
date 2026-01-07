@@ -1,1936 +1,449 @@
-主要数据  ______________________________ 
-预测  _________________________________ 
-要素概要  ______________________________ 
-资料来源：公司数据、高盛研究预测
-市值:Rmb863.0bn/$127.5bn
-企业价值:Rmb759.3bn/$112.4bn
-3个⽉⽇均成交量:Rmb2.7bn/$388.5mn
-中国
-A股⾷品饮料
-并购概率:3
-AEJ强⼒买⼊/卖出名单
-GSSus tain50关注名单
-12/17
-12/17 12/18 E
-12/18 E 12/19 E
-12/19 E
-12/20E
-12/20E
-主营业务收⼊(R mbmn)新
-主营业务收⼊(R mbmn)新
-61,062.8
-75,347.5
-87,968.9 102,048.3
-主营业务收⼊(Rmbmn)旧
-61,062.8
-75,823.3
-86,919.7
-98,347.8
-EBITDA(Rmbmn)
-40,010.1
-50,145.6
-59,311.7
-69,384.1
-每股盈利(R mb)新
-每股盈利(R mb)新
-21.56
-27.15
-32.21
-37.76
-每股盈利(Rmb)旧
-21.56
-26.97
-31.12
-35.42
-市盈率(X)
-22.2
-25.3
-21.3
-18.2
-市净率(X)
-6.6
-8.0
-6.7
-5.7
-股息收益率(%)
-2.3
-2.0
-2.3
-2.7
-CROCI(%)
-33.4
-33.6
-33.1
-32.4
-9 /18
-9 /18
-12/18 E
-12/18 E
-3 /19 E
-3 /19 E
-6/19 E
-6/19 E
-每股盈利(Rmb)
-7.14
-7.46
-7.69
-6.98
-600519 .SS相对于亚洲（不含⽇本）覆盖范围
-600519 .SS相对于A股⾷品饮料
-增长
-增长
-财务回报
-财务回报
-估值倍数
-估值倍数
-波动性
-波动性
-百分位
-20th
-40th
-60th
-80th
-100th
+贵州茅台 (600519.SS)
+名单) (摘要)
+600519.SS
 2018年年底，贵州茅台在其年度经销商大会上宣布对销售渠道进行重
 大调整，引起投资者的广泛关注。我们将在本文中分析贵州茅台将如
 何向直销渠道加大投放、渠道改革可能对销售均价/盈利产生何样影
-响，并解答其他一些问题。  
-为何现在改革？ 为减少寻租机会和潜在腐败空间，贵州茅台冻结了经
-销商数量和经销商配额。此外，2016年推出的“新零售”线上经销模
-式的进展不及预期，主要归因于未能消除线上/线下套利机会（尽管
+响, 并解答其他一些问题。
+为何现在改革? 为减少寻租机会和潜在腐败空间,贵州茅台冻结了经
+销商数量和经销商配额。此外, 2016年推出的“新零售”线上经销模
+式的进展不及预期,主要归因干未能消除线上/线下套利机会(尽管
+主要数据
+市值: Rmb863.0bn / $127.5bn
 这种模式可帮助公司更深入地了解客户）。公司转而将致力于加大直
-销渠道投放，增开新店、并提高商超和线上零售等第三方的销售力
-度。需要说明的是，经销商渠道仍将占主导地位、但占比将大幅下
-降，在2019年茅台酒总销量中的占比预计将从2018年的80%降至
-56%，直销渠道的重要地位将上升。 
-重获利润：我们认为上述调整将加速推进渠道改革，其目的不仅是提
+企业价值: Rmb759.3bn / $112.4bn
+3个月日均成交量: Rmb2.7bn / $388.5mn
+销渠道投放,增开新店、并提高商超和线上零售等第三方的销售力
+A股食品饮料
+度。需要说明的是,经销商渠道仍将占主导地位、但占比将大幅下
+降,在2019年茅台酒总销量中的占比预计将从2018年的80%降至
+AEJ强力买入/卖出名单
+GS Sustain 50关注名单
+56%, 直销渠道的重要地位将上升。
+重获利润:我们认为上述调整将加速推进渠道改革,其目的不仅是提
 升定价能力，还旨在通过加大直销投放、在价值链上重获利润份额。
 总体而言，我们积极看待贵州茅台的渠道改革，并将2019-2021年收
 入预测上调1.2%-3.8%，将2019-2021年每股盈利预测上调
-3.5%-6.6%，以主要反映销售渠道结构调整带动的销售均价上升。我
-们还推出了2022年预测，并将12个月目标价格从人民币708元上调至
-842元，仍基于22倍市盈率（但延展至2022年）并以10%的行业股权
+3.5%-6.6%, 以主要反映销售渠道结构调整带动的销售均价上升。我
+842元, 仍基于22倍市盈率(但延展至2022年)并以10%的行业股权
+9/18 12/18 E 3/19 E 6/19 E
 成本贴现回2019年计算得出。鉴于贵州茅台的市场领先地位和明确的
-增长潜力，我们维持对该股的买入评级（位于强力买入名单）。 
-* 全文翻译随后提供
-600519.SS
-600519.SS
-12个⽉⽬标价格:R m b842.00
-R m b842.00
-股价:R m b686.98
-R m b686.98
-上涨空间:22.6%
-22.6%
-贵州茅台 (600519.SS)
-冻结经销商数量和经销商配额；重申买入评级 (位于强力买入
-名单) (摘要)
-2019年1月22日 | 7:50PM CST
-证券研究报告
-北京高华证券有限责任公司及其关联机构与其研究报告所分析的企业存在业务关系，并且继续寻求发展这些关系。
+每股盈利 (Rmb)
+要素概要
 因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告为作出投资决策的唯一
-因素。 有关分析师的申明和其他重要信息，见信息披露附录，或请与您的投资代表联系。 
-廖绪发, CFA (分析师) 
-执业证书编号:S1420510120006 
-+86(21)2401-8902 | xufa.liao@ghsl.cn 
-北京高华证券有限责任公司
-买
-入
-CL
-比率和估值  _______________________________________ 
- 
-增长率和利润率 (%)  ________________________________ 
- 
-股价走势图  _______________________________________ 
- 
- 
-资料来源：公司数据、高盛研究预测、FactSet（股价为2019年1月21日收盘价） 
-损益表 (Rmb mn)  __________________________________ 
- 
-12/17
-12/17
-12/18 E
-12/18 E
-12/19 E
-12/19 E
-12/20E
-12/20E
-市盈率(X)
-22.2
-25.3
-21.3
-18.2
-市净率(X)
-6.6
-8.0
-6.7
-5.7
-⾃由现⾦流收益率(%)
-3.5
-4.2
-5.0
-5.8
-EV/EBITDA(X)
-19.5
-15.1
-12.4
-10.2
-CROCI(%)
-33.4
-33.6
-33.1
-32.4
-净资产回报率(%)
-33.0
-34.1
-34.1
-33.7
-净负债/股东权益(%)
-(91.5)
-(95.9)
-(99.0)
-(101.4)
-利息保障倍数(X)
-7,831.6
-NM
-NM
-NM
-存货销售天数
-127.6
-112.2
-105.7
-100.2
-应收账款周转天数
-14.2
-12.2
-12.5
-12.9
-应付账款周转天数
-1,632.7
-1,696.9
-1,783.4
-1,793.0
-杜邦净资产回报率(%)
-28.2
-29.5
-29.2
-28.6
-周转率(X)
-0.5
-0.5
-0.5
-0.4
-杠杆⽐率(X)
-1.4
-1.4
-1.4
-1.4
-12/17
-12/17
-12/18 E
-12/18 E
-12/19 E
-12/19 E
-12/20E
-12/20E
-主营业务收⼊增长率
-52.1
-23.4
-16.8
-16.0
-EBITDA增长率
-59.0
-25.3
-18.3
-17.0
-每股盈利增长
-62.0
-25.9
-18.6
-17.2
-每股股息增速
-62.1
-23.4
-18.6
-17.2
-EBIT利润率
-63.7
-64.9
-65.9
-66.6
-EBITDA利润率
-65.5
-66.6
-67.4
-68.0
-净利润率
-44.3
-45.3
-46.0
-46.5
-6 0 0 5 1 9 . SS (Rmb)
-6 0 0 5 1 9 . SS (Rmb)
-沪深3 0 0 指数
-沪深3 0 0 指数
-Apr-18
-Jul-18
-Oct-18
-Ja n-19
-500
-600
-700
-8 00
-9 00
-1,000
-2,500
-3 ,000
-3 ,500
-4,000
-4,500
-5,000
-3 个⽉
-3 个⽉
-6个⽉
-6个⽉
-12个⽉
-12个⽉
-绝对
-2.5%
-(7.3)%
-(8.4)%
-相对于沪深300指数
-0.9%
-1.6%
-23.2%
-12/17
-12/17
-12/18 E
-12/18 E
-12/19 E
-12/19 E
-12/20E
-12/20E
-主营业务收⼊
-61,062.8
-75,347.5
-87,968.9
-102,048.3
-主营业务成本
-(6,075.7)
-(6,500.5)
-(7,112.8)
-(8,136.2)
-销售、⼀般及管理费⽤
-(16,110.8)
-(19,912.0)
-(22,847.8)
-(25,943.3)
-研发费⽤
-(11.2)
-(15.1)
-(17.6)
-(20.4)
-其它营业收⼊/(费⽤)
-8.1
---
---
---
-EBI TDA
-EBI TDA
-40,010.1
-50,145.6
-59,311.7
-69,384.1
-折旧和摊销
-(1,125.8)
-(1,210.6)
-(1,303.4)
-(1,415.3)
-EBI T
-EBI T
-38,884.3
-48,935.0
-58,008.3
-67,968.8
-净利息收⼊/（⽀出）
-55.7
-8.8
-11.1
-13.7
-联营公司损益
---
---
---
---
-税前利润
-税前利润
-38,740.1
-48,703.8
-57,779.3
-67,742.5
-税项拨备
-(9,733.6)
-(12,175.9)
-(14,444.8)
-(16,935.6)
-少数股东损益
-(1,927.1)
-(2,422.7)
-(2,874.1)
-(3,369.7)
-优先股息
---
---
---
---
-⾮经常性项⽬前净利润
-⾮经常性项⽬前净利润
-27,079.4
-34,105.1
-40,460.4
-47,437.1
-税后⾮经常性损益
---
---
---
---
-⾮经常性项⽬后净利润
-⾮经常性项⽬后净利润
-27,079.4
-34,105.1
-40,460.4
-47,437.1
-EPS（基本，扣⾮前）M(R mb)
-EPS（基本，扣⾮前）M(R mb)
-21.56
-27.15
-32.21
-37.76
-EPS（摊薄，扣⾮前）M(R mb)
-EPS（摊薄，扣⾮前）M(R mb)
-21.56
-27.15
-32.21
-37.76
-EPS（基本，扣⾮后）M(R mb)
-EPS（基本，扣⾮后）M(R mb)
-21.56
-27.15
-32.21
-37.76
-EPS（摊薄，扣⾮后）M(R mb)
-EPS（摊薄，扣⾮后）M(R mb)
-21.56
-27.15
-32.21
-37.76
-每股股息M(Rmb)
-11.00
-13.57
-16.10
-18.88
-股息⽀付率M(%)
-51.0
-50.0
-50.0
-50.0
-2019年1月22日
-  2
 全球投资研究
-资产负债表 (Rmb mn)  _______________________________ 
- 
-现金流量表 (Rmb mn)  _______________________________ 
- 
-资料来源：公司数据、高盛研究预测
-12/17
-12/17
-12/18 E
-12/18 E
-12/19 E
-12/19 E
-12/20E
-12/20E
-现⾦及等价物
-87,868.9
-110,718.3
-137,172.8
-167,985.5
-应收账款
-2,285.3
-2,742.4
-3,290.8
-3,949.0
-存货
-22,057.5
-24,263.2
-26,689.6
-29,358.5
-其它流动资产
-37.5
-43.2
-49.6
-57.1
-流动资产
-流动资产
-112,249.2
-137,767.1
-167,202.8
-201,350.1
-固定资产净额
-17,262.5
-18,403.3
-19,837.0
-21,588.1
-⽆形资产净额
-3,458.6
-3,667.7
-3,869.7
-4,064.7
-投资总额
-29.0
-89.0
-149.0
-209.0
-其它长期资产
-1,610.8
-1,610.8
-1,610.8
-1,610.8
-资产合计
-资产合计
-134,610.1
-161,537.9
-192,669.2
-228,822.7
-应付账款
-28,112.3
-32,329.2
-37,178.5
-42,755.3
-短期债务
-0.0
-0.0
-0.0
-0.0
-其它流动负债
-10,462.6
-13,698.3
-16,875.9
-20,364.3
-流动负债
-流动负债
-38,574.9
-46,027.4
-54,054.4
-63,119.6
-长期债务
---
---
---
---
-其它长期负债
-15.6
-15.6
-15.6
-15.6
-长期负债
-长期负债
-15.6
-15.6
-15.6
-15.6
-负债合计
-负债合计
-38,590.5
-46,043.0
-54,070.0
-63,135.1
-优先股
---
---
---
---
-普通股权益
-91,451.5
-108,504.1
-128,734.3
-152,452.8
-少数股东损益
-少数股东损益
-4,568.1
-6,990.8
-9,864.9
-13,234.7
-负债及股东权益合计
-负债及股东权益合计
-134,610.1
-161,537.9
-192,669.2
-228,822.7
-总现⾦投资，名义（剔除现⾦）
-102,005.8
-122,691.7
-147,099.4
-175,603.1
-调整后净负债
-(87,868.9)
-(110,718.3)
-(137,172.8)
-(167,985.5)
-平均已动⽤资本
-8,597.2
-6,463.7
-3,101.5
-(435.8)
-每股净资产G(Rmb)
-72.80
-86.38
-102.48
-121.36
-12/17
-12/17
-12/18 E
-12/18 E
-12/19 E
-12/19 E
-12/20E
-12/20E
-净利润
-27,079.4
-34,105.1
-40,460.4
-47,437.1
-折旧及摊销加回
-1,125.8
-1,210.6
-1,303.4
-1,415.3
-少数股东权益加回
-1,927.1
-2,422.7
-2,874.1
-3,369.7
-运营资本增减净额
-(8,318.2)
-1,554.0
-1,874.6
-2,249.7
-其它经营性现⾦流
-339.0
-(5.6)
-(6.5)
-(7.4)
-经营活动产⽣的现⾦流
-经营活动产⽣的现⾦流
-22,153.0
-39,286.8
-46,506.0
-54,464.4
-资本开⽀
-(1,125.0)
-(2,560.4)
-(2,939.1)
-(3,361.4)
-收购
---
---
---
---
-剥离
-0.0
---
---
---
-其它
-4.4
-(60.0)
-(60.0)
-(60.0)
-投资活动产⽣的现⾦流
-投资活动产⽣的现⾦流
-(1,120.6)
-(2,620.4)
-(2,999.1)
-(3,421.4)
-⽀付的股息（普通股和优先股）
-(8,525.8)
-(13,816.9)
-(17,052.6)
-(20,230.2)
-借款增减
---
---
---
---
-其它融资性现⾦流
-1,666.5
-0.0
-0.0
-0.0
-筹资活动产⽣的现⾦流
-筹资活动产⽣的现⾦流
-(6,859.3)
-(13,816.9)
-(17,052.6)
-(20,230.2)
-总现⾦流
-总现⾦流
-14,173.1
-22,849.5
-26,454.4
-30,812.8
-⾃由现⾦流
-21,028.0
-36,726.4
-43,567.0
-51,103.0
-贵州茅台 (600519.SS) 
+贵州茅台 (600519.SS)
+资产负债表 (Rmb mn) __
+贵州茅台 (600519.SS)
 评级自2013年12月3日
- 
-买入 
-CL
-贵州茅台 (600519.SS)
-Reforms will boost direct sales, allowing capture of more margin 
- 
- 
-As we highlighted in our report earlier this month (2018 results and 2019 guidance in 
-line, structural reform debut), Moutai announced its reform plan for sales and marketing 
-on Dec 28, which we consider the start of structural reforms. 
-Key focus of the reform was to address internal corruption. 
-In May 2018, Moutai announced a change of its chairman, followed by other key 
-management changes at the parent group to listco and all the way down to subsidiaries 
-like Moutai E-com Company and Moutai Marketing Company. The company said that 
-the reason behind the extensive management changes was to address corruption within 
-the firm.  
-Given the juicy margins available, trade companies are very keen to be awarded a 
-distribution license and existing distributors want to grab more supply and merchants 
-lobby for “written-notes” that allow them to purchase lower priced product. So, the 
-gap between ex-factory price and retail price has allowed opportunities for rent-seeking 
-behavior among certain Moutai employees on the back of the wide arbitrage 
-opportunities. 
-The local government in Guizhou, where Moutai is headquartered, published a 
-legislation on Jan 17th forbidding government officers and their relatives (including 
-spouse, children and children’s spouses) to carry out business with Moutai directly. 
-Per the legislation, the officers or their families are also not allowed to influence the 
-operation of the Moutai company or any of its affiliated stores, distributors etc. We 
-believe this action taken by the Guizhou government illustrates that Moutai’s reform is 
-not only important for the company but is also highly valued by the government (which 
-owns 100% of the parent group of Moutai). 
-No new distributors, supply to shift to direct channels 
-In order to cut out the opportunities for rent seeking, the company decided to freeze the 
-number of distributor numbers and distribution quotas. According to management, there 
-will be no additional contract plan increases for distributors, and the company will not 
-increase the number of distributors or franchised stores going forward. As a result of this 
-policy, we expect to see considerable restructuring of the sales channels with more 
-volume shifting from distributors to the direct sales channel. 
-For pure numbers, the company guided to 31,000 tons of supply volume for Moutai 
-spirits in 2019 with 17,000 tons to distributors, based on equivalent quotas of 2017 
-planned volume for current compliant distributors. In order to achieve this, management 
-has said it will increase direct sales.   
-Distributor channel will still dominate, but direct sales to rise in importance 
-In our view, the distributor channel will remain the dominant sales channel for Moutai 
-spirits in the near-term with the direct sales channel becoming more pivotal. Until 2018, 
-sales volume through distributor channel accounted for over 80% of total Moutai spirits 
+比率和估值
+增长率和利润率 (%)
+股价走势图
+损益表 (Rmb mn)
 2019年1月22日
-  3
 全球投资研究
 贵州茅台 (600519.SS)
-sales volume. We expect this to shrink to 56% in 2019E, and decline further to c.50% in 
-2021E. 
-Exports and supply to the parent group has generally increased with total volume 
-supply, with volume share to these markets up from c.6% five years ago to c.11% in 
-2017. Going forward, we expect the percentage of export volume and supply to parent 
-group in total volume of Moutai spirits to remain largely stable at 12%-15%.   
-On the other hand, we estimate sales volume through the direct sales channel to more 
-than triple in 2019 vs. 2018 to account for c.30% total sales volume of Moutai spirits. We 
-also expect the structure of direct sales channels to change. Within direct sales 
-channels, self-owned stores and large supermarkets are most controllable and it’s 
-relatively easy for Moutai to build new stores or pass on products to supermarkets, in 
-our view. As a consequence, we expect sales volume through these two channels to 
-increase significantly in the coming years (we expect the combined volume share in 
-direct sales to increase form 21% in 2018 to 60% in 2019). Sales of customized 
-products are mainly driven by demand from corporates, and we expect growth to largely 
-remain stable. For sales through written-notes, we expect it to decrease significantly as 
-the company continues to focus on addressing corruption issues.  
- 
- 
- 
-图表 1: 2018E Moutai spirits sales channel (by volume) 
-Distributor channel dominates 
- 
-图表 2: 2019E Moutai spirits sales channel (by volume) 
-Direct sales expected to gain volume share 
-80% 
-8% 
-7% 
-5% 
-2018 Moutai spirits sales channel 
-Distributor channel
-Direct sales
-Export
-Supply to parent group
-56% 
-30% 
-8% 
-6% 
-2019 Moutai spirits sales channel 
-Distributor channel
-Direct sales
-Export
-Supply to parent group
- 
- 
-资料来源：Company data, Gao Hua Securities Research
- 
- 
-资料来源：Company data, Gao Hua Securities Research
- 
-图表 3: 2018 direct sales channel breakdown by volume 
- 
-图表 4: 2019 direct sales channel breakdown by volume 
-16% 
-41% 
-33% 
-5% 5% 
-2018 Direct sales channel breakdown 
-Self-owned stores
-Customized products
-Written-note at the
-factory
-Direct supply to KAs
-Direct supply to other e-
-com
--
-42% 
-14% 
-8% 
-18% 
-18% 
-2019 Direct sales channel breakdown 
-Self-owned stores
-Customized products
-Written-note at the
-factory
-Direct supply to KAs
- 
- 
-资料来源：Company disclosure, Gao Hua Securities Research
- 
- 
-资料来源：Company disclosure, Gao Hua Securities Research
+Reforms will boost direct sales, allowing capture of more margin
+As we highlighted in our report earlier this month (2018 results and 2019 guidance in
+line, structural reform debut), Moutai announced its reform plan for sales and marketing
+on Dec 28, which we consider the start of structural reforms.
+Key focus of the reform was to address internal corruption.
+In May 2018, Moutai announced a change of its chairman, followed by other key
+management changes at the parent group to listco and all the way down to subsidiaries
+like Moutai E-com Company and Moutai Marketing Company. The company said that
+the reason behind the extensive management changes was to address corruption within
+the firm.
+Given the juicy margins available, trade companies are very keen to be awarded a
+distribution license and existing distributors want to grab more supply and merchants
+lobby for "written-notes" that allow them to purchase lower priced product. So, the
+gap between ex-factory price and retail price has allowed opportunities for rent-seeking
+behavior among certain Moutai employees on the back of the wide arbitrage
+opportunities.
+The local government in Guizhou, where Moutai is headquartered, published a
+legislation on Jan 17th forbidding government officers and their relatives (including
+spouse, children and children's spouses) to carry out business with Moutai directly.
+Per the legislation, the officers or their families are also not allowed to influence the
+operation of the Moutai company or any of its affiliated stores, distributors etc. We
+believe this action taken by the Guizhou government illustrates that Moutai's reform is
+not only important for the company but is also highly valued by the government (which
+owns 100% of the parent group of Moutai).
+No new distributors, supply to shift to direct channels
+In order to cut out the opportunities for rent seeking, the company decided to freeze the
+number of distributor numbers and distribution quotas. According to management, there
+will be no additional contract plan increases for distributors, and the company will not
+increase the number of distributors or franchised stores going forward. As a result of this
+policy, we expect to see considerable restructuring of the sales channels with more
+volume shifting from distributors to the direct sales channel.
+For pure numbers, the company guided to 31,000 tons of supply volume for Moutai
+planned volume for current compliant distributors. In order to achieve this, management
+has said it will increase direct sales.
+Distributor channel will still dominate, but direct sales to rise in importance
+In our view, the distributor channel will remain the dominant sales channel for Moutai
+spirits in the near-term with the direct sales channel becoming more pivotal. Until 2018,
+sales volume through distributor channel accounted for over 80% of total Moutai spirits
 2019年1月22日
-  4
 全球投资研究
 贵州茅台 (600519.SS)
-Challenges to the execution of reform plans 
- 
- 
-The sales channel reform guided by the company is quite drastic. The planned shift of 
-more than 20% of total supply of Moutai spirits from distributors to direct sales channel 
-will not be easy given the following considerations: 
-Pricing and distribution in direct sales channels  
-According to the management, 17,000 tons out of 31,000 tons of Moutai spirits will be 
-signed to distributors in 2019. Although actual shipments to distributors and total supply 
-may be higher than guided numbers, we believe sales through distributors in 2019 will 
-be significantly lower vs. our estimated c.25,000 tons in 2018, implying sales through 
-direct channels will have to make up the difference. 
-We believe the most feasible and straightforward way for Moutai is to push product sales 
-through self-owned stores but the key question is - will the company look to open new 
-stores or just increase the supply to each store? Opening new stores would take time 
-and also increase CAPEX (the company opened 34 self-owned stores in 2012 at 
-CAPEX of Rmb850mn), while increasing supply to existing stores can also lead to 
-inventory pile up and therefore lead to price pressure, in our view.  
-Supermarkets - price balance needed to incentivize sales 
-For direct sales through supermarkets, there is still uncertainty on how it may proceed. It 
-could potentially look to build joint-ventures with large supermarket groups or just sign 
-contract to deliver products, where we believe pricing could be an issue. Theoretically, 
-the ex-factory price to supermarkets should be higher than the price to distributors and 
-lower than retail price. If the price is set high, supermarkets will not have strong incentive 
-to sell and this may affect volumes; but if the price is set low, the company’s gross 
-margin will narrow. 
-E-Commerce - potential for conflict with parent; Cloud platform did not perform as 
-expected 
-For direct sales through e-com, the main issue is the conflict of interest with the parent 
-group, in our view. Moutai company sold 4%-5% of Moutai spirits to its parent group in 
-the past several years, according to our estimates, but both Moutai company and its 
-parent group also sell Moutai spirits online. The parent company sells Moutai spirits to 
-Moutai E-com Company (25% owned by Moutai and 73% by the parent group), who 
-then sells them to third party e-com platforms like Tmall/Taobao or directly to end 
-customers through Moutai Cloud Store.  
-Moutai E-com Company is the operator of brand online flagship stores on third party 
-e-coms. Compared with c.1000 tons sold via Moutai E-com Company in 2018, Moutai 
-company only sold c.120 tons directly to third party e-platforms according to our 
-estimates. 
-Since Moutai only owns 25% stake of Moutai E-com Company, we believe there is the 
-possibility of business competition and conflict of interest with the parent. It still remains 
+sales volume. We expect this to shrink to 56% in 2019E, and decline further to c.50% in
+2021E.
+Exports and supply to the parent group has generally increased with total volume
+supply, with volume share to these markets up from c.6% five years ago to c.11% in
+2017. Going forward, we expect the percentage of export volume and supply to parent
+group in total volume of Moutai spirits to remain largely stable at 12%-15%.
+On the other hand, we estimate sales volume through the direct sales channel to more
+than triple in 2019 vs. 2018 to account for c.30% total sales volume of Moutai spirits. We
+also expect the structure of direct sales channels to change. Within direct sales
+channels, self-owned stores and large supermarkets are most controllable and it's
+relatively easy for Moutai to build new stores or pass on products to supermarkets, in
+our view. As a consequence, we expect sales volume through these two channels to
+increase significantly in the coming years (we expect the combined volume share in
+direct sales to increase form 21% in 2018 to 60% in 2019). Sales of customized
+products are mainly driven by demand from corporates, and we expect growth to largely
+remain stable. For sales through written-notes, we expect it to decrease significantly as
+the company continues to focus on addressing corruption issues.
 2019年1月22日
-  5
 全球投资研究
 贵州茅台 (600519.SS)
-to be seen whether the parent company will cede control of Moutai E-com Company to 
-Moutai to reconcile this conflict.  
-Moutai Cloud E-com Platform, as a strategic e-commerce platform developed by Moutai 
-E-com Company, was officially launched in 2016. Moutai aimed to alleviate short-term 
-rising pressure on Moutai spirits’ retail price and tap a larger chunk of the profit pool by 
-pushing product sales onto this platform at a company guided price. However, due to the 
-price gap between guided price and market price (company guided price is lower than 
-market retail price), arbitrage opportunities arose. Scalpers tried to take advantage of 
-this arbitrage opportunity by buying as much Moutai spirits as they could through Moutai 
-Cloud E-com Platform at a lower price, and then selling to individual consumers at the 
-market retail price. As a result, Moutai started controlling sales through its Cloud E-com 
-Platform and only allowed limited purchase per capita. However, its efforts did not have 
-the desired results as speculators managed to circumvent the system. 
-Taking 2018 CNY as an example, the market price for 53% vol Feitian Moutai was Rmb 
-1800/bottle in retail stores while the guided price offered by Cloud Platform was Rmb 
-1499/bottle. Some speculators used software to automatically place orders on Moutai 
-Cloud E-com Platform and snapped up quotas as soon as the company released any. 
-This squeezed out actual consumers who were not able to buy even one bottle, even 
-after sometimes waiting for hours. Even after Moutai added advanced technologies like 
-ID identification/face identification to its Cloud Platform to prevent speculation in Sep 
-2018, scalpers still devised ways to find arbitrage opportunities (such as hiring people, 
-often students or senior citizens, to buy the products instead). As a consequence, the 
-company withdrew its plans of selling 30% of distributors’ allocated product through 
-the Cloud E-com platform, which was proposed by the company on Nov 2017, and sales 
-through this channel is relative constrained nowadays (30-40% of distributors’ 
-allocated volume in 2017 vs c.10% in 2018, according to our estimates). In many ways, 
-the reforms announced in December 2018 supersede the 2017 online plan. 
-Written notes and Customized - not moving the dial 
-For the remaining direct sales channels including written-note and customized products, 
-we believe there are two key concerns. First, will it be possible for the company to 
-completely stop sales through written-note? As mentioned earlier, the company’s focus 
-on stamping out corruption is the main reason for the current sales channel reform, and 
-management has noted its intention to get rid of the written-note channel. This channel 
-represents c.33% of direct sales volume in 2018 according to our estimates, but we 
-expect this to fall to c.8% in 2019. 
-Second, the ex-factory price of customized product is still low (Rmb 1299/bottle for 53% 
-Vol Feitian Moutai) compared to the retail price of standard products (Rmb 1800/bottle 
-for 53% Vol Feitian Moutai). Since customized products cannot be readily resold, there 
-is no arbitrage opportunity, but still, we believe Moutai will need to think of pricing and 
-keep a balance between price and volume for customized product.  
+Challenges to the execution of reform plans
+The sales channel reform guided by the company is quite drastic. The planned shift of
+more than 20% of total supply of Moutai spirits from distributors to direct sales channel
+will not be easy given the following considerations:
+Pricing and distribution in direct sales channels
+According to the management, 17,000 tons out of 31,000 tons of Moutai spirits will be
+signed to distributors in 2019. Although actual shipments to distributors and total supply
+may be higher than guided numbers, we believe sales through distributors in 2019 will
+be significantly lower vs. our estimated c.25,000 tons in 2018, implying sales through
+direct channels will have to make up the difference.
+We believe the most feasible and straightforward way for Moutai is to push product sales
+through self-owned stores but the key question is - will the company look to open new
+stores or just increase the supply to each store? Opening new stores would take time
+and also increase CAPEX (the company opened 34 self-owned stores in 2012 at
+CAPEX of Rmb850mn), while increasing supply to existing stores can also lead to
+inventory pile up and therefore lead to price pressure, in our view.
+Supermarkets - price balance needed to incentivize sales
+For direct sales through supermarkets, there is still uncertainty on how it may proceed. It
+could potentially look to build joint-ventures with large supermarket groups or just sign
+contract to deliver products, where we believe pricing could be an issue. Theoretically,
+the ex-factory price to supermarkets should be higher than the price to distributors and
+lower than retail price. If the price is set high, supermarkets will not have strong incentive
+to sell and this may affect volumes; but if the price is set low, the company signs.
+margin will narrow.
+E-Commerce - potential for conflict with parent; Cloud platform did not perform as
+expected
+For direct sales through e-com, the main issue is the conflict of interest with the parent
+group, in our view. Moutai company sold 4%-5% of Moutai spirits to its parent group in
+the past several years, according to our estimates, but both Moutai company and its
+parent group also sell Moutai spirits online. The parent company sells Moutai spirits to
+Moutai E-com Company (25% owned by Moutai and 73% by the parent group), who
+then sells them to third party e-com platforms like Tmall/Taobao or directly to end
+customers through Moutai Cloud Store.
+Moutai E-com Company is the operator of brand online flagship stores on third party
+e-coms. Compared with c.1000 tons sold via Moutai E-com Company in 2018, Moutai
+company only sold c.120 tons directly to third party e-platforms according to our
+estimates.
+Since Moutai only owns 25% stake of Moutai E-com Company, we believe there is the
+possibility of business competition and conflict of interest with the parent. It still remains
 2019年1月22日
-  6
 全球投资研究
 贵州茅台 (600519.SS)
-Price gap is the key to success in direct sales channels 
-In our view, price gap is the overriding factor that affects the direct sales volume. In 
-2012, Moutai had an aggressive plan to open 100+ self-owned stores but this did not 
-materialize. The price gap between retail price and ex-factory price of Feitian Moutai 
-peaked at the end of 2011 and Moutai wanted to take this profit by opening self-owned 
-stores. 
-However, the price gap narrowed swiftly in 2012 due to the fall in retail prices post the 
-implementation of the government’s anti-corruption campaign. As a result, operating 
-self-owned stores became less profitable and Moutai discarded the plan for rapid 
-increase of its direct stores. Historically, we have seen that opening self-owned stores 
-has been a good strategy for Moutai, where it could offer appealing retail price on 
-products sold through its self owned stores - especially when retail prices at third party 
-distributors are high. Nevertheless, during low consumption cycles when distributor 
-margins are already thin, self owned stores may not be able to offer a better price given 
-the market price is already close to ex-factory price, in which case sales volume through 
-self-owned stores may decrease sharply. 
-Can direct sales fully substitute for distributors? No, but we expect the share to 
-normalise at 50% 
-Although company intends to increasingly focus on direct sales channel to replace part 
-of the distributor channel, we do not believe that the distributor channel can be 
-completely replaced. Distributors, especially big distributors, have their unique sales 
-networks and relationships with buyers, which we think makes it very unlikely that 
-Moutai could or would want to completely eliminate them from its sales structure. Hence, 
-going forward, we expect the distributor channel to still contribute ~50% of total sales 
-volume for Moutai.   
-Will a change in sales channel structure likely solve corruption issues? 
-In our view, the key reason for the change in the sales channel structure is that direct 
-sales is less likely to give rise to rent-seeking opportunities and corruption within Moutai. 
-We note that Moutai has been tackling issues inside the company as recently as Nov, 
-2018, when the chairman of Moutai E-com Company was removed after “internal 
-inspections” were carried out. The new management team acknowledged, in its letter 
-to distributors, that illegal operations, rent-seeking problems, connected transactions 
-and information leakage have long existed at Moutai E-com Company but it is resolute in 
-working to eradicate these issues. Based on recent steps by the management, including 
-the change in its sales structure, we are increasingly confident on the company making 
-progress on this front. However, it remains to be seen how much these reforms will meet 
-their aims and effect earnings. That said, we give credit to the company for embarking 
-on these reforms, which we expect to be most visible in higher ASPs (see below). 
+to be seen whether the parent company will cede control of Moutai E-com Company to
+Moutai to reconcile this conflict.
+Moutai Cloud E-com Platform, as a strategic e-commerce platform developed by Moutai
+E-com Company, was officially launched in 2016. Moutai aimed to alleviate short-term
+rising pressure on Moutai spirits' retail price and tap a larger chunk of the profit pool by
+pushing product sales onto this platform at a company guided price. However, due to the
+price gap between guided price and market price (company guided price is lower than
+market retail price), arbitrage opportunities arose. Scalpers tried to take advantage of
+this arbitrage opportunity by buying as much Moutai spirits as they could through Moutai
+Cloud E-com Platform at a lower price, and then selling to individual consumers at the
+market retail price. As a result, Moutai started controlling sales through its Cloud E-com
+Platform and only allowed limited purchase per capita. However, its efforts did not have
+the desired results as speculators managed to circumvent the system.
+Taking 2018 CNY as an example, the market price for 53% vol Feitian Moutai was Rmb
+1800/bottle in retail stores while the guided price offered by Cloud Platform was Rmb
+1499/bottle. Some speculators used software to automatically place orders on Moutai
+Cloud E-com Platform and snapped up quotas as soon as the company released any.
+This squeezed out actual consumers who were not able to buy even one bottle, even
+after sometimes waiting for hours. Even after Moutai added advanced technologies like
+ID identification/face identification to its Cloud Platform to prevent speculation in Sep
+2018, scalpers still devised ways to find arbitrage opportunities (such as hiring people,
+often students or senior citizens, to buy the products instead). As a consequence, the
+company withdrew its plans of selling 30% of distributors' allocated product through
+the Cloud E-com platform, which was proposed by the company on Nov 2017, and sales
+through this channel is relative constrained nowadays (30-40% of distributors'
+allocated volume in 2017 vs c.10% in 2018, according to our estimates). In many ways,
+the reforms announced in December 2018 supersede the 2017 online plan.
+Written notes and Customized - not moving the dial
+For the remaining direct sales channels including written-note and customized products,
+we believe there are two key concerns. First, will it be possible for the company to
+completely stop sales through written-note? As mentioned earlier, the company's focus
+on stamping out corruption is the main reason for the current sales channel reform, and
+management has noted its intention to get rid of the written-note channel. This channel
+represents c.33% of direct sales volume in 2018 according to our estimates, but we
+expect this to fall to c.8% in 2019.
+Second, the ex-factory price of customized product is still low (Rmb 1299/bottle for 53%
+Vol Feitian Moutai) compared to the retail price of standard products (Rmb 1800/bottle
+for 53% Vol Feitian Moutai). Since customized products cannot be readily resold, there
+is no arbitrage opportunity, but still, we believe Moutai will need to think of pricing and
+keep a balance between price and volume for customized product.
 2019年1月22日
-  7
 全球投资研究
 贵州茅台 (600519.SS)
-What’s the current sales channel at the ex-factory level? 
- 
- 
-Currently, at the ex-factory level, Moutai has four sales channels: (1) Domestic 
-Distributor channel; (2) Export channel; (3) Supply to parent group; and (4) Direct sales 
-channel.  
- 
- 
-1) Domestic Distributor channel: There are a total of 1,829 domestic distributors for 
-Moutai spirits according to the company website, including 455 Franchised Dealers, and 
-1285 Franchised Stores. In the past five years, distributor channel has been the 
-dominant sales channel, taking 80%+ of annual its supply. For the brand’s flagship 
-product Feitian Moutai, the company now supplies to Franchised Dealers and 
-Franchised Stores at the ex-factory price of Rmb969/bottle, and, according to our 
-channel check, the current wholesale price at which these distributors sell to lower-tier 
-distributors or retail channels is over Rmb1700/bottle, implying c.43% gross 
-margin(much higher than historical average of 25%). We note that these distributors 
-could also choose to sell directly to consumers/group buyers at a retail price of over 
-Rmb1800/bottle, in which case the actual gross margin for distributors could be even 
-higher than 43%.  
- 
-图表 5: Four ex-factory sales channels of Moutai  
-Kweichow Moutai (Listco) 
-Distributors 
-Export 
-Supply to 
-parent group 
-Direct sales 
-Ex-factory 
-Self-owned 
-stores 
-Customized 
-products 
-Supermarkets 
-Written-
-notes 
-E-com 
- 
- 
-资料来源：Gao Hua Securities Research, Company data
- 
-图表 6: Statistics of Moutai distributors 
-3188 
-Domestic distributors 
-62 
-Overseas distributors 
-1829 
-Distributors for Moutai spirits 
- （茅台经销商） 
-1359 
-Distributors for Series products 
-（系列酒经销商） 
-Distributors for 43% Vol 
-Moutai 
-（43度茅台酒经销商） 
-General 
-Agent 
-（总代理） 
-62 
-1285 
-Franchised Stores 
-（专卖店） 
-455 
-Franchised Dealers 
-（特约经销商） 
-27 
- 
- 
-资料来源：Company website, Gao Hua Securities Research
+Price gap is the key to success in direct sales channels
+In our view, price gap is the overriding factor that affects the direct sales volume. In
+2012, Moutai had an aggressive plan to open 100+ self-owned stores but this did not
+materialize. The price gap between retail price and ex-factory price of Feitian Moutai
+peaked at the end of 2011 and Moutai wanted to take this profit by opening self-owned
+stores.
+However, the price gap narrowed swiftly in 2012 due to the fall in retail prices post the
+implementation of the government's anti-corruption campaign. As a result, operating
+self-owned stores became less profitable and Moutai discarded the plan for rapid
+increase of its direct stores. Historically, we have seen that opening self-owned stores
+has been a good strategy for Moutai, where it could offer appealing retail price on
+products sold through its self owned stores - especially when retail prices at third party
+distributors are high. Nevertheless, during low consumption cycles when distributor
+margins are already thin, self owned stores may not be able to offer a better price given
+the market price is already close to ex-factory price, in which case sales volume through
+self-owned stores may decrease sharply.
+Can direct sales fully substitute for distributors? No, but we expect the share to
+normalise at 50%
+Although company intends to increasingly focus on direct sales channel to replace part
+of the distributor channel, we do not believe that the distributor channel can be
+completely replaced. Distributors, especially big distributors, have their unique sales
+networks and relationships with buyers, which we think makes it very unlikely that
+Moutai could or would want to completely eliminate them from its sales structure. Hence,
+going forward, we expect the distributor channel to still contribute ~50% of total sales
+volume for Moutai.
+Will a change in sales channel structure likely solve corruption issues?
+In our view, the key reason for the change in the sales channel structure is that direct
+sales is less likely to give rise to rent-seeking opportunities and corruption within Moutai.
+We note that Moutai has been tackling issues inside the company as recently as Nov,
+2018, when the chairman of Moutai E-com Company was removed after "internal
+inspections" were carried out. The new management team acknowledged, in its letter
+to distributors, that illegal operations, rent-seeking problems, connected transactions
+and information leakage have long existed at Moutai E-com Company but it is resolute in
+working to eradicate these issues. Based on recent steps by the management, including
+the change in its sales structure, we are increasingly confident on the company making
+progress on this front. However, it remains to be seen how much these reforms will meet
+their aims and effect earnings. That said, we give credit to the company for embarking
+on these reforms, which we expect to be most visible in higher ASPs (see below).
 2019年1月22日
-  8
 全球投资研究
 贵州茅台 (600519.SS)
-The company’s franchised stores have been positioned in the form of retail stores in 
-various city centres to provide better access to consumers, and we highlight that there 
-are new forms of Franchised Stores launched in recent years, including stores in airports 
-and high speed railway stations. However, according to the company website, there are 
-only 18 Flagship Franchised Stores in airports/high speed railway stations across the 
-region, accounting for a relative small portion among its 1,285 Franchised Stores.   
- 
- 
- 
-图表 7: GP margin of Moutai distributors is currently at 43%, higher than historical average 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-0
-200
-400
-600
-800
-1,000
-1,200
-1,400
-1,600
-2006
-2007
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017
-2018
-2019
-Price gap btw Moutai wholesale price and ex-factory price
-Distributor GP margin
-Historical average GP 
- 
- 
-资料来源：Gao Hua Securities Research, Company data
- 
-图表 8: The gap between retail price and ex-factory price is still large for Feitian Moutai 
-0
-500
-1000
-1500
-2000
-2500
-Jan-06
-Jan-07
-Jan-08
-Jan-09
-Jan-10
-Jan-11
-Jan-12
-Jan-13
-Jan-14
-Jan-15
-Jan-16
-Jan-17
-Jan-18
-Jan-19
-53% v/v Moutai spirit-ex-factory price
-53% v/v Moutai spirit wholesale price
-53% v/v Moutai spirit retail price
-(Rmb/bottle) 
- 
- 
-资料来源：Gao Hua Securities Research
+What's the current sales channel at the ex-factory level?
+Currently, at the ex-factory level, Moutai has four sales channels: (1) Domestic
+Distributor channel; (2) Export channel; (3) Supply to parent group; and (4) Direct sales
+channel.
+Domestic Distributor channel: There are a total of 1,829 domestic distributors for
+Moutai spirits according to the company website, including 455 Franchised Dealers, and
+1285 Franchised Stores. In the past five years, distributor channel has been the
+dominant sales channel, taking 80%+ of annual its supply. For the brand's flagship
+product Feitian Moutai, the company now supplies to Franchised Dealers and
+Franchised Stores at the ex-factory price of Rmb969/bottle, and, according to our
+channel check, the current wholesale price at which these distributors sell to lower-tier
+distributors or retail channels is over Rmb1700/bottle, implying c.43% gross
+margin(much higher than historical average of 25%). We note that these distributors
+could also choose to sell directly to consumers/group buyers at a retail price of over
+Rmb1800/bottle, in which case the actual gross margin for distributors could be even
+higher than 43%.
 2019年1月22日
-  9
 全球投资研究
 贵州茅台 (600519.SS)
-2) Export channel: There are currently 62 overseas distributors for Moutai spirits. In 
-2017, export revenue including sales of Moutai spirits and series products accounted for 
-4% of total sales. In 2018, we estimate the export volume of Moutai spirits at c.2,150 
-tons, c.7% of total Moutai spirits sales volume. 
-3) Connected-transaction sales to parent group. In 2018, the listco is expected to record 
-a sale of Rmb3.8bn (incl-VAT) to its parent group at the same ex-factory price as it sells 
-to domestic distributors (e.g. Feitian Moutai at the ex-factory price of Rmb969), 
-according to the guidance from the company. We estimate that the supply volume of 
-Moutai spirits to the parent group would be c.1500 tons in 2018, accounting for 5% of 
-total sales volume. 
-Currently, the parent group, together with its other subsidiaries, holds 73% of Moutai 
-E-com Company (Kweichow Moutai Group Electronic Commerce Co., Ltd), which sells 
-Moutai spirits at Tmall, and its self-owned e-commerce platform eMoutai.cn. It also sells 
-directly through its Moutai Cloud-Platform to its end customers. According to Moutai’s 
-connected transaction disclosures, we estimate the sales volume of Moutai spirits from 
-Moutai E-com Company at c.1000 tons.    
-Besides, the parent group also operates three direct-owned trade companies in 
-Guiyang, Beijing and Shanghai, which could engage in wholesaling and group selling. 
-We estimate these three stores to have a combined annual sales volume of 200-300 
-tons in 2018. 
- 
-4) Direct sales. The company has disclosed its direct sales volume and revenue on a 
-quarterly basis in the last couple of years. For 9M18, revenue from direct sales was 
-Rmb3.87bn, 7.4% of its operating revenue. We estimate the 2018 revenue and sales 
- 
-图表 9: Sales channels under parent group 
-Individual consumers 
-Group buying 
-Tmall 
-eMoutai 
-Moutai Cloud 
-Platform 
-Retail stores 
-25% 
-Kweichow Moutai  
-(Listco) 
-64.2% 
-China Guizhou Maotai Wine Factory Co 
-(Parent Group) 
-Kweichow Moutai Group 
-Electronic Commerce Co., Ltd 
-Guiyang Moutai Trade Co., 
-Ltd 
-Beijing Moutai Trade Co., Ltd 
-Shanghai Guizhou Moutai 
-Industrial Co., Ltd 
-100% 
-60% 
-40% 
-73% 
-100% 
-Company  
-Sales 
-Channel 
-Consumer 
- 
- 
- 
-资料来源：Gao Hua Securities Research, Company data
-2019年1月22日
-  10
+The company's franchised stores have been positioned in the form of retail stores in
+various city centres to provide better access to consumers, and we highlight that there
+are new forms of Franchised Stores launched in recent years, including stores in airports
+and high speed railway stations. However, according to the company website, there are
+only 18 Flagship Franchised Stores in airports/high speed railway stations across the
+region, accounting for a relative small portion among its 1,285 Franchised Stores.
 全球投资研究
 贵州茅台 (600519.SS)
-volume of direct sales of Moutai spirits at Rmb7.05bn (11% of total operating 
-revenue)/2447 tons (7.9% of total volume).  
-There are a few of approaches that the company adopts for direct sales, including: 
-—Self-owned stores: Currently there are 36 self-owned stores, which were built during 
-2012 with a total expenditure of Rmb850mn. Basically the company has one self-owned 
-store in each province, with more than one store in big cities like Beijing and Shanghai. 
-Each store has c.10 tons of volume quota on average per year with differentiation 
-between big stores and small stores. Self-owned stores sell directly to end customers at 
-the officially guided price(e.g. for Feitian Moutai at Rmb1499/bottle). 
-—Customized products sold to group accounts: In 2014, Moutai founded the 
-Customized Marketing Company (with 70% stake), which specializes in providing 
-customized products for celebrities or corporates. After five years of operation, we 
-expect this subsidiary to sell c.1000 tons customized products and generate Rmb2.1bn 
-in 2018, accounting for only 3% of total revenue, still far from the initial target of 10% (of 
-total volume) set in 2014, and much lower than the Rmb5bn revenue target set for 2017. 
-—Written-notes: Consumers can buy products directly from the company at a 
-lower-than-retail price (Rmb 1499/bottle for Feitian Moutai) through a written note once 
-approved by management or senior executives. We estimate sales volume through this 
-channel to be c. 800 tons in 2018, accounting for 33%/2.6% of direct sales volume/total 
-volume, but for this to decrease in the coming years as the company puts increasing 
-emphasis on addressing misuse of this channel. 
-—Large supermarkets: In 2014, Moutai, Yonghui Superstores and Shenzhen 
-Guomaoyuan Trade Company co-founded a trade company responsible for selling 
-Moutai spirits to large supermarkets including Yonghui Superstores, Carrefour, Walmart 
-etc. This sales channel is still lagging behind others, accounting for c.5% of direct sales 
-volume, but we believe it will likely become the company’s key focus from this year 
-based on its guidance on a supply shift from distributors to direct sales.   
-—E-com: Moutai company’s direct sales through e-com is limited compared to parent 
-group’s sales through this channel. As we mentioned before, Moutai supplied c.1500 
-tons to parent group in 2018 and parent group leveraged Moutai E-com Company to sell 
-c. 1000 tons, according to our estimates. However, we estimate sale of c. 120 tons by 
-Moutai company directly to some large e-com platforms, such as JD.com in 2018. 
+2) Export channel: There are currently 62 overseas distributors for Moutai spirits. In
+2017, export revenue including sales of Moutai spirits and series products accounted for
+tons, c.7% of total Moutai spirits sales volume.
+Connected-transaction sales to parent group. In 2018, the listco is expected to record
+a sale of Rmb3.8bn (incl-VAT) to its parent group at the same ex-factory price as it sells
+to domestic distributors (e.g. Feitian Moutai at the ex-factory price of Rmb969),
+according to the guidance from the company. We estimate that the supply volume of
+Moutai spirits to the parent group would be c.1500 tons in 2018, accounting for 5% of
+total sales volume.
+Currently, the parent group, together with its other subsidiaries, holds 73% of Moutai
+E-com Company (Kweichow Moutai Group Electronic Commerce Co., Ltd), which sells
+Moutai spirits at Tmall, and its self-owned e-commerce platform eMoutai.cn. It also sells
+directly through its Moutai Cloud-Platform to its end customers. According to Moutai's
+connected transaction disclosures, we estimate the sales volume of Moutai spirits from
+Moutai E-com Company at c.1000 tons.
+Besides, the parent group also operates three direct-owned trade companies in
+Guiyang, Beijing and Shanghai, which could engage in wholesaling and group selling.
+tons in 2018.
+4) Direct sales. The company has disclosed its direct sales volume and revenue on a
+quarterly basis in the last couple of years. For 9M18, revenue from direct sales was
+Rmb3.87bn, 7.4% of its operating revenue. We estimate the 2018 revenue and sales
 2019年1月22日
-  11
 全球投资研究
 贵州茅台 (600519.SS)
- 
-A boost to both revenues and margins 
- 
- 
-We estimate that the sales channel change will have an impact on blended ASP for 
-Moutai spirits and thus affect revenue, margins and earnings. Moutai’s blended ASP 
-can be affected through 3 channels: (1) Price hike which is guided by the company; (2) 
-product mix change; (3) sales channel change. 
-Moutai implemented a price hike on Jan. 1, 2018 and management noted in Jan 2019 
-that they would not implement any price hikes this year. However, due to the pre-sale 
-procedure, part of the products sold in 1Q18 were sold at the old price before the price 
-hike took effect. As a result, we estimate 1% ASP increase in 2019. For product mix 
-upgrade, management hoped to direct incremental sales volume to premium products, 
-so we think Moutai may provide more Jingpin Moutai, Vintage Moutai and Zodiac 
-Moutai, and accordingly drive 5% ASP increase in 2019. 
-Incorporating the change in sales channel mix, we estimate a 7% increase in ASP 
-considering higher ex-factory price through direct sales channel. Overall, we estimate 
-13% ASP increase for Moutai spirits in 2019. 
- 
-图表 10: Moutai spirits volume distribution through four 
-ex-factory sales channels 
- 
-图表 11: Volume breakdown of Moutai spirits across various 
-direct sales channels 
-0
-5,000
-10,000
-15,000
-20,000
-25,000
-30,000
-35,000
-40,000
-45,000
-2012
-2013
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-2021E
-Distributor channel
-Direct sales
-Export
-Supply to parent group
-tons 
-0
-2000
-4000
-6000
-8000
-10000
-12000
-14000
-2015
-2016
-2017
-2018E
-2019E
-2020E
-2021E
-Self-owned stores
-Customized products
-Written-note at the factory
-Direct supply to KAs
-Direct supply to other e-com
-tons 
- 
- 
-资料来源：Company data, Gao Hua Securities Research
- 
- 
-资料来源：Company data, Gao Hua Securities Research
+volume of direct sales of Moutai spirits at Rmb7.05bn (11% of total operating
+revenue)/2447 tons (7.9% of total volume).
+There are a few of approaches that the company adopts for direct sales, including:
+—Self-owned stores: Currently there are 36 self-owned stores, which were built during
+2012 with a total expenditure of Rmb850mn. Basically the company has one self-owned
+store in each province, with more than one store in big cities like Beijing and Shanghai.
+Each store has c.10 tons of volume quota on average per year with differentiation
+between big stores and small stores. Self-owned stores sell directly to end customers at
+the officially guided price(e.g. for Feitian Moutai at Rmb1499/bottle).
+—Customized products sold to group accounts: In 2014, Moutai founded the
+Customized Marketing Company (with 70% stake), which specializes in providing
+customized products for celebrities or corporates. After five years of operation, we
+expect this subsidiary to sell c.1000 tons customized products and generate Rmb2.1bn
+in 2018, accounting for only 3% of total revenue, still far from the initial target of 10% (of
+total volume) set in 2014, and much lower than the Rmb5bn revenue target set for 2017.
+—Written-notes: Consumers can buy products directly from the company at a
+lower-than-retail price (Rmb 1499/bottle for Feitian Moutai) through a written note once
+approved by management or senior executives. We estimate sales volume through this
+channel to be c. 800 tons in 2018, accounting for 33%/2.6% of direct sales volume/total
+volume, but for this to decrease in the coming years as the company puts increasing
+emphasis on addressing misuse of this channel.
+—Large supermarkets: In 2014, Moutai, Yonghui Superstores and Shenzhen
+Guomaoyuan Trade Company co-founded a trade company responsible for selling
+Moutai spirits to large supermarkets including Yonghui Superstores, Carrefour, Walmart
+etc. This sales channel is still lagging behind others, accounting for c.5% of direct sales
+volume, but we believe it will likely become the company's key focus from this year
+based on its guidance on a supply shift from distributors to direct sales.
+—E-com: Moutai company's direct sales through e-com is limited compared to parent
+tons to parent group in 2018 and parent group leveraged Moutai E-com Company to sell
+c. 1000 tons, according to our estimates. However, we estimate sale of c. 120 tons by
+Moutai company directly to some large e-com platforms, such as JD.com in 2018.
 2019年1月22日
-  12
 全球投资研究
 贵州茅台 (600519.SS)
- 
-For Feitian Moutai, the mainstream Moutai spirit, gross profit margin was c.92% in 2018 
-for non-direct sales channels including distributor channels, supply to parent group and 
-exports per our estimates. For direct sales channels, the overall gross margin is higher 
-than non-direct sales but also depends on distributions among various types of direct 
-sales channel. The most profitable channels have been self-owned stores and 
-written-note, which have managed to achieve c.95% gross profit margin historically. We 
-estimate the gross margin of Moutai spirits to increase 0.5ppt, from 93.8% in 2018 to 
-94.3% in 2019 and company EBIT margin/NP margin to increase 0.9ppt/0.7ppt to 
-65.9%/46% in 2019E. 
-We also conducted scenario analysis for this sales channel change and analyzed 
-blended ASP of Moutai spirits by direct sales on revenue and net profit. In our base 
-case, we have Rmb 1366/bottle for Moutai spirits blended ASP through direct sales in 
-2019, which is based on our sales channel breakdown. In the bear case/bull case, we 
-assume -10%/10% change on direct sales ASP. As a result, our revenue changes by 
--3.0%/2.6% and net profit by -3.4%/3.0% respectively accordingly to our estimates.  
- 
-What could be the other impacts beyond earnings? 
-As discussed in our previous report (2018 results and 2019 guidance in line, structural 
-reform debut), we think there are additional benefits besides earnings improvement if the 
-company can stick to planned sales channel reform and implement it smoothly. First, the 
- 
-图表 12: Moutai blended ASP waterfall 
-Sales channel change drive 7% ASP increase in 2019 
- 
-图表 13: Ex-factory price of 53% Vol Feitian Moutai for 
-different channels 
-1041 
-1176 
-10 
-51 
-73 
-950
-1000
-1050
-1100
-1150
-1200
-ASP in 2018E
-Price hike
-Product mix chgs
-Sales channel
-chgs
-ASP in 2019E
-Moutai ASP change waterfall 
-Rmb/bottle 
-Sales Channel
-Ex-factory price 
-(Rmb/bottle)
-Distributors
-969
-                           
-Export
-969
-                           
-Supply to parent group
-969
-                           
-Self-owned stores
-1,499
-                        
-Customized products
-1,299
-                        
-Written-note at the factory
-1,499
-                        
-Direct supply to KAs
-969
-                           
-Direct supply to other e-com
-969
-                           
-  Direct  
-  sales  
- 
- 
-资料来源：Gao Hua Securities Research
- 
- 
-资料来源：Gao Hua Securities Research
- 
-图表 14: Scenario Analysis on sales channel change for 2019E 
-Bear case
-Base case
-Bull case
-ASP or direct sales (Rmb/bottle)
-1,229
-1,366
-1,503
-ASP of non-direct sales (Rmb/bottle)
-1,006
-1,006
-1,006
-direct sales price premium
-22%
-36%
-49%
-Aggregated ASP (Rmb/bottle)
-1,135
-1,176
-1,212
-Revenue (Rmb mn)
-85,355
-87,969
-90,297
-NP (Rmb mn)
-39,100
-40,460
-41,664
-TP (Rmb)
-814
-842
-867
- 
- 
-资料来源：Company data, Gao Hua Securities Research
+A boost to both revenues and margins
+We estimate that the sales channel change will have an impact on blended ASP for
+Moutai spirits and thus affect revenue, margins and earnings. Moutai's blended ASP
+can be affected through 3 channels: (1) Price hike which is guided by the company; (2)
+product mix change; (3) sales channel change.
+that they would not implement any price hikes this year. However, due to the pre-sale
+procedure, part of the products sold in 1Q18 were sold at the old price before the price
+hike took effect. As a result, we estimate 1% ASP increase in 2019. For product mix
+upgrade, management hoped to direct incremental sales volume to premium products,
+so we think Moutai may provide more Jingpin Moutai, Vintage Moutai and Zodiac
+Moutai, and accordingly drive 5% ASP increase in 2019.
+Incorporating the change in sales channel mix, we estimate a 7% increase in ASP
+considering higher ex-factory price through direct sales channel. Overall, we estimate
+13% ASP increase for Moutai spirits in 2019.
 2019年1月22日
-  13
 全球投资研究
 贵州茅台 (600519.SS)
-company will have better control on pricing. The reality is Moutai does not have direct 
-control over retail price to end consumers given it sells vast majority of products to 
-distributors. So if it can shift more volume to direct sales especially to self-owned stores, 
-it will be able to interfere in market price through adjusting retail price in self-owned 
-stores, and as a consequence, price volatility and market risk will be reduced. Second, 
-closing doors for new distributors and cutting non-compliant distributors can help reduce 
-potential corruption behavior and enhance channel management.  
-Estimates and valuation 
-We revise up our 2019E-2021E revenue estimates by 1.2%-3.8% and 2019E-2021E 
-EPS by 3.5%-6.6% mainly to reflect greater ASP increase of Moutai spirits due to sales 
-channel changes. We introduce 2022E estimates and raise our 12-month target price to 
-Rmb 842(from Rmb 708) still based on 22x PE, but rolled over to 2022E, and discounted 
-back to 2019E (using 10% sector COE). Previously we used 22x 2021E PE, discounted 
-back to 2018. Maintain Buy (on CL) on its market leading position and visible growth 
-potential.   
-Key risks: Consumption slowdown driven by worsening macro environment, corporate 
-governance problems due to management changes, and slower than expected sales 
-channel shift from distributors to direct sales. 
+for non-direct sales channels including distributor channels, supply to parent group and
+exports per our estimates. For direct sales channels, the overall gross margin is higher
+than non-direct sales but also depends on distributions among various types of direct
+sales channel. The most profitable channels have been self-owned stores and
+written-note, which have managed to achieve c.95% gross profit margin historically. We
+estimate the gross margin of Moutai spirits to increase 0.5ppt, from 93.8% in 2018 to
+94.3% in 2019 and company EBIT margin/NP margin to increase 0.9ppt/0.7ppt to
+65.9%/46% in 2019E.
+We also conducted scenario analysis for this sales channel change and analyzed
+blended ASP of Moutai spirits by direct sales on revenue and net profit. In our base
+case, we have Rmb 1366/bottle for Moutai spirits blended ASP through direct sales in
+2019, which is based on our sales channel breakdown. In the bear case/bull case, we
+assume -10%/10% change on direct sales ASP. As a result, our revenue changes by
+-3.0%/2.6% and net profit by -3.4%/3.0% respectively accordingly to our estimates.
+What could be the other impacts beyond earnings?
+As discussed in our previous report (2018 results and 2019 guidance in line, structural
+reform debut), we think there are additional benefits besides earnings improvement if the
+company can stick to planned sales channel reform and implement it smoothly. First, the
 2019年1月22日
-  14
 全球投资研究
 贵州茅台 (600519.SS)
- 
- 
-高华证券感谢高盛分析师马云帆对本报告的贡献。
- 
-图表 15: Key financial metrics of Moutai 
-Rmb mn
-2015
-2016
-2017
-2018E
-2019E
-2020E
-2021E
-2022E
-Total revenue
-33,447
-40,155
-61,063
-75,347
-87,969
-102,048
-120,008
-135,841
-Moutai
-31,546
-36,714
-52,394
-64,541
-74,984
-86,765
-101,820
-114,332
-Sales Volume (tons)
-19,776
-22,918
-30,206
-31,007
-31,889
-34,920
-39,920
-44,519
-YoY
-10%
-16%
-32%
-3%
-3%
-10%
-14%
-12%
-ASP(Rmb/bottle)
-798
-           
-801
-           
-867
-           
-1,041
-        
-1,176
-        
-1,242
-        
-1,275
-        
-1,284
-        
-YoY
--7%
-0%
-8%
-20%
-13%
-6%
-3%
-1%
-Series products
-1,108
-2,127
-5,774
-7,333
-8,470
-9,866
-11,686
-13,708
-Sales Volume (tons)
-7,742
-14,027
-29,903
-29,903
-32,893
-36,840
-42,366
-48,721
-YoY 
-25%
-81%
-113%
-0%
-10%
-12%
-15%
-15%
-ASP(Rmb/bottle)
-72
-76
-97
-123
-129
-134
-138
-141
-YoY
--5%
-6%
-27%
-27%
-5%
-4%
-3%
-2%
-YoY - total revenue
-3.8%
-20.1%
-52.1%
-23.4%
-16.8%
-16.0%
-17.6%
-13.2%
-Moutai
-3%
-16%
-43%
-23%
-16%
-16%
-17%
-12%
-series products
-18%
-92%
-172%
-27%
-16%
-16%
-18%
-17%
-Total COGS
-2,538
-3,410
-6,005
-6,334
-6,918
-7,910
-9,369
-10,932
-Moutai
-2,012
-2,386
-3,764
-4,018
-4,298
-4,894
-5,819
-6,749
-series p products
-522
-988
-2,151
-2,216
-2,510
-2,896
-3,430
-4,063
-Gross profit
-30,909
-36,745
-55,058
-69,014
-81,051
-94,138
-110,639
-124,910
-Moutai
-29,534
-34,329
-48,631
-60,523
-70,686
-81,870
-96,002
-107,583
-series products
-586
-1,139
-3,623
-5,118
-5,960
-6,970
-8,256
-9,645
-YoY - gross profit
-3%
-19%
-50%
-25%
-17%
-16%
-18%
-13%
-Gross margin
-92.4%
-91.5%
-90.2%
-91.6%
-92.1%
-92.2%
-92.2%
-92.0%
-Moutai
-93.6%
-93.5%
-92.8%
-93.8%
-94.3%
-94.4%
-94.3%
-94.1%
-series products
-52.9%
-53.5%
-62.7%
-69.8%
-70.4%
-70.6%
-70.6%
-70.4%
-Sales tax and add-on
-3,449
-6,509
-8,404
-10,863
-12,770
-14,712
-17,181
-19,312
-as % of revenue
-10.3%
-16.2%
-13.8%
-14.4%
-14.5%
-14.4%
-14.3%
-14.2%
-Sales expense
-1,485
-1,681
-2,986
-3,763
-4,174
-4,587
-4,914
-5,562
-as % of revenue
-4.4%
-4.2%
-4.9%
-5.0%
-4.7%
-4.5%
-4.1%
-4.1%
-Administrative expense
-3,813
-4,187
-4,721
-5,286
-5,904
-6,645
-7,334
-8,166
-as % of revenue
-11.4%
-10.4%
-7.7%
-7.0%
-6.7%
-6.5%
-6.1%
-6.0%
-Net financial expenses
--67
--33
--56
--9
--11
--14
--17
--21
-Pre-tax profit (income before tax)
-22,002
-23,958
-38,740
-48,704
-57,779
-67,743
-80,721
-91,349
-Income taxes
-5,547
-6,027
-9,734
-12,176
-14,445
-16,936
-20,180
-22,837
-Net income
-16,455
-17,931
-29,006
-36,528
-43,335
-50,807
-60,541
-68,512
-Minority interests
-952
-1,212
-1,927
-2,423
-2,874
-3,370
-4,015
-4,544
-Net income attributable to parent shareholders
-15,503
-16,718
-27,079
-34,105
-40,460
-47,437
-56,525
-63,968
-YoY
-1%
-8%
-62%
-25.9%
-19%
-17%
-19%
-13%
-EPS
-12.34
-13.31
-21.56
-27.15
-32.21
-37.76
-45.00
-50.92
- 
- 
-资料来源：Company data, Gao Hua Securities Research
- 
-图表 16: Moutai historical one year forward PE 
- 
-图表 17: Global peers one year forward PE 
-0
-5
-10
-15
-20
-25
-30
-35
-40
-45
-Moutai forward PE
-10-year historical avg: 21.7x 
-0
-5
-10
-15
-20
-25
-30
-35
-40
-45
-Diageo
-Pernod Ricard
-Davide Campari-Milano SPA
-Remy Cointreau
- 
- 
-资料来源：Wind Financial, Gao Hua Securities Research
- 
- 
-资料来源：Bloomberg, Gao Hua Securities Research
+company will have better control on pricing. The reality is Moutai does not have direct
+control over retail price to end consumers given it sells vast majority of products to
+distributors. So if it can shift more volume to direct sales especially to self-owned stores,
+it will be able to interfere in market price through adjusting retail price in self-owned
+stores, and as a consequence, price volatility and market risk will be reduced. Second,
+closing doors for new distributors and cutting non-compliant distributors can help reduce
+potential corruption behavior and enhance channel management.
+Estimates and valuation
+We revise up our 2019E-2021E revenue estimates by 1.2%-3.8% and 2019E-2021E
+EPS by 3.5%-6.6% mainly to reflect greater ASP increase of Moutai spirits due to sales
+channel changes. We introduce 2022E estimates and raise our 12-month target price to
+Rmb 842(from Rmb 708) still based on 22x PE, but rolled over to 2022E, and discounted
+back to 2019E (using 10% sector COE). Previously we used 22x 2021E PE, discounted
+back to 2018. Maintain Buy (on CL) on its market leading position and visible growth
+potential.
+Key risks: Consumption slowdown driven by worsening macro environment, corporate
+governance problems due to management changes, and slower than expected sales
+channel shift from distributors to direct sales.
 2019年1月22日
-  15
 全球投资研究
 贵州茅台 (600519.SS)
-信息披露附录 
- 
- 
-申明 
+2019年1月22日
+全球投资研究
+贵州茅台 (600519.SS)
+信息披露附录
 本人，廖绪发, CFA，在此申明，本报告所表述的所有观点准确反映了本人对上述公司或其证券的个人看法。此外，本人薪金的任何部分不曾与，不与，
-也将不会与本报告中的具体推荐意见或观点直接或间接相关。 
-投资摘要 
+也将不会与本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增
-长、回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。  
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：  
+长、回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下:
 增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本
 回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据
-12个月的历史波动性计算并经股息调整。  
-并购评分 
+12个月的历史波动性计算并经股息调整。
+并购评分
 在我们的全球覆盖范围中，我们使用并购框架来分析股票，综合考虑定性和定量因素（各行业和地区可能会有所不同）以计入某些公司被收购的可能性。
 然后我们按照从1到3对公司进行并购评分，其中1分代表公司成为并购标的的概率较高(30%-50%)，2分代表概率为中等(15%-30%)，3分代表概率较低
-(0%-15%)。对于评分为1或2的公司，我们按照研究部统一标准将并购因素体现在我们的目标价格当中。并购评分为3被认为意义不大，因此不予体现在
-我们的目标价格当中，分析师在研究报告中可以予以讨论或不予讨论。 
-Quantum 
+Quantum
 Quantum是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比
-较。  
-GS SUSTAIN 
+GS SUSTAIN
 GS SUSTAIN是一项侧重于通过发现优质行业领先企业而实现长期超额收益的全球投资策略。GS SUSTAIN 50关注名单列出了我们认为凭借出色的资本
 回报、具有可持续性的竞争优势和对ESG（环境、社会和企业治理）风险的有效管理而有望在长期内相对于全球同业表现出色的行业领军企业。候选企
-业主要基于对企业在这三方面表现的综合量化分析筛选而出。 
-相关的股票研究范围 
-廖绪发, CFA：A股传媒、A股食品饮料。 
-A股食品饮料：Anhui Gujing Distillery Co.、Jiangsu King’s Luck Brewery、Jiangsu Yanghe、Kweichow Moutai、Luzhou Laojiao、Qinghai Huzhu 
-Barley Wine Co.、Shanxi Xinghuacun Fen Wine、Sichuan Swellfun Co.、Tsingtao Brewery (A)、Wuliangye Yibin。 
-A股传媒：Alpha Group、Beijing Enlight Media Co.、Beijing Gehua CATV、Beijing Hualubaina Film & TV Co.、BlueFocus Communication、China 
-South Publishing & Media、Focus Media Information Tech、Guangdong Advertising、Huayi Brothers Media、IMAX China Holding、Jiangsu 
-Phoenix、Oriental Pearl、Ourpalm Co.、Wanda Film、Zhejiang Huace Film & TV。 
-信息披露 
-与公司有关的法定披露 
-以下信息披露了高盛高华证券有限责任公司（“高盛高华”）与北京高华证券有限责任公司（“高华证券”）投资研究部所研究的并在本研究报告中提及
-的公司之间的关系。 
-高盛高华在今后3个月中预计将从下述公司获得或寻求获得投资银行服务报酬： Kweichow Moutai (Rmb665.66) 
-高盛高华在过去12个月中与下述公司存在投资银行客户关系： Kweichow Moutai (Rmb665.66) 
-公司评级、研究行业及评级和相关定义 
-买入、中性、卖出：分析师建议将评为买入或卖出的股票纳入地区投资名单。一只股票在投资名单中评为买入或卖出由其相对于所属研究行业的总体潜在
+业主要基于对企业在这三方面表现的综合量化分析筛选而出。
+相关的股票研究范围
+廖绪发, CFA: A股传媒、A股食品饮料。
+A股食品饮料: Anhui Gujing Distillery Co.、Jiangsu King’s Luck Brewery、Jiangsu Yanghe、Kweichow Moutai、Luzhou Laojiao、Qinghai Huzhu
+Barley Wine Co., Shanxi Xinghuacun Fen Wine, Sichuan Swellfun Co., Tsingtao Brewery (A), Wuliangye Yibin。
+A股传媒: Alpha Group、Beijing Enlight Media Co.、Beijing Gehua CATV、Beijing Hualubaina Film & TV Co.、BlueFocus Communication、China
+South Publishing & Media、Focus Media Information Tech、Guangdong Advertising、Huayi Brothers Media、IMAX China Holding、Jiangsu
+Phoenix, Oriental Pearl, Ourpalm Co., Wanda Film, Zhejiang Huace Film & TV.
+信息披露
+与公司有关的法定披露
+的公司之间的关系。
+高盛高华在今后3个月中预计将从下述公司获得或寻求获得投资银行服务报酬: Kweichow Moutai (Rmb665.66)
+高盛高华在过去12个月中与下述公司存在投资银行客户关系: Kweichow Moutai (Rmb665.66)
+公司评级、研究行业及评级和相关定义
 回报决定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地
-区投资评估委员会根据25-35%的股票评级为买入、10-15%的股票评级为卖出的全球指导原则来管理该地区的投资名单；但是，在某一特定分析师所覆盖
 行业中买入和卖出评级的分布可能根据地区投资评估委员会的决定而有所不同。此外，每个地区投资评估委员会管理着地区强力买入或卖出名单，该名单
-以总体潜在回报规模和/或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将股票加入或移出此类强力买入或卖出名单并不意味着分析师
-对这些股票的投资评级发生了改变。 
-总体潜在回报：代表当前股价低于或高于一定时间范围内预测目标价格的幅度，包括所有已付或预期股息。分析师被要求对研究范围内的所有股票给出目
-标价格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。 
-研究行业及评级：每个行业研究的所有股票名单可登陆http://www.gs.com/research/hedge.html通过主要分析师、股票和行业进行查询。分析师给出下列
-评级中的其中一项代表其根据行业历史基本面及／或估值对研究对象的投资前景的看法。 具吸引力(A)：未来12个月内投资前景优于研究范围的历史基本
-面及／或估值。 中性(N)：未来12个月内投资前景相对研究范围的历史基本面及／或估值持平。 谨慎(C)：未来12个月内投资前景劣于研究范围的历史基
-本面及／或估值。  
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予
+对这些股票的投资评级发生了改变。
+评级中的其中一项代表其根据行业历史基本面及／或估值对研究对象的投资前景的看法。        具吸引力(A)：未来12个月内投资前景优于研究范围的历史基本
+面及／或估值。 中性(N): 未来12个月内投资前景相对研究范围的历史基本面及／或估值持平。 谨慎(C): 未来12个月内投资前景劣于研究范围的历史基
+本面及／或估值。
 以除去。 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票
 给予投资评级和价格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经
 暂停对该公司的研究。 没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因
-此不包括在报告内。  
-一般披露 
-本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。 
+此不包括在报告内。
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。
 2019年1月22日
-  16
 全球投资研究
 贵州茅台 (600519.SS)
 本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整
 性，客户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会
-适时地更新我们的研究，但各种规定可能会阻止我们这样做。除了一些定期出版的行业报告之外，绝大多数报告是在分析师认为适当的时候不定期地出
-版。 
 高盛高华为高华证券的关联机构，从事投资银行业务。高华证券、高盛高华及它们的关联机构与本报告中涉及的大部分公司保持着投资银行业务和其它业
-务关系。 
+务关系。
 我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们
-的资产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。 
-本报告中署名的分析师可能已经与包括高华证券销售人员和交易员在内的我们的客户讨论，或在本报告中讨论交易策略，其中提及可能会对本报告讨论的
-证券市场价格产生短期影响的推动因素或事件，该影响在方向上可能与分析师发布的股票目标价格相反。任何此类交易策略都区别于且不影响分析师对于
-该股的基本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。 
-高华证券及其关联机构、高级职员、董事和雇员，不包括股票分析师和信贷分析师，将不时地根据适用的法律和法规对本研究报告所涉及的证券或衍生工
-具持有多头或空头头寸，担任上述证券或衍生工具的交易对手，或买卖上述证券或衍生工具。 
+的资产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
+该股的基本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
+具持有多头或空头头寸，担任上述证券或衍生工具的交易对手，或买卖上述证券或衍生工具。
 在高盛组织的会议上的第三方演讲嘉宾（包括高华证券或高盛其它部门人员）的观点不一定反映全球投资研究部的观点，也并非高华证券或高盛的正式观
-点。 
 在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到
 个别客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意
 见。本报告中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失
-本金。 
+本金。
 某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自
-这一投资的收入产生不良影响。 
-投资者可以向高华销售代表取得或通过http://www.theocc.com/about/publications/character-risks.jsp取得当前的期权披露文件。对于包含多重期权买卖的
-期权策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。  
+这一投资的收入产生不良影响。
+期权策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。
 全球投资研究部提供的不同服务层级：根据您对接收沟通信息的频率和方式的个人偏好、您的风险承受能力、投资重心和视角（例如整体市场、具体行
 业、长线、短线）、您与高华证券的整体客户关系的规模和范围、以及法律法规限制等各种因素，高华证券全球投资研究部向您提供的服务层级和类型可
 能与高华证券提供给内部和其他外部客户的服务层级和类型有所不同。例如，某些客户可能要求在关于某个证券的研究报告发表之时收到通知，某些客户
-可能要求我们将内部客户网上提供的分析师基本面分析背后的某些具体数据通过数据流或其它途径以电子方式发送给他们。分析师基本面研究观点（如股
-票评级、目标价格或盈利预测大幅调整）的改变，在被纳入研究报告、并通过电子形式发表在内部客户网上或通过其它必要方式向有权接收此类研究报告
-的所有客户大范围发布之前，不得向任何客户透露。 
+的所有客户大范围发布之前，不得向任何客户透露。
 所有研究报告均以电子出版物的形式刊登在高华客户网上并向所有客户同步提供。高华未授权任何第三方整合者转发其研究报告。有关一个或多个证券、
-市场或资产类别（包括相关服务）的研究报告、模型或其它数据，请联络您的高华销售代表。 
-北京高华证券有限责任公司版权所有 © 2019年  
-未经北京高华证券有限责任公司事先书面同意，本材料的任何部分均不得(i)以任何方式制作任何形式的拷贝、复印件或复制品，或(ii)再次分发。  
+市场或资产类别（包括相关服务）的研究报告、模型或其它数据，请联络您的高华销售代表。
 2019年1月22日
-  17
-全球投资研究
-贵州茅台 (600519.SS)

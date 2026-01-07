@@ -1,420 +1,82 @@
-p
-SAIC Motor
+Date
 Rating
+SAIC Motor
 Hold
-Valuation & Risks
-Automobiles & Components
-Price at 29 Aug 2017 (CNY)
-30.20
-Price target - 12mth (CNY)
-29.10
-52-week range (CNY)
-32.69 - 21.13
-Shanghai Composite
-3,366
 Company Update
 Asia
 China
-Company
-SAIC Motor
 Reuters
 Bloomberg
 Exchange
 Ticker
+Automobiles & Components
 600104.SS
 600104 CH
 SHH
-600104
-Date
-30 August 2017
-Deutsche Bank
-Markets Research
 1H17 post-results conference call
 takeaways
+Valuation & Risks
 SAIC Motor hosted a post-1H17-results conference call earlier today. Key
+Vincent Ha, CFA
+Research Analyst
 takeaways are as follows:
-- 2H17 outlook: SAIC now expects China auto sales to grow 5% YoY in FY17, with
+2H17 outlook: SAIC now expects China auto sales to grow 5% YoY in FY17, with
+Fei Sun, CFA
 both passenger vehicle (PV) sales and commercial vehicle (CV) growing at 5%. In
+Research Analyst
 other words, the company foresees a pick-up in the 2H17 PV growth rate but a
 slowdown in 2H17 CV sales. Management attributes their slightly more positive
 PV outlook to 1) recent improving sales trends, 2) an economic growth recovery,
-3) a potential last-minute sales rush before the tax stimulus ends, 4) increasing
-demand for new energy vehicles (NEVs) and 5) consumer upgrades. On the ﬂip
+a potential last-minute sales rush before the tax stimulus ends, 4) increasing
+demand for new energy vehicles (NEVs) and 5) consumer upgrades. On the flip
 side, the company expects challenges such as increasing competition, consumers
-looking for product diﬀerentiation and a high base in the CV market.
-- Proﬁtability: Management attributes the consolidated 1H17 gross proﬁt margin
+looking for product differentiation and a high base in the CV market.
+Profitability: Management attributes the consolidated 1H17 gross profit margin
 increase to product mix improvement, e.g. higher SUV sales in SAIC Volkswagen
-(SVW) and Cadillac sales in SAIC GM (SGM), but partially oﬀset by price cuts. Due
+(SVW) and Cadillac sales in SAIC GM (SGM), but partially offset by price cuts. Due
+Price/price relative
 to slow PV market growth in 1H17, promotion cost was higher and that pushed
 up overall selling costs, together with a rise in logistics cost.
-- Roewe local brand: The operation achieved a better proﬁt in 1H17 at the
+- Roewe local brand: The operation achieved a better profit in 1H17 at the
 manufacturing level (i.e. excluding R&D expenses) and the RX5 SUV helped sales.
 Going forward, the company will launch the RX3 SUV in 2H17E and more models
 in future years. The brand is going to roll out more connected car models (similar
 to i6 sedan and MG ZS SUV) and will consider capitalizing a part of its R&D in
 future years.
-- SAIC-GM-Wuling: The JV has been successful in the transition, achieving strong
-growth in the Baojun brand (with popular products like the 510 SUV and 310
-sedan), which oﬀset weakening minicar demand. However, cost is still high in
+SAIC-GM-Wuling: The JV has been successful in the transition, achieving strong
+sedan), which offset weakening minicar demand. However, cost is still high in
 the transition phase. Going forward, management still sees demand upside for
 Baojun 510, with possible monthly sales of 40k units.
 - SVW and SGM: The faster growth in earnings than volume was due to a mix
 improvement, with higher-margin SVW SUV, SGM MPV and SGM premium brand
-sales oﬀsetting a high sales base and price pressure. Besides these, new SUVs
+sales offsetting a high sales base and price pressure. Besides these, new SUVs
 from Skoda (Kodiaq) and Chevrolet (Equinox) helped enhance the brands' image.
-Vincent Ha, CFA
-Research Analyst
-+852-2203 6247
-Fei Sun, CFA
-Research Analyst
-+852-2203 6130
-Key changes
-TP
-28.35 to 29.10 ↑
-2.6%
-Sales (FYE)
-851,052 to
-834,359
-↓
--2.0%
-Op prof margin
-(FYE)
-2.9 to 2.7 ↓
--6.1%
-Net proﬁt (FYE)
-35,406.1 to
-35,382.9
-↓
--0.1%
-Source: Deutsche Bank
-Price/price relative
-SAIC Motor
-Shanghai Composite (Rebased)
-2015
-2016
-2017
-20
-40
-0
-Performance (%)
-1m
-3m 12m
-Absolute
--0.5
-2.0 35.7
-Shanghai Composite
-3.4
-8.2
-9.6
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-17.1
-Net debt/equity (%)
--9.8
-Book value/share (CNY)
-19.09
-Price/book (x)
-1.6
-Net interest cover (x)
-–
-Operating proﬁt margin (%)
-2.7
-Source: Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
-this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017.
-Distributed on: 30/08/2017 09:39:07 GMT
-0bed7b6cf11c
-30 August 2017
-Automobiles & Components
-SAIC Motor
-- NEV: SAIC sold over 14k Roewe brand NEVs (up 46% YoY) in 1H17, with 1Q17
 sales hindered by a policy overhang. Going forward, SAIC will continue to focus
 on the development of NEVs and connected cars, with more models not only
 at local brands but also JVs. In terms of R&D, the company has commenced
-developing NEV-speciﬁc platforms and setting up JVs for batteries and electric
+developing NEV-specific platforms and setting up JVs for batteries and electric
 control systems.
 DB view: stable earnings growth and high yield to support current valuation
-While SAIC management has become more upbeat in China auto sector's 2H17
 demand outlook, we do not expect much of a YoY sales pick-up and hence cut
 our FY17-19 net revenue forecasts by 2.0-3.3% on lower sales assumptions for
-the consolidated businesses. Meanwhile, we trim our FY17-19 net proﬁt forecasts
-marginally by 0.1-1.0%, with lower sales expectations partly oﬀset by higher JV
+the consolidated businesses. Meanwhile, we trim our FY17-19 net profit forecasts
+marginally by 0.1-1.0%, with lower sales expectations partly offset by higher JV
 margin assumptions. We value SAIC Motor at 9x FY18E P/E (from 9x FY17/18E),
-which is above the company's historical trading average. This is justiﬁed, in
-our view, as we expect SAIC to achieve a three-year net proﬁt CAGR of 7%
+which is above the company's historical trading average. This is justified, in
+our view, as we expect SAIC to achieve a three-year net profit CAGR of 7%
 in FY16-19E. On a P/BV basis, we believe the company's implied FY18E target
-P/BV of 1.4x is justiﬁed, considering its 15-16% sustainable ROE. Despite an
+P/BV of 1.4x is justified, considering its 15-16% sustainable ROE. Despite an
 attractive yield, we do not see share price upside and maintain our Hold rating.
 Key company downside risks include: 1) a weak reception for its new models
 from various SAIC brands; 2) pricing pressure amid industry competition; and 3)
-worse-than-expected local brand proﬁtability. Key upside risks include: 1) better-
+worse-than-expected local brand profitability. Key upside risks include: 1) better-
 than-expected sales volume and pricing; and 2) better-than-expected local brand
-proﬁtability.
-Figure 1: SAIC - changes in key assumptions
-2017E
-2018E
-2019E
-Sales volume (incl. JVs) (units)
-New
-6,527,197 6,787,741 6,987,355
-Old
-6,815,617 7,134,207 7,356,356
-% Chg
--4.2%
--4.9%
--5.0%
-Net revenue (RMBm)
-New
-834,359
-885,810
-924,819
-Old
-851,052
-915,246
-956,870
-% Chg
--2.0%
--3.2%
--3.3%
-Profit contribution from JVs (RMBm)
-New
-29,068
-30,253
-31,179
-Old
-29,461
-31,285
-32,357
-% Chg
--1.3%
--3.3%
--3.6%
-Net profit (RMBm)
-New
-35,383
-37,772
-39,675
-Old
-35,406
-38,148
-40,089
-% Chg
--0.1%
--1.0%
--1.0%
-Source: Company data, Deutsche Bank estimates
-Page 2
-Deutsche Bank AG/Hong Kong
-30 August 2017
-Automobiles & Components
-SAIC Motor
-Figure 2: SAIC - Major assumptions in Deutsche Bank's forecasts
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Sales volume (units)
-Passenger vehicles
-5,256,911 5,552,728 6,116,448 6,119,273 6,366,203 6,553,846
-     YoY
-10.5%
-5.6%
-10.2%
-0.0%
-4.0%
-2.9%
-Commercial vehicles (units)
-363,287
-349,160
-372,419
-407,924
-421,538
-433,509
-     YoY
-3.8%
--3.9%
-6.7%
-9.5%
-3.3%
-2.8%
-Total
-5,620,198 5,901,888 6,488,867 6,527,197 6,787,741 6,987,355
-     YoY
-10.1%
-5.0%
-9.9%
-0.6%
-4.0%
-2.9%
-Net revenue (RMBm)
-626,244
-663,904
-748,895
-834,359
-885,810
-924,819
-     YoY
-11.4%
-6.0%
-12.8%
-11.4%
-6.2%
-4.4%
-Operating profit (RMBm)
-16,715
-16,812
-20,730
-22,904
-27,115
-30,606
-     YoY
--4.9%
-0.6%
-23.3%
-10.5%
-18.4%
-12.9%
-JV/associate earnings (RMBm)
-25,301
-26,631
-27,751
-29,068
-30,253
-31,179
-     YoY
-13.6%
-5.3%
-4.2%
-4.7%
-4.1%
-3.1%
-Net profit (RMBm)
-27,973
-29,794
-32,009
-35,383
-37,772
-39,675
-     YoY
-12.8%
-6.5%
-7.4%
-10.5%
-6.8%
-5.0%
-Source: Company data, Deutsche Bank estimates
-Forecasts and ratios
-Year End Dec 31
-2015A
-2016A
-2017E
-2018E
-2019E
-Sales (CNYm)
-663,904.0
-748,895.4
-834,359.0
-885,810.1
-924,818.9
-EBITDA (CNYm)
-23,055.3
-28,629.0
-34,181.9
-39,722.3
-44,409.8
-Reported NPAT (CNYm)
-29,793.8
-32,008.6
-35,382.9
-37,772.2
-39,674.5
-Reported EPS FD (CNY)
-2.70
-2.90
-3.04
-3.23
-3.40
-DB EPS FD (CNY)
-2.48
-2.75
-3.04
-3.23
-3.40
-OLD DB EPS FD (CNY)
-2.48
-2.75
-3.04
-3.27
-3.43
-% Change
-0.0%
-0.0%
--0.1%
--1.0%
--1.0%
-DB EPS growth (%)
-5.5
-11.0
-10.4
-6.4
-5.0
-PER (x)
-8.6
-7.7
-9.9
-9.3
-8.9
-EV/EBITDA (x)
-5.2
-3.8
-6.1
-5.1
-4.4
-DPS (net) (CNY)
-1.36
-1.75
-1.82
-1.94
-2.04
-Yield (net) (%)
-6.4
-8.2
-6.0
-6.4
-6.7
-Source: Deutsche Bank estimates, company data
-Deutsche Bank AG/Hong Kong
-Page 3
-30 August 2017
-Automobiles & Components
-SAIC Motor
-Appendix 1
+profitability.
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-SAIC Motor
-600104.SS
-30.20 (CNY) 29 Aug 2017
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg, and other vendors. Other
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at http://gm.db.com/ger/disclosure/
-DisclosureDirectory.eqsr. Aside from within this report, important conﬂict disclosures can also be found at https://gm/db.com/equities under the "Disclosures Lookup" and "Legal"
-tabs. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Vincent Ha
+compensation for providing a specific recommendation or view in this report. Vincent Ha
 Historical recommendations and target price. SAIC Motor (600104.SS)
 (as of 08/29/2017)
 Current Recommendations
@@ -423,68 +85,28 @@ Hold
 Sell
 Not Rated
 Suspended Rating
-** Analyst is no longer at
 Deutsche Bank
-Date
-Security price
-1
-2
-3
-4
-5
-6
-7
-8
-9
-Jan '15
-Jul '15
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-0.00
-10.00
-20.00
-30.00
-40.00
-1.
 09/24/2015
 Buy, Target Price Change CNY 20,50 Vincent Ha, CFA
-6.
-01/20/2017
 Hold, Target Price Change CNY 23,85 Vincent Ha, CFA
-2.
 11/27/2015
 Buy, Target Price Change CNY 23,20 Vincent Ha, CFA
-7.
 02/20/2017
 Hold, Target Price Change CNY 25,30 Vincent Ha, CFA
-3.
 01/28/2016
 Buy, Target Price Change CNY 23,80 Vincent Ha, CFA
-8.
 04/06/2017
 Hold, Target Price Change CNY 25,70 Vincent Ha, CFA
-4.
 08/08/2016
 Buy, Target Price Change CNY 25,25 Vincent Ha, CFA
-9.
 06/21/2017
 Hold, Target Price Change CNY 28,35 Vincent Ha, CFA
-5.
-11/24/2016
-Downgraded to Hold, Target Price Change CNY 24,35
 Vincent Ha, CFA
-Page 4
-Deutsche Bank AG/Hong Kong
-30 August 2017
-Automobiles & Components
-SAIC Motor
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -493,35 +115,30 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Deutsche Bank AG/Hong Kong
-Page 5
-30 August 2017
 Automobiles & Components
 SAIC Motor
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of these websites.
-?
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies or otherwise.
-Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
-paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment banking, trading
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
 and principal trading revenues.
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
-ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high conviction belief
 by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
 less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
 our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
@@ -529,233 +146,194 @@ or events that may have a near-term or medium-term impact on the market price of
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
-the frequency of changes in market conditions and in both general and company speciﬁc economic prospects make it
-diﬃcult to update research at deﬁned intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
 the Research Department Management and as such the majority of reports are published at irregular intervals. This report
-is provided for informational purposes only and does not take into account the particular investment objectives, ﬁnancial
-situations, or needs of individual clients. It is not an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
 or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst’s
-judgment. The ﬁnancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions. Prices and availability of ﬁnancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
 instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
-aﬀect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
 are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
 and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
 The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
 to our research is available on our website under Disclaimer found on the Legal tab.
-??
-Page 6
-Deutsche Bank AG/Hong Kong
-30 August 2017
 Automobiles & Components
 SAIC Motor
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed rate instruments (thus receiving these cash ﬂows),
-increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus cause a loss.
-The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the higher will be the
-loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the most common adverse
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
 macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
-(including changes in assets holding limits for diﬀerent types of investors), changes in tax policies, currency convertibility
-(which may constrain currency conversion, repatriation of proﬁts and/or the liquidation of positions), and settlement issues
-related to local clearing houses are also important risk factors to be considered. The sensitivity of ﬁxed income instruments
-to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to FX depreciation, or to
-speciﬁed interest rates – these are common in emerging markets. It is important to note that the index ﬁxings may -- by
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates – these are common in emerging markets. It is important to note that the index fixings may -- by
 construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
-proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. It is also important to acknowledge
-that funding in a currency that diﬀers from the currency in which coupons are denominated carries FX risk. Naturally,
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
 options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
 The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
 including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
-investors should take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
 contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
 result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
 than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
-to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options”, at http://
-www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the website please contact
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
 your Deutsche Bank representative for a copy of this important document.
-?
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
-exchange rates can be volatile and are subject to large ﬂuctuations; ( ii) the value of currencies may be aﬀected by
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
 numerous market factors, including world and national economic, political and regulatory events, events in equity and
 debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are
-aﬀected by the currency of an underlying security, eﬀectively assume currency risk.
-?
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
-investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at https://
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
 gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
 provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
 Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
 as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
 decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
 strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Deutsche Bank AG/Hong Kong
-Page 7
-30 August 2017
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 Automobiles & Components
 SAIC Motor
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
-??
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
 German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal
 Financial Supervisory Authority.
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
-??
 India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
 as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
 warnings from the SEBI for breaches of Indian regulations.
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period.
 Korea: Distributed by Deutsche Securities Korea Co.
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raﬄes
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
 Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
 from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor, expert investor or institutional investor (as deﬁned in the applicable Singapore laws and regulations),
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
 they accept legal responsibility to such person for its contents.
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
-Page 8
-Deutsche Bank AG/Hong Kong
-30 August 2017
 Automobiles & Components
 SAIC Motor
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
 the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
 Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
 any appraisal or evaluation activity requiring a license in the Russian Federation.
-?
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
-the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the ﬁnancial services activities that
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
 fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are only available to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any ﬁnancial product
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
 referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
-refer to Australian speciﬁc research disclosures and related information at https://australia.db.com/australia/content/
 research-information.html
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
 Corporations Act and New Zealand Financial Advisors Act respectively.
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2017 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 9
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Research
+Global Head of Economics
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
 1 Great Winchester Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
-United States of America
-Tel: (1) 212 250 2500

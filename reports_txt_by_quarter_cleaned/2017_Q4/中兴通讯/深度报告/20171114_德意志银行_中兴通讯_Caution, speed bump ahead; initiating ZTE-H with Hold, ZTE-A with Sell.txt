@@ -1,1519 +1,1161 @@
+Deutsche Bank
+Markets Research
+Asia
+Industry
+Date
+Hong Kong
 ZTE-A and -H
-9 November 2017
+Telecommunications
 Initiation of Coverage
-Caution speed bump ahead initiating
-ZTE-H with Hold ZTE-A with Sell
+James Wang
+Caution, speed bump ahead; initiating
+Research Analyst
+ZTE-H with Hold, ZTE-A with Sell
 Leverage to 5G and market share gains mostly priced in
-Deutsche Bank AGHong Kong
-aware that the firm may have a conflict of interest that could affect the objectivity of this report Investors should consider
-this report as only a single factor in making their investment decision DISCLOSURES AND ANALYST CERTIFICATIONS ARE
-LOCATED IN APPENDIX 1 MCI (P) 083042017 THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLES REPUBLIC
-OF CHINA (THE PRC) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF PRC)
-EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU
-Peter Milliken CFA
-ZTE-A (000063SZ)CNY3365
-EVEBITDA (x)
-Pricebook (x)
-ZTE (0763HK)HKD2750
-EVEBITDA (x)
-Pricebook (x)
-Source Deutsche Bank
-ZTE is well leveraged to grow in telco capex from 5G build-out starting in 2020
-That said current global appetite for large 5G capex is limited while there is
-stronger political support for 5G tech in China with limited application
-opportunities we expect Chinese telcos to tread a middle path in the 5G build-
-out Short term global telco capex is set to fall 5-7% pa although ZTEs
-With ZTEs share price doubling YTD against a tough market backdrop upside
-potential appears mostly priced in Hold ZTE-H and Sell ZTE-A
+Peter Milliken, CFA
+ZTE is well leveraged to grow in telco capex from 5G build-out starting in 2020.
+Research Analyst
+That said, current global appetite for large 5G capex is limited; while there is
+stronger political support for 5G tech in China, with limited application
+opportunities, we expect Chinese telcos to tread a middle path in the 5G build-
+out. Short term, global telco capex is set to fall 5-7% p.a., although ZTE's
+Robert Sanders
+competitors struggle with profitability, providing some room for share gains.
+Research Analyst
+With ZTE's share price doubling YTD against a tough market backdrop, upside
+potential appears mostly priced in; Hold ZTE-H and Sell ZTE-A.
 Limited applications to support a widespread 5G rollout
-Global telcos have expressed reservations about 5G which likely reflect a
-viable applications requiring nationwide 5G For many applications eg video
-streaming and IoT existing technology suffices for others eg robotics needs
-can mostly be met by regional 5G rollout For most global telcos around the
-world we expect 5G networks to be deployed like islands in a sea of 4G
+Global telcos have expressed reservations about 5G, which likely reflect a
+Johannes Schaller
+combination of: 1) failure to monetize 4G, 2) reduced profitability and 3) limited
+viable applications requiring nationwide 5G. For many applications, e.g., video
+Research Analyst
+streaming and IoT, existing technology suffices; for others, e.g., robotics, needs
+can mostly be met by regional 5G rollout. For most global telcos around the
+world, we expect 5G networks to be deployed like islands in a sea of 4G.
 Stronger political support in China should see ZTE better placed
-There is stronger political support for a 5G build-out in China with the
-government aiming to make the nation a networking powerhouse Hence
+Companies Featured
+There is stronger political support for a 5G build-out in China, with the
+government aiming to make the nation a networking powerhouse. Hence,
 Chinese telcos spend on 5G capex will likely be more than their international
-peers Our bottom-up build suggests a total 5G capex in China of RMB15trn
-to be spent from 2020 (twice the estimated 4G spend) which would lead to
-cRMB19trn in total capex spending between 2020 and 2024 This would drive
-a 30% lift in ZTEs China carrier revenue in 2020 and a further 15% in 2021
-Opportunities in the near term but it is a tough environment
-In the near term operating conditions for equipment vendors remain tough
-with our global team expecting a 6-7% pa decline in telco capex (ex US) over
-for share gains for ZTE ie teething integration issues and potentially
-excessive pricing discipline at Nokia and poor profitability at Ericsson We have
-assumed a 2-3ppt pa market share increase for ZTE in the Asia Pacific and
-EMEA regions over the next three years to reflect these In China we see
-limited opportunities for ZTE to gain further material share prior to 5G given its
-already dominant position with a 30-35% market share in wireless equipment
-Many of these factors are priced in with close to no upside potential for ZTE-A
-While ZTE has put the litigation issues in the US behind it significant execution
-trading in line with its peers (albeit expensive vs its own long-run average
-12mth PE) and with ZTE-A valuation already implying a bullish scenario of
-share gain margin lift and significant capex blowout in China (leaving little free
-cash flow for the telcos) we rate ZTE-H a Hold and ZTE-A a Sell
-PT based on mid-point of SoTP and DCF valuations (WACC 87% TGR 1%)
-Upside risks 1) keen 5G applications and 2) govet push to drive 5G spending
-Downside 1) share loss and 2) delays in formalizing 5G See pp 367
-Distributed on 08112017 204829 GMT
-0bed7b6cf11c
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Model updated08 November 2017
-Hardware  Equipment
-Reuters 0763HK
-Bloomberg 0763 HK
-Price (7 Nov 17)
-52 Week range
-HKD 1102 - 3025
-Market Cap (m)
-USDm 14659
-across the globe It also manufactures handsets and
+peers. Our bottom-up build suggests a total 5G capex in China of ~RMB1.5trn
+to be spent from 2020 (twice the estimated 4G spend), which would lead to
+c.RMB1.9trn in total capex spending between 2020 and 2024. This would drive
+a 30% lift in ZTE's China carrier revenue in 2020 and a further 15% in 2021.
+Opportunities in the near term, but it is a tough environment
+In the near term, operating conditions for equipment vendors remain tough,
+with our global team expecting a 6-7% p.a. decline in telco capex (ex US) over
+the next two years. Issues at its major competitors present some opportunities
+for share gains for ZTE, i.e. teething integration issues and potentially
+excessive pricing discipline at Nokia and poor profitability at Ericsson. We have
+assumed a 2-3ppt p.a. market share increase for ZTE in the Asia Pacific and
+EMEA regions over the next three years to reflect these. In China, we see
+limited opportunities for ZTE to gain further material share prior to 5G, given its
+already dominant position with a 30-35% market share in wireless equipment.
+Many of these factors are priced in, with close to no upside potential for ZTE-A
+While ZTE has put the litigation issues in the US behind it, significant execution
+risks remain, given the competitive threat posed by Huawei. With ZTE-H
+trading in line with its peers (albeit expensive vs. its own long-run average
+12mth PE), and with ZTE-A valuation already implying a bullish scenario of
+share gain, margin lift and significant capex blowout in China (leaving little free
+cash flow for the telcos), we rate ZTE-H a Hold and ZTE-A a Sell.
+Valuation and risks
+PT based on mid-point of SoTP and DCF valuations (WACC 8.7%, TGR 1%).
+Upside risks: 1) keen 5G applications and 2) govet push to drive 5G spending.
+Downside: 1) share loss and 2) delays in formalizing 5G. See pp. 36-7.
+Deutsche Bank AG/Hong Kong
+Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
+this report as only a single factor in making their investment decision. DISCLOSURIDistributed on: 08/11/2017 20:48:29 GMT.
+LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE'S REPUBLIC
+OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF PRC),
+EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
+ZTE
+Reuters: 0763.HK
+Bloomberg: 0763 HK
+Hold
+Company Profile
+ZTE is an integrated telecommunication equipment
+manufacturer, supplying to telecom operators in China and
+across the globe. It also manufactures handsets and
 provides ICT related services to government and enterprise
-customers
-Nov 15Feb 16May 16Aug 16Nov 16Feb 17May 17Aug 17
-HANG SENG INDEX (Rebased)
-Growth  Profitability
-Sales growth (LHS)
-Net debtequity (LHS)
-Net interest cover (RHS)
-Fiscal year end  31-Dec
-DB EPS (CNY)
-Reported EPS (CNY)
-BVPS (CNY)
-Weighted average shares (m)
-Average market cap (CNYm)
-Enterprise value (CNYm)
-PE (DB) (x)
-PE (Reported) (x)
-FCF Yield (%)
-Dividend Yield (%)
-EVSales (x)
-EVEBITDA (x)
-EVEBIT (x)
-Associatesaffiliates
-Exceptionalsextraordinaries
-DB adjustments (including dilution)
-Cash Flow (CNYm)
-Cash flow from operations
-Equity raised(bought back)
-Net inc(dec) in borrowings
-Other investingfinancing cash flows
-Change in working capital
-Balance Sheet (CNYm)
-Cash and other liquid assets
-Tangible fixed assets
-Goodwillintangible assets
-Associatesinvestments
-Interest bearing debt
-Shareholders equity
-Total shareholders equity
-Sales growth (%)
-DB EPS growth (%)
-EBITDA Margin (%)
-EBIT Margin (%)
-Payout ratio (%)
-Capexsales (%)
-Capexdepreciation (x)
-Net debtequity (%)
-Net interest cover (x)
-Source Company data Deutsche Bank estimates
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Model updated08 November 2017
-Hardware  Equipment
-Reuters 000063SZ
-Bloomberg 000063 CS
-Price (7 Nov 17)
-52 Week range
-CNY 1464 - 3400
-Market Cap (m)
-USDm 21105
-across the globe It also manufactures handsets and
+customers.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data, Deutsche Bank estimates
+James Wang
+ZTE-A
+Reuters: 000063.SZ
+Bloomberg: 000063 CS
+Sell
+Company Profile
+ZTE is an integrated telecommunication equipment
+manufacturer, supplying to telecom operators in China and
+across the globe. It also manufactures handsets and
 provides ICT related services to government and enterprise
-customers
-Nov 15Feb 16May 16Aug 16Nov 16Feb 17May 17Aug 17
-HANG SENG INDEX (Rebased)
-Growth  Profitability
-Sales growth (LHS)
-Net debtequity (LHS)
-Net interest cover (RHS)
-Fiscal year end  31-Dec
-DB EPS (CNY)
-Reported EPS (CNY)
-BVPS (CNY)
-Weighted average shares (m)
-Average market cap (CNYm)
-Enterprise value (CNYm)
-PE (DB) (x)
-PE (Reported) (x)
-FCF Yield (%)
-Dividend Yield (%)
-EVSales (x)
-EVEBITDA (x)
-EVEBIT (x)
-Associatesaffiliates
-Exceptionalsextraordinaries
-DB adjustments (including dilution)
-Cash Flow (CNYm)
-Cash flow from operations
-Equity raised(bought back)
-Net inc(dec) in borrowings
-Other investingfinancing cash flows
-Change in working capital
-Balance Sheet (CNYm)
-Cash and other liquid assets
-Tangible fixed assets
-Goodwillintangible assets
-Associatesinvestments
-Interest bearing debt
-Shareholders equity
-Total shareholders equity
-Sales growth (%)
-DB EPS growth (%)
-EBITDA Margin (%)
-EBIT Margin (%)
-Payout ratio (%)
-Capexsales (%)
-Capexdepreciation (x)
-Net debtequity (%)
-Net interest cover (x)
-Source Company data Deutsche Bank estimates
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-5G lacking viable business cases Telcos around the world are not
-willing to increase capex significantly for 5G given limited viable
-business cases and subdued growth
-Better prospects for 5G in China The Chinese government is
-supportive of 5G which will be helpful for ZTE However we do not
-believe the level of spending will be overwhelmingly high We expect
-5G capex in China to total RMB15trn over 10 years
-Opportunities offsetting challenges near-term for ZTE In the near
-term ZTE could benefit from issues at Nokia (integration) and Ericsson
-(poor profitability) However it faces a declining market There has
-also been limited evidence of market share gains outside of China
-Valuation appears full ZTE-H valuation appears full while ZTE-A is
-already factoring in a bullish 5G build-out scenario in China
+customers.
+Price Performance
+Margin Trends
+Growth & Profitability
+Solvency
+Source: Company data, Deutsche Bank estimates
+James Wang
+Investment thesis
+5G lacking viable business cases: Telcos around the world are not
+willing to increase capex significantly for 5G, given limited viable
+business cases and subdued growth.
+Better prospects for 5G in China: The Chinese government is
+supportive of 5G, which will be helpful for ZTE. However, we do not
+believe the level of spending will be overwhelmingly high. We expect
+5G capex in China to total RMB1.5trn over 10 years.
+Opportunities offsetting challenges near-term for ZTE: In the near
+term, ZTE could benefit from issues at Nokia (integration) and Ericsson
+(poor profitability). However, it faces a declining market. There has
+also been limited evidence of market share gains outside of China.
+Valuation appears full: ZTE-H valuation appears full while ZTE-A is
+already factoring in a bullish 5G build-out scenario in China.
 Lack of enthusiasm for 5G globally
-To date most telcos across the globe have been lukewarm towards 5G
-Declining profitability and limited evidence of 4G monetization
-cannot be discerned with the naked eye ARVR is still nascent
-Existing technologies may be good enough in most cases eg
+To date, most telcos across the globe have been lukewarm towards 5G,
+reflecting a combination of:
+Declining profitability and limited evidence of 4G monetization;
+Lack of compelling business applications, e.g. unlike 4k, 8k video
+cannot be discerned with the naked eye, AR/VR is still nascent;
+Existing technologies may be good enough in most cases, e.g.,
 Massive MIMO for bandwidth and NB-IoT for IoT and
-High cost involved in building a national 5G network given the higher
-spectrum frequencies involved
-Figure 1 Asia Pac telco profitability has declined
-Figure 2 Weak European telco mobile revenue growth
-APAC Ex Jpn Telco EBITDA margin
-Source Deutsche Bank Company Data
-Source Deutsche Bank estimates Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 3 Early applications will merely enhance the
-mobile broadband experience
-Figure 4 Very few telcos would look to have full wide-
-spread coverage in the early days
-Enhanced mobile broadband
-(VRAR critical services)
-% of operators seeing the highest priority use in early 5G deployment
-Hotspot coverage Full geographic
+High cost involved in building a national 5G network, given the higher
+spectrum frequencies involved.
+Source: Deutsche Bank, Company Data
+Source: Deutsche Bank estimates, Company Data
 Level of coverage for a new 5G network in early deployment
-Source Deutsche Bank GSMA CEO 5G Survey
-Source Deutsche Bank GSMA CEO 5G Survey
-China Mobile chairman We will not blindly invest in 5G without viable
-business applications and there are no such viable applications under
-5G at the moment
-it is different when migrating from 2G to 4G than from 4G to 5G 5G
-remains just a story at the moment
-MTS (Russia) chief marketing officer There is no business case behind
-it and it is not in our business plan for 2017 or 2018
-is not going to be a big bang with 5G Greater industry collaboration is
+% of operators seeing the highest priority use in early 5G deployment
+Source: Deutsche Bank, GSMA CEO 5G Survey
+Source: Deutsche Bank, GSMA CEO 5G Survey
+The telcos operators have made the following comments on 5G investments:
+China Mobile chairman: We will not blindly invest in 5G without viable
+business applications, and there are no such viable applications under
+5G at the moment:
+China Unicom chairman: 5G will co-exist with 4G for a long time, and
+it is different when migrating from 2G to 4G than from 4G to 5G. 5G
+remains just a story at the moment;
+MTS (Russia) chief marketing officer: There is no business case behind
+it, and it is not in our business plan for 2017 or 2018;
+Deutsche Telecom chief technology officer: 4G will evolve further, and it
+is not going to be a big bang with 5G. Greater industry collaboration is
 needed to reduce the cost of rolling out a 5G radio network and some
-established vendors may not survive the transition from 4G to 5G
-DoCoMo management We would like to see capex decline up until
-FY19 and then flat from FY20 onwards
-Singtel CEO It is too early to discuss 5G while 4G remains
-unmonetized
-Hence at this stage we expect 5G networks to be islands in a sea of 4G
+established vendors may not survive the transition from 4G to 5G;
+DoCoMo management: We would like to see capex decline up until
+FY19 and then flat from FY20 onwards.
+Singtel CEO: It is too early to discuss 5G while 4G remains
+unmonetized.
+Hence at this stage, we expect 5G networks to be islands in a sea of 4G.
 Better prospects for 5G in China
-We see better prospects for 5G investments in China due to strong
+We see better prospects for 5G investments in China, due to strong
 government support for the tech industry and its over-arching aim of making
-the country an IT and networking powerhouse With that said we also see a
-number of moderating factors including
-The need to improve SOE returns the government wants to improve
-SOEs returns reduce unwanted supply and for all telcos to have profit
-targets on which they need to deliver
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+the country an IT and networking powerhouse. With that said, we also see a
+number of moderating factors, including:
+The need to improve SOE returns: the government wants to improve
+SOE's returns, reduce unwanted supply and for all telcos to have profit
+targets on which they need to deliver;
+Telecom infrastructure has caught up: the Chinese telcos have
 invested a significant amount in the past and the state of Chinese
-of its international peers
-Figure 5 Chinese telco returns have declined
-significantly
-Figure 6 As they sought to improve the countrys
-Chinese telco avg ROE
-Fiber as % of total broadband subs
-4G as % of total mobile subs
-Source Deutsche Bank
-Source Deutsche Bank Company Data Ericsson OECD 3Q17 for China 4Q16 for other countries
-Mobile still making the lions share of industry profits A drive to spend
-balance against smaller players given their lower margins and weaker
-financial strength
+telecom infrastructure has caught up with (and even exceeded) many
+of its international peers;
+Source: Deutsche Bank, Company Data, Ericsson, OECD, 3Q17 for China, 4Q16 for other countries
+Unbalanced competitive strength in the telecom sector, with China
+Mobile still making the lion's share of industry profits. A drive to spend
+significantly on the network would invariably tip the competitive
+balance against smaller players, given their lower margins and weaker
+financial strength.
 We believe the government will likely factor in the needs of all stakeholders in
-its considerations and given the limited global support for 5G we expect
-Chinese telcos to be somewhat cautious in capex spending We estimate that
-in aggregate Chinese telcos will likely spend RMB15trn on 5G over 2020-2030
-a level sufficient for nationwide coverage by 2030 but not so exorbitant that
-every corner of the country would be covered by high bandwidth 5G
-The table below shows our forecasts of total 5G capex in China We have used
-7m base stations as the basis for coverage achieved by 2024 which is based
+its considerations, and given the limited global support for 5G, we expect
+Chinese telcos to be somewhat cautious in capex spending. We estimate that
+in aggregate Chinese telcos will likely spend RMB1.5trn on 5G over 2020-2030,
+a level sufficient for nationwide coverage by 2030, but not so exorbitant that
+every corner of the country would be covered by high bandwidth 5G.
+The table below shows our forecasts of total 5G capex in China. We have used
+7m base stations as the basis for coverage achieved by 2024, which is based
 on the current number of 4G base stations multiplied by two to account for the
-higher frequencies used partially offset by the larger bandwidth offered
+higher frequencies used, partially offset by the larger bandwidth offered.
 Our 2030 target assumes a higher number of base stations for improved
-coverage and higher bandwidth needs offset by declining base station prices
-Figure 7 Total 5G capex estimates
-Number of 4G base stations equivalent
-Multiple to get to 5G equivalent
-Number of 5G base stations (m)
-Cost per base station (RMB000)
-Total 5G wireless capex (RMBbn)
-Total wireless capex under 4G (RMBbn)
-5G vs 4G total wireless capex
-Source Deutsche Bank estimates Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+coverage and higher bandwidth needs, offset by declining base station prices.
 The total capex under 5G based on our forecasts imply 2x the level of capex
-spent on 4G to achieve an equivalent level of coverage The total capex for
+spent on 4G to achieve an equivalent level of coverage. The total capex for
 Chinese telcos and the implied share of China carrier revenue forecasts are
-shown below
-Figure 8 Total capex spending in China
-Figure 9 Revenue split for ZTE
-Fixed broadband and transmission
-(estimate)
-Source Deutsche Bank estimates Company Data
-Source Deutsche Bank estimates Company Data
-Using the forecast telco capex as our base we forecast a significant uplift in
-5G capex and b) an increase in market share as has been the experience in the
-past These are set out below
-Figure 10 China carrier revenue market share
-Figure 11 China carrier revenue by vendor
-Source Deutsche Bank estimates Company Data Ericsson revenue includes some revenue from North
-Source Deutsche Bank estimates Company Data Ericsson revenue includes some revenue from North
+shown below.
+Source: Deutsche Bank estimates, Company Data
+Source: Deutsche Bank estimates, Company Data
+Using the forecast telco capex as our base, we forecast a significant uplift in
+ZTE's China carrier revenue in 2020 from a combination of: a) an increase in
+5G capex and b) an increase in market share, as has been the experience in the
+past. These are set out below.
+Source: Deutsche Bank estimates, Company Data, Ericsson revenue includes some revenue from North
+Source: Deutsche Bank estimates, Company Data, Ericsson revenue includes some revenue from North
+East Asia
+East Asia
 Opportunities offsetting challenges near-term
-due to a declining capex outlook including China We estimate global capex
-(ex US) to decline at a rate of 6-7% pa over the next two years
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 12 Global wireless capex forecasts
-Figure 13 Global wireline capex forecasts
-Source Deutsche Bank estimates Industry Data
-Source Deutsche Bank estimates Industry Data
-in terms of integrating with Alcatel and Ericsson with profitability
-opportunity for the number four player (ie ZTE) to increase its market share
-particularly in the EMEA and Asia Pacific regions which are generally more
-receptive to Chinese equipment vendors
-We have assumed a 2-3 ppt pa improvement in ZTEs EMEA and Asia Pacific
-market share over the next three years to reflect the above factors which we
-believe is more than adequate
-Figure 14 Ericsson struggling to be profitable
-Figure 15 ZTE market share by region
-Operating profit margin
-ZTE market share by region
-Source Deutsche Bank Company Data FY16 reported for Huawei and FY17E DB est for the others
-Source Deutsche Bank Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 16 Revenue opportunity by region
-Figure 17 Sensitivity of earnings to share gain
-Revenue opportunities for ZTE
-Increase in EMEA  APAC
-Increase in net profit margin
-Source Deutsche Bank Company Data Based on the disclosures of Nokia ZTE Huawei and Ericsson
-Source Deutsche Bank Company Data Assume 5% net profit margin for revenue
+The near-term industry outlook is challenging for telecom equipment vendors,
+due to a declining capex outlook, including China. We estimate global capex
+(ex US) to decline at a rate of 6-7% p.a. over the next two years.
+Source: Deutsche Bank estimates, Industry Data
+Source: Deutsche Bank estimates, Industry Data
+However, two of ZTE's key competitors are having issues of their own: Nokia
+in terms of integrating with Alcatel, and Ericsson with profitability.
+Furthermore, with the number of competitors reduced (due to the Nokia and
+Alcatel merger) and Huawei becoming dominant globally, there is an
+opportunity for the number four player (i.e., ZTE) to increase its market share,
+particularly in the EMEA and Asia Pacific regions, which are generally more
+receptive to Chinese equipment vendors.
+We have assumed a 2-3 ppt p.a. improvement in ZTE's EMEA and Asia Pacific
+market share over the next three years to reflect the above factors, which we
+believe is more than adequate.
+Source: Deutsche Bank, Company Data, FY16 reported for Huawei and FY17E DB est. for the others
+Source: Deutsche Bank, Company Data
+Source: Deutsche Bank, Company Data, Assume 5% net profit margin for revenue
 Valuation close to full for ZTE-H and stretched for ZTE-A
-We rate ZTE-H a Hold as we believe it is fully valued at the current price with
-the PE multiple above the long-run average albeit in line with its long-run
-Figure 18 ZTE-H 12mth fwd PER vs long-run average
-Figure 19 PER vs European peers
-ZTE vs Nokia and Ericsson average
-Source Deutsche Bank Company Data Bloomberg Finance LP
-Source Deutsche Bank Company Data Bloomberg Finance LP 12mth forward relative PER
-Figure 20 FY18 PER vs peers
-Figure 21 ZTE-H vs Domestic peers
-ZTE vs domestic peers
-Source Deutsche Bank Bloomberg Finance LP Based on DB forecasts for ZTE consensus forecasts for
-Source Deutsche Bank Company Data Bloomberg Finance LP 12mth forward relative PER
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+We rate ZTE-H a Hold as we believe it is fully valued at the current price, with
+the PE multiple above the long-run average, albeit in line with its long-run
+relativity vs. other telecom equipment vendors.
+Source: Deutsche Bank, Company Data, Bloomberg Finance LP
+Source: Deutsche Bank, Company Data, Bloomberg Finance LP, 12mth forward relative PER
+Source: Deutsche Bank, Bloomberg Finance LP, Based on DB forecasts for ZTE, consensus forecasts for
+Source: Deutsche Bank, Company Data, Bloomberg Finance LP, 12mth forward relative PER
+other names
 Stress testing ZTE-A valuation
-We rate ZTE-A as a Sell as even with rosy assumptions there is limited
-valuation support on offer
-Figure 22 Stress testing on the upside implies 15x PE at FY20 which is rich
-Stress test -
-Stress capex for Chinese telcos
-Implied telco free cash flow
-ZTE China revenue as % of capex
-ZTE China carrier revenue
-Other overseas carrier revenue
-Implied total revenue
-Assumed net profit margin
-Implied A-share PE
-Source Deutsche Bank estimates Company Data
-As shown above ZTE-A would still be trading on 15x FY20 PE assuming
-Chinese telcos capex reaches 30% of revenue by 2020 a level that
-would leave them with little free cash flow over the next five years
-ZTEs net profit margin rises to 6% from the current rate of 4% a level
+We rate ZTE-A as a Sell, as even with rosy assumptions, there is limited
+valuation support on offer.
+As shown above, ZTE-A would still be trading on ~15x FY20 PE assuming:
+Chinese telcos' capex reaches 30% of revenue by 2020, a level that
+would leave them with little free cash flow over the next five years,
+ZTE's net profit margin rises to 6% from the current rate of 4%, a level
 it has yet to achieve in its history and
-Its share of Chinese telco capex rises to 15%
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+Its share of Chinese telco capex rises to 15%.
 5G as it stands is not a
+blockbuster
 Each change in mobile technology generation brings with it upgrades to
 network functionalities and is typically a time for equipment vendors to
-monetize their research efforts as new network equipment replaces the old
-However as it currently stands 5G does not appear to be a blockbuster for
+monetize their research efforts as new network equipment replaces the old.
+However, as it currently stands, 5G does not appear to be a blockbuster for
 equipment vendors as 4G is good enough for most applications and few of the
-applications currently would potentially require a nationwide 5G rollout
+applications currently would potentially require a nationwide 5G rollout.
 Furthermore many telcos around the world are struggling to generate growth
-and hence do not have the financial appetite for a new wave of capex
-particularly given the limited monetization benefits of their 4G investments
-In this section we look at
+and hence do not have the financial appetite for a new wave of capex,
+particularly given the limited monetization benefits of their 4G investments.
+In this section, we look at:
 The 5G criteria
-Potential application scenarios and
-Evidence of why global telcos are not keen on 5G
-What is 5G briefly
-From the first generation (1G) mobile technology to 4G each generation of
+Potential application scenarios; and
+Evidence of why global telcos are not keen on 5G.
+What is 5G, briefly?
+From the first generation (1G) mobile technology to 4G, each generation of
 mobile technology has resulted in a substantial improvement in the way that
-and 4G allowed significantly more data to be transmitted and 4G enabled
-things to be connected
-Figure 23 Changes with each new generation of mobile technology
-Up to 60Mbps
-AMPS TACS
-GSM GPRS EDStandards
-EV-DO HSPA
-LTE LTE-A
-1G Analogue
-Digital voice 
-Faster   more
-Industrial
-Source Deutsche Bank
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+telecommunication services are provided. 2G allowed small amounts of data
+(including messages) to be transmitted in addition to voice communication, 3G
+and 4G allowed significantly more data to be transmitted, and 4G enabled
+"things" to be connected.
 Each generation of mobile technology is also defined by different
-generation of mobile technologies (5G) have yet to be formally defined
-although there is some consensus on what 5G would be able to achieve The
-GSM Association (which represents mobile operators interests globally)
-identified a set of eight requirements for 5G technology as shown below
-Figure 24 5G vs 4G
-IMT  2020 (5G)
-(Mbltsm2))
-(deviceskm2)
-IMT  Ad vanced (4G)
-Source Deutsche Bank ITU Figures for 5G are proposed at this stage and may change
-The improvement in performance of 5G vs 4G revolves around three main
+communication standards and performance requirements as shown above.
+The communication standards and performance specifications for the fifth
+generation of mobile technologies (5G) have yet to be formally defined,
+although there is some consensus on what 5G would be able to achieve. The
+GSM Association (which represents mobile operators' interests globally)
+identified a set of eight requirements for 5G technology as shown below.
+The improvement in performance of 5G vs. 4G revolves around three main
+aspects:
 Improved data download speed (enhanced mobile broadband)
 Peak data rate from 1Gbps to 10-20Gbps
 1000x bandwidth per unit area
+Ultra reliable and low latency communication
 Reduce latency from 10ms to 1ms
-(Perceived) 99999% availability
+(Perceived) 99.999% availability
 (Perceived) 100% coverage
-Massive machine type connections
+Massive machine type connections:
 Improve energy efficiency tenfold
 Allowing 10-100x number of connected devices in an area
-Up to 10 years of battery life for low power machine type devices
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+Up to 10 years of battery life for low power, machine type devices.
 It is worth noting that not all these requirements will need to be met at the
-above requirements will be supported when and where it matters For
-example it is unnecessary to have download speeds of 20Gbps for typical
-industrial sensors but they may need to be run with low-energy usage and a
-large number of them may need to be connected in a small area
-5G will be for industrial internet eventually
+same time across a network. Rather, various combinations of a subset of the
+above requirements will be supported "when and where it matters". For
+example, it is unnecessary to have download speeds of 20Gbps for typical
+industrial sensors, but they may need to be run with low-energy usage and a
+large number of them may need to be connected in a small area.
 While previous generations of mobile technology have significantly improved
-consumer adoption and experience in using their mobile devices enterprise
-applications of mobile technology have so far been limited It is hoped that 5G
-will be a key enabler of many enterprise applications such as
-Internet of things (IoT) which will require the large number of
-connections afforded by 5G
-Robotics (and tactile internet) which will be enabled by the precise
-and low latency properties of a 5G network
-devices such as sensors vehicles (eg self-driving cars) and
-capabilities stored in data centers in remote locations
-Figure 25 5G application scenarios
-Source Deutsche Bank GSMA Intelligence
-With enterprises being the dominant target customer group for 5G technology
+consumer adoption and experience in using their mobile devices, enterprise
+applications of mobile technology have so far been limited. It is hoped that 5G
+will be a key enabler of many enterprise applications, such as:
+Internet of things (IoT), which will require the large number of
+connections afforded by 5G;
+Robotics (and tactile internet), which will be enabled by the precise
+and low latency properties of a 5G network;
+Big data: with significant volumes of data coming from connected
+devices such as sensors, vehicles (e.g. self-driving cars); and
+Cloud computing (and artificial intelligence) with large processing
+capabilities stored in data centers in remote locations.
+With enterprises being the dominant target customer group for 5G technology,
 it is hoped that telcos will be able to monetize their 5G network investments
-better than in the past We suspect that typical conversations between telcos
-and their enterprise customers will sound like these
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-We will save you 10m in labor costs by installing these sensors 
-robots and each year we will charge you 100k for the network
-usage a fraction of the costs saved
-The driverless car costs 1m but it may need to upload 1000GB of
-data usage a small fraction of the price of the car
-These robotics arms installed for surgeonstechnicians will save them
-10 trips a year for linking this service to the 5G network we charge
-10k a year which is still cheaper than the 100k required for
-travelling
-For these reasons in the long run we see better monetization opportunities for
-telcos under 5G than under 4G which mostly just improves the download
+better than in the past. We suspect that typical conversations between telcos
+and their enterprise customers will sound like these:
+We will save you $10m in labor costs by installing these sensors /
+robots, and each year we will charge you $100k for the network
+usage, a fraction of the costs saved;
+The driverless car costs $1m but it may need to upload 1,000GB of
+data per day. We will charge the car company $10k for 10 years of
+data usage, a small fraction of the price of the car;
+These robotics arms installed for surgeons/technicians will save them
+10 trips a year; for linking this service to the 5G network, we charge
+$10k a year, which is still cheaper than the $100k required for
+travelling.
+For these reasons in the long run, we see better monetization opportunities for
+telcos under 5G than under 4G, which mostly just improves the download
 speed of mobile handsets without attracting new customers to mobile
-operators
-Figure 26 Enterprise to drive 5G longer-term
-Figure 27 Services expected to be supported in 5G
+operators.
 % of operators considering where the revenue opportunity is likely to be most important
-Device-to-device
-(eg Mobile
-Services supported in 5G
-Source Deutsche Bank GSMA CEO 5G Survey
-Source Deutsche Bank GSMA CEO 5G Survey
+Source: Deutsche Bank, GSMA CEO 5G Survey
+Source: Deutsche Bank, GSMA CEO 5G Survey
 No current need for a widespread 5G rollout
 While we share some of the excitement around what the future technology
-may entail early application scenarios under 5G would merely enhance the
-mobile broadband experience As it currently stands we do not see the need
-for a 5G build-out at a similar pace or coverage to the 4G network since the
+may entail, early application scenarios under 5G would merely enhance the
+mobile broadband experience. As it currently stands, we do not see the need
+for a 5G build-out at a similar pace or coverage to the 4G network, since the
 4G technology is good enough in some of these scenarios or the 5G
 technology or application scenario is not sufficiently mature to require a
-nationwide rollout We explore these factors below
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+nationwide rollout. We explore these factors below.
 Existing 4G technology is good enough
 The enhancement to the video viewing experience on a mobile phone
-is limited when stepping up from HD to 4K8K given the small display
-screen We suspect a 5G network is more likely to be used as a
-stages of the build-out
-Most of the IoT applications are likely to run on the NB-IoT standard
-under 4G for some time In fact the 5G IoT standard wont be ready
-until Release 16 in 2019
-No need for a nationwide rollout of 5G network
-Cutting-edge technologies such as robotics and e-health remain
-expensive and can be satisfied by a limited rollout of the 5G network
-focusing mostly on Tier 1 cities or specific regions and supplemented
-by Wi-Fi and fixed broadband
-will be reliant on the 5G network given improved processing power
-and the significant litigation risks associated should accidents occur
-While there is significant data upload needs for self-driving cars this
-should be done when there is a 5G or Wi-Fi network available (eg in
-city areas) Furthermore some sources indicate that the level of data
-uploads could reach around 3000GB per day (eg CSIA) for a self-
-driving car With the average fixed broadband user using only 20-
-50GB per month other methods may need to be contemplated
-Augmented reality (AR) and virtual reality (VR) applications will require
-the support of a 5G network but its still early days for these
-technologies With VR taking some time to take off despite the initial
-launch hype we think some degree of skepticism is in order
-Furthermore we expect the usage of AR and VR to be most likely
-focused on city areas and the more affluent regions
-A nationwide rollout of 5G network will be much more expensive than 4G
-Currently typical 4G spectrum frequencies are 700MHz 900MHz and
-1800MHz while the lowest frequency currently allocated for 5G is 3500MHz
-As a rule of thumb the 1800MHz spectrum covers around double the distance
-of the 3500MHz Hence to achieve the same level of coverage the number of
-5G base stations required will be 3-4x Furthermore building a standalone 5G
-network may require further significant investments in the fiber backhaul
-Figure 28 Limited visual
+Figure 28: Limited visual
+is limited when stepping up from HD to 4K/8K, given the small display
 improvement from 4K screens
-Source  CNet
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 29 Spectrum difference between 5G and other
-generations of technology
-Figure 30 Theoretical relationship between coverage and
+screen. We suspect a 5G network is more likely to be used as a
+marketing gimmick by telecom operators, particularly in the initial
+stages of the build-out.
+Most of the IoT applications are likely to run on the NB-IoT standard
+under 4G for some time. In fact the 5G IoT standard won't be ready
+until Release 16 in 2019.
+No need for a nationwide rollout of 5G network
+Cutting-edge technologies, such as robotics and e-health, remain
+expensive and can be satisfied by a limited rollout of the 5G network,
+focusing mostly on Tier 1 cities or specific regions and supplemented
+Source: CNet
+by Wi-Fi and fixed broadband.
+For self-driving cars, we do not think the mission-critical components
+will be reliant on the 5G network, given improved processing power
+and the significant litigation risks associated should accidents occur.
+While there is significant data upload needs for self-driving cars, this
+should be done when there is a 5G or Wi-Fi network available (e.g. in
+city areas). Furthermore some sources indicate that the level of data
+uploads could reach around 3,000GB per day (e.g. CSIA) for a self-
+driving car. With the average fixed broadband user using only 20-
+50GB per month, other methods may need to be contemplated.
+Augmented reality (AR) and virtual reality (VR) applications will require
+the support of a 5G network, but it's still early days for these
+technologies. With VR taking some time to take off despite the initial
+launch hype, we think some degree of skepticism is in order.
+Furthermore, we expect the usage of AR and VR to be most likely
+focused on city areas and the more affluent regions.
+A nationwide rollout of 5G network will be much more expensive than 4G
+Currently typical 4G spectrum frequencies are 700MHz, 900MHz and
+1800MHz, while the lowest frequency currently allocated for 5G is 3500MHz.
+As a rule of thumb, the 1800MHz spectrum covers around double the distance
+of the 3500MHz. Hence, to achieve the same level of coverage, the number of
+5G base stations required will be 3-4x. Furthermore, building a standalone 5G
+network may require further significant investments in the fiber backhaul.
 Relativity between number of base stations required for coverage
-Source Deutsche Bank
-Source Deutsche Bank
-There are some offsets the use of beam forming techniques can increase
-propagation distance and given their higher bandwidth capacity 5G base
-stations can reduce the number of base stations required in high-density areas
+Source: Deutsche Bank
+Source: Deutsche Bank
+There are some offsets: the use of beam forming techniques can increase
+propagation distance and, given their higher bandwidth capacity, 5G base
+stations can reduce the number of base stations required in high-density areas.
 Furthermore some uncertainties remain around the spectrum to be used for
-5G with different frequencies proposed by different countries Ultimately some
-of the 2G3G spectrum in lower frequencies may be re-allocated to 5G later
+5G, with different frequencies proposed by different countries. Ultimately some
+of the 2G/3G spectrum in lower frequencies may be re-allocated to 5G later.
 Struggling telcos generally cautious about 5G spending
 The investing intentions of telcos in the 5G era are generally subdued as telco
 profitability and growth stall and with evidence of 4G monetization generally
-limited for telcos
-Figure 31 Telco profitability has declined
-Figure 32 Weak European telco mobile revenue growth
-APAC Ex Jpn Telco EBITDA margin
-Source Deutsche Bank Company Data
-Source Deutsche Bank estimates Company Data
-on 5G investments
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-China Mobile chairman We will not blindly invest in 5G without viable
+limited for telcos.
+Source: Deutsche Bank estimates, Company Data
+Hence it is understandable when we hear such comments by telco operators
+on 5G investments:
+China Mobile chairman: We will not blindly invest in 5G without viable
 business applications and there are no such viable applications under
-5G at the moment
-is different when migrating from 2G to 4G than from 4G to 5G 5G
-remains just a story at the moment
-MTS (Russia) chief marketing officer There is no business case behind
-it and it is not in our business plan for 2017 or 2018
-it is not going to be a big bang with 5G Greater industry collaboration
+5G at the moment;
+China Unicom chairman: 5G will co-exist with 4G for a long time and it
+is different when migrating from 2G to 4G than from 4G to 5G. 5G
+remains just a story at the moment;
+MTS (Russia) chief marketing officer: There is no business case behind
+it and it is not in our business plan for 2017 or 2018;
+Deutsche Telecom chief technology officer: 4G will evolve further and
+it is not going to be a big bang with 5G. Greater industry collaboration
 is needed to reduce the cost of rolling out a 5G radio network and
 some established vendors may not survive the transition from 4G
-DoCoMo management We would like to see capex decline up until
-FY19 and then be flat from FY20 onwards
-Korean telcos The annual capex burden wont be too different vs 4G
-Figure 33 Early applications will merely enhance the
-mobile broadband experience
-Figure 34 Very few telcos would look to have wide-
-spread coverage in early deployment
-Enhanced mobile broadband
-(VRAR critical services)
+to 5G;
+DoCoMo management: We would like to see capex decline up until
+FY19 and then be flat from FY20 onwards.
+Korean telcos: The annual capex burden won't be too different vs. 4G.
 % of operators seeing the highest priority use in early 5G deployment
-Hotspot coverage Full geographic
 Level of coverage for a new 5G network in early deployment
-Source Deutsche Bank GSMA CEO 5G Survey
-Source Deutsche Bank GSMA CEO 5G Survey
+Source: Deutsche Bank, GSMA CEO 5G Survey
+Source: Deutsche Bank, GSMA CEO 5G Survey
 Upgrade path for 5G
-There are two broad deployment scenarios for 5G networks standalone and
-non-standalone A standalone network is newly built and includes new base
-stations backhaul links and a core network while a non-standalone network
-piggy-backs on the existing infrastructure (eg adding new aerials and
-modules to existing base stations)
-to GSMA operators in China are more inclined to take the standalone route
+There are two broad deployment scenarios for 5G networks: standalone and
+non-standalone. A standalone network is newly built and includes new base
+stations, backhaul links and a core network, while a non-standalone network
+piggy-backs on the existing infrastructure (e.g. adding new aerials and
+modules to existing base stations).
+Standalone offers better performances as well as less complexity from legacy
+LTE integration but is more expensive in the early commercial stage. According
+to GSMA, operators in China are more inclined to take the standalone route
 while operators in other countries are likely to opt for a non-standalone
-approach in the early stages
-A 5G build-out would most likely require
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-New base stations or upgrades to existing base stations (eg new
-aerials) depending on whether a standalone or non-standalone 5G
+approach in the early stages.
+A 5G build-out would most likely require:
+New base stations or upgrades to existing base stations (e.g. new
+aerials), depending on whether a standalone or non-standalone 5G
 network is being built and whether the base stations would readily
-New routers and backhaul or upgrades to existing backhaul to
+accommodate 5G equipment;
+New routers and backhaul, or upgrades to existing backhaul, to
+accommodate the increase in data usage; and
 New core network (Evolved Packet Core) for the new functionalities
 offered for the standalone 5G while the existing core network may be
-used for non-standalone 5G
-Figure 35 Typical mobile network architecture
-Control and signaling plane
-Radio access (RAN)
-Evolved packet core (EPC)
-65% of cost
-15% of cost
-4% of cost
-Source 3GPP Deutsche Bank
-Notes UE  user equipment BSC  base station controller SGSN  serving GPRS support node MME  mobility management entity (control plane  session management)  SGW  serving gateway PGW  packet
-data network gateway HSS  home subscriber server (user identification) PCRF  policy and charging rules function - manages the service policy OSS  operation support systems (fulfillment assurance  service
-quality) BSS  business support systems (billing CRM customer care) Gi-LAN  gateway internet LAN interface
+used for non-standalone 5G.
+Source: 3GPP, Deutsche Bank
+Notes: UE = user equipment, BSC = base station controller, SGSN = serving GPRS support node, MME = mobility management entity (control plane - session management), SGW = serving gateway, PGW = packet
+data network gateway, HSS = home subscriber server (user identification), PCRF = policy and charging rules function - manages the service policy, OSS = operation support systems (fulfillment, assurance - service
+quality); BSS = business support systems (billing, CRM, customer care); Gi-LAN = gateway internet LAN interface
 ZTE 5G revenue growth forecasts (outside of China)
-The following table shows our forecasts for ZTEs revenue growth outside of
+The following table shows our forecasts for ZTE's revenue growth outside of
+China for 2020 and beyond. We have assumed a combination of market share
 gains and a reasonable capex increase under 5G but a later rollout date of
-2021 for the global telcos We discuss the near-term forecasts in a later
-Figure 36 ZTE carrier revenue forecasts outside of China
-Carrier revenue growth (ex China)
-Revenue contribution (RBMbn)
-Source Deutsche Bank estimates Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+2021 for the global telcos. We discuss the near-term forecasts in a later
+section.
 Better support for 5G in
+China
 While there is a general reluctance by telcos around the world to increase
-capex for 5G the prospect is better in China as
-Chinese telcos will likely adopt a standalone 5G network which is
-higher in cost and
+capex for 5G, the prospect is better in China as:
+Chinese telcos will likely adopt a standalone 5G network, which is
+higher in cost; and
 There is general support by the Chinese government to lead
-internationally in terms of its IT and network infrastructure and to
-At the end of the day we believe Chinese telcos will likely tread the middle line
+internationally in terms of its IT and network infrastructure, and to
+facilitate the development of technology related companies.
+At the end of the day, we believe Chinese telcos will likely tread the middle line
 in terms of capex spending and estimate that they will spend in aggregate
-RMB15trn on 5G over 2020-2030 However we do not see a capex blowout in
-the face of moderating factors including the need to deliver profit targets for
-telco operators
-benefit more than global equipment vendors We explore these issues our 5G
-capex forecasts for China and its implications for ZTE below
+RMB1.5trn on 5G over 2020-2030. However, we do not see a capex blowout in
+the face of moderating factors, including the need to deliver profit targets for
+telco operators.
+ZTE, which has bigger exposure to the Chinese telecom capex cycle, should
+benefit more than global equipment vendors. We explore these issues, our 5G
+capex forecasts for China and its implications for ZTE below.
 Chinese telcos will likely tread the middle path on 5G capex
-The Chinese government has long been supportive of the countrys technology
-grants (ZTE for example receives RMB1bn in grants each year) This message
+The Chinese government has long been supportive of the country's technology
+sector with companies such as ZTE enjoying a lower tax rate and government
+grants (ZTE for example receives ~RMB1bn in grants each year). This message
 was reiterated at the recent 19th National Congress with the government
-aiming to make China a global IT and networking powerhouse
+aiming to make China a global IT and networking powerhouse.
 The government would have also been proud of the achievements that Huawei
-has made on the international stage and the countrys increased ownership of
+has made on the international stage and the country's increased ownership of
+global mobile communication standards. Hence, some pressure is likely by the
 government on Chinese telcos to invest earlier and at a larger scale on 5G than
-international peers
-That said we see some moderating factors including
-The need to improve SOE returns the government wants to improve
-SOEs returns and reduce unwanted supply and the reform actions at
-international peers
-One national champion is enough China has already had significant
-success in promoting Huawei as a global powerhouse Hence there
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+international peers.
+That said, we see some moderating factors, including:
+The need to improve SOE returns: the government wants to improve
+SOEs' returns and reduce unwanted supply, and the reform actions at
+China Unicom suggest a desire to improve telco sector returns;
+Telecom infrastructure has caught up: Chinese telcos already invested
+significantly in the past and the state of Chinese telecom infrastructure
+has caught up with (and even exceeded) many of its
+international peers;
+One national champion is enough? China has already had significant
+success in promoting Huawei as a global powerhouse. Hence there
 may be less motivation to lend support to a similar equipment
-manufacturer beyond the level provided in the past
-China already has a strong say in international standards with Time
+manufacturer beyond the level provided in the past.
+China already has a strong say in international standards, with Time
 Division (TD) now a globally recognized standard under 4G and this is
-Mobile still making the lions share of industry profits A drive to spend
-balance against smaller players given their lower margins and weaker
-financial strength
-Figure 37 Chinese telco capex vs international peers
-Figure 38 China 4G and fiber penetration vs peers
-Fiber as % of total broadband subs
-4G as % of total mobile subs
-Source Deutsche Bank Company Data Avg capex to sales ratio FY12-FY16
-Source Deutsche Bank Company Data Ericsson OECD
+likely to form a core component of the 5G standards;
+Unbalanced competitive strength in the telecom sector, with China
+Mobile still making the lion's share of industry profits. A drive to spend
+significantly on the network would invariably tip the competitive
+balance against smaller players, given their lower margins and weaker
+financial strength.
+Source: Deutsche Bank, Company Data, Ericsson, OECD
 DB China 5G capex forecasts
-The table below shows our forecasts for total 5G capex in China We expect
-total 5G capex to be around twice that of 4G to reflect the higher frequency
-offset by improving technology (eg higher propagation) and declining
-equipment pricing over time
-Figure 39 Total 5G capex estimate
-Number of 4G base stations equivalent
-Multiple to get to 5G equivalent
-Number of 5G base stations (m)
-Cost per base station (RMB000)
-Total 5G wireless capex (RMBbn)
-Total wireless capex under 4G for similar coverage (RMBbn)
-5G vs 4G total wireless capex
-Source Deutsche Bank Company Data
-We forecast total 5G wireless capex spend of RMB15trn with an initial spend
-of RMB08trn spread over the first five years on the following basis
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Cost per 5G base station added of RMB115k broadly based on the
-historical average spend per 4G base station added and CUs own
-estimate of RMB100k to RMB130k per 4G base station
+The table below shows our forecasts for total 5G capex in China. We expect
+total 5G capex to be around twice that of 4G, to reflect the higher frequency,
+offset by improving technology (e.g. higher propagation) and declining
+equipment pricing over time.
+We forecast total 5G wireless capex spend of RMB1.5trn with an initial spend
+of RMB0.8trn spread over the first five years on the following basis:
+Cost per 5G base station added of RMB115k, broadly based on the
+historical average spend per 4G base station added and CU's own
+estimate of RMB100k to RMB130k per 4G base station.
 We assume a total of 7m 5G base stations being deployed over five
-years based on 35m 4G base stations as at 1H17 (where the major
-operators already have 85-95% 4G network coverage) multiplied by
+years based on 3.5m 4G base stations as at 1H17 (where the major
+operators already have 85-95% 4G network coverage), multiplied by
 two to account for the lower penetration of the high frequency 5G
-spectrum partially offset by the larger bandwidth offered
+spectrum, partially offset by the larger bandwidth offered.
 We assume the number of base stations required doubles from 7m in
-2024 to 15m in 2030 to account for increased data usage partially
-offset by a decline in ASP due to improvement in technology
-Figure 40 Cost per base station added
-Figure 41 DB 5G capex vs CAICT forecasts
-CAICT 5G capex forecast
-DB forecast wireless capex spend
-Mobile capex including backhaul spend
-Source Deutsche Bank Company Data
-Source Deutsche Bank CAICT Company Data
-Our 5G capex forecasts are lower than CAICTs (a think-tank for the MIIT)
-forecasts in their 5G White Paper (published in June 2017 and shown above)
-particularly after 2022 We do not think the CAICT capex forecasts are
-reasonable (particularly those beyond 2022) at the moment given the limited
-number of use cases for 5G Applying such a hefty capex burden would imply
-that the Chinese telcos would hardly generate any free cash flows in FY22-24
+2024 to 15m in 2030, to account for increased data usage, partially
+offset by a decline in ASP due to improvement in technology.
+Source: Deutsche Bank, CAICT, Company Data
+Our 5G capex forecasts are lower than CAICT's (a think-tank for the MIIT)
+forecasts in their 5G White Paper (published in June 2017 and shown above),
+particularly after 2022. We do not think the CAICT capex forecasts are
+reasonable (particularly those beyond 2022) at the moment, given the limited
+number of use cases for 5G. Applying such a hefty capex burden would imply
+that the Chinese telcos would hardly generate any free cash flows in FY22-24,
 2-3 years after 5G launch when the telcos would have already tested the
-waters in terms of user demand for the services
-Figure 42 Telcos unlikely to spend the capex without the
-revenue to show for it after 2-3 years
-Figure 43 CAICT expects a strong contribution from 5G
-Total capex implied by CAICT paper
-Telco EBITDA less tax
-Data usage revenue contribution to telco operators
-Source Deutsche Bank CAICT
-Source Deutsche Bank CAICT
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+waters in terms of user demand for the services.
+Source: Deutsche Bank, CAICT
+Source: Deutsche Bank, CAICT
 Implied Chinese telco overall capex forecasts
-The following chart summarizes our telco capex forecasts Backhaul capacity
+The following chart summarizes our telco capex forecasts. Backhaul capacity
 upgrade is assumed to occur at a constant pace and here we assume a 5%
-pa increase in spend each year We forecast 2020 and 2021 being the peak
-years in terms of total 5G spend averaging RMB200bn pa which is in line
-with the peak wireless capex in 2015 While our total capex spend is less than
-the 2015 peak this accounts for the following two factors 1) RMB28bn of the
-wireless capex is spent on 2G3G by CU and 2) the operators no longer need
-to spend on fiber for the last mile fixed broadband access in 2020
-Figure 44 Total capex spend
-Fixed broadband and transmission
-Source Deutsche Bank estimates Company Data
-The capex spend by telco is shown below
-Figure 45 CM
-Figure 46 CT
-Figure 47 CU
-Fixed broadband and transmission
-Fixed broadband and transmission
-Fixed broadband and transmission
-Source Deutsche Bank estimates
-Source Deutsche Bank estimates
-Source Deutsche Bank estimates
-on our forecasts is around 23% which is 8ppts lower than the past though we
-note that their EBITDA margin is also 8ppts lower than the past as shown
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 48 Capex to sales ratio
-Figure 49 But EBITDA margin also lower
-FY17 to FY24 avg
-FY17 to FY24 avg
-Source Deutsche Bank estimates Company Data
-Source Deutsche Bank estimates Company Data
-How would a 5G build-out benefit vendors like ZTE
-For ZTE we estimate that 39% of its revenue is exposed to the domestic
-increased in recent years due to the increased scale of the Chinese telcos
-Figure 50 Revenue mix (FY16)
-Figure 51 Revenue mix (FY09)
-(estimate)
-(estimate)
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data
-We also find that in times of technology change ZTE tends to benefit more
-from a higher revenue share than the historical average as shown below
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 52 Chinese telco capex vs ZTE revenue
-Figure 53 ZTE revenue share over time
-Telco capex (wireline and wireless)
-ZTE carrier revenue (RHS)
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data
+p.a. increase in spend each year. We forecast 2020 and 2021 being the peak
+years in terms of total 5G spend, averaging RMB200bn p.a. which is in line
+with the peak wireless capex in 2015. While our total capex spend is less than
+the 2015 peak, this accounts for the following two factors: 1) RMB28bn of the
+wireless capex is spent on 2G/3G by CU, and 2) the operators no longer need
+to spend on fiber for the last mile fixed broadband access in 2020.
+The capex spend by telco is shown below.
+The implied capex to sales ratio for the telecom operators beyond FY17, based
+on our forecasts, is around 23% which is 8ppts lower than the past, though we
+note that their EBITDA margin is also 8ppts lower than the past, as shown
+below.
+How would a 5G build-out benefit vendors like ZTE?
+For ZTE, we estimate that 39% of its revenue is exposed to the domestic
+telecom capex cycle, while 19% of its revenue is exposed to the global capex
+cycle, as at FY16. Its leverage to the Chinese telecom capex cycle has
+increased in recent years, due to the increased scale of the Chinese telcos.
+We also find that in times of technology change, ZTE tends to benefit more
+from a higher revenue share than the historical average, as shown below.
+Source: Deutsche Bank, Company Data
 ZTE China carrier revenue forecasts under 5G
-operators are shown in the following charts We forecast a 30% increase in
-ZTEs China carrier revenue in FY20 and another 15% increase in FY21
-We assume some market share gain for ZTE during the 5G era however this is
+Our forecasts for the equipment vendor revenue from the Chinese telecom
+operators are shown in the following charts. We forecast a 30% increase in
+ZTE's China carrier revenue in FY20 and another 15% increase in FY21.
+We assume some market share gain for ZTE during the 5G era, however this is
 unlikely to be a one-way street where the local Chinese vendors continue to
-take share Nokia has a JV in China for example which is 50%-owned by the
-state and furthermore we expect the operators to also want to leave some for
-Figure 54 Market share for China carrier revenue
-Figure 55 Revenue growth in China carrier revenue
--5% -5% -5%
-ZTE China carrier revenue growth
-Source Deutsche Bank estimates Company Data Ericsson data includes North East Asia which may
+take share. Nokia has a JV in China, for example, which is 50%-owned by the
+state and, furthermore, we expect the operators to also want to leave some for
+the overseas vendors to retain competitive tension.
+Source: Deutsche Bank estimates, Company Data, Ericsson data includes North East Asia which may
+Source: Deutsche Bank estimates, Company Data
 have slightly overstated their market share
-Source Deutsche Bank estimates Company Data
-We also note that the equipment vendors revenue as a % of telco capex has
-increased noticeably in recent periods as the equipment and software
-constructions which are now being carried out by the TowerCo Hence we
+We also note that the equipment vendors' revenue as a % of telco capex has
+increased noticeably in recent periods, as the equipment and software
+component of capex increases and as telco capex no longer includes tower
+constructions, which are now being carried out by the TowerCo. Hence, we
 have used the more recent years as a better guide for the relativity between
-equipment vendor revenue vs telco capex
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 56 Vendor revenue forecasts
-Figure 57 China carrier revenue by vendor
-Total equipment vendor revenue
-Revenue of the top 4 vendors as % of telco capex
-Source Deutsche Bank estimates Company Data
-Source Deutsche Bank estimates Company Data Ericsson data includes North East Asia which may
+equipment vendor revenue vs. telco capex.
+Source: Deutsche Bank estimates, Company Data, Ericsson data includes North East Asia which may
 have slightly overstated their market share
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Before the 5G build-out arrives the growth outlook is challenging with telco
-capex set to fall in China and globally over the next 2-3 years That said with
-ZTEs US regulatory issue having resolved and its European counterparts
-looking to improve their profitability ZTE has the opportunity to lift its market
-In the following section we look at the growth outlook in the next 2-3 years
+Opportunities and
+challenges near term
+Before the 5G build-out arrives, the growth outlook is challenging with telco
+capex set to fall in China and globally over the next 2-3 years. That said, with
+ZTE's US regulatory issue having resolved and its European counterparts
+looking to improve their profitability, ZTE has the opportunity to lift its market
+share.
+In the following section, we look at the growth outlook in the next 2-3 years
 before 5G arrives and we outline the various risks (both upside and downside)
-that we see to ZTEs near-term earnings
+that we see to ZTE's near-term earnings.
 Telco capex spend slowing
-Globally we estimate that telco capex will decline 3-5% pa over the next two
-years as the pace of 4G and fiber rollouts slows North America is the only
-region where we expect to see a rise in telco capex however it is the region
-where ZTE has the least potential for growth Excluding North America we
-expect the capex of telcos in the other regions to fall 6-7% pa
-Figure 58 Global wireless capex forecasts
-Figure 59 Global wireline capex forecasts
-Source Deutsche Bank estimates Industry Data
-Source Deutsche Bank estimates Industry Data
-For Chinese telcos the picture is no different with their capex set to fall 5%
-pa over the next three years
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 60 Chinese telco capex
-Figure 61 Split of capex forecasts by telco
-Fixed broadband and transmission
-Source Deutsche Bank estimates Industry Data
-Source Deutsche Bank estimates Industry Data
-opportunity for growth for ZTE would be via market share gains which we
-explore in the following section
+Globally, we estimate that telco capex will decline 3-5% p.a. over the next two
+years, as the pace of 4G and fiber rollouts slows. North America is the only
+region where we expect to see a rise in telco capex; however, it is the region
+where ZTE has the least potential for growth. Excluding North America, we
+expect the capex of telcos in the other regions to fall 6-7% p.a.
+Source: Deutsche Bank estimates, Industry Data
+Source: Deutsche Bank estimates, Industry Data
+For Chinese telcos, the picture is no different with their capex set to fall ~5%
+p.a. over the next three years.
+Source: Deutsche Bank estimates, Industry Data
+Source: Deutsche Bank estimates, Industry Data
+With a challenging near-term outlook for the telecom capex cycle, the biggest
+opportunity for growth for ZTE would be via market share gains, which we
+explore in the following section.
 Market share gain opportunities
 The equipment vendors have limited segmental disclosures around their
-independent data sources are available differences still exist and the data are
-often overly segmented and do not include a holistic picture of the providers
+operating businesses, we believe for competitive reasons. While some
+independent data sources are available, differences still exist and the data are
+often overly segmented and do not include a holistic picture of the providers.
 Hence we look at market share based on reported revenue by the equipment
-On this basis ZTE appears to be slowly gaining share in China which is
-leading to an increase in global market share while Huawei is the one that is
-consistently gaining share from the other vendors
-Figure 62 China equipment vendor relative revenue
-Figure 63 Global equipment vendor relative revenue
-Source Deutsche Bank Company Data Carrier revenue only
-Source Deutsche Bank Company Data Includes carrier and enterprise revenue
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-We do note that ZTE has lost share in the government and enterprise segment
+providers on the basis that they have similar competencies and would be
+competing against each other on similar contracts.
+On this basis, ZTE appears to be slowly gaining share in China, which is
+leading to an increase in global market share, while Huawei is the one that is
+consistently gaining share from the other vendors.
+Source: Deutsche Bank, Company Data, Carrier revenue only
+Source: Deutsche Bank, Company Data, Includes carrier and enterprise revenue
+We do note that ZTE has lost share in the government and enterprise segment,
 which may be the result of recent regulatory issues as well as changes in their
-strategy  ie moving away from package solutions to equipment sales only
+strategy – i.e. moving away from package solutions to equipment sales only.
 Profit focus from the global peers providing an opportunity for share gain
 We see some opportunities for ZTE to gain market share from the likes of
-Nokia and Ericsson due to the following
-Ericssons focus on return to profitability may see the loss of some
-less profitable customers
+Nokia and Ericsson, due to the following:
+Ericsson's focus on return to profitability may see the loss of some
+less profitable customers;
 Nokia bedding down its acquisitions of Alcatel may see some
-customer attrition
-ZTEs product and execution capabilities have improved Our channel
+customer attrition;
+ZTE's product and execution capabilities have improved. Our channel
 checks in China suggest limited quality difference in the 4G RAN
-product between the top four equipment vendors
+product between the top four equipment vendors;
 The Chinese government provides financial support to the equipment
 vendors which allows ZTE to charge lower prices than the overseas
+peers;
 The desire by telco operators to maintain a reasonable degree of
-Figure 64 Ericsson struggling for profitability
-Figure 65 Nokia and Ericsson focused on profitability
-Operating profit margin
-Operating profit margin
-Source Deutsche Bank Company Data FY16 shown for Huawei FY17E DB est shown for the others
-Source Deutsche Bank estimates Company Data
+competitive tension between the equipment providers with the loss of
+one competitor in the market (i.e., Alcatel Lucent) and with Huawei
+becoming ever more dominant.
+Figure 65: Nokia and Ericsson focused on profitability
+Source: Deutsche Bank, Company Data, FY16 shown for Huawei, FY17E DB est. shown for the others
+Source: Deutsche Bank estimates. Company Data
 More share gain opportunities in EMEA and Asia Pacific
 We see limited opportunities for ZTE to gain further material market shares in
-China Our channel checks suggest that ZTE already has a 30-35% market
-share in the radio access network business in line with Huawei While ZTEs
-market share in optical equipment and routers are lower Huaweis dominance
-in these markets may make any material market share gain more difficult
-However there may be more opportunities in EMEA (Europe in particular) and
-in Asia Pacific As shown below ZTE has less than 5% share in the EMEA
+China. Our channel checks suggest that ZTE already has a 30-35% market
+share in the radio access network business, in line with Huawei. While ZTE's
+market share in optical equipment and routers are lower, Huawei's dominance
+in these markets may make any material market share gain more difficult.
+However, there may be more opportunities in EMEA (Europe in particular) and
+in Asia Pacific. As shown below, ZTE has less than 5% share in the EMEA
 regions and has recently had some more high profile contract wins such as the
-cooperation with Orange in its pre-5G trial and with Wind Italy in its 4G
-deployment Meanwhile some of the Asian telcos are still rolling out their 4G
-networks which provides some room for market share gains
-Figure 66 ZTE estimated market
-share in 4G
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 67 ZTE market share low in EMEA
-Figure 68 Market share in EMEA
-ZTE market share by region
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data Based on the disclosures of Nokia ZTE Huawei and Ericsson
-The following table summarizes the revenue pie for each region We see the
-biggest upside for ZTE in the EMEA and Asia Pacific region given ZTEs small
-market share and with Huaweis success in the region it is likely that the
+deployment. Meanwhile, some of the Asian telcos are still rolling out their 4G
+networks, which provides some room for market share gains.
+Source: Deutsche Bank, Company Data
+Source: Deutsche Bank, Company Data, Based on the disclosures of Nokia, ZTE, Huawei and Ericsson
+The following table summarizes the revenue pie for each region. We see the
+biggest upside for ZTE in the EMEA and Asia Pacific region, given ZTE's small
+market share, and with Huawei's success in the region, it is likely that the
+telcos there would be accommodative of ZTE's approach.
 If we assume ZTE gains 3ppts in market share in the EMEA and Asia Pacific
-region this translates into a 10% increase in its overall revenue Hence there
-does appear to be some material upside if ZTE was to gain market share
-Figure 69 Revenue opportunity by region
-Figure 70 Revenue sensitivity assuming different market
-share gains in EMEA and Asia Pacific
-Revenue opportunities for ZTE
-Market share gain in ppts
-Impact on group revenue
-Source Deutsche Bank Company Data Based on the disclosures of Nokia ZTE Huawei and Ericsson
-Source Deutsche Bank Company Data
-In the following table we provide some sensitivities for the earnings
-opportunity for ZTE assuming it is able to gain share from the peers
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 71 Earnings benefit from market share gains in EMEA and Asia Pacific
-Market share gain in EMEA
-Implied additional revenue
-Additional gross profit (40% margin)
-% increase in gross profit
-Additional net profit (5% margin)
-As % of net profit
-Source Deutsche Bank Company Data
+region, this translates into a 10% increase in its overall revenue. Hence, there
+does appear to be some material upside if ZTE was to gain market share.
+Source: Deutsche Bank, Company Data, Based on the disclosures of Nokia, ZTE, Huawei and Ericsson
+Source: Deutsche Bank, Company Data
+In the following table, we provide some sensitivities for the earnings
+opportunity for ZTE, assuming it is able to gain share from the peers.
 Execution risks remain
-Despite the upside from market share gains we do think significant execution
-risks remain for ZTE to deliver on the above In particular ZTE has not shown
-itself to be able to gain market share outside of China and Huawei may end up
-scooping up more share as it has done in the past
-Furthermore winning contracts in overseas markets may result in margin
+Despite the upside from market share gains, we do think significant execution
+risks remain for ZTE to deliver on the above. In particular, ZTE has not shown
+itself to be able to gain market share outside of China, and Huawei may end up
+scooping up more share as it has done in the past.
+Furthermore, winning contracts in overseas markets may result in margin
 dilution as ZTE uses pricing as a lever to get its foot in the door on some key
-customers
-Figure 72 ZTE has not been able to gain market share
-Figure 73 Some margin might need to be sacrificed to
-Carrier revenue ex China and US (RMBbn)
-ZTE market share in these markets
-Gross margin (FY16)
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data
+customers.
+Source: Deutsche Bank, Company Data
+Source: Deutsche Bank, Company Data
 Carrier revenue forecasts over the next three years
-Figure 74 Near-term carrier revenue forecasts
-ZTE China carrier revenue growth
-ZTE Non-China carrier revenue growth
-Source Deutsche Bank estimates Company Data
-We assume that ZTEs carrier revenue growth in China is relatively flat over the
-next three years due to its high market share and as the domestic telcos capex
-declines We have allowed for 2-3ppt pa market share in EMEA and Asia
-Pacific for ZTE over the next three years which we believe is more than
-adequate given its track record to-date
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+We assume that ZTE's carrier revenue growth in China is relatively flat over the
+next three years due to its high market share and as the domestic telcos' capex
+declines. We have allowed for 2-3ppt p.a. market share in EMEA and Asia
+Pacific for ZTE over the next three years, which we believe is more than
+adequate, given its track record to-date.
 Employee share scheme provides confidence in earnings
-ZTEs employee share scheme stipulates that ZTE delivers 10% pa in net
+ZTE's employee share scheme stipulates that ZTE delivers ~10% p.a. in net
 profit growth off an adjusted FY16 net profit over the next three years and an
-ROE of 10% or above
-Figure 75 Employee share scheme
-Net profit (adjusted)
-Source Deutsche Bank estimates Bloomberg Finance LP
-As shown below it wont take much for ZTE to meet such targets (eg a 04%
-margin improvement and 1% market share gain in EMEA and Asia)
-Figure 76 Industry looking to lift profit margin
-Figure 77 Sensitivity to margin and share gain
-FY16 adjusted
-Increase in EMEA  APAC
-Increase in net profit margin
-Source Deutsche Bank estimates Company Data ZTE profit margin based on its employee share
-Source Deutsche Bank Company Data Applies a 5% net profit margin to revenue gains
+ROE of 10% or above.
+As shown below, it won't take much for ZTE to meet such targets (e.g. a 0.4%
+margin improvement and 1% market share gain in EMEA and Asia).
+Source: Deutsche Bank estimates, Company Data, ZTE profit margin based on its employee share
+Source: Deutsche Bank, Company Data, Applies a 5% net profit margin to revenue gains
+targets
 The existence of the share scheme could see ZTE selling off some of its core
 assets faster in the near term to prop up its earnings should there be hiccups in
-its revenue growth As such this may see its share price supported at current
-levels before more clarity on the 5G build-out emerges
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Long-term disrupters SDN
+its revenue growth. As such, this may see its share price supported at current
+levels before more clarity on the 5G build-out emerges.
+Long-term disrupters: SDN
+and NFV
+Telecom equipment providers historically sell hardware with embedded and
+dedicated software components. Typically, equipment providers make very
 little margin on the initial hardware implementation phase in the hope of
 recouping the cost via future software upgrades which have significantly
-higher margins
-improve efficiency and flexibility This unbundling process however may
+higher margins.
+Network functions virtualization (NFV) is a move by telecom operators to
+disaggregate software and hardware within telecom equipment, in order to
+improve efficiency and flexibility. This unbundling process, however, may
 result in reduced profitability for the equipment providers as the more lucrative
-dedicated software providers
-headwind in the longer term as NFV and SDN are essential in enabling some
-of the 5G functionalities (eg network slicing) Our European team led by Rob
-Sanders has delved into this issue in significant detail for the European
-equipment names in the note Telco Cloud  Resistance is futile We explore
-the issue briefly in the following section
-What are NFV and SDN
+software business becomes more open to disruption and competition from
+dedicated software providers.
+The evidence of disruption is relatively limited so far, but may become a major
+headwind in the longer term, as NFV and SDN are essential in enabling some
+of the 5G functionalities (e.g. network slicing). Our European team, led by Rob
+Sanders, has delved into this issue in significant detail for the European
+equipment names in the note "Telco Cloud – Resistance is futile". We explore
+the issue briefly in the following section.
+What are NFV and SDN?
 Network functions virtualization (NFV) was created in 2012 by telcos that were
-frustrated as existing hardware had limited their ability to speed up
-deployment of new services as the network functions are carried out by
-embedded software in proprietary hardware NFV disaggregates software and
+frustrated, as existing hardware had limited their ability to speed up
+deployment of new services, as the network functions are carried out by
+embedded software in proprietary hardware. NFV disaggregates software and
 hardware with network functions being run in software via virtualization
-server) This allows network resources to be divided into individual channels
-which can operate independently enabling virtual applications to be quickly
-hardware purchasing costs reduce opex and provides the ability to launch
-services more quickly
+techniques and then run on commoditized hardware (e.g. a standardized
+server). This allows network resources to be divided into individual channels
+which can operate independently, enabling virtual applications to be quickly
+implemented without the delays that come from installing new equipment.
+NFV then allows telecom operators to improve resource utilization, reduce
+hardware purchasing costs, reduce opex and provides the ability to launch
+services more quickly.
 Software defined networking (SDN) is a related concept that looks to promote
 an open network architecture by centralizing the software that controls the
-multivendor ecosystem that allow automation of IT tasks
-flexible network architecture That said the virtualization of network functions
-does not rely on SDN technologies and vice versa
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-How could they disrupt value in the equipment vendors
-For an equipment vendor like ZTE the implications are mostly negative
-Until now equipment vendors have preferred to sell equipment as an
-integrated device essentially as a closed black box They have then
-managed the pace of upgrades with upgrades often the highest
-margin sale within the customer lifecycle With NFVSDN the
+various network components, which would have previously been controlled by
+its own consoles and commands. The end-result is to enable an open
+multivendor ecosystem that allow automation of IT tasks.
+NFV and SDN, hence, are complementary concepts that promote an open and
+flexible network architecture. That said, the virtualization of network functions
+does not rely on SDN technologies and vice versa.
+How could they disrupt value in the equipment vendors?
+For an equipment vendor like ZTE, the implications are mostly negative:
+Until now, equipment vendors have preferred to sell equipment as an
+integrated device, essentially as a closed black box. They have then
+managed the pace of upgrades, with upgrades often the highest
+margin sale within the customer lifecycle. With NFV/SDN, the
 operating system can be supplied by a third party or internally and the
-hardware sales are likely to decline
+hardware sales are likely to decline.
 The promotion of open standards means that vendors are not locked
-in hence making it easier to switch vendors in the future
-While software sales from equipment vendors may rise this is unlikely
-to offset the loss from hardware sales Overall margin is likely to be
-permanently depressed for the industry
-As shown below DBs global team expects up to 20% revenue erosion from
-NFV and SDN adoption by 2025
-Figure 78 Likely impact of NFVSDN on the wireless infrastructure market
-Mobile Core (vEPC vIMS etc) C-RAN
-services (100bn)
-Consulting and SI uplift
-White-label Intel hardware sales
-Uncertainty around roadmap
-Virtualized mobile core
-C-RAN savings
-Subscription-model
-Source Deutsche Bank
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Attitude of the telcos
+in, hence making it easier to switch vendors in the future.
+The unbundling of the software and hardware components also invite
+competition from the large software vendors.
+While software sales from equipment vendors may rise, this is unlikely
+to offset the loss from hardware sales. Overall margin is likely to be
+permanently depressed for the industry.
+As shown below, DB's global team expects up to 20% revenue erosion from
+NFV and SDN adoption by 2025.
+Attitude of the telcos?
 We do note that currently SDN is occurring at the core and backhaul level only
-and the radio access networks (RAN) equipment are still sold as black
-boxes That said a number of telcos have long-term goals of increasing the
-penetration of SDNNFV in their network architecture which could see the
-level of disruption increase over time
-The following table below summarizes NFVSDN targets made by some of the
-large telcos globally
-Figure 79 Virtualization targets set by telco operators
-75% network function virtualization from 5% in 2015
-75% network function virtualization from 5% in 2015
-80% of network to be software defined by 2025
-50% network functions virtualized supported by SDN by 2020
-Source Deutsche Bank Company Data
+and the radio access networks ("RAN") equipment are still sold as "black
+boxes". That said, a number of telcos have long-term goals of increasing the
+penetration of SDN/NFV in their network architecture, which could see the
+level of disruption increase over time.
+The following table below summarizes NFV/SDN targets made by some of the
+large telcos globally.
+Figure 79: Virtualization targets set by telco operators
+Telco operator
+Comment
+AT&T
+NTT Docomo
+Telefonica
+China Telecom
+Vodafone
+Source: Deutsche Bank, Company Data
 Our channel checks so far suggest that there remains some resistance to the
-Difficulty in implementing SDN concepts at the base station level
+adoption of NFV and SDN by the telecom operators (noticeably China) due to:
+Difficulty in implementing SDN concepts at the base station level;
 A lack of visible cost savings due to the costs associated with renting
 mini data centers to store the servers and additional maintenance
-associated and
-Lack of interoperability and issues integrating with legacy equipment
-This issue is a risk for the likes of ZTE in the long run and is worth monitoring
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+associated; and
+Lack of interoperability and issues integrating with legacy equipment.
+This issue is a risk for the likes of ZTE in the long run and is worth monitoring.
 Valuation is broadly fair
 ZTE-H relative valuation broadly fair
-ZTE PE multiple has increased vs its long-run average however it is broadly
-fair vs the domestic and international peers as shown below
-Figure 80 ZTE-H 12mth PER vs long-run average
-Figure 81 ZTE-H PER vs European peers
-ZTE vs Nokia and Ericsson average
-Source Deutsche Bank Company Data Bloomberg Finance LP
-Source Deutsche Bank Company Data Bloomberg Finance LP 12mth forward relative PER
-Figure 82 ZTE-H FY18 PER vs peers
-Figure 83 ZTE-H vs domestic peers
-ZTE vs domestic peers
-Source Deutsche Bank Bloomberg Finance LP Based on DB forecasts for ZTE consensus forecasts
-Source Deutsche Bank Company Data Bloomberg Finance LP 12mth forward relative PER
-Our target price is HKD2650share for ZTE-H and RMB23share for ZTE-A We
-have not ascribed any premium for the A-share stocks given there is no
+ZTE PE multiple has increased vs. its long-run average; however, it is broadly
+fair vs. the domestic and international peers as shown below.
+Source: Deutsche Bank, Company Data, Bloomberg Finance LP
+Source: Deutsche Bank, Company Data, Bloomberg Finance LP, 12mth forward relative PER
+Source: Deutsche Bank, Bloomberg Finance LP, Based on DB forecasts for ZTE, consensus forecasts
+Source: Deutsche Bank, Company Data, Bloomberg Finance LP, 12mth forward relative PER
+for other names
+DB valuation
+Our target price is HKD26.50/share for ZTE-H and RMB23/share for ZTE-A. We
+have not ascribed any premium for the A-share stocks, given there is no
 fundamental difference between the two stocks and no reliable or scientific
-way of ascertaining such a premium
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 84 Target price derivation
-Implied FY18 PE
-Peer-based PE valuation (HKD)
-DCF valuation (HKD)
-Target price H-Share (HKD)
-Target price A-Share (RMB)
-Source Deutsche Bank estimates Company data
-We value ZTE based on the mid-point of our DCF and peer-based PE
-valuation Our DCF valuation is HKD2640share based on the following
-assumptions TGR is 1% below GDP growth given the lower earnings growth
-telcos long-run revenue growth
-Figure 85 Key DCF assumptions
-Cost of debt (after tax)
-Risk-free rate
-Source Deutsche Bank estimates
-Our peer-based PE valuation is HKD27share based on a peer average FY18
-PE of 227x
-Figure 86 Peer-based PE valuation
-ZTE FY18 EPS forecast (RMB)
-Value per share (HKD)
-Source Bloomberg Finance LP Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-The key upside risks include
-The government pushing for an earlier 5G rollout eg if the 5G license
-is given out in early 2019
-The government stipulating larger-than-expected spend on 5G
-Higher-than-expected market share gains
-The advent of a killer application that requires large-scale 5G
-network build-out eg the proliferation of Augmented Reality
-applications
-Larger-than-expected margin improvement
-The key downside risks include
-Market share losses
-Delay in formalizing the 5G standards
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+way of ascertaining such a premium.
+We value ZTE based on the mid-point of our DCF and peer-based P/E
+valuation. Our DCF valuation is HKD26.40/share, based on the following
+assumptions. TGR is 1%, below GDP growth given the lower earnings growth
+of the telecom operators. We assume ZTE will grow generally in line with
+telcos long-run revenue growth.
+PE of 22.7x.
+Risks
+The key upside risks include:
+The government pushing for an earlier 5G rollout, e.g. if the 5G license
+is given out in early 2019;
+The government stipulating larger-than-expected spend on 5G;
+Higher-than-expected market share gains;
+The advent of a "killer" application that requires large-scale 5G
+network build-out, e.g. the proliferation of Augmented Reality
+applications;
+Larger-than-expected margin improvement.
+The key downside risks include:
+Market share losses;
+Delay in formalizing the 5G standards;
+Reluctance from telecom operators to spend on 5G;
+Increase in competitive intensity.
+Company description
 Management background
-Mr Yimin Yin  Executive Chairman
-Mr Yin was born in 1963 and graduated with a masters degree in
+Mr. Yimin Yin – Executive Chairman
+Mr. Yin was born in 1963 and graduated with a master's degree in
+Telecommunication and Electronics from Nanjing Postal University. He joined
 ZTE in 1991 in one of its subsidiaries as a research director and has since held
-various roles including vice president in handsets sales and research He has
-head of ZTEs handsets business and has been ZTEs chairman since March
-Mr Xianmin Zhao  CEO
-joined ZTE in 1998 in its CDMA product division looking after research and
-management Since then he has been a research team head and product and
-looking after the CDMA and mobile division Between 2014 and 2015 Mr
-Mr Zaisheng Wei - CFO
-Mr Wei was born in 1962 and obtained a masters of business administration
-in 2004 Mr Wei joined ZTE in 1988 and has held various positions including
-since 2008
+various roles including vice president in handsets, sales and research. He has
+been a director of the company since 1997. Mr. Yin was most recently the
+head of ZTE's handsets business and has been ZTE's chairman since March
+Mr. Xianmin Zhao - CEO
+Mr. Zhao was
+born
+and
+graduated with doctorate in
+Telecommunication and Electronics from Harbin Industrial University. Mr. Zhao
+joined ZTE in 1998 in its CDMA product division, looking after research and
+management. Since then he has been a research team head, and product and
+project manager and was senior vice president of the company from 2004,
+looking after the CDMA and mobile division. Between 2014 and 2015, Mr.
+Zhao was the CTO of the company and he was the acting chairman between
+2016 and 2017.
+Mr. Zaisheng Wei - CFO
+Mr. Wei was born in 1962 and obtained a master's of business administration
+in 2004. Mr. Wei joined ZTE in 1988 and has held various positions, including
+assistant to the CEO and head of markets. He has been CFO of the company
+since 2008.
 Shareholding structure
-ZTE is dual-listed on the Hong Kong and Shen Zhen stock exchanges Each A
-and H share has equal voting rights and there are 3% of shares in
-performance options and locked up management shares
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 87 Shareholding structure
-H-share 763HK
-Lock ups 
-Source Deutsche Bank Company Data
-The largest shareholder of the ZTE Corporation is Zhong Xing Xin which is in
-turn owned by three other shareholders XiAn Microelectronics Aerospace
-Guangyu and Zhongxing WXT XiAn Microelectronics is a subsidiary of the
-China Aerospace Electronics Technology Research Institute which is a large
-state-owned research institute Aerospace Guangyu is also a state-owned
+ZTE is dual-listed on the Hong Kong and Shen Zhen stock exchanges. Each A
+and H share has equal voting rights and there are ~3% of shares in
+performance options and locked up management shares.
+The largest shareholder of the ZTE Corporation is Zhong Xing Xin, which is in
+turn owned by three other shareholders, Xi'An Microelectronics, Aerospace
+Guangyu and Zhongxing WXT. Xi'An Microelectronics is a subsidiary of the
+China Aerospace Electronics Technology Research Institute, which is a large
+state-owned research institute. Aerospace Guangyu is also a state-owned
 enterprise with a business scope including aerospace technology products and
-machinery equipment Zhongxing WXT is a private enterprise and its legal
-representative is Hou Weigui who was the chairman of ZTE between 2004 and
-Figure 88 Largest shareholders
-Source Deutsche Bank Company Data as at 1H17
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+machinery equipment. Zhongxing WXT is a private enterprise and its legal
+representative is Hou Weigui, who was the chairman of ZTE between 2004 and
 Key historical charts
-The following charts summarize the revenue split by division
-Figure 89 Revenue split by business segment
-Figure 90 Revenue split by region
-(estimate)
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data
-Figure 91 Historical revenue growth
-Figure 92 Carrier revenue market share
-FY08 FY09 FY10 FY11 FY12 FY13 FY14 FY15 FY16
-Government and corporate business
-Source Deutsche Bank Company Data Some of the historical numbers have been subject to
-Source Deutsche Bank Company Data
-From a gross margin perspective carrier equipment is the most profitable
-segment at 39% while handsets are the least profitable at 14%
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 93 Gross margin by business segment
-Figure 94 Historical gross profit margin
-Carrier network gross profit margin
-Source Deutsche Bank Company Data As at FY16 for others
-Source Deutsche Bank Company Data
-Comparison vs global peers
-Figure 95 Gross margin vs peers
-Figure 96 FY16 cost structure vs peers
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data
-Figure 97 RD spend as % of revenue over time
-Figure 98 Number of RD professionals vs peers
-FY16 number of RD professionals (000)
-Source Deutsche Bank Company Data
-Source Deutsche Bank Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Key drivers of our earnings forecasts are shown below
-Figure 99 Key drivers of forecasts
-Operating revenue growth
-Government and corporate
-Government and corporate
-Expenses as % of revenue
-Selling and distribution costs
-RD expense
-Net profit margin (adj)
-Source Deutsche Bank estimates
-We are 3-5% below Bloomberg consensus forecasts  with FY17 earnings
-having benefitted from RMB2bn in marked-to-market gains on the Nubia
-sale it does make growth in FY18 more difficult to achieve That said ZTE has
-could help cushion the earnings gap in future years
-Figure 100 DB NPAT vs Bloomberg consensus forecasts
-Source Deutsche Bank estimates Company Data Bloomberg Finance LP
+The following charts summarize the revenue split by division.
+Source: Deutsche Bank, Company Data
+58% of ZTE's revenue comes from mainland China and we estimate around
+39% of its total revenue comes from the China carrier network products, while
+19% of its revenue comes from overseas carriers.
+Figure 92: Carrier revenue market share
+Source: Deutsche Bank, Company Data
+From a gross margin perspective, carrier equipment is the most profitable
+segment at 39%, while handsets are the least profitable at 14%.
+Source: Deutsche Bank, Company Data, As at FY16 for others
+Comparison vs. global peers
+Figure 96: FY16 cost structure vs. peers
+Source: Deutsche Bank, Company Data
+Figure 98: Number of R&D professionals vs. peers
+Source: Deutsche Bank, Company Data
+Source: Deutsche Bank, Company Data
+Earnings forecasts
+Key drivers of our earnings forecasts are shown below.
+We are 3-5% below Bloomberg consensus forecasts - with FY17 earnings
+having benefitted from ~RMB2bn in marked-to-market gains on the Nubia
+sale, it does make growth in FY18 more difficult to achieve. That said, ZTE has
+historically had lump investment income from sales of subsidiaries which
+could help cushion the earnings gap in future years.
 Major products by business segments
-Carrier (58% of revenue 39% gross margin)
-Wireless base stations controller and network management
-solutions
-Core packed core OSS (operation support system) user data
-management systems IP Multi-media systems
-and routers)
-Fixed access optical and copper access
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Government and enterprises (9% of revenue 37% gross margin)
-Cloud and cloud security
-Big data solutions
-Video conferencing and surveillance
-Smart metering
-Command and control systems for emergency response agencies
-Consumers (33% of revenue 14% gross margin)
-Figure 101 Balance sheet historical and forecast
-Factored trade receivable
-Construction in progress
-Goodwill and intangible
-Factored and long term trade receivable
-Total non-current asset
-Trade and bills payable
-Advances from customers
-Bank advance on factored receivables
-Amount due to customers for contract work
-Other current liabilities
-Total current liabilities
-Bank advance on factored receivables
-Other non-current liabilities
-Total non-current liabilities
-Shareholders equity
-Source Deutsche Bank estimates
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 102 PL
-Operating revenue of which
-Government and corporate business
-Gross profit of which
-Government and corporate business
-Government and corporate business
-Selling and distribution costs
-RD expense
-Other operating profit
-Non-operating profit
-Pre-tax profit
-Non-controlling interests
-Source Deutsche Bank Company Data
-Figure 103 Cash flow
-Other operational related cash
-Payments for goods and services
-Cash paid for employees
-Cash paid for other activities
-Cash flow from operating activities
-Acquisition of investments
-Net operating cash flows
-Debt repayments  raising
-Equity raising  buyback
-Perpetual instrument raising
-Source Deutsche Bank Company Data
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Figure 104 Half yearly and detailed PL breakdown
-James Wang 852 2203 6145
-Capitalization Summary
-Share Price ()
-Target price ()
-2650 Shares os
--4% Mkt Cap (RMBm)
-Net (debt)
-Government and corporate
-Pre-tax profit
-Interest on perpetual securities
-Balance Sheet (YE June)
-Shareholders equity
-CapexSales
-Free cash flow (post capex)
-Valuation  Leverage Metrics
-Net debtequity
-Net debtEBITDA
-Source Deutsche Bank estimates Company Data FY16 EBITDA not restated for the VAT tax refunds which are now included in future EBITDA
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-Appendix 1
+Carrier (58% of revenue, 39% gross margin)
+Wireless: base stations, controller and network management
+solutions:
+Core: packed core, OSS (operation support system), user data
+management systems, IP Multi-media systems;
+Backhaul: optical transmission (OTN) and data communication (switch
+and routers);
+Fixed access: optical and copper access.
+Government and enterprises (9% of revenue, 37% gross margin)
+Cloud and cloud security;
+Big data solutions;
+Video conferencing and surveillance;
+Smart metering;
+Command and control systems for emergency response agencies.
+Consumers (33% of revenue, 14% gross margin)
+Handsets.
+Historical accounts
 Important Disclosures
-Other information available upon request
-Recent price
-3365 (HKD) 7 Nov 17
-2750 (HKD) 7 Nov 17
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters Bloomberg and other vendors  Other
-Disclosures Lookup and Legal tabs Investors are strongly encouraged to review this information before investing
-Important Disclosures Required by US Regulators
-Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States
-See Important Disclosures Required by Non-US Regulators and Explanatory Notes
-within the past year
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing.
+Important Disclosures Required by U.S. Regulators
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.
+See Important Disclosures Required by Non-US Regulators and Explanatory Notes.
+Deutsche Bank and/or its affiliate(s) has received non-investment banking related compensation from this company
+within the past year.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
 Analyst Certification
 The views expressed in this report accurately reflect the personal views of the undersigned lead analyst about the
-subject issuers and the securities of those issuers In addition the undersigned lead analyst has not and will not receive
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-(as of 1172017)
-as of September 92002
-Analyst is no longer at Deutsche
-(as of 1172017)
-as of September 92002
-Analyst is no longer at Deutsche
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+subject issuers and the securities of those issuers. In addition, the undersigned lead analyst has not and will not receive
+any compensation for providing a specific recommendation or view in this report. James Wang
+Historical recommendations and target price: ZTE-A (000063.SZ)
+(as of 11/7/2017)
+Historical recommendations and target price: ZTE (0763.HK)
+(as of 11/7/2017)
 Equity rating dispersion and banking relationships
-Buy Based on a current 12- month view of total
-share-holder return (TSR  percentage change in
+Equity rating key
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
 share price from current price to projected target price
-investors buy the stock
-Sell Based on a current 12-month view of total share-
-Hold We take a neutral view on the stock 12-months
-out and based on this time horizon do not
-prices supersede previously published research
-Asia-Pacific Universe
-Cos w Banking Relationship
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+plus pro-jected dividend yield ), we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
 Additional Information
 The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
-Deutsche Bank) Though the information herein is believed to be reliable and has been obtained from public sources
-party websites in this report are provided for reader convenience only Deutsche Bank neither endorses the content nor
-is responsible for the accuracy or security controls of these websites
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
+believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
-Bank may act as principal for its own account or as agent for another person
-Deutsche Bank may consider this report in deciding to trade as principal It may also engage in transactions for its own
-account or with customers in a manner inconsistent with the views taken in this research report Others within
-Deutsche Bank including strategists sales staff and other analysts may take views that are inconsistent with those
-taken in this research report Deutsche Bank issues a variety of research products including fundamental analysis
-otherwise Deutsche Bank andor its affiliates may also be holding debt or equity securities of the issuers it writes on
-Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates which includes investment
-banking trading and principal trading revenues
-Opinions estimates and projections constitute the current judgment of the author as of the date of this report They do
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice Deutsche Bank provides
-sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Banks existing longer term
-conviction belief by an analyst that a stock will outperform or underperform the market andor sector delineated over a
-time frame of no less than two weeks In addition to SOLAR ideas the analysts named in this report may from time to
-time discuss with our clients Deutsche Bank salespersons and Deutsche Bank traders trading strategies or ideas that
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank may act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on.
+Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
+banking, trading and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term
+conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a
+time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to
+time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that
 reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
-discussed in this report which impact may be directionally counter to the analysts current 12-month view of total return
-or investment return as described herein Deutsche Bank has no obligation to update modify or amend this report or to
-otherwise notify a recipient thereof if any opinion forecast or estimate contained herein changes or subsequently
-specific economic prospects make it difficult to update research at defined intervals Updates are at the sole discretion
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently
+becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company
+specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion
 of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are
-published at irregular intervals This report is provided for informational purposes only and does not take into account
-the particular investment objectives financial situations or needs of individual clients It is not an offer or a solicitation
-of an offer to buy or sell any financial instruments or to participate in any particular trading strategy Target prices are
-inherently imprecise and a product of the analysts judgment The financial instruments discussed in this report may not
-be suitable for all investors and investors must make their own informed investment decisions Prices and availability of
+published at irregular intervals. This report is provided for informational purposes only and does not take into account
+the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation
+of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are
+inherently imprecise and a product of the analyst's judgment. The financial instruments discussed in this report may not
+be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of
 financial instruments are subject to change without notice and investment transactions can lead to losses as a result of
-price fluctuations and other factors If a financial instrument is denominated in a currency other than an investors
-currency a change in exchange rates may adversely affect the investment Past performance is not necessarily
-indicative of future results Unless otherwise indicated prices are current as of the end of the previous trading session
-and are sourced from local exchanges via Reuters Bloomberg and other vendors Data is sourced from Deutsche Bank
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank Details regarding
+price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's
+currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily
+indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session,
+and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank,
+subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
 our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
+available
+website
+under
+Disclaimer
+found
+the
+our
+research
+our
+Legal
+tab.
 Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
-to pay fixed or variable interest rates For an investor who is long fixed rate instruments (thus receiving these cash
-flows) increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
-loss The longer the maturity of a certain cash flow and the higher the move in the discount factor the higher will be the
-macroeconomic shocks to receivers But counterparty exposure issuer creditworthiness client segmentation regulation
-(including changes in assets holding limits for different types of investors) changes in tax policies currency
-convertibility (which may constrain currency conversion repatriation of profits andor the liquidation of positions) and
-settlement issues related to local clearing houses are also important risk factors to be considered The sensitivity of fixed
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the
 index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended
-to track The choice of the proper fixing (or metric) is particularly important in swaps markets where floating coupon
-rates (ie coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons It is
+to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon
+rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is
 also important to acknowledge that funding in a currency that differs from the currency in which coupons are
-denominated carries FX risk Naturally options on swaps (swaptions) also bear the risks typical to options in addition to
-movements
-Derivative transactions involve numerous risks including among others market counterparty default and illiquidity risk
-The appropriateness or otherwise of these products for use by investors is dependent on the investors own
-circumstances including their tax position their regulatory environment and the nature of their other assets and
-liabilities and as such investors should take expert legal and financial advice before entering into any transaction similar
-to or inspired by the contents of this publication The risk of loss in futures trading and options foreign or domestic can
-be substantial As a result of the high degree of leverage obtainable in futures and options trading losses may be
-incurred that are greater than the amount of funds initially deposited Trading in options involves risk and is not suitable
-for all investors Prior to buying or selling an option investors must review the Characteristics and Risks of Standardized
-website please contact your Deutsche Bank representative for a copy of this important document
-Participants in foreign exchange transactions may incur risks arising from several factors including the following ( i)
-exchange rates can be volatile and are subject to large fluctuations ( ii) the value of currencies may be affected by
-numerous market factors including world and national economic political and regulatory events events in equity and
-debt markets and changes in interest rates and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could affect the value of the currency Investors in securities such as ADRs whose values are
-affected by the currency of an underlying security effectively assume currency risk
-Unless governing law provides otherwise all transactions should be executed through the Deutsche Bank entity in the
-investors home jurisdiction Aside from within this report important conflict disclosures can also be found at
-review this information before investing
-adviser consultant or fiduciary to you any of your agents (collectively You or Your) with respect to any information
-provided in the materials attached hereto Deutsche Bank does not provide investment legal tax or accounting advice
-as to any strategies products or any other information presented in the materials Information contained herein is being
+denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to
+the
+risks
+related
+rates
+movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own
+circumstances including their tax position, their regulatory environment and the nature of their other assets and
+liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar
+to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can
+be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be
+incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable
+for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized
+website please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+review this information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
-trading strategy
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
 The information presented is general in nature and is not directed to retirement accounts or any specific person or
-account type and is therefore provided to You on the express basis that it is not advice and You may not rely upon it in
-making Your decision The information we provide is being directed only to persons we believe to be financially
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-sophisticated who are capable of evaluating investment risks independently both in general and with regard to
-particular transactions and investment strategies and who understand that Deutsche Bank has financial interests in the
-offering of its products and services If this is not the case or if You are an IRA or other retail investor receiving this
-immediately
-United States Approved andor distributed by Deutsche Bank Securities Incorporated a member of FINRA NFA and
-SIPC Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
-regulations
-Germany Approved andor distributed by Deutsche Bank AG a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal office in Frankfurt am Main Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin Germanys Federal
-Financial Supervisory Authority
-United Kingdom Approved andor distributed by Deutsche Bank AG acting through its London Branch at Winchester
-House 1 Great Winchester Street London EC2N 2DB Deutsche Bank AG in the United Kingdom is authorised by the
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+directly
+from
+inform
+us,
+ask
+that
+you
+immediately.
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
-Conduct Authority Details about the extent of our authorisation and regulation are available on request
-Hong Kong Distributed by Deutsche Bank AG Hong Kong Branch or Deutsche Securities Asia Limited
-India Prepared by Deutsche Equities India Pvt Ltd which is registered by the Securities and Exchange Board of India
-(SEBI) as a stock broker Research Analyst SEBI Registration Number is INH000001741 DEIPL may have received
-administrative warnings from the SEBI for breaches of Indian regulations
-Japan Approved andor distributed by Deutsche Securities Inc(DSI) Registration number - Registered as a financial
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No 117 Member of associations JSDA
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan Commissions and risks
-losses as a result of share price fluctuations and other factors Transactions in foreign stocks can lead to additional
-of losses to principal and other losses as a result of changes in market andor economic trends andor fluctuations in
-market value Before deciding on the purchase of financial products andor services customers should carefully read the
-relevant disclosures prospectuses and other documentation Moodys Standard  Poors and Fitch mentioned in
-this report are not registered credit rating agencies in Japan unless Japan or Nippon is specifically designated in the
-not disclosed according to the Financial Instruments and Exchange Law of Japan Target prices set by Deutsche Banks
-equity analysts are based on a 12-month forecast period
-Korea Distributed by Deutsche Securities Korea Co
-South Africa Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
-Singapore by Deutsche Bank AG Singapore Branch or Deutsche Securities Asia Limited Singapore Branch (One Raffles
-Quay 18-00 South Tower Singapore 048583 65 6423 8001) which may be contacted in respect of any matters
-arising from or in connection with this report Where this report is issued or promulgated in Singapore to a person who
-is not an accredited investor expert investor or institutional investor (as defined in the applicable Singapore laws and
-regulations) they accept legal responsibility to such person for its contents
-Taiwan Information on securitiesinvestments that trade in Taiwan is for your reference only Readers should
-9 November 2017
-ZTE-A and -H
-Deutsche Bank AGHong Kong
-independently evaluate investment risks and are solely responsible for their investment decisions Deutsche Bank
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India
+(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+South
+1998/003298/10).
+Africa:
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters
+arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who
+is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and
+regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
 research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
-written consent Information on securitiesinstruments that do not trade in Taiwan is for informational purposes only and
-securitiesinstruments
-Qatar Deutsche Bank AG in the Qatar Financial Centre (registered no 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
-within the scope of its existing QFCRA license Principal place of business in the QFC Qatar Financial Centre Tower
-West Bay Level 5 PO Box 14928 Doha Qatar This information has been distributed by Deutsche Bank AG Related
-financial products or services are only available to Business Customers as defined by the Qatar Financial Centre
-Regulatory Authority
-Russia This information interpretation and opinions submitted herein are not in the context of and do not constitute
-any appraisal or evaluation activity requiring a license in the Russian Federation
-Kingdom of Saudi Arabia Deutsche Securities Saudi Arabia LLC Company (registered no 07073-37) is regulated by the
-Capital Market Authority Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
-within the scope of its existing CMA license Principal place of business in Saudi Arabia King Fahad Road Al Olaya
-United Arab Emirates Deutsche Bank AG in the Dubai International Financial Centre (registered no 00045) is regulated
-by the Dubai Financial Services Authority Deutsche Bank AG - DIFC Branch may only undertake the financial services
-activities that fall within the scope of its existing DFSA license Principal place of business in the DIFC Dubai
-International Financial Centre The Gate Village Building 5 PO Box 504902 Dubai UAE This information has been
-distributed by Deutsche Bank AG Related financial products or services are only available to Professional Clients as
-defined by the Dubai Financial Services Authority
-Australia Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
-referred to in this report and consider the PDS before making any decision about whether to acquire the product Please
-Australia and New Zealand This research is intended only for wholesale clients within the meaning of the Australian
-Corporations Act and New Zealand Financial Advisors Act respectively
-Additional information relative to securities other financial products or issuers discussed in this report is available upon
-request This report may not be reproduced distributed or published without Deutsche Banks prior written consent
-Copyright  2017 Deutsche Bank AG
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+transactions
+clients
+these
+securities/instruments.
+Branch
+may
+not
+execute
+for
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
+within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre
+Regulatory Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
+within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District.
+P.O.
+Box
+Faisaliah
+Tower
+17th
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+refer
+Australian
+specific
+research
+disclosures
+related
+information
+and
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
 Global Chief Operating Officer
 Head of APAC Research
-Global Head of Economics
 Head of Americas Research
+Global Head of Economics
+Research
 Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Head of APAC
+Global Head of
+Head of EMEA
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
-Head of Research - Germany
+Andreas Neubauer
+Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
+and QIS Research
 International locations
-Corner of Hunter  Phillip Streets
-Sydney NSW 2000
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Tel (49) 69 910 00
-International Commerce Centre
-1 Austin Road WestKowloon
-Deutsche Securities Inc
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
 2-11-1 Nagatacho
-Chiyoda-ku Tokyo 100-6171
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
+Japan
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
-London EC2N 2EQ
-Deutsche Bank Securities Inc
 60 Wall Street
-New York NY 10005
+London EC2N 2EQ
+United Kingdom
 United States of America

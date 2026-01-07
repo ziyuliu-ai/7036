@@ -1,452 +1,166 @@
-万华化学(600309CH) 8月月报
-Wanhua Chemical Group
+万华化学(600309.CH): 8月月报
+Wanhua Chemical Group:
 Monthly Report in August
-参阅附录。(Please see appendix for English translation of the disclaimer)
-Equity  Asia Research
-一、公司8月动态更新
-万华化学披露2024年半年度报告，报告期实现营业收入97067亿元，同比增长1077%；归母净利润8174亿元，同比减少
-460%；扣非净利润8099亿元，同比减少254%。其中第二季度扣非净利润3972亿元，同比减少809%，环比减少376%。
-根据化工企业生产工艺特点，为确保生产装置安全有效运行，按照年度检修计划，公司烟台产业园75万吨年PDH等装置
-将于2024年8月25日开始停产检修，预计检修45天左右。
-2024年半年度权益分派实施公告：本次利润分配以方案实施前的公司总股本3139746626股为基数，每股派发现金红利
-052元（含税），共计派发现金红利163266824552元。
-资料来源：万华化学公告，HTI
+2024年9月5日
+• 一、公司8月动态更新
+· 二、MDI板块更新
+• 三、石化板块更新
+• 四、其他板块
+一、8月重要公告
 一、8月行业重要新闻
-8月6日，印度商工部发布公告，对原产于或进口自中国的热塑性聚氨酯(Thermoplastic PolyurethaneTPU)作出反倾销肯定性
-终裁，建议对中国的涉案产品征收为期5年的反倾销税，税额为0-158美元千克。
-8月18日，由陕西煤业化工技术开发中心有限责任公司(以下简称陕煤技术中心)自主开发的世界首套非光气法TDI绿色合成工
-艺技术中试装置，在陕西渭南市华州区通过陕西省石油和化学工业联合会组织的72小时考核标定。
-产业在线监测数据显示，2024上半年冰箱冷柜行业产销再创历史新高，规模突破6500万台，同比均实现两位数增长。出口
-延续高增，是拉动整体市场增长的主要力量，上半年冰箱冷柜对外依存度达到57%。
-巴斯夫将停止在德国路德维希港一体化基地生产己二酸、环十二酮(CDon) 和环戊酮(CPon)。CDon和CPon生产工厂将于2025
-年上半年关闭，路德维希港一体化基地剩余的己二酸生产将于2025年关闭。该公司已将此决定作为其路德维希港一体化基
-地生产结构持续战略审查的一部分，以确保在不断变化的市场条件下保持竞争力。
-阿布扎比国家石油公司Adnoc即将完成收购科思创Covestro的尽职调查程序。目前，尽职调查已进入最终阶段。内部人士表
-示较大的问题已经解决。该交易可能会在九月份宣布，每股62欧元的价格仍在商讨之中。科思创和Adnoc均未对此置评。
-近期，美瑞新材（300848）公告宣布，子公司美瑞科技（河南）有限公司投资建设的聚氨酯产业园一期项目的试生产方案
-及试生产条件通过了相关部门的验收，进入试生产阶段。美瑞科技聚氨酯产业园一期项目包括HDI 10万吨，CHDI 15万吨，
-PPDI 05万吨，以及年产15万吨对硝基苯胺，年产12万吨对苯二胺，年产10万吨环己烷二胺和配套公辅工程。其中HDI项目
-建成后将成为全球单套产能最大的工业化装置。
-资料来源：天天化工网，HTI
-资料来源：WIND，HTI
-一、研发费用资本开支
-公司研发费用和资本开支逐年上涨，2024 年上半年研发投入2081 亿元。2024 年下半年，在研
-发方面，将继续围绕现有工艺优化、自主研发成果转化、材料及应用开发开展工作。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+研发费用&资本开支
+公司研发费用和资本开支逐年上涨， 2024 年上半年研发投入 20.81 亿元。2024 年下半年，在研
+发方面，将继续围绕“现有工艺优化、自主研发成果转化、材料及应用开发”开展工作。
 图1 2018-2024上半年公司研发费用及资本开支
-图2 2018-2024上半年公司研发费用率
-资本开支（右轴，亿元）
-资料来源：万华化学公告，HTI
-一、2024年研发费用资本开支
-2024年主要项目计划投资4214亿元。重点建设120万吨年乙烯及下游高
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+一、2024年研发费用&资本开支
+2024年主要项目计划投资421.4亿元。重点建设120万吨/年乙烯及下游高
 端聚烯烃项目和万华新材料低碳产业园一、二期项目，全年石化产业链项
-目计划投资1491亿元；加快自主研发的间苯二甲胺、营养品等一系列高
-附加值产品的工业化建设，全年精细化学品项目计划投资445亿元，高性
-能材料及配套项目计划投资201亿元；为打造公司第二增长曲线，加快六
+目计划投资149.1亿元;加快自主研发的间苯二甲胺、营养品等一系列高
+附加值产品的工业化建设,全年精细化学品项目计划投资44.5亿元,高性
+能材料及配套项目计划投资20.1亿元;为打造公司第二增长曲线,加快六
 氟磷酸锂等一系列电池材料、电子材料等项目建设，全年新兴材料项目计
-划投资418亿元。
-2024年上半年研发费用2081亿元，占营业收入的比例214%。
-资料来源：WIND，2023年年报，HTI
-一、员工人数人员构成
-基于公司的行业地位和实力，持续发挥头部企业优势，深耕校企互动与合作，2023 年全年招聘入职5000 多
-人。2023年，公司研发人员共有4079人，占公司员工总数的1404%，其中博士研究生159人、硕士研究生
-1655人，公司不断激发人才潜力，完善人才培养体系，为公司持续发展助力。
-图2015-2023年公司员工总数及研发人员占比变动情况
-资料来源：WIND，HTI
-公司自上市以来，每年对全体股东派发现金红利，截止目前，累计向股东进行现金分红41273亿元，为累计
-融资额2951亿元的14倍；
+划投资41.8亿元。
+2024年上半年研发费用20.81亿元,占营业收入的比例2.14%。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+一、员工人数&人员构成
+基于公司的行业地位和实力，持续发挥头部企业优势，深耕校企互动与合作，2023 年全年招聘入职 5000 多
+人。2023年，公司研发人员共有4079人，占公司员工总数的14.04%，其中博士研究生159人、硕士研究生
+1655人,公司不断激发人才潜力,完善人才培养体系,为公司持续发展助力。
+图 2015-2023年公司员工总数及研发人员占比变动情况
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+分红政策
+公司自上市以来，每年对全体股东派发现金红利，截止目前，累计向股东进行现金分红412.73亿元，为累计
+融资额29.51亿元的14倍;
 未来三年内，公司将坚持以现金分红为主，保持利润分配政策的连续性和稳定性，在足额提取法定公积
 金、任意公积金后，每年以现金方式分配的利润不低于当年实现的可分配利润的30%。
-现金分红总额（亿元，左轴）
-现金分红比例（右轴）
-图2015-2024上半年公司分红比例变动情况
-资料来源：各公司公告，海通国际整理
+2015-2024上半年公司分红比例变动情况
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
 一、海外竞争对手8月公告梳理
-科思创（1COVGR）
-公司8月21日发布公告，科思创和卡莱尔建筑材料公司(Carlisle) 正在合作，将生物循环产品引入建筑行业。科思创将为卡莱尔提供二苯基甲烷二异氰酸酯(MDI)，该材料基于ISCC PLUS
-认证的质量平衡生物循环原材料，产品碳足迹比化石基MDI 低99%。具体而言，每生产1千克MDI，其二氧化碳减排潜力为24 千克。这将使卡莱尔能够生产碳含量更低的高性能聚异
-氰酸酯保温板。科思创与卡莱尔的合作延续了数十年来建筑行业联合创新的传统。随着建筑环境可持续发展目标的不断提高，两家公司已准备好开发和推出下一代隔热材料。
-亨斯曼（HUNUS）
-公司8月5日发布公告，公司24Q2实现营收1574亿美元，同比减少14%；实现净利润022亿美元，同比增长158%。24Q2，公司聚氨酯业务实现营收1001亿美元，同比减少65%；性能
-产品业务实现营收299亿美元，同比减少26%；高端材料业务实现营收279亿美元，同比增长04%。
-巴斯夫（BASFYUS）
-根据彭博8月2日援引中国经营报报道，2024年8月1日，巴斯夫更新了路德维希港事件的最新动态。巴斯夫方面向记者表示，目前，维生素E和维生素A价值链产品以及相关类胡萝卜素
-产品的延迟或中断交付尚不能被排除。巴斯夫方面表示，香原料组合的核心产品，如柠、香茅醇、芳樟醇、香叶醇、铃兰醛产品及相关行生品仍在继续生产。部分其他香原料产品的
-延迟或中断交付尚不能排除。
-三井化学（4183JP）
-公司8月21日发布公告，公司全资子公司大阪石油化学工业株式会社（OPC）已审查了乙烯工厂的维修工作和其他流程的时间表，该工厂的生产重启已被推迟。因此，该工厂预计将按
-以下方式恢复运营。1 恢复时间表：预计10月份恢复运营。2 客户支持：在工厂恢复运营之前，我们正在采取一切可能的措施，将对客户的影响降至最低，包括从市原工厂转移乙
-东曹（4042JP）
-公司8月2日发布公告，公司24Q2实现营收252862亿日元，同比增长51%；实现净利润16232亿日元，同比增长227%。24Q2，石化业务实现营收50532亿日元，同比增长17%；氯碱
-业务实现营收91734亿日元，同比增长108%；特殊品业务实现营收66447亿日元，同比增长06%；工程业务实现营收32882亿日元，同比增长83%；其他业务实现营收11265亿日
-元，同比减少42%。
-资料来源：万华化学公告，天天化工网，HTI
-2024年展望：尽管在一季度实现了稳健开局，科思创对今年余下时间的表现预期仍持谨慎态度。科思创预测的长期MDI
-市场需求量年均增速6%，MDI和PC材料需求量增长将受益于建筑保温和新能源汽车行业。
-聚氨酯保温喷涂仍将是亨斯迈继续重视的领域。放眼亚洲，特别是在日本和中东，我们看到那里对喷涂需求增长更为强
-劲，那里有很多新开工的建设项目正在进行，这些都是主要的业务机会领域。
-2024 年公司围绕数智化年管理主题，在研发方面围绕材料大模型、反应优化、分子设计、性能预测提升研发
-效率、提供研发辅助和加强知识管理。
-资料来源：2024年半年报，HTI
-生产方面，公司将通过数智化手段继续提升安全生产管理水平，保证装置的稳定
-在项目建设方面，继续推动乙烯二期、蓬莱一期建设工作，争取如期投产；
-在研发方面，将继续围绕现有工艺优化、自主研发成果转化、材料及应用开发
-一、公司8月动态更新
-资料来源：百川盈孚，HTI
+竞争对手公告梳理
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+一、未来规划和展望
+一、公司未来展望
+• 生产方面，公司将通过数智化手段继续提升安全生产管理水平，保证装置的稳定
+生产;
+在项目建设方面,继续推动乙烯二期、蓬莱一期建设工作,争取如期投产;
+在研发方面，将继续围绕“现有工艺优化、自主研发成果转化、材料及应用开发
+”开展工作。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+• 一、公司8月动态更新
+· 二、MDI板块更新
+• 三、石化板块更新
+• 四、其他板块
 二、MDI行业信息及价格价差
- 8月，国内聚合MDI市场涨跌互现，截止8月27日，聚合MDI市场均价17400元吨，较上个月同期价格下跌114%。进入下旬
-，随着价格拉涨，下游入市采购意愿转淡，加上终端需求恢复缓慢，场内询盘买气寡淡，市场商谈重心再次回落；
- 8月，国内纯MDI市场触底反弹，截止8月27日，纯MDI市场均价19100元吨，较上个月同期价格上涨670%。淡季行情影响
+• 8月，国内聚合MDI市场涨跌互现，截止8月27日，聚合MDI市场均价17400元/吨，较上个月同期价格下跌1.14%。进入下旬
+，随着价格拉涨,下游入市采购意愿转淡,加上终端需求恢复缓慢,场内询盘买气寨淡,市场商谈重心再次回落;
+8月,国内纯MDI市场触底反弹,截止8月27日,纯MDI市场均价19100元/吨,较上个月同期价格上涨6.70%。淡季行情影响
 尚存，终端需求跟进能力有限，下游企业成品库存仍待消化，场内阶段性采购时间较短，整体订单量对市场提振作用有限
 ，加上月底部分进口货源填充市场，场内出货情绪增加，市场成交缓慢跟进。
-资料来源：百川盈孚，HTI
-二、MDI库存及开工率
-图2024年MDI库存量变化情况（月度）
-图2024年MDI开工率变化情况（月度）
-资料来源：百川盈孚，彭博，HTI
-纯MDI日本CIF 中国主港(美元吨)
-中国出口平均单价聚亚甲基苯基异氰酸酯(聚合MDI或粗MDI)当月值(美元
-资料来源：百川盈孚，HTI
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+MDI库存及开工率
+海外MDI价格
+日本纯MDI价格
+图 聚合MDI价格出口均价
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
 二、MDI装置8月动态
-7月16日开始停产检修，预计检修45 天左右
-7月26日开始停车检修，预计检修35天左右
-7月16日开始停产检修，预计检修40天左右
-资料来源：百川盈孚，HTI
-二、MDI装置动态供求总表
-三套装置，其中一套停车，现阶段维持7成开工负荷
-47万吨年MDI装置于当地时间8月13日解除不可抗力，该MDI工厂曾于8月5日被宣布不
-20万吨年MDI装置因装置故障意外停车，原计划定于9月份检修提前，预计检修45天左
-7月23日装置故障临停，已恢复正常运行
-2024年全球需求量
-资料来源：科思创官网，Intrado，HTI
-根据科思创估计，2025年MDI全球需求量将达9425万吨，复合增长率预计为5%左右。根据Intrado
-数据显示，中国在2020年至2027年的复合年增长率为63%预计日本和加拿大的MDI市场复合增长
-率在2020-2027年期间分别为48%和47%德国MDI市场预计将以约49%的复合年增长率增长。
-MDI全球需求量（百万吨）
-资料来源：百川盈孚，HTI
+二、MDI装置动态&供求总表
+二、MDI全球供求
+根据科思创估计,2025年MDI全球需求量将达942.5万吨,复合增长率预计为5%左右。根据Intrado
+数据显示，中国在2020年至2027年的复合年增长率为6.3%; 预计日本和加拿大的MDI市场复合增长
+率在2020-2027年期间分别为4.8%和4.7%; 德国MDI市场预计将以约4.9%的复合年增长率增长。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+二、MDI下游需求
 聚合MDI下游主要为白色家电、建筑相关、汽车、集装箱、管道、胶粘剂等，其中白色家电占比
-最大，达到4989%，其次是建筑相关，占比为1427%；
+最大,达到49.89%,其次是建筑相关,占比为14.27%;
 纯MDI下游应用主要为鞋底原料、浆料、氨纶、TPU等行业，其中鞋底原料在纯MDI消费结构中占
-比达到2759%，其次为浆料，占比为2005%。
-图7 2022年聚合MDI消费结构
-图8 2022年纯MDI消费结构
-资料来源：WIND，HTI
-国家统计局数据显示，2024年7月全国冰箱产量8304万台，同比下降30%；1-7月累计产量58610万台，同
-1—7月份，房地产开发企业房屋施工面积703286万平方米，同比下降121%。房屋新开工面积43733万平方
-米，下降232%。房屋竣工面积30017万平方米，下降218%。其中，住宅竣工面积21867万平方米，下降
-图20233-20247 冰箱产量及当月同比
-图20233-20247 中国房屋竣工面积及累计同比
-中国产量家用电冰箱当月值（单位：万台）
-中国产量家用电冰箱当月同比
-中国房屋竣工面积累计值（单位：万平方米）
-中国房屋竣工面积累计同比
-资料来源：WIND，HTI
-2024年1-7月，汽车产销分别完成16179万辆和1631万辆，同比分别增长34%和44%。1-7月，新能源汽
-车产销分别完成5914万辆和5934万辆，同比分别增长288%和311%；新能源汽车新车销量达到汽车新
-车总销量的364%。
-根据Wind，2024年7月，美国成屋销量414万套，同比减少190%；美国新建住房销量7390万套，同比
-图20233-20246 中国汽车产量及当月同比
-图20233-20246 美国房屋竣工面积及累计同比
-中国产量汽车当月同比
-中国产量新能源汽车当月同比
-美国成屋销量季调折年数同比
-美国新建住房销量季调折年数同比
-资料来源：WIND，HTI
-纯MDI下游：7月，下游氨纶开工负荷83成左右，淡季行情下，氨纶工厂积极出货为主，然终端需求相对偏淡，工厂出货情
+比达到27.59%, 其次为浆料, 占比为20.05%。
+二、MDI下游需求
+国家统计局数据显示，2024年7月全国冰箱产量830.4万台，同比下降3.0%；1-7月累计产量5861.0万台，同
+比增长7.3%。
+1-7月份，房地产开发企业房屋施工面积703286万平方米，同比下降12.1%。房屋新开工面积43733万平方
+米,下降23.2%。房屋竣工面积30017万平方米,下降21.8%。其中,住宅竣工面积21867万平方米,下降
+21.8%
+2023. 3-2024. 7 冰箱产量及当月同比
+图 2023. 3-2024. 7 中国房屋竣工面积及累计同比
+中国:产量:家用电冰箱:当月值(单位:万台)
+中国:房屋竣工面积:累计值(单位:万平方米)
+中国:产量:家用电冰箱:当月同比
+中国:房屋竣工面积:累计同比
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+二、MDI下游需求
+2024年1-7月, 汽车产销分别完成1617.9万辆和1631万辆, 同比分别增长3.4%和4.4%。1-7月, 新能源汽
+车产销分别完成591.4万辆和593.4万辆，同比分别增长28.8%和31.1%;新能源汽车新车销量达到汽车新
+车总销量的36.4%。
+增长5.57%。
+图 2023. 3-2024.6 美国房屋竣工面积及累计同比
+2023. 3-2024. 6 中国汽车产量及当月同比
+美国:成屋销量:季调:折年数:同比
+美国:新建住房销量:季调:折年数:同比
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+二、MDI下游需求
+纯MDI下游: 7月，下游氨纶开工负荷8. 3成左右，淡季行情下，氨纶工厂积极出货为主，然终端需求相对偏淡，工厂出货情
 况一般，因而对原料消耗能力有限。下游TPU开工5-6成左右，终端实单刚需延续为主，TPU工厂出货承压下，整体开工低位
-运行，因而对原料消耗能力较弱。下游鞋底原液负荷3-4成，终端需求恢复缓慢，入市刚需补充为主，整体需求端牵制下，
-鞋材新单量释放有限，因而对原料按需采购为主；下游浆料企业开工3-4成，终端仍以刚需采买为主，入市采购情绪相对谨
+运行，因而对原料消耗能力较弱。下游鞋底原液负荷3-4成，终端需求恢复缓慢，入市刚需补充为主，整体需求端牵制下,
+鞋材新单量释放有限，因而对原料按需采购为主;下游浆料企业开工3-4成，终端仍以刚需采买为主，入市采购情绪相对谨
 慎，场内询盘买气提升有限，因而对原料采购短期难有放量。
-图2024年氨纶产量同比（%）
-鞋底原液华东地区元吨
-TPU薄膜山东地区元吨
-浆料普通湿法华东元吨(右轴）
-一、公司8月动态更新
-资料来源：百川盈孚，HTI
-图：国外PDH价差（美元吨）
+图 2024年氨纶产量同比(%)
+纯MDI下游产品价格
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities.htisec.com
+• 一、公司8月动态更新
+· 二、MDI板块更新
+• 三、石化板块更新
+• 四、其他板块
+图: 国外PDH价差(美元/吨)
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
 三、其他重点产品价差
-环氧丙烷-087丙烯
-环氧丙烷-087丙烯
-丙烯（韩国）（元吨）
-环氧丙烷(PO)（元吨）
-环氧乙烷-073乙烯
-环氧乙烷-073乙烯
-环氧乙烷(EO)（元吨）
-资料来源：百川盈孚，HTI
-资料来源：百川盈孚，HTI
 三、聚烯烃下游消费结构
-图：聚乙烯2023年度消费比例
-图：聚丙烯2023年度消费比例
-资料来源：卓创资讯，WIND，HTI
+图: 聚丙烯2023年度消费比例
+图: 聚乙烯2023年度消费比例
 三、国内PE供需平衡测算
-随着在建产能投产，国内PE供给缺口有望缓解。我们预计，2024-2026年国内PE表观消费量为425372
-44932万吨年。随着新增产能投产，开工率有所下降。我们预计2024-2026年国内PE供给缺口为-2983
-、8482、2109万吨，年均缺口为2536万吨。其中正值表示短缺，负值表示过剩。
-资料来源：卓创资讯，WIND，HTI
+随着在建产能投产，国内PE供给缺口有望缓解。我们预计，2024-2026年国内PE表观消费量为4253.72
+、4448.11、4651.39万吨，净进口量为1180.71、1105.85、1035.74万吨，国内产能为3650.4、4071.8、
+4493.2万吨/年。随着新增产能投产，开工率有所下降。我们预计2024-2026年国内PE供给缺口为-29.83
+、84.82、21.09万吨，年均缺口为25.36万吨。其中正值表示短缺，负值表示过剩。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
 三、国内PP供需平衡测算
-随着在建产能投产，国内PP或出现供给过剩。我们预计，2024-2026年国内PP表观消费量为369258、
+随着在建产能投产，国内PP或出现供给过剩。我们预计，2024-2026年国内PP表观消费量为3692.58、
+3924.85、4171.73万吨，净进口量为129.90、108.82、91.17万吨，国内产能为4594、5075、5555万吨/
 年。由于国内产能出现过剩，我们预计开工率将处于低点。我们预计2024-2026年国内PP供给缺口为
-2513、-4076、-8585万吨，年均过剩为3383万吨。其中正值表示短缺，负值表示过剩。
-一、公司8月动态更新
-资料来源：百川盈孚，HTI
-四 其他重点产品价格及资讯
- 双酚A8月双酚A国内市场价格阴跌，双酚A市场均价为9879元吨，较上月市场均价涨44元吨，涨幅为044%。本月市场
+25.13、-40.76、-85.85万吨，年均过剩为33.83万吨。其中正值表示短缺，负值表示过剩。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+• 一、公司8月动态更新
+· 二、MDI板块更新
+• 三、石化板块更新
+• 四、其他板块
+四. 其他重点产品价格及资讯
+双酚A:8月双酚A国内市场价格阴跌,双酚A市场均价为9879元/吨,较上月市场均价涨44元/吨,涨幅为0.44%。本月市场
 来看，虽月内仍有装置停车检修，但本月双酚A行业整体开工负荷提升，现货供应量有所增加；而8月传统需求淡季下，
-下游环氧树脂和PC行情均表现疲弱，但PC行业整体开工仍维持在相对高位的水平，对双酚A需求相对稳定；
-PC 8月国内PC市场需求持续低迷，行情挺涨乏力。本月市场均价为15865元吨，较上月下跌6元吨，跌幅004%。本月
+下游环氧树脂和PC行情均表现疲弱，但PC行业整体开工仍维持在相对高位的水平,对双酚A需求相对稳定;
+PC: 8月国内PC市场需求持续低迷，行情挺涨乏力。本月市场均价为15865元/吨，较上月下跌6元/吨，跌幅0.04%。本月
 中旬国内PC工厂存挺涨操作，但下游弱需求压制市场行情，出货压力下市场重心抬升受阻，PC自身供需基本面驱动不足
-四 其他重点产品价格及资讯
- TDI：8月国内TDI市场价格涨后快速回落。本月TDI市场月均价为1388421元吨，较上月均价上涨49121元吨，涨幅
-367%。综合来看，月内TDI价格涨后回落，在供方利好消息的提振下价格涨至高位，但在需求低迷出货受阻的情况下价
-格回归下跌状态，截至目前：目前TDI国产含税执行13600-13700元吨左右。
- 聚醚：8月国内聚醚市场先涨后跌，下游需求偏弱。当前聚醚市场均价为8734元吨，较上月月均价8700元吨价格上涨34
-元吨，涨幅039%。整体来说，本月原料PO的价格波动对聚醚市场产生直接影响，但下游需求疲态始终是制约市场走势
-资料来源：百川盈孚，卓创资讯，HTI
-四 其他重点产品价格及资讯
-资料来源：百川盈孚，卓创资讯，HTI
- 万华化学将电池材料作为第二增长曲线；
- 8月综合来看，六氟磷酸锂上下游处于博弈状态中，原料碳酸锂行情略有回暖，下游需量不再减弱，六氟厂家心态出现
-一定的积极转向，让利意愿不再，预计下月六氟磷酸锂市场价格将有所上调，上调幅度在0-5000元吨；
- 电解液方面，8月六氟磷酸锂企业试图挺价，但市场情况支持有限，或将持续拉扯，价格变化幅度较小。电解液成本支
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+四. 其他重点产品价格及资讯
+• TDI: 8月国内TDI市场价格涨后快速回落。本月TDI市场月均价为 13884.21元/吨，较上月均价上涨491.21元/吨，涨幅
+3.67%。综合来看，月内TDI价格涨后回落，在供方利好消息的提振下价格涨至高位，但在需求低迷出货受阻的情况下价
+格回归下跌状态，截至目前:目前TDI国产含税执行13600-13700元/吨左右。
+元/吨，涨幅0.39%。整体来说，本月原料PO的价格波动对聚醚市场产生直接影响，但下游需求疲态始终是制约市场走势
+的关键因素。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities. htisec.com
+四.其他重点产品价格及资讯
+• 万华化学将电池材料作为第二增长曲线;
+• 8月综合来看，六氟磷酸锂上下游处于博弈状态中，原料碳酸锂行情略有回暖，下游需量不再减弱，六氟厂家心态出现
+一定的积极转向,让利意愿不再,预计下月六氟磷酸锂市场价格将有所上调,上调幅度在0-5000元/吨;
+• 电解液方面,8月六氟磷酸锂企业试图挺价,但市场情况支持有限,或将持续拉扯,价格变化幅度较小。电解液成本支
 撑力弱稳，预计下月电解液成本基本稳定，电解液市场价格维稳，下月盈利水平仍处于偏低状态。。
-产品价格大幅回落；成本大幅上升；需求不及预期等。
+For full disclosure of risks, valuation methodologies and target price formation on all HTI rated stocks, please refer to the latest full report on our website at equities.htisec.com
+产品价格大幅回落; 成本大幅上升; 需求不及预期等。
 APPENDIX 1
-2 MDI sector update
-3 Petrochemical sector update
-4 Other sectors
+Summary
+1. The company's August dynamic update
+2. MDI sector update
+3. Petrochemical sector update
+4. Other sectors
 APPENDIX 2
-本研究报告由海通国际分销，海通国际是由海通国际研究有限公司(HTIRL)，Haitong Securities India Private Limited (HSIPL)，Haitong International Japan KK
-IMPORTANT DISCLOSURES
-This research report is distributed by Haitong International a global brand name for the equity research teams of Haitong International Research Limited (HTIRL)
-Haitong Securities India Private Limited (HSIPL) Haitong International Japan KK (HTIJKK) Haitong International Securities Company Limited (HTISCL) and any
-other members within the Haitong International Securities Group of Companies (HTISG) each authorized to engage in securities activities in its respective
-jurisdiction
-我，孙小涵，在此保证（i）本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且（ii）我的报酬中
-Xiaohan Sun
-household whom I have already notified of this will not deal in or trade any securities in respect of the issuer that I review within 3 business days after the research
-report is published
-APPENDIX 2
-利益冲突披露Conflict of Interest Disclosures
-海通国际及其某些关联公司可从事投资银行业务和或对本研究中的特定股票或公司进行做市或持有自营头寸。就本研究报告而言，以下是有关该等关系
-HTI and some of its affiliates may engage in investment banking and  or serve as a market maker or hold proprietary trading positions of certain stocks or
-APPENDIX 2
-评级定义（从2020年7月1日开始执行）：
-海通国际（以下简称HTI）采用相对评级系统来为投资者推荐我们覆盖的公司：优于大市、中性或弱于大市。投资者应仔细阅读HTI的评级定义。并且HTI
-基于各自情况（比如投资者的现有持仓）以及其他因素。
-优于大市，未来12-18个月内预期相对基准指数涨幅在10%以上，基准定义如下
-中性，未来12-18个月内预期相对基准指数变化不大，基准定义如下。根据FINRANYSE的评级分布规则，我们会将中性评级划入持有这一类别。
-弱于大市，未来12-18个月内预期相对基准指数跌幅在10%以上，基准定义如下
-各地股票基准指数：日本 TOPIX 韩国 KOSPI 台湾 TAIEX 印度 Nifty100 美国 SP500 其他所有中国概念股 MSCI China
-Ratings Definitions (from 1 Jul 2020)
-information concerning the analysts views investors should carefully read Haitong International Research in its entirety and not infer the contents from the rating
-alone In any case ratings (or research) should not be used or relied upon as investment advice An investors decision to buy or sell a stock should depend on individual
-circumstances (such as the investors existing holdings) and other considerations
-Analyst Stock Ratings
-Outperform The stocks total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark as indicated below
-Neutral The stocks total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark as indicated below For
-purposes only of FINRANYSE ratings distribution rules our Neutral rating falls into a hold rating category
-Underperform The stocks total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark as indicated below
-Benchmarks for each stocks listed region are as follows Japan  TOPIX Korea  KOSPI Taiwan  TAIEX India  Nifty100 US  SP500 for all other China-concept
-stocks  MSCI China
-APPENDIX 2
-评级分布Rating Distribution
-APPENDIX 2
-截至2024年6月30日海通国际股票研究评级分布
-在每个评级类别里投资银行客户所占的百分比。
-上述分布中的买入，中性和卖出分别对应我们当前优于大市，中性和落后大市评级。
-只有根据FINRANYSE的评级分布规则，我们才将中性评级划入持有这一类别。请注意在上表中不包含非评级的股票。
-此前的评级系统定义（直至2020年9月30日）：
-买入，未来12-18个月内预期相对基准指数涨幅在10%以上，基准定义如下
-中性，未来12-18个月内预期相对基准指数变化不大，基准定义如下。根据FINRANYSE的评级分布规则，我们会将中性评级划入持有这一类别。
-卖出，未来12-18个月内预期相对基准指数跌幅在10%以上，基准定义如下
-各地股票基准指数：日本 TOPIX 韩国 KOSPI 台湾 TAIEX 印度 Nifty100 其他所有中国概念股 MSCI China
-Haitong International Equity Research Ratings Distribution as of June 30 2024
-HTI Equity Research Coverage
-IB clients
-Percentage of investment banking clients in each rating category
-BUY Neutral and SELL in the above distribution correspond to our current ratings of Outperform Neutral and Underperform
-For purposes only of FINRANYSE ratings distribution rules our Neutral rating falls into a hold rating category Please note that stocks with an NR designation are not
-included in the table above
-Previous rating system definitions (until 30 Jun 2020)
-BUY The stocks total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark as indicated below
-NEUTRAL The stocks total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark as indicated below
-For purposes only of FINRANYSE ratings distribution rules our Neutral rating falls into a hold rating category
-SELL The stocks total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark as indicated below
-Benchmarks for each stocks listed region are as follows Japan  TOPIX Korea  KOSPI Taiwan  TAIEX India  Nifty100 for all other China-concept stocks  MSCI
-APPENDIX 2
-海通国际非评级研究：海通国际发布计量、筛选或短篇报告，并在报告中根据估值和其他指标对股票进行排名，或者基于可能的估值倍数提出建议价格。
-这种排名或建议价格并非为了进行股票评级、提出目标价格或进行基本面估值，而仅供参考使用。
-Haitong International Non-Rated Research Haitong International publishes quantitative screening or short reports which may rank stocks according to valuation and
-other metrics or may suggest prices based on possible valuation multiples Such rankings or suggested prices do not purport to be stock ratings or target prices or
-fundamental values and are for information only
-Haitong International Coverage of A-Shares Haitong International may cover and rate A-Shares that are subject to the Hong Kong Stock Connect scheme with
-A-Shares for distribution in mainland China However the rating system employed by HS differs from that used by HTI and as a result there may be a difference in the
-HTI and HS ratings for the same A-share stocks
-Haitong International Quality 100 A-share (Q100) Index HTIs Q100 Index is a quant product that consists of 100 of the highest-quality A-shares under coverage at
-APPENDIX 2
-盟浪义利（FIN-ESG）数据通免责声明条款：在使用盟浪义利（FIN-ESG）数据之前，请务必仔细阅读本条款并同意本声明：
-第一条义利（FIN-ESG）数据系由盟浪可持续数字科技有限责任公司（以下简称本公司）基于合法取得的公开信息评估而成，本公司对信息的准确性及
-完整性不作任何保证。对公司的评估结果仅供参考，并不构成对任何个人或机构投资建议，也不能作为任何个人或机构购买、出售或持有相关金融产品的
-依据。本公司不对任何个人或机构投资者因使用本数据表述的评估结果造成的任何直接或间接损失负责。
-第二条盟浪并不因收到此评估数据而将收件人视为客户，收件人使用此数据时应根据自身实际情况作出自我独立判断。本数据所载内容反映的是盟浪在最
-初发布本数据日期当日的判断，盟浪有权在不发出通知的情况下更新、修订与发出其他与本数据所载内容不一致或有不同结论的数据。除非另行说明，本
-数据（如财务业绩数据等）仅代表过往表现，过往的业绩表现不作为日后回报的预测。
-第三条本数据版权归本公司所有，本公司依法保留各项权利。未经本公司事先书面许可授权，任何个人或机构不得将本数据中的评估结果用于任何营利性
-目的，不得对本数据进行修改、复制、编译、汇编、再次编辑、改编、删减、缩写、节选、发行、出租、展览、表演、放映、广播、信息网络传播、摄
-制、增加图标及说明等，否则因此给盟浪或其他第三方造成损失的，由用户承担相应的赔偿责任，盟浪不承担责任。
-第四条如本免责声明未约定，而盟浪网站平台载明的其他协议内容（如盟浪网站用户注册协议盟浪网用户服务（含认证）协议盟浪网隐私政
-策等）有约定的，则按其他协议的约定执行；若本免责声明与其他协议约定存在冲突或不一致的，则以本免责声明约定为准。
-SusallWave FIN-ESG Data Service Disclaimer Please read these terms and conditions below carefully and confirm your agreement and acceptance with these terms
-before using SusallWave FIN-ESG Data Service
-1 FIN-ESG Data is produced by SusallWave Digital Technology Co Ltd (In short SusallWave)s assessment based on legal publicly accessible information SusallWave
-individual or institution and not for basis of purchasing selling or holding any relative financial products We will not be liable for any direct or indirect loss of any
-individual or institution as a result of using SusallWave FIN-ESG Data
-2 SusallWave do not consider recipients as customers for receiving these data When using the data recipients shall make your own independent judgment according
-to your practical individual status The contents of the data reflect the judgment of us only on the release day We have right to update and amend the data and
-release other data that contains inconsistent contents or different conclusions without notification Unless expressly stated the data (eg financial performance data)
-represents past performance only and the past performance cannot be viewed as the prediction of future return
-of individual or institution can use these data for any profitable purpose Besides none of individual or institution can take actions such as amendment replication
-transmission shooting adding icons and instructions If any loss of SusallWave or any third-party is caused by those actions users shall bear the corresponding
-4 If any term is not contained in this disclaimer but written in other agreements on our website (eg User Registration Protocol of SusallWave Website User Service
-(including authentication) Agreement of SusallWave Website Privacy Policy of Susallwave Website) it should be executed according to other agreements If there is
-any difference between this disclaim and other agreements this disclaimer shall be applied
-APPENDIX 2
-Private Limited（HTSIPL）所发行，包括制作及发布涵盖BSE Limited（BSE）和National Stock Exchange of India Limited（NSE）上市公司（统称为印
-正确性不做任何明示或暗示的声明或保证。本文件中所有观点均截至本报告日期，如有更改，恕不另行通知。本文件仅供参考使用。文件中提及的任何
-的结果。某些特定交易，包括设计金融衍生工具的，有产生重大风险的可能性，因此并不适合所有的投资者。您还应认识到本文件中的建议并非为您量
-融和其他方面的专业顾问，以期在投资之前评估该项建议是否适合于您。若由于使用本文件所载的材料而产生任何直接或间接的损失，HTISG及其董事、
-雇员或代理人对此均不承担任何责任。
-有长仓或短仓以及进行买卖。HTISG的销售员、交易员和其他专业人士均可向HTISG的相关客户和公司提供与本文件所述意见相反的口头或书面市场评论
-意见或交易策略。HTISG可做出与本文件所述建议或意见不一致的投资决策。但HTIRL没有义务来确保本文件的收件人了解到该等交易决定、思路或建
-APPENDIX 2
-For research reports on non-Indian securities The research report is issued by Haitong International Research Limited (HTIRL) a wholly owned subsidiary of
-Haitong International Securities Group Limited (HTISGL) and a licensed corporation to carry on Type 4 regulated activity (advising on securities) for the purpose of
-the Securities and Futures Ordinance (Cap 571) of Hong Kong with the assistance of Haitong International (Japan) KK (HTIJKK) a wholly owned subsidiary of
-HTISGL and which is regulated as an Investment Adviser by the Kanto Finance Bureau of Japan
-and Exchange Board of India (SEBI) registered Stock Broker Merchant Banker and Research Analyst that inter alia produces and distributes research reports
-covering listed entities on the BSE Limited (BSE) and the National Stock Exchange of India Limited (NSE) (collectively referred to as Indian Exchanges) HSIPL
-was acquired and became part of the Haitong International Securities Group of Companies (HTISG) on 22 December 2016
-All the research reports are globally branded under the name Haitong International and approved for distribution by Haitong International Securities Company
-Limited (HTISCL) andor any other members within HTISG in their respective jurisdictions
-representation or warranty express or implied is made by HTIRL HTISCL HSIPL HTIJKK or any other members within HTISG from which this research report may
-research report may not be eligible for purchase or sale in some jurisdictions If an investment product is denominated in a currency other than an investors home
-currency a change in exchange rates may adversely affect the investment Past performance is not necessarily indicative of future results Certain transactions
-research report are not tailor-made for you The analyst has not taken into account your unique financial circumstances such as your financial situation and risk
-appetite You must therefore analyze and should where applicable consult your own legal tax accounting financial and other professional advisers to evaluate
-direct or consequential loss arising from any use of the materials contained in this research report
-APPENDIX 2
-HTISG and our affiliates officers directors and employees excluding the analysts responsible for the content of this document will from time to time have long or
-short positions in act as principal in and buy or sell the securities or derivatives if any referred to in this research report Sales traders and other professionals of
-any recipient of this research report
-and avoidance of conflicts of interest with respect to Research
-Non US Analyst Disclosure The HTI analyst(s) listed on the cover of this Research is (are) not registered or qualified as a research analyst with FINRA and are not
-a research analyst
-APPENDIX 2
-告的收件人就研究报告中产生或与之相关的任何事宜请联系HTISCL销售人员。
-美国投资者的通知事项：本研究报告由HTIRL，HSIPL或HTIJKK编写。HTIRL，HSIPL，HTIJKK以及任何非HTISG美国联营公司，均未在美国注册，因此不受美
-投资者（Major US Institutional Investor）和机构投资者（US Institutional Investors）。在向美国机构投资者分发研究报告时，Haitong
-相关金融工具买卖的交易，只能通过HTI USA。HTI USA位于340 Madison Avenue 12th Floor New York NY 10173，电话（212）351-6050。HTI USA是在美国
-于US Securities and Exchange Commission（SEC）注册的经纪商，也是Financial Industry Regulatory Authority Inc（FINRA）的成员。HTIUSA不负责编写
-Haitong International Securities (USA) Inc
-340 Madison Avenue 12th Floor
-New York NY 10173
-APPENDIX 2
-DISTRIBUTION AND REGIONAL NOTICES
-Except as otherwise indicated below any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTIs research should
-contact the Haitong International salesperson in their own country or region
-Notice to Hong Kong investors The research report is distributed by Haitong International Securities Company Limited (HTISCL) which is a licensed corporation to
-carry on Type 1 regulated activity (dealing in securities) in Hong Kong This research report does not constitute a solicitation or an offer of securities or an invitation
-to the public within the meaning of the SFO This research report is only to be circulated to Professional Investors as defined in the SFO This research report has
-not been reviewed by the Securities and Futures Commission You should not make investment decisions solely on the basis of the information contained in this
-research report Recipients of this research report are to contact HTISCL salespersons in respect of any matters arising from or in connection with the research
-Notice to US investors As described above this research report was prepared by HTIRL HSIPL or HTIJKK Neither HTIRL HSIPL HTIJKK nor any of the non US
-HTISG affiliates is registered in the United States and therefore is not subject to US rules regarding the preparation of research reports and the independence of
-research analysts
-This research report is provided for distribution to major US institutional investors and US institutional investors in reliance on the
-exemption from registration provided by Rule 15a-6 of the US Securities Exchange Act of 1934 as amended When distributing research reports to US
-institutional investors HTI USA will accept the responsibilities for the content of the reports Any US recipient of this research report wishing to effect any
-transaction to buy or sell securities or related financial instruments based on the information provided in this research report should do so only through Haitong
-International Securities (USA) Inc (HTI USA) located at 340 Madison Avenue 12th Floor New York NY 10173 USA telephone (212) 351 6050 HTI USA is a broker-
-dealer registered in the US with the US Securities and Exchange Commission (the SEC) and a member of the Financial Industry Regulatory Authority Inc
-(FINRA) HTI USA is not responsible for the preparation of this research report nor for the analysis contained therein Under no circumstances should any US
-recipient of this research report contact the analyst directly or effect any transaction to buy or sell securities or related financial instruments directly through HSIPL
-HTIRL or HTIJKK The HSIPL HTIRL or HTIJKK analyst(s) whose name appears in this research report is not registered or qualified as a research analyst with FINRA and
-research analyst account Investing in any non-US securities or related financial instruments (including ADRs) discussed in this research report may present certain
-risks The securities of non-US issuers may not be registered with or be subject to US regulations Information on such non-US securities or related financial
-related financial instruments All inquiries by US recipients should be directed to
-APPENDIX 2
-Haitong International Securities (USA) Inc
-340 Madison Avenue 12th Floor
-New York NY 10173
-Attn Sales Desk at (212) 351 6050
-中华人民共和国的通知事项：在中华人民共和国（下称中国，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用
-的中国法律法规而收到该材料的人员方可使用该材料。并且根据相关法律法规，该材料中的信息并不构成在中国从事生产、经营活动。本文件在中
-USA）予以实施，该公司是一家根据National Instrument 31-103 Registration Requirements Exemptions and Ongoing Registrant Obligations（NI 31-103）的
-规定得到国际交易商豁免（International Dealer Exemption ）的交易商，位于艾伯塔省、不列颠哥伦比亚省、安大略省和魁北克省。在加拿大，该
-National Instrument 45-106 Prospectus Exemptions第11节或者Securities Act (Ontario)第733(1)节所规定的认可投资者（Accredited Investor），或者在
-适用情况下National Instrument 31-103第11节所规定的许可投资者（Permitted Investor）。
-新加坡投资者的通知事项：本研究报告由Haitong International Securities (Singapore) Pte Ltd（HTISSPL）于新加坡提供。HTISSPL是符合财务顾问法
-因本研究报告而产生的或与之相关的任何问题，本研究报告的收件人应通过以下信息与HTISSPL联系：
-Haitong International Securities (Singapore) Pte Ltd
-10 Collyer Quay 19-01 - 19-05 Ocean Financial Centre Singapore 049315
-APPENDIX 2
-和交易法（ FIEL））第61（1）条，第17-11（1）条的执行及相关条款）。
-户发布。任何投资或与本报告相关的投资行为只面对此类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。Haitong International Securities
-Company Limited的分支机构的净长期或短期金融权益可能超过本研究报告中提及的实体已发行股本总额的05。特别提醒有些英文报告有可能此前已经
-通过中文或其它语言完成发布。
-澳大利亚投资者的通知事项：Haitong International Securities (Singapore) Pte Ltd Haitong International Securities Company Limited和Haitong International
-免除了根据2001年公司法在澳大利亚为批发客户提供金融服务时海通国际需持有澳大利亚金融服务许可的要求。ASIC的规章副本可在以下网站获
-Private Limited（HTSIPL）所发布，包括制作及发布涵盖BSE Limited（BSE）和National Stock Exchange of India Limited（NSE）（统称为印度交易
-研究机构名称 Haitong Securities India Private Limited
-841 Senapati Bapat Marg Elphinstone Road Mumbai 400 013 India
-请注意，SEBI 授予的注册和NISM 的认证并不保证中介的表现或为投资者提供任何回报保证。
-，未经海通国际的书面同意不得予以复制和再次分发。
-APPENDIX 2
-Peoples Republic of China (PRC) In the PRC the research report is directed for the sole use of those who receive the research report in accordance with the
-applicable PRC laws and regulations Further the information on the research report does not constitute production and business activities in the PRC under
-relevant PRC laws This research report does not constitute a public offer of the security whether by sale or subscription in the PRC Further no legal or natural
-persons of the PRC may directly or indirectly purchase any of the security or any beneficial interest therein without obtaining all prior PRC government approvals or
-Notice to Canadian Investors Under no circumstances is this research report to be construed as an offer to sell securities or as a solicitation of an offer to buy
-securities in any jurisdiction of Canada Any offer or sale of the securities described herein in Canada will be made only under an exemption from the requirements to
-file a prospectus with the relevant Canadian securities regulators and only by Haitong International Securities (USA) Inc a dealer relying on the international dealer
-exemption under National Instrument 31-103 Registration Requirements Exemptions and Ongoing Registrant Obligations (NI 31-103) in Alberta British Columbia
-Ontario and Quebec This research report is not and under no circumstances should be construed as a prospectus an offering memorandum an advertisement or a
-report the information contained herein or the merits of the securities described herein and any representation to the contrary is an offence Upon receipt of this
-research report each Canadian recipient will be deemed to have represented that the investor is an accredited investor as such term is defined in section 11 of
-National Instrument 45-106 Prospectus Exemptions or in Ontario in section 733(1) of the Securities Act (Ontario) as applicable and a permitted client as such
-term is defined in section 11 of NI 31-103 respectively
-Notice to Singapore investors This research report is provided in Singapore by or through Haitong International Securities (Singapore) Pte Ltd (HTISSPL) HTISSPL is
-an Exempt Financial Adviser under the Financial Advisers Act 2001 (FAA) to (a) advise on securities units in a collective investment scheme exchange-traded
-derivatives contracts and over-the-counter derivatives contracts and (b) issue or promulgate research analyses or research reports on securities exchange-traded
-derivatives contracts and over-the-counter derivatives contracts This research report is only provided to institutional investors within the meaning of Section 4A of
-the Securities and Futures Act 2001 Recipients of this research report are to contact HTISSPL via the details below in respect of any matters arising from or in
-connection with the research report
-Haitong International Securities (Singapore) Pte Ltd
-10 Collyer Quay 19-01 - 19-05 Ocean Financial Centre Singapore 049315
-Telephone (65) 6713 0473
-APPENDIX 2
-Notice to Japanese investors This research report is distributed by Haitong International Securities Company Limited and intended to be distributed to Financial
-Services Providers or Registered Financial Institutions engaged in investment management (as defined in the Japan Financial Instruments and Exchange Act (FIEL)
-Art 61(1) Order for Enforcement of FIEL Art 17-11(1) and related articles)
-Notice to UK and European Union investors This research report is distributed by Haitong International Securities Company Limited This research is directed at
-persons having professional experience in matters relating to investments Any investment or investment activity to which this research relates is available only to
-such persons or will be engaged in only with such persons Persons who do not have professional experience in matters relating to investments should not rely on this
-research Haitong International Securities Company Limiteds affiliates may have a net long or short financial interest in excess of 05% of the total issued share
-capital of the entities mentioned in this research report Please be aware that any report in English may have been published previously in Chinese or another
-Notice to Australian investors The research report is distributed in Australia by Haitong International Securities (Singapore) Pte Ltd Haitong International Securities
-Company Limited and Haitong International Securities (UK) Limited in reliance on ASIC Class Order 031102 031103 or 031099 respectively which exempts those
-HTISG entities from the requirement to hold an Australian financial services license under the Corporations Act 2001 in respect of the financial services it provides to
-Haitong International Securities (Singapore) Pte Ltd Haitong International Securities Company Limited and Haitong International Securities (UK) Limited are
-regulated under foreign laws and regulatory requirements which are different from the laws applying in Australia
-Board of India (SEBI) registered Stock Broker Merchant Banker and Research Analyst that inter alia produces and distributes research reports covering listed
-entities on the BSE Limited (BSE) and the National Stock Exchange of India Limited (NSE) (collectively referred to as Indian Exchanges)
-Name of the entity Haitong Securities India Private Limited
-SEBI Research Analyst Registration Number INH000002590
-APPENDIX 2
-Address  1203A Floor 12A Tower 2A One World Center
-841 Senapati Bapat Marg Elphinstone Road Mumbai 400 013 India
-Please note that Registration granted by SEBI and Certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns
-to investors
-This research report is intended for the recipients only and may not be reproduced or redistributed without the written consent of an authorized signatory of HTISG
-Copyright Haitong International Securities Group Limited 2019 All rights reserved
-APPENDIX 2
-Source Company data Bloomberg HTI estimates
+重要信息披露

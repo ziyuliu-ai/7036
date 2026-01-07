@@ -1,217 +1,150 @@
-CMB International Securities  Equity Research  Company Update
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-China Technology Sector
-Mkt Cap (RMB mn)
-Avg 3 mths to (RMB mn)
-52w HighLow (RMB)
-Total Issued Shares (mn)
-Source Bloomberg
-Shareholding Structure
-China Asset Mgmt Co
-Source Bloomberg
-Source Bloomberg
-12-mth Price Performance
-Source Bloomberg
-Auditor Grant Thornton CPA
-Recent Report
-China Technology Sector - Positive
-outlook for PCBCCL sector amid cost
-pressure  31 May 2021
-Please cast your valuable vote for
-CMBIS research team in the 2021
-Asiamoney Brokers Poll
-SZCOMP  (rebased)
-HOLD (Maintain)
-(Previous TP                RMB827)
-UpDownside
-Shennan announced to expand substrate capacity (200mn FC-BGA 3mn panel
-RFFC-CSP) in Guangzhou Total investment is RMB6bn of which fixed asset
-investment will be over RMB58bn (1st2nd phase RMB 38bn2bn) We believe
-revenue will start to contribute in FY2324E Meanwhile we are positive on PCB
-demand pick-up in 3Q21E as China 3rd batch of 5G BTS deployment has kicked
-off recently We raised our TP to RMB10192 as we rollover to 30x 2022E PE
-Maintain HOLD given fair valuation and overhang on margin pressure
-New capacity to capture upcycle of substrate market Shennan
-announced to expand substrate capacity in Guangzhou production base
-which will add 200mn FC-BGA and 3mn panel RFFC-CSP substrate
-capacity We expect the new project to contribute revenue in 202324E
-Shennans existing substrate capacity has been in full production since last
-year driven by strong semiconductor demand We believe strong substrate
-revenue will continue into 2H21E driving 22% YoY growth in FY21E
-Demand for PCB to pick up in 2H21E Based on our recent checks despite
-delay of bidding announcement of China 3rd batch of 5G BTS tenders in
-1H21 China 5G BTS deployment has already kicked off (120k 26GHz by
-CM 320k 35GHz21GHz by CUCT) CMCBN will also resume its 700MHz
-5G BTS deployment (400k in 2 years) This week CBN has announced the
-tender to transfer its 700MHz frequency band suggesting that CBN officially
-started the cleanup work for 700MHz BTS deployment We believe PCB
-drive Shennans PCB business to recover in 2H21E
-Near-term cost pressure to continue 3M LME copper price is currently at
-9488tonne slightly down 8% from its previous new high Although material
-cost pressure has hindered willingness in production (especially for low-
-margin consumer products) we expect material cost pressure to continue in
-near term In the long run we believe top PCB players will enjoy scale benefits
-and Shennan will gain share with accelerated industry consolidation
-Maintain HOLD with new TP of RMB10192 We raised our TP to
-RMB10192 as we rollover to 300x FY22E PE (vs 30x FY21E prior) We
-maintain HOLD given rich valuation and margin overhang
-(YE 31 Dec)
-Revenue (RMB mn)
-YoY growth (%)
-YoY growth (%)
-Consensus EPS (RMB)
-Dividend Yield (%)
-Gearing ratio (%)
-Source Company data Bloomberg CMBIS estimates
+A Wholly Owned Subsidiary Of China Merchants Bank
 Shennan Circuits (002916 CH)
-Positive on capacity expansion plan Maintain HOLD on fair
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 1 Global PCB market to grow at 14% YoY
-Source SCI99 CMBIS estimates
-Figure 2 Global PCB market rebounded since 2Q20
-Source Wind CMBIS estimates
-Figure 3 Copper price topped US10k in May 2021 reaching new high since 2011
-Source Wind CMBIS estimates
-Figure 4 Glass fibre ASP surged 59% YTD (Apr 2021)
-Source SCI99 CMBIS estimates
-Figure 5 Resin ASP dropped since May 2021
-Source Wind CMBIS estimates
-0% 0% 0% 0% -7%-4% 0% 4% 2% 5% 2%
-YoY growth %
-tonne (mn)
-USton (k)
-LME Copper 3m
-RMBtonne (k)
-RMBtonne (k)
-Growth forecast of PCB sales
-upgrades to 14% from previous 86%
-74% (2101  2104))
--18% (May 2021) as Chinese authorities
-Currently trading at 9487 per tonne
-dropped 8% from the previous new high of
-10293 on May 27
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 6 Major assumptions
-Source Company data CMBIS estimates
-Figure 7 PL forecast
-Source Company data CMBIS estimates
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Maintain HOLD with new TP of RMB1019
-We maintain HOLD and raised TP to RMB1019 as we rollover to 300x FY22E PE (vs 30x
-Risks include 1) continued price increase in upstream materials 2) de-spec of 5G BTS and
-ASP pressure and 3) slower than expected 5G deployment
-Figure 8 12M forward PE band
-Source Company data CMBIS estimates
-Figure 9 12M forward PB band
-Source Company data CMBIS estimates
-Figure 10 Peers valuation
-Source Bloomberg CMBIS estimates
-1-yr Forward PE
-1-yr Forward PB
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-FY19A FY20A FY21E FY22E FY23E  YE 31 Dec (RMB mn)
-FY19A FY20A
-4512  Change in working capital
-312  Net cash from operating
-1040  Capex
-208  Other
-Other operating exp
-(2)  Net cash from investing
-Other non-oper exp
-(21)  Dividend paid
-Pre-tax profit
-2239  Debt issuance(paydown)
-269  Net cash from financing
-Net profit to shareholders
-1970  Net change in cash
-Cash at beginning of year
-Cash at the end of year
-YE 31 Dec (RMB mn)
-FY19A FY20A FY21E FY22E FY23E  YE 31 Dec
-FY19A FY20A
-7799  Revenue mix
-Cash  equivalents
-3297  PCBA
-2568  IC substrate
-1169  Growth (%)
-Non-current assets
-9458 11027  Operating profit
-Construction in process
-1898  Net profit
-Other non-current assets
-374  Profit  loss ratio (%)
-7130  Net profit margin
-858  Balance sheet ratio
-2700  Net debttotal equity (%)
-1399  Current ratio  (x)
-Other current liabilities
-472  Receivable turnover days
-Inventory turnover days
-Non-current liabilities
-3348  Payable turnover days
-2776  Cash conversion cycle
-Other non-current liabilities
-306  Profitability (%)
-3660  Per share data (RMB)
-6422  EPS
-Total liabilities and equity
-Source Company data CMBIS estimates
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Disclosures  Disclaimers
+HOLD (Maintain)
+Positive on capacity expansion plan; Maintain HOLD on fair
+Target Price
+RMB101.92
+valuation
+(Previous TP
+RMB82.7)
+Up/Downside
+-4.7%
+Shennan announced to expand substrate capacity (200mn FC-BGA, 3mn panel
+Current Price
+RMB106.9
+RF/FC-CSP) in Guangzhou. Total investment is ~RMB6bn, of which fixed asset
+China Technology Sector
+investment will be over RMB5.8bn (1st/2nd phase: RMB 3.8bn/2bn). We believe
+revenue will start to contribute in FY23/24E. Meanwhile, we are positive on PCB
+Lily Yang
+demand pick-up in 3Q21E as China 3rd batch of 5G BTS deployment has kicked
+off recently. We raised our TP to RMB101.92 as we rollover to 30x 2022E P/E.
+Maintain HOLD given fair valuation and overhang on margin pressure.
+Alex Ng
+New capacity to capture upcycle of substrate market. Shennan
+announced to expand substrate capacity in Guangzhou production base,
+which will add 200mn FC-BGA and 3mn panel RF/FC-CSP substrate
+capacity. We expect the new project to contribute revenue in 2023/24E.
+Stock Data
+Shennan's existing substrate capacity has been in full production since last
+year, driven by strong semiconductor demand. We believe strong substrate
+revenue will continue into 2H21E, driving 22% YoY growth in FY21E.
+Demand for PCB to pick up in 2H21E. Based on our recent checks, despite
+delay of bidding announcement of China 3rd batch of 5G BTS tenders in
+Shareholding Structure
+1H21, China 5G BTS deployment has already kicked off (120k 2.6GHz by
+CM, 320k 3.5GHz/2.1GHz by CU/CT). CM/CBN will also resume its 700MHz
+5G BTS deployment (400k+ in 2 years). This week, CBN has announced the
+tender to transfer its 700MHz frequency band, suggesting that CBN officially
+started the cleanup work for 700MHz BTS deployment. We believe PCB
+demand from telecom equipment providers will pick up in 3Q21E, which will
+drive Shennan's PCB business to recover in 2H21E.
+Near-term cost pressure to continue. 3M LME copper price is currently at
+Source: Bloomberg
+$9,488/tonne, slightly down 8% from its previous new high. Although material
+cost pressure has hindered willingness in production (especially for low-
+12-mth Price Performance
+margin consumer products), we expect material cost pressure to continue in
+near term. In the long run, we believe top PCB players will enjoy scale benefits
+and Shennan will gain share with accelerated industry consolidation.
+Maintain HOLD with new TP of RMB101.92. We raised our TP to
+RMB101.92 as we rollover to 30.0x FY22E P/E (vs 30x FY21E prior). We
+maintain HOLD given rich valuation and margin overhang.
+Earnings Summary
+Source: Bloomberg
+Auditor: Grant Thornton CPA
+Recent Report:
+China Technology Sector - Positive
+outlook for PCB/CCL sector amid cost
+Please cast your valuable vote for
+Asiamoney Brokers Poll:
+Focus Charts
+Source: SCI99, CMBIS estimates
+Source: SCI99, CMBIS estimates
+Financial analysis
+Source: Company data, CMBIS estimates
+Valuation
+We maintain HOLD and raised TP to RMB101.9 as we rollover to 30.0x FY22E P/E (vs 30x
+FY21E P/E prior). Upcoming catalysts include further details of 3rd phase of 5G BTS
+tenders.
+Risks include 1) continued price increase in upstream materials, 2) de-spec of 5G BTS and
+ASP pressure and 3) slower than expected 5G deployment.
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Bloomberg, CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
 Analyst Certification
-The research analyst who is primary responsible for the content of this research report in whole or in part certifies that with respect to the securities
-or issuer that the analyst covered in this report (1) all of the views expressed accurately reflect his or her personal views about the subject securities
-in this report
-Besides the analyst confirms that neither the analyst nor hisher associates (as defined in the code of conduct issued by The Hong Kong Securities
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
 and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
-of this report (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report (3) serve
-covered in this report
-CMBIS or its affiliate(s) have investment banking relationship with the issuers covered in this report in preceding 12 months
- Stock with potential return of over 15% over next 12 months
- Stock with potential return of 15% to -10% over next 12 months
- Stock with potential loss of over 10% over next 12 months
- Stock is not rated by CMBIS
-OUTPERFORM                     Industry expected to outperform the relevant broad market benchmark over next 12 months
-MARKET-PERFORM             Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
-UNDERPERFORM                 Industry expected to underperform the relevant broad market benchmark over next 12 months
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+Disclaimer
+CMBIS or its affiliate(s) have investment banking relationship with the issuers covered in this report in preceding 12 months.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
 CMB International Securities Limited
-Address 45F Champion Tower 3 Garden Road Hong Kong Tel (852) 3900 0888   Fax (852) 3900 0800
-CMB International Securities Limited (CMBIS) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
 of China Merchants Bank)
 Important Disclosures
-There are risks involved in transacting in any securities  The information contained in this report may not be suitable for the purposes of all investors  CMBIS does not
-provide individually tailored investment advice This report has been prepared without regard to the individual investment objectives financial position or special
-requirements  Past performance has no indication of future performance and actual events may differ materially from that which is contained in the report  The value
-of and returns from any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
-consult with a professional financial advisor in order to make their own investment decisions
-This report or any information contained herein have been prepared by the CMBIS solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
-to whom it is distributed  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
-transaction  Neither CMBIS nor any of its affiliates shareholders agents consultants directors officers or employees shall be liable for any loss damage or expense
-whatsoever whether direct or consequential incurred in relying on the information contained in this report  Anyone making use of the information contained in this report
-does so entirely at their own risk
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable CMBIS
-and forecasts on an AS IS basis  The information and contents are subject to change without notice CMBIS may issue other publications having information and or
-report As a result recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
-responsibility in respect thereof This report is for the use of intended recipients only and this publication may not be reproduced reprinted sold redistributed or published
-in whole or in part for any purpose without prior written consent of CMBIS
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS does not
+provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special
+requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report. The value
+of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
+or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments and strategies, and encourages investors to
+consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or its affiliate(s)
+to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or enter into any
+transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, damage or expense
+whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone making use of the information contained in this report
+does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIS
+has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the information, advices
+and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other publications having information and/or
+conclusions different from this report. These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIS may make investment
+decisions or take proprietary positions that are inconsistent with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf of
+its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with the companies in this
+report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report and CMBIS will not assume any
+responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or published
+in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
 For recipients of this document in the United Kingdom
 This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended
-from time to time)(The Order) or (II) are persons falling within Article 49(2) (a) to (d) (High Net Worth Companies Unincorporated Associations etc) of the Order and
-may not be provided to any other person without the prior written consent of CMBIS
+from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and
+may not be provided to any other person without the prior written consent of CMBIS.
 For recipients of this document in the United States
-CMBIS is not a registered broker-dealer in the United States  As a result CMBIS is not subject to US rules regarding the preparation of research reports and the
-independence of research analysts  The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
-analyst with the Financial Industry Regulatory Authority (FINRA)  The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
-analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report This report is intended for distribution in the United States
-solely to major US institutional investors as defined in Rule 15a-6 under the US Securities Exchange Act of 1934 as amended and may not be furnished to any other
-person in the United States Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
-distribute or provide this report to any other person Any US recipient of this report wishing to effect any transaction to buy or sell securities based on the information
-provided in this report should do so only through a US-registered broker-dealer
+CMBIS is not a registered broker-dealer in the United States. As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports and the
+independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
+analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
+analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States
+solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other
+person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
+distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information
+provided in this report should do so only through a U.S.-registered broker-dealer.
 For recipients of this document in Singapore
-This report is distributed in Singapore by CMBI (Singapore) Pte Limited (CMBISG) (Company Regn No 201731928D) an Exempt Financial Adviser as defined in the
-Financial Advisers Act (Cap 110) of Singapore and regulated by the Monetary Authority of Singapore CMBISG may distribute reports produced by its respective foreign
-entities affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations Where the report is distributed
-in Singapore to a person who is not an Accredited Investor Expert Investor or an Institutional Investor as defined in the Securities and Futures Act (Cap 289) of
-Singapore CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law Singapore recipients should contact
-CMBISG at 65 6350 4400 for matters arising from or in connection with the report
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the
+Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign
+entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed
+in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of
+Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact
+CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

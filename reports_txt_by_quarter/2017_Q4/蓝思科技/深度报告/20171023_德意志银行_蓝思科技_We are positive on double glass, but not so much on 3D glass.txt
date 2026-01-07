@@ -1,1736 +1,387 @@
-Deutsche Bank 
- Markets Research 
-Rating 
-Hold 
-Asia 
-China 
-Technology 
-Hardware & Equipment 
-Company 
-Lens Technology 
- 
-Date 
-20 October 2017 
-Forecast Change 
- 
-We are positive on double glass, but 
-not so much on 3D glass 
-Reuters 
-Bloomberg 
-Exchange Ticker 
-300433.SZ 
-300433 CS 
-SHZ 
-300433 
- 
- 
-Forecasts And Ratios 
-Year End Dec 31 
-2015A 
-2016A 
-2017E 
-2018E 
-2019E 
-Sales (CNYm) 
-17,126 
-15,086 
-25,488 
-31,712 
-35,501 
-EBIT (CNYm) 
-1,472 
-895 
-2,778 
-3,847 
-4,386 
-DB EPS FD(CNY) 
-0.78 
-0.46 
-1.03 
-1.34 
-1.53 
-OLD DB EPS FD(CNY) 
-0.78 
-0.46 
-1.18 
-1.49 
-– 
-% Change 
--1.0% 
-0.3% 
--12.8% 
--10.2% 
-– 
-DB EPS growth (%) 
-21.0 
--40.3 
-122.3 
-29.8 
-14.9 
-ROE (%) 
-17.3 
-9.9 
-16.8 
-19.1 
-18.2 
-PER (x) 
-37.3 
-53.5 
-30.4 
-23.4 
-20.4 
-Source: Deutsche Bank estimates, company data 
-1 DB EPS is fully diluted and excludes non-recurring items 
-2 Multiples and yields calculations use average historical prices for past years and spot prices for current and future years, except P/B which uses 
-We see unit upside but little ASP upside      
-  
-________________________________________________________________________________________________________________ 
-Deutsche Bank AG/Hong Kong 
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should 
-be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should 
-consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST 
-CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017. 
- 
-Price at 19 Oct 2017 (CNY) 
-31.29 
-Price target - 12mth (CNY) 
-29.40 
-52-week range (CNY) 
-38.68 - 23.16 
-Shenzhen Index 
-2,075 
-Birdy Lu 
-Research Analyst 
-(+886) 2 2192 2822
-birdy.lu@db.com 
-Frank Lin 
-Research Analyst 
-(+886) 2 2192 2824 
-frank.lin@db.com 
-Key changes 
-TP 
-26.00 to 29.40 ↑ 
-13.1% 
-Source: Deutsche Bank 
-Price/price relative 
-16
-20
-24
-28
-32
-36
-40
-10/15
-4/16
-10/16
-4/17
-Lens Technology
-Shenzhen Index (Rebased)
- 
-Performance (%) 
-1m 
-3m 
-12m 
-Absolute 
-6.2 
--1.9 
-24.6 
-Shenzhen Index 
--0.6 
-7.9 
--3.4 
-Source: Deutsche Bank 
-Key indicators (FY1) 
-ROE (%) 
-16.8 
-Net debt/equity (%) 
-12.3 
-Book value/share  (CNY) 
-6.63 
-Price/book (x) 
-4.72 
-Net interest cover (x) 
-47.1 
-Operating profit margin (%) 
-10.9 
-Source: Deutsche Bank 
- 
-We are positive on Lens’ 4Q17/2018 outlook, from the angle of high unit 
-growth (driven by the rising adoption of double cover-glass design). However, 
-we are concerned that the market could have overestimated its ASP growth, 
-given the adoption of 3D glass (which costs 100%+ more than 2.5D glass) 
-could be slower than expected. Our industry check suggests Apple is unlikely 
-to adopt 3D glass in 2018. Retaining Hold rating on valuation. 
-3Q17 earnings preview below expectation    
-According to Lens’ 3Q17 earnings preview, 3Q17 net profit should reach 
-RMB54.7mn to RMB63.0mn (+0% to +15% YoY), a deceleration from 26% YoY 
-growth in 1H17 net profit. Considering the launch of iPhone 8/8 Plus with the 
-new double cover-glass design, the magnitude of growth appears low. The 
-mid-point of the guidance (RMB59mn) trailed our estimates and Bloomberg 
-consensus by 20%-25%. Lens attributes the weakness to low capacity 
-utilization and unsatisfactory production yield in its new production site. We 
-believe the delay to the iPhone X launch is also partly to blame.       
-Double glass remains the trend, but 3D glass adoption appears slower    
-We agree that the rising adoption of a double cover-glass design on high-end 
-smartphones is a clear trend for the coming two to three years (for wireless 
-charging or aesthetic purposes), which is positive for a cover-glass leader like 
-Lens. However, we caution that the upgrade to 3D glass (USD10+) from 2.5D 
-glass (~USD4) or 2D glass has been slower than expected. Our industry check 
-indicates the new iPhone in 2018 will still have 2.5D glass. Most of the high-
-end smartphones from Chinese OEMs will stay with 2.5D glass too, due to cost 
-concerns and durability issues (3D glass is more breakable at the edge).    
-Valuation and investment risks  
-We trim 2017-19 net profit forecasts by 7%-13% (to reflect lower GPM and 
-ASP assumptions), but raise our TP from RMB26 to RMB29.4. Our new TP is 
-still based on 22x PER, but we roll over the valuation from 22x 2017E EPS to 
-22x 2018E EPS. 22x PER mirrors 0.8x PEG, in line with regional peers. 
-Upside/downside risks include: strong/weak iPhone demand, ASP hike/decline, 
-and market share gain/loss.      
-Distributed on: 20/10/2017 13:21:38 GMT
-0bed7b6cf11c
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Page 2 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Model updated:20 October 2017 
-Running the numbers 
-Asia 
-China 
-Hardware & Equipment 
-Lens Technology 
-Reuters: 300433.SZ 
-Bloomberg: 300433 CS
-Hold 
-Price (19 Oct 17) 
-CNY 31.29
-Target Price 
-CNY 29.40
-52 Week range 
-CNY 23.16 - 38.68
-Market Cap (m) 
-CNYm 62,221
-USDm 9,398
-Company Profile 
-Lens Technology  is a China-based company principally 
-engaged in research, development, manufacture and sales 
-of viewpoint touch protective glass panels, touch modules 
-and viewpoint touch protective new materials. The 
-Company's products are applied in mobile phone, tablet 
-computer, notebook, desktop computer, digital camera, 
-player, GPS navigator, automobile instrument and others. 
-Price Performance 
-16
-20
-24
-28
-32
-36
-40
-Oct 15Jan 16Apr 16 Jul 16 Oct 16Jan 17Apr 17 Jul 17
-Lens Technology
-Shenzhen Index (Rebased)
-Margin Trends 
-4
-8
-12
-16
-20
-24
-14
-15
-16
-17E
-18E
-19E
-EBITDA Margin
-EBIT Margin
-Growth & Profitability 
-0
-5
-10
-15
-20
-25
--20
-0
-20
-40
-60
-80
-14
-15
-16
-17E
-18E
-19E
-Sales growth (LHS)
-ROE (RHS)
- 
-Solvency 
-0
-20
-40
-60
-80
-100
--20
-0
-20
-40
-60
-80
-14
-15
-16
-17E
-18E
-19E
-Net debt/equity (LHS)
-Net interest cover (RHS)
-Birdy Lu 
-+886 2 2192 2822 
-birdy.lu@db.com 
-Fiscal year end  31-Dec 
-2014 
-2015 
-2016 
-2017E 
-2018E 
-2019E 
-Financial Summary 
-DB EPS (CNY) 
-0.64
-0.78
-0.46 
-1.03
-1.34
-1.53 
-Reported EPS (CNY) 
-0.64
-0.78
-0.46 
-1.03
-1.34
-1.53 
-DPS (CNY) 
-0.00
-0.37
-0.08 
-0.00
-0.00
-0.00 
-BVPS (CNY) 
-4.0
-5.2
-5.4 
-6.6
-7.7
-9.2 
-Weighted average shares (m) 
-1,836
-1,989
-2,600 
-2,500
-2,618
-2,618 
-Average market cap (CNYm) 
-na
-57,614
-64,419 
-62,221
-62,221
-62,221 
-Enterprise value (CNYm) 
-na
-62,226
-67,121 
-64,331
-63,234
-61,105 
-Valuation Metrics
-P/E (DB) (x) 
-na
-37.3
-53.5 
-30.4
-23.4
-20.4 
-P/E (Reported) (x) 
-na
-37.3
-53.5 
-30.4
-23.4
-20.4 
-P/BV (x) 
-0.00
-5.24
-5.13 
-4.72
-4.08
-3.40 
-FCF Yield (%) 
-na
-nm
-0.7 
-0.8
-1.4
-2.6 
-Dividend Yield (%) 
-na
-1.3
-0.3 
-0.0
-0.0
-0.0 
-EV/Sales (x) 
-nm
-3.6
-4.4 
-2.5
-2.0
-1.7 
-EV/EBITDA (x) 
-nm
-16.2
-31.9 
-15.4
-11.5
-9.8 
-EV/EBIT (x) 
-nm
-42.3
-75.0 
-23.2
-16.4
-13.9 
-Income Statement (CNYm) 
-Sales revenue 
-14,411
-17,126
-15,086 
-25,488
-31,712
-35,501 
-Gross profit 
-4,591
-6,365
-4,913 
-7,885
-9,987
-11,159 
-EBITDA 
-2,673
-3,831
-2,107 
-4,189
-5,484
-6,260 
-Depreciation 
-1,418
-2,355
-1,209 
-1,409
-1,635
-1,872 
-Amortisation 
-19
-4
-2 
-2
-2
-2 
-EBIT 
-1,236
-1,472
-895 
-2,778
-3,847
-4,386 
-Net interest income(expense) 
--102
--129
--71 
--59
--56
--49 
-Associates/affiliates 
-0
-0
-0 
-0
-14
-29 
-Exceptionals/extraordinaries 
-0
-0
-0 
-0
-0
-0 
-Other pre-tax income/(expense) 
-227
-395
-559 
-220
-260
-306 
-Profit before tax 
-1,361
-1,738
-1,383 
-2,939
-4,065
-4,672 
-Income tax expense 
-185
-196
-178 
-367
-569
-654 
-Minorities 
--1
--1
-1 
--1
--1
--1 
-Other post-tax income/(expense) 
-0
-0
-0 
-0
-0
-0 
-Net profit 
-1,177
-1,543
-1,204 
-2,573
-3,497
-4,019 
-DB adjustments (including dilution) 
-0
-0
-0 
-0
-0
-0 
-DB Net profit 
-1,177
-1,543
-1,204 
-2,573
-3,497
-4,019 
-Cash Flow (CNYm) 
-Cash flow from operations 
-2,397
-2,703
-3,379 
-4,008
-4,670
-5,619 
-Net Capex 
--5,293
--3,344
--2,922 
--3,360
--3,528
--3,458 
-Free cash flow 
--2,895
--641
-457 
-648
-1,141
-2,161 
-Equity raised/(bought back) 
-0
-1,506
-3,327 
-0
-0
-0 
-Dividends paid 
-0
--727
--218 
-0
-0
-0 
-Net inc/(dec) in borrowings 
-3,036
--566
--1,537 
-145
-150
-154 
-Other investing/financing cash flows 
-22
-671
--1,599 
--55
--57
--60 
-Net cash flow 
-163
-243
-430 
-738
-1,234
-2,256 
-Change in working capital 
--217
--1,198
-964 
-24
--450
--245 
-Balance Sheet (CNYm) 
-Cash and other liquid assets 
-1,519
-1,762
-2,193 
-2,931
-4,165
-6,421 
-Tangible fixed assets 
-10,579
-12,006
-13,829 
-15,780
-17,674
-19,260 
-Goodwill/intangible assets 
-0
-0
-0 
-0
-0
-0 
-Associates/investments 
-9
-9
-23 
-23
-37
-67 
-Other assets 
-6,802
-6,714
-7,764 
-10,807
-13,051
-14,480 
-Total assets 
-18,909
-20,492
-23,809 
-29,541
-34,927
-40,227 
-Interest bearing debt 
-6,943
-6,377
-4,840 
-4,986
-5,135
-5,289 
-Other liabilities 
-4,548
-3,682
-4,890 
-7,904
-9,644
-10,771 
-Total liabilities 
-11,491
-10,059
-9,731 
-12,890
-14,779
-16,060 
-Shareholders' equity 
-7,411
-10,426
-14,001 
-16,572
-20,067
-24,085 
-Minorities 
-8
-7
-77 
-79
-80
-82 
-Total shareholders' equity 
-7,418
-10,433
-14,078 
-16,651
-20,148
-24,167 
-Net debt 
-5,424
-4,615
-2,648 
-2,055
-970
--1,131 
-Key Company Metrics 
-Sales growth (%) 
-8.7
-18.8
--11.9 
-68.9
-24.4
-11.9 
-DB EPS growth (%) 
--51.8
-21.0
--40.3 
-122.3
-29.8
-14.9 
-EBITDA Margin (%) 
-18.5
-22.4
-14.0 
-16.4
-17.3
-17.6 
-EBIT Margin (%) 
-8.6
-8.6
-5.9 
-10.9
-12.1
-12.4 
-Payout ratio (%) 
-0.0
-47.1
-18.1 
-0.0
-0.0
-0.0 
-ROE (%) 
-17.3
-17.3
-9.9 
-16.8
-19.1
-18.2 
-Capex/sales (%) 
-36.7
-19.5
-19.4 
-13.2
-11.1
-9.7 
-Capex/depreciation (x) 
-3.7
-1.4
-2.4 
-2.4
-2.2
-1.8 
-Net debt/equity (%) 
-73.1
-44.2
-18.8 
-12.3
-4.8
--4.7 
-Net interest cover (x) 
-12.1
-11.4
-12.6 
-47.1
-68.9
-89.4 
-Source: Company data, Deutsche Bank estimates 
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Deutsche Bank AG/Hong Kong 
-Page 3
- 
- 
- 
-Business update 
-Maintaining Hold rating with 12-month target price of 
-RMB29.4 
- 
-Figure 1: Earnings estimate revisions 
-P/L Revision 
-2016 
-2017E 
-2018E 
-2019E 
-% of change 
-(TWD mn) 
- (Actual) 
-Old 
-New 
-Old 
-New 
-Old 
-New 
-2017E 
-2018E 
-2019E 
-Net sales 
-15,086 
-24,456
-25,488
-29,673 
-31,712 
-33,499 
-35,501
-4.2
-6.9 
-N.M. 
-Gross profit 
-3,702 
-6,433
-6,474
-7,666 
-8,350 
-8,562 
-9,285
-0.6
-8.9 
-N.M. 
-Operating expense 
-2,807 
-3,717
-3,696
-4,392 
-4,503 
-4,824 
-4,899
--0.6
-2.5 
-N.M. 
-Operating profit 
-895 
-2,715
-2,778
-3,274 
-3,847 
-3,739 
-4,386
-2.3
-17.5 
-N.M. 
-Non-op gain/loss 
-487 
-161
-161
-218 
-218 
-285 
-287
-0.0
-0.1 
-N.M. 
-Pre-tax profit 
-1,382 
-2,876
-2,939
-3,492 
-4,065 
-4,023 
-4,673
-2.2
-16.4 
-N.M. 
-Net profit 
-1,202 
-2,503
-2,573
-3,039 
-3,497 
-3,501 
-4,020
-2.8
-15.1 
-N.M. 
-EPS (TWD) 
-0.5 
-1.2
-1.0
-1.4 
-1.3 
-1.7 
-1.5
--13.2
--7.2 
-N.M. 
-Key ratio (%) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Sales growth 
--11.9 
-62.1
-68.9
-21.3 
-24.4 
-12.9 
-11.9
- 
- 
- 
-Gross margin 
-24.5 
-26.3
-25.4
-25.8 
-26.3 
-25.6 
-26.2
- 
- 
- 
-Operating Margin 
-5.9 
-11.1
-10.9
-11.0 
-12.1 
-11.2 
-12.4
- 
- 
- 
-Net margin 
-8.0 
-10.2
-10.1
-10.2 
-11.0 
-10.5 
-11.3
- 
- 
- 
-Source: Deutsche Bank estimates, company data 
- 
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Page 4 
-Deutsche Bank AG/Hong Kong 
- 
- 
- 
-Figure 2: Quarterly P&L highlights 
- 
-1Q17 
-2Q17 
-3Q17E 
-4Q17E 
-2017E 
-1Q18E 
-2Q18E 
-3Q18E 
-4Q18E 
-2018E 
-Sales 
-4,108
-4,521
-7,000
-9,858
-25,488 
-6,873
-7,214
-8,287
-9,337
-31,712
-Gross profits 
-1,024
-1,022
-1,675
-2,753
-6,474 
-1,714
-1,835
-2,234
-2,567
-8,350
-Op. profits 
-199
-146
-750
-1,684
-2,778 
-813
-777
-1,108
-1,148
-3,847
-Non-op 
-53
--50
-39
-119
-161 
-53
-55
-53
-58
-218
-Pre-tax income 
-251
-96
-789
-1,803
-2,939 
-866
-831
-1,161
-1,206
-4,065
-Net profit 
-221
-90
-655
-1,606
-2,573 
-736
-706
-987
-1,067
-3,497
-EPS (RMB) 
-0.08
-0.03
-0.26
-0.64
-1.03 
-0.28
-0.27
-0.38
-0.41
-1.34
-Margin Analysis (%) 
- 
-Gross profits 
-24.9
-22.6
-23.9
-27.9
-25.4 
-24.9
-25.4
-27.0
-27.5
-26.3
-Op. profits 
-4.8
-3.2
-10.7
-17.1
-10.9 
-11.8
-10.8
-13.4
-12.3
-12.1
-Pre-tax income 
-6.1
-2.1
-11.3
-18.3
-11.5 
-12.6
-11.5
-14.0
-12.9
-12.8
-Tax rate 
-12.2
-5.4
-17.0
-10.9
-12.5 
-15.0
-15.0
-15.0
-11.5
-14.0
-YoY growth (%) 
- 
-Sales 
-54.8
-52.3
-40.5
-119.9
-68.9 
-67.3
-59.6
-18.4
--5.3
-24.4
-Gross profits 
-88.3
-44.9
-16.3
-172.0
-74.9 
-67.4
-79.5
-33.4
--6.7
-29.0
-Op. profits 
--603.2
-150.3
-9.5
-780.5
-210.4 
-309.6
-433.7
-47.8
--31.8
-38.5
-Pre-tax income 
-45.7
-15.1
-28.2
-252.5
-112.7 
-244.5
-768.5
-47.1
--33.1
-38.3
-Net profit 
-33.7
-10.2
-19.7
-292.7
-114.0 
-233.7
-680.7
-50.6
--33.6
-35.9
-QoQ growth (%) 
- 
-Sales 
--8.4
-10.0
-54.8
-40.8
- 
--30.3
-5.0
-14.9
-12.7
-Gross profits 
-1.2
--0.1
-63.8
-64.3
- 
--37.7
-7.1
-21.8
-14.9
-Op. profits 
-3.8
--26.7
-415.5
-124.5
- 
--51.7
--4.5
-42.7
-3.6
-Pre-tax income 
--50.8
--61.9
-724.9
-128.4
- 
--52.0
--4.0
-39.7
-3.9
-Net profit 
--46.1
--59.0
-624.1
-145.2
- 
--54.2
--4.0
-39.7
-8.1
-Sales breakdown 
- 
-Handset cover-lens 
-65.5%
-64.0%
-73.4%
-79.7%
-72.9% 
-72.3%
-71.7%
-71.3%
-72.3%
-71.9%
-Tablet cover lens 
-12.1%
-13.2%
-8.9%
-6.7%
-9.3% 
-7.3%
-8.0%
-7.5%
-7.3%
-7.5%
-Other products 
-22.4%
-22.8%
-17.7%
-13.6%
-17.8% 
-20.3%
-20.4%
-21.3%
-20.4%
-20.6%
-Total 
-100.0%
-100.0%
-100.0%
-100.0%
-100.0% 
-100.0%
-100.0%
-100.0%
-100.0%
-100.0%
-Source: Deutsche Bank estimates, company data 
- 
- 
- 
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Deutsche Bank AG/Hong Kong 
-Page 5
- 
- 
- 
-Appendix 1 
- 
-Important Disclosures 
- 
-*Other information available upon request 
- 
-Disclosure checklist 
-Company 
-Ticker 
-Recent price* 
-Disclosure 
-Lens Technology 
-300433.SZ 
-31.29 (CNY) 19 Oct 17 
-NA 
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . Other 
-information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the 
-primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at 
-http://gm.db.com/ger/disclosure/DisclosureDirectory.eqsr. Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the 
-"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
-      
-For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
-research, please see the most recently published company report or visit our global disclosure look-up page on our 
-website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=300433.SZ 
- 
-Analyst Certification 
-The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
-subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
-any compensation for providing a specific recommendation or view in this report. Birdy Lu 
-     
-Historical recommendations and target price: Lens Technology (300433.SZ) 
-(as of 10/19/2017) 
-1
-2
-3
-0.00
-20.00
-40.00
-60.00
-80.00
-100.00
-120.00
-Oct 15
-Jan 16
-Apr 16
-Jul 16
-Oct 16
-Jan 17
-Apr 17
-Jul 17
-Security Price
 Date
-Previous Recommendations 
-Strong Buy 
-Buy 
-Market Perform 
-Underperform 
-Not Rated 
-Suspended Rating 
-Current Recommendations 
-Buy 
-Hold 
-Sell 
-Not Rated 
-Suspended Rating 
-*New Recommendation Structure 
-as of September 9,2002 
-**Analyst is no longer at Deutsche 
-Bank 
-1.     29/04/2016:         Hold, Target Price Change CNY62.00 Birdy Lu 
-3.     31/10/2016:         Hold, Target Price Change CNY26.00 Birdy Lu 
-2.     29/08/2016:         Hold, Target Price Change CNY24.00 Birdy Lu 
-    
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Page 6 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Equity rating key 
-Equity rating dispersion and banking relationships 
-Buy: Based on a current 12- month view of total 
-share-holder return (TSR = percentage change in 
-share price from current price to projected target price 
-plus pro-jected dividend yield ) , we recommend that 
-investors buy the stock. 
-Sell: Based on a current 12-month view of total share-
-holder return, we recommend that investors sell the 
-stock 
-Hold: We take a neutral view on the stock 12-months 
-out and, based on this time horizon, do not 
-recommend either a Buy or Sell. 
-Newly issued research recommendations and target 
-prices supersede previously published research. 
-55 %
-34 %
-11 %
-18 %
-19 %
-12 %
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-500
-Buy
+Rating
+Company
+Lens Technology
 Hold
-Sell
-Asia-Pacific Universe
-Companies Covered
-Cos. w/ Banking Relationship
- 
-  
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Deutsche Bank AG/Hong Kong 
-Page 7
- 
- 
- 
- 
-Additional Information 
- 
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively 
-"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources 
+Forecast Change
+Asia
+China
+Reuters
+Bloomberg
+Exchange Ticker
+Technology
+300433.SZ
+300433 CS
+SHZ
+Hardware & Equipment
+We are positive on double glass, but
+Birdy Lu
+not so much on 3D glass
+Research Analyst
+Research Analyst
+We see unit upside but little ASP upside
+We are positive on Lens' 4Q17/2018 outlook, from the angle of high unit
+growth (driven by the rising adoption of double cover-glass design). However,
+Key changes
+we are concerned that the market could have overestimated its ASP growth,
+26.00 to 29.40 ↑
+given the adoption of 3D glass (which costs 100%+ more than 2.5D glass)
+could be slower than expected. Our industry check suggests Apple is unlikely
+Source: Deutsche Bank
+to adopt 3D glass in 2018. Retaining Hold rating on valuation.
+Price/price relative
+3Q17 earnings preview below expectation
+According to Lens' 3Q17 earnings preview, 3Q17 net profit should reach
+RMB54.7mn to RMB63.0mn (+0% to +15% YoY), a deceleration from 26% YoY
+growth in 1H17 net profit. Considering the launch of iPhone 8/8 Plus with the
+new double cover-glass design, the magnitude of growth appears low. The
+mid-point of the guidance (RMB59mn) trailed our estimates and Bloomberg
+consensus by 20%-25%. Lens attributes the weakness to low capacity
+utilization and unsatisfactory production yield in its new production site. We
+believe the delay to the iPhone X launch is also partly to blame.
+Double glass remains the trend, but 3D glass adoption appears slower
+We agree that the rising adoption of a double cover-glass design on high-end
+smartphones is a clear trend for the coming two to three years (for wireless
+charging or aesthetic purposes), which is positive for a cover-glass leader like
+Lens. However, we caution that the upgrade to 3D glass (USD10+) from 2.5D
+glass (~USD4) or 2D glass has been slower than expected. Our industry check
+indicates the new iPhone in 2018 will still have 2.5D glass. Most of the high-
+end smartphones from Chinese OEMs will stay with 2.5D glass too, due to cost
+concerns and durability issues (3D glass is more breakable at the edge).
+Valuation and investment risks
+We trim 2017-19 net profit forecasts by 7%-13% (to reflect lower GPM and
+ASP assumptions), but raise our TP from RMB26 to RMB29.4. Our new TP is
+still based on 22x PER, but we roll over the valuation from 22x 2017E EPS to
+22x 2018E EPS. 22x PER mirrors 0.8x PEG, in line with regional peers.
+Upside/downside risks include: strong/weak iPhone demand, ASP hike/decline,
+and market share gain/loss.
+Deutsche Bank AG/Hong Kong
+Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should
+be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should
+consider this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST
+CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017.
+Lens Technology
+Reuters: 300433.SZ
+Bloomberg: 300433 CS
+Hold
+Price (19 Oct 17)
+Target Price
+52 Week range
+Market Cap (m)
+Company Profile
+Lens Technology is a China-based company principally
+engaged in research, development, manufacture and sales
+of viewpoint touch protective glass panels, touch modules
+and viewpoint touch protective new materials. The
+Company's products are applied in mobile phone, tablet
+computer, notebook, desktop computer, digital camera,
+player, GPS navigator, automobile instrument and others.
+Margin Trends
+Growth & Profitability
+Solvency
+Birdy Lu
+Business update
+Maintaining Hold rating with 12-month target price of
+RMB29.4
+Source: Deutsche Bank estimates, company data
+Important Disclosures
+Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Other
+information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than the
+primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing.
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this
+research, please see the most recently published company report or visit our global disclosure look-up page on our
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive
+any compensation for providing a specific recommendation or view in this report. Birdy Lu
+Historical recommendations and target price: Lens Technology (300433.SZ)
+(as of 10/19/2017)
+Equity rating key
+Equity rating dispersion and banking relationships
+Buy: Based on a current 12- month view of total
+share-holder return (TSR = percentage change in
+share price from current price to projected target price
+plus pro-jected dividend yield), we recommend that
+investors buy the stock.
+Sell: Based on a current 12-month view of total share-
+holder return, we recommend that investors sell the
+stock
+Hold: We take a neutral view on the stock 12-months
+out and, based on this time horizon, do not
+recommend either a Buy or Sell.
+Newly issued research recommendations and target
+prices supersede previously published research.
+Additional Information
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
-party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor 
-is responsible for the accuracy or security controls of these websites. 
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this 
-report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche 
-Bank may act as principal for its own account or as agent for another person. 
- 
-Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own 
-account or with customers, in a manner inconsistent with the views taken in this research report. Others within 
-Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those 
-taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, 
-equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication 
-may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or 
-otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. 
-Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment 
-banking, trading and principal trading revenues. 
- 
-Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do 
-not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides 
-liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts 
-sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term 
-ratings. Trade ideas for equities can be found at the SOLAR link at http://gm.db.com. A SOLAR idea represents a high 
-conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a 
-time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to 
-time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that 
-reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities 
-discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return 
-or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to 
-otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently 
-becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company 
-specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion 
-of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are 
-published at irregular intervals. This report is provided for informational purposes only and does not take into account 
-the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation 
-of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are 
-inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not 
-be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of 
-financial instruments are subject to change without notice and investment transactions can lead to losses as a result of 
-price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's 
-currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily 
-indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session, 
-and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank, 
-subject companies, and in some cases, other parties. 
- 
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding 
-our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect 
-to 
-our 
-research 
-is 
-available 
-on 
-our 
-website 
-under 
-Disclaimer 
-found 
-on 
-the 
-Legal 
-tab. 
- 
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Page 8 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise 
-to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash 
-flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a 
-loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the 
-loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse 
-macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation 
-(including changes in assets holding limits for different types of investors), changes in tax policies, currency 
-convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and 
-settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed 
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to 
-FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the 
-index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended 
-to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon 
-rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is 
-also important to acknowledge that funding in a currency that differs from the currency in which coupons are 
-denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to 
-the 
-risks 
-related 
-to 
-rates 
-movements. 
- 
-Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk. 
-The appropriateness or otherwise of these products for use by investors is dependent on the investors' own 
-circumstances including their tax position, their regulatory environment and the nature of their other assets and 
-liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar 
-to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can 
-be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be 
-incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable 
-for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized 
-Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp. If you are unable to access the 
-website please contact your Deutsche Bank representative for a copy of this important document. 
-Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i) 
-exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by 
-numerous market factors, including world and national economic, political and regulatory events, events in equity and 
-debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed 
-exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are 
-affected by the currency of an underlying security, effectively assume currency risk. 
- 
-Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the 
-investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at 
-https://gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to 
-review this information before investing.  
- 
-Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial 
-adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information 
-provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice, 
-Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever 
-as to any strategies, products or any other information presented in the materials. Information contained herein is being 
-provided solely on the basis that the recipient will make an independent assessment of the merits of any investment 
-decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any 
-trading strategy. 
- 
-The information presented is general in nature and is not directed to retirement accounts or any specific person or 
-account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in 
-making Your decision. The information we provide is being directed only to persons we believe to be financially 
-sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to 
-particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the 
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Deutsche Bank AG/Hong Kong 
-Page 9
- 
- 
- 
-offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this 
-directly 
-from 
-us, 
-we 
-ask 
-that 
-you 
-inform 
-us 
-immediately. 
- 
-United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and 
-SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA 
-regulations.  
- 
-Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated 
-in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under 
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany’s Federal 
-Financial Supervisory Authority. 
- 
-United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester 
-House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the 
-Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial 
-Conduct Authority. Details about the extent of our authorisation and regulation are available on request. 
- 
-Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited. 
- 
-India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India 
-(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received 
-administrative warnings from the SEBI for breaches of Indian regulations. 
- 
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial 
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, 
-Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks 
-involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by 
-multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to 
-losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional 
-losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories 
-of investment advice, products and services. Recommended investment strategies, products and services carry the risk 
-of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in 
-market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the 
-relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in 
-this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the 
-name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank 
-Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are 
-not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's 
-equity analysts are based on a 12-month forecast period. 
- 
-Korea: Distributed by Deutsche Securities Korea Co. 
- 
-South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register 
-Number 
-in 
-South 
-Africa: 
-1998/003298/10). 
- 
-Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles 
-Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters 
-arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who 
-is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and 
-regulations), they accept legal responsibility to such person for its contents. 
- 
-Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should 
-independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank 
-research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without 
-written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and 
-20 October 2017 
-Hardware & Equipment 
-Lens Technology 
-Page 10 
-Deutsche Bank AG/Hong Kong
- 
- 
- 
-is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, 
-Taipei 
-Branch 
-may 
-not 
-execute 
-transactions 
-for 
-clients 
-in 
-these 
-securities/instruments. 
- 
-Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre 
-Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall 
-within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, 
-West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related 
-financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre 
-Regulatory Authority. 
- 
-Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
-any appraisal or evaluation activity requiring a license in the Russian Federation. 
- 
-Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the 
-Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall 
-within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya 
-District, 
-P.O. 
-Box 
-301809, 
-Faisaliah 
-Tower 
-- 
-17th 
-Floor, 
-11372 
-Riyadh, 
-Saudi 
-Arabia. 
- 
-United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated 
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services 
-activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai 
-International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been 
-distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as 
-defined by the Dubai Financial Services Authority. 
- 
-Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product 
-referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please 
-refer 
-to 
-Australian 
-specific 
-research 
-disclosures 
-and 
-related 
-information 
-at 
-https://australia.db.com/australia/content/research-information.html  
- 
-Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian 
-Corporations Act and New Zealand Financial Advisors Act respectively. 
- 
-Additional information relative to securities, other financial products or issuers discussed in this report is available upon 
-request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent. 
-Copyright © 2017 Deutsche Bank AG 
-  
- 
- 
- 
- 
- 
-David Folkerts-Landau 
-Group Chief Economist and Global Head of Research 
- 
-Raj Hindocha 
-Global Chief Operating Officer 
-Research 
-Michael Spencer 
-Head of APAC Research 
-Global Head of Economics 
-Steve Pollard 
-Head of Americas Research 
-Global Head of Equity Research 
-Anthony Klarman 
-Global Head of 
-Debt Research 
-Paul Reynolds 
-Head of EMEA 
-Equity Research 
-Dave Clark 
-Head of APAC 
-Equity Research 
-Pam Finelli 
-Global Head of 
-Equity Derivatives Research 
- 
-  
-Andreas Neubauer 
-Head of Research - Germany 
-Spyros Mesomeris 
-Global Head of Quantitative 
-and QIS Research 
-  
-  
-International locations 
-Deutsche Bank AG 
-Deutsche Bank Place 
-Level 16 
-Corner of Hunter & Phillip Streets 
-Sydney, NSW 2000 
-Australia 
-Tel: (61) 2 8258 1234 
-Deutsche Bank AG 
-Mainzer Landstrasse 11-17 
-60329 Frankfurt am Main 
-Germany 
-Tel: (49) 69 910 00 
-Deutsche Bank AG 
-Filiale Hongkong 
-International Commerce Centre, 
-1 Austin Road West,Kowloon, 
-Hong Kong 
-Tel: (852) 2203 8888 
-Deutsche Securities Inc. 
-2-11-1 Nagatacho 
-Sanno Park Tower 
-Chiyoda-ku, Tokyo 100-6171 
-Japan 
-Tel: (81) 3 5156 6770 
- 
-Deutsche Bank AG London 
-1 Great Winchester Street 
-London EC2N 2EQ 
-United Kingdom 
-Tel: (44) 20 7545 8000 
-Deutsche Bank Securities Inc. 
-60 Wall Street 
-New York, NY 10005 
-United States of America 
-Tel: (1) 212 250 2500 
- 
- 
- 
-  
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this
+report, or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche
+Bank may act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its own
+account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those
+taken in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis,
+equity-linked analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication
+may differ from recommendations contained in others, whether as a result of differing time horizons, methodologies or
+otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on.
+Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
+banking, trading and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts
+sometimes have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term
+conviction belief by an analyst that a stock will outperform or underperform the market and/or sector delineated over a
+time frame of no less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to
+time discuss with our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that
+reference catalysts or events that may have a near-term or medium-term impact on the market price of the securities
+discussed in this report, which impact may be directionally counter to the analysts' current 12-month view of total return
+or investment return as described herein. Deutsche Bank has no obligation to update, modify or amend this report or to
+otherwise notify a recipient thereof if any opinion, forecast or estimate contained herein changes or subsequently
+becomes inaccurate. Coverage and the frequency of changes in market conditions and in both general and company
+specific economic prospects make it difficult to update research at defined intervals. Updates are at the sole discretion
+of the coverage analyst concerned or of the Research Department Management and as such the majority of reports are
+published at irregular intervals. This report is provided for informational purposes only and does not take into account
+the particular investment objectives, financial situations, or needs of individual clients. It is not an offer or a solicitation
+of an offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are
+inherently imprecise and a product of the analyst’s judgment. The financial instruments discussed in this report may not
+be suitable for all investors and investors must make their own informed investment decisions. Prices and availability of
+financial instruments are subject to change without notice and investment transactions can lead to losses as a result of
+price fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's
+currency, a change in exchange rates may adversely affect the investment. Past performance is not necessarily
+indicative of future results. Unless otherwise indicated, prices are current as of the end of the previous trading session,
+and are sourced from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank,
+subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+available
+website
+under
+Disclaimer
+found
+our
+research
+our
+the
+Legal
+tab.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a
+loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency
+convertibility (which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and
+settlement issues related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. It is important to note that the
+index fixings may -- by construction -- lag or mis-measure the actual move in the underlying variables they are intended
+to track. The choice of the proper fixing (or metric) is particularly important in swaps markets, where floating coupon
+rates (i.e., coupons indexed to a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is
+also important to acknowledge that funding in a currency that differs from the currency in which coupons are
+denominated carries FX risk. Naturally, options on swaps (swaptions) also bear the risks typical to options in addition to
+the
+risks
+related
+rates
+movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own
+circumstances including their tax position, their regulatory environment and the nature of their other assets and
+liabilities, and as such, investors should take expert legal and financial advice before entering into any transaction similar
+to or inspired by the contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can
+be substantial. As a result of the high degree of leverage obtainable in futures and options trading, losses may be
+incurred that are greater than the amount of funds initially deposited. Trading in options involves risk and is not suitable
+for all investors. Prior to buying or selling an option investors must review the "Characteristics and Risks of Standardized
+website please contact your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
+review this information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
+provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any
+trading strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or
+account type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in
+making Your decision. The information we provide is being directed only to persons we believe to be financially
+sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to
+particular transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the
+Hardware & Equipment
+Lens Technology
+offering of its products and services. If this is not the case, or if You are an IRA or other retail investor receiving this
+from
+inform
+directly
+ask
+that
+you
+immediately.
+us,
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and
+SIPC. Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA
+regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
+Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India
+(SEBI) as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received
+administrative warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA,
+Type II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks
+involved in stock transactions - for stock transactions, we charge stock commissions and consumption tax by
+multiplying the transaction amount by the commission rate agreed with each customer. Stock transactions can lead to
+losses as a result of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional
+losses stemming from foreign exchange fluctuations. We may also charge commissions and fees for certain categories
+of investment advice, products and services. Recommended investment strategies, products and services carry the risk
+of losses to principal and other losses as a result of changes in market and/or economic trends, and/or fluctuations in
+market value. Before deciding on the purchase of financial products and/or services, customers should carefully read the
+relevant disclosures, prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in
+this report are not registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the
+name of the entity. Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank
+Group's analysts with the coverage companies specified by DSI. Some of the foreign securities stated on this report are
+not disclosed according to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's
+equity analysts are based on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number
+1998/003298/10).
+South
+Africa:
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters
+arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who
+is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and
+regulations), they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank
+research may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without
+written consent. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and
+Hardware & Equipment
+Lens Technology
+is not to be construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited,
+Taipei
+clients
+securities/instruments.
+Branch
+not
+execute
+transactions
+for
+these
+may
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall
+within the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower,
+West Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related
+financial products or services are only available to Business Customers, as defined by the Qatar Financial Centre
+Regulatory Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by the
+Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that fall
+within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District,
+P.O.
+Box
+301809,
+17th
+Faisaliah
+Tower
+Floor,
+Riyadh,
+Saudi
+Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai
+International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
+distributed by Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as
+defined by the Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+refer
+Australian
+specific
+research
+disclosures
+information
+and
+related
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
+David Folkerts-Landau
+Group Chief Economist and Global Head of Research
+Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
+Head of Americas Research
+Global Head of Economics
+Research
+Global Head of Equity Research
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Anthony Klarman
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
+Equity Derivatives Research
+Andreas Neubauer
+Spyros Mesomeris
+Head of Research - Germany
+Global Head of Quantitative
+and QIS Research
+International locations
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+2-11-1 Nagatacho
+Filiale Hongkong
+60329 Frankfurt am Main
+International Commerce Centre,
+Sanno Park Tower
+Corner of Hunter & Phillip Streets
+Germany
+1 Austin Road West, Kowloon,
+Hong Kong
+Japan
+Australia
+Deutsche Bank AG London
+Deutsche Bank Securities Inc.
+1 Great Winchester Street
+60 Wall Street
+London EC2N 2EQ
+United Kingdom
+United States of America

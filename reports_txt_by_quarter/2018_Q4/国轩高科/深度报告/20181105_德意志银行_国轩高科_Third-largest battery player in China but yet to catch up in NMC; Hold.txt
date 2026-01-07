@@ -1,38 +1,29 @@
-p
-Guoxuan High-Tech
+Deutsche Bank
+Research
 Rating
+Date
+Company
 Hold
-Automobiles & Components
-Price at 1 Nov 2018 (CNY)
-12.63
-Price target - 12mth (CNY)
-13.30
-52-week range (CNY)
-31.53 - 10.53
-HANG SENG INDEX
-24,980
+Guoxuan High-Tech
 Forecast Change
 Asia
 China
-Company
-Guoxuan High-Tech
 Reuters
 Bloomberg
 Exchange
-Ticker
+Automobiles & Components
 002074.SZ
 002074 CS
 SHZ
-002074
-Date
-2 November 2018
-Deutsche Bank
-Research
 Third-largest battery player in China but
 yet to catch up in NMC; Hold
+Valuation & Risks
+Sharon Ding
 New capacity on the way, but yet to see meaningful shipments of NMC battery;
+Research Analyst
 Hold
 Guoxuan High-Tech, the third-largest battery player in China, aims to double its
++852-2203-5716
 capacity by 2020, and even to triple it starting in 2021. The company started with
 the LFP (lithium iron phosphate) battery, and it is now trying to ramp up the NMC
 (lithium nickel cobalt manganese oxide) battery business. However, meaningful
@@ -44,7 +35,7 @@ Ding.
 Weak 3Q due to lower shipments; keep an eye on NMC battery
 Guoxuan recorded RMB4.1bn revenue in 9M2018, achieving only 59% of our
 estimate, as a result of weak shipments due to the subsidy cut in the middle
-of this year. Gross margin in the ﬁrst nine months also missed our expectation
+of this year. Gross margin in the first nine months also missed our expectation
 by 2ppt, a result of ASP pressure and lower volume. In terms of NMC battery,
 management mentioned there is no technical or customer issue, but it is awaiting
 massive commercial shipments. The company is yet to prove it can repeat its
@@ -55,331 +46,28 @@ meaningful shipments in NMC battery. We lower our 2018 and 2019 earnings
 estimates by 12% and 10%, respectively, to factor in its weaker-than-expected
 shipments and ASP pressure. Our target price of RMB13.3 (down from RMB15.58)
 is based on a target multiple of 15x 2019E P/E, in line with the battery industry
-average; the lower TP reﬂects a shift from a 15.4x multiple and our lower
+average; the lower TP reflects a shift from a 15.4x multiple and our lower
 estimates. We maintain our Hold rating. Risks include faster or slower capacity
 ramp-up and shipments.
-Valuation & Risks 
-Sharon Ding 
-Research Analyst
-+852-2203-5716
-Key changes
-TP
-15.58 to 13.30 ↓
--14.6%
-Sales (FYE)
-6,970 to 6,352 ↓
--8.9%
-Op prof margin
-(FYE)
-- ↓
--0.3%
-Net proﬁt (FYE)
-989.6 to 871.2 ↓
--12.0%
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
 Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+aware that the firm may have a conflict of interest that could affect the objectivity Distributed on: 01/11/2018 16:48:08 GMT
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
 ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE'S
 REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC) EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
-Distributed on: 01/11/2018 16:48:08 GMT
-7T2se3r0Ot6kwoPa
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
-Automobiles & Components
-Guoxuan High-Tech
-Forecasts and ratios
-Year End Dec 31
-2016A
-2017A
-2018E
-2019E
-2020E
-Sales (CNYm)
-4,757.9
-4,838.1
-6,352.0
-8,599.2
-10,408.6
-EBITDA (CNYm)
-1,367.6
-923.0
-1,400.2
-1,768.9
-2,218.4
-Reported NPAT (CNYm)
-1,030.9
-838.0
-871.2
-1,011.3
-1,261.3
-Reported EPS FD (CNY)
-1.18
-0.74
-0.77
-0.89
-1.11
-DB EPS FD (CNY)
-1.18
-0.74
-0.77
-0.89
-1.11
-OLD DB EPS FD (CNY)
-1.18
-0.74
-0.87
-0.98
-1.14
-% Change
-0.0%
-0.0%
--12.0%
--9.6%
--2.8%
-DB EPS growth (%)
-76.4
--37.3
-4.0
-16.1
-24.7
-PER (x)
-29.3
-41.3
-16.5
-14.2
-11.4
-EV/EBITDA (x)
-22.2
-35.7
-10.4
-8.3
-6.6
-DPS (net) (CNY)
-0.15
-0.10
-0.10
-0.12
-0.15
-Yield (net) (%)
-0.4
-0.3
-0.8
-1.0
-1.2
-Source: Deutsche Bank estimates, company data
-Page 2
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
 Capacity overview - aggressive expansion on the way
-According to management, Guoxuan currently has around 10Gwh eﬀective
+According to management, Guoxuan currently has around 10Gwh effective
 capacity, of which 70-80% is LFP capacity. Total capacity, including that under
 construction, is around 21Gwh and is expected to be ramped up in the next year
 or two. The company envisions another 10G in the pipeline, eventually bringing
 its capacity to 30Gwh by ~2021. Upcoming capacity will include both LFP and
 NMC, with the detailed split dependent on market conditions.
-Figure 1: Guoxuan battery capacity breakdown
-2013
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Hefei original
-LFP
-150
-150
-150
-150
-150
-150
-150
-Hefei 1st
-LFP
-100
-100
-100
-100
-100
-100
-100
-Hefei 2nd
-LFP
-100
-100
-100
-100
-100
-100
-Hefei 3rd
-LFP
-250
-300
-350
-350
-350
-Hefei 3rd
-NMC 111/622
-250
-250
-250
-250
-250
-Hefei 4th
-NMC 622
-1050
-1050
-1050
-Lujiang
-LFP
-300
-300
-300
-300
-Kunshan
-LFP
-150
-150
-150
-0
-0
-0
-Nanjing
-LFP
-300
-300
-300
-300
-300
-300
-Nanjing 2nd
-LFP
-330
-350
-350
-350
-Qingdao Laixi
-NMC 622
-250
-300
-300
-900
-1500
-Qingdao Laixi 2nd 
-LFP
-400
-400
-400
-Tangshan
-LFP
-300
-300
-300
-LFP 
-250
-          
-800
-          
-1,050
-       
-1,730
-       
-2,350
-       
-2,350
-       
-2,350
-       
-NMC
--
-           
--
-           
-500
-          
-550
-          
-1,600
-       
-2,200
-       
-2,800
-       
-Total (mnAh)
-LFP+NMC
-250
-          
-800
-          
-1,550
-       
-2,280
-       
-3,950
-       
-4,550
-       
-5,150
-       
-LFP 
-3.2
-0.8
-           
-2.6
-           
-3.4
-           
-5.5
-           
-7.5
-           
-7.5
-           
-7.5
-           
-NMC
-3.7
--
-           
--
-           
-1.9
-           
-2.0
-           
-5.9
-           
-8.1
-           
-10.4
-         
-Total (Gwh)
-LFP+NMC
-0.8
-           
-2.6
-           
-5.2
-           
-7.6
-           
-13.4
-         
-15.7
-         
-17.9
-         
-Battery factories
 Source: Company info, Deutsche Bank estimate
 Global EV capacity is expected to quadruple to about 500Gwh by 2020 compared
-to the end of 2017 (see report from our Korea team here ). Guoxuan is among the
+to the end of 2017 (see report from our Korea team here). Guoxuan is among the
 battery players that are building capacity to capture the secular growth, and has
 demonstrated comparable margin to CATL, the No.1 player in China, thanks to
 Guoxuan's self-supplied cathode materials.
@@ -388,1030 +76,32 @@ commencement mostly falling in the second half of each year, thus creating a
 larger gap between its estimated sales versus year-end capacity, compared to a
 smaller gap for CATL, as the latter's capacity commencement schedule is more
 evenly distributed throughout the year.
-Deutsche Bank AG/Hong Kong
-Page 3
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
-Automobiles & Components
-Guoxuan High-Tech
-Figure 2: Global EV battery capacity announced
-Figure 3: GPM: Guoxuan vs. CATL
- -
- 100
- 200
- 300
- 400
- 500
- 600
- 2015
- 2016
- 2017
- 2018E
- 2019E
- 2020E
-0.0%
-5.0%
-10.0%
-15.0%
-20.0%
-25.0%
-30.0%
-35.0%
-40.0%
-45.0%
-50.0%
-1Q17
-2Q17
-3Q17
-4Q17
-1Q18
-2Q18
-3Q18
-CATL
-Guoxuan
-Source: Company data, Deutsche Bank estimate
 Source: Deutsche Bank, company info
-Figure 4: Guoxuan year-end capacity vs. sales volume
-Figure 5: CATL year-end capacity vs. sales volume
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Sales volume
-Year-end capacity
-Gwh
-0
-10
-20
-30
-40
-50
-60
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Sales volume
-Year-end capacity
-Gwh
-Source: Deutsche Bank estimate, company info
 Source: Deutsche Bank estimate, company info
 Yet to see meaningful progress in NMC battery
 According to Reali, Guoxuan's NMC installation market share reached only
-c.0.4% in the ﬁrst nine months of this year. Meanwhile, management mentioned
+c.0.4% in the first nine months of this year. Meanwhile, management mentioned
 that installation market share is only part of the story because some of the
 company's sales volume is not included. It seems to us that Guoxuan is yet to
 have meaningful presence in NMC battery space.
 According to the company, there is no issue with NMC production or clients, but
 it takes time to make commercial sales and it wants to ensure there are no safety
 issues.
-Page 4
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
-Automobiles & Components
-Guoxuan High-Tech
-Figure 6: China NMC installation ranking (9M18)
-Figure 7: China total EV battery installation ranking, incl.
-NMC, LFP, etc (9M18)
-Ranking
-Company
-Installation (Mwh)
-Market share
-1
-CATL
-6,848
-41.4%
-2
-BYD
-3,915
-23.7%
-3
-Funeng
-1,301
-7.9%
-4
-Lishen
-704
-4.3%
-5
-BAK
-696
-4.2%
-6
-Wanxiang
-326
-2.0%
-7
-Jeve
-311
-1.9%
-8
-Coslight
-284
-1.7%
-9
-Zhihang
-275
-1.7%
-10
-First Battery
-205
-1.2%
-Guoxuan
-71
-0.4%
-Ranking
-Company
-Installation (Mwh)
-Market share
-1
-CATL
-11,830
-41.1%
-2
-BYD
-6,910
-24.0%
-3
-Guoxuan
-1,380
-4.8%
-4
-Funeng
-1,300
-4.5%
-5
-Lishen
-1,100
-3.8%
-6
-BAK
-780
-2.7%
-7
-EVE
-610
-2.1%
-8
-National Battery
-410
-1.4%
-9
-Wanxiang
-390
-1.4%
-10
-Penghui
-330
-1.1%
-Source: RealLi, GGII, Deutsche Bank
 Source: GGII, Deutsche Bank
-Cutting target price to RMB13.3, and maintaining Hold
 We lower our 2018 and 2019 earnings estimates by 12% and 10%, respectively,
 to factor in weaker-than-expected shipments and ASP pressure. Changes in key
 metrics are summarized below.
-Figure 8: Key operating metrics summary
-Battery operation
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Sales volume
-New
-Gwh
-0.42
-               
-1.00
-               
-2.01
-               
-2.48
-               
-4.13
-               
-6.74
-               
-9.72
-               
-Old
-Gwh
-0.42
-               
-1.00
-               
-2.01
-               
-2.48
-               
-4.49
-               
-7.37
-               
-9.74
-               
-% change
-0%
--8%
--8%
-0%
-ASP
-New
-RMB/Ah
-7.52
-               
-6.85
-               
-6.58
-               
-5.41
-               
-4.49
-               
-3.87
-               
-3.35
-               
-Old
-RMB/Ah
-7.52
-               
-6.85
-               
-6.58
-               
-5.41
-               
-4.56
-               
-3.96
-               
-3.38
-               
-% change
-0%
--2%
--2%
--1%
-COGS
-New
-RMB/Ah
-3.69
-               
-3.51
-               
-3.38
-               
-3.26
-               
-2.94
-               
-2.66
-               
-2.39
-               
-Old
-RMB/Ah
-3.69
-               
-3.51
-               
-3.38
-               
-3.26
-               
-2.94
-               
-2.68
-               
-2.37
-               
-% change
-0%
-0%
--1%
-1%
-Margin
-New
-RMB/Ah
-3.84
-               
-3.34
-               
-3.21
-               
-2.15
-               
-1.55
-               
-1.20
-               
-0.96
-               
-Old
-RMB/Ah
-3.84
-               
-3.34
-               
-3.21
-               
-2.15
-               
-1.62
-               
-1.27
-               
-1.01
-               
-% change
-0%
--5%
--5%
--5%
 Source: Deutsche Bank estimate, company info
-Figure 9: Forecast change summary
-2018E
-2019E
-2020E
-DBe New
-DBe Old
-Change
-DBe New
-DBe Old
-Change
-DBe New
-DBe Old
-Change
-Revenue (RMB m)
-6,352
-6,970
--9%
-8,599
-9,480
--9%
-10,409
-10,547
--1%
-OP (RMB m)
-1,045
-1,149
--9%
-1,229
-1,349
--9%
-1,518
-1,557
--3%
-NP (RMB m)
-871
-990
--12%
-1,011
-1,118
--10%
-1,261
-1,297
--3%
-EPS
-0.77
-0.87
--12%
-0.89
-0.98
--10%
-1.11
-1.14
--3%
-ROE
-10%
-11%
--1%
-11%
-12%
--1%
-12%
-12%
-0%
 Source: Deutsche Bank estimate
-Deutsche Bank AG/Hong Kong
-Page 5
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
-Figure 10: DBe vs. consensus
-2018E
-2019E
-2020E
-DBe
-Consensus 
-Dbe/Con.
-DBe
-Consensus 
-Dbe/Con.
-DBe
-Consensus 
-Dbe/Con.
-Revenue 
-6,352
-6,025
-105%
-8,599
-7,872
-109%
-10,409
-9,277
-112%
-Gross profit
-2,143
-2,012
-106%
-2,650
-2,467
-107%
-2,978
-2,744
-109%
-Operating income
-1,045
-838
-125%
-1,229
-991
-124%
-1,518
-1,159
-131%
-NPAT
-871
-862
-101%
-1,011
-949
-107%
-1,261
-1,049
-120%
 Source: Deutsche Bank estimate, Bloomberg Finance LP
 Our target price of RMB13.3 is based on target multiple at 15x 2019E P/E, which
 is in line with the battery industry average. The company is currently trading at
 16x/14x 2018/19 DBe EPS, and we believe the valuation is fair. We thus maintain
 Hold.
-Figure 11: Guoxuan 12-month forward PE
-10
-15
-20
-25
-30
-35
-40
-Sep-15
-Oct-15
-Nov-15
-Dec-15
-Jan-16
-Feb-16
-Mar-16
-Apr-16
-May-16
-Jun-16
-Jul-16
-Aug-16
-Sep-16
-Oct-16
-Nov-16
-Dec-16
-Jan-17
-Feb-17
-Mar-17
-Apr-17
-May-17
-Jun-17
-Jul-17
-Aug-17
-Sep-17
-Oct-17
-Nov-17
-Dec-17
-Jan-18
-Feb-18
-Mar-18
-Apr-18
-May-18
-Jun-18
-Jul-18
-Aug-18
-Sep-18
-Oct-18
-PE
-Average PE
-+1 sd
--1 sd
-PE (x)
 Source: Deutsche Bank, Bloomberg Finance LP
-Figure 12: Battery industry peers comps
-Company
-Ticker
-Rating
-Listing 
-Curr
-Price local 
-(list curr)
-Target Price
-M. cap 
-(US$m)
-PE (x)
-PB (x)
-EPS Growth %
-(rec)
-ROE %
-2018
-2019
-2020
-2018
-2019
-2020
-2018
-2019
-2020
-2018
-2019
-2020
-Guoxuan High-Tech
-002074.SZ
-Hold
-CNY
-12.2
-13.3
-1,983
-         
-15.9
-      
-13.7
-      
-11.0
-      
-1.5
-        
-1.4
-        
-1.3
-        
-4.0
-        
-16.1
-      
-24.7
-      
-10.1
-      
-10.7
-      
-12.1
-      
-Battery - A shares
-CATL
-300750.SZ
-Buy
-CNY
-74.5
-79.0
-23,442
-       
-46.1
-      
-33.9
-      
-26.2
-      
-4.8
-        
-4.2
-        
-3.6
-        
-13.2
-      
-35.8
-      
-29.5
-      
-12.1
-      
-13.3
-      
-14.9
-      
-BYD-A
-002594.SZ
-Hold
-CNY
-46.8
-38.9
-18,089
-       
-35.0
-      
-30.5
-      
-26.8
-      
-2.2
-        
-2.1
-        
-1.9
-        
-(10.2)
-     
-14.7
-      
-13.6
-      
-6.4
-        
-7.0
-        
-7.4
-        
-Sunwoda Electrical
-300207.SZ
-Buy
-CNY
-8.4
-14.5
-1,865
-         
-14.9
-      
-13.3
-      
-10.1
-      
-3.1
-        
-2.6
-        
-2.1
-        
-29.4
-      
-12.0
-      
-32.2
-      
-22.9
-      
-21.1
-      
-22.9
-      
-EVE Energy
-300014.SZ
-CNY
-12.1
-1,485
-         
-20.5
-      
-15.9
-      
-12.9
-      
-3.0
-        
-2.5
-        
-2.2
-        
-25.7
-      
-29.1
-      
-23.3
-      
-14.2
-      
-16.0
-      
-17.0
-      
-Camel group
-601311.SS
-CNY
-9.6
-1,170
-         
-13.2
-      
-11.0
-      
-8.8
-        
-1.4
-        
-1.2
-        
-1.1
-        
-32.5
-      
-19.8
-      
-25.6
-      
-10.7
-      
-11.5
-      
-12.6
-      
-Desay-A
-000049.SZ
-CNY
-27.2
-800
-            
-15.2
-      
-12.3
-      
-10.5
-      
-3.2
-        
-2.6
-        
-2.0
-        
-24.8
-      
-23.6
-      
-16.8
-      
-23.6
-      
-22.1
-      
-21.2
-      
-Guangzhou Great Power
-300438.SZ
-CNY
-15.5
-624
-            
-12.1
-      
-9.7
-        
-7.7
-        
-1.9
-        
-1.6
-        
-1.3
-        
-41.3
-      
-24.6
-      
-25.9
-      
-15.4
-      
-16.3
-      
-17.3
-      
-A share average
-22.4
-      
-18.1
-      
-14.7
-      
-2.8
-        
-2.4
-        
-2.0
-        
-22.4
-      
-22.8
-      
-23.9
-      
-15.0
-      
-15.3
-      
-16.2
-      
-Battery - Overseas
-Panasonic
-6752.T
-Hold
-JPY
-1,250
-1,450
-27,113
-       
-15.3
-      
-11.8
-      
-11.1
-      
-2.1
-        
-1.6
-        
-1.4
-        
-58.0
-      
-4.6
-        
-6.1
-        
-14.4
-      
-13.8
-      
-13.3
-      
-LG Chem
-051910.KS
-Buy
-KRW
-347,000
-400,000
-21,449
-       
-15.0
-      
-12.4
-      
-11.0
-      
-1.4
-        
-1.3
-        
-1.2
-        
-(10.3)
-     
-21.3
-      
-12.6
-      
-10.0
-      
-11.1
-      
-11.3
-      
-Samsung SDI
-006400.KS
-Buy
-KRW
-235,500
-299,000
-14,180
-       
-24.9
-      
-15.8
-      
-13.2
-      
-1.4
-        
-1.3
-        
-1.2
-        
-(0.9)
-       
-57.9
-      
-18.9
-      
-5.6
-        
-8.2
-        
-9.0
-        
-SK Innovation
-096770.KS
-KRW
-213,500
-17,286
-       
-9.1
-        
-8.4
-        
-7.5
-        
-1.0
-        
-0.9
-        
-0.8
-        
-(1.9)
-       
-9.0
-        
-11.7
-      
-11.1
-      
-11.2
-      
-11.4
-      
-Overseas average
-16.1
-      
-12.1
-      
-10.7
-      
-1.5
-        
-1.3
-        
-1.2
-        
-11.2
-      
-23.2
-      
-12.3
-      
-10.3
-      
-11.1
-      
-11.3
-      
-Total Average
-20.1
-      
-15.9
-      
-13.3
-      
-2.3
-        
-2.0
-        
-1.7
-        
-18.3
-      
-23.0
-      
-19.7
-      
-13.3
-      
-13.8
-      
-14.4
-      
 Source: Deutsche Bank, Bloomberg Finance LP
-Page 6
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
 Investment thesis
@@ -1419,660 +109,48 @@ Outlook
 Guoxuan is the third-largest EV lithium battery player in China, with c.5%
 EV lithium battery market share in terms of installation by 3Q18. We believe
 Guoxuan's aggressive capacity expansion and competitive advantages should
-help it to grow market share and make it one of the beneﬁciaries of the Chinese
+help it to grow market share and make it one of the beneficiaries of the Chinese
 government's target to put 5mn EV units on the road by end-2020. However,
 battery unit pricing decline and EV subsidy policy change may put pressure on
 its margin outlook. In addition, we are yet to see Guoxuan have meaningful entry
 into the NMC market. Hold.
 Valuation
 As Guoxuan has listed on the A-share market through a reverse IPO in 2015, we
-believe its historical P/E band may not reﬂect its future outlook. We adopt a 2019E
+believe its historical P/E band may not reflect its future outlook. We adopt a 2019E
 P/E multiple of 15x for the company, which we believe has factored in its growth
 trajectory and is in line with battery manufacturers' average.
 Risks
-Key industry up/downside risks: 1) signiﬁcant changes in the Chinese
+Key industry up/downside risks: 1) significant changes in the Chinese
 government's EV subsidy policy; 2) weaker/stronger-than-expected volume
 growth in the next three years; 3) quicker/slower-than-expected ASP drop or
 quicker/slower-than-expected cost cuts.
-Deutsche Bank AG/Hong Kong
-Page 7
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
-Model updated: 01 November 2018
-Running the numbers
-Asia
-China
 Automobiles & Components
 Guoxuan High-Tech
-Reuters: 002074.SZ
-Bloomberg: 002074 CS
+Reuters: 002074.SZ
+Bloomberg: 002074 CS
 Hold
-Price (1 Nov 18)
-CNY 12.63
-Target Price
-CNY 13.30
-52 Week range
-CNY 10.53 - 31.53
-Market cap (m)
-CNYm 14,356
- USDm 2,059.3
 Company Profile
 Guoxuan High-Tech Co., Ltd develops, manufactures and sells
 lithium battery materials and lithium batteries. Its major products
 are lithium battery cells and lithium battery packs for electrical
 automotives.
-Price Performance
-Guoxuan High-Tech
-HANG SENG INDEX (Rebased)
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-Jan '18
-Jul '18
-0
-10
-20
-30
-40
-50
-Margin Trends
-EBITDA Margin
-EBIT Margin
-15
-16
-17
-18E
-19E
-20E
-10
-15
-20
-25
-30
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-15
-16
-17
-18E
-19E
-20E
-0
-25
-50
-75
-100
-125
-150
-5
-10
-15
-20
-25
-30
-35
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-15
-16
-17
-18E
-19E
-20E
--30
--20
--10
-0
-10
 Sharon Ding
-+852 2203 5716
-sharon.ding@db.com
-Fiscal year end 31-Dec
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Financial Summary
-DB EPS (CNY)
-0.67
-1.18
-0.74
-0.77
-0.89
-1.11
-Reported EPS (CNY)
-0.67
-1.18
-0.74
-0.77
-0.89
-1.11
-DPS (CNY)
-0.15
-0.15
-0.10
-0.10
-0.12
-0.15
-BVPS (CNY)
-3.4
-4.5
-7.2
-7.9
-8.7
-9.6
-Weighted average shares (m)
-876
-876
-1,137
-1,137
-1,137
-1,137
-Average market cap (CNYm)
-25,156
-30,216
-34,601
-14,356
-14,356
-14,356
-Enterprise value (CNYm)
-24,419
-30,343
-32,982
-14,617
-14,755
-14,642
-Valuation Metrics
-P/E (DB) (x)
-43.0
-29.3
-41.3
-16.5
-14.2
-11.4
-P/E (Reported) (x)
-43.0
-29.3
-41.3
-16.5
-14.2
-11.4
-P/BV (x)
-10.78
-6.90
-3.07
-1.60
-1.46
-1.31
-FCF Yield (%)
-nm
-nm
-nm
-nm
-nm
-1.9
-Dividend Yield (%)
-0.5
-0.4
-0.3
-0.8
-1.0
-1.2
-EV/Sales (x)
-8.9
-6.4
-6.8
-2.3
-1.7
-1.4
-EV/EBITDA (x)
-31.7
-22.2
-35.7
-10.4
-8.3
-6.6
-EV/EBIT (x)
-34.8
-24.5
-49.6
-14.0
-12.0
-9.6
-Income Statement (CNYm)
-Sales revenue
-2,745
-4,758
-4,838
-6,352
-8,599
-10,409
-Gross profit
-1,220
-2,202
-1,843
-2,143
-2,650
-2,978
-EBITDA
-769
-1,368
-923
-1,400
-1,769
-2,218
-Depreciation
-67
-128
-258
-355
-540
-700
-Amortisation
-0
-0
-0
-0
-0
-0
-EBIT
-702
-1,239
-665
-1,045
-1,229
-1,518
-Net interest income(expense)
-0
-0
-0
-0
-0
-0
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
--22
--42
-330
--29
--36
--31
-Profit before tax
-680
-1,197
-994
-1,016
-1,193
-1,488
-Income tax expense
-93
-165
-154
-142
-179
-223
-Minorities
-3
-2
-2
-2
-3
-3
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-585
-1,031
-838
-871
-1,011
-1,261
-DB adjustments (including dilution)
-0
-0
-0
-0
-0
-0
-DB Net profit
-585
-1,031
-838
-871
-1,011
-1,261
-Cash Flow (CNYm)
-Cash flow from operations
-520
-1,275
--100
-932
-1,217
-1,120
-Net Capex
--558
--1,307
--1,357
--2,514
--1,255
--850
-Free cash flow
--38
--33
--1,457
--1,582
--39
-270
-Equity raised/(bought back)
-1,493
-205
-3,536
-0
-0
-0
-Dividends paid
--37
--195
--223
--118
--137
--171
-Net inc/(dec) in borrowings
--396
-743
-840
-800
--600
--400
-Other investing/financing cash flows
-109
--176
--226
-0
-0
-0
-Net cash flow
-1,132
-544
-2,471
--900
--776
-0
-Change in working capital
--193
-40
--1,393
--110
--211
--759
-Balance Sheet (CNYm)
-Cash and other liquid assets
-2,011
-2,306
-4,799
-3,376
-2,600
-2,299
-Tangible fixed assets
-1,550
-2,817
-4,004
-6,162
-6,877
-7,027
-Goodwill/intangible assets
-307
-529
-562
-562
-562
-562
-Associates/investments
-0
-0
-0
-0
-0
-0
-Other assets
-2,846
-4,563
-7,732
-9,702
-11,015
-12,670
-Total assets
-6,713
-10,215
-17,097
-19,802
-21,054
-22,558
-Interest bearing debt
-1,248
-2,408
-3,155
-3,611
-2,969
-2,552
-Other liabilities
-2,424
-3,846
-5,687
-7,181
-8,197
-9,025
-Total liabilities
-3,671
-6,255
-8,842
-10,792
-11,167
-11,577
-Shareholders' equity
-3,016
-3,936
-8,230
-8,983
-9,858
-10,948
-Minorities
-26
-24
-25
-27
-30
-33
-Total shareholders' equity
-3,042
-3,960
-8,255
-9,010
-9,887
-10,981
-Net debt
--763
-102
--1,644
-235
-369
-254
-Key Company Metrics
-Sales growth (%)
-nm
-73.3
-1.7
-31.3
-35.4
-21.0
-DB EPS growth (%)
-na
-76.4
--37.3
-4.0
-16.1
-24.7
-EBITDA Margin (%)
-28.0
-28.7
-19.1
-22.0
-20.6
-21.3
-EBIT Margin (%)
-25.6
-26.0
-13.7
-16.5
-14.3
-14.6
-Payout ratio (%)
-22.5
-12.8
-13.6
-13.6
-13.6
-13.6
-ROE (%)
-24.6
-29.7
-13.8
-10.1
-10.7
-12.1
-Capex/sales (%)
-20.3
-27.5
-28.1
-39.6
-14.6
-8.2
-Capex/depreciation (x)
-8.3
-10.2
-5.3
-7.1
-2.3
-1.2
-Net debt/equity (%)
--25.1
-2.6
--19.9
-2.6
-3.7
-2.3
-Net interest cover (x)
-nm
-nm
-nm
-nm
-nm
-nm
 Source: Company data, Deutsche Bank estimates
-Page 8
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
-Automobiles & Components
-Guoxuan High-Tech
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Guoxuan High-Tech
-002074.SZ
-12.17 (CNY) 31 Oct 2018
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors . 
-Other information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than 
-the primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at https://research.db.com/
-Research/Disclosures/CompanySearch. Aside from within this report, important risk and conﬂict disclosures can also be found at https://research.db.com/Research/Topics/Equities?
-topicId=RB0002. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Sharon Ding
+compensation for providing a specific recommendation or view in this report. Sharon Ding
 Historical recommendations and target price. Guoxuan High-Tech (002074.SZ)
-(as of 11/01/2018)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-1
-2
-3
-4
-Jan '16
-Jul '16
-Jan '17
-Jul '17
-Jan '18
-Jul '18
-0.00
-10.00
-20.00
-30.00
-40.00
-50.00
-1.
-06/01/2016
-Buy, Target Price Change CNY 40.40 James Kan
-3.
-08/31/2017
-Hold, Target Price Change CNY 31.30 James Kan
-2.
-12/01/2016
-Downgraded to Hold, Target Price Change CNY 32.70
-James Kan
-4.
-07/03/2018
-Hold, Target Price Change CNY 15.58 Neil Sun**
-Deutsche Bank AG/Hong Kong
-Page 9
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -2081,319 +159,255 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Page 10
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of those websites.
-??
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
-??
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies, perspectives
-or otherwise. Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes
-on. Analysts are paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives
+or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes
+on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
 banking, trading and principal trading revenues.
-??
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Some trade
-ideas for equities are listed as Catalyst Calls on the Research Website ( https://research.db.com/Research/ ) , and can be
-found on the general coverage list and also on the covered company ’ s page. A Catalyst Call represents a high-conviction
-belief by an analyst that a stock will outperform or underperform the market and/or a speciﬁed sector over a time frame of
+found on the general coverage list and also on the covered company ’s page. A Catalyst Call represents a high-conviction
+belief by an analyst that a stock will outperform or underperform the market and/or a specified sector over a time frame of
 no less than two weeks and no more than three months. In addition to Catalyst Calls, analysts may occasionally discuss
 with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or
 events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the frequency of changes in
-market conditions and in both general and company-speciﬁc economic prospects make it diﬃcult to update research at
-deﬁned intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
+market conditions and in both general and company-specific economic prospects make it difficult to update research at
+defined intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
 and the majority of reports are published at irregular intervals. This report is provided for informational purposes only and
-does not take into account the particular investment objectives, ﬁnancial situations, or needs of individual clients. It is not
-an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments or to participate in any particular trading strategy.
-Target prices are inherently imprecise and a product of the analyst ’ s judgment. The ﬁnancial instruments discussed
+does not take into account the particular investment objectives, financial situations, or needs of individual clients. It is not
+an offer or a solicitation of an offer to buy or sell any financial instruments or to participate in any particular trading strategy.
+Target prices are inherently imprecise and a product of the analyst ’s judgment. The financial instruments discussed
 in this report may not be suitable for all investors, and investors must make their own informed investment decisions.
-Prices and availability of ﬁnancial instruments are subject to change without notice, and investment transactions can lead
-to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial instrument is denominated in a currency other
-than an investor's currency, a change in exchange rates may adversely aﬀect the investment. Past performance is not
+Prices and availability of financial instruments are subject to change without notice, and investment transactions can lead
+to losses as a result of price fluctuations and other factors. If a financial instrument is denominated in a currency other
+than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not
 necessarily indicative of future results. Performance calculations exclude transaction costs, unless otherwise indicated.
 Unless otherwise indicated, prices are current as of the end of the previous trading session and are sourced from local
 exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from Deutsche Bank, subject companies, and
 other parties.
-??
 The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
-organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect to
-our research are available on our website ( https://research.db.com/Research/ ) under Disclaimer.
-??
-Deutsche Bank AG/Hong Kong
-Page 11
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
 Automobiles & Components
 Guoxuan High-Tech
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed-rate instruments (thus receiving these cash
-ﬂows), increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus
-cause a loss. The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the
-higher will be the loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus
+cause a loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the
+higher will be the loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the
 most common adverse macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client
-segmentation, regulation (including changes in assets holding limits for diﬀerent types of investors), changes in tax
-policies, currency convertibility (which may constrain currency conversion, repatriation of proﬁts and/or liquidation of
-positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of ﬁxed-
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to
-FX depreciation, or to speciﬁed interest rates – these are common in emerging markets. The index ﬁxings may – by
+segmentation, regulation (including changes in assets holding limits for different types of investors), changes in tax
+policies, currency convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of
+positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by
 construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
-the proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed
-to a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. Funding in a currency that diﬀers
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed
+to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency that differs
 from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks typical to
 options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
 appropriateness of these products for use by investors depends on the investors' own circumstances, including their
 tax position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should
-take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the contents of this
+take expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
 publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
 high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
 amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not
 suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp . If you are unable to
 access the website, please contact your Deutsche Bank representative for a copy of this important document.
-??
 Participants in foreign exchange transactions may incur risks arising from several factors, including the following: (i)
-exchange rates can be volatile and are subject to large ﬂuctuations; (ii) the value of currencies may be aﬀected by numerous
+exchange rates can be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous
 market factors, including world and national economic, political and regulatory events, events in equity and debt markets
 and changes in interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls,
-which could aﬀect the value of the currency. Investors in securities such as ADRs, whose values are aﬀected by the
-currency of an underlying security, eﬀectively assume currency risk.
-?
+which could affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the
+currency of an underlying security, effectively assume currency risk.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in
-the investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at
-https://research.db.com/Research/ on each company ’ s research page. Investors are strongly encouraged to review this
+the investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
 information before investing.
-Deutsche Bank (which includes Deutsche Bank AG, its branches and aﬃliated companies) is not acting as a ﬁnancial
-adviser, consultant or ﬁduciary to you or any of your agents (collectively, “You” or “Your”) with respect to any information
+Deutsche Bank (which includes Deutsche Bank AG, its branches and affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you or any of your agents (collectively, "You" or "Your") with respect to any information
 provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, Deutsche Bank is not
 acting as your impartial adviser, and does not express any opinion or recommendation whatsoever as to any strategies,
 products or any other information presented in the materials. Information contained herein is being provided solely on the
 basis that the recipient will make an independent assessment of the merits of any investment decision, and it does not
 constitute a recommendation of, or express an opinion on, any product or service or any trading strategy.
-The information presented is general in nature and is not directed to retirement accounts or any speciﬁc person or account
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
 type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
-Your decision. The information we provide is being directed only to persons we believe to be ﬁnancially sophisticated,
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
 who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
-and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of its products
-Page 12
-Deutsche Bank AG/Hong Kong
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
 Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
 and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
 that you inform us immediately.
 In July 2018, Deutsche Bank revised its rating system for short term ideas whereby the branding has been changed to
-Catalyst Calls (“CC”) from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
-been made consistent with the categories used by Analysts globally; and the eﬀective time period for CCs has been
+Catalyst Calls ("CC") from SOLAR ideas; the rating categories for Catalyst Calls originated in the Americas region have
+been made consistent with the categories used by Analysts globally; and the effective time period for CCs has been
 reduced from a maximum of 180 days to 90 days.
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations.
-??
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
 Financial Supervisory Authority.
-??
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571
 shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional Information"
 section shall apply to the fullest extent permissible by local laws and regulations, including without limitation the Code of
 Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
-??
 India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
-oﬃce at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 7180
 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
 nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
 Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
 no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
 administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL
-is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its aﬃliate(s)
+is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s)
 may have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
-“Shareholdings” section in the Annual Report at: https://www.db.com/ir/en/annual-reports.htm .
-??
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
 on a 12-month forecast period..
-??
-Deutsche Bank AG/Hong Kong
-Page 13
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
 Korea: Distributed by Deutsche Securities Korea Co.
-??
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
 Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
-Branch (One Raﬄes Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
 of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as deﬁned in the
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the
 applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
-??
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
 independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
 may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within
 the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available only to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
-??
 Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
 appraisal or evaluation activity requiring a license in the Russian Federation.
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the ﬁnancial services activities that fall
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
 within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
 activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
 Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
-Deutsche Bank AG. Related ﬁnancial products or services are available only to Professional Clients, as deﬁned by the
+Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as defined by the
 Dubai Financial Services Authority.
-??
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the
-Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-speciﬁc
-research disclosures and related information at https://australia.db.com/australia/content/research-information.html
-Where research refers to any particular ﬁnancial product recipients of the research should consider any product disclosure
+Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific
+Where research refers to any particular financial product recipients of the research should consider any product disclosure
 statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
 the product. In preparing this report, the primary analyst or an individual who assisted in the preparation of this report
-has likely been in contact with the company that is the subject of this research for conﬁrmation/clariﬁcation of data,
+has likely been in contact with the company that is the subject of this research for confirmation/clarification of data,
 facts, statements, permission to use company-sourced material in the report, and/or site-visit attendance. Without prior
 approval from Research Management, analysts may not accept from current or potential Banking clients the costs of
 travel, accommodations, or other expenses incurred by analysts attending site visits, conferences, social events, and the
 like. Similarly, without prior approval from Research Management and Anti-Bribery and Corruption (“ABC”) team, analysts
 may not accept perks or other items of value for their personal use from issuers they cover.
-??
-Page 14
-Deutsche Bank AG/Hong Kong
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
-2 November 2018
 Automobiles & Components
 Guoxuan High-Tech
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2018 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 15
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Pam Finelli
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
 Steve Pollard
+Pam Finelli
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Research
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Kinner Lakhani
-Head of EMEA
-Equity Research
 Joe Liew
+Global Head of
+Head of EMEA
 Head of APAC
+Debt Research
+Equity Research
 Equity Research
 Jim Reid
-Global Head of
-Thematic Research
 Francis Yared
-Global Head of
-Rates Research
 George Saravelos
-Head of FX Research
 Peter Hooper
 Global Head of
+Global Head of
+Head of FX Research
+Global Head of
+Thematic Research
+Rates Research
 Economics Research
 Andreas Neubauer
-Head of Germany Research
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Germany Research
 and QIS Research
 International Production Locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500
-Provided for the exclusive use of Research Research at Provisional Access on 2018-11-02T06:45+00:00. DO NOT REDISTRIBUTE

@@ -1,377 +1,245 @@
- 
-⚫ 
-⚫ 
-⚫ 
-⚫ 
-⚫ 
-⚫ 
-⚫ 
-
- 
-
- 
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-57819.28 
-56434.52 
-60461.06 
-63829.00 
-1.95 
--2.39 
-7.13 
-5.57 
-6643.03 
-7141.26 
-7407.21 
-7607.61 
--0.92 
-7.50 
-3.72 
-2.71 
-37.48 
-38.75 
-37.12 
-35.93 
-0.83 
-0.89 
-0.93 
-0.95 
-17.27 
-16.06 
-15.49 
-15.08 
-1.85 
-1.57 
-1.50 
-1.44 
-1.98 
-2.03 
-1.90 
-1.80 
- 
- 
-29842.63 
-27590.71 
-27638.46 
-30935.35 
-57819.28 
-56434.52 
-60461.06 
-63829.00 
-10170.22 
-6696.54 
-4962.05 
-6485.32 
-36150.29 
-34565.40 
-38019.74 
-40896.90 
-15833.62 
-16769.78 
-18146.04 
-19542.95 
-1068.48 
-1044.04 
-1088.30 
-1148.92 
-1011.55 
-1065.99 
-1158.84 
-1241.12 
-59.80 
-53.61 
-54.41 
-54.25 
-153.81 
-147.07 
-161.77 
-174.01 
-1894.94 
-1832.63 
-1951.29 
-2047.22 
-1681.30 
-1920.30 
-2217.82 
-2499.25 
-3412.05 
-3377.35 
-3272.26 
-3120.11 
-992.13 
-991.05 
-991.94 
-992.69 
--238.41 
--201.48 
--190.01 
--195.74 
-266694.05 
-283607.06 
-295064.16 296994.19 
-2.71 
-0.00 
-0.00 
-0.00 
-9984.85 
-9808.78 
-9644.77 
-9474.74 
-1086.27 
-846.52 
-906.92 
-957.43 
-197245.20 
-201408.24 
-209694.34 203690.41 
-15823.98 
-15999.30 
-16592.52 
-17144.73 
-6384.92 
-6289.92 
-6184.92 
-6069.92 
-30.33 
-30.00 
-30.00 
-30.00 
-53079.08 
-66100.13 
-69540.13 
-77759.13 
-148.33 
-100.00 
-100.00 
-100.00 
-296536.69 
-311197.78 
-322702.62 327929.54 
-15705.99 
-15929.30 
-16522.52 
-17074.73 
-56565.00 
-55346.94 
-58517.72 
-62158.06 
-3681.22 
-3002.67 
-3114.50 
-3303.96 
-9278.64 
-9278.64 
-9278.64 
-9278.64 
-12024.76 
-12926.62 
-13408.03 
-13770.77 
-7151.30 
-8161.28 
-9188.10 
-10224.22 
-5381.73 
-5785.36 
-6000.82 
-6163.16 
-40135.06 
-37907.02 
-40050.98 
-42655.19 
-6643.03 
-7141.26 
-7407.21 
-7607.61 
-130898.01 
-130071.06 
-129071.06 121071.06 
-28756.13 
-31437.21 
-32832.67 
-33054.07 
-117794.36 
-117794.36 
-117794.36 
-111794.36 
-0.83 
-0.89 
-0.93 
-0.95 
-13103.65 
-12276.70 
-11276.70 
-9276.70 
-187463.01 
-185418.00 
-187588.78 183229.12 
-47086.90 
-52872.26 
-58873.08 
-65036.24 
-1.95%
--2.39%
-7.13%
-5.57%
-61986.78 
-72907.51 
-76240.76 
-79664.18 
-12.64%
-1.11%
-3.71%
-3.33%
-296536.69 
-311197.78 
-322702.62 327929.54 
--0.92%
-7.50%
-3.72%
-2.71%
-37.48%
-38.75%
-37.12%
-35.93%
-11.49%
-12.65%
-12.25%
-11.92%
-24657.13 
-28873.19 
-30554.23 
-30993.18 
-10.72%
-9.79%
-9.72%
-9.55%
-12024.76 
-12926.62 
-13408.03 
-13770.77 
-5.29%
-5.64%
-5.61%
-5.66%
-10421.78 
-12130.56 
-13037.89 
-12859.22 
-63.22%
-59.58%
-58.13%
-55.87%
-4427.68 
-3529.91 
-3372.71 
-3194.54 
-133.97%
-115.64%
-108.20%
-94.45%
--1086.27 
--846.52 
--906.92 
--957.43 
-0.53 
-0.50 
-0.47 
-0.50 
--1821.05 
-545.93 
-1220.96 
-1702.63 
-0.48 
-0.45 
-0.42 
-0.44 
-690.23 
-586.69 
-421.56 
-423.45 
-0.20 
-0.19 
-0.19 
-0.20 
--22650.14 
--28551.52 
--23842.04 
--14091.18 
-3.87 
-3.46 
-3.46 
-3.39 
--21666.43 
--28362.16 
--24763.95 
--15063.62 
-5.81 
-4.51 
-4.38 
-4.21 
-790.00 
-0.00 
-0.00 
-0.00 
-0.83 
-0.89 
-0.93 
-0.95 
--1773.71 
--189.36 
-921.92 
-972.43 
-3.08 
-3.61 
-3.82 
-3.87 
--3152.14 
--4276.89 
--8446.68 
--15378.73 
-7.74 
-9.11 
-9.52 
-9.95 
--133.49 
-0.00 
-0.00 
-0.00 
-17.27 
-16.06 
-15.49 
-15.08 
-4122.21 
-0.00 
-0.00 
--6000.00 
-1.85 
-1.57 
-1.50 
-1.44 
--7140.86 
--4276.89 
--8446.68 
--9378.73 
-9.39 
-8.28 
-7.95 
-7.60 
--1167.19 
--3473.68 
--1734.48 
-1523.27 
-1.98 
-2.03 
-1.90 
-1.80 
- 
- 
+në.Pin
+" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "Rail" a "
+a "- " " " " " " " " " " " " " " " " " "
+- "E"- """" a """ "" "" "" "" "" "" "" "" "" "" "
+a.""
+男子の「『中では、では、では、では、では、では、では、では、では、では、
+『『『『『『『『『『『『『『『『『『『
+· " " " " " " " " " " " " " " " " " " "
+a "" " a "" " " " " " " " " " " " " " "
+” “『『一記』『一記』『一記』『一記』
+a-"-"
+- """" - "" " " " " " " " " " " " " " "
+në.Pari⊩ani.
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+『上電子』『上電子』『上間では、「上間では、「上間では、では、では、では、では、では、では、では、では、では、
+.Page air.Page air.Page air.
+a."."
+" "E " " " " " " " " " " " " " " " " "
+" "" " " " " " " " " " " " " " " " " "
+” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Parie” “Pa
+- "" a "" " " " " " " " " " " " " " " "
+事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事事
+” - "B · "B · "B · "B · "B · "B · "B · "B
+- "E"- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+a."-"
+ª "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a" − "a"
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+”上零号。Tin Bin in in in in in in in in in in in in i
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+.Paperalenerierenerenerenerenerenerenerenerenere
+a "- " " " " " " " " " " " " " " " " " "
+" " a "i" " " " " " " " " " " " " " " "
+.""
+『『『『『『『『『『『『『『『『『『『
+事事情報では、『記事情報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報報
+『『『『『『『『『『『『『『『『『『『
+” ——” ——” ——” ——” ——” ——” ——” ——” ——” —
+a."" " " " " " " " " " " " " " " " " " "
+『『『『『『『『『『『『『『『『『『『
+· ""
+『『『上『上『上『上『上『上『上『上『上
+喜市。『『『『arina na na na na na na na na na na na na n
+『『『記事では『記事では『記事で『記事で『記事で『記事で『記事で『記事で『記事で『記事で『と『とにりにりにりにりにりにりにりにりにりに
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+" a "lie " " " " " " " " " " " " " " " " " " "
+a."-"
+a "" " " " " " " " " " " " " " " " " "
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『 『『 『 『 『 『 『 『 『 『 『 『 『 『 『 『 『 『 『
+nënënënënënënënënënënënënënënënënënënë
+” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Par” “Pa
+事事。『上間では、では、では、では、では、では、では、では、では、では、
+Barlier — in length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en length en
+事。『正明』『正明』『正明』『正明』
+n. Farin e Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a
+në.Papile në lë në për jër lë në lë në lë në lë në lë në lë në lë në lë në lë në lë në lë në lë në lë në lë në lë
+në.Pin li e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e lin e
+” ——”『ina Pina” ——”『ina” ——”
+· ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+事事。『上電子』『上電子』『上電子』『上電子』
+” ——” ——” ——” ——” ——” ——” ——” ——” ——” —
+” = a” = ” = ” = ” = ” = ” = ” = ” = ” =
+事。『正では、では、では、では、では、では、では、では、では、では、
+”『Pina”『『hilla”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”『Pina”
+a. The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state
+" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E
+” - Range in line a line in line line line line line line l
+" "E" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line" a" line"
+· " " " " " " " " " " " " " " " " " " "
+a, Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pi
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+a."."
+a."."E" ""
+" " " " " " " " " " " " " " " " " " "
+· " " " " " " " " " " " " " " " " " " "
+『『『『『『『『『『『『『『『『『『『
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+事事。『正明』『上記』『上記』『上記』『上記』『上記』『上記』『上記』『上記
+事。『『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事』『記事。『記事』『記事。『記事『記事『記事『記事『記事『記事『記
+事品・Tarin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin larin
+事下。『正『上記』『正』『正』
+事事。『上記』：「上記」：「上記」：「上記」：「上記」：「上記」：「上記」：「上記」：「上記」
+" " " " " " " " " " " " " " " " " " "
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+浩ー電子。『中では、では、では、では、では、では、では、では、では、では、
+若原。
+若一点，
+一点，
+一点，
+一点，
+一点，
+一点，
+一点，
+一点，
+n Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a Termina a
+n The The The The The The The The The The
+ahe ahe ahe ahe ahe ahe ahe ahe ahe ahe
+但，E————————————————————————————————————
+所产。那里，那里看一个里。那里，那里看一个里。
+" " a Tie" " " " " " " " " " " " " " " " " " "
+事事。『中では『中では『中では『中では『中では『中では『中では『中では
+事情・『事情・『事情・『事情・『事情・『事情・『事情・『事情・『
+The arm. I have no like to like the like to like the like the like the like the like the like the like the like the like the like the like the like the like the like the like the like the like the like the like the like th
+見事日本日本日本日本日本日本日本日本日本日本日本日本日本
+a "- " " " " " " " " " " " " " " " " " "
+現る。現事事事。記事事事。
+n lie ner lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener lener l
+· " " " " " " " " " " " " " " " " " " "
+本『上電市に市に市に市に市に市に市に市に市にりにり
+· ""
+a ""
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+"
+a"⊩ "
+" " " " " " " " " " " " " " " " " " "
+a-Ën-en-li-li-li-li-li-li-li-li-li-li-li-li-li-
+a""
+a-"E-"-"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+-
+ā-ïe--li---
+a "- " " " " " " " " " " " " " " " " " "
+a-ï⊩"a-"
+- "- "- "- "- "- "- "- "- "- "- "- "- "-
+- "" a "" e "" e "" e "" e "" e "" e ""
+- " " " " " " " " " " " " " " " " " " "
+n. −a. −a. −a. −a. −a. −a. −a. −a. −a. −a
+a "- " " " " " " " " " " " " " " " " " "
+· " " " " " " " " " " " " " " " " " " "
+n. "E "" a "" e "" " " " " " " " " " " " " "
+a "------------------------------------
+- "I" - R
+”『ine
+a" - " " " " " " " " " " " " " " " " " "
+a"⊩ "a"n" a"n" a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n" "a"n
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "" - "" " " " " " " " " " " " " " " "

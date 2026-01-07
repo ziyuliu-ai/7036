@@ -1,184 +1,95 @@
-ICBC (1398 HK  601398 CH BUY)
-Diversified Financials Sector
-ICBC (1398 HK  601398 CH)
+ICBC (1398 HK / 601398 CH)
+Company Report
 Earnings outlook to mildly improve
- Expect topline growth to turn positive in FY24E assume NIM pressure to reduce
- Asset quality outlook less of a concern expect mild improvement in risk buffers
- Reiterate BUY on improving earnings outlook Our GGM- based HA shr TPs imply
-target 24E PB of 045x055x
-Rating (H) BUY
-Rating (A) BUY
-TP (H) HK 491
-TP (A) RMB 561
-Analyst  Johannes Au
-Topline growth to gradually recover in FY24E Despite the weak topline momentum in
-9M23 our base case suggests ICBCs topline growth to turn positive starting from FY24E
-pressure will lessen from FY24E partly also supported by ICBCs solid balance sheet
-growth as a result of backing up real economy For FY23E NIM would be down 32bps
-YoY but the reduction would be much smaller at 9bps and 7bps YoY for FY24E and
-FY25E overall we expect NIM to be 144%-160% over FY23E-25E This would support
-FY25E considering the policy stance directing big banks to reduce fee rates as well as
-the unfavorable capital market and slow recovery in retail consumptions Overall we
-anticipate a topline CAGR of 29% over FY22-25E
-Asset quality outlook to stay benign With the rollout of supportive measures for the
-real estate sector we expect the banks asset quality outlook to remain benign in
-FY23E-25E Its NPL ratio would be in the range of 131%-135% which is lower than the
-system average of 161% as of Sep 2023 according to the NAFR The declining NPL ratio
-would support risk buffers and our base case estimates ICBCs provisioning ratio and
-provision coverage ratio to be in the range of 298%-310% and 22074%-23664% in
-FY23E-25E Assuming Chinas macro growth to recover steadily without any new major
-risk outbreaks we project provision expenses to expand at 13% CAGR over FY22-25E
+Rating (H): BUY
+Rating (A): BUY
+Expect topline growth to turn positive in FY24E; assume NIM pressure to reduce
+Project net fee income to decline in FY23E-24E and recover in FY25E
+Asset quality outlook less of a concern; expect mild improvement in risk buffers
+Reiterate BUY on improving earnings outlook. Our GGM- based H/A shr TPs imply
+Analyst: Johannes Au
+target 24E P/B of 0.45x/0.55x
+Topline growth to gradually recover in FY24E. Despite the weak topline momentum in
+9M23, our base case suggests ICBC's topline growth to turn positive starting from FY24E.
+With interest rate adjustment in residential mortgage completed in 4Q23, we believe NIM
+pressure will lessen from FY24E, partly also supported by ICBC's solid balance sheet
+growth as a result of backing up real economy. For FY23E, NIM would be down 32bps
+YoY; but the reduction would be much smaller at 9bps and 7bps YoY for FY24E and
+FY25E; overall, we expect NIM to be 1.44%-1.60% over FY23E-25E. This would support
+a NII CAGR of 3.8% in FY22-25E. We assume net fee income growth to turn positive in
+FY25E, considering the policy stance directing big banks to reduce fee rates, as well as
+the unfavorable capital market and slow recovery in retail consumptions. Overall, we
+anticipate a topline CAGR of 2.9% over FY22-25E.
+restriction
+Asset quality outlook to stay benign. With the rollout of supportive measures for the
+Source(s): Bloomberg, ABCI Securities
+real estate sector, we expect the bank's asset quality outlook to remain benign in
+estimates
+FY23E-25E. Its NPL ratio would be in the range of 1.31%-1.35%, which is lower than the
+system average of 1.61% as of Sep 2023, according to the NAFR. The declining NPL ratio
+would support risk buffers, and our base case estimates ICBC's provisioning ratio and
+provision coverage ratio to be in the range of 2.98%-3.10% and 220.74%-236.64% in
+FY23E-25E. Assuming China's macro growth to recover steadily without any new major
+risk outbreaks, we project provision expenses to expand at 1.3% CAGR over FY22-25E.
 (Continue next page)
 Results and Valuation
-FY ended Dec 31
-Revenue (RMB mn)
-Chg (%YoY)
-Net profit (RMB mn)
-Chg (%YoY)
-Chg (%YoY)
-BVPS (RMB)
-Chg (%YoY)
-PE (x)  H-shr
-PB (x)  H-shr
-PE (x)  A-shr
-PB (x)  A-shr
-Yield (%) H-shr
-Yield (%) A-shr
-Note HKDCNY107
-Net profit Net profit attributable to equity holders of the Company
-Source(s) Company Bloomberg ABCI Securities estimates
-Price (HA shr)
-Est share price return (HA
-Est dividend yield (HA shr)
-Est total return (HA shr)
-Last Rating TP (HA shr)
-BUY HK632
-BUY RMB651
-Previous Report Date
-Source(s) Bloomberg ABCI Securities
-52Wk HL (HK) (H shr)
-52Wk HL (RMB) (A shr)
-Total issued shares (mn)
-Issued H shr (mn)
-Issued A shr (mn)
-Market cap (HK mn)
-H-shr market cap (HK mn)
-A-shr market cap (HK mn)
-3-mth avg daily turnover
-(HK mn) (H shr)
-3-mth avg daily turnover
-(RMB mn) (A shr)
-Major shareholder(s) (%)
-Source(s) Bloomberg ABCI Securities
-ICBC (1398 HK  601398 CH BUY)
-Diversified Financials Sector
-Maintain BUY on improving earnings outlook By lowering our FY23E24E earnings by
-698%1030% our base case suggests a 32% CAGR over FY22-25E By lowering its
-sustainable ROAE and raise our COE assumptions in the GGM model we adjust our HA
-TPs by -223% and -138% to HK 491 and RMB 561 The TPs imply 045x055x target
-FY24E PB Reiterate BUY on ICBCs market leading position and improving earnings
-Risk Factors 1) Potential asset quality deterioration in specific sectors and geographical
-areas 2) Persisting NIM pressure 3) Slow recovery in net fee growth 4) Reducing ROAA
-and ROAE 5) High social responsibility given its status as a market leader
-Exhibit 1 Major changes in forecasts
-Net profit attributable
-Key indicators (%)
-Source(s) Company ABCI Securities estimates
-Exhibit 2 Changes of GGM assumptions
-TP (HKDRMB)
-Sustainable ROE (%)
-Lower ROAE assumptions
-Adjust beta and risk premium with reference to
-Factor in lower long-term growth assumptions
-with reference to BS and earnings growth
-Target 24E PB (x)
-Source(s) Company ABCI Securities estimates
-ICBC (1398 HK  601398 CH BUY)
-Diversified Financials Sector
-FY Ended Dec 31 (RMB mn)
-Pre-provision operating profit
-Impairment loans losses
-Net profit attributable to equity holders
-Dividend to other capital instrument holders
-Net profit attributable to ordinary
-Growth (%)
-Pre-provision operating profit
-Impairment loans losses
-Net profit attributable to equity holders
-Dividend to other capital instrument holders
-Net profit attributable to ordinary
-Per share (RMB)
-Key ratio (%)
-Return on average assets
-Return on average equity
-Note 1 Individual items may not sum to total due to rounding difference
-Source(s) Company ABCI Securities estimates
-ICBC (1398 HK  601398 CH BUY)
-Diversified Financials Sector
-Consolidated balance sheet
-As of Dec 31 (RMB mn)
-Cash  balance with central banks
-Due from FIs and repo
-Investment securities
-Net loans and advances
-Total interest earning assets
-Property and equipment
-Other non-int earn assets
-Total interest bearing liabilities
-Deferred tax liabilities
-Other equity instruments
-Shareholders equity
-Growth (%)
-Cash  balance with central banks
-Due from FIs and repo
-Investment securities
-Net loans and advances
-Total interest earning assets
-Property and equipment
-Other non-int earn assets
-Total interest bearing liabilities
-Deferred tax liabilities
-Other equity instruments
-Shareholders equity
-Key ratio (%)
-Provision to total loans
-Provision coverage ratio
-Note 1 Individual items may not sum to total due to rounding difference
-Source(s) Company ABCI Securities estimates
-ICBC (1398 HK  601398 CH BUY)
-Diversified Financials Sector
+Maintain BUY on improving earnings outlook. By lowering our FY23E/24E earnings by
+6.98%/10.30%, our base case suggests a 3.2% CAGR over FY22-25E. By lowering its
+sustainable ROAE and raise our COE assumptions in the GGM model, we adjust our H/A
+TPs by -22.3% and -13.8% to HK$ 4.91 and RMB 5.61. The TPs imply 0.45x/0.55x target
+FY24E P/B. Reiterate BUY on ICBC's market leading position and improving earnings
+outlook.
+Risk Factors: 1) Potential asset quality deterioration in specific sectors and geographical
+areas; 2) Persisting NIM pressure; 3) Slow recovery in net fee growth; 4) Reducing ROAA
+and ROAE; 5) High social responsibility given its status as a market leader.
+Exhibit 2: Changes of GGM assumptions
+Financial statements
+Consolidated income statement
+ABCI SECURITIES COMPANY LIMITED
+Disclosures
 Analyst Certification
-I AU Yu Hang Johannes being the person primarily responsible for the content of this research report in whole or in part
+I, AU Yu Hang Johannes, being the person primarily responsible for the content of this research report, in whole or in part,
+hereby certify that all of the views expressed in this report accurately reflect my personal view about the subject company or
+companies and its or their securities. I also certify that no part of my compensation was, is, or will be, directly or indirectly,
+related to the specific recommendations or views expressed in this report. I and/or my associates have no financial
+interests in relation to the listed company (ies) covered in this report, and I and/or my associates do not serve as officer(s)
+of the listed company (ies) covered in this report.
 Disclosures of Interests
-ABCI Securities Company Limited andor its affiliates within the past 12 months have investment banking relationship with
+ABCI Securities Company Limited and/or its affiliates, within the past 12 months, have investment banking relationship with
+ICBC.
 Definition of equity rating
-Stock return rate Market return rate (9%)
-- Market return rate (-9%)  Stock return rate  Market return rate (9%)
-Stock return  - Market return (-9%)
-Notes Stock return rate expected percentage change of share price plus gross dividend yield over the next 12 months
-Market return rate average market return rate since 2006 (For reference HSI total return index 2006-22 averaged at 84%)
-Time horizon of share price target 12-month
-Stock rating however may vary from the stated framework due to factors including but not limited to corporate governance
-market capitalization historical price volatility relative to corresponding benchmark index average daily turnover of the
+Notes: Stock return rate: expected percentage change of share price plus gross dividend yield over the next 12 months
+Market return rate: average market return rate since 2006 (For reference: HSI total return index 2006-22 averaged at 8.4%)
+Time horizon of share price target: 12-month
+Stock rating, however, may vary from the stated framework due to factors including but not limited to: corporate governance,
+market capitalization, historical price volatility relative to corresponding benchmark index, average daily turnover of the
+stock relative to market capitalization of the stock, competitive advantages in corresponding industry, etc.
+Disclaimers
 This report is for our clients only and is for distribution only under such circumstances as may be permitted by applicable
-law It has no regard to the specific investment objectives financial situation or particular needs of any specific recipient It
+law. It has no regard to the specific investment objectives, financial situation or particular needs of any specific recipient. It
 is published solely for informational purposes and is not to be construed as a solicitation or an offer to buy or sell any
-securities or related financial instruments No representation or warranty either expresses or implied is provided in relation
-recipients as a substitute for the exercise of their own judgment Any opinions expressed in this report are subject to
+securities or related financial instruments. No representation or warranty, either expresses or implied, is provided in relation
+to the accuracy, completeness or reliability of the information contained herein. This report should not be regarded by
+recipients as a substitute for the exercise of their own judgment. Any opinions expressed in this report are subject to
 change without notice and may differ or be contrary to opinions expressed by other business areas as a result of using
-different assumptions and criteria The analysis contained herein is based on numerous assumptions Different
-assumptions could result in materially different results The analyst(s) responsible for the preparation of this report may
-interact with trading desk personnel sales personnel and other constituencies for the purpose of gathering synthesizing
-and interpreting market information ABCI Securities Company Limited is under no obligation to update or keep current the
-information contained herein ABCI Securities Company Limited relies on information barriers to control the flow of
-information contained in one or more areas within ABCI Securities Company Limited into other areas units groups or
-Company Limited as a whole of which investment banking sales and trading are a part  The securities described herein
-may not be eligible for sale in all jurisdictions or to certain categories of investors The price and value of the investments
-instrument mentioned in this report For investment advice trade execution or other enquiries clients should contact their
-local sales representative Neither ABCI Securities Company Limited nor any of its affiliates directors employees or agents
-accepts any liability for any loss or damage arising out of the use of all or any part of this report Additional information will
-be made available upon request
+different assumptions and criteria. The analysis contained herein is based on numerous assumptions. Different
+assumptions could result in materially different results. The analyst(s) responsible for the preparation of this report may
+interact with trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing
+and interpreting market information. ABCI Securities Company Limited is under no obligation to update or keep current the
+information contained herein. ABCI Securities Company Limited relies on information barriers to control the flow of
+information contained in one or more areas within ABCI Securities Company Limited, into other areas, units, groups or
+affiliates of ABCI Securities Company Limited. The compensation of the analyst who prepared this report is determined
+exclusively by research management and senior management (not including investment banking). Analyst compensation is
+not based on investment banking revenues, however, compensation may relate to the revenues of ABCI Securities
+Company Limited as a whole, of which investment banking, sales and trading are a part. The securities described herein
+may not be eligible for sale in all jurisdictions or to certain categories of investors. The price and value of the investments
+referred to in this research and the income from them may fluctuate. Past performance is not necessarily indicative of future
+results. Foreign currency rates of exchange may adversely affect the value, price or income of any security or related
+instrument mentioned in this report. For investment advice, trade execution or other enquiries, clients should contact their
+local sales representative. Neither ABCI Securities Company Limited nor any of its affiliates, directors, employees or agents
+accepts any liability for any loss or damage arising out of the use of all or any part of this report. Additional information will
+be made available upon request.
 Copyright 2023 ABCI Securities Company Limited
-No part of this material may be (i) copied photocopied or duplicated in any form by any means or (ii) redistributed without
-the prior written consent of ABCI Securities Company Limited
-Office address ABCI Securities Company Limited 13F Fairmont House 8 Cotton Tree Drive Central Hong Kong
+No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without
+the prior written consent of ABCI Securities Company Limited.
+Office address: ABCI Securities Company Limited, 13/F Fairmont House, 8 Cotton Tree Drive, Central, Hong Kong.

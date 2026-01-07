@@ -1,504 +1,460 @@
-Valuation  Risks
-Price at 13 Sep 2017 (CNY)
-Price target - 12mth (CNY)
-52-week range (CNY)
-13 September 2017
-Luoyang HQ visit rearms earnings
-uptrend raising target price
-Order momentum picking up Buy on multi-year earnings upcycle ahead
-We visited Jonhon Optronics Luoyang headquarters last week and came back
-with positive takeaways Despite lagging revenue conversion in 3Q the strong
-pick-up in new orders along with new capacity expansion should accelerate
-earnings growth to 26% yoy in 2H17 (vs 11% in 1H17) and 30% starting
-2018 With similar drivers ahead the 2013-15 earnings upcycle - when the stock
+Rating
+Date
+Company
+JONHON Optronic
+Buy
+Forecast Change
+Asia
+China
+Reuters
+Bloomberg
+Exchange
+Ticker
+Industrials
+002179.SZ
+002179 CH
+SHZ
+Manufacturing
+Luoyang HQ visit reaffirms earnings
+uptrend; raising target price
+Valuation & Risks
+Nick Zheng, CFA
+Order momentum picking up; Buy on multi-year earnings upcycle ahead
+Research Analyst
+We visited Jonhon Optronic's Luoyang headquarters last week and came back
+with positive takeaways. Despite lagging revenue conversion in 3Q, the strong
+pick-up in new orders, along with new capacity expansion, should accelerate
+Sky Hong, CFA
+earnings growth to 26% yoy in 2H17 (vs. 11% in 1H17) and 30%+ starting
+Research Analyst
+2018. With similar drivers ahead, the 2013-15 earnings upcycle - when the stock
 outperformed its benchmark (SZCOMP) by 100% on strong earnings growth -
-looks likely to be repeated We raise our target price by 23% to Rmb43 and
-maintain Buy
+looks likely to be repeated. We raise our target price by 23% to Rmb43 and
+maintain Buy.
 Strong new order pipeline
 Management guided for a back-end loaded 2017 at the beginning of this year and
-expects growth for defence and NEV to speed up in 2H Since the beginning of
-bit later than expected due to military reform (hence organizational reshue) and
-stricter subsidy scheme (hence reevaluation of subsidy eligibility required) Given
-capacity constraints (for NEV) and defense customers delivery schedules we
+expects growth for defence and NEV to speed up in 2H. Since the beginning of
+3Q, the company has indeed been seeing a strong new order pipeline from its
+customers for both segments though the actual signing of contracts may come a
+Price/price relative
+bit later than expected due to military reform (hence organizational reshuffle) and
+stricter subsidy scheme (hence reevaluation of subsidy eligibility required). Given
+capacity constraints (for NEV) and defense customers' delivery schedules, we
 believe deliveries could be very skewed towards 4Q17 with revenue conversion
-of some orders potentially delayed to 1H18
-Multi-year earnings upcycle in sight with upside potential
-During a 5-year plan (FYP) period Jonhons earnings growth tends to pick up from
-the third year and accelerate sharply into the nal two years With accelerating
-weapon modernization next-generation mobile network (5G in this FYP period)
-vehicle electrication and new capacity expansion we project a 33% earnings
-CAGR over 2017-19 (vs a 29% CAGR over 2012-14) Taking into account the
-high base our current projection assumes constant growth acceleration (30%
-) towards 2020 but we see upside potential from 1) successful development
-of integrated systems for defense applications (high value and high margin)
-2) overseas expansion 3) new products (eg high-speed backplane connector
-liquid cooling system etc) 4) further penetration into Teslas supply chain These
-additional growth drivers if they materialize could potentially push 2019-20
-Lowering earnings but lifting target price by 23% risks
-Our earnings estimate cuts of 4-6% for 2017-19 reect 1) delayed revenue
-driven by slower-than-expected Huawei business and 3) better-than-expected
-Nick Zheng CFA
-Sky Hong CFA
-3500 to 4300 
-Sales (FYE)
-157 to 167 
-Net prot (FYE)
-9231 to 8654 
-Source Deutsche Bank
-Priceprice relative
+of some orders potentially delayed to 1H18.
+- JONHON Optronic
 Shenzhen Index (Rebased)
-Performance (%)
-Source Deutsche Bank
-Key indicators (FY1)
-Net debtequity (%)
-Book valueshare (CNY)
-Pricebook (x)
-Net interest cover (x)
-Operating prot margin (%)
-Source Deutsche Bank
-Deutsche Bank AGHong Kong
-aware that the rm may have a conict of interest that could aect the objectivity of this report Investors should consider
-this report as only a single factor in making their investment decision DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1 MCI (P) 083042017
-Distributed on 13092017 120307 GMT
-0bed7b6cf11c
-13 September 2017
-margin performance in 1H17 driven by stringent cost control and favorable
-product mix Despite the earnings decrease we raise our target price by 23% to
-Rmb43 as we roll forward our valuation time frame We base our target price on
-a 2018E PE of 30x supported by an earnings CAGR of 33% over 2017-19E Key
-risks further delay in military orders and higher-than-expected opex
-Year End Dec 31
-Sales (CNYm)
-EBITDA (CNYm)
-Reported NPAT (CNYm)
-DB EPS FD(CNY)
-OLD DB EPS FD(CNY)
-DB EPS growth (%)
-EVEBITDA (x)
-Deutsche Bank AGHong Kong
-13 September 2017
+Multi-year earnings upcycle in sight, with upside potential
+During a 5-year plan (FYP) period, Jonhon's earnings growth tends to pick up from
+the third year and accelerate sharply into the final two years. With accelerating
+weapon modernization, next-generation mobile network (5G in this FYP period),
+vehicle electrification and new capacity expansion, we project a 33% earnings
+CAGR over 2017-19 (vs. a 29% CAGR over 2012-14). Taking into account the
+high base, our current projection assumes constant growth acceleration (30%
++) towards 2020 but we see upside potential from: 1) successful development
+of integrated systems for defense applications (high value and high margin);
+overseas expansion;new products (e.g., high-speed backplane connector,
+liquid cooling system, etc.); 4) further penetration into Tesla's supply chain. These
+earnings growth to a level comparable to that of 2014-15 (+39-67%).
+Lowering earnings but lifting target price by 23%; risks
+Our earnings estimate cuts of 4-6% for 2017-19 reflect: 1) delayed revenue
+recognition for NEV and defense business for 2017; 2) lower telecom growth,
+driven by slower-than-expected Huawei business; and 3) better-than-expected
+Deutsche Bank AG/Hong Kong
+Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
+this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
+ARE LOCATED IN APPENDIX 1. MCI (P) 083/04/2017.
+margin performance in 1H17, driven by stringent cost control and favorable
+product mix. Despite the earnings decrease, we raise our target price by 23% to
+Rmb43 as we roll forward our valuation time frame. We base our target price on
+a 2018E P/E of 30x, supported by an earnings CAGR of 33% over 2017-19E. Key
+risks: further delay in military orders and higher-than-expected opex.
 1H17 results review
 NP largely in line despite slower-than-expected top-line growth
-Figure 1 Quarterly GP margin
-reached historical high in 2Q17
-GP margin (%)
-Source Company data Deutsche Bank
-1H net prot of Rmb442m was up 11% yoy on attish top-line growth (1% yoy)
-1H NP achieved 48% of our previous full-year estimate largely in line with the
-historical average
+1H net profit of Rmb442m was up 11% yoy on flattish top-line growth (+1% yoy).
+1H NP achieved 48% of our previous full-year estimate, largely in line with the
+historical average.
+The slow top-line growth was mainly due to the high comparison base as 1) some
 rush military orders placed towards end-2015 were delivered in 1H16 (when sales
-rose 36% yoy) and 2) strong NEV momentum was sustained into 1H16 before
-cooling down in 2H16 on subsidy uncertainties
-GP margin expansion of c3ppt yoy to 368% (vs 2017DBe 338%) is better
-than expected driven by stringent cost control and favorable product mix (higher
-contribution from high-margin products)
-For 2Q alone sales reverted to positive growth (5% yoy) from a 3% drop in 1Q
-with margin further expanded to 382% vs 352% in 1Q NP growth accelerated
-slightly to 12% as strong margin expansion was partly oset by higher opex
-(13% yoy mainly driven by RD expenses)
-Figure 2 Sales reverted to positive growth in 2Q17
-Figure 3 Earnings growth managed to stay at double
-digits in 2Q17 on margin expansion
-Sales (Rmb mn)
-Sales growth (%)
-Net profit (Rmb mn)
-Net profit growth (%)
-Source Company data Deutsche Bank
-Source Company data Deutsche Bank
-Figure 4 Jonhon Optronic - Revenue
-breakdown by end-market (2017E)
-Source Deutsche Bank estimates
-While no detailed breakdown by end-market was disclosed at the investor
+rose 36% yoy), and 2) strong NEV momentum was sustained into 1H16 before
+cooling down in 2H16 on subsidy uncertainties.
+GP margin expansion of c.3ppt yoy to 36.8% (vs. 2017DBe: 33.8%) is better
+than expected, driven by stringent cost control and favorable product mix (higher
+contribution from high-margin products).
+For 2Q alone, sales reverted to positive growth (+5% yoy) from a 3% drop in 1Q,
+with margin further expanded to 38.2% vs. 35.2% in 1Q. NP growth accelerated
+slightly to 12% as strong margin expansion was partly offset by higher opex
+(+13% yoy mainly driven by R&D expenses).
+Defense still held up firm; NEV weak as expected while telecom disappointed
+While no detailed breakdown by end-market was disclosed, at the investor
 meeting management mentioned that the defense segment still managed to
-grow albeit at a slower pace due to the high base By end-market aviation
-shipbuilding and weaponry still saw double-digit growth while electronics and
-nuclear recorded negative growth
-Sales of NEV segment were down c50% yoy in 1H largely in line with the
-growth with strong export growth (40% yoy) largely oset by slow domestic
-slowdown from 25% in 2015-2016 On the other hand Jonhon has successfully
-Deutsche Bank AGHong Kong
-13 September 2017
-Samsung and Nokia which drove a 100% yoy increase in its overseas orders in
-1H The rising contribution of export sales also bodes well for protability as its
+grow, albeit at a slower pace due to the high base. By end-market, aviation,
+shipbuilding, and weaponry still saw double-digit growth while electronics and
+nuclear recorded negative growth.
+Sales of NEV segment were down c.50% yoy in 1H, largely in line with the
+industry trend. On the other hand, the telecom business recorded only single-digit
+growth with strong export growth (+40% yoy) largely offset by slow domestic
+business. We note that Huawei's telecom/datacom equipment business (carrier
+and enterprise network on a combined basis) was up only 5% yoy in 1H, a visible
+slowdown from 25%+ in 2015-2016. On the other hand, Jonhon has successfully
+penetrated into the supply chains of foreign telecom equipment players, including
+Samsung and Nokia, which drove a 100% yoy increase in its overseas orders in
+1H. The rising contribution of export sales also bodes well for profitability as its
+GPM is higher at 25-30% (vs. 10-20% for domestic telecom business).
 Order momentum picking up in 2H
-order pipeline from its customers for both defense and NEV segments While the
-trend has been well anticipated the timing of orders was actually a bit later than
+Since the beginning of 3Q, the company has indeed been seeing a strong new
+order pipeline from its customers for both defense and NEV segments. While the
+trend has been well anticipated, the timing of orders was actually a bit later than
+the company had expected.
+For defense, the delay was mainly due to military reform, which has
 Military reform and stricter NEV subsidy
+resulted in an organizational reshuffle within the weapon procurement
 scheme are the two causes for the delay in
-contract signing
-For defense the delay was mainly due to military reform which has
-resulted in an organizational reshue within the weapon procurement
-department
-For NEV the delay was mainly because of the additional time it takes for
+department.
+contract signing.
+For NEV, the delay was mainly because of the additional time it takes for
 customers to go through the re-evaluation process in order to be eligible
-for incentives as a stricter subsidy scheme is imposed
+for incentives as a stricter subsidy scheme is imposed.
 Given capacity constraints and defense
-customers delivery schedules we believe
+The outcome is that customers would place orders very close to end-3Q (vs.
+customers' delivery schedules, we believe
+early-3Q normally in the past). For NEV, its NEV production line is already
 deliveries could be very skewed towards
+operating at full utilization now, which means capacity constraints could impact
 4Q17 with revenue conversion of some
-orders potentially delayed to 1H18
-early-3Q normally in the past) For NEV its NEV production line is already
-operating at full utilization now which means capacity constraints could impact
 revenue conversion heading into 4Q with deliveries of some orders potentially
-delayed to 1H18 Similarly for defense due to customers strict delivery
-schedules we believe a risk of delayed revenue conversion (into 1H18) also exists
-Taking into account the risks above we are now expecting 26% earnings growth
-in 2H17 lowered from our previous forecast of 43% growth In particular we
-expect growth to signicantly accelerate starting 4Q with strong momentum likely
-persisting into 2018
-Figure 5 Sales growth reached inection point in 1H17
-and is set to accelerate
-Figure 6 We expect earnings to grow 26% yoy in 2H17
-(vs 11% yoy in 1H17)
-Sales (Rmb mn)
-Sales growth (%)
-Net profit (Rmb mn)
-Net profit growth (%)
-Source Company data Deutsche Bank estimates
-Source Company data Deutsche Bank estimates
-Deutsche Bank AGHong Kong
-13 September 2017
+orders potentially delayed to 1H18.
+delayed to 1H18. Similarly, for defense, due to customers' strict delivery
+schedules, we believe a risk of delayed revenue conversion (into 1H18) also exists.
+Taking into account the risks above, we are now expecting 26% earnings growth
+in 2H17, lowered from our previous forecast of 43% growth. In particular, we
+expect growth to significantly accelerate starting 4Q with strong momentum likely
+persisting into 2018.
 The 2013-15 earnings upcycle will likely be repeated in
 Growth of defense segment is typically back-
-end loaded within a ve-year-plan period
-The defense sector is largely policy driven and heavily planned by the government
-As a result Jonhons defense business has showed a clear pattern within a ve-
-year-plan period The rst two years are typically slow in terms of growth as new
-equipment models are mostly at the RD stage Growth normally speeds up from
-the third year towards the nal two years (ie the fourth and the fth year) on
-accelerating new equipment procurement by the military
-impact on Jonhons earnings
-growth leveraging on Huaweis successful overseas expansion and through its
-this FYP period we expect similar story to play out in the nal two years driven
-by the 5G network build-out
+The defense sector is largely policy driven and heavily planned by the government.
+end loaded within a five-year-plan period.
+As a result, Jonhon's defense business has showed a clear pattern within a five-
+year-plan period. The first two years are typically slow in terms of growth as new
+equipment models are mostly at the R&D stage. Growth normally speeds up from
+the third year towards the final two years (i.e., the fourth and the fifth year) on
+accelerating new equipment procurement by the military.
+Telecom capex cycle also has a significant
+Similarly, its telecom business is also subject to the telecom capex cycle
+impact on Jonhon's earnings.
+although in recent years the company managed to achieve counter-cyclical
+growth, leveraging on Huawei's successful overseas expansion and through its
+penetration into foreign telecom equipment players' supply chains. In the previous
+FYP period, the 4G capex upcycle boosted its telecom business in 2014-2015. In
+this FYP period, we expect similar story to play out in the final two years, driven
+by the 5G network build-out.
 We see very similar growth drivers in
+In short, we believe similar growth drivers could continue to play out in the final
+2018-20 compared to 2013-15, the earnings
+three years of this FYP period, including: 1) accelerating weapon modernization; 2)
 upcycle in the previous FYP period
-In short we believe similar growth drivers could continue to play out in the nal
-three years of this FYP period including 1) accelerating weapon modernization 2)
-next-generation mobile network build-out and 3) strong NEV sales These positive
-drivers along with a similar capacity expansion pace (Luoyang Phase II in 2014
-vs Luoyang Phase III in 2019) should drive a multi-year earnings uplift towards
+next-generation mobile network build-out; and 3) strong NEV sales. These positive
+vs. Luoyang Phase III in 2019), should drive a multi-year earnings uplift towards
 We see upside potential to our current
+Taking into account the high base, our current projections assume a constant
 projections if these additional growth drivers
-materialize
-Taking into account the high base our current projections assume a constant
-growth acceleration (30%) towards 2020 but we see upside potential from
+growth acceleration (30%+) towards 2020 but we see upside potential from:
+materialize.
 1) successful development of integrated systems for defense applications (high
-value and high margin) 2) overseas expansion 3) new products (eg high-speed
-backplane connector liquid cooling system etc) and 4) further penetration into
-Teslas supply chain These additional growth drivers if they materialize could
-(39-67%)
+value and high margin); 2) overseas expansion; 3) new products (e.g., high-speed
+backplane connector, liquid cooling system, etc.); and 4) further penetration into
+Tesla's supply chain. These additional growth drivers, if they materialize, could
+(+39-67\%).
 We believe the 2013-15 earnings upcycle
-will likely be repeated in 2018-20
-Figure 7 The 2013-15 earnings upcycle will likely be repeated in 2018-20
-Net profit growth (%)
-12th FYP period (2011-15)
-13th FYP period (2016-20)
-Similar growth drivers
-1) Accelerating weapon modernization
-2) Next generation mobile network
-3) Accelerating vehicle electrification
-4) New capacity expansion
-Source Company data Deutsche Bank estimates
-Deutsche Bank AGHong Kong
-13 September 2017
-Earnings revisions valuation and risks
-Our earnings cuts of 4-6% for 2017-19 factor in 1) delayed revenue recognition for
-by slower-than-expected Huawei business and 3) better-than-expected margin
-performance in 1H17 driven by stringent cost control and favorable product mix
-Figure 8 Summary of earnings revisions
-Non-aviation defense
-GP margin (%)
-Expense ratio (%)
-RD expenses
-Non-RD admin expenses
-Impairment loss of assets
-Non-operating expenses
-Source Deutsche Bank estimates
-Despite the cut to earnings estimates we raise our target price by 23% to Rmb43
-as we roll forward our valuation time frame We base our target price on a 2018E
-PE of 30x supported by an earnings CAGR of 33% over 2017-19E
-Deutsche Bank AGHong Kong
-13 September 2017
-Figure 9 Jonhon Optronic  one-year forward PE
-Figure 10 Jonhon Optronic  one-year forward PB vs
-1yr fwd PE (x)
-1yr fwd PB (x)
-1yr fwd ROE (RHS %)
-Source Company data Bloomberg Finance LP Deutsche Bank estimates
-Source Company data Bloomberg Finance LP Deutsche Bank estimates
-Key downside risks include 1) an unexpected slowdown in Chinas weapon
+will likely be repeated in 2018-20.
+Deutsche Bank AG/Hong Kong
+Earnings revisions, valuation and risks
+Earnings revisions
+Our earnings cuts of 4-6% for 2017-19 factor in: 1) delayed revenue recognition for
+NEV and defense business for 2017; 2) lower growth for telecom business, driven
+by slower-than-expected Huawei business; and 3) better-than-expected margin
+performance in 1H17, driven by stringent cost control and favorable product mix.
+Source: Deutsche Bank estimates
+Valuation
+as we roll forward our valuation time frame. We base our target price on a 2018E
+P/E of 30x, supported by an earnings CAGR of 33% over 2017-19E.
+Risks
+Key downside risks include: 1) an unexpected slowdown in China's weapon
+spending; 2) intensifying competition from electronic component suppliers of
 other Chinese defense groups or potential new non-SOE entrants as a result of the
-promotion of military-civil integration 3) an unexpected increase in raw material
-costs and 4) slower-than-expected market share expansion in civil markets
-Deutsche Bank AGHong Kong
-13 September 2017
-Model updated 10 September 2017
-Reuters 002179SZ
-Bloomberg 002179 CH
-Price (13 Sep 17)
-52 Week range
-CNY 2720 - 3563
-Market cap (m)
-CNYm 26997
-USDm 41324
-JONHON Optronic headquartered in Luoyang Henan Province
+promotion of military-civil integration; 3) an unexpected increase in raw material
+costs; and 4) slower-than-expected market share expansion in civil markets.
+JONHON Optronic
+Reuters: 002179.SZ
+Bloomberg: 002179 CH
+Buy
+Company Profile
+JONHON Optronic, headquartered in Luoyang, Henan Province,
 is one of the largest professional interconnect solution provider
 as well as the largest professional designer and manufacturer of
-products are widely used in aviation aerospace weapons navy
-transit new energy and other military and civil fields
-Shenzhen Index (Rebased)
-Growth  Profitibility
-Sales growth (LHS)
-Net debtequity (LHS)
-Net interest cover (RHS)
-Nick Zheng CFA
-Fiscal year end 31-Dec
-DB EPS (CNY)
-Reported EPS (CNY)
-BVPS (CNY)
-Weighted average shares (m)
-Average market cap (CNYm)
-Enterprise value (CNYm)
-PE (DB) (x)
-PE (Reported) (x)
-FCF Yield (%)
-Dividend Yield (%)
-EVSales (x)
-EVEBITDA (x)
-EVEBIT (x)
-Associatesaffiliates
-Exceptionalsextraordinaries
-DB adjustments (including dilution)
-Cash Flow (CNYm)
-Cash flow from operations
-Equity raised(bought back)
-Net inc(dec) in borrowings
-Other investingfinancing cash flows
-Change in working capital
-Balance Sheet (CNYm)
-Cash and other liquid assets
-Tangible fixed assets
-Goodwillintangible assets
-Associatesinvestments
-Interest bearing debt
-Shareholders equity
-Total shareholders equity
-Sales growth (%)
-DB EPS growth (%)
-EBITDA Margin (%)
-EBIT Margin (%)
-Payout ratio (%)
-Capexsales (%)
-Capexdepreciation (x)
-Net debtequity (%)
-Net interest cover (x)
-Source Company data Deutsche Securities estimates
-Deutsche Bank AGHong Kong
-13 September 2017
-Appendix 1
+optical, electrical and fluid connectors in China. The company's
+products are widely used in aviation, aerospace, weapons, navy,
+telecommunications, railway, power supply, electric, urban mass
+transit, new energy, and other military and civil fields.
+Nick Zheng, CFA
 Important Disclosures
-Other information available upon request
-Recent price
-3413 (CNY) 13 Sep 2017
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters Bloomberg and other vendors Other
-tabs Investors are strongly encouraged to review this information before investing
-Analyst Certication
-The views expressed in this report accurately reect the personal views of the undersigned lead analyst(s) about the
-subject issuer and the securities of the issuer In addition the undersigned lead analyst(s) has not and will not receive any
-(as of 09132017)
- Analyst is no longer at
-Buy Target Price Change CNY 5000 Nick Zheng CFA
-Buy Target Price Change CNY 4600 Nick Zheng CFA
-Buy Target Price Change CNY 4550 Nick Zheng CFA
-Buy Target Price Change CNY 3500 Nick Zheng CFA
-Buy Target Price Change CNY 5000 Nick Zheng CFA
-Deutsche Bank AGHong Kong
-13 September 2017
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
+compensation for providing a specific recommendation or view in this report. Nick Zheng
+Historical recommendations and target price. JONHON Optronic (002179.SZ)
+(as of 09/13/2017)
+Current Recommendations
+Buy
+Hold
+Sell
+Not Rated
+Suspended Rating
+Deutsche Bank
+11/25/2015
+Buy, Target Price Change CNY 50,00 Nick Zheng, CFA
+Buy, Target Price Change CNY 46,00 Nick Zheng, CFA
+04/04/2016
+Buy, Target Price Change CNY 45,50 Nick Zheng, CFA
+Buy, Target Price Change CNY 35,00 Nick Zheng, CFA
+Buy, Target Price Change CNY 50,00 Nick Zheng, CFA
+08/09/2016
 Equity rating dispersion and banking relationships
-Buy Based on a current 12- month view of total share-holder
-return (TSR  percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) 
-Sell Based on a current 12-month view of total share-holder
-Hold We take a neutral view on the stock 12-months out and
-supersede previously published research
-Deutsche Bank AGHong Kong
-13 September 2017
+Equity Rating Key
+Buy: Based on a current 12- month view of total share-holder
+return (TSR = percentage change in share price from current
+price to projected target price plus pro-jected dividend yield),
+we recommend that investors buy the stock.
+Sell: Based on a current 12-month view of total share-holder
+return, we recommend that investors sell the stock.
+Hold: We take a neutral view on the stock 12-months out and,
+based on this time horizon, do not recommend either a Buy
+or Sell.
+Newly issued research recommendations and target prices
+supersede previously published research.
+Manufacturing
+JONHON Optronic
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aliates (collectively
-Deutsche Bank) Though the information herein is believed to be reliable and has been obtained from public sources
-party websites in this report are provided for reader convenience only Deutsche Bank neither endorses the content nor
-is responsible for the accuracy or security controls of these websites
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report
-act as principal for its own account or as agent for another person
-Deutsche Bank may consider this report in deciding to trade as principal It may also engage in transactions for its
-own account or with customers in a manner inconsistent with the views taken in this research report Others within
-Deutsche Bank including strategists sales sta and other analysts may take views that are inconsistent with those taken
-in this research report Deutsche Bank issues a variety of research products including fundamental analysis equity-linked
-Deutsche Bank andor its aliates may also be holding debt or equity securities of the issuers it writes on Analysts are
-paid in part based on the protability of Deutsche Bank AG and its aliates which includes investment banking trading
-and principal trading revenues
-Opinions estimates and projections constitute the current judgment of the author as of the date of this report They do
-not necessarily reect the opinions of Deutsche Bank and are subject to change without notice Deutsche Bank provides
-have shorter-term trade ideas that are consistent or inconsistent with Deutsche Banks existing longer term ratings Trade
-by an analyst that a stock will outperform or underperform the market andor sector delineated over a time frame of no
-less than two weeks In addition to SOLAR ideas the analysts named in this report may from time to time discuss with
-our clients Deutsche Bank salespersons and Deutsche Bank traders trading strategies or ideas that reference catalysts
-or events that may have a near-term or medium-term impact on the market price of the securities discussed in this report
-which impact may be directionally counter to the analysts current 12-month view of total return or investment return as
-described herein Deutsche Bank has no obligation to update modify or amend this report or to otherwise notify a recipient
-dicult to update research at dened intervals Updates are at the sole discretion of the coverage analyst concerned or of
-the Research Department Management and as such the majority of reports are published at irregular intervals This report
-is provided for informational purposes only and does not take into account the particular investment objectives nancial
-situations or needs of individual clients It is not an oer or a solicitation of an oer to buy or sell any nancial instruments
-or to participate in any particular trading strategy Target prices are inherently imprecise and a product of the analyst  s
-judgment The nancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions Prices and availability of nancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price uctuations and other factors If a nancial
-instrument is denominated in a currency other than an investors currency a change in exchange rates may adversely
-aect the investment Past performance is not necessarily indicative of future results Unless otherwise indicated prices
-are current as of the end of the previous trading session and are sourced from local exchanges via Reuters Bloomberg
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conicts of interest with respect
-to our research is available on our website under Disclaimer found on the Legal tab
-Deutsche Bank AGHong Kong
-13 September 2017
-Macroeconomic uctuations often account for most of the risks associated with exposures to instruments that promise
-to pay xed or variable interest rates For an investor who is long xed rate instruments (thus receiving these cash ows)
-increases in interest rates naturally lift the discount factors applied to the expected cash ows and thus cause a loss
-The longer the maturity of a certain cash ow and the higher the move in the discount factor the higher will be the
-macroeconomic shocks to receivers But counterparty exposure issuer creditworthiness client segmentation regulation
-(including changes in assets holding limits for dierent types of investors) changes in tax policies currency convertibility
-(which may constrain currency conversion repatriation of prots andor the liquidation of positions) and settlement issues
-to macroeconomic shocks may be mitigated by indexing the contracted cash ows to ination to FX depreciation or to
-construction -- lag or mis-measure the actual move in the underlying variables they are intended to track The choice of the
-proper xing (or metric) is particularly important in swaps markets where oating coupon rates (ie coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for xed coupons It is also important to acknowledge
-that funding in a currency that diers from the currency in which coupons are denominated carries FX risk Naturally
-options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements
-Derivative transactions involve numerous risks including among others market counterparty default and illiquidity risk
-The appropriateness or otherwise of these products for use by investors is dependent on the investors own circumstances
-including their tax position their regulatory environment and the nature of their other assets and liabilities and as such
-investors should take expert legal and nancial advice before entering into any transaction similar to or inspired by the
-contents of this publication The risk of loss in futures trading and options foreign or domestic can be substantial As a
-result of the high degree of leverage obtainable in futures and options trading losses may be incurred that are greater
-than the amount of funds initially deposited Trading in options involves risk and is not suitable for all investors Prior
-to buying or selling an option investors must review the Characteristics and Risks of Standardized Options at http
-your Deutsche Bank representative for a copy of this important document
-Participants in foreign exchange transactions may incur risks arising from several factors including the following ( i)
-exchange rates can be volatile and are subject to large uctuations ( ii) the value of currencies may be aected by
-numerous market factors including world and national economic political and regulatory events events in equity and
-debt markets and changes in interest rates and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aect the value of the currency Investors in securities such as ADRs whose values are
-aected by the currency of an underlying security eectively assume currency risk
-Unless governing law provides otherwise all transactions should be executed through the Deutsche Bank entity in the
-investors home jurisdiction Aside from within this report important conict disclosures can also be found at https
-information before investing
-adviser consultant or duciary to you any of your agents (collectively You or Your) with respect to any information
-provided in the materials attached hereto Deutsche Bank does not provide investment legal tax or accounting advice
-as to any strategies products or any other information presented in the materials Information contained herein is being
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
+believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
+or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
+act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
+own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
+in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
+and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
+have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
+by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
+less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
+our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
+or events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
+which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
+described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
+thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the Research Department Management and as such the majority of reports are published at irregular intervals. This report
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
+or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst ^\prime s
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
+instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
+and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+to our research is available on our website under Disclaimer found on the Legal tab.
+Manufacturing
+JONHON Optronic
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates – these are common in emerging markets. It is important to note that the index fixings may -- by
+construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
+options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
+including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
+contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
+result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
+than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
+your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
+gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
+information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
-The information presented is general in nature and is not directed to retirement accounts or any specic person or account
-type and is therefore provided to You on the express basis that it is not advice and You may not rely upon it in making
-Your decision The information we provide is being directed only to persons we believe to be nancially sophisticated
-who are capable of evaluating investment risks independently both in general and with regard to particular transactions
-and investment strategies and who understand that Deutsche Bank has nancial interests in the oering of its products
-Deutsche Bank AGHong Kong
-13 September 2017
-and services If this is not the case or if You are an IRA or other retail investor receiving this directly from us we ask
-that you inform us immediately
-United States Approved andor distributed by Deutsche Bank Securities Incorporated a member of FINRA NFA and SIPC
-Analysts located outside of the United States are employed by non-US aliates that are not subject to FINRA regulations
-Germany Approved andor distributed by Deutsche Bank AG a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oce in Frankfurt am Main Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin Germany  s Federal
-Financial Supervisory Authority
-United Kingdom Approved andor distributed by Deutsche Bank AG acting through its London Branch at Winchester
-House 1 Great Winchester Street London EC2N 2DB Deutsche Bank AG in the United Kingdom is authorised by the
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
+strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
+type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
+who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
+Manufacturing
+JONHON Optronic
+and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
+that you inform us immediately.
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
-Conduct Authority Details about the extent of our authorisation and regulation are available on request
-Hong Kong Distributed by Deutsche Bank AG Hong Kong Branch or Deutsche Securities Asia Limited
-India Prepared by Deutsche Equities India Pvt Ltd which is registered by the Securities and Exchange Board of India (SEBI)
-as a stock broker Research Analyst SEBI Registration Number is INH000001741 DEIPL may have received administrative
-warnings from the SEBI for breaches of Indian regulations
-Japan Approved andor distributed by Deutsche Securities Inc(DSI) Registration number - Registered as a nancial
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No 117 Member of associations JSDA Type
-II Financial Instruments Firms Association and The Financial Futures Association of Japan Commissions and risks involved
-of share price uctuations and other factors Transactions in foreign stocks can lead to additional losses stemming from
-and other losses as a result of changes in market andor economic trends andor uctuations in market value Before
-deciding on the purchase of nancial products andor services customers should carefully read the relevant disclosures
-prospectuses and other documentation Moodys Standard  Poors and Fitch mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or Nippon is specically designated in the name of the entity
-to the Financial Instruments and Exchange Law of Japan Target prices set by Deutsche Banks equity analysts are based
-on a 12-month forecast period
-Korea Distributed by Deutsche Securities Korea Co
-South Africa Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
-Number in South Africa 199800329810)
-Singapore by Deutsche Bank AG Singapore Branch or Deutsche Securities Asia Limited Singapore Branch (One Raes
-Quay 18-00 South Tower Singapore 048583 65 6423 8001) which may be contacted in respect of any matters arising
-from or in connection with this report Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor expert investor or institutional investor (as dened in the applicable Singapore laws and regulations)
-they accept legal responsibility to such person for its contents
-Taiwan Information on securitiesinvestments that trade in Taiwan is for your reference only Readers should
-independently evaluate investment risks and are solely responsible for their investment decisions Deutsche Bank research
-may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent
-Information on securitiesinstruments that do not trade in Taiwan is for informational purposes only and is not to be
-Deutsche Bank AGHong Kong
-13 September 2017
-may not execute transactions for clients in these securitiesinstruments
-Qatar Deutsche Bank AG in the Qatar Financial Centre (registered no 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority Deutsche Bank AG - QFC Branch may only undertake the nancial services activities that fall within
-the scope of its existing QFCRA license Principal place of business in the QFC Qatar Financial Centre Tower West
-Bay Level 5 PO Box 14928 Doha Qatar This information has been distributed by Deutsche Bank AG Related nancial
-products or services are only available to Business Customers as dened by the Qatar Financial Centre Regulatory
-Authority
-Russia This information interpretation and opinions submitted herein are not in the context of and do not constitute
-any appraisal or evaluation activity requiring a license in the Russian Federation
-Kingdom of Saudi Arabia Deutsche Securities Saudi Arabia LLC Company (registered no 07073-37) is regulated by
-the Capital Market Authority Deutsche Securities Saudi Arabia may only undertake the nancial services activities that
-fall within the scope of its existing CMA license Principal place of business in Saudi Arabia King Fahad Road Al Olaya
-District PO Box 301809 Faisaliah Tower - 17th Floor 11372 Riyadh Saudi Arabia
-United Arab Emirates Deutsche Bank AG in the Dubai International Financial Centre (registered no 00045) is regulated
-by the Dubai Financial Services Authority Deutsche Bank AG - DIFC Branch may only undertake the nancial services
-activities that fall within the scope of its existing DFSA license Principal place of business in the DIFC Dubai International
-Financial Centre The Gate Village Building 5 PO Box 504902 Dubai UAE This information has been distributed by
-Deutsche Bank AG Related nancial products or services are only available to Professional Clients as dened by the
-Dubai Financial Services Authority
-Australia Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any nancial product
-referred to in this report and consider the PDS before making any decision about whether to acquire the product Please
-research-informationhtml
-Australia and New Zealand This research is intended only for wholesale clients within the meaning of the Australian
-Corporations Act and New Zealand Financial Advisors Act respectively
-Additional information relative to securities other nancial products or issuers discussed in this report is available upon
-request This report may not be reproduced distributed or published without Deutsche Banks prior written consent
-Copyright  2017 Deutsche Bank AG
-Deutsche Bank AGHong Kong
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
+as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
+warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
+II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
+in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
+transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
+products and services. Recommended investment strategies, products and services carry the risk of losses to principal
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
+prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
+Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
+to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
+on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number in South Africa: 1998/003298/10).
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
+from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
+they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
+may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
+Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
+Manufacturing
+JONHON Optronic
+construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited. Taipei Branch
+may not execute transactions for clients in these securities/instruments.
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
+the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
+Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
+fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olava
+District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
+Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
+Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+research-information.html
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Global Chief Operating Ocer
+Steve Pollard
+Raj Hindocha
+Michael Spencer
 Head of APAC Research
-Global Head of Economics
+Global Chief Operating Officer
 Head of Americas Research
+Global Head of Economics
+Research
 Global Head of Equity Research
+Anthony Klarman
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
-Head of Research - Germany
+Andreas Neubauer
+Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
+and QIS Research
 International locations
-Corner of Hunter  Phillip Streets
-Sydney NSW 2000
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Tel (49) 69 910 00
-International Commerce Centre
-1 Austin Road WestKowloon
-Deutsche Securities Inc
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
-Chiyoda-ku Tokyo 100-6171
+International Commerce Centre,
+Sanno Park Tower
+60329 Frankfurt am Main
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
+Japan
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
-London EC2N 2EQ
-Deutsche Bank Securities Inc
 60 Wall Street
-New York NY 10005
+London EC2N 2EQ
+United Kingdom
 United States of America

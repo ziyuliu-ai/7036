@@ -1,2573 +1,428 @@
- 
-Please refer to page 9 for important disclosures and analyst certification, or on our website 
-www.macquarie.com/research/disclosures.   
-5 September 2018 
-China 
-EQUITIES 
- 
- 
-000651 CH 
-Neutral 
-Price (at 06:50, 05 Sep 2018 GMT) 
-Rmb38.86 
- 
-Valuation 
-Rmb 
-38.80
-- PER 
-12-month target 
-Rmb 
-38.80
-Upside/Downside 
-% 
--0.2
-12-month TSR 
-% 
-+4.4
-Volatility Index 
-Medium
-GICS sector 
-Consumer Durables & Apparel 
-Market cap 
-Rmbm 
-233,771
-Market cap 
-US$m 
-34,219
-Free float 
-% 
-72
-30-day avg turnover 
-US$m 
-252.9
-Number shares on issue 
-m 
-6,016
- 
-Investment fundamentals 
-Year end 31 Dec 
- 
-2017A 
-2018E 
-2019E 
-2020E 
-Revenue 
-bn 
-150.0 
-181.2 
-184.1 
-193.0 
-EBIT 
-bn 
-26.0 
-29.8 
-30.1 
-31.9 
-EBIT growth 
-% 
-89.3 
-14.6 
-1.0 
-6.1 
-Reported profit 
-bn 
-22.4 
-26.3 
-27.2 
-29.5 
-Adjusted profit 
-bn 
-21.2 
-26.8 
-25.9 
-29.8 
-EPS rep 
-Rmb 
-3.72 
-4.37 
-4.52 
-4.91 
-EPS rep growth 
-% 
-44.9 
-17.4 
-3.4 
-8.6 
-EPS adj 
-Rmb 
-3.52 
-4.46 
-4.31 
-4.96 
-EPS adj growth 
-% 
-35.3 
-26.8 
--3.5 
-15.2 
-PER rep 
-x 
-10.4 
-8.9 
-8.6 
-7.9 
-PER adj 
-x 
-11.0 
-8.7 
-9.0 
-7.8 
-Total DPS 
-Rmb 
-0.00 
-1.75 
-1.81 
-1.96 
-Total div yield 
-% 
-0.0 
-4.5 
-4.7 
-5.1 
-ROA 
-% 
-13.1 
-12.4 
-11.5 
-11.8 
-ROE 
-% 
-35.4 
-34.9 
-26.8 
-26.1 
-EV/EBITDA 
-x 
-4.7 
-4.0 
-4.0 
-3.7 
-Net debt/equity 
-% 
--121.1 
--113.9 
--110.1 -110.4 
-P/BV 
-x 
-3.6 
-2.6 
-2.2 
-1.9 
- 
-000651 CH rel CSI 300 performance, & rec 
-history 
- 
-Note: Recommendation timeline - if not a continuous line, then there was no 
-Macquarie coverage at the time or there was an embargo period. 
-Source: FactSet, Macquarie Research, September 2018 
-(all figures in Rmb unless noted, TP in CNY) 
- 
-Analysts 
- 
-Macquarie Capital Limited 
- 
-Terence Chang   +852 3922 3581 
-terence.chang@macquarie.com 
- 
-Linda Huang, CFA  +852 3922 4068 
-linda.huang@macquarie.com 
-Gree Electric (A-Share) 
-Reported sales belie cooling real demand 
-Key points 
- Air-conditioner sales growth to moderate on shortfall in demand growth. 
- Investors likely to focus on end-demand rather than reported revenues. 
- We raise FY18 and FY19 EPS estimates by 11% and 4%, but downgrade 
-the stock to Neutral and cut our PER-based TP by 24% Rmb38.80. 
- 
-Conclusion 
- We downgrade Gree to Neutral post 1H18 as we are increasingly cautious on 
-the air-conditioner industry in 2H18-1H19, given the high YoY base. We raise 
-our earnings est for FY18 by 11% and for FY19 by 4% in view of the strong 
-reported sales for 1H18 that we believe are due to strong sell-in. However, we 
-cut the target PER from 13.5x FY18E to 9x FY19E. Accordingly, we lower our 
-TP by 24% to RMB38.80/sh, as we expect growth to normalise following 
-strong earnings growth in the past 24 months. Our FY18-19 earnings are 4% & 
-7% below consensus, respectively. Dividend uncertainty remains a concern. 
-Impact 
- Air-conditioner sales growth to normalise from 2H18. Gree’s AC 
-shipments in China have risen 16% YoY YTD. We expect air-conditioner 
-revenue growth to moderate to 8% YoY in 2H18 after last year’s unusually 
-high 49% YoY growth, which we believe was partly due to AC demand being 
+China
+Gree Electric (A-Share)
+EQUITIES
+Reported sales belie cooling real demand
+Key points
+Air-conditioner sales growth to moderate on shortfall in demand growth.
+Investors likely to focus on end-demand rather than reported revenues.
+We raise FY18 and FY19 EPS estimates by 11% and 4%, but downgrade
+the stock to Neutral and cut our PER-based TP by 24% Rmb38.80.
+Conclusion
+We downgrade Gree to Neutral post 1H18 as we are increasingly cautious on
+the air-conditioner industry in 2H18-1H19, given the high YoY base. We raise
+our earnings est for FY18 by 11% and for FY19 by 4% in view of the strong
+reported sales for 1H18 that we believe are due to strong sell-in. However, we
+cut the target PER from 13.5x FY18E to 9x FY19E. Accordingly, we lower our
+Investment fundamentals
+TP by 24% to RMB38.80/sh, as we expect growth to normalise following
+strong earnings growth in the past 24 months. Our FY18-19 earnings are 4% &
+7% below consensus, respectively. Dividend uncertainty remains a concern.
+Impact
+Air-conditioner sales growth to normalise from 2H18. Gree's AC
+shipments in China have risen 16% YoY YTD. We expect air-conditioner
+revenue growth to moderate to 8% YoY in 2H18 after last year's unusually
+high 49% YoY growth, which we believe was partly due to AC demand being
 met earlier than expected. Our channel checks indicate that weaker-than-
-expected July retail sales have led to higher channel inventory for the industry, 
-which will take time to digest. This, we believe, will cause shipment growth to 
-moderate, to relieve pressure on channels.  
- Would it matter if management can hit RMB 200bn sales target for FY18? 
-Even if the company meets its FY18 sales target of RMB200bn, we doubt it 
-will be a share price catalyst, as it will only increase the market’s scepticism on 
-whether there is channel stuffing in air-conditioners, given the strong sales 
-revenue growth in the past 24 months. We see end-consumer demand 
-measured by either AC installations or retail sell-through as a much more 
-important catalyst to the share price than Gree’s sales to channels.  
- Investment in chipset design at what cost? A key reason for the cut in 
-dividend is Gree’s intention to invest in chipset design. Its inverter air-
-conditioners use mainly imported chipsets that cost RMB4-5bn annually. As 
-the chipset is the only air-conditioner component that Gree does not only make 
-itself, it is investing in chipset technology R&D to increase its pricing power 
-and control costs. Gree has set up a subsidiary with RMB1bn of share capital. 
-Earnings and target price revision 
- We raise our reported estimates for FY18 and FY19 by 11% and 4% 
-respectively, but cut our target price by 24% to RMB38.80/sh.  
-Price catalyst 
- 12-month price target: Rmb38.80 based on a PER methodology. 
- Catalyst: 3QFY18 results, 3rd party industry data on AC 
-Action and recommendation 
- Downgrade to Neutral. 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-2 
-Investment thesis: Downgrade to Neutral; TP lowered to Rmb38.80/sh 
-We lower our target price to Rmb 38.80/sh from Rmb 51.00/sh previously as we lower our earnings 
-multiple on FY19E to 9x despite lifting reported EPS by 11% for FY18E and 4% for FY19E. While Gree 
-remains the leader in China’s air-conditioner industry by volumes and gains from market consolidation, we 
-worry about the FY19 outlook as we fear the demand for air-conditioners may have been drawn in 
-advance, following strong air-conditioner selling seasons for two consecutive years—2017 and 2018. The 
-AC selling season starts from August and ends in July next year. 
- AC industry growth to moderate in 2H18 and 1H19 after two years of solid growth: According 
-to China Industry Online data, Gree’s combined China exports and domestic shipment volumes 
-have risen 15% YoY YTD. With the company commenting distributors still willing to restock, we 
-believe sell-in volume may still grow in 2H18, but growth is likely to moderate going forward, 
-particularly in 1H19, due to a higher base.  
- Still seeing ASP increase at retail level: Based on 1H18 for All View Cloud (AVC) data, Gree 
-saw retail ASP grew ~ 5% YoY for residential ACs, compared to a ~3.4% YoY increase for the 
-industry.  
- Dividends: Gree has paid out 28% of its 1H18 earnings at RMB 60cents per share, which is much 
-lower than the 70% full-year payout in 2015 and 2016. According to its interim report, the company 
-plans to invest in chip design, as it wants to save the over RMB4-5 billion that it currently spends 
-annually on imported chipsets.     
-Our new target price is based on 9x FY19E PER vs 13.5x FY18E previously. We believe the company‘s 
-dividend payout has disappointed the market, which remains concerned about the size of investment in 
-chipset design, especially in the context of the broader slowdown in AC sales. We lower our multiple to 
-factor in this uncertainty and will wait on the sidelines for a better entry point.   
-Fig 1  Gree historical PER bands 
-Fig 2  Gree dividend bands 
- 
-Source: FactSet, Macquarie Research, September 2018.  
-*Note: EPS adjusted for share split. 
-Source: FactSet, Macquarie Research, September 2018  
- 
- 
-0
-10
-20
-30
-40
-50
-60
-70
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-15.0x
-10.5x
-7.2x
-12.0x
-9.0x
-0
-10
-20
-30
-40
-50
-60
-70
-80
-09
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-3.0%
-5.0%
-5.5%
-4.0%
-6.5%
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-3 
-Earnings revision 
-We are raising our reported profit estimates for 2018 and 2019 by 11% and 4% respectively, in view of the 
-stronger than expected results for 1H18. Our FY18 revenue estimate of RMB181bn is below the 
-management’s target of RMB200bn. 
- Revenue: We lift FY18E revenues by 16% and FY19E by 9% as we expect the group to further 
-drive its AC sell-in into its regional sales office this year to achieve the revenue target of 
-RMB200bn. For FY19, we have some concern on demand normalising, given the high comparison 
-base in 1H18, which may be reflecting demand spent in advance, in our view. 
- Gross margin: We cut our gross margins assumptions for FY18 and FY19 by 2.0 and 2.2ppts 
-respectively as we believe our previous expectations may be too high. We believe as the company 
-diversifies its revenue stream, it may see lower margins due to negative impact from a revenue mix 
-change. At the same time, we expect gross margin from the export business to get further 
-compressed to only 7.3% in FY18E vs 13.1% in 1H17. 
- Operating margin: We raise our OP margin estimate for FY18 by 10bps but cut it for FY19 by 
-30bps as we believe Gree’s efficiency enhancement, strict control in selling & distribution expense, 
+expected July retail sales have led to higher channel inventory for the industry,
+which will take time to digest. This, we believe, will cause shipment growth to
+moderate, to relieve pressure on channels.
+Would it matter if management can hit RMB 200bn sales target for FY18?
+Even if the company meets its FY18 sales target of RMB200bn, we doubt it
+will be a share price catalyst, as it will only increase the market's scepticism on
+whether there is channel stuffing in air-conditioners, given the strong sales
+000651 CH rel CSI 300 performance, & rec
+revenue growth in the past 24 months. We see end-consumer demand
+history
+measured by either AC installations or retail sell-through as a much more
+important catalyst to the share price than Gree's sales to channels.
+Investment in chipset design at what cost? A key reason for the cut in
+dividend is Gree's intention to invest in chipset design. Its inverter air-
+conditioners use mainly imported chipsets that cost RMB4-5bn annually. As
+the chipset is the only air-conditioner component that Gree does not only make
+itself, it is investing in chipset technology R&D to increase its pricing power
+and control costs. Gree has set up a subsidiary with RMB1bn of share capital.
+Note: Recommendation timeline - if not a continuous line, then there was no
+Macquarie coverage at the time or there was an embargo period.
+Earnings and target price revision
+(all figures in Rmb unless noted, TP in CNY)
+We raise our reported estimates for FY18 and FY19 by 11% and 4%
+respectively, but cut our target price by 24% to RMB38.80/sh.
+Analysts
+Price catalyst
+Macquarie Capital Limited
+12-month price target: Rmb38.80 based on a PER methodology.
+Catalyst: 3QFY18 results, 3rd party industry data on AC
+Action and recommendation
+Downgrade to Neutral.
+Macquarie Research
+Gree Electric (A-Share)
+Investment thesis: Downgrade to Neutral; TP lowered to Rmb38.80/sh
+We lower our target price to Rmb 38.80/sh from Rmb 51.00/sh previously as we lower our earnings
+multiple on FY19E to 9x despite lifting reported EPS by 11% for FY18E and 4% for FY19E. While Gree
+remains the leader in China's air-conditioner industry by volumes and gains from market consolidation, we
+worry about the FY19 outlook as we fear the demand for air-conditioners may have been drawn in
+advance, following strong air-conditioner selling seasons for two consecutive years—2017 and 2018. The
+AC selling season starts from August and ends in July next year.
+⇒ AC industry growth to moderate in 2H18 and 1H19 after two years of solid growth: According
+to China Industry Online data, Gree's combined China exports and domestic shipment volumes
+have risen 15% YoY YTD. With the company commenting distributors still willing to restock, we
+believe sell-in volume may still grow in 2H18, but growth is likely to moderate going forward,
+particularly in 1H19, due to a higher base.
+Still seeing ASP increase at retail level: Based on 1H18 for All View Cloud (AVC) data, Gree
+\Rightarrow
+saw retail ASP grew ~ 5% YoY for residential ACs, compared to a ~3.4% YoY increase for the
+industry.
+Dividends: Gree has paid out 28% of its 1H18 earnings at RMB 60cents per share, which is much
+\Rightarrow
+lower than the 70% full-year payout in 2015 and 2016. According to its interim report, the company
+plans to invest in chip design, as it wants to save the over RMB4-5 billion that it currently spends
+annually on imported chipsets.
+Our new target price is based on 9x FY19E PER vs 13.5x FY18E previously. We believe the company's
+dividend payout has disappointed the market, which remains concerned about the size of investment in
+chipset design, especially in the context of the broader slowdown in AC sales. We lower our multiple to
+factor in this uncertainty and will wait on the sidelines for a better entry point.
+Source: FactSet, Macquarie Research, September 2018.
+Macquarie Research
+Gree Electric (A-Share)
+Earnings revision
+We are raising our reported profit estimates for 2018 and 2019 by 11% and 4% respectively, in view of the
+stronger than expected results for 1H18. Our FY18 revenue estimate of RMB181bn is below the
+management's target of RMB200bn.
+⇒ Revenue: We lift FY18E revenues by 16% and FY19E by 9% as we expect the group to further
+drive its AC sell-in into its regional sales office this year to achieve the revenue target of
+RMB200bn. For FY19, we have some concern on demand normalising, given the high comparison
+base in 1H18, which may be reflecting demand spent in advance, in our view.
+⇒ Gross margin: We cut our gross margins assumptions for FY18 and FY19 by 2.0 and 2.2ppts
+respectively as we believe our previous expectations may be too high. We believe as the company
+diversifies its revenue stream, it may see lower margins due to negative impact from a revenue mix
+change. At the same time, we expect gross margin from the export business to get further
+compressed to only 7.3% in FY18E vs 13.1% in 1H17.
+⇒ Operating margin: We raise our OP margin estimate for FY18 by 10bps but cut it for FY19 by
+30bps as we believe Gree's efficiency enhancement, strict control in selling & distribution expense,
 will be offset by increased spending on chip design investment, which is unlikely to generate near-
-term returns.  
- Dividends: We lower our payout ratio assumption for 2018 and beyond to 40% on the back of the 
-28% payout for 1H18. We believe the company is likely holding back cash for future investment but 
-should have more clarity in 2H18.   
-Fig 3 Earnings change 
-(Rmb mn) 
-Old
-Old
-New 
-New
-% chg.
-% chg.
-FY2018
-FY2019
-FY2018 
-FY2019
-FY2018
-FY2019
-Revenue 
-155,944.6
-169,715.2
-181,242.4 
-184,139.6
-16.2% 
-8.5%
-Gross Profit 
-52,643.6
-57,546.3
-57,488.2 
-58,343.8
-9.2% 
-1.4%
-Operating Profit 
-25,420.4
-28,171.8
-29,804.0 
-30,106.2
-17.2% 
-6.9%
-Pre-Tax 
-28,105.5
-30,914.3
-31,105.9 
-32,160.2
-10.7% 
-4.0%
-Net Income 
-23,746.3
-26,119.4
-26,304.0 
-27,193.9
-10.8% 
-4.1%
-Margin (%) 
- 
-Gross Margin 
-33.8% 
-33.9%
-31.7% 
-31.7% 
--2.0ppt
--2.2ppt
-OP Margin 
-16.3% 
-16.6%
-16.4% 
-16.3% 
-0.1ppt
--0.2ppt
-Net Margin 
-15.2% 
-15.4%
-14.5% 
-14.8% 
--0.7ppt
--0.6ppt
-Source: Macquarie Research, September 2018 
- 
- 
- 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-4 
-Advance from customers starting to trend down 
-According to the latest 2Q18 balance sheet data, receipts in advance amounted to RMB2.1bn, down 67% 
-YoY. The last time advances from customers reached this level was in 2Q14. According to the company, it 
-still has healthy cash payback from distributors, while the current channel inventory levels does not 
-suggest the company’s sell-in has been excessive. We believe this likely meant no incremental end-
-demand to trigger additional deposits from distributors.  
-Fig 4 1Q18 advance receipts similar to levels in recent years 
-Fig 5 Quarterly revenue for Gree 
- 
-Source: Company data, Macquarie Research, September 2018 
-Source: Company data, Macquarie Research, September 2018 
-Domestic shipment volumes for 2Q18 up 16% YoY 
-According to China Market Monitor, which collects data from modern channels across Tier 1-4 cities, 
-Gree’s residential AC retail sales volume grew 0.5% YoY in 2Q18. This compares to 15.6% YoY growth in 
-domestic shipments. From July data, CMM data showed retail volume down 30% YoY vs domestic 
-shipment volumes up 14.6% YoY.  
-Fig 6 Gree’s revenue growth vs Gree’s residential A/C shipment 
-growth 
-Fig 7 Shipment growth and retail growth  likely suggests trend is 
-normalising 
- 
-Source: China IOL, Macquarie Research, September 2018 
-Source: China IOL, CMM, Macquarie Research, September 2018 
- 
- 
- 
- -
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
-1Q
-2Q
-3Q
-4Q
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017
-2018
- -
- 10,000.0
- 20,000.0
- 30,000.0
- 40,000.0
- 50,000.0
- 60,000.0
-1Q
-2Q
-3Q
-4Q
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017
-2018
--80.0%
--60.0%
--40.0%
--20.0%
-0.0%
-20.0%
-40.0%
-60.0%
-80.0%
-1Q12
-2Q12
-3Q12
-4Q12
-1Q13
-2Q13
-3Q13
-4Q13
-1Q14
-2Q14
-3Q14
-4Q14
-1Q15
-2Q15
-3Q15
-4Q15
-1Q16
-2Q16
-3Q16
-4Q16
-1Q17
-2Q17
-3Q17
-4Q17
-1Q18
-2Q18
-Revenue growth
-China IOL Shipment volume growth
--80.0%
--60.0%
--40.0%
--20.0%
-0.0%
-20.0%
-40.0%
-60.0%
-80.0%
-100.0%
-120.0%
-140.0%
-Jan-17
-Feb-17
-Mar-17
-Apr-17
-May-17
-Jun-17
-Jul-17
-Aug-17
-Sep-17
-Oct-17
-Nov-17
-Dec-17
-Jan-18
-Feb-18
-Mar-18
-Apr-18
-May-18
-Jun-18
-Jul-18
-Gree retail sales volume YoY growth
-Gree domestic shipment volume YoY growth
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-5 
-We believe likely Gree is increasing support to its trading companies 
-Gree has 27 regional sales companies in China, which serve as intermediaries to distribute ACs to 
-retailers at modern channels and to retailers in lower-tier cities. As ~70% of AC retail sales happen 
-between March and August, generally retailers need to stock up ACs ahead of time before the peak 
-season, since supply during the peak season is generally not enough to meet demand. 
-We believe part of the discrepancy can be accounted for as inventory at the sales office to be distributed to 
-retailers, as they have more financial resources. In particular, based on company registration search site 
-qichacha.com, since 2011, Beijing Shengshi Hengxing Geli International Trading Co., Ltd (北京盛世恒兴格
-力国际贸易有限公司) investing in 31 trading companies focusing air conditioner distribution from 27 
-regions and 20 companies on lifestyle appliances, would be able to help manage the distribution and 
-pricing architecture within these regions and balance the interests of the smaller distributors. 
-At the same time, in a recent announcement, the company’s financing arm is increasing the cap on the line 
-of credit to Zhejiang Shengxi Yinxing Geli trading Co., Ltd (浙江盛世欣兴格力贸易有限公司) from 
-RMB500m to RMB 1bn due to business environment. This can be shown as Gree increasing its support to 
-the trading companies. As of 1H18, Gree has generated product revenue of RMB2.64bn from the company 
-vs a loan amount of RMB300m.  
- 
- 
- 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-6 
-Earnings review 
-1H18 revenue grew 31.4% YoY to RMB 92bn, reaching 51% of full-year consensus or 46% of 
-management’s RMB200bn target. Gross margin contracted 1.9ppt to 30.8% but operating profit margin 
-expanded by 70bps to 16.2%, while net profit grew 35.5% to RMB12.8bn, accounting for 47% of full-year 
-consensus earnings.  
- Air conditioners: Revenue grew 38.8% YoY in 1H18. The strength of the first-half results can be 
-supported by the double-digit shipment growth in air-conditioners. Gross margin declined 4.1ppt to 
-34.4%, which we believe is due to gross margin pressure from the export segment.  
- Household appliances: Revenue grew 56% YoY to RMB1.6bn, with gross margin compressing by 
-2.4ppt to 17%. We believe the company still lacks scale in household appliances. 
- Intelligent equipment: Revenue declined 63% to RMB356m; however, gross margin expanded by 
-6.9ppt to 11.7%. We believe the margin improvement may be due to the company starting to 
-deliver orders to better-quality external customers. 
- Operating cashflow: Operating cashflow increased 146% to RMB8.9, due to increase in other 
-cash inflow related to operating activities.  
- Sales rebate: This other current liability amount remains relatively stable, down 1.4% YoY to 
-RMB59.2bn. 
- Advance received from customer. This amount declined by 67% YoY and 85% HoH to 
-RMB2.1bn. The company highlighted this was due to high growth in domestic sales resulting in 
-higher shipments to distributors and leading to lower balance for customer advances. 
- Dividend payout at 28% of interim earnings: The company declared an interim dividend per 
-share of RMB60c, representing 28% of 1H18 earnings and below ~70% payout in 2015 and 2016. 
-We believe this reflects the company’s keenness on investing in AC chipsets.  
- Quarterly trend. On a quarterly basis, revenue growth moderated slightly to 30% from 33% in 
-1Q18 while net profit growth maintained similar momentum at 37.6% vs 1Q18 at 39%. 
-Fig 8 Earnings review 
-(RMB mn) 
-1HFY17 Actual 1HFY18 Actual
-YoY growth 
-Revenue 
-70,021
-92,005
-31.4% 
-Gross Profit 
-22,911
-28,316
-23.6% 
-Operating Profit 
-10,845
-14,931
-37.7% 
-Pre-Tax Profit 
-11,002
-15,158
-37.8% 
-Net Income 
-9,452
-12,806
-35.5% 
- 
-Margin (%) 
- 
-Gross Margin 
-32.7% 
-30.8% 
-(1.9ppt) 
-OP Margin 
-15.5% 
-16.2% 
-0.7ppt 
-Net Margin 
-13.5% 
-13.9% 
-0.4ppt 
-Source: Company data, Macquarie Research, September 2018 
- 
- 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-7 
-Macquarie Quant View   
-The Quant View page below has been derived from models that are developed and maintained by Sales and Trading 
-personnel at Macquarie. The models are not a product of the Macquarie Research Department. 
+term returns.
+⇒ Dividends: We lower our payout ratio assumption for 2018 and beyond to 40% on the back of the
+28% payout for 1H18. We believe the company is likely holding back cash for future investment but
+should have more clarity in 2H18.
+Macquarie Research
+Gree Electric (A-Share)
+Advance from customers starting to trend down
+According to the latest 2Q18 balance sheet data, receipts in advance amounted to RMB2.1bn, down 67%
+YoY. The last time advances from customers reached this level was in 2Q14. According to the company, it
+still has healthy cash payback from distributors, while the current channel inventory levels does not
+suggest the company's sell-in has been excessive. We believe this likely meant no incremental end-
+demand to trigger additional deposits from distributors.
+Domestic shipment volumes for 2Q18 up 16% YoY
+According to China Market Monitor, which collects data from modern channels across Tier 1-4 cities,
+Gree's residential AC retail sales volume grew 0.5% YoY in 2Q18. This compares to 15.6% YoY growth in
+domestic shipments. From July data, CMM data showed retail volume down 30% YoY vs domestic
+shipment volumes up 14.6% YoY.
+Macquarie Research
+Gree Electric (A-Share)
+We believe likely Gree is increasing support to its trading companies
+Gree has 27 regional sales companies in China, which serve as intermediaries to distribute ACs to
+retailers at modern channels and to retailers in lower-tier cities. As ~70% of AC retail sales happen
+between March and August, generally retailers need to stock up ACs ahead of time before the peak
+season, since supply during the peak season is generally not enough to meet demand.
+We believe part of the discrepancy can be accounted for as inventory at the sales office to be distributed to
+retailers, as they have more financial resources. In particular, based on company registration search site
+gichacha.com, since 2011, Beijing Shengshi Hengxing Geli International Trading Co., Ltd (北京盛世恒兴格
+regions and 20 companies on lifestyle appliances, would be able to help manage the distribution and
+pricing architecture within these regions and balance the interests of the smaller distributors.
+At the same time, in a recent announcement, the company's financing arm is increasing the cap on the line
+of credit to Zhejiang Shengxi Yinxing Geli trading Co., Ltd (浙江盛世欣兴格力贸易有限公司) from
+RMB500m to RMB 1bn due to business environment. This can be shown as Gree increasing its support to
+the trading companies. As of 1H18, Gree has generated product revenue of RMB2.64bn from the company
+vs a loan amount of RMB300m.
+Macquarie Research
+Gree Electric (A-Share)
+Earnings review
+1H18 revenue grew 31.4% YoY to RMB 92bn, reaching 51% of full-year consensus or 46% of
+management's RMB200bn target. Gross margin contracted 1.9ppt to 30.8% but operating profit margin
+expanded by 70bps to 16.2%, while net profit grew 35.5% to RMB12.8bn, accounting for 47% of full-year
+consensus earnings.
+⇒ Air conditioners: Revenue grew 38.8% YoY in 1H18. The strength of the first-half results can be
+supported by the double-digit shipment growth in air-conditioners. Gross margin declined 4.1ppt to
+34.4%, which we believe is due to gross margin pressure from the export segment.
+⇒ Household appliances: Revenue grew 56% YoY to RMB1.6bn, with gross margin compressing by
+2.4ppt to 17%. We believe the company still lacks scale in household appliances.
+⇒ Intelligent equipment: Revenue declined 63% to RMB356m; however, gross margin expanded by
+6.9ppt to 11.7%. We believe the margin improvement may be due to the company starting to
+deliver orders to better-quality external customers.
+⇒ Operating cashflow: Operating cashflow increased 146% to RMB8.9, due to increase in other
+cash inflow related to operating activities.
+⇒ Sales rebate: This other current liability amount remains relatively stable, down 1.4% YoY to
+RMB59.2bn.
+⇒ Advance received from customer. This amount declined by 67% YoY and 85% HoH to
+RMB2.1bn. The company highlighted this was due to high growth in domestic sales resulting in
+higher shipments to distributors and leading to lower balance for customer advances.
+⇒ Dividend payout at 28% of interim earnings: The company declared an interim dividend per
+share of RMB60c, representing 28% of 1H18 earnings and below ~70% payout in 2015 and 2016.
+We believe this reflects the company's keenness on investing in AC chipsets.
+⇒ Quarterly trend. On a quarterly basis, revenue growth moderated slightly to 30% from 33% in
+1Q18 while net profit growth maintained similar momentum at 37.6% vs 1Q18 at 39%.
+Macquarie Quant View
+The Quant View page below has been derived from models that are developed and maintained by Sales and Trading
+personnel at Macquarie. The models are not a product of the Macquarie Research Department.
 The quant model currently holds a strong positive view on Gree Electric (A-
-Share). The strongest style exposure is Profitability, indicating this stock is 
-efficiently converting investments to earnings; proxied by ratios like ROE or 
-ROA. The weakest style exposure is Quality, indicating this stock is likely to 
-have a weaker and less stable underlying earnings stream. 
- 
-Displays where the 
-company’s ranked based on 
-the fundamental consensus 
-Price Target and 
-Macquarie’s Quantitative 
-Alpha model.  
-Two rankings: Local market 
-(China A) and Global sector 
-(Consumer Durables & 
-Apparel) 
- 
-57/661 
-Global rank in 
- Consumer Durables & Apparel 
-% of BUY recommendations 
-65% (11/17) 
-Number of Price Target downgrades 
-9 
-Number of Price Target upgrades 
-0 
- 
-Macquarie Alpha Model ranking 
-Factors driving the Alpha Model 
-A list of comparable companies and their Macquarie Alpha model score 
-(higher is better). 
-For the comparable firms this chart shows the key underlying styles and their 
-contribution to the current overall Alpha score. 
- 
- 
-Macquarie Earnings Sentiment Indicator 
-Drivers of Stock Return 
-The Macquarie Sentiment Indicator is an enhanced earnings revisions 
-signal that favours analysts who have more timely and higher conviction 
+Displays where the
+Share). The strongest style exposure is Profitability, indicating this stock is
+company's ranked based on
+efficiently converting investments to earnings; proxied by ratios like ROE or
+the fundamental consensus
+ROA. The weakest style exposure is Quality, indicating this stock is likely to
+Price Target and
+have a weaker and less stable underlying earnings stream.
+Macquarie's Quantitative
+57/661
+Alpha model.
+Two rankings: Local market
+Global rank in
+(China A) and Global sector
+Consumer Durables & Apparel
+(Consumer Durables &
+Apparel)
+% of BUY recommendations
+65% (11/17)
+Number of Price Target downgrades
+Number of Price Target upgrades
+Macquarie Alpha Model ranking
+Factors driving the Alpha Model
+A list of comparable companies and their Macquarie Alpha model score
+For the comparable firms this chart shows the key underlying styles and their
+contribution to the current overall Alpha score.
+(higher is better).
+Macquarie Earnings Sentiment Indicator
+Drivers of Stock Return
+Breakdown of 1 year total return (local currency) into returns from dividends, changes
+The Macquarie Sentiment Indicator is an enhanced earnings revisions
+signal that favours analysts who have more timely and higher conviction
+in forward earnings estimates and the resulting change in earnings multiple.
 revisions. Current score shown below.
-Breakdown of 1 year total return (local currency) into returns from dividends, changes 
-in forward earnings estimates and the resulting change in earnings multiple. 
- 
- 
-What drove this Company in the last 5 years 
-How it looks on the Alpha model 
-Which factor score has had the greatest correlation with the company’s 
-returns over the last 5 years. 
-A more granular view of the underlying style scores that drive the alpha (higher is 
-better) and the percentile rank relative to the sector and market. 
- 
-Source (all charts): FactSet, Thomson Reuters, and Macquarie Quant. For more details on the Macquarie Alpha model or for more customised analysis and 
-screens, please contact the Macquarie Global Quantitative/Custom Products Group (cpg@macquarie.com) 
-Fundamentals
-Quant
-Local market rank
-Global sector rank
-Attractive
--0.5
--0.1
-0.0
-0.4
-0.4
-0.8
-1.3
--3.0
--2.0
--1.0
-0.0
-1.0
-2.0
-3.0
-Daikin Industries
-Midea Group (A-Share)
-Hangzhou Robam Appliances…
-Qingdao Haier (A-Share)
-Whirlpool
-United Technologies
+What drove this Company in the last 5 years
+How it looks on the Alpha model
+Which factor score has had the greatest correlation with the company's
+A more granular view of the underlying style scores that drive the alpha (higher is
+better) and the percentile rank relative to the sector and market.
+returns over the last 5 years.
+Source (all charts): FactSet, Thomson Reuters, and Macquarie Quant. For more details on the Macquarie Alpha model or for more customised analysis and
+Macquarie Research
 Gree Electric (A-Share)
--100%
--80%
--60%
--40%
--20%
-0%
-20%
-40%
-60%
-80%
-100%
-Daikin Industries
-Midea Group (A-Share)
-Hangzhou Robam Appliances…
-Qingdao Haier (A-Share)
-Whirlpool
-United Technologies
+Important disclosures:
+Financial definitions
+Recommendation definitions
+Volatility index definition*
+Macquarie - Australia/New Zealand
+This is calculated from the volatility of historical
+All "Adjusted" data items have had the following
+Outperform – return >3% in excess of benchmark return
+price movements.
+adjustments made:
+Neutral – return within 3% of benchmark return
+Added back: goodwill amortisation, provision for
+Underperform - return >3% below benchmark return
+Very high-highest risk – Stock should be
+catastrophe reserves, IFRS derivatives & hedging,
+expected to move up or down 60-100% in a year
+IFRS impairments & IFRS interest expense
+Benchmark return is determined by long term nominal
+investors should be aware this stock is highly
+Excluded: non recurring items, asset revals, property
+GDP growth plus 12 month forward market dividend
+speculative.
+revals, appraisal value uplift, preference dividends &
+yield, which is currently around 9%.
+minority interests
+High – stock should be expected to move up or
+Macquarie - Asia/Europe
+down at least 40-60% in a year - investors should
+EPS = adjusted net profit / efpowa*
+Outperform – expected return >+10%
+be aware this stock could be speculative.
+ROA = adjusted ebit / average total assets
+Neutral – expected return from -10% to +10%
+ROA Banks/Insurance = adjusted net profit /average
+Underperform – expected return <-10%
+Medium – stock should be expected to move up
+total assets
+Mazi Macquarie - South Africa
+or down at least 30-40% in a year.
+ROE = adjusted net profit / average shareholders funds
+Outperform - expected return >+10%
+Gross cashflow = adjusted net profit + depreciation
+Neutral – expected return from -10% to +10%
+Low-medium – stock should be expected to
+Underperform – expected return <-10%
+move up or down at least 25-30% in a year.
+number of shares
+Macquarie - Canada
+Low – stock should be expected to move up or
+All Reported numbers for Australian/NZ listed stocks
+Outperform – return >5% in excess of benchmark return
+are modelled under IFRS (International Financial
+down at least 15–25% in a year.
+Neutral – return within 5% of benchmark return
+Reporting Standards).
+Underperform – return >5% below benchmark return
+only
+Macquarie - USA
+Recommendations – 12 months
+Outperform (Buy) – return >5% in excess of Russell
+Note: Quant recommendations may differ from
+3000 index return
+Neutral (Hold) – return within 5% of Russell 3000 index
+return
+index return
+000651 CH vs CSI 300, & rec history
+(all figures in CNY currency unless noted)
+Note: Recommendation timeline - if not a continuous line, then there was no Macquarie coverage at the time or there was an embargo period.
+12-month target price methodology
+000651 CH: Rmb38.80 based on a PER methodology
+Company-specific disclosures:
+Target price risk disclosures:
+000651 CH: Any inability to compete successfully in their markets may harm the business. This could be a result of many factors which may include
+geographic mix and introduction of improved products or service offerings by competitors. The results of operations may be materially affected by global
+economic conditions generally, including conditions in financial markets. The company is exposed to market risks, such as changes in interest rates,
+foreign exchange rates and input prices. From time to time, the company will enter into transactions, including transactions in derivative instruments, to
+manage certain of these exposures.
+Analyst certification:
+We hereby certify that all of the views expressed in this report accurately reflect our personal views about the subject company or companies and its or
+their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly, related to the specific recommendations or views
+expressed in this report. The Analysts responsible for preparing this report receive compensation from Macquarie that is based upon various factors
+including Macquarie Group Ltd total revenues, a portion of which are generated by Macquarie Group's Investment Banking activities.
+General disclaimers:
+Macquarie Securities (Australia) Ltd; Macquarie Capital (Europe) Ltd; Macquarie Capital Markets Canada Ltd; Macquarie Capital Markets North America
+Ltd; Macquarie Capital (USA) Inc; Macquarie Capital Limited, Taiwan Securities Branch; Macquarie Capital Securities (Singapore) Pte Ltd; Macquarie
+Securities (NZ) Ltd; Mazi Macquarie Securities (RF) (Pty) Ltd; Macquarie Capital Securities (India) Pvt Ltd; Macquarie Capital Securities (Malaysia) Sdn
+Macquarie Research
 Gree Electric (A-Share)
-Valuations
-Growth
-Profitability
-Earnings
-Momentum
-Price
-Momentum
-Quality
-0.3
--0.5
--0.6
-0.1
--1.5
-0.3
-0.5
--3.0
--2.0
--1.0
-0.0
-1.0
-2.0
-3.0
-Daikin Industries
-Midea Group (A-Share)
-Hangzhou Robam Appliances…
-Qingdao Haier (A-Share)
-Whirlpool
-United Technologies
+Bhd; Macquarie Securities Korea Limited and Macquarie Securities (Thailand) Ltd are not authorized deposit-taking institutions for the purposes of the
+008 583 542 (MBL) or MGL. MBL does not guarantee or otherwise provide assurance in respect of the obligations of any of the above mentioned
+entities. MGL provides a guarantee to the Monetary Authority of Singapore in respect of the obligations and liabilities of Macquarie Capital Securities
+(Singapore) Pte Ltd for up to SGD 35 million. This research has been prepared for the general use of the wholesale clients of the Macquarie Group and
+must not be copied, either in whole or in part, or distributed to any other person. If you are not the intended recipient you must not use or disclose the
+information in this research in any way. If you received it in error, please tell us immediately by return e-mail and delete the document. We do not
+guarantee the integrity of any e-mails or attached files and are not responsible for any changes made to them by any other person. MGL has
+established and implemented a conflicts policy at group level (which may be revised and updated from time to time) (the "Conflicts Policy") pursuant to
+regulatory requirements (including the FCA Rules) which sets out how we must seek to identify and manage all material conflicts of interest. Nothing in
+this research shall be construed as a solicitation to buy or sell any security or product, or to engage in or refrain from engaging in any transaction. In
+preparing this research, we did not take into account your investment objectives, financial situation or particular needs. Macquarie salespeople, traders
+and other professionals may provide oral or written market commentary or trading strategies to our clients that reflect opinions which are contrary to the
+opinions expressed in this research. Macquarie Research produces a variety of research products including, but not limited to, fundamental analysis,
+macro-economic analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of research product may differ from
+recommendations contained in other types of research, whether as a result of differing time horizons, methodologies, or otherwise. Before making an
+investment decision on the basis of this research, you need to consider, with or without the assistance of an adviser, whether the advice is appropriate
+in light of your particular investment needs, objectives and financial circumstances. There are risks involved in securities trading. The price of securities
+can and does fluctuate, and an individual security may even become valueless. International investors are reminded of the additional risks inherent in
+international investments, such as currency fluctuations and international stock market or economic conditions, which may adversely affect the value of
+the investment. This research is based on information obtained from sources believed to be reliable but we do not make any representation or warranty
+that it is accurate, complete or up to date. We accept no obligation to correct or update the information or opinions in it. Opinions expressed are subject
+to change without notice. No member of the Macquarie Group accepts any liability whatsoever for any direct, indirect, consequential or other loss arising
+from any use of this research and/or further communication in relation to this research. Clients should contact analysts at, and execute transactions
+through, a Macquarie Group entity in their home jurisdiction unless governing law permits otherwise. The date and timestamp for above share price and
+market cap is the closed price of the price date. #CLOSE is the final price at which the security is traded in the relevant exchange on the date indicated.
+Members of the Macro Strategy team are Sales & Trading personnel who provide desk commentary that is not a product of the Macquarie Research
+department or subject to FINRA Rule 2241 or any other regulation regarding independence in the provision of equity research.
+Country-specific disclaimers:
+Australia: In Australia, research is issued and distributed by Macquarie Securities (Australia) Ltd (AFSL No. 238947), a participating organization of the
+Australian Securities Exchange. Macquarie Securities (Australia) Limited staff involved with the preparation of research have regular interaction with
+companies they cover. Additionally, Macquarie Group Limited does and seeks to do business with companies covered by Macquarie Research. There
+are robust information barriers in place to protect the independence of Macquarie Research's product. However, recipients of Macquarie Research
+should be aware of this potential conflict of interest. New Zealand: In New Zealand, research is issued and distributed by Macquarie Securities (NZ) Ltd,
+a NZX Firm. Canada: In Canada, research is prepared, approved and distributed by Macquarie Capital Markets Canada Ltd., a (i) member of the
+Investment Industry Regulatory Organization of Canada and the Canadian Investor Protection Fund, and (ii) participating organisation of the Toronto
+Stock Exchange, TSX Venture Exchange & Montréal Exchange. This research is distributed in the United States, as third party research by Macquarie
+Capital Markets North America Ltd., which is a registered broker-dealer and member of Financial Industry Regulatory Authority and the Securities
+Investor Protection Corporation. Macquarie Capital Markets North America Ltd. accepts responsibility for the contents of reports issued by Macquarie
+Capital Markets Canada Ltd. in the United States and sent to US persons. Any US person wishing to effect transactions in the securities described in
+the reports issued by Macquarie Capital Markets Canada Ltd. should do so with Macquarie Capital Markets North America Ltd. This research is
+intended for distribution in the United States only to major Institutional Investors (as such term is defined in SEC 15a-6 and Section 15 of the Securities
+Exchange Act of 1934, as amended) and is not intended for the use of any person or entity that is not a major institutional investor. Research analysts
+of Macquarie Capital Markets Canada Ltd. are not registered/qualified as research analysts with FINRA. The Research Distribution Policy of Macquarie
+Capital Markets Canada Ltd. is to allow all clients that are entitled to have equal access to our research. United Kingdom: In the United Kingdom,
+research is issued and distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated by the Financial Conduct Authority (No.
+193905). Germany: In Germany, this research is issued and/or distributed by Macquarie Capital (Europe) Limited, Niederlassung Deutschland, which is
+authorised and regulated by the UK Financial Conduct Authority (No. 193905), and in Germany by BaFin. France: In France, research is issued and
+distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated in the United Kingdom by the Financial Conduct Authority (No.
+193905). Hong Kong & Mainland China: In Hong Kong, research is issued and distributed by Macquarie Capital Limited, which is licensed and
+regulated by the Securities and Futures Commission. In Mainland China, Macquarie Securities (Australia) Limited Shanghai Representative Office only
+engages in non-business operational activities excluding issuing and distributing research. Only non-A share research is distributed into Mainland China
+by Macquarie Capital Limited. Japan: In Japan, research is Issued and distributed by Macquarie Capital Securities (Japan) Limited, a member of the
+Tokyo Stock Exchange, Inc. and Osaka Exchange, Inc. (Financial Instruments Firm, Kanto Financial Bureau (kin-sho) No. 231, a member of Japan
+Securities Dealers Association). India: In India, research is issued and distributed by Macquarie Capital Securities (India) Pvt. Ltd. (CIN:
+U65920MH1995PTC090696), 92, Level 9, 2 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai – 400 051, India, which is a
+SEBI registered Research Analyst having registration no. INH000000545. Malaysia: In Malaysia, research is issued and distributed by Macquarie
+Capital Securities (Malaysia) Sdn. Bhd. (Company registration number: 463469-W) which is a Participating Organisation of Bursa Malaysia Berhad and
+a holder of Capital Markets Services License issued by the Securities Commission. Taiwan: In Taiwan, research is issued and distributed by Macquarie
+Capital Limited, Taiwan Securities Branch, which is licensed and regulated by the Financial Supervisory Commission. No portion of the report may be
+reproduced or quoted by the press or any other person without authorisation from Macquarie. Nothing in this research shall be construed as a
+solicitation to buy or sell any security or product. The recipient of this report shall not engage in any activities which may give rise to potential conflicts of
+interest to the report. Research Associate(s) in this report who are registered as Clerks only assist in the preparation of research and are not engaged in
+writing the research. Macquarie may be in past one year or now being an Issuer of Structured Warrants on securities mentioned in this report. Thailand:
+In Thailand, research is produced, issued and distributed by Macquarie Securities (Thailand) Ltd. Macquarie Securities (Thailand) Ltd. is a licensed
+securities company that is authorized by the Ministry of Finance, regulated by the Securities and Exchange Commission of Thailand and is an exchange
+member of the Stock Exchange of Thailand. The Thai Institute of Directors Association has disclosed the Corporate Governance Report of Thai Listed
+Companies made pursuant to the policy of the Securities and Exchange Commission of Thailand. Macquarie Securities (Thailand) Ltd does not endorse
+iod.com/en/publications.asp?type=4. South Korea: In South Korea, unless otherwise stated, research is prepared, issued and distributed by Macquarie
+Securities Korea Limited, which is regulated by the Financial Supervisory Services, Information on analysts in MSKL is disclosed at
+001000. South Africa: In South Africa, research is issued and distributed by Mazi Macquarie Securities (RF) (Pty) Ltd, a member of the JSE Limited.
+Singapore: In Singapore, research is issued and distributed by Macquarie Capital Securities (Singapore) Pte Ltd (Company Registration Number:
+198702912C), a Capital Markets Services license holder under the Securities and Futures Act to deal in securities and provide custodial services in
+Singapore. Pursuant to the Financial Advisers (Amendment) Regulations 2005, Macquarie Capital Securities (Singapore) Pte Ltd is exempt from
+complying with sections 25, 27 and 36 of the Financial Advisers Act. All Singapore-based recipients of research produced by Macquarie Capital
+(Europe) Limited, Macquarie Capital Markets Canada Ltd, Mazi Macquarie Securities (RF) (Pty) Ltd and Macquarie Capital (USA) Inc. represent and
+warrant that they are institutional investors as defined in the Securities and Futures Act. United States: In the United States, research is issued and
+distributed by Macquarie Capital (USA) Inc., which is a registered broker-dealer and member of FINRA. Macquarie Capital (USA) Inc., accepts
+responsibility for the content of each research report prepared by one of its non-US affiliates when the research report is distributed in the United States
+by Macquarie Capital (USA) Inc. Macquarie Capital (USA) Inc.'s affiliate's analysts are not registered as research analysts with FINRA, may not be
+Macquarie Research
 Gree Electric (A-Share)
--50%
--40%
--30%
--20%
--10%
-0%
-10%
-20%
-30%
-40%
-50%
-Daikin Industries
-Midea Group (A-Share)
-Hangzhou Robam Appliances…
-Qingdao Haier (A-Share)
-Whirlpool
-United Technologies
-Gree Electric (A-Share)
-Dividend Return
-Multiple Return
-Earnings Outlook
-1Yr Total Return
--21%
--20%
--19%
--18%
-23%
-25%
-29%
-36%
--40%
--20%
-0%
-20%
-40%
-⇐ Negatives  Positives  ⇒
-Return on Assets NTM
-Return on Assets FY1
-Turnover (USD) 20 Day
-Piotroski Score
-Earnings Certainty (NTM)
-EV/EBITDA (NTM)
-Price to Cash NTM
-CPS Revisions 3 Month
-0
-1
-Technicals & Trading
-Risk
-Liquidity
-Capital & Funding
-Quality
-Price Momentum
-Earnings Momentum
-Profitability
-Growth
-Valuation
-Alpha Model Score
- 0.85
- 0.05
--0.09
- 1.44
- 0.01
- 0.14
- 0.05
- 0.59
- 0.22
- 0.58
- 1.29
-0
-1
-Normalized
-Score
-0
-50
-100
-Percentile relative
-to sector(/661)
-0
-50
-100
-Percentile relative
-to market(/3358)
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-8 
- 
- 
- 
-Gree Electric (A-Share) (000651 CH, Neutral, Target Price: Rmb38.80) 
-Interim Results 
- 
-1H/18A 
-2H/18E 
-1H/19E 
-2H/19E 
-  
-Profit & Loss 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Revenue 
-m 
-92,005 
-89,238 
-92,197 
-91,942 
- 
- Revenue 
-m 
-150,020 
-181,242 
-184,140 
-192,974 
-Gross Profit 
-m 
-28,316 
-29,173 
-27,953 
-30,391 
- 
- Gross Profit 
-m 
-50,260 
-57,488 
-58,344 
-61,046 
-Cost of Goods Sold 
-m 
-63,689 
-60,065 
-64,244 
-61,551 
- 
- Cost of Goods Sold 
-m 
-99,759 
-123,754 
-125,796 
-131,928 
-EBITDA 
-m 
-16,338 
-16,280 
-16,084 
-17,110 
- 
- EBITDA 
-m 
-28,048 
-32,617 
-33,194 
-35,303 
-Depreciation  
-m 
-1,407 
-1,407 
-1,544 
-1,544 
- 
- Depreciation  
-m 
-2,032 
-2,813 
-3,087 
-3,369 
-Amortisation of Goodwill 
-m 
-0 
-0 
-0 
-0 
- 
- Amortisation of Goodwill 
-m 
-0 
-0 
-0 
-0 
-Other Amortisation 
-m 
-0 
-0 
-0 
-0 
- 
- Other Amortisation 
-m 
-0 
-0 
-0 
-0 
-EBIT 
-m 
-14,931 
-14,873 
-14,540 
-15,566 
- 
- EBIT 
-m 
-26,016 
-29,804 
-30,106 
-31,934 
-Net Interest Income 
-m 
-615 
-691 
-968 
-968 
- 
- Net Interest Income 
-m 
-1,386 
-1,306 
-1,936 
-2,862 
-Associates 
-m 
-0 
-0 
-0 
-0 
- 
- Associates 
-m 
-0 
-0 
-0 
-0 
-Exceptionals 
-m 
-174 
--711 
-690 
-592 
- 
- Exceptionals 
-m 
-1,231 
--537 
-1,282 
--305 
-Forex Gains / Losses 
-m 
-0 
-0 
-0 
-0 
- 
- Forex Gains / Losses 
-m 
-0 
-0 
-0 
-0 
-Other Pre-Tax Income 
-m 
--416 
-1,095 
--578 
--586 
- 
- Other Pre-Tax Income 
-m 
--2,016 
-680 
--1,164 
-436 
-Pre-Tax Profit 
-m 
-15,304 
-15,948 
-15,620 
-16,540 
- 
- Pre-Tax Profit 
-m 
-26,617 
-31,253 
-32,160 
-34,927 
-Tax Expense 
-m 
--2,419 
--2,392 
--2,343 
--2,481 
- 
- Tax Expense 
-m 
--4,109 
--4,811 
--4,824 
--5,239 
-Net Profit 
-m 
-12,885 
-13,556 
-13,277 
-14,059 
- 
- Net Profit 
-m 
-22,509 
-26,441 
-27,336 
-29,688 
-Minority Interests 
-m 
--79 
--59 
--82 
--61 
- 
- Minority Interests 
-m 
--107 
--138 
--142 
--154 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Reported Earnings 
-m 
-12,806 
-13,497 
-13,195 
-13,998 
- 
- Reported Earnings 
-m 
-22,402 
-26,304 
-27,194 
-29,534 
-Adjusted Earnings 
-m 
-12,632 
-14,208 
-12,505 
-13,406 
- 
- Adjusted Earnings 
-m 
-21,170 
-26,841 
-25,912 
-29,839 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-EPS (rep) 
- 
-2.13 
-2.24 
-2.19 
-2.33 
- 
- EPS (rep) 
- 
-3.72 
-4.37 
-4.52 
-4.91 
-EPS (adj) 
- 
-2.10 
-2.36 
-2.08 
-2.23 
- 
- EPS (adj) 
- 
-3.52 
-4.46 
-4.31 
-4.96 
-EPS Growth yoy (adj) 
-% 
-37.5 
-18.6 
--1.0 
--5.6 
- 
- EPS Growth (adj) 
-% 
-35.3 
-26.8 
--3.5 
-15.2 
- 
- 
- 
- 
- 
- 
- 
- PE (rep) 
-x 
-10.4 
-8.9 
-8.6 
-7.9 
- 
- 
- 
- 
- 
- 
- 
- PE (adj) 
-x 
-11.0 
-8.7 
-9.0 
-7.8 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-EBITDA Margin 
-% 
-17.8 
-18.2 
-17.4 
-18.6 
- 
- Total DPS 
- 
-0.00 
-1.75 
-1.81 
-1.96 
-EBIT Margin 
-% 
-16.2 
-16.7 
-15.8 
-16.9 
- 
- Total Div Yield 
-% 
-0.0 
-4.5 
-4.7 
-5.1 
-Earnings Split 
-% 
-47.1 
-52.9 
-48.3 
-51.7 
- 
- Basic Shares Outstanding 
-m 
-6,016 
-6,016 
-6,016 
-6,016 
-Revenue Growth 
-% 
-31.4 
-11.5 
-0.2 
-3.0 
- 
- Diluted Shares Outstanding 
-m 
-6,016 
-6,016 
-6,016 
-6,016 
-EBIT Growth 
-% 
-37.7 
--2.0 
--2.6 
-4.7 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Profit and Loss Ratios 
- 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- Cashflow Analysis 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Revenue Growth 
-% 
-36.2 
-20.8 
-1.6 
-4.8 
- 
- EBITDA 
-m 
-28,048 
-32,617 
-33,194 
-35,303 
-EBITDA Growth 
-% 
-80.3 
-16.3 
-1.8 
-6.4 
- 
- Tax Paid 
-m 
-0 
-0 
-0 
-0 
-EBIT Growth 
-% 
-89.3 
-14.6 
-1.0 
-6.1 
- 
- Chgs in Working Cap 
-m 
--600 
--896 
--1,500 
-2,293 
-Gross Profit Margin 
-% 
-33.5 
-31.7 
-31.7 
-31.6 
- 
- Net Interest Paid 
-m 
--1,533 
--1,722 
--1,077 
-0 
-EBITDA Margin 
-% 
-18.7 
-18.0 
-18.0 
-18.3 
- 
- Other 
-m 
--9,556 
--2,028 
--1,693 
--2,246 
-EBIT Margin 
-% 
-17.3 
-16.4 
-16.3 
-16.5 
- 
- Operating Cashflow 
-m 
-16,359 
-27,971 
-28,924 
-35,349 
-Net Profit Margin 
-% 
-14.1 
-14.8 
-14.1 
-15.5 
- 
- Acquisitions 
-m 
-0 
-0 
-0 
-0 
-Payout Ratio 
-% 
-0.0 
-39.2 
-42.0 
-39.6 
- 
- Capex 
-m 
--2,425 
--2,719 
--2,762 
--2,895 
-EV/EBITDA 
-x 
-4.7 
-4.0 
-4.0 
-3.7 
- 
- Asset Sales 
-m 
-0 
-0 
-0 
-0 
-EV/EBIT 
-x 
-5.1 
-4.4 
-4.4 
-4.1 
- 
- Other 
-m 
--59,829 
--500 
--500 
--500 
- 
- 
- 
- 
- 
- 
- 
- Investing Cashflow 
-m 
--62,253 
--3,219 
--3,262 
--3,395 
-Balance Sheet Ratios 
- 
- 
- 
- 
- 
- 
- Dividend (Ordinary) 
-m 
--11,121 
--3,609 
--10,521 
--10,878 
-ROE 
-% 
-35.4 
-34.9 
-26.8 
-26.1 
- 
- Equity Raised 
-m 
-0 
-0 
-0 
-0 
-ROA 
-% 
-13.1 
-12.4 
-11.5 
-11.8 
- 
- Debt Movements 
-m 
-8,601 
-12,498 
--31,144 
-0 
-ROIC 
-% 
--73.4 
--178.5 
--206.0 
--252.5 
- 
- Other 
-m 
-251 
-0 
-0 
-0 
-Net Debt/Equity 
-% 
--121.1 
--113.9 
--110.1 
--110.4 
- 
- Financing Cashflow 
-m 
--2,269 
-8,889 
--41,666 
--10,878 
-Interest Cover 
-x 
-nmf 
-nmf 
-nmf 
-nmf 
- 
- 
- 
- 
- 
- 
- 
-Price/Book 
-x 
-3.6 
-2.6 
-2.2 
-1.9 
- 
- Net Chg in Cash/Debt 
-m 
--49,962 
-33,641 
--16,004 
-21,077 
-Book Value per Share 
- 
-10.9 
-14.7 
-17.4 
-20.5 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Free Cashflow 
-m 
-13,934 
-25,252 
-26,161 
-32,455 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Balance Sheet 
-2017A 
-2018E 
-2019E 
-2020E 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Cash 
-m 
-99,610 
-133,251 
-117,247 
-138,324 
- 
- 
- 
- 
- 
- 
- 
- Receivables 
-m 
-32,256 
-39,616 
-43,697 
-45,100 
- 
- 
- 
- 
- 
- 
- 
- Inventories 
-m 
-16,568 
-26,841 
-29,605 
-30,556 
- 
- 
- 
- 
- 
- 
- 
- Investments 
-m 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Fixed Assets 
-m 
-17,467 
-17,025 
-16,472 
-15,768 
- 
- 
- 
- 
- 
- 
- 
- Intangibles 
-m 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Other Assets 
-m 
-49,065 
-49,686 
-50,990 
-51,917 
- 
- 
- 
- 
- 
- 
- 
- Total Assets 
-m 
-214,968 
-266,419 
-258,010 
-281,665 
- 
- 
- 
- 
- 
- 
- 
- Payables 
-m 
-9,963 
-12,420 
-13,844 
-14,291 
- 
- 
- 
- 
- 
- 
- 
- Short Term Debt 
-m 
-18,646 
-31,144 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Long Term Debt 
-m 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Provisions 
-m 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
- 
- Other Liabilities 
-m 
-119,524 
-133,173 
-137,670 
-142,067 
- 
- 
- 
- 
- 
- 
- 
- Total Liabilities 
-m 
-148,133 
-176,737 
-151,514 
-156,358 
- 
- 
- 
- 
- 
- 
- 
- Shareholders' Funds 
-m 
-65,359 
-88,054 
-104,726 
-123,382 
- 
- 
- 
- 
- 
- 
- 
- Minority Interests 
-m 
-1,240 
-1,393 
-1,535 
-1,689 
- 
- 
- 
- 
- 
- 
- 
- Other 
-m 
-236 
-236 
-236 
-236 
- 
- 
- 
- 
- 
- 
- 
- Total S/H Equity 
-m 
-66,835 
-89,682 
-106,497 
-125,307 
- 
- 
- 
- 
- 
- 
- 
- Total Liab & S/H Funds 
-m 
-214,968 
-266,419 
-258,010 
-281,665 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-All figures in Rmb unless noted. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Source: Company data, Macquarie Research, September 2018 
- 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-9 
- 
-Important disclosures: 
-Recommendation definitions 
-Macquarie - Australia/New Zealand 
-Outperform – return >3% in excess of benchmark return 
-Neutral – return within 3% of benchmark return 
-Underperform – return >3% below benchmark return 
- 
-Benchmark return is determined by long term nominal 
-GDP growth plus 12 month forward market dividend 
-yield, which is currently around 9%. 
-Macquarie – Asia/Europe 
-Outperform – expected return >+10% 
-Neutral – expected return from -10% to +10% 
-Underperform – expected return <-10% 
-Mazi Macquarie – South Africa 
-Outperform – expected return >+10% 
-Neutral – expected return from -10% to +10% 
-Underperform – expected return <-10% 
-Macquarie - Canada 
-Outperform – return >5% in excess of benchmark return 
-Neutral – return within 5% of benchmark return 
-Underperform – return >5% below benchmark return 
-Macquarie - USA 
-Outperform (Buy) – return >5% in excess of Russell 
-3000 index return 
-Neutral (Hold) – return within 5% of Russell 3000 index 
-return 
-Underperform (Sell)– return >5% below Russell 3000 
-index return 
- 
-Volatility index definition* 
-This is calculated from the volatility of historical 
-price movements. 
- 
-Very high–highest risk – Stock should be 
-expected to move up or down 60–100% in a year 
-– investors should be aware this stock is highly 
-speculative. 
- 
-High – stock should be expected to move up or 
-down at least 40–60% in a year – investors should 
-be aware this stock could be speculative. 
- 
-Medium – stock should be expected to move up 
-or down at least 30–40% in a year. 
- 
-Low–medium – stock should be expected to 
-move up or down at least 25–30% in a year. 
- 
-Low – stock should be expected to move up or 
-down at least 15–25% in a year. 
-* Applicable to Asia/Australian/NZ/Canada stocks 
-only 
-Recommendations – 12 months 
-Note: Quant recommendations may differ from 
-Fundamental Analyst recommendations 
-Financial definitions 
-All "Adjusted" data items have had the following 
-adjustments made: 
-Added back:  goodwill amortisation, provision for 
-catastrophe reserves, IFRS derivatives & hedging, 
-IFRS impairments & IFRS interest expense 
-Excluded:  non recurring items, asset revals, property 
-revals, appraisal value uplift, preference dividends & 
-minority interests 
- 
-EPS = adjusted net profit / efpowa* 
-ROA = adjusted ebit / average total assets 
-ROA Banks/Insurance = adjusted net profit /average 
-total assets 
-ROE = adjusted net profit / average shareholders funds 
-Gross cashflow = adjusted net profit + depreciation 
-*equivalent fully paid ordinary weighted average 
-number of shares 
- 
-All Reported numbers for Australian/NZ listed stocks 
-are modelled under IFRS (International Financial 
-Reporting Standards). 
- 
-Recommendation proportions – For quarter ending 30 June 2018 
- 
-AU/NZ 
-   Asia 
-  RSA 
-   USA 
-    CA 
-  EUR 
-Outperform 
-52.87% 
-61.26% 
-  
-47.54% 
-69.86% 
-46.61% 
-(for global coverage by Macquarie, 3.51% of stocks followed are investment banking clients) 
-Neutral       
-34.10% 
-27.25% 
-  
-46.72% 
-21.92% 
-43.22% 
-(for global coverage by Macquarie, 2.10% of stocks followed are investment banking clients) 
-Underperform 
-13.03% 
-11.49% 
-  
-5.74% 
-8.22% 
-10.17% 
-(for global coverage by Macquarie, 0.00% of stocks followed are investment banking clients) 
- 
- 
- 
-000651 CH vs CSI 300, & rec history 
- 
-(all figures in CNY currency unless noted) 
-Note: Recommendation timeline – if not a continuous line, then there was no Macquarie coverage at the time or there was an embargo period. 
-Source: FactSet, Macquarie Research, September 2018 
- 
- 
- 
- 
-12-month target price methodology 
-000651 CH: Rmb38.80 based on a PER methodology 
- 
-Company-specific disclosures: 
-  
-Important disclosure information regarding the subject companies covered in this report is available at www.macquarie.com/research/disclosures.  
- 
-Date 
-Stock Code (BBG code) 
-Recommendation 
-Target Price 
-02-Sep-2018 
-000651 CH 
-Outperform 
-Rmb45.10 
-07-Dec-2017 
-000651 CH 
-Outperform 
-Rmb51.00 
-01-Sep-2017 
-000651 CH 
-Outperform 
-Rmb46.60 
-14-Jul-2017 
-000651 CH 
-Outperform 
-Rmb45.80 
-28-Apr-2017 
-000651 CH 
-Outperform 
-Rmb38.60 
-20-Oct-2016 
-000651 CH 
-Outperform 
-Rmb26.00 
-12-Feb-2016 
-000651 CH 
-Neutral 
-Rmb19.10 
- 
-Target price risk disclosures: 
-000651 CH: Any inability to compete successfully in their markets may harm the business. This could be a result of many factors which may include 
-geographic mix and introduction of improved products or service offerings by competitors. The results of operations may be materially affected by global 
-economic conditions generally, including conditions in financial markets. The company is exposed to market risks, such as changes in interest rates, 
-foreign exchange rates and input prices. From time to time, the company will enter into transactions, including transactions in derivative instruments, to 
-manage certain of these exposures. 
- 
-Analyst certification:  
-We hereby certify that all of the views expressed in this report accurately reflect our personal views about the subject company or companies and its or 
-their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly, related to the specific recommendations or views 
-expressed in this report. The Analysts responsible for preparing this report receive compensation from Macquarie that is based upon various factors 
-including Macquarie Group Ltd total revenues, a portion of which are generated by Macquarie Group’s Investment Banking activities. 
-General disclaimers:   
-Macquarie Securities (Australia) Ltd; Macquarie Capital (Europe) Ltd; Macquarie Capital Markets Canada Ltd; Macquarie Capital Markets North America 
-Ltd;  Macquarie Capital (USA) Inc; Macquarie Capital Limited, Taiwan Securities Branch; Macquarie Capital Securities (Singapore) Pte Ltd; Macquarie 
-Securities (NZ) Ltd; Mazi Macquarie Securities (RF) (Pty) Ltd; Macquarie Capital Securities (India) Pvt Ltd; Macquarie Capital Securities (Malaysia) Sdn 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-10 
-Bhd; Macquarie Securities Korea Limited and Macquarie Securities (Thailand) Ltd are not authorized deposit-taking institutions for the purposes of the 
-Banking Act 1959 (Commonwealth of Australia), and their obligations do not represent deposits or other liabilities of Macquarie Bank Limited ABN 46 
-008 583 542 (MBL) or MGL.  MBL does not guarantee or otherwise provide assurance in respect of the obligations of any of the above mentioned 
-entities.  MGL provides a guarantee to the Monetary Authority of Singapore in respect of the obligations and liabilities of Macquarie Capital Securities 
-(Singapore) Pte Ltd for up to SGD 35 million.  This research has been prepared for the general use of the wholesale clients of the Macquarie Group and 
-must not be copied, either in whole or in part, or distributed to any other person. If you are not the intended recipient you must not use or disclose the 
-information in this research in any way. If you received it in error, please tell us immediately by return e-mail and delete the document. We do not 
-guarantee the integrity of any e-mails or attached files and are not responsible for any changes made to them by any other person. MGL has 
-established and implemented a conflicts policy at group level (which may be revised and updated from time to time) (the "Conflicts Policy") pursuant to 
-regulatory requirements (including the FCA Rules) which sets out how we must seek to identify and manage all material conflicts of interest. Nothing in 
-this research shall be construed as a solicitation to buy or sell any security or product, or to engage in or refrain from engaging in any transaction. In 
-preparing this research, we did not take into account your investment objectives, financial situation or particular needs. Macquarie salespeople, traders 
-and other professionals may provide oral or written market commentary or trading strategies to our clients that reflect opinions which are contrary to the 
-opinions expressed in this research. Macquarie Research produces a variety of research products including, but not limited to, fundamental analysis, 
-macro-economic analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of research product may differ from 
-recommendations contained in other types of research, whether as a result of differing time horizons, methodologies, or otherwise. Before making an 
-investment decision on the basis of this research, you need to consider, with or without the assistance of an adviser, whether the advice is appropriate 
-in light of your particular investment needs, objectives and financial circumstances. There are risks involved in securities trading. The price of securities 
-can and does fluctuate, and an individual security may even become valueless. International investors are reminded of the additional risks inherent in 
-international investments, such as currency fluctuations and international stock market or economic conditions, which may adversely affect the value of 
-the investment. This research is based on information obtained from sources believed to be reliable but we do not make any representation or warranty 
-that it is accurate, complete or up to date. We accept no obligation to correct or update the information or opinions in it. Opinions expressed are subject 
-to change without notice. No member of the Macquarie Group accepts any liability whatsoever for any direct, indirect, consequential or other loss arising 
-from any use of this research and/or further communication in relation to this research.  Clients should contact analysts at, and execute transactions 
-through, a Macquarie Group entity in their home jurisdiction unless governing law permits otherwise. The date and timestamp for above share price and 
-market cap is the closed price of the price date. #CLOSE is the final price at which the security is traded in the relevant exchange on the date indicated. 
-Members of the Macro Strategy team are Sales & Trading personnel who provide desk commentary that is not a product of the Macquarie Research 
-department or subject to FINRA Rule 2241 or any other regulation regarding independence in the provision of equity research. 
-Country-specific disclaimers:  
-Australia: In Australia, research is issued and distributed by Macquarie Securities (Australia) Ltd (AFSL No. 238947), a participating organization of the 
-Australian Securities Exchange. Macquarie Securities (Australia) Limited staff involved with the preparation of research have regular interaction with 
-companies they cover. Additionally, Macquarie Group Limited does and seeks to do business with companies covered by Macquarie Research. There 
-are robust information barriers in place to protect the independence of Macquarie Research’s product. However, recipients of Macquarie Research 
-should be aware of this potential conflict of interest. New Zealand: In New Zealand, research is issued and distributed by Macquarie Securities (NZ) Ltd, 
-a NZX Firm. Canada: In Canada, research is prepared, approved and distributed by Macquarie Capital Markets Canada Ltd., a (i) member of the 
-Investment Industry Regulatory Organization of Canada and the Canadian Investor Protection Fund, and (ii) participating organisation of the Toronto 
-Stock Exchange, TSX Venture Exchange & Montréal Exchange. This research is distributed in the United States, as third party research by Macquarie 
-Capital Markets North America Ltd., which is a registered broker-dealer and member of Financial Industry Regulatory Authority and the Securities 
-Investor Protection Corporation. Macquarie Capital Markets North America Ltd. accepts responsibility for the contents of reports issued by Macquarie 
-Capital Markets Canada Ltd. in the United States and sent to US persons. Any US person wishing to effect transactions in the securities described in 
-the reports issued by Macquarie Capital Markets Canada Ltd. should do so with Macquarie Capital Markets North America Ltd. This research is 
-intended for distribution in the United States only to major Institutional Investors (as such term is defined in SEC 15a-6 and Section 15 of the Securities 
-Exchange Act of 1934, as amended) and is not intended for the use of any person or entity that is not a major institutional investor.  Research analysts 
-of Macquarie Capital Markets Canada Ltd. are not registered/qualified as research analysts with FINRA. The Research Distribution Policy of Macquarie 
-Capital Markets Canada Ltd. is to allow all clients that are entitled to have equal access to our research.  United Kingdom: In the United Kingdom, 
-research is issued and distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated by the Financial Conduct Authority (No. 
-193905). Germany: In Germany, this research is issued and/or distributed by Macquarie Capital (Europe) Limited, Niederlassung Deutschland, which is 
-authorised and regulated by the UK Financial Conduct Authority (No. 193905). and in Germany by BaFin. France: In France, research is issued and 
-distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated in the United Kingdom by the Financial Conduct Authority (No. 
-193905). Hong Kong & Mainland China: In Hong Kong, research is issued and distributed by Macquarie Capital Limited, which is licensed and 
-regulated by the Securities and Futures Commission. In Mainland China, Macquarie Securities (Australia) Limited Shanghai Representative Office only 
-engages in non-business operational activities excluding issuing and distributing research. Only non-A share research is distributed into Mainland China 
-by Macquarie Capital Limited.  Japan: In Japan, research is Issued and distributed by Macquarie Capital Securities (Japan) Limited, a member of the 
-Tokyo Stock Exchange, Inc. and Osaka Exchange, Inc. (Financial Instruments Firm, Kanto Financial Bureau (kin-sho) No. 231, a member of Japan 
-Securities Dealers Association).  India: In India, research is issued and distributed by Macquarie Capital Securities (India) Pvt. Ltd. (CIN: 
-U65920MH1995PTC090696), 92, Level 9, 2 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai – 400 051, India, which is a 
-SEBI registered Research Analyst having registration no. INH000000545.  Malaysia: In Malaysia, research is issued and distributed by Macquarie 
-Capital Securities (Malaysia) Sdn. Bhd. (Company registration number: 463469-W) which is a Participating Organisation of Bursa Malaysia Berhad and 
-a holder of Capital Markets Services License issued by the Securities Commission.  Taiwan: In Taiwan, research is issued and distributed by Macquarie 
-Capital Limited, Taiwan Securities Branch, which is licensed and regulated by the Financial Supervisory Commission.  No portion of the report may be 
-reproduced or quoted by the press or any other person without authorisation from Macquarie.  Nothing in this research shall be construed as a 
-solicitation to buy or sell any security or product. The recipient of this report shall not engage in any activities which may give rise to potential conflicts of 
-interest to the report. Research Associate(s) in this report who are registered as Clerks only assist in the preparation of research and are not engaged in 
-writing the research. Macquarie may be in past one year or now being an Issuer of Structured Warrants on securities mentioned in this report. Thailand: 
-In Thailand, research is produced, issued and distributed by Macquarie Securities (Thailand) Ltd. Macquarie Securities (Thailand) Ltd. is a licensed 
-securities company that is authorized by the Ministry of Finance, regulated by the Securities and Exchange Commission of Thailand and is an exchange 
-member of the Stock Exchange of Thailand. The Thai Institute of Directors Association has disclosed the Corporate Governance Report of Thai Listed 
-Companies made pursuant to the policy of the Securities and Exchange Commission of Thailand. Macquarie Securities (Thailand) Ltd does not endorse 
-the result of the Corporate Governance Report of Thai Listed Companies but this Report can be accessed at: http://www.thai-
-iod.com/en/publications.asp?type=4. South Korea: In South Korea, unless otherwise stated, research is prepared, issued and distributed by Macquarie 
-Securities Korea Limited, which is regulated by the Financial Supervisory Services. Information on analysts in MSKL is disclosed at 
-http://dis.kofia.or.kr/websquare/index.jsp?w2xPath=/wq/fundMgr/DISFundMgrAnalystStut.xml&divisionId=MDIS03002001000000&serviceId=SDIS03002
-001000. South Africa: In South Africa, research is issued and distributed by Mazi Macquarie Securities (RF) (Pty) Ltd, a member of the JSE Limited.  
-Singapore: In Singapore, research is issued and distributed by Macquarie Capital Securities (Singapore) Pte Ltd (Company Registration Number: 
-198702912C), a Capital Markets Services license holder under the Securities and Futures Act to deal in securities and provide custodial services in 
-Singapore. Pursuant to the Financial Advisers (Amendment) Regulations 2005, Macquarie Capital Securities (Singapore) Pte Ltd is exempt from 
-complying with sections 25, 27 and 36 of the Financial Advisers Act. All Singapore-based recipients of research produced by Macquarie Capital 
-(Europe) Limited, Macquarie Capital Markets Canada Ltd, Mazi Macquarie Securities (RF) (Pty) Ltd and Macquarie Capital (USA) Inc. represent and 
-warrant that they are institutional investors as defined in the Securities and Futures Act. United States: In the United States, research is issued and 
-distributed by Macquarie Capital (USA) Inc., which is a registered broker-dealer and member of FINRA.  Macquarie Capital (USA) Inc, accepts 
-responsibility for the content of each research report prepared by one of its non-US affiliates when the research report is distributed in the United States 
-by Macquarie Capital (USA) Inc. Macquarie Capital (USA) Inc.’s affiliate’s analysts are not registered as research analysts with FINRA, may not be 
-associated persons of Macquarie Capital (USA) Inc., and therefore may not be subject to FINRA rule restrictions on communications with a subject 
-company, public appearances, and trading securities held by a research analyst account. Information regarding futures is provided for reference 
-Macquarie Research 
-Gree Electric (A-Share) 
-5 September 2018 
-11 
-purposes only and is not a solicitation for purchases or sales of futures. Any persons receiving this report directly from Macquarie Capital (USA) Inc. and 
-wishing to effect a transaction in any security described herein should do so with Macquarie Capital (USA) Inc.  Important disclosure information 
-regarding the subject companies covered in this report is available at www.macquarie.com/research/disclosures, or contact your registered 
-representative at 1-888-MAC-STOCK, or write to the Supervisory Analysts, Research Department, Macquarie Securities, 125 W.55th Street, New York, 
-NY 10019.  
-© Macquarie Group 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Equities 
- 
-Asia Research 
-Head of Equity Research 
-Jake Lynch (Asia – Head) 
-(852) 3922 3583 
-Hiroyuki Sakaida (Japan – Head) 
-(813) 3512 6695 
-Conrad Werner (ASEAN – Head) 
-(65) 6601 0182 
-Automobiles, Auto Parts 
-Janet Lewis (China, Japan) 
-(813) 3512 7856 
-Allen Yuan (China) 
-(8621) 2412 9009 
-James Hong (Korea) 
-(822) 3705 8661 
-Amit Mishra (India)  
-(9122) 6720 4084 
-Banks and Financials 
-Scott Russell (Asia)  
-(852) 3922 3567 
-Dexter Hsu (China, Taiwan) 
-(8862) 2734 7530 
-Keisuke Moriyama (Japan) 
-(813) 3512 7476 
-Chan Hwang (Korea)  
-(822) 3705 8643 
-Suresh Ganapathy (India) 
-(9122) 6720 4078 
-Jayden Vantarakis (Indonesia) 
-(6221) 2598 8310 
-Anand Pathmakanthan (Malaysia) 
-(603) 2059 8833 
-Gilbert Lopez (Philippines) 
-(632) 857 0892 
-Ken Ang (Singapore) 
-(65) 6601 0836 
-Peach Patharavanakul (Thailand) 
-(662) 694 7753 
-Basic Materials, Commodities 
-David Ching (China, Hong Kong) 
-(852) 3922 1823 
-Yasuhiro Nakada (Japan) 
-(813) 3512 7862 
-Anna Park (Korea) 
-(822) 3705 8669 
-Sumangal Nevatia (India) 
-(9122) 6720 4093 
-Jayden Vantarakis (Indonesia) 
-(6221) 2598 8310 
-Farrah Aqlima (Malaysia) 
-(603) 2059 8987 
-Conglomerates 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Gilbert Lopez (Philippines) 
-(632) 857 0892 
-Conrad Werner (Singapore) 
-(65) 6601 0182 
-Consumer, Gaming 
-Linda Huang (Asia) 
-(852) 3922 4068 
-Zibo Chen (China, Hong Kong) 
-(852) 3922 1130 
-Terence Chang (China, Hong Kong) 
-(852) 3922 3581 
-Sunny Chow (China, Hong Kong) 
-(852) 3922 3768 
-Stella Li (China, Taiwan) 
-(8862) 2734 7514 
-Leon Rapp (Japan) 
-(813) 3512 7879 
-Kwang Cho (Korea) 
-(822) 3705 4953 
-Amit Sinha (India)  
-(9122) 6720 4085 
-Robert Pranata (Indonesia) 
-(6221) 2598 8366 
-Richardo Walujo (Indonesia) 
-(6221) 2598 8369 
-Denise Soon (Malaysia) 
-(603) 2059 8845 
-Karisa Magpayo (Philippines) 
-(632) 857 0899 
-Chalinee Congmuang (Thailand) 
-(662) 694 7993 
- 
-Emerging Leaders 
-Jake Lynch (Asia) 
-(852) 3922 3583 
-Kwang Cho (Korea) 
-(822) 3705 4953 
-Corinne Jian (Greater China) 
-(8862) 2734 7522 
-Conrad Werner (ASEAN) 
-(65) 6601 0182 
-Bo Denworalak (Thailand) 
-(662) 694 7774 
-Infrastructure, Industrials, Transportation 
-Patrick Dai (China) 
-(8621) 2412 9082 
-Eric Zong (China, Hong Kong) 
-(852) 3922 4749 
-Kunio Sakaida (Japan) 
-(813) 3512 7873 
-James Hong (Korea) 
-(822) 3705 8661 
-Corinne Jian (Taiwan) 
-(8862) 2734 7522 
-Inderjeetsingh Bhatia (India) 
-(9122) 6720 4087 
-Azita Nazrene (ASEAN) 
-(65) 6601 0560 
-Internet, Media and Software 
-Wendy Huang (Asia) 
-(852) 3922 3378 
-Marcus Yang (Greater China) 
-(8862) 2734 7532 
-John Wang (Hong Kong) 
-(852) 3922 3578 
-Ellie Jiang (Hong Kong) 
-(852) 3922 4110 
-Alankar Garude (India) 
-(9122) 6720 4134 
-Oil, Gas and Petrochemicals 
-Aditya Suresh (Asia) 
-(852) 3922 1265 
-Anna Park (Asia) 
-(822) 3705 8669 
-Yasuhiro Nakada (Japan) 
-(813) 3512 7862 
-Corinne Jian (Taiwan) 
-(8862) 2734 7522 
-Ben Shane Lim (Malaysia) 
-(603) 2059 8868 
-Yupapan Polpornprasert (Thailand) (662) 694 7729 
-Pharmaceuticals and Healthcare 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Xiang Gao (China, Hong Kong) 
-(8621) 2412 9006 
-Corinne Jian (China) 
-(8862) 2734 7522 
-Alankar Garude (India) 
-(9122) 6720 4134 
-Richardo Walujo (Indonesia) 
-(6221) 259 88 369 
-Property, REIT 
-Tuck Yin Soong (Asia, Singapore)  
-(65) 6601 0838 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Kelvin Tam (China) 
-(852) 3922 1181 
-Keisuke Moriyama (Japan) 
-(813) 3512 7476 
-Tomoyoshi Omuro (Japan) 
-(813) 3512 7474 
-Abhishek Bhandari (India) 
-(9122) 6720 4088 
-Richard Danusaputra (Indonesia) 
-(6221) 2598 8368 
-Aiman Mohamad (Malaysia) 
-(603) 2059 8986 
-Kervin Sisayan (Philippines) 
-(632) 857 0893 
-Bo Denworalak (Thailand) 
-(662) 694 7774 
- 
-Technology 
-Damian Thong (Asia, Japan) 
-(813) 3512 7877 
-Allen Chang (Greater China) 
-(852) 3922 1136 
-Jeffrey Ohlweiler (Greater China) 
-(8862) 2734 7512 
-Chris Yu (Greater China) 
-(8621) 2412 9024 
-Kaylin Tsai (Greater China) 
-(8862) 2734 7523 
-Lynn Luo (Greater China) 
-(8862) 2734 7534 
-Patrick Liao (Greater China) 
-(8862) 2734 7515 
-Verena Jeng (Greater China) 
-(852) 3922 3766 
-Daniel Kim (Korea) 
-(822) 3705 8641 
-Abhishek Bhandari (India) 
-(9122) 6720 4088 
-Farrah Aqlima (Malaysia) 
-(603) 2059 8987 
-Telecoms 
-Allen Chang (Greater China) 
-(852) 3922 1136 
-Prem Jearajasingam (ASEAN) 
-(603) 2059 8989 
-Nathania Nurhalim (Indonesia) 
-(6221) 2598 8365 
-Kervin Sisayan (Philippines) 
-(632) 857 0893 
-Utilities, Renewables 
-Hiroyuki Sakaida (Japan) 
-(813) 3512 6695 
-Patrick Dai (China) 
-(8621) 2412 9082 
-Inderjeetsingh Bhatia (India) 
-(9122) 6720 4087 
-Karisa Magpayo (Philippines) 
-(632) 857 0899 
-Strategy, Country 
-Viktor Shvets (Asia, Global) 
-(852) 3922 3883 
-David Ng (China, Hong Kong) 
-(852) 3922 1291 
-Hiroyuki Sakaida (Japan) 
-(813) 3512 6695 
-Chan Hwang (Korea)  
-(822) 3705 8643 
-Jeffrey Ohlweiler (Taiwan) 
-(8862) 2734 7512 
-Inderjeetsingh Bhatia (India) 
-(9122) 6720 4087 
-Conrad Werner (ASEAN, Singapore) 
-(65) 6601 0182 
-Jayden Vantarakis (Indonesia)  
-(6221) 2598 8310 
-Anand Pathmakanthan (Malaysia) 
-(603) 2059 8833 
-Gilbert Lopez (Philippines) 
-(632) 857 0892 
-Peach Patharavanakul (Thailand) 
-(662) 694 7753 
-  
-Find our research at 
-Macquarie: 
-www.macquarieresearch.com 
-Thomson:  
-www.thomson.com/financial 
-Reuters:  
-www.knowledge.reuters.com 
-Bloomberg:  
-MAC GO 
- 
-Factset: 
-http://www.factset.com/home.aspx 
-CapitalIQ 
-www.capitaliq.com 
-Email macresearch@macquarie.com for access 
-   
- 
- 
- 
- 
-Asia Sales 
-Regional Heads of Sales 
-Miki Edelman (Global) 
-(1 212) 231 6121 
-Amelia Mehta (Asia) 
-(65) 6601 0211 
-Alan Chen (Asia) 
-(852) 3922 2019 
-Sandeep Bhatia (India) 
-(9122) 6720 4101 
-Tim Huang (Indonesia) 
-(6221) 2598 8303 
-Thomas Renz (Geneva) 
-(41 22) 818 7712 
-Tomohiro Takahashi (Japan) 
-(813) 3512 7823 
-John Jay Lee (Korea) 
-(822) 3705 9988 
-Nik Hadi (Malaysia) 
-(603) 2059 8888 
-Gino C Rojas (Philippines) 
-(632) 857 0861 
- 
- 
-Regional Heads of Sales cont’d 
-Paul Colaco (San Francisco) 
-(1 415) 762 5003 
-Eric Lin (Taiwan) 
-(8862) 2734 7590 
-Angus Kent (Thailand) 
-(662) 694 7601 
-Mothlib Miah (UK/Europe) 
-(44 20) 3037 4893 
-Christina Lee (US) 
-(44 20) 3037 4873 
-Sales Trading 
-Mark Weekes (Asia) 
-(852) 3922 2084 
-Stanley Dunda (Indonesia) 
-(6221) 515 1555 
- 
- 
-Sales Trading cont’d 
-Suhaida Samsudin (Malaysia) 
-(603) 2059 8888 
-Michael Santos (Philippines) 
-(632) 857 0813 
-Chris Reale (New York) 
-(1 212) 231 2555 
-Marc Rosa (New York) 
-(1 212) 231 2555 
-Justin Morrison (Singapore) 
-(65) 6601 0288 
-Brendan Rake (Thailand) 
-(662) 694 7707 
-Mike Keen (UK/Europe) 
-(44 20) 3037 4905 
- 
- 
- 
-This publication was disseminated on 05 September 2018 at 12:32 UTC.
+purposes only and is not a solicitation for purchases or sales of futures. Any persons receiving this report directly from Macquarie Capital (USA) Inc. and
+wishing to effect a transaction in any security described herein should do so with Macquarie Capital (USA) Inc. Important disclosure information
+representative at 1-888-MAC-STOCK, or write to the Supervisory Analysts, Research Department, Macquarie Securities, 125 W.55th Street, New York,
+NY 10019.
+© Macquarie Group
+Equities
+Asia Research
+Head of Equity Research
+Emerging Leaders
+Technology
+Automobiles, Auto Parts
+Infrastructure, Industrials, Transportation
+Banks and Financials
+Telecoms
+Internet, Media and Software
+Utilities, Renewables
+Basic Materials, Commodities
+Oil, Gas and Petrochemicals
+Strategy, Country
+Conglomerates
+Pharmaceuticals and Healthcare
+Consumer, Gaming
+Linda Huang (Asia)
+Property, REIT
+Zibo Chen (China, Hong Kong)
+Find our research at
+Terence Chang (China, Hong Kong)
+Macquarie:
+Sunny Chow (China, Hong Kong)
+Thomson:
+Reuters:
+Stella Li (China, Taiwan)
+Bloomberg:
+MAC GO
+Leon Rapp (Japan)
+Factset:
+Kwang Cho (Korea)
+CapitallQ
+Amit Sinha (India)
+Robert Pranata (Indonesia)
+Richardo Walujo (Indonesia)
+Denise Soon (Malaysia)
+Karisa Magpayo (Philippines)
+Chalinee Congmuang (Thailand)
+Asia Sales
+Regional Heads of Sales
+Regional Heads of Sales cont'd
+Sales Trading cont'd
+Sales Trading

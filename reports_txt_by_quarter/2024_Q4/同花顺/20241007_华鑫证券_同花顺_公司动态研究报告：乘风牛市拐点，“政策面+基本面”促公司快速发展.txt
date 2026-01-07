@@ -1,644 +1,219 @@
- 
- 
- 
- 
-2024 年10 月07 日 
-乘风牛市拐点，“政策面+基本面”促公司快速
-发展 
-—同花顺（300033.SZ）公司动态研究报告 
-买入(维持) 
- 投资要点 
-  
-分析师：任春阳 
-S1050521110006 
- rency@cfsc.com.cn 
-分析师：宝幼琛 
-S1050521110002 
- baoyc@cfsc.com.cn 
- 
- 
-基本数据 
-2024-09-30 
-当前股价（元） 
-193.31 
-总市值（亿元） 
-1039 
-总股本（百万股） 
-538 
-流通股本（百万股） 
-273 
-52 周价格范围（元） 
-93.28-193.31 
-日均成交额（百万元） 
-912.41 
- 
-市场表现 
-资料来源：Wind，华鑫证券研究 
- 
-相关研究 
- 
-1、《同花顺（300033）：AI+金融
-先行者，商业前景广阔》2023-04-
-11 
- 
-   
- 
-▌ 公司整体经营情况稳定，持续加码研发力度 
-2024 年上半年公司实现营收13.89 亿元，同比下降5.51%；
-归母净利润3.63 亿元，同比下降20.99%，主要系公司四费
-投入增加所致。分产品来看，增值电信业务收入同比下降
-10.96%，软件销售及维护收入同比下降7.19%，广告及互联
-网推广服务收入同比增加9.45%，基金销售及其他业务收入
-同比下降4.91%。盈利能力来看，公司2024 年上半年毛利率
-为84.85%（同比-1.16pct），净利率为26.12%（同比-
-5.11pct）。期间费用率来看，公司2024 年上半年销售/管理
-/ 财务/ 研发分别为17.44%/8.23%/-11.3%/42.62%( 同比
-+2.29pct/+1.36pct/-2.83pct/+4.31pct）,研发费用有所增
-加主要系公司集中资源对人工智能大模型领域进行投入，尤
-其是加大在专业人才引进和算力资源建设等领域的投入所
-致；另外，公司为扩大市场份额，加大销售推广力度，销售
-费用亦相应有所增加。 
-▌ 多年布局AI 主线，深耕技术型先发优势 
-公司是国内领先的互联网金融信息服务提供商，产品及服务
-覆盖产业链上下游的各层次参与主体，包括证券公司、基
-金、银行、保险、政府、研究机构、上市公司以及广大个人
-投资者；为各类机构客户提供软件产品和系统维护服务、金
-融数据服务、智能推广服务，为个人投资者提供金融资讯、
-投资理财分析工具、理财产品投资交易服务。公司从2009 年
-开始布局AI 产品，建立了广泛的AI 生态圈，立足于金融信
-息服务主业，加强人工智能技术与现有业务融合发展，培育
-人工智能产业生态，打造未来增长新引擎。目前公司正在持
-续加强人工智能技术研发，在大模型、智能语音、自然语言
-处理、机器翻译、图形图像、智能体构建等技术领域取得一
-系列成果。公司在金融资讯、金融问答、投资研究、代码生
-成、客户服务、营销推广、办公管理等业务环节均已应用生
-成式人工智能技术，加强内部业务联动，提高服务能力和服
-务效率。截至2024 年6 月30 日，公司已累计获得自主研发
-的软件著作权510 项，发明专利授权103 项（其中美国专利
-20 项），已在AAAI、ICASSP 等国际顶级AI 学术会议上发表
-论文数十篇，形成了明显的技术领先优势。 
-▌ 乘风牛市拐点，“政策端+基本面”利好未来营
--40
--30
--20
--10
-0
-10
-20
-(%)
-同花顺
-沪深300
-公
-司
-研
-究 
-证
-券
-研
-究
-报
-告 
-证券研究报告  
- 
- 
-请阅读最后一页重要免责声明 
-2 
-诚信、专业、稳健、高效 
- 
- 
- 
-收 
-自9 月24 日一系列政策组合拳出台，券商股成为了投资者竞
-相追捧的对象，作为券商行业的上游，金融IT 厂商也在市场
-上行阶段同步受益。根据前瞻产业研究院，随着数字基础相
-关设施不断完善，相关政策逐步落地，2023 年中国金融科技
-整体市场规模超过6000 亿元。从企业发展形势来看，根据
-毕马威调研数据，成立5 年以上的企业数量在四年中增长迅
-速，2023 年占比超过80%，较2020 年翻了一番。其中26%的
-企业成立时间已超十年，较2022 年提升8 个百分点，是
-2020 年占比的四倍。尽管金融科技行业在过去三年内面临新
-冠疫情流行、经济下行压力、地缘政治冲突等多重叠加因素
-的冲击，但大部分受访企业仍表现出较强的发展韧性和风险
-抵御能力，持续赋能金融业服务实体经济。预计未来几年，
-随着技术的进步和监管的完善，将有望持续利好公司未来营
-收体量。 
-▌ 盈利预测 
-预测公司2024-2026 年收入分别为38.48、42.89、48.28 亿
-元，EPS 分别为2.47、2.7、3.06 元，当前股价对应PE 分别
-为78、72、63 倍，维持“买入”投资评级。 
- 
-▌ 风险提示 
-市场活跃度下降、研发进度不及预期、市场监管风险、行业
-竞争加剧等风险。 
-  
-预测指标 
-2023A 
-2024E 
-2025E 
-2026E 
-主营收入（百万元） 
-3,564 
-3,848 
-4,289 
-4,828 
-增长率（%） 
-0.1% 
-8.0% 
-11.4% 
-12.6% 
-归母净利润（百万元） 
-1,402 
-1,328 
-1,452 
-1,647 
-增长率（%） 
--17.1% 
--5.3% 
-9.4% 
-13.4% 
-摊薄每股收益（元） 
-2.61 
-2.47 
-2.70 
-3.06 
-ROE（%） 
-19.2% 
-17.0% 
-17.4% 
-18.3% 
- 
-资料来源：Wind、华鑫证券研究 
-证券研究报告  
- 
- 
-请阅读最后一页重要免责声明 
-3 
-诚信、专业、稳健、高效 
- 
-公司盈利预测（百万元） 
- 
-资产负债表 
-2023A 
-2024E 
-2025E 
-2026E 
-流动资产: 
-现金及现金等价物 
-8,170 
-8,820 
-9,486 
-10,414 
-应收款 
-85 
-74 
-94 
-93 
-存货 
-0 
-0 
-0 
-0 
-其他流动资产 
-10 
-12 
-13 
-14 
-流动资产合计 
-8,265 
-8,905 
-9,593 
-10,521 
-非流动资产: 
-金融类资产 
-0 
-0 
-0 
-0 
-固定资产 
-665 
-619 
-572 
-529 
-在建工程 
-559 
-559 
-559 
-559 
-无形资产 
-339 
-322 
-305 
-289 
-长期股权投资 
-3 
-3 
-3 
-3 
-其他非流动资产 
-13 
-13 
-13 
-13 
-非流动资产合计 
-1,580 
-1,516 
-1,453 
-1,393 
-资产总计 
-9,845 
-10,422 
-11,046 
-11,914 
-流动负债: 
-短期借款 
-0 
-3 
-6 
-6 
-应付账款、票据 
-165 
-179 
-167 
-192 
-其他流动负债 
-1,149 
-1,149 
-1,149 
-1,149 
-流动负债合计 
-2,416 
-2,501 
-2,603 
-2,828 
-非流动负债: 
-长期借款 
-0 
-0 
-0 
-0 
-其他非流动负债 
-110 
-110 
-110 
-110 
-非流动负债合计 
-110 
-110 
-110 
-110 
-负债合计 
-2,526 
-2,611 
-2,712 
-2,938 
-所有者权益 
-股本 
-538 
-538 
-538 
-538 
-股东权益 
-7,319 
-7,811 
-8,334 
-8,976 
-负债和所有者权益 
-9,845 
-10,422 
-11,046 
-11,914 
- 
- 
-现金流量表 
-2023A 
-2024E 
-2025E 
-2026E 
-净利润 
-1402 
-1341 
-1467 
-1663 
-少数股东权益 
-0 
-13 
-15 
-17 
-折旧摊销 
-72 
-83 
-78 
-72 
-公允价值变动 
-0 
-0 
-0 
-0 
-营运资金变动 
-117 
-92 
-77 
-225 
-经营活动现金净流量 
-1592 
-1530 
-1636 
-1978 
-投资活动现金净流量 
--484 
-47 
-47 
-43 
-筹资活动现金净流量 
--458 
--847 
--941 
--1021 
-现金流量净额 
-650 
-730 
-742 
-1,000 
- 
-利润表 
-2023A 
-2024E 
-2025E 
-2026E 
-营业收入 
-3,564 
-3,848 
-4,289 
-4,828 
-营业成本 
-389 
-497 
-570 
-637 
-营业税金及附加 
-58 
-42 
-39 
-48 
-销售费用 
-497 
-435 
-437 
-483 
-管理费用 
-204 
-196 
-214 
-241 
-财务费用 
--203 
--31 
--33 
--36 
-研发费用 
-1,179 
-1,335 
-1,501 
-1,695 
-费用合计 
-1,678 
-1,936 
-2,120 
-2,383 
-资产减值损失 
--1 
--1 
--1 
--1 
-公允价值变动 
-0 
-0 
-0 
-0 
-投资收益 
-1 
-50 
-0 
-9 
-营业利润 
-1,512 
-1,429 
-1,564 
-1,774 
-加:营业外收入 
-2 
-1 
-1 
-1 
-减:营业外支出 
-12 
-0 
-0 
-0 
-利润总额 
-1,501 
-1,430 
-1,565 
-1,775 
-所得税费用 
-99 
-89 
-99 
-112 
-净利润 
-1,402 
-1,341 
-1,467 
-1,663 
-少数股东损益 
-0 
-13 
-15 
-17 
-归母净利润 
-1,402 
-1,328 
-1,452 
-1,647 
-主要财务指标 
-2023A 
-2024E 
-2025E 
-2026E 
-成长性 
-营业收入增长率 
-0.1% 
-8.0% 
-11.4% 
-12.6% 
-归母净利润增长率 
--17.1% 
--5.3% 
-9.4% 
-13.4% 
-盈利能力 
-毛利率 
-89.1% 
-87.1% 
-86.7% 
-86.8% 
-四项费用/营收 
-47.1% 
-50.3% 
-49.4% 
-49.3% 
-净利率 
-39.3% 
-34.9% 
-34.2% 
-34.4% 
-ROE 
-19.2% 
-17.0% 
-17.4% 
-18.3% 
-偿债能力 
-资产负债率 
-25.7% 
-25.1% 
-24.6% 
-24.7% 
-营运能力 
-总资产周转率 
-0.4 
-0.4 
-0.4 
-0.4 
-应收账款周转率 
-41.9 
-52.1 
-45.6 
-52.1 
-存货周转率 
-0.0 
-0.0 
-0.0 
-0.0 
-每股数据(元/股) 
-EPS 
-2.61 
-2.47 
-2.70 
-3.06 
-P/E 
-74.1 
-78.3 
-71.6 
-63.1 
-P/S 
-29.2 
-27.0 
-24.2 
-21.5 
-P/B 
-14.2 
-13.3 
-12.5 
-11.6 
-资料来源：Wind、华鑫证券研究 
- 
- 
-证券研究报告  
- 
- 
-请阅读最后一页重要免责声明 
-4 
-诚信、专业、稳健、高效 
- 
- 
-▌ 计算机&中小盘组介绍 
- 
-宝幼琛：本硕毕业于上海交通大学，多次新财富、水晶球最佳分析师团队成
-员，7 年证券从业经验，2021 年11 月加盟华鑫证券研究所，目前主要负责计
-算机与中小盘行业上市公司研究。擅长领域包括：云计算、网络安全、人工智
-能、区块链等。 
-任春阳：华东师范大学经济学硕士，6 年证券行业经验，2021 年11 月加盟华
-鑫证券研究所，从事计算机与中小盘行业上市公司研究 
-周文龙：澳大利亚莫纳什大学金融硕士 
-陶欣怡：毕业于上海交通大学，于2023 年10 月加入团队。 
- 
- 
-▌ 证券分析师承诺 
-本报告署名分析师具有中国证券业协会授予的证券投资咨询执业资格并注册为
-证券分析师，以勤勉的职业态度，独立、客观地出具本报告。本报告清晰准确
-地反映了本人的研究观点。本人不曾因，不因，也将不会因本报告中的具体推
-荐意见或观点而直接或间接收到任何形式的补偿。 
- 
-▌ 证券投资评级说明 
-股票投资评级说明： 
- 
-投资建议 
-预测个股相对同期证券市场代表性指数涨幅 
-1 
-买入 
-> 20% 
-2 
-增持 
-10% — 20% 
-3 
-中性 
--10% — 10% 
-4 
-卖出 
-< -10% 
-行业投资评级说明： 
- 
-投资建议 
-行业指数相对同期证券市场代表性指数涨幅 
-1 
-推荐 
-> 10% 
-2 
-中性 
--10% — 10% 
-3 
-回避 
-< -10% 
-以报告日后的12 个月内，预测个股或行业指数相对于相关证券市场主要指数
-的涨跌幅为标准。 
-相关证券市场代表性指数说明：A 股市场以沪深300 指数为基准；新三板市场
-以三板成指（针对协议转让标的）或三板做市指数（针对做市转让标的）为基
-准；香港市场以恒生指数为基准；美国市场以道琼斯指数为基准。 
- 
-证券研究报告  
- 
- 
-请阅读最后一页重要免责声明 
-5 
-诚信、专业、稳健、高效 
- 
-▌ 免责条款 
-华鑫证券有限责任公司（以下简称“华鑫证券”）具有中国证监会核准的证券
-投资咨询业务资格。本报告由华鑫证券制作，仅供华鑫证券的客户使用。本公
-司不会因接收人收到本报告而视其为客户。 
-本报告中的信息均来源于公开资料，华鑫证券研究部门及相关研究人员力求准
-确可靠，但对这些信息的准确性及完整性不作任何保证。我们已力求报告内容
-客观、公正，但报告中的信息与所表达的观点不构成所述证券买卖的出价或询
-价的依据，该等信息、意见并未考虑到获取本报告人员的具体投资目的、财务
-状况以及特定需求，在任何时候均不构成对任何人的个人推荐。投资者应当对
-本报告中的信息和意见进行独立评估，并应同时结合各自的投资目的、财务状
-况和特定需求，必要时就财务、法律、商业、税收等方面咨询专业顾问的意
-见。对依据或者使用本报告所造成的一切后果，华鑫证券及/或其关联人员均不
-承担任何法律责任。本公司或关联机构可能会持有报告中所提到的公司所发行
-的证券头寸并进行交易，还可能为这些公司提供或争取提供投资银行、财务顾
-问或者金融产品等服务。本公司在知晓范围内依法合规地履行披露。 
-本报告中的资料、意见、预测均只反映报告初次发布时的判断，可能会随时调
-整。该等意见、评估及预测无需通知即可随时更改。在不同时期，华鑫证券可
-能会发出与本报告所载意见、评估及预测不一致的研究报告。华鑫证券没有将
-此意见及建议向报告所有接收者进行更新的义务。 
-本报告版权仅为华鑫证券所有，未经华鑫证券书面授权，任何机构和个人不得
-以任何形式刊载、翻版、复制、发布、转发或引用本报告的任何部分。若华鑫
-证券以外的机构向其客户发放本报告，则由该机构独自为此发送行为负责，华
-鑫证券对此等行为不承担任何责任。本报告同时不构成华鑫证券向发送本报告
-的机构之客户提供的投资建议。如未经华鑫证券授权，私自转载或者转发本报
-告，所引起的一切后果及法律责任由私自转载或转发者承担。华鑫证券将保留
-随时追究其法律责任的权利。请投资者慎重使用未经授权刊载或者转发的华鑫
-证券研究报告。 
- 
- 
-报告编码：HX-241007122638 
+”『····································
+データー・ 「
+上
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+· "E" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P" a "P"
+- In a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i li n a n i l
+-ï------------------------------------
+”————————————————————————————————————
+” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “Pin” = “
+· "E"
+- 『・『・『・『・『・『・『・『・『・『・『・『・『・『
+· "E" - ""
+事事である。『inela nile』『inela nile』
+· "
+事事で表現。『ina la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la n
+『『『『『『『『『『『『『『『『『『『
+- 『『 事物 であった もっぱ にもっぱ にゅうしょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうじょ しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう しゅうしゅう
+・『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子
+8・『旧記に記に記に記にににににににににににに
+airelaire1.irelaire1.irelaire
+『helpha nile alline”『helpha nile alline”『helpha nile alline”『helpha nile alline”
+”电视电台记忆。1. in line
+- Page a The Raine a The Raine a The Raine a The Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Raine Rai
+· arin [a-min] arin in arin in arin in arin in arin in arin in arin in arin in arin in arin in arin ar
+· ""
+· arie la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li ne la li n
+”『上間中では『正明の記憶を記述を記述を記述を記述を記述を記述を記述していません。
+”『Pural”『irana”
+三事では、では、では、では、では、では、では、では、では、では、
+『上電子』『上電子』『上電子』『上電子』
+· III-linenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilenapilen
+音・『上でで記・記・記・記・記・記・記・記・記・記・記・記・記・
+東京市場市場で記門市場で市場に市場に市場に市場に市場に市場に市場に
+『上電子では『in Paper a fur n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Paper n in Pape
+”——R—Pi——R—Pi———————————————————————————
+- Tei-u-i-li-e-li-e-li-e-li-e-li-e-li-e-li-
+『上で『上でにににににににににににににににににに
+- "" a"" e "" e "" e "" e "" e "" e "" e
+プトラード『ー『ー『ー『ー『ー『ー『ー『ー『ー『ー『ー『ー『ー
+『『記事で記事で記事で記事で記事である『記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事である。『記事で記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記
+· ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+
+- ""
+『heire』『inalianalanalanalanalanalanalanalanalana
+『上で記録を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+電子であった。『旧事であります。「in line』
+”事情的自治。『ina la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la n
+音楽で表示であった。『正学の記憶を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+『上で記録のでは、『上で記録では、では、では、では、では、では、では、では、では、では、
+『上電子記録である『上電子記録のでは、では、では、では、では、では、では、では、では、では、
+『Pape alle nile alle『in alle alle alle alle alle alle alle all
+” 『Para” line në në në në në në në në në në në në në
+”上零台。『上電子』
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+目・『・『上『上『上『上『上『上『上『上『
+- 電響・電子・・・・・・・・・・・・・・・・・・
+- 『上電子 Rive a mile nile nile nile nile nile nile nile n
+『『『記事で記事で記事で記事で記事である『『記事で記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『
+事事。『中で記録のでは、では、では、では、では、では、では、では、では、では、
+a Tim qui ni li ni ni ni ni ni ni ni ni ni ni ni ni ni
+。『heipela line』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』『ine』
+· Bayla nirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenirellenir
+『上電子』『inalianalianalianalianalianalianalianal
+『『記号記事で記載を記述である。記事で記載を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+『上電子記録の記述で表現。『上電子記述の記述では、「上電子記述の記述である。」「記述の記述である。」「記述の記述を記述である。」「記述の記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記
+音いでは、では、では、では、では、では、では、では、では、では、
+腫・でいま。によってによってによってによってによってによってによってによって
+”『Pia”『ia”『ia”
+· ""
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『上電子『上電子『上記
+『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上『上『上『上に上にトにトにトにトにトにトにトにトに
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+『heipela likePille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a like『ille a lik
+”——8『hara nu nu nu nu nu nu nu nu nu nu nu nu nu
+në.Pinënënënënënënënënënënënënënënënënënënë
+”『arika di në në në në në në në në në në në në në
+- "" a"".
+第一次高小で記に記に記に記に記に記にににににににに
+音楽では、『hurnal arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ar
+音響・電子 arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e line arin e lin
+音… 日本 日本 日本 日本 日本 日本 日本 日本 日本 日本 日本 日本 日本
+i.li
+事事で記事で記事で記事で記事で記事で記事で記事である。Pinarie
+· III。III。
+。『上電子記録『正記』
+『上電子』『正で記録のでは、では、では、では、では、では、では、では、では、では、
+" " " " " " " " " " " " " " " " " " "
+電子 であった できまった でいまった でんしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょ
+『『『『『『『『『『『『『『『『『『『
+音・『・・・・・・・・・・・・・・・・・・
+電車で表現します。『inelana line』。『inelana line』。
+· Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+。『上『上『上『上『上『上『上『トーーーーーーーーーーーーーーーーーー
+”——R“in”——”—————————————————————————————————
+『上『記『記『記『記『記『記『記『記『記『
+in Page 1.
+第二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十二十
+- Ball na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na lie na
+音・『heipen ne ne ne ne ne ne ne ne ne ne ne ne n
+në.Perënë
+第一、では、では、では、では、では、では、では、では、では、では
+書事。『事事中で表現。『ina Papa lina Papa lina Papa Papa Papa Papa Papa Papa Papa Pa
+『・『・『・『・『・『・『に『に『に『に
+事事。『上記記』『正記記』『正記記記』『正記記記記記記記記記記記記記記記記記記記記記
+a The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A Th
+- Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Ta
+見いています。見いています。見いています。
+電子では、では、では、では、では、では、では、では、では、では、
+音います。『記事句』『記事句』『記事句』『記事句』『記事句』
+音・『記『記『記『記『記『記『記『記『記『
+见。Pin line
+書いて、では、では、では、では、では、では、では、では、では、では
+：『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『
+『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+音・・・・・・・・・・・・・・・・・・・
+電車。Paul Paul Paul Paul Paul Paul Paul Paul
+等。1. Tan a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a
+” ——”『in a line ni ni ni ni ni ni ni ni ni ni ni ni ni
+報告。電子電子電子電子電子
+等等。The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state
+· Page a di la la la la la la la la la la la la la
+是ParParParParParParParParParPar
+音楽では、『記録の記録を記録を記述を記述を記述を記述を記述を記述を記述を記述しています。『記述記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述
+告，ParBarBarBarBarBarBarBarBarBarB
+事事。『中で記録 a Ti Li Li Li Li Li Li Li Li Li Li Li Li Li
+”『Piers”『iers”『iers”

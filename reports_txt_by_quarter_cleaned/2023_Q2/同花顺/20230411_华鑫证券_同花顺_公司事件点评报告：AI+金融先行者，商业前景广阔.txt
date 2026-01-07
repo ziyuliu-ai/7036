@@ -1,76 +1,147 @@
-AI金融先行者，商业前景广阔
-—同花顺（300033SZ）公司事件点评报告
-52 周价格范围（元）
-日均成交额（百万元）
-公司发布2022 年度报告：公司实现营收356 亿元，同比增
-长14%；受疫情影响，实现归母净利润169 亿元，同比下
-滑115%；实现扣非归母净利润167 亿元，同比下滑
-深度布局AI，高研发投入打造增长引擎
-2022 年，公司研发投入达107 亿元，同比增长166%。公司
-专注AI 领域研发投入，积极培育AI 产业生态，AI 开放平
-台、i 问财等均落地。在ChatGPT 引领大潮流下，公司凭借
-已构建的同花顺AI 开放平台，面向客户提供智能语音、智能
-金融问答、智能投顾、会议转写系统、多模态数字人对话、
-机器翻译平台等多项AI 产品及服务。其中自主研发的同花顺
-智能语音平台，在中文金融场景语音识别准确率达98%以
-上，中英文通用场景识别准确率超95%，多种方言识别准确
-率超过 90%；同时，平台具备高度拟人的语音合成能力，以
-及语音转换、歌声合成、情感识别和声纹识别等智能语音技
-术能力。此外，公司模拟数字人对话平台运用多模态数字人
-对话技术，实现与真人用户面对面的交互体验，已落地
-多个大型客户；机器翻译平台已支持12 种语言，132 种语向
-的翻译以及PDF、Word、PPT 等 11 种主流文件格式的翻译，
-以及图片翻译、语音翻译等跨模态翻译。另一方面，公司重
-点打造的i 问财结合AI 大模型将财经领域扩展到通用领域，
-并切换到多语言场景；iFIND 在AI 加持下，开发出智能客
-服、智能投研等功能。未来公司将继续保持AI 研发高投入，
-在多领域打造新盈利增长引擎。
-AI 产品再升级，AI金融前景广阔
-2023 年，公司推出 AI 短视频平台、同花顺数字人交互一体
-机、同花顺虚拟展厅、小花探影四款AI 产品。其中AI 短视
-频平台能够智能生成新闻资讯、大盘收评、财报解读、排行
-榜单、投资者教育、产品培训等视频内容，实现AI 自动人
-机协同生产视频模式；数字人交互一体机媲美真人的专业知
-识人设，未来能够运用于多行业服务场景中；小花探影能够
-于手术中对检查部位进行导航提示，已取得医疗器械二类
-证，并与多家知名医疗机构达成合作；同花顺虚拟展厅以3D
-全景展示线上配合声光动画等特效，突破时空限制带来新沉
-浸式体验。此外，国内外大模型陆续亮相，各巨头开启差异
-诚信、专业、稳健、高效
-化竞争培育品牌护城河。其中彭博社发布BloombergGPT，该
-模型训练于广泛金融数据上的500 亿参数语言模型。基于
-Bloomberg 广泛数据来源的3630 亿标记数据集，并使用
-3450 亿来自通用数据集的标记进行扩充。此模型将帮助
-Bloomberg 改进现有的金融NLP 任务，将AI 潜力引入金融领
-域。公司作为国内公司属于国内金融领域与AI 技术结合的先
-行者，未来有望受益于AI金融新业态。
-预测公司2023-2025 年收入分别为432 亿元、518 亿元、
-610 亿元，EPS 分别为384、444、510 元，当前股价对应
-PE 分别为50、44、38 倍，给予买入投资评级。
-宏观经济环境风险、客户集中度较高风险、产业政策变化风
-险、AI 增速不及预期等风险。
-归母净利润（百万元）
-诚信、专业、稳健、高效
-公司盈利预测（百万元）
-诚信、专业、稳健、高效
-计算机中小盘组介绍
-算机与中小盘行业上市公司研究。擅长领域包括：云计算、网络安全、人工智
-许思琪：澳大利亚国立大学硕士。
-周文龙：澳大利亚莫纳什大学硕士。
-地反映了本人的研究观点。本人不曾因，不因，也将不会因本报告中的具体推
-荐意见或观点而直接或间接收到任何形式的补偿。
-以三板成指（针对协议转让标的）或三板做市指数（针对做市转让标的）为基
-准；香港市场以恒生指数为基准；美国市场以道琼斯指数为基准。
-诚信、专业、稳健、高效
-司不会因接收人收到本报告而视其为客户。
-确可靠，但对这些信息的准确性及完整性不作任何保证。我们已力求报告内容
-价的依据，该等信息、意见并未考虑到获取本报告人员的具体投资目的、财务
-状况以及特定需求，在任何时候均不构成对任何人的个人推荐。投资者应当对
-本报告中的信息和意见进行独立评估，并应同时结合各自的投资目的、财务状
-况和特定需求，必要时就财务、法律、商业、税收等方面咨询专业顾问的意
-承担任何法律责任。本公司或关联机构可能会持有报告中所提到的公司所发行
-问或者金融产品等服务。本公司在知晓范围内依法合规地履行披露。
-本报告中的资料、意见、预测均只反映报告初次发布时的判断，可能会随时调
-此意见及建议向报告所有接收者进行更新的义务。
-以任何形式刊载、翻版、复制、发布、转发或引用本报告的任何部分。若华鑫
-随时追究其法律责任的权利。请投资者慎重使用未经授权刊载或者转发的华鑫
+電子 a This This This This This This This This
+| 市場・電子 | 一部で
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+ē.li—in—
+· Pa · Pa · Pa · Pa · Pa · Pa · Pa · Pa
+a∏e a∏e a∏e a∏e a∏e an an an an an an an an an an an an an
+· The arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine
+· "E
+”上“名”上“名”上“名”上“名”上“名”上“名”上“名”上“名”上“名”上“名
+『上『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『heire』『
+në.Perënë.
+· "
+- 『『上『上『上『上『上『上『上『上『上『
+『『『『『『『『『『『『『『『『『『『
+電車で表現。「in line line line line line line line li
+『『『『『『『『『『『『『『『『『『『
+a, Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pinara − Pi
+- 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・ 『・
+電車では『inella nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla nurilla
+” "arin alin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" alin "arin" ali
+事事。『・『・『・『・『・『・『・『・『・『
+” “arike” ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e ariu e a
+！Page nile nile1. in lie nile nile nile nile nile nile ni
+電車では『inela juile『inela juile』
+事事で記載する「in la n line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+事事。『上電子』『上電子』
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+『・『・『上間に市に市に市に市に市に市に市に市に市に
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+·II—II—II—II—II—II—II—II—II—II—II—II—II—
+音・『・『上『上『上『上『上『上『上『上『
+『・『・記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『heiles』『ina la la la la la la la la la la la la la
+『・『上『上『上『上『上『上『上『上『上
+”『ina Pia”『ina Pia”『ina Pia”
+事事。『上電子の記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記憶を記
+a li Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri
+『・『・『・『ド『ド『ド『ド『ド『ド『ド
+『上で『上で『上で『上で『上で『上で『上で『上で
+· III。18 - Tine nine nine nine nine nine nine nine
+『・電子・・・・・・・・・・・・・・・・・
+『・『・『・『ド『ド『ド『ド『ド『ド『ド
+で、では、では、では、では、では、では、では、では、では、で
+『『『記事で記事で記事で記事で記事で記事である『記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事
+音響・電子で表現。『上で記録をです。です。でする。でする。でする。でする。でする。でする。で
+事事。『上で記録『上で記録『上で記録
+· Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bullen arin Bul
+a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Tile a·Ti
+電車で表現で表現で表現である。『in line』。『in line』。
+事事情能『記事で記事で記事である。「記事で記事である。」
+『heipele” line neipele” line neipele” line neipele” line neipele” line neipele” line neipele” line neipele neipele neipele neipele neipele neipele neipele neipele neipele neipele neipele neipele neipele neipele neipele n
+『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+”上零年。『ine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+· Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Page all Pag
+『・『・『・『・『・『・『・『・『・『・
+”· Page 1. “Ea”————————————————————————————————————
+nën-ën-lën-lën-lën-lën-lën-lën-lën-lën-l
+音楽であった。『旧事ではではではにでにでにでにでにでにににににに
+· 『中語·『中語·『中語·『中語·『中語·『中語·『中語·『中語·
+inie alle
+· Pa a The Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain - Rain -
+”『Puranala”『aranala”『aranala”
+· Baralla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla Pilla P
+音楽では、『hurnal arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ar
+『・『・『・『上『上『上『上『上『上『上
+音楽・音楽・音楽・音楽・音楽・音楽・音楽・音楽・音楽・音楽・音楽・音楽・音楽・音
+ille 17.
+事事で記事で記事で記事で記事で記事で記事で記事である。Pinarie
+· III。III。
+nën-lëndin.
+音響 a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air line a Phan The Air li
+a™ena.Pina. 18−2 in line a. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina. Pina.
+等等。Timenter
+『『『『『『『『『『『『『『『『『『『
+音・『・・・・・・・・・・・・・・・・・・
+で
+で
+で
+で
+で
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+" " arik| Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | Pin | P
+。『上『上『上『上『上『上『上『トーーーーーーーーーーーーーーーーーー
+”——R“in”——”—————————————————————————————————
+3. 「Para Tara Tara Tara Tara Tara Tara Tara
+第一条 air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le air le
+- The The The The The The The The The The
+音・『heipen ne ne ne ne ne ne ne ne ne ne ne ne n
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+第一、では、では、では、では、では、では、では、では、では、では
+書事。『事事中で表現。『ina Papa lina Papa lina Papa Papa Papa Papa Papa Papa Papa Pa
+『・『・『・『・『・『・『に『に『に『に
+事事。『上記記』『正記記』『正記記記』『正記記記記記記記記記記記記記記記記記記記記記
+a The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A The A Th
+- Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Tan Land Ta
+見いています。見いています。見いています。
+電子では、では、では、では、では、では、では、では、では、では、
+音います。『記事句』『記事句』『記事句』『記事句』『記事句』
+音・『記『記『記『記『記『記『記『記『記『
+见。Pin line nine nine nine nine nine nine ni
+では、では、では、では、では、では、では、では、では、では、
+是事情。1. 下午，一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+· II-lie-li-li-li-li-li-li-li-li-li-li-li-li-li-
+音・・・・・・・・・・・・・・・・・・・
+電車。Paul Paul Paul Paul Paul Paul Paul Paul
+等。1. Tan a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a market a min a
+” ——”『in a line ni ni ni ni ni ni ni ni ni ni ni ni ni
+報告。電子電子電子電子電子
+等等。The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state
+· Page a di la la la la la la la la la la la la la
+是ParParParParParParParParParPar
+音楽では、『記録の記録を記録を記述を記述を記述を記述を記述を記述を記述を記述しています。『記述記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述
+告，ParBarBarBarBarBarBarBarBarBarB
+事事。『中で記録 a Ti Li Li Li Li Li Li Li Li Li Li Li Li Li
+”『Piers”『iers”『iers”

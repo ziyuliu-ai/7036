@@ -1,1126 +1,711 @@
- 
- 
-观点聚焦 Investment Focus 
-本研究报告由海通国际分销，海通国际是由海通国际研究有限公司，海通证券印度私人有限公司，海通国际株式会社和海通国
-际证券集团其他各成员单位的证券研究团队所组成的全球品牌，海通国际证券集团各成员分别在其许可的司法管辖区内从事证
-券活动。关于海通国际的分析师证明，重要披露声明和免责声明，请参阅附录。(Please see appendix for English translation of the 
-disclaimer) 
- 
- 
-研究报告Research Report 
- 
-7 Dec 2022 
- 
-五粮液 Wuliangye Yibin (000858 CH) 
-首次覆盖：千元价位段地位稳固，长效改革是突围的重要手段 
-Initiation:   Wuliangye's position in 1,000RMB price segment is solid, and long-term reform is the key to resolve the core conflict 
-首次覆盖优于大市Initiate with 
- 
-评级 
-优于大市OUTPERFORM 
-现价 
-Rmb168.51 
-目标价 
-Rmb220.30 
-MSCI ESG 评级 
-B 
-义利评级 
-AA- 
-来源: MSCI ESG Research LLC, 盟浪. Reproduced by permission; no further distribution 
-市值 
-Rmb654.07bn / US$92.93bn 
-日交易额 (3 个月均值) 
-US$468.61mn 
-发行股票数目 
-3,882mn 
-自由流通股 (%) 
-42% 
-1 年股价最高最低值 
-Rmb251.00-Rmb133.50 
-注：现价Rmb168.51 为2022 年12 月5 日收盘价 
-资料来源： Factset 
- 
- 
-1mth 
-3mth 
-12mth 
-绝对值 
-17.3% 
-4.1% 
--23.2% 
-绝对值（美元） 
-21.4% 
-2.1% 
--30.4% 
-相对MSCI China 
--3.4% 
-8.9% 
-6.1% 
- 
-(Rmb mn) 
-Dec-21A 
-Dec-22E 
-Dec-23E 
-Dec-24E 
-营业收入 
-66,209 
-73,742 
-84,761 
-95,291 
-(+/-) 
-16% 
-11% 
-15% 
-12% 
-净利润 
-23,377 
-26,565 
-30,542 
-34,782 
-(+/-) 
-17% 
-14% 
-15% 
-14% 
-全面摊薄EPS 
-(Rmb) 
-6.02 
-6.84 
-7.87 
-8.96 
-毛利率 
-75.4% 
-75.4% 
-75.7% 
-76.2% 
-净资产收益率 
-23.1% 
-22.9% 
-23.0% 
-22.9% 
-市盈率 
-28 
-25 
-21 
-19 
-资料来源：公司信息, HTI 
- 
- 
-(Please see APPENDIX 1 for English summary) 
+五粮液 Wuliangye Yibin (000858 CH)
+首次覆盖: 千元价位段地位稳固, 长效改革是突围的重要手段
+Initiation: Wuliangye's position in 1,000RMB price segment is solid, and long-term reform is the key to resolve the core conflict
+观点聚焦 Investment Focus
+(Please see APPENDIX 1 for English summary)
+首次覆盖优于大市 Initiate with
 五粮液是唯二的全国化酒企，千元价位段舍“五”其谁。五
-粮液收入利润主要依赖核心大单品普五，2021 年普五收入体量约
-为370 亿元左右(含税)，占比酒类收入60%。我们预期千元价位段
-白酒体量在2025 年有望达到1200-1300 亿元，CAGR 12%，量价齐
-升。五粮液在千元价位段市占率约为整体的市场2/3，处于绝对优
-势地位，将收获千元价格带的增长红利。此外，酱酒潮水褪去，
-以五粮液为代表的浓香酒将获取更多高端酒份额。 
+优于大市 OUTPERFORM
+粮液收入利润主要依赖核心大单品普五,2021 年普五收入体量约
+Rmb168.51
+为 370 亿元左右(含税), 占比酒类收入 60%。我们预期千元价位段
+Rmb220.30
+白酒体量在 2025 年有望达到 1200-1300 亿元, CAGR 12%, 量价齐
+MSCI ESG 评级
+升。五粮液在千元价位段市占率约为整体的市场 2/3, 处于绝对优
+AA-
+义利评级
+势地位,将收获千元价格带的增长红利。此外,酱酒潮水褪去,
+以五粮液为代表的浓香酒将获取更多高端酒份额。
+Rmb654.07bn / US$92.93bn
+日交易额 (3 个月均值)
+US$468.61mn
 控量稳价和业绩增长是五粮液的核心矛盾。普五是五粮液的
-重要增长引擎，公司需要保护核心产品的品牌力和价格带，又要
-面临业绩考核的压力，普五放量则批价有压力，普五缩量则报表
-有压力。然而在压力下，公司于2015-2017 年和2019-2021 年每半
+发行股票数目
+3,882mn
+重要增长引擎,公司需要保护核心产品的品牌力和价格带,又要
+42%
+自由流通股(%)
+面临业绩考核的压力, 普五放量则批价有压力, 普五缩量则报表
+1年股价最高最低值
+Rmb251.00-Rmb133.50
+有压力。然而在压力下,公司于 2015-2017 年和 2019-2021 年每半
 年对普五进行提价，量价齐升。公司解决核心矛盾的基础是消费
-升级，更需要体制和经营上的长效改革，期待股权激励的落地。 
+Price Return — MSCI China
+升级,更需要体制和经营上的长效改革,期待股权激励的落地。
 五粮液营销体系持续变革，团购和专卖店业务是公司直销模
 式的重要抓手。李曙光前董事长和曾从钦现董事长对五粮液进行
-了一系列营销变革和渠道改革，自2017 年以来公司积极扩展专卖
-店并于1H22 将专卖店调整为直销模式；自2020 年起加速开展团
-购业务增加直销模式体量；同时通过“百城千县万店”、“补商
+了一系列营销变革和渠道改革, 自 2017 年以来公司积极扩展专卖
+店并于 1H22 将专卖店调整为直销模式; 自 2020 年起加速开展团
+购业务增加直销模式体量;同时通过“百城千县万店”、“补商
 计划”、控盘分利模式、数字化和渠道扁平化等方式对经销商渠
-道做了系统梳理，成果显著。 
+Volume
+道做了系统梳理, 成果显著。
 五粮液年份窖龄窖池生产的优质酒稀缺性高。浓香酒的优质
-酒出酒率跟酒窖窖龄高度相关，据我们推测，五粮液百年以上窖
-龄窖池的优质酒出酒率约50-60%，而2000 年以后建成的窖池优质
-酒出酒率在10%以内%。五粮液大量产能是在2000 年后启动建立
-的，优质酒出酒率较低，伴随而来的是大量系列酒和贴牌酒，
-2016 年以来公司积极清理系列酒和贴牌酒，恢复五粮液品牌力。 
-投资建议与盈利预测。我们预期五粮液2022-2025 年收入分别为
-737/848/953 亿元，2022-2025 年净利润分别为266/305/348 亿元，
-对应22-24 年PE 为24.6X/21.4X/18.8X。短期白酒行业面临一定下
-行压力，消费恢复尚需时间，叠加市场上库存较多，白酒企业也
-弱化了对开门红的硬性考核，行业将在1Q-2Q23 触底。我们认为
-五粮液是宴请和餐饮场景恢复后弹性较大的高端白酒标的，同时
-公司耐心培育超高端产品，积极调整中低端酒体系，布局专卖店
-和团购渠道增加直营业务比例，利好公司收入和利润的提升。我
-们首次覆盖给予五粮液“优于大市”评级，给予23 年28X PE 估
-值，目标价220.3 元，有31%的上行空间。 
-风险提示。白酒行业下行风险，疫情反复影响需求，五粮液超高
-端产品恢复和培育低于预期。 
- 
-寇媛媛Yuanyuan Kou 
-闻宏伟Hongwei Wen 
-yy.kou@htisec.com 
-hongwei.wen@htisec.com 
-55
-70
-85
-100
-115
-Price Return
-MSCI China
 Dec-21
 Apr-22
 Aug-22
-Volume
- 
- 
-7 Dec 2022 
-2 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
- 
-1. 全国化酒企千元价位地位稳固，舍“五”其谁 
-1.1 五粮液是唯二的全国化酒企 
-五粮液是除茅台外真正意义上的全国化酒企，产品覆盖众多省市区域。2021 年五粮液
-酒类收入为617 亿元，其中东部和西部收入占比较大，分别为30.4%和27.5%。东部如
+酒出酒率跟酒窖窖龄高度相关,据我们推测,五粮液百年以上窖
+龄窖池的优质酒出酒率约 50-60%, 而 2000 年以后建成的窖池优质
+酒出酒率在 10%以内%。 五粮液大量产能是在 2000 年后启动建立
+1mth
+3mth
+12mth
+的, 优质酒出酒率较低, 伴随而来的是大量系列酒和贴牌酒,
+绝对值
+17.3%
+4.1%
+-23.2%
+2016年以来公司积极清理系列酒和贴牌酒,恢复五粮液品牌力。
+绝对值 (美元)
+-30.4%
+21.4%
+2.1%
+相对 MSCI China
+-3.4%
+8.9%
+6.1%
+投资建议与盈利预测。我们预期五粮液 2022-2025 年收入分别为
+737/848/953 亿元, 2022-2025 年净利润分别为 266/305/348 亿元,
+(Rmb mn)
+Dec-21A
+Dec-22E
+Dec-23E
+Dec-24E
+对应 22-24 年 PE 为 24.6X/21.4X/18.8X。短期白酒行业面临一定下
+95,291
+营业收入
+66,209
+73,742
+84,761
+行压力, 消费恢复尚需时间, 叠加市场上库存较多, 白酒企业也
+(+/-)
+15%
+12%
+16%
+11%
+弱化了对开门红的硬性考核，行业将在 10-2023 触底。我们认为
+净利润
+34,782
+23,377
+30,542
+26,565
+五粮液是宴请和餐饮场景恢复后弹性较大的高端白酒标的，同时
+(+/-)
+17%
+14%
+14%
+15%
+全面摊薄 EPS
+公司耐心培育超高端产品，积极调整中低端酒体系，布局专卖店
+(Rmb)
+和团购渠道增加直营业务比例，利好公司收入和利润的提升。我
+76.2%
+毛利率
+75.4%
+75.4%
+75.7%
+们首次覆盖给予五粮液“优于大市”评级,给予 23 年 28X PE 估
+23.0%
+22.9%
+净资产收益率
+23.1%
+22.9%
+市盈率
+端产品恢复和培育低于预期。
+寇媛媛 Yuanyuan Kou
+闻宏伟 Hongwei Wen
+本研究报告由海通国际分销，海通国际是由海通国际研究有限公司，海通证券印度私人有限公司，海通国际株式会社和海通国
+际证券集团其他各成员单位的证券研究团队所组成的全球品牌，海通国际证券集团各成员分别在其许可的司法管辖区内从事证
+disclaimer)
+1. 全国化酒企千元价位地位稳固, 舍“五”其谁
+1.1 五粮液是唯二的全国化酒企
+五粮液是除茅台外真正意义上的全国化酒企,产品覆盖众多省市区域。2021年五粮液
+酒类收入为617亿元,其中东部和西部收入占比较大,分别为30.4%和27.5%。东部如
 江苏、浙江、上海、安徽是五粮液的优势区域。西部收入贡献以四川为主，是五粮液
-的基地市场。 
-图1  五粮液2021 年酒类收入规模及同比% 
- 
-资料来源：公司公告、HTI 
-图2 2022 年五粮液各区域收入占比% 
-资料来源：公司公告、HTI 
- 
-五粮液高端酒主力产品水晶瓶五粮液(普五)2021 年收入规模在370 亿元左右(含税)，
-其中江苏、河南和四川是排名前三的省份，收入贡献均在10%左右。华东地区的江苏、
-浙江、安徽是普五的重要市场，其收入体量甚至超过茅台酒。 
-图3 水晶瓶五粮液(普五)各省市税前收入规模(亿) 
- 
-资料来源：渠道调研、酒说、公开信息、 HTI 
- 
- 
- 
- 
- 
- 
- 
-7 Dec 2022 
-3 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-1.2   五粮液产品矩阵完善，收入利润主要依赖核心大单品普五 
-图4 五粮液产品矩阵 
- 
-资料来源：渠道调研、微酒、酒说、HTI 
- 
- 
-五粮液2021 年高端酒体量为491 亿元，聚焦1+3，分别是主力产品水晶瓶五粮液(普
-五)，和超高端产品501+经典五粮液+低度五粮液及定制/文化酒。 
-2021 年普五收入体量约330 亿元(报表端)，占比酒类收入的60%。其他五粮液中高端
-重点产品，低度五粮液、五粮液1618 和经典五粮液预计体量均在50 亿元以内。 
-图5 普五占比酒类收入的60%（2021） 
- 
-资料来源：公司公告、 HTI 
- 
- 
-五粮液系列酒2021 年体量为126 亿元。公司自 2016 年起清理了大量透支品牌力的低
+的基地市场。
+五粮液高端酒主力产品水晶瓶五粮液(普五)2021 年收入规模在 370 亿元左右(含税),
+其中江苏、河南和四川是排名前三的省份,收入贡献均在 10%左右。华东地区的江苏、
+浙江、安徽是普五的重要市场，其收入体量甚至超过茅台酒。
+图 3 水晶瓶五粮液(普五)各省市税前收入规模(亿)
+1.2 五粮液产品矩阵完善，收入利润主要依赖核心大单品普五
+五粮液 2021 年高端酒体量为 491 亿元,聚焦 1+3,分别是主力产品水晶瓶五粮液(普
+五),和超高端产品501+经典五粮液+低度五粮液及定制/文化酒。
+2021 年普五收入体量约 330 亿元(报表端),占比酒类收入的 60%。其他五粮液中高端
+重点产品，低度五粮液、五粮液 1618 和经典五粮液预计体量均在 50 亿元以内。
+图 5 普五占比酒类收入的 60% (2021)
+五粮液系列酒 2021 年体量为 126 亿元。公司自 2016 年起清理了大量透支品牌力的低
 附加值系列酒贴牌产品，聚焦大单品战略，集中打造五粮春、五粮醇、五粮特曲、尖
-庄四个全国性战略品牌。我们预测尖庄体量在40 亿元以上，五粮春体量在20 亿元左
-右。五粮液尖庄高档光瓶酒的优异表现弥补了砍掉大量条码的不足。 
- 
- 
-7 Dec 2022 
-4 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图6  五粮液系列酒收入和同比% 
- 
-资料来源：公司公告、HTI 
-图7 五粮液系列酒收入占比 
- 
-资料来源：公司公告、HTI 
- 
-1.2 千元价位段地位稳固，舍“五”其谁 
-千元价位段白酒收入2025 年有望达到1200-1300 亿元，收入CAGR 12%，量价齐升 
-千元价位白酒定义在终端成交价在1000-1500 元的白酒产品，我们预期800 元以上的
-高端酒收入体量在1800 亿元左右，其中千元价位带白酒在700-800 亿元规模，该价位
-白酒体量相对较小。 
-图8 2021 年千元价格带白酒体量在700-800 亿 
- 
-资料来源：渠道调研、酒说、公开资料、HTI 
- 
-白酒行业总量呈下降趋势，提价和产品升级是收入和利润的引擎，2017 年白酒行业吨
-价约为4.7 万元，2021 年提升至8.7 万元。 
+庄四个全国性战略品牌。我们预测尖庄体量在 40 亿元以上，五粮春体量在 20 亿元左
+右。五粮液尖庄高档光瓶酒的优异表现弥补了砍掉大量条码的不足。
+五粮液 (000858 CH)
+首次覆盖优于大市
+图 7 五粮液系列酒收入占比
+25%
+22%
+22%
+22%
+19%
+19%
+20%
+15%
+15%
+15%
+10%
+1.2 千元价位段地位稳固, 舍“五”其谁
+千元价位段白酒收入 2025 年有望达到 1200-1300 亿元，收入 CAGR 12%，量价齐升
+千元价位白酒定义在终端成交价在 1000-1500 元的白酒产品, 我们预期 800 元以上的
+高端酒收入体量在 1800 亿元左右，其中千元价位带白酒在 700-800 亿元规模，该价位
+白酒体量相对较小。
+白酒行业总量呈下降趋势，提价和产品升级是收入和利润的引擎,2017年白酒行业吨
+价约为 4.7 万元, 2021 年提升至 8.7 万元。
 白酒行业的产品升级和直接提价建立在中国经济上行+人均可支配收入持续提升的基
-础上，2021 年中国人均GDP 为12,556 美元，在2019 年突破1 万美元大关后持续上
-行，根据国外历史经验，突破1 万美元后，对商品升级需求和服务需求会大幅增长，
-消费升级趋势不改。 
- 
- 
-7 Dec 2022 
-5 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图9  中国人均GDP 绝对额 
- 
-资料来源：World Bank，HTI 
-图10 
-居民人均可支配收入持续增长 
- 
-资料来源：国家统计局、HTI 
- 
+础上, 2021 年中国人均 GDP 为 12,556 美元, 在 2019 年突破 1 万美元大关后持续上
+行,根据国外历史经验,突破1万美元后,对商品升级需求和服务需求会大幅增长,
+消费升级趋势不改。
 受经济增速放缓和疫情影响，产品升级或略有滞后，但消费升级趋势不改。我们预期
-2025 年千元价格带白酒市场将达到1200 亿元，CAGR 15%，量价齐升。 
-图11 预期2025 年千元价格带白酒体量将达到1200 亿，CAGR 12% 
- 
-资料来源：HTI 预测 
- 
-千元价格段格局，五粮液一家独大 
-五粮液一家独大，高度老窖1573 位居第二，茅台和青花郎位列第三，其他能进入千
-元价位段的主要品牌包括君品习酒、洋河梦9+手工班、青花30 和内参。 
-图12 2021 年千元价位段产品及体量(亿) 
- 
-资料来源：公司公告、HTI 
- 
-2021 年五粮液在千元价位收入占比约为 67%，处于绝对优势地位，高度国窖占比12%，
-青花郎和茅台体系千元酒占比5%， CR4 占比为89%，集中度较高，其他产品尚处于培
- 
- 
-7 Dec 2022 
-6 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-育阶段。我们预期至2025 年五粮液在千元价格带的份额将略有下降，主要因为茅台
-在千元价格带的持续发力，比如2022 年推出了茅台1935 新品。 
-图13 2021 年千元价位段五粮液一家独大 
- 
-资料来源：公司公告、HTI 
- 
-酱酒潮水褪去，浓香酒将获取更多高端酒份额 
+2025 年千元价格带白酒市场将达到 1200 亿元, CAGR 15%, 量价齐升。
+图 11 预期 2025 年千元价格带白酒体量将达到 1200 亿，CAGR 12%
+千元价格段格局, 五粮液一家独大
+五粮液一家独大, 高度老窖 1573 位居第二, 茅台和青花郎位列第三, 其他能进入千
+元价位段的主要品牌包括君品习酒、洋河梦 9+手工班、青花 30 和内参。
+图 12 2021 年千元价位段产品及体量(亿)
+· · · · · · · · · · · · · · · · · · ·
+在觀測
+Will White Hard Strate William
+Was Day
+2021年五粮液在千元价位收入占比约为67%,处于绝对优势地位,高度国窖占比12%,
+青花郎和茅台体系千元酒占比5%, CR4占比为89%, 集中度较高, 其他产品尚处于培
+育阶段。我们预期至 2025 年五粮液在千元价格带的份额将略有下降，主要因为茅台
+在千元价格带的持续发力,比如 2022 年推出了茅台 1935 新品。
+图 13 2021 年千元价位段五粮液一家独大
+酱酒潮水褪去,浓香酒将获取更多高端酒份额
 2019-2021 年白酒上行周期中，酱酒表现亮眼，行业体量快速增长且涌现出一系列中
-高端酱酒品牌，习酒2020 年破百亿元(预期2021-2022 年收入在150 亿元和200 亿元)，
-其中窖藏1988 是超过50 亿元的次高端大单品；郎酒成功打造郎酒庄园模式，其千元
-产品青花郎2021 年体量约在35 亿元；金沙2019 年收入破10 亿元，2021 年达到高点
-57 亿元，中高端产品金沙摘要占比65%；国台和珍酒高速增长2021 年分别达到80 亿
-元以上和50 亿元以上。  
-图14 五粮液中高端酒和重点酱香酒批价及零售价对比 
- 
-资料来源：渠道调研、微酒、酒说、HTI 
- 
+高端酱酒品牌,习酒2020年破百亿元(预期2021-2022年收入在150亿元和200亿元),
+其中窖藏 1988 是超过 50 亿元的次高端大单品;郎酒成功打造郎酒庄园模式,其千元
+产品青花郎 2021 年体量约在 35 亿元;金沙 2019 年收入破 10 亿元,2021 年达到高点
+57亿元,中高端产品金沙摘要占比65%;国台和珍酒高速增长2021年分别达到80亿
+元以上和50亿元以上。
 这轮酱酒热主要受益于茅台供给有限且价格较贵，需求外溢到和茅台高度相关的其他
-品牌，如在茅台酒厂对面的国台酒等。依赖较好的酱酒品质 + 全国招商 + 丰厚的渠道
-利润，酱酒品牌得到高速发展。 
+品牌,如在茅台酒厂对面的国台酒等。依赖较好的酱酒品质+全国招商+丰厚的渠道
+利润,酱酒品牌得到高速发展。
 然而疫情爆发，酱酒的品类势能被打断，酱酒企业的组织能力，渠道能力和库存管理
-较差。酱酒价格虚高，终端需求走弱 + 经销商抛货，批价下行，酱酒的消费回流到其
-他性价比较高的香型产品，酱酒势能褪去。 
- 
-1.3 白酒行业仍处于调整周期，五粮液千元价格段韧性和性价比凸显 
- 
- 
-7 Dec 2022 
-7 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-2021 年至今，疫情反复影响消费场景，产品升级短期也受到消费力走弱的影响。白酒
-企业吸收历史经验，对批价更为看中，已加强对库存的管控。然而，需求疲软，商务
-/宴请/送礼场景缺失，且行业库存略高，目前2022 年行业还有少量未发货，4Q22 和
-1Q23 的行业压力较大，体现为酒企主流产品近期批价不稳，有所下行。我们判断白
-酒行业将在2023 年2Q 触底。因此，我们判断，白酒行业仍处于调整周期，行业去库
-存将延续到1Q23-2Q23，之后将逐渐恢复。 
- 
-图15 主要白酒企业库存复盘 
-资料来源：渠道调研、微酒、酒说、HTI 
- 
- 
-1.4  行业调整期中五粮液千元产品韧性和性价比凸显 
-中秋国庆前后，国内疫情反复，防控趋紧，大部分企业动销和库存压力大，尤其是新
-进入800-1000 元零售价位段的产品，批价持续下行。根据渠道调研，中秋国庆期间，
-五粮液表现超预期，优于其他同等产品，显示出了足够的消费韧性和性价比，双节结
-束后，库存在0.5-1 个月，处于行业低位。 
- 
-图16  五粮液3Q22 收入增长12.2%符合预期 
- 
-资料来源：公司公告、HTI 
-图17 五粮液3Q22 扣非净利润增长18.2%超预期 
-资料来源：公司公告、HTI 
- 
-根据渠道调研，五粮液目前的打款和发货基本完成，全渠道库存约在1 个月左右。近
-期普五批价下行至950-960 元，一方面淡季需求走弱，一方面经销商抛货回笼资金，
-为1Q23 做准备。 
-2. 控量稳价和业绩增长是五粮液的核心矛盾 
- 
- 
-7 Dec 2022 
-8 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-2.1   五粮液核心矛盾的解决来自于体制上和经营上的改革 
-五粮液公司收入和利润增长主要依赖核心大单品普五，公司需要保护核心产品的品牌
+较差。酱酒价格虚高，终端需求走弱+经销商抛货,批价下行,酱酒的消费回流到其
+他性价比较高的香型产品,酱酒势能褪去。
+1.3 白酒行业仍处于调整周期, 五粮液千元价格段韧性和性价比凸显
+2021年至今，疫情反复影响消费场景，产品升级短期也受到消费力走弱的影响。白酒
+企业吸收历史经验,对批价更为看中,已加强对库存的管控。然而,需求疲软,商务
+/宴请/送礼场景缺失, 且行业库存略高, 目前 2022 年行业还有少量未发货, 4Q22 和
+1Q23 的行业压力较大,体现为酒企主流产品近期批价不稳,有所下行。我们判断白
+酒行业将在 2023 年 2Q 触底。因此，我们判断，白酒行业仍处于调整周期，行业去库
+存将延续到 1Q23-2Q23, 之后将逐渐恢复。
+1.4 行业调整期中五粮液千元产品韧性和性价比凸显
+中秋国庆前后,国内疫情反复,防控趋紧,大部分企业动销和库存压力大,尤其是新
+进入800-1000元零售价位段的产品,批价持续下行。根据渠道调研,中秋国庆期间,
+五粮液表现超预期，优于其他同等产品,显示出了足够的消费韧性和性价比,双节结
+束后,库存在 0.5-1 个月,处于行业低位。
+根据渠道调研, 五粮液目前的打款和发货基本完成, 全渠道库存约在 1 个月左右。近
+期普五批价下行至 950-960 元,一方面淡季需求走弱,一方面经销商抛货回笼资金,
+为 1Q23 做准备。
+2. 控量稳价和业绩增长是五粮液的核心矛盾
+2.1 五粮液核心矛盾的解决来自于体制上和经营上的改革
+五粮液公司收入和利润增长主要依赖核心大单品普五、公司需要保护核心产品的品牌
 力、价格带和经销商利润水平，但管理层又要面临业绩考核的压力。因此，公司经常
-面临的困境是，普五放量则批价有压力，普五缩量则报表有压力。 
-五粮液核心矛盾的根本原因和解决办法来自体制上和经营上的改革 
+面临的困境是，普五放量则批价有压力，普五缩量则报表有压力。
+五粮液核心矛盾的根本原因和解决办法来自体制上和经营上的改革
 五粮液作为国有企业，管理层以政府背景为主，有经营和国资的双重考核，体制上和
 经营上跟市场化机制有一定差距。同时，管理层有换届和退休的限制，战略和经营上
-的延续性也受到一定挑战。 优秀的白酒企业要有全价格段产品放量的能力，需要对产
+的延续性也受到一定挑战。 优秀的白酒企业要有全价格段产品放量的能力, 需要对产
 品和价格有合理定位，对品牌宣传推广、渠道利润分配和推力、持续维护价盘和市场
 秩序的稳定等方面有一套体系，即优秀的组织能力。五粮液目前仍以普五为主要收入
-和利润核心，其他产品有待做强做大。  
-经典五粮液和1618 均因业绩压力在早期放量影响产品定位和价盘，目前均在培育阶
-段 
-经典五粮液在2020 年上市，零售定价在2000 元以上，市场给予很大期待，认为是五
-粮液结构性问题的重要突破口。由于短期业绩压力，2021 年公司对经典五粮液放量略
-微激进，造成价盘和经销商信心受挫，目前经典五粮液终端零售价回落到1800 元左
-右。随着公司新管理层的入驻和战略发展的调整，2022 年经典五粮液进入缩量调整状
-态。 
-同样的历史经验也发生在五粮液1618，五粮液1618 于2017 年上市，定价高于普五
-100-200 元，意在承接普五减量。但五粮液1618 和普五的定位和价格差异性较小，同
-时1618 的品牌力和性价比不如普五，伴随公司在五粮液1618 的短期较激进的放量
-(2017-2018 年约3000 吨)，之后五粮液1618 进入调整状态。 
-图18  2021 年五粮液高端酒销量分拆(吨) 
- 
-资料来源：公司公告、HTI 
- 
-2.3   普五在业绩压力下依旧能够量价齐升带动收入增长  
-2015-2017 年和2019-2021 年五粮液每半年对普五进行提价 ，涨价能力强劲 
-五粮液在2013-2015 年因三公消费进入下行周期的调整后，在2015-2017 年进行密集
-提价(平均每半年提价约40 元/瓶)，在2016 年底批价已经高于三公消费之前的批价水
-平。2019 年中五粮液推出第八代五粮液后(出厂价一次性提升150 元)，于2020-2022
-年每半年提升团购出厂价(每次约66 元/瓶)。可见，五粮液有足够的涨价能力。  
- 
- 
- 
-7 Dec 2022 
-9 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图19 2015-2022 年以来五粮液提价梳理 
- 
-资料来源：公开资料、HTI 
- 
-在高频提价的同时，五粮液高端酒的销量也在持续增长，维持量价齐升。 
-图20 五粮液高端酒量价齐升 
- 
-资料来源：公司公告、HTI 
- 
-2.4   普五批价破千的基础是经济增长和收入水平提升带动下的消费升级，解
-决根本矛盾需要体制上和经营上的改革 
-五粮液有涨价能力，批价破千的消费升级的基础是经济增长和人均可支配收入提升 
-飞天茅台(散瓶) 批价在2019 年突破2000 元RMB 持续向上突破，并在2021 年较长时
-间维持在3000 元以上，近期由于疫情反复和消费疲软有所回落，目前批价在2600 左
-右。飞天茅台批价长期处于2000 元以上为其他高端白酒产品批价留下充足的上升空
-间，但五粮液普五的批价却长期处于千元以下，主要是因为飞天茅台本身具有酱酒的
+和利润核心,其他产品有待做强做大。
+经典五粮液和 1618 均因业绩压力在早期放量影响产品定位和价盘，目前均在培育阶
+经典五粮液在 2020 年上市，零售定价在 2000 元以上，市场给予很大期待，认为是五
+粮液结构性问题的重要突破口。由于短期业绩压力,2021年公司对经典五粮液放量略
+微激进，造成价盘和经销商信心受挫，目前经典五粮液终端零售价回落到 1800 元左
+右。随着公司新管理层的入驻和战略发展的调整, 2022 年经典五粮液进入缩量调整状
+同样的历史经验也发生在五粮液 1618. 五粮液 1618 于 2017 年上市, 定价高于普五
+100-200 元. 意在承接普五减量。但五粮液 1618 和普五的定位和价格差异性较小. 同
+时 1618 的品牌力和性价比不如普五，伴随公司在五粮液 1618 的短期较激进的放量
+(2017-2018 年约 3000 吨),之后五粮液 1618 进入调整状态。
+2.3 普五在业绩压力下依旧能够量价齐升带动收入增长
+2015-2017 年和 2019-2021 年五粮液每半年对普五进行提价, 涨价能力强劲
+五粮液在 2013-2015 年因三公消费进入下行周期的调整后，在 2015-2017 年进行密集
+提价(平均每半年提价约 40 元/瓶),在 2016 年底批价已经高于三公消费之前的批价水
+平。2019年中五粮液推出第八代五粮液后(出厂价一次性提升150元),于2020-2022
+年每半年提升团购出厂价(每次约 66 元/瓶)。可见，五粮液有足够的涨价能力。
+在高频提价的同时，五粮液高端酒的销量也在持续增长，维持量价齐升。
+2.4 普五批价破干的基础是经济增长和收入水平提升带动下的消费升级，解
+决根本矛盾需要体制上和经营上的改革
+五粮液有涨价能力，批价破千的消费升级的基础是经济增长和人均可支配收入提升
+飞天茅台(散瓶) 批价在 2019 年突破 2000 元 RMB 持续向上突破，并在 2021 年较长时
+间维持在 3000 元以上, 近期由于疫情反复和消费疲软有所回落, 目前批价在 2600 左
+右。飞天茅台批价长期处于 2000 元以上为其他高端白酒产品批价留下充足的上升空
+间,但五粮液普五的批价却长期处于千元以下,主要是因为飞天茅台本身具有酱酒的
 储存价值和金融属性，并非是即时消费的体现，而五粮液的批价对其他白酒企业的批
-价和涨价反而具有更重要的指导性方向和意义。 
-五粮液是高端白酒即时消费的代表(开瓶率高)，其价格上行的基础消费升级，取决于
-经济增长和人均可支配收入的提升。世界银行在2022 年9 月再次下调中国经济成长
-预期至2.8%，在2022 年10 月下调2023 年全球经济增长预期至2.7%。世界经合组织
-在2022 年9 月分别下调2022 年和2023 年全球经济增速至3%和2.2%。全球经济增
-长少有亮点，短期内消费升级受阻，价格上行的趋势会有所停滞。 
- 
-普五批价破千也需要体制上和经营上的改革，期待股权激励 
+价和涨价反而具有更重要的指导性方向和意义。
+五粮液是高端白酒即时消费的代表(开瓶率高),其价格上行的基础消费升级,取决于
+经济增长和人均可支配收入的提升。世界银行在2022年9月再次下调中国经济成长
+预期至 2.8%, 在 2022 年 10 月下调 2023 年全球经济增长预期至 2.7%。世界经合组织
+在 2022 年 9 月分别下调 2022 年和 2023 年全球经济增速至 3%和 2.2%。全球经济增
+长少有亮点，短期内消费升级受阻，价格上行的趋势会有所停滞。
+普五批价破千也需要体制上和经营上的改革、期待股权激励
 优秀的白酒企业能够在各个价格段有主力产品进行放量，带动整体收入和利润的增
 长。这需要公司对各个品牌的价位段的清晰定位和长期品牌维护，以及对渠道和价盘
- 
- 
-7 Dec 2022 
-10 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
 的管控能力。五粮液除了普五主力大单品，其他高端品牌和系列酒品牌函待培育放
-量。我们认为前期1618 和经典五粮液的发展路径，跟公司内部管理体制、经营方
-式、和短期业绩考核压力有关。五粮液系列酒自2016 年起做了大刀阔斧的改革，有
+量。我们认为前期 1618 和经典五粮液的发展路径，跟公司内部管理体制、经营方
+式、和短期业绩考核压力有关。五粮液系列酒自 2016 年起做了大刀阔斧的改革,有
 明确的成效，目前品牌梳理结束，各产品价位段清晰，需要团队对产品、渠道、价格
 和目标客户群做进一步开拓。我们认为未来体制改革和股权激励有望帮助公司突破目
-前的矛盾和限制，打开五粮液上行天花板。 
+前的矛盾和限制，打开五粮液上行天花板。
 其次，五粮液以大经销商模式为主，大商制有其特有的优势。大商制劣势来讲，一方
 面，经销商为了短期盈利和资金压力，容易出现抛货的行为，会加剧高端酒批价的波
-动；另一方面，稳定的产品和盈利模式使经销商倾向于薄利多销，渠道管理粗放，对
+动; 另一方面, 稳定的产品和盈利模式使经销商倾向于薄利多销, 渠道管理粗放, 对
 于培育消费者力度不足。公司以专卖店和团购为依托加大直营占比，直接触达消费
-者，精细化管理渠道和终端，减少经销商对市场的扰动。 
- 
-3. 五粮液营销体系持续变革，团购和专卖店业务是公司直销模式的重要抓手  
-3.1  李曙光前董事长和曾从钦现董事长对五粮液进行一系列营销变革和渠道改
-革，成效显著 
-2017 年以来五粮液持续进行了一系列营销变革和渠道改革，“百城千县万店”拓展专
-卖店数量，“补商计划”扩容中小经销商，数字化平台持续减少提高管理效率和服务
+者，精细化管理渠道和终端，减少经销商对市场的扰动。
+3. 五粮液营销体系持续变革，团购和专卖店业务是公司直销模式的重要抓手
+3.1 李曙光前董事长和曾从钦现董事长对五粮液进行一系列营销变革和渠道改
+革, 成效显著
+2017年以来五粮液持续进行了一系列营销变革和渠道改革, “百城千县万店”拓展专
+卖店数量, “补商计划”扩容中小经销商,数字化平台持续减少提高管理效率和服务
 体系，组织结构扁平化，加码团购业务和转换专卖店为直营业务增加直销收入比例，
-加快智慧门店和分仓建设进一步提升管理效率和终端触达。 
-图21 2017 年以来五粮液的营销变革和渠道改革 
- 
-资料来源：公司公告、公开资料、HTI 
- 
-3.2 团购和专卖店业务是公司直销模式的主要抓手，是公司近两年增量来源之
-一 
-2021 年直销渠道包括团购销售和线上销售，1H22 把专卖店纳入直销渠道，自此团购
-业务和专卖店业务成为公司直销的主要抓手，2021 年直销模式收入达到116 亿，占
-比公司酒类收入的19%。 
-自2017 年起积极扩展专卖店，并于1H22 将专卖店调整为直销模式 
- 
- 
-7 Dec 2022 
-11 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-2016 年五粮液专卖店在300-400 家，2017 年李曙光出任董事长，提出二次创业，布
-局“千城百县万店”，专卖店在2018-2020 年快速增长，2020-2022 年维持在1500-
-1600 家专卖店。为了加快智慧门店2.0 的建设， 1H22 公司将1589 家专卖店转为直销
-模式 (我们猜测该体系外的经销商专卖店有1500 家左右)。转为直销模式的专卖店可
+加快智慧门店和分仓建设进一步提升管理效率和终端触达。
+图 21 2017 年以来五粮液的营销变革和渠道改革
+2021 年直销渠道包括团购销售和线上销售, 1H22 把专卖店纳入直销渠道, 自此团购
+业务和专卖店业务成为公司直销的主要抓手,2021年直销模式收入达到116亿,占
+比公司酒类收入的 19%。
+自 2017 年起积极扩展专卖店, 并于 1H22 将专卖店调整为直销模式
+2016年五粮液专卖店在300-400家,2017年李曙光出任董事长,提出二次创业,布
+局“千城百县万店”,专卖店在 2018-2020 年快速增长,2020-2022 年维持在 1500-
+1600 家专卖店。为了加快智慧门店 2.0 的建设, 1H22 公司将 1589 家专卖店转为直销
+模式 (我们猜测该体系外的经销商专卖店有 1500 家左右)。转为直销模式的专卖店可
 以提高消费终端服务能力，也能加大直营渠道比例，提升公司对终端的把控力。专卖
-店是近2 年贡献增量的主要渠道，是考核KPI 的重要渠道之一，公司规划未来2-3 年
-专卖店数量扩产到2500 家。 
-图22 五粮液专卖店数量持续上行，预期2024-2025 年将达到2500 家 
- 
-资料来源：公司公告、公开资料、HTI 
- 
-自2020 年起加速开展团购业务， 增加直销模式体量 
-2019 年公司推出第八代五粮液，取消价格双轨制。2020 年起五粮液大力推动团购网
-络的建设，加速开展团购业务，将部分调整的计划量投入到团购渠道。2021 年公司建
-立团购事业部，在各战区组建团购组织，同时将经销商系统的团购人员增加至300 人，
-对大企业进行覆盖，团购复购率达到90%。同时，公司层面开发大客户，2021 年和华
+店是近 2 年贡献增量的主要渠道,是考核 KPI 的重要渠道之一,公司规划未来 2-3 年
+专卖店数量扩产到 2500 家。
+自 2020 年起加速开展团购业务, 增加直销模式体量
+2019 年公司推出第八代五粮液,取消价格双轨制。2020 年起五粮液大力推动团购网
+络的建设,加速开展团购业务,将部分调整的计划量投入到团购渠道。2021年公司建
+立团购事业部,在各战区组建团购组织,同时将经销商系统的团购人员增加至 300 人,
+对大企业进行覆盖, 团购复购率达到 90%。同时, 公司层面开发大客户, 2021 年和华
 为集团、吉利集团、深圳同心俱乐部等达成战略合作，构建起以龙头企业为引领、服
 务于全国上万家企业的团购网络，各战区联合经销商攻坚区域型集团公司与中小企业
-客户等。 
-五粮液2020-2022 年的团购量规划比例分别为20%/30%/40%，我们预期2021 年五粮
-液高端酒的团购量占比在15%左右。团购业务和专卖店业务相辅相成，是五粮液建立
-直营渠道的主要抓手。 
-图23  五粮液团购量的规划比例% 
- 
-资料来源：公司公告、HTI 
-图24 直营占比持续提升 
- 
-资料来源：公司公告、HTI 
-经典五粮液的调整主要依托于团购渠道和核心消费者的培育 
- 
- 
-7 Dec 2022 
-12 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-由于经典五粮液2021 年放量略激进，造成价盘和经销商信心受挫。2022 年改变调整
-策略，筛选清退实力较弱的经销商，摒弃1+N+2 的渠道模式，每月分配限额，打造稀
-缺性。围绕“一大一小一平台”，分别指代与大企业合作，打入精英小圈层，在高地
-市场建立文化体验店和品鉴中心，稳抓核心消费者和KOL，除依托于原有经销商和专
+客户等。
+五粮液 2020-2022 年的团购量规划比例分别为 20%/30%/40%, 我们预期 2021 年五粮
+液高端酒的团购量占比在 15%左右。团购业务和专卖店业务相辅相成，是五粮液建立
+直营渠道的主要抓手。
+由于经典五粮液 2021 年放量略激进,造成价盘和经销商信心受挫。2022 年改变调整
+策略，筛选清退实力较弱的经销商，摒弃 1+N+2 的渠道模式，每月分配限额，打造稀
+缺性。围绕“一大一小一平台”,分别指代与大企业合作,打入精英小圈层,在高地
+市场建立文化体验店和品鉴中心, 稳抓核心消费者和 KOL, 除依托于原有经销商和专
 卖店体系外，公司经典五粮液在加强团购渠道的培育。未来公司将通过经典五粮液
-10/20/30 等年代酒打造超高端产品和品牌。  
- 
-3.3 经销商体系仍是公司的主要渠道 
-“补商计划”拓展经销商队伍，“百城千县万店”增加零售终端 
-2021 年经销商体系收入为501 亿元，占比总收入的80%，经销商渠道仍是公司的主
-要渠道。  
-公司2017 年以来对经销商渠道做了系统梳理，包括1. 整治扰乱市场秩序的经销商；
-2. “百城千县万店”计划增加专卖店和终端网点，通过“补商计划”对原有经销商配
-额优化、扩招3-5 吨左右的小商进入经销队伍；3. 导入控盘分利模式（“控盘”指是管
-控量盘和价盘，管理供给需求平衡的量，和维持价格体系。 “分利”主要是指对厂方、 
-经销商和终端三方利润的分配）；4. 数字化赋能服务终端，增强信息的流动和互通。 
-同时，公司在组织管理上做了改革，简洁化内部组织，扁平化对接和服务经销商，包
-括 1. 将原有的7 个营销中心改成21 个营销战区；2. 成立浓香系列酒营销公司；3； 
-成立五商供应链公司；4. 各战区联合经销商攻坚区域型集团公司与中小企业客户等；
-5. 加大多种方式对经销商激励等。 
-图25  经销商数量持续提升拉动收入增长 
- 
-资料来源：公司公告、HTI 
-图26 单个经销商贡献的体量下降 
- 
-资料来源：公司公告、HTI 
- 
-普五经销商利润在几十元不等，需求走弱时价格会出现倒挂  
-五粮液经销商的低毛利一直被市场诟病。自2018 年以来，普五批价基本在出厂价之
-上，单瓶利润在几十块不等。2019 年中退出第七代五粮液和第八代五粮液上市期间，
-经销商单瓶利润较高，在100 元左右。节日期间，如过年或中秋国庆，经销商单瓶利
-润也较高，在50-70 元区间。当终端需求不足时，会造成经销商价格倒挂，如2020
-年3 月疫情期间，和2022 年2H 至今，因为疫情反复，部分地区的经销商的批价是低
-于出厂价的。 
- 
- 
-7 Dec 2022 
-13 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图27 普五批价大部分时间高于出厂价 
- 
-资料来源：渠道调研、HTI。普五批价是以河南渠道调研的批价为范本。 
- 
-3.4 2022 年新领导班子落地，期待股权激励 
-2022 年2 月，新一届领导班子落地，曾从钦任五粮液集团(股份)公司党委书记&董事
-长，负责全面深化改革和五粮液集团&股份的全面工作。曾从钦自2019 年以来担任公
+10/20/30 等年代酒打造超高端产品和品牌。
+3.3 经销商体系仍是公司的主要渠道
+“补商计划”拓展经销商队伍，“百城千县万店”增加零售终端
+2021 年经销商体系收入为 501 亿元,占比总收入的 80%,经销商渠道仍是公司的主
+要渠道。
+公司 2017 年以来对经销商渠道做了系统梳理,包括 1. 整治扰乱市场秩序的经销商;
+2. “百城千县万店”计划增加专卖店和终端网点,通过“补商计划”对原有经销商配
+额优化、扩招 3-5 吨左右的小商进入经销队伍；3. 导入控盘分利模式（“控盘”指是管
+控量盘和价盘，管理供给需求平衡的量，和维持价格体系。“分利”主要是指对厂方、
+经销商和终端三方利润的分配); 4. 数字化赋能服务终端,增强信息的流动和互通。
+同时,公司在组织管理上做了改革,简洁化内部组织,扁平化对接和服务经销商,包
+括 1. 将原有的 7 个营销中心改成 21 个营销战区; 2. 成立浓香系列酒营销公司; 3;
+成立五商供应链公司: 4.各战区联合经销商攻坚区域型集团公司与中小企业客户等;
+5. 加大多种方式对经销商激励等。
+普五经销商利润在几十元不等，需求走弱时价格会出现倒挂
+五粮液经销商的低毛利一直被市场诟病。自 2018 年以来, 普五批价基本在出厂价之
+上,单瓶利润在几十块不等。2019年中退出第七代五粮液和第八代五粮液上市期间,
+经销商单瓶利润较高,在100元左右。节日期间,如过年或中秋国庆,经销商单瓶利
+年 3 月疫情期间,和 2022 年 2H 至今,因为疫情反复,部分地区的经销商的批价是低
+于出厂价的。
+3.4 2022 年新领导班子落地,期待股权激励
+2022 年 2 月, 新一届领导班子落地, 曾从钦任五粮液集团(股份)公司党委书记&董事
+长,负责全面深化改革和五粮液集团&股份的全面工作。曾从钦自 2019 年以来担任公
 司总经理期间，和李曙光前董事长一起对五粮液的产品、品牌、渠道、组织体系进行
-了系统的改革。蒋文格任股份公司党委副书记&副董事长&总经理，负责股份公司经理
+了系统的改革。蒋文格任股份公司党委副书记&副董事长&总经理,负责股份公司经理
 层全面工作，侧重生产管理和基建项目。刘洋任股份公司副总经理，负责五粮液市场
-营销工作。张宇任副董事长，负责浓香系列酒的市场营销工作。 
-公司继续优化“总部管总，战区主战”，给一线队伍放权，包括财权、事权、人权、
+营销工作。张宇任副董事长，负责浓香系列酒的市场营销工作。
+公司继续优化“总部管总，战区主战”，给一线队伍放权,包括财权、事权、人权、
 推荐权和灵机决断权，进一步改善公司的运营体制。公司将继续推进薪酬改革，探索
-股权激励，实现短中长期的激励机制，绑定核心管理层和骨干成员。 
- 
-4. 五粮液年份窖龄窖池生产的优质酒稀缺性高，系列酒产能充裕 
-浓香酒优质酒出酒率跟酒窖窖龄高度相关，2000 年以后建成的窖池优质酒出酒率在
-10%以内 
+股权激励, 实现短中长期的激励机制, 绑定核心管理层和骨干成员。
+4. 五粮液年份窖龄窖池生产的优质酒稀缺性高，系列酒产能充裕
+浓香酒优质酒出酒率跟酒窖窖龄高度相关,2000年以后建成的窖池优质酒出酒率在
+10%以内
 优质产能是高端白酒发展的基础。结构性增长已成为白酒行业发展的主旋律，优质产
 能供给增长远远赶不上高端消费需求增长，行业“长期不缺酒、长期缺好酒”的品质
-竞争时代迈向纵深，优势品牌和优势产区会让企业的市占率持续提升。 
-浓香酒的优质酒出酒率跟酒窖窖龄高度相关，以五粮液为例，百年以上窖龄窖池的一
-级基酒出酒率约50-60%(其中明代古窖优质酒出酒率在75%以上)，50 年以上窖龄窖池
-的一级基酒出酒率在30%左右，而2000 年以后建成的窖池优质酒出酒率较低，在10%
-以内。 
+竞争时代迈向纵深，优势品牌和优势产区会让企业的市占率持续提升。
+浓香酒的优质酒出酒率跟酒窖窖龄高度相关,以五粮液为例,百年以上窖龄窖池的-
+级基酒出酒率约 50-60%(其中明代古窖优质酒出酒率在 75%以上)，50 年以上窖龄窖池
+的一级基酒出酒率在 30%左右,而 2000 年以后建成的窖池优质酒出酒率较低,在 10%
+以内。
 五粮液拥有全国数量最多、持续使用时间最长、历史最悠久的古窖池群，我们预期五
-粮液拥有窖池3 万口以上。 根据2021 年报表，五粮液酒的生产量为18.87 万吨，其
-中五粮液高端产品产量为2.84 万吨，优质酒的出酒率为15%。 
- 
- 
- 
- 
- 
- 
-7 Dec 2022 
-14 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图28 不同香型优质酒出酒率不同 
- 
-  
-资料来源：公开资料、HTI 
-五粮液产能充沛，但大量产能是在2000 年之后建设的 
-五粮液产能充沛，早在2005 年年报中披露“公司现已形成年产 45 万吨（商品酒）的
-能力，是世界上最大的酿酒生产基地”。公司大量产能是在2000 年后启动建立的，
-优质酒出酒率较低，伴随而来的是大量系列酒和贴牌酒，拉低了五粮液的品牌力。自 
-2016 年起公司清理了大量低附加值系列酒贴牌产品，树立五粮液高端品牌。 
-图29 五粮液产能充裕，但大量产能在2000 年之后建设 
- 
-资料来源：公司公告、HTI 
- 
-5. 盈利预测和投资建议 
-5.1 盈利预测 
-五粮液于 2021 年股东大会上提出集团/股份目标十四五目标：五粮液集团将实现“511”
-发展目标，即创建世界 500 强、 酒业主业销售收入过 1000 亿元、多元产业销售收入
-过 1000 亿元；股份公司将实现“2118”发展目标，即原酒产能达 到 20 万吨、基酒储存
-能力达 100 万吨、销售收入突破 1000 亿元、利税总额达 800 亿元。 
-我们预期五粮液2022-2025 年收入分别为737/848/953/1067 亿元，同比增长
-11.4%/14.9%/12.4%/12.0%；2022-2025 年净利润分别为266/305/348/395 亿元，同比增
-长13.6%/15.0%/13.9%/13.6%。 
- 
- 
- 
-7 Dec 2022 
-15 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图30  五粮液2022-2025 年收入呈双位数增长 
- 
-资料来源：公司公告、HTI 预测 
-图31 五粮液2022-2025 年净利润增速高于收入增速 
- 
-资料来源：公司公告、HTI 预测 
- 
-2022-2025 年五粮液高端酒收入分别为565/647/726/817 亿元，同比增长
-15.1%/14.5%/12.2%/12.6%。销量方面，我们预期继续以来普五销量双位数增长为基础；
-低度五粮液也呈量的双位数增长；经典五粮液2022-2023 年养精蓄锐，到2024 年量呈
-上升态势；五粮液1618 在2022-2023 年处于调整期，2024 年后处于稳态。均价方面，
-我们预期2022-2024 年在中单至低单位数区间增长，五粮液各个高端产品每间隔1-2
-年会有提价，同时团购渠道提价更高频。 
-图32  五粮液高端酒2022-2025 年收入呈双位数增长 
- 
-资料来源：公司公告、HTI 预测 
-图33 五粮液高端酒2022-2025 年量价齐升 
- 
-资料来源：公司公告、HTI 预测 
- 
-五粮液中低端酒收入分别为
-123/146/167/185
-亿元，同比增长-
-2.5%/18.8%/14.5%/10.3%。2022 年中低端酒均价大幅提升，销量大幅下滑，我们推测
+粮液拥有窖池 3 万口以上。 根据 2021 年报表, 五粮液酒的生产量为 18.87 万吨, 其
+中五粮液高端产品产量为 2.84 万吨, 优质酒的出酒率为 15%。
+图 28 不同香型优质酒出酒率不同
+五粮液产能充沛，但大量产能是在 2000 年之后建设的
+五粮液产能充沛,早在 2005 年年报中披露“公司现已形成年产 45 万吨(商品酒)的
+能力,是世界上最大的酿酒生产基地”。公司大量产能是在2000年后启动建立的,
+优质酒出酒率较低，伴随而来的是大量系列酒和贴牌酒，拉低了五粮液的品牌力。自
+2016年起公司清理了大量低附加值系列酒贴牌产品,树立五粮液高端品牌。
+图 29 五粮液产能充裕，但大量产能在 2000 年之后建设
+5. 盈利预测和投资建议
+5.1 盈利预测
+五粮液于 2021 年股东大会上提出集团/股份目标十四五目标: 五粮液集团将实现“511”
+发展目标,即创建世界500强、酒业主业销售收入过1000亿元、多元产业销售收入
+过 1000 亿元: 股份公司将实现“2118”发展目标,即原酒产能达 到 20 万吨、基酒储存
+能力达 100 万吨、销售收入突破 1000 亿元、利税总额达 800 亿元。
+我们预期五粮液 2022-2025 年收入分别为 737/848/953/1067 亿元,同比增长
+11.4%/14.9%/12.4%/12.0%; 2022-2025 年净利润分别为 266/305/348/395 亿元, 同比增
+长 13.6%/15.0%/13.9%/13.6%。
+2022-2025 年五粮液高端酒收入分别为 565/647/726/817 亿元,同比增长
+15.1%/14.5%/12.2%/12.6%。销量方面,我们预期继续以来普五销量双位数增长为基础;
+低度五粮液也呈量的双位数增长; 经典五粮液 2022-2023 年养精蓄锐, 到 2024 年量呈
+上升态势; 五粮液 1618 在 2022-2023 年处于调整期, 2024 年后处于稳态。均价方面,
+年会有提价,同时团购渠道提价更高频。
+五粮液中低端酒收入分别为 123/146/167/185 亿元，同比增长-
+2.5%/18.8%/14.5%/10.3%。2022 年中低端酒均价大幅提升,销量大幅下滑,我们推测
 是系列酒产品结构调整的结果，其中尖庄光瓶酒的优异表现弥补了砍掉大量条码的不
-足，同时拉低了整体系列酒的均价水平。 
- 
- 
-7 Dec 2022 
-16 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图34  五粮液中低端酒2022-2025 年收入呈双位数增长 
- 
-资料来源：公司公告、HTI 预测 
-图35 五粮液高端酒2022-2025 年量价齐升 
- 
-资料来源：公司公告、HTI 预测 
- 
-我们预期五粮液高端酒和中低端酒的毛利率持续上行。五粮液高端酒GPM 在2022-
-2023 年维持在83-84%的较低水平，主要因为超高端酒的调整，未来上行速度取决于
-提价和超高端酒的表现。我们预期每1-2 年五粮液出厂价或团购价会有提升，经典五
-粮液在培育和恢复后销量将在2024 年后上行，都将对高端酒的GPM 上行提供支持。
-中低端酒GPM 短期上行速度快于高端酒，因为公司在积极做结构调整，1H22 中低端
-酒的销量下滑48%，均价上行80%。 
-图36  五粮液GPM 持续上行，SG&A 基本维持稳定 
- 
-资料来源：公司公告、HTI 预测 
-图37 五粮液高端酒和中低端酒GPM 持续改善 
- 
-资料来源：公司公告、HTI 预测 
- 
-5.1 投资建议 
-我们预期五粮液2022-2025 年收入分别为737/848/953/1067 亿元，2022-2025 年净利
-润分别为266/305/348/398 亿元，对应22-24 年PE 为24.6X/21.4X/18.8X，PEG 分别为
-1.8X/1.4X/1.4X。短期白酒行业面临一定下行压力，消费恢复尚需时间，叠加市场上库
+足,同时拉低了整体系列酒的均价水平。
+五粮液 (000858 CH)
+首次覆盖优于大市
+图 34 五粮液中低端酒 2022-2025 年收入呈双位数增长
+图 35 五粮液高端酒 2022-2025 年量价齐升
+20,000
+60%
+18,000
+50%
+16,000
+40%
+14,000
+12,000
+30%
+10,000
+20%
+8,000
+6,000
+10%
+4,000
+2,000
+-10\%
+2022E
+2025E
+2023E
+2024E
+五粮液中低端酒(mn RMB)
+-yoy%
+我们预期五粮液高端酒和中低端酒的毛利率持续上行。五粮液高端酒 GPM 在 2022-
+2023 年维持在 83-84%的较低水平,主要因为超高端酒的调整,未来上行速度取决于
+提价和超高端酒的表现。我们预期每 1-2 年五粮液出厂价或团购价会有提升, 经典五
+粮液在培育和恢复后销量将在 2024 年后上行，都将对高端酒的 GPM 上行提供支持。
+中低端酒 GPM 短期上行速度快于高端酒,因为公司在积极做结构调整,1H22 中低端
+酒的销量下滑 48%,均价上行 80%。
+5.1 投资建议
+我们预期五粮液 2022-2025 年收入分别为 737/848/953/1067 亿元, 2022-2025 年净利
+润分别为 266/305/348/398 亿元, 对应 22-24 年 PE 为 24.6X/21.4X/18.8X, PEG 分别为
+1.8X/1.4X/1.4X。短期白酒行业面临一定下行压力,消费恢复尚需时间,叠加市场上库
 存较多，大部份白酒企业也弱化了对开门红的硬性考核，更看重批价的稳定性和品牌
-价值的维护，我们预期行业在1Q-2Q23 触底。我们认为五粮液是宴请和餐饮场景恢复
-后弹性较大的高端白酒标的，同时公司耐心培育超高端产品，积极调整中低端酒体系，
+价值的维护, 我们预期行业在 1Q-2Q23 触底。我们认为五粮液是宴请和餐饮场景恢复
+后弹性较大的高端白酒标的，同时公司耐心培育超高端产品，积极调整中低端酒体系,
 布局专卖店和团购渠道增加直营业务比例，利好公司收入和利润的提升。我们首次覆
-盖给予五粮液“优于大市”评级，给予23 年28X PE 估值，目标价220.3 元，有31%的
-上行空间。 
- 
- 
- 
- 
-7 Dec 2022 
-17 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-图38 白酒行业可比上市公司的估值预测 
- 
-资料来源：Wind， HTI 
-注：收盘价为2022 年12 月5 日数据，盈利预测来源于Wind 一致预期 
- 
- 
-6. 风险提示 
-白酒行业下行风险，疫情反复影响需求，五粮液超高端产品恢复和培育低于预期。 
- 
- 
- 
-7 Dec 2022 
-18 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-Table 1 
-财务报表分析和预测 
- 
- 
- 
- 
-资料来源：公司公告、HTI 预测 
- 
- 
- 
- 
-7 Dec 2022 
-19 
-五粮液 (000858 CH) 
-首次覆盖优于大市 
-APPENDIX 1 
-Summary 
-Wuliangye is a nationalized white liquor company, with a solid position in the price range of 1,000RMB. Wuliangye's core product 
-PuWu, which delivered 33 billion revenue in 2021, accounts for 60% of liquor revenues. We expect the revenue from white liquor 
-in the 1000RMB price range to reach 120-130 billion in 2025, with 12% CAGR and rise in volume and price. Wuliangye dominates 
-in the 1000 RMB white liquor segment , with a 67% market share, and we expect its core product PuWu will grow faster than the 
-industry average growth. 
- 
-The dilemma of Wuliangye is the conflict between volume control and price stability, and performance deliver. The company needs 
-to protect the brand power and price band of its core products, but also faces the pressure of performance review. However, 
-under the pressure, the company raised the price of PuWu half-yearly in 2015-2017 and 2019-2021, with rise in both volume and 
-price. To solve the conflict, consumption upgrading driven by economic growth and income growth is the foundation, and it also 
-needs long-term reform in system and operation. 
- 
-Wuliangye's marketing system continues to transform, with group purchase and specialty store sales being the key of the 
-company's direct sales model. Former Chairman Li Shuguang and current Chairman Zeng Congqin have made a series of marketing 
-transform changes and channel reform. Since 2017, the company has been actively expanding its specialty stores and adjusting 
-the stores to direct sales mode in 1H22. Since 2020, the company has accelerated its group purchase business to increase direct 
-sales. In addition, it has made changes to the distributor channel through the "100 Cities, 1000 Counties, 10,000 Stores", 
-"replenishment business plan", control and profit-sharing model, digitalization and channel flattening, etc., with remarkable 
-results. 
- 
-Wuliangye's vintage-aged cellars produce a limited amount of quality white liquor, while its series white liquor have ample 
-production capacity. The quality white liquor production yield is highly correlated with the age of the cellars. According to our 
-estimates, the quality white liquor production yield of Wuliangye's cellars over 100-year-old is 50-60%, while the yield produced 
-in the cellars built after 2000 is within 10%, and the current quality white liquor production yield of the company is 15%. Wuliangye 
-has abundant production capacity, but a large amount of production capacity was initiated and established after 2000, and the 
-quality white liquor production yield rate is low, accompanied by a large amount of series and labeled white liquor. Since 2016, 
-the company has been actively cleaning up series and labeled white liquor to restore Wuliangye brand power. 
- 
-We expect Wuliangye 2022-2024 revenue of 73.7/848/95.3 billion yuan, respectively, 2022-2024 net profit of 266/30.5/34.8 billion 
-yuan, corresponding to 2022-2024 PE of 24.6X/21.4X/18.8X. In a short-term, white liquor industry is in the downcycle, as the 
-consumption recovery takes time, with inventory loaded in the market, and white liquor companies also lowered the spring festival 
-prepay requirements. Therefore, we expect the industry will bottom out in 1Q-2Q23. We believe that Wuliangye will enjoy greater 
-resilience after the recovery of the banquet and dining scene as a premium white liquor company, while the company patiently 
-cultivates ultra-high-end products, actively adjusts the low-end white liquor products, and lays out specialty stores and group 
-buying channels to increase the proportion of direct sales, which is beneficial to the company's revenue and profit. We initiate 
-Wuliangye with an Outperform rating with the target price of Rmb220.3 on 28x 2023 PER.  
- 
-Risk: Downside cycle of the liquor industry, weak demand due to epidemics, and Wuliangye's ultra-high-end product recovery and 
+上行空间。
+图 38 白酒行业可比上市公司的估值预测
+白酒行业下行风险，疫情反复影响需求，五粮液超高端产品恢复和培育低于预期。
+Summary
+Wuliangye is a nationalized white liquor company, with a solid position in the price range of 1,000RMB. Wuliangye's core product
+PuWu, which delivered 33 billion revenue in 2021, accounts for 60% of liquor revenues. We expect the revenue from white liquor
+in the 1000RMB price range to reach 120-130 billion in 2025, with 12% CAGR and rise in volume and price. Wuliangye dominates
+in the 1000 RMB white liquor segment, with a 67% market share, and we expect its core product PuWu will grow faster than the
+industry average growth.
+The dilemma of Wuliangye is the conflict between volume control and price stability, and performance deliver. The company needs
+to protect the brand power and price band of its core products, but also faces the pressure of performance review. However,
+under the pressure, the company raised the price of PuWu half-yearly in 2015-2017 and 2019-2021, with rise in both volume and
+price. To solve the conflict, consumption upgrading driven by economic growth and income growth is the foundation, and it also
+needs long-term reform in system and operation.
+Wuliangye's marketing system continues to transform, with group purchase and specialty store sales being the key of the
+company's direct sales model. Former Chairman Li Shuguang and current Chairman Zeng Congqin have made a series of marketing
+transform changes and channel reform. Since 2017, the company has been actively expanding its specialty stores and adjusting
+the stores to direct sales mode in 1H22. Since 2020, the company has accelerated its group purchase business to increase direct
+sales. In addition, it has made changes to the distributor channel through the "100 Cities, 1000 Counties, 10,000 Stores",
+"replenishment business plan", control and profit-sharing model, digitalization and channel flattening, etc., with remarkable
+results.
+Wuliangye's vintage-aged cellars produce a limited amount of quality white liquor, while its series white liquor have ample
+production capacity. The quality white liquor production yield is highly correlated with the age of the cellars. According to our
+estimates, the quality white liquor production yield of Wuliangye's cellars over 100-year-old is 50-60%, while the yield produced
+in the cellars built after 2000 is within 10%, and the current quality white liquor production yield of the company is 15%. Wuliangye
+has abundant production capacity, but a large amount of production capacity was initiated and established after 2000, and the
+quality white liquor production yield rate is low, accompanied by a large amount of series and labeled white liquor. Since 2016,
+the company has been actively cleaning up series and labeled white liquor to restore Wuliangye brand power.
+We expect Wuliangye 2022-2024 revenue of 73.7/848/95.3 billion yuan, respectively, 2022-2024 net profit of 266/30.5/34.8 billion
+yuan, corresponding to 2022-2024 PE of 24.6X/21.4X/18.8X. In a short-term, white liquor industry is in the downcycle, as the
+consumption recovery takes time, with inventory loaded in the market, and white liquor companies also lowered the spring festival
+prepay requirements. Therefore, we expect the industry will bottom out in 1Q-2Q23. We believe that Wuliangye will enjoy greater
+resilience after the recovery of the banquet and dining scene as a premium white liquor company, while the company patiently
+cultivates ultra-high-end products, actively adjusts the low-end white liquor products, and lays out specialty stores and group
+buying channels to increase the proportion of direct sales, which is beneficial to the company's revenue and profit. We initiate
+Wuliangye with an Outperform rating with the target price of Rmb220.3 on 28x 2023 PER.
+Risk: Downside cycle of the liquor industry, weak demand due to epidemics, and Wuliangye's ultra-high-end product recovery and
 cultivation lower than expectation.
- 
- 
- 
- 
-20 
- 
-附录APPENDIX 
-重要信息披露 
+附录 APPENDIX
+重要信息披露
 本研究报告由海通国际分销，海通国际是由海通国际研究有限公司(HTIRL)，Haitong Securities India Private Limited (HSIPL)，Haitong International Japan K.K. (HTIJKK)和海通国际证券有限公
-司(HTISCL)的证券研究团队所组成的全球品牌，海通国际证券集团(HTISG)各成员分别在其许可的司法管辖区内从事证券活动。 
-IMPORTANT DISCLOSURES 
-This research report is distributed by Haitong International, a global brand name for the equity research teams of Haitong International Research Limited (“HTIRL”), Haitong Securities India Private 
-Limited (“HSIPL”), Haitong International Japan K.K. (“HTIJKK”), Haitong International Securities Company Limited (“HTISCL”), and any other members within the Haitong International Securities Group 
-of Companies (“HTISG”), each authorized to engage in securities activities in its respective jurisdiction. 
-HTIRL 分析师认证Analyst Certification: 
-我， Yuanyuan Kou，在此保证（i）本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且（ii）我的报酬中没有任何部分与本研究报
-告中表达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。I, Yuanyuan Kou, certify that (i) the views 
-expressed in this research report accurately reflect my personal views about any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or 
-will be directly or indirectly related to the specific recommendations or views expressed in this research report; and that I (including members of my household) have no financial interest in the 
-security or securities of the subject companies discussed. 
+司(HTISCL)的证券研究团队所组成的全球品牌，海通国际证券集团(HTISG)各成员分别在其许可的司法管辖区内从事证券活动。
+IMPORTANT DISCLOSURES
+This research report is distributed by Haitong International, a global brand name for the equity research teams of Haitong International Research Limited ("HTIRL"), Haitong Securities India Private
+Limited ("HSIPL"), Haitong International Japan K.K. ("HTIJKK"), Haitong International Securities Company Limited ("HTISCL"), and any other members within the Haitong International Securities Group
+of Companies ("HTISG"), each authorized to engage in securities activities in its respective jurisdiction.
+我， Yuanyuan Kou，在此保证 (i) 本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且 (ii) 我的报酬中没有任何部分与本研究报
+告中表达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。I, Yuanyuan Kou, certify that (i) the views
+expressed in this research report accurately reflect my personal views about any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or
+will be directly or indirectly related to the specific recommendations or views expressed in this research report; and that I (including members of my household) have no financial interest in the
+security or securities of the subject companies discussed.
 我， 闻宏伟，在此保证（i）本研究报告中的意见准确反映了我们对本研究中提及的任何或所有目标公司或上市公司的个人观点，并且（ii）我的报酬中没有任何部分与本研究报告中表
-达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。I, Hongwei Wen, certify that (i) the views expressed 
-in this research report accurately reflect my personal views about any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or will be 
-directly or indirectly related to the specific recommendations or views expressed in this research report; and that I (including members of my household) have no financial interest in the security or 
-securities of the subject companies discussed. 
- 
-利益冲突披露Conflict of Interest Disclosures 
+达的具体建议或观点直接或间接相关；及就此报告中所讨论目标公司的证券，我们（包括我们的家属）在其中均不持有任何财务利益。I, Hongwei Wen, certify that (i) the views expressed
+in this research report accurately reflect my personal views about any or all of the subject companies or issuers referred to in this research and (ii) no part of my compensation was, is or will be
+directly or indirectly related to the specific recommendations or views expressed in this research report; and that I (including members of my household) have no financial interest in the security or
+securities of the subject companies discussed.
+利益冲突披露 Conflict of Interest Disclosures
 海通国际及其某些关联公司可从事投资银行业务和/或对本研究中的特定股票或公司进行做市或持有自营头寸。就本研究报告而言，以下是有关该等关系的披露事项（以下披露不能保
-证及时无遗漏，如需了解及时全面信息，请发邮件至ERD-Disclosure@htisec.com） 
-HTI and some of its affiliates may engage in investment banking and / or serve as a market maker or hold proprietary trading positions of certain stocks or companies in this research report. As far 
-as this research report is concerned, the following are the disclosure matters related to such relationship (As the following disclosure does not ensure timeliness and completeness, please send an 
-email to ERD-Disclosure@htisec.com if timely and comprehensive information is needed). 
- 
- 
-评级定义（从2020 年7 月1 日开始执行）： 
-海通国际（以下简称“HTI”）采用相对评级系统来为投资者推荐我们覆盖的公
-司：优于大市、中性或弱于大市。投资者应仔细阅读HTI 的评级定义。并且HTI
-发布分析师观点的完整信息，投资者应仔细阅读全文而非仅看评级。在任何情
-况下，分析师的评级和研究都不能作为投资建议。投资者的买卖股票的决策应
-基于各自情况（比如投资者的现有持仓）以及其他因素。 
-分析师股票评级 
-优于大市，未来12-18 个月内预期相对基准指数涨幅在10%以上，基准定义如
-下 
-中性，未来12-18 个月内预期相对基准指数变化不大，基准定义如下。根据
-FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。 
-弱于大市，未来12-18 个月内预期相对基准指数跌幅在10%以上，基准定义如
-下 
-各地股票基准指数：日本 – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – Nifty100, 美
-国 – SP500; 其他所有中国概念股 – MSCI China. 
-Ratings Definitions (from 1 Jul 2020):  
-Haitong International uses a relative rating system using Outperform, 
-Neutral, or Underperform for recommending the stocks we cover to 
-investors. Investors should carefully read the definitions of all ratings used 
-in Haitong International Research. In addition, since Haitong International 
-Research contains more complete information concerning the analyst's 
-views, investors should carefully read Haitong International Research, in its 
-entirety, and not infer the contents from the rating alone. In any case, 
-ratings (or research) should not be used or relied upon as investment 
-advice. An investor's decision to buy or sell a stock should depend on 
-individual circumstances (such as the investor's existing holdings) and other 
-评级分布Rating Distribution 
- 
- 
- 
- 
- 
-21 
-considerations. 
-Analyst Stock Ratings 
-Outperform: The stock’s total return over the next 12-18 months is 
-expected to exceed the return of its relevant broad market benchmark, as 
-indicated below.  
-Neutral: The stock’s total return over the next 12-18 months is expected to 
-be in line with the return of its relevant broad market benchmark, as 
-indicated below. For purposes only of FINRA/NYSE ratings distribution 
-rules, our Neutral rating falls into a hold rating category. 
-Underperform: The stock’s total return over the next 12-18 months is 
-expected to be below the return of its relevant broad market benchmark, 
-as indicated below. 
-Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, 
-Korea – KOSPI, Taiwan – TAIEX, India – Nifty100, US – SP500; for all other 
-China-concept stocks – MSCI China. 
- 
-截至2022 年9 月30 日海通国际股票研究评级分布 
- 
-优于大市 
-中性 
-弱于大市 
- 
- 
-(持有) 
- 
-海通国际股票研究覆盖率   
-89.4% 
-9.2% 
-1.4% 
-投资银行客户*  
-5.5% 
-6.8% 
-4.5% 
-*在每个评级类别里投资银行客户所占的百分比。 
-上述分布中的买入，中性和卖出分别对应我们当前优于大市，中性和落后大市评级。 
-只有根据FINRA/NYSE 的评级分布规则，我们才将中性评级划入持有这一类别。请注意在上表中不包含非评级的股票。 
-此前的评级系统定义（直至2020 年6 月30 日）： 
-买入，未来12-18 个月内预期相对基准指数涨幅在10%以上，基准定义如下 
-中性，未来12-18 个月内预期相对基准指数变化不大，基准定义如下。根据FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。 
-卖出，未来12-18 个月内预期相对基准指数跌幅在10%以上，基准定义如下 
-各地股票基准指数：日本 – TOPIX, 韩国 – KOSPI, 台湾 – TAIEX, 印度 – Nifty100; 其他所有中国概念股 – MSCI China. 
- 
-Haitong International Equity Research Ratings Distribution, as of Sep 30, 2022 
- 
-Outperform 
-Neutral 
-Underperform 
- 
- 
-(hold) 
- 
-HTI Equity Research Coverage   
-89.4% 
-9.2% 
-1.4% 
-IB clients*  
-5.5% 
-6.8% 
-4.5% 
-*Percentage of investment banking clients in each rating category. 
-BUY, Neutral, and SELL in the above distribution correspond to our current ratings of Outperform, Neutral, and Underperform. 
-For purposes only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. Please note that stocks with an NR designation are not included in the table above. 
-Previous rating system definitions (until 30 Jun 2020): 
-BUY: The stock’s total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark, as indicated below.  
-NEUTRAL: The stock’s total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark, as indicated below. For purposes 
-only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. 
-SELL: The stock’s total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark, as indicated below. 
-Benchmarks for each stock’s listed region are as follows: Japan – TOPIX, Korea – KOSPI, Taiwan – TAIEX, India – Nifty100; for all other China-concept stocks – MSCI China. 
- 
+HTI and some of its affiliates may engage in investment banking and / or serve as a market maker or hold proprietary trading positions of certain stocks or companies in this research report. As far
+as this research report is concerned, the following are the disclosure matters related to such relationship (As the following disclosure does not ensure timeliness and completeness, please send an
+评级定义 (从 2020 年 7月 1日开始执行):
+评级分布 Rating Distribution
+海通国际(以下简称"HTI")采用相对评级系统来为投资者推荐我们覆盖的公
+司:优于大市、中性或弱于大市。投资者应仔细阅读 HTI 的评级定义。并且 HTI
+基于各自情况(比如投资者的现有持仓)以及其他因素。
+优于大市,未来 12-18 个月内预期相对基准指数涨幅在 10%以上,基准定义如
+中性,未来 12-18 个月内预期相对基准指数变化不大,基准定义如下。根据
+FINRA/NYSE 的评级分布规则, 我们会将中性评级划入持有这一类别。
+弱于大市，未来 12-18 个月内预期相对基准指数跌幅在 10%以上，基准定义如
+各地股票基准指数: 日本-TOPIX, 韩国-KOSPI, 台湾-TAIEX, 印度-Nifty100, 美
+国 - SP500; 其他所有中国概念股 - MSCI China.
+Ratings Definitions (from 1 Jul 2020):
+Haitong International uses a relative rating system using Outperform,
+Neutral, or Underperform for recommending the stocks we cover to
+investors. Investors should carefully read the definitions of all ratings used
+in Haitong International Research. In addition, since Haitong International
+Research contains more complete information concerning the analyst's
+views, investors should carefully read Haitong International Research, in its
+entirety, and not infer the contents from the rating alone. In any case,
+ratings (or research) should not be used or relied upon as investment
+advice. An investor's decision to buy or sell a stock should depend on
+individual circumstances (such as the investor's existing holdings) and other
+considerations.
+Analyst Stock Ratings
+Outperform: The stock's total return over the next 12-18 months is
+expected to exceed the return of its relevant broad market benchmark, as
+indicated below.
+Neutral: The stock's total return over the next 12-18 months is expected to
+be in line with the return of its relevant broad market benchmark, as
+indicated below. For purposes only of FINRA/NYSE ratings distribution
+rules, our Neutral rating falls into a hold rating category.
+Underperform: The stock's total return over the next 12-18 months is
+expected to be below the return of its relevant broad market benchmark,
+as indicated below.
+Benchmarks for each stock's listed region are as follows: Japan – TOPIX,
+Korea – KOSPI, Taiwan – TAIEX, India – Nifty100, US – SP500; for all other
+China-concept stocks – MSCI China.
+截至 2022 年 9 月 30 日海通国际股票研究评级分布
+上述分布中的买入，中性和卖出分别对应我们当前优于大市，中性和落后大市评级。
+只有根据 FINRA/NYSE 的评级分布规则，我们才将中性评级划入持有这一类别。请注意在上表中不包含非评级的股票。
+此前的评级系统定义(直至 2020 年 6 月 30 日):
+买入，未来 12-18 个月内预期相对基准指数涨幅在 10%以上，基准定义如下
+中性，未来 12-18 个月内预期相对基准指数变化不大，基准定义如下。根据 FINRA/NYSE 的评级分布规则，我们会将中性评级划入持有这一类别。
+卖出,未来12-18个月内预期相对基准指数跌幅在10%以上,基准定义如下
+各地股票基准指数: 日本-TOPIX, 韩国-KOSPI, 台湾-TAIEX, 印度-Nifty100; 其他所有中国概念股-MSCI China.
+BUY, Neutral, and SELL in the above distribution correspond to our current ratings of Outperform, Neutral, and Underperform.
+For purposes only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category. Please note that stocks with an NR designation are not included in the table above.
+Previous rating system definitions (until 30 Jun 2020):
+BUY: The stock's total return over the next 12-18 months is expected to exceed the return of its relevant broad market benchmark, as indicated below.
+NEUTRAL: The stock's total return over the next 12-18 months is expected to be in line with the return of its relevant broad market benchmark, as indicated below. For purposes
+only of FINRA/NYSE ratings distribution rules, our Neutral rating falls into a hold rating category.
+SELL: The stock's total return over the next 12-18 months is expected to be below the return of its relevant broad market benchmark, as indicated below.
+Benchmarks for each stock's listed region are as follows: Japan – TOPIX, Korea – KOSPI, Taiwan – TAIEX, India – Nifty100; for all other China-concept stocks – MSCI China.
 海通国际非评级研究：海通国际发布计量、筛选或短篇报告，并在报告中根据估值和其他指标对股票进行排名，或者基于可能的估值倍数提出建议价格。这种排名或建议价格并非为
-了进行股票评级、提出目标价格或进行基本面估值，而仅供参考使用。 
-Haitong International Non-Rated Research:  Haitong International publishes quantitative, screening or short reports which may rank stocks according to valuation and other metrics or may suggest 
-prices based on possible valuation multiples. Such rankings or suggested prices do not purport to be stock ratings or target prices or fundamental values and are for information only. 
-海通国际A 股覆盖：海通国际可能会就沪港通及深港通的中国A 股进行覆盖及评级。海通证券（600837.CH），海通国际于上海的母公司，也会于中国发布中国A 股的研究报告。但
-是，海通国际使用与海通证券不同的评级系统，所以海通国际与海通证券的中国A 股评级可能有所不同。 
-Haitong International Coverage of A-Shares:  Haitong International may cover and rate A-Shares that are subject to the Hong Kong Stock Connect scheme with Shanghai and Shenzhen. Haitong 
-Securities (HS; 600837 CH), the ultimate parent company of HTISG  based in Shanghai, covers and publishes research on these same A-Shares for distribution in mainland China. However, the rating 
-system employed by HS differs from that used by HTI and as a result there may be a difference in the HTI and HS ratings for the same A-share stocks. 
-海通国际优质100 A 股（Q100）指数：海通国际Q100 指数是一个包括100 支由海通证券覆盖的优质中国A 股的计量产品。这些股票是通过基于质量的筛选过程，并结合对海通证券 A
- 
- 
- 
- 
-22 
-股团队自下而上的研究。海通国际每季对Q100 指数成分作出复审。 
-Haitong International Quality 100 A-share (Q100) Index:  HTI’s Q100 Index is a quant product that consists of 100 of the highest-quality A-shares under coverage at HS in Shanghai. These stocks are 
-carefully selected through a quality-based screening process in combination with a review of the HS A-share team’s bottom-up research. The Q100 constituent companies are reviewed quarterly. 
- 
-MSCI ESG 评级免责声明条款：尽管海通国际的信息供货商（包括但不限于MSCI ESG Research LLC 及其联属公司（「ESG 方」）从其认为可靠的来源获取信息（「信息」）, ESG 方均不
+Haitong International Non-Rated Research: Haitong International publishes quantitative, screening or short reports which may rank stocks according to valuation and other metrics or may suggest
+prices based on possible valuation multiples. Such rankings or suggested prices do not purport to be stock ratings or target prices or fundamental values and are for information only.
+海通国际 A 股覆盖：海通国际可能会就沪港通及深港通的中国 A 股进行覆盖及评级。海通证券（600837.CH），海通国际于上海的母公司，也会于中国发布中国 A 股的研究报告。但
+是，海通国际使用与海通证券不同的评级系统，所以海通国际与海通证券的中国 A 股评级可能有所不同。
+Haitong International Coverage of A-Shares: Haitong International may cover and rate A-Shares that are subject to the Hong Kong Stock Connect scheme with Shanghai and Shenzhen. Haitong
+Securities (HS; 600837 CH), the ultimate parent company of HTISG based in Shanghai, covers and publishes research on these same A-Shares for distribution in mainland China. However, the rating
+system employed by HS differs from that used by HTI and as a result there may be a difference in the HTI and HS ratings for the same A-share stocks.
+海通国际优质 100 A 股（Q100）指数：海通国际 Q100 指数是一个包括 100 支由海通证券覆盖的优质中国 A 股的计量产品。这些股票是通过基于质量的筛选过程，并结合对海通证券 A
+股团队自下而上的研究。海通国际每季对 Q100 指数成分作出复审。
+Haitong International Quality 100 A-share (Q100) Index: HTI's Q100 Index is a quant product that consists of 100 of the highest-quality A-shares under coverage at HS in Shanghai. These stocks are
+carefully selected through a quality-based screening process in combination with a review of the HS A-share team's bottom-up research. The Q100 constituent companies are reviewed quarterly.
 担保或保证此处任何数据的原创性，准确性和/或完整性，并明确表示不作出任何明示或默示的担保，包括可商售性和针对特定目的的适用性。该信息只能供阁下内部使用，不得以任
-何形式复制或重新传播，并不得用作任何金融工具、产品或指数的基础或组成部分。此外，信息本质上不能用于判断购买或出售何种证券, 或何时购买或出售该证券。即使已被告知可
+何形式复制或重新传播，并不得用作任何金融工具、产品或指数的基础或组成部分。此外，信息本质上不能用于判断购买或出售何种证券,或何时购买或出售该证券。即使已被告知可
 能造成的损害, ESG 方均不承担与此处任何资料有关的任何错误或遗漏所引起的任何责任，也不对任何直接、间接、特殊、惩罚性、附带性或任何其他损害赔偿（包括利润损失）承担
-任何责任。 
-MSCI ESG Disclaimer: Although Haitong International’s information providers, including without limitation, MSCI ESG Research LLC and its affiliates (the “ESG Parties”), obtain information (the 
-“Information”) from sources they consider reliable, none of the ESG Parties warrants or guarantees the originality, accuracy and/or completeness, of any data herein and expressly disclaim all express 
-or implied warranties, including those of merchantability and fitness for a particular purpose. The Information may only be used for your internal use, may not be reproduced or redisseminated in 
-any form and may not be used as a basis for, or a component of, any financial instruments or products or indices. Further, none of the Information can in and of itself be used to determine which 
-securities to buy or sell or when to buy or sell them. None of the ESG Parties shall have any liability for any errors or omissions in connection with any data herein, or any liability for any direct, 
-indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of the possibility of such damages. 
-盟浪义利（FIN-ESG）数据通免责声明条款：在使用盟浪义利（FIN-ESG）数据之前，请务必仔细阅读本条款并同意本声明： 
+任何责任。
+MSCI ESG Disclaimer: Although Haitong International's information providers, including without limitation, MSCI ESG Research LLC and its affiliates (the "ESG Parties"), obtain information (the
+"Information") from sources they consider reliable, none of the ESG Parties warrants or guarantees the originality, accuracy and/or completeness, of any data herein and expressly disclaim all express
+or implied warranties, including those of merchantability and fitness for a particular purpose. The Information may only be used for your internal use, may not be reproduced or redisseminated in
+any form and may not be used as a basis for, or a component of, any financial instruments or products or indices. Further, none of the Information can in and of itself be used to determine which
+securities to buy or sell or when to buy or sell them. None of the ESG Parties shall have any liability for any errors or omissions in connection with any data herein, or any liability for any direct,
+indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of the possibility of such damages.
 第一条 义利（FIN-ESG）数据系由盟浪可持续数字科技有限责任公司（以下简称“本公司”）基于合法取得的公开信息评估而成，本公司对信息的准确性及完整性不作任何保证。对公司
 的评估结果仅供参考，并不构成对任何个人或机构投资建议，也不能作为任何个人或机构购买、出售或持有相关金融产品的依据。本公司不对任何个人或机构投资者因使用本数据表
-述的评估结果造成的任何直接或间接损失负责。  
+述的评估结果造成的任何直接或间接损失负责。
 第二条 盟浪并不因收到此评估数据而将收件人视为客户，收件人使用此数据时应根据自身实际情况作出自我独立判断。本数据所载内容反映的是盟浪在最初发布本数据日期当日的判
 断，盟浪有权在不发出通知的情况下更新、修订与发出其他与本数据所载内容不一致或有不同结论的数据。除非另行说明，本数据（如财务业绩数据等）仅代表过往表现，过往的业
-绩表现不作为日后回报的预测。  
+绩表现不作为日后回报的预测。
 第三条 本数据版权归本公司所有，本公司依法保留各项权利。未经本公司事先书面许可授权，任何个人或机构不得将本数据中的评估结果用于任何营利性目的，不得对本数据进行修
 改、复制、编译、汇编、再次编辑、改编、删减、缩写、节选、发行、出租、展览、表演、放映、广播、信息网络传播、摄制、增加图标及说明等，否则因此给盟浪或其他第三方造
-成损失的，由用户承担相应的赔偿责任，盟浪不承担责任。 
-第四条 如本免责声明未约定，而盟浪网站平台载明的其他协议内容（如《盟浪网站用户注册协议》《盟浪网用户服务（含认证）协议》《盟浪网隐私政策》等）有约定的，则按其他
-协议的约定执行；若本免责声明与其他协议约定存在冲突或不一致的，则以本免责声明约定为准。 
+成损失的,由用户承担相应的赔偿责任,盟浪不承担责任。
 SusallWave FIN-ESG Data Service Disclaimer: Please read these terms and conditions below carefully and confirm your agreement and acceptance with these terms before using SusallWave FIN-
-ESG Data Service. 
-1. 
-FIN-ESG Data is produced by SusallWave Digital Technology Co., Ltd. (In short, SusallWave)’s assessment based on legal publicly accessible information. SusallWave shall not be responsible 
-for any accuracy and completeness of the information. The assessment result is for reference only. It is not for any investment advice for any individual or institution and not for basis of purchasing, 
-selling or holding any relative financial products. We will not be liable for any direct or indirect loss of any individual or institution as a result of using SusallWave FIN-ESG Data. 
-2. 
-SusallWave do not consider recipients as customers for receiving these data. When using the data, recipients shall make your own independent judgment according to your practical individual 
-status. The contents of the data reflect the judgment of us only on the release day. We have right to update and amend the data and release other data that contains inconsistent contents or 
-different conclusions without notification. Unless expressly stated, the data (e.g., financial performance data) represents past performance only and the past performance cannot be viewed as the 
-prediction of future return. 
-3. 
-The copyright of this data belongs to SusallWave, and we reserve all rights in accordance with the law. Without the prior written permission of our company, none of individual or institution 
-can use these data for any profitable purpose. Besides, none of individual or institution can take actions such as amendment, replication, translation, compilation, re-editing, adaption, deletion, 
-abbreviation, excerpts, issuance, rent, exhibition, performance, projection, broadcast, information network transmission, shooting, adding icons and instructions. If any loss of SusallWave or any 
-third-party is caused by those actions, users shall bear the corresponding compensation liability. SusallWave shall not be responsible for any loss. 
-4. 
-If any term is not contained in this disclaimer but written in other agreements on our website (e.g. User Registration Protocol of SusallWave Website, User Service (including authentication) 
-Agreement of SusallWave Website, Privacy Policy of Susallwave Website), it should be executed according to other agreements. If there is any difference between this disclaim and other agreements, 
-this disclaimer shall be applied.     
- 
-重要免责声明： 
-非印度证券的研究报告：本报告由海通国际证券集团有限公司（“HTISGL”）的全资附属公司海通国际研究有限公司（“HTIRL”）发行，该公司是根据香港证券及期货条例（第571 章）持
-有第4 类受规管活动（就证券提供意见）的持牌法团。该研究报告在HTISGL 的全资附属公司Haitong International (Japan) K.K.（“HTIJKK”）的协助下发行，HTIJKK 是由日本关东财务局监
-管为投资顾问。 
-印度证券的研究报告：本报告由从事证券交易、投资银行及证券分析及受Securities and Exchange Board of India（“SEBI”）监管的Haitong Securities India Private Limited（“HTSIPL”）所发
-行，包括制作及发布涵盖BSE Limited（“BSE”）和National Stock Exchange of India Limited（“NSE”）上市公司（统称为「印度交易所」）的研究报告。HTSIPL 于2016 年12 月22 日被收购
-并成为海通国际证券集团有限公司（“HTISG”）的一部分。  
- 
- 
- 
- 
-23 
-所有研究报告均以海通国际为名作为全球品牌，经许可由海通国际证券股份有限公司及/或海通国际证券集团的其他成员在其司法管辖区发布。 
-本文件所载信息和观点已被编译或源自可靠来源，但HTIRL、HTISCL 或任何其他属于海通国际证券集团有限公司（“HTISG”）的成员对其准确性、完整性和正确性不做任何明示或暗示的
-/
+ESG Data Service.
+FIN-ESG Data is produced by SusallWave Digital Technology Co., Ltd. (In short, SusallWave)'s assessment based on legal publicly accessible information. SusallWave shall not be responsible
+for any accuracy and completeness of the information. The assessment result is for reference only. It is not for any investment advice for any individual or institution and not for basis of purchasing,
+selling or holding any relative financial products. We will not be liable for any direct or indirect loss of any individual or institution as a result of using SusallWave FIN-ESG Data.
+SusallWave do not consider recipients as customers for receiving these data. When using the data, recipients shall make your own independent judgment according to your practical individual
+status. The contents of the data reflect the judgment of us only on the release day. We have right to update and amend the data and release other data that contains inconsistent contents or
+different conclusions without notification. Unless expressly stated, the data (e.g., financial performance data) represents past performance only and the past performance cannot be viewed as the
+prediction of future return.
+The copyright of this data belongs to SusallWave, and we reserve all rights in accordance with the law. Without the prior written permission of our company, none of individual or institution
+can use these data for any profitable purpose. Besides, none of individual or institution can take actions such as amendment, replication, translation, compilation, re-editing, adaption, deletion,
+abbreviation, excerpts, issuance, rent, exhibition, performance, projection, broadcast, information network transmission, shooting, adding icons and instructions. If any loss of SusallWave or any
+third-party is caused by those actions, users shall bear the corresponding compensation liability. SusallWave shall not be responsible for any loss.
+If any term is not contained in this disclaimer but written in other agreements on our website (e.g. User Registration Protocol of SusallWave Website, User Service (including authentication)
+Agreement of SusallWave Website, Privacy Policy of Susallwave Website), it should be executed according to other agreements. If there is any difference between this disclaim and other agreements,
+this disclaimer shall be applied.
+非印度证券的研究报告：本报告由海通国际证券集团有限公司（“HTISGL”）的全资附属公司海通国际研究有限公司（“HTIRL”）发行，该公司是根据香港证券及期货条例（第 571 章）持
+有第 4 类受规管活动（就证券提供意见）的持牌法团。该研究报告在 HTISGL 的全资附属公司 Haitong International (Japan) K.K.（“HTUKK”）的协助下发行，HTUKK 是由日本关东财务局监
+管为投资顾问。
+印度证券的研究报告：本报告由从事证券交易、投资银行及证券分析及受 Securities and Exchange Board of India（“SEB!”）监管的 Haitong Securities India Private Limited（“HTSIPL”）所发
+行，包括制作及发布涵盖 BSE Limited（“BSE”）和 National Stock Exchange of India Limited（“NSE”）上市公司（统称为「印度交易所」）的研究报告。HTSIPL 于 2016 年 12 月 22 日被收购
+并成为海通国际证券集团有限公司("HTISG")的一部分。
+所有研究报告均以海通国际为名作为全球品牌，经许可由海通国际证券股份有限公司及/或海通国际证券集团的其他成员在其司法管辖区发布。
 不应被解释为对证券买卖的明示或暗示地出价或征价。在某些司法管辖区，本文件中提及的证券可能无法进行买卖。如果投资产品以投资者本国货币以外的币种进行计价，则汇率变化
 可能会对投资产生不利影响。过去的表现并不一定代表将来的结果。某些特定交易，包括设计金融衍生工具的，有产生重大风险的可能性，因此并不适合所有的投资者。您还应认识到
-本文件中的建议并非为您量身定制。分析师并未考虑到您自身的财务情况，如您的财务状况和风险偏好。因此您必须自行分析并在适用的情况下咨询自己的法律、税收、会计、金融和
 其他方面的专业顾问，以期在投资之前评估该项建议是否适合于您。若由于使用本文件所载的材料而产生任何直接或间接的损失，HTISG 及其董事、雇员或代理人对此均不承担任何责
-任。  
-除对本文内容承担责任的分析师除外，HTISG 及我们的关联公司、高级管理人员、董事和雇员，均可不时作为主事人就本文件所述的任何证券或衍生品持有长仓或短仓以及进行买卖。
-HTISG 的销售员、交易员和其他专业人士均可向HTISG 的相关客户和公司提供与本文件所述意见相反的口头或书面市场评论意见或交易策略。HTISG 可做出与本文件所述建议或意见不
-一致的投资决策。但HTIRL 没有义务来确保本文件的收件人了解到该等交易决定、思路或建议。 
-请访问海通国际网站 www.equities.htisec.com ，查阅更多有关海通国际为预防和避免利益冲突设立的组织和行政安排的内容信息。 
-非美国分析师披露信息：本项研究首页上列明的海通国际分析师并未在FINRA 进行注册或者取得相应的资格，并且不受美国FINRA 有关与本项研究目标公司进行沟通、公开露面和自营
-证券交易的第2241 条规则之限制。 
-IMPORTANT DISCLAIMER 
-For research reports on non-Indian securities: The research report is issued by Haitong International Research Limited (“HTIRL”), a wholly owned subsidiary of Haitong International Securities Group 
-Limited (“HTISGL”) and a licensed corporation to carry on Type 4 regulated activity (advising on securities) for the purpose of the Securities and Futures Ordinance (Cap. 571) of Hong Kong, with the 
-assistance of Haitong International (Japan) K.K. (“HTIJKK”), a wholly owned subsidiary of HTISGL and which is regulated as an Investment Adviser by the Kanto Finance Bureau of Japan. 
-For research reports on Indian securities: The research report is issued by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) 
-registered Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited (“BSE”) and the National Stock 
-Exchange of India Limited (“NSE”) (collectively referred to as “Indian Exchanges”). HSIPL was acquired and became part of the Haitong International Securities Group of Companies (“HTISG”) on 22 
-December 2016.  
-All the research reports are globally branded under the name Haitong International and approved for distribution by Haitong International Securities Company Limited (“HTISCL”) and/or any other 
-members within HTISG in their respective jurisdictions. 
-The information and opinions contained in this research report have been compiled or arrived at from sources believed to be reliable and in good faith but no representation or warranty, express or 
-implied, is made by HTIRL, HTISCL, HSIPL, HTIJKK or any other members within HTISG from which this research report may be received, as to their accuracy, completeness or correctness. All opinions 
-expressed herein are as of the date of this research report and are subject to change without notice. This research report is for information purpose only. Descriptions of any companies or their 
-securities mentioned herein are not intended to be complete and this research report is not, and should not be construed expressly or impliedly as, an offer to buy or sell securities. The securities 
-referred to in this research report may not be eligible for purchase or sale in some jurisdictions. If an investment product is denominated in a currency other than an investor's home currency, a 
-change in exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results. Certain transactions, including those involving derivatives, give rise to 
-substantial risk and are not suitable for all investors. You should also bear in mind that recommendations in this research report are not tailor-made for you. The analyst has not taken into account 
-your unique financial circumstances, such as your financial situation and risk appetite. You must, therefore, analyze and should, where applicable, consult your own legal, tax, accounting, financial 
-and other professional advisers to evaluate whether the recommendations suits you before investment. Neither HTISG nor any of its directors, employees or agents accepts any liability whatsoever 
-for any direct or consequential loss arising from any use of the materials contained in this research report.  
-HTISG and our affiliates, officers, directors, and employees, excluding the analysts responsible for the content of this document, will from time to time have long or short positions in, act as principal 
-in, and buy or sell, the securities or derivatives, if any, referred to in this research report. Sales, traders, and other professionals of HTISG may provide oral or written market commentary or trading 
-strategies to the relevant clients and the companies within HTISG that reflect opinions that are contrary to the opinions expressed in this research report. HTISG may make investment decisions that 
-are inconsistent with the recommendations or views expressed in this research report. HTI is under no obligation to ensure that such other trading decisions, ideas or recommendations are brought 
-to the attention of any recipient of this research report. 
-Please refer to HTI’s website www.equities.htisec.com for further information on HTI’s organizational and administrative arrangements set up for the prevention and avoidance of conflicts of interest 
-with respect to Research. 
-Non U.S. Analyst Disclosure:  The HTI analyst(s) listed on the cover of this Research is (are) not registered or qualified as a  research analyst with FINRA and are not subject to U.S. FINRA Rule 2241 
-restrictions on communications with companies that are the subject of the Research; public appearances; and trading securities by a research analyst. 
-分发和地区通知： 
-除非下文另有规定，否则任何希望讨论本报告或者就本项研究中讨论的任何证券进行任何交易的收件人均应联系其所在国家或地区的海通国际销售人员。   
-香港投资者的通知事项：海通国际证券股份有限公司(“HTISCL”)负责分发该研究报告，HTISCL 是在香港有权实施第1 类受规管活动（从事证券交易）的持牌公司。该研究报告并不构成
-《证券及期货条例》（香港法例第571 章）（以下简称“SFO”）所界定的要约邀请，证券要约或公众要约。本研究报告仅提供给SFO 所界定的“专业投资者”。本研究报告未经过证券及
-期货事务监察委员会的审查。您不应仅根据本研究报告中所载的信息做出投资决定。本研究报告的收件人就研究报告中产生或与之相关的任何事宜请联系HTISCL 销售人员。 
-美国投资者的通知事项：本研究报告由HTIRL，HSIPL 或HTIJKK 编写。 HTIRL，HSIPL，HTIJKK 以及任何非HTISG 美国联营公司，均未在美国注册，因此不受美国关于研究报告编制和研
-究分析人员独立性规定的约束。本研究报告提供给依照1934 年“美国证券交易法”第15a-6 条规定的豁免注册的「美国主要机构投资者」（“Major U.S. Institutional Investor”）和「机构投
-资者」（”U.S. Institutional Investors”）。在向美国机构投资者分发研究报告时，Haitong International Securities (USA) Inc. （“HTI USA”） 将对报告的内容负责。任何收到本研究报告的美国
-投资者，希望根据本研究报告提供的信息进行任何证券或相关金融工具买卖的交易，只能通过HTI USA。HTI USA 位于340 Madison Avenue, 12th Floor, New York, NY 10173，电话（212）
- 
- 
- 
- 
-24 
-351-6050。 HTI USA 是在美国于U.S. Securities and Exchange Commission（“SEC”）注册的经纪商，也是Financial Industry Regulatory Authority, Inc.（“FINRA”）的成员。 HTIUSA 不负责编写
-本研究报告，也不负责其中包含的分析。在任何情况下，收到本研究报告的任何美国投资者，不得直接与分析师直接联系，也不得通过HSIPL，HTIRL 或HTIJKK 直接进行买卖证券或相
-关金融工具的交易。本研究报告中出现的HSIPL，HTIRL 或HTIJKK 分析师没有注册或具备FINRA 的研究分析师资格，因此可能不受FINRA 第2241 条规定的与目标公司的交流，公开露面
-和分析师账户持有的交易证券等限制。投资本研究报告中讨论的任何非美国证券或相关金融工具（包括ADR）可能存在一定风险。非美国发行的证券可能没有注册，或不受美国法规的
+HTISG 的销售员、交易员和其他专业人士均可向 HTISG 的相关客户和公司提供与本文件所述意见相反的口头或书面市场评论意见或交易策略。HTISG 可做出与本文件所述建议或意见不
+一致的投资决策。但 HTIRL 没有义务来确保本文件的收件人了解到该等交易决定、思路或建议。
+证券交易的第2241条规则之限制。
+IMPORTANT DISCLAIMER
+For research reports on non-Indian securities: The research report is issued by Haitong International Research Limited ("HTIRL"), a wholly owned subsidiary of Haitong International Securities Group
+Limited ("HTISGL") and a licensed corporation to carry on Type 4 regulated activity (advising on securities) for the purpose of the Securities and Futures Ordinance (Cap. 571) of Hong Kong, with the
+assistance of Haitong International (Japan) K.K. ("HTIJKK"), a wholly owned subsidiary of HTISGL and which is regulated as an Investment Adviser by the Kanto Finance Bureau of Japan.
+For research reports on Indian securities: The research report is issued by Haitong Securities India Private Limited ("HSIPL"), an Indian company and a Securities and Exchange Board of India ("SEBI")
+registered Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited ("BSE") and the National Stock
+December 2016.
+All the research reports are globally branded under the name Haitong International and approved for distribution by Haitong International Securities Company Limited ("HTISCL") and/or any other
+members within HTISG in their respective jurisdictions.
+The information and opinions contained in this research report have been compiled or arrived at from sources believed to be reliable and in good faith but no representation or warranty, express or
+implied, is made by HTIRL, HTISCL, HSIPL, HTIJKK or any other members within HTISG from which this research report may be received, as to their accuracy, completeness or correctness. All opinions
+expressed herein are as of the date of this research report and are subject to change without notice. This research report is for information purpose only. Descriptions of any companies or their
+securities mentioned herein are not intended to be complete and this research report is not, and should not be construed expressly or impliedly as, an offer to buy or sell securities. The securities
+referred to in this research report may not be eligible for purchase or sale in some jurisdictions. If an investment product is denominated in a currency other than an investor's home currency, a
+change in exchange rates may adversely affect the investment. Past performance is not necessarily indicative of future results. Certain transactions, including those involving derivatives, give rise to
+substantial risk and are not suitable for all investors. You should also bear in mind that recommendations in this research report are not tailor-made for you. The analyst has not taken into account
+your unique financial circumstances, such as your financial situation and risk appetite. You must, therefore, analyze and should, where applicable, consult your own legal, tax, accounting, financial
+and other professional advisers to evaluate whether the recommendations suits you before investment. Neither HTISG nor any of its directors, employees or agents accepts any liability whatsoever
+for any direct or consequential loss arising from any use of the materials contained in this research report.
+HTISG and our affiliates, officers, directors, and employees, excluding the analysts responsible for the content of this document, will from time to time have long or short positions in, act as principal
+in, and buy or sell, the securities or derivatives, if any, referred to in this research report. Sales, traders, and other professionals of HTISG may provide oral or written market commentary or trading
+strategies to the relevant clients and the companies within HTISG that reflect opinions that are contrary to the opinions expressed in this research report. HTISG may make investment decisions that
+are inconsistent with the recommendations or views expressed in this research report. HTI is under no obligation to ensure that such other trading decisions, ideas or recommendations are brought
+to the attention of any recipient of this research report.
+with respect to Research.
+restrictions on communications with companies that are the subject of the Research; public appearances; and trading securities by a research analyst.
+分发和地区通知:
+除非下文另有规定，否则任何希望讨论本报告或者就本项研究中讨论的任何证券进行任何交易的收件人均应联系其所在国家或地区的海通国际销售人员。
+香港投资者的通知事项：海通国际证券股份有限公司(“HTISCL”)负责分发该研究报告，HTISCL 是在香港有权实施第 1 类受规管活动（从事证券交易）的持牌公司。该研究报告并不构成
+《证券及期货条例》（香港法例第 571 章）（以下简称“SFO”）所界定的要约邀请，证券要约或公众要约。本研究报告仅提供给 SFO 所界定的“专业投资者”。本研究报告未经过证券及
+期货事务监察委员会的审查。您不应仅根据本研究报告中所载的信息做出投资决定。本研究报告的收件人就研究报告中产生或与之相关的任何事宜请联系 HTISCL 销售人员。
+美国投资者的通知事项：本研究报告由 HTIRL，HSIPL 或 HTIJKK 绱写。 HTIRL，HSIPL，HTIJKK 以及任何非 HTISG 美国联营公司，均未在美国注册，因此不受美国关于研究报告编制和研
+究分析人员独立性规定的约束。本研究报告提供给依照 1934 年“美国证券交易法”第 15a-6 条规定的豁免注册的「美国主要机构投资者」（“Major U.S. Institutional Investor”）和「机构投
+资者」（"U.S. Institutional Investors"）。在向美国机构投资者分发研究报告时，Haitong International Securities (USA) Inc. （“HTI USA”）将对报告的内容负责。任何收到本研究报告的美国
+351-6050。 HTI USA 是在美国于 U.S. Securities and Exchange Commission（“SEC”）注册的经纪商，也是 Financial Industry Regulatory Authority, Inc.（“FINRA”）的成员。 HTIUSA 不负责编写
 约束。有关非美国证券或相关金融工具的信息可能有限制。外国公司可能不受审计和汇报的标准以及与美国境内生效相符的监管要求。本研究报告中以美元以外的其他货币计价的任何
-证券或相关金融工具的投资或收益的价值受汇率波动的影响，可能对该等证券或相关金融工具的价值或收入产生正面或负面影响。美国收件人的所有问询请联系： 
- 
-Haitong International Securities (USA) Inc. 
-340 Madison Avenue, 12th Floor 
-New York, NY 10173 
-联系人电话：(212) 351 6050 
-DISTRIBUTION AND REGIONAL NOTICES 
-Except as otherwise indicated below, any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTI’s research should contact the Haitong International 
-salesperson in their own country or region.   
-Notice to Hong Kong investors: The research report is distributed by Haitong International Securities Company Limited (“HTISCL”), which is a licensed corporation to carry on Type 1 regulated activity 
-(dealing in securities) in Hong Kong. This research report does not constitute a solicitation or an offer of securities or an invitation to the public within the meaning of the SFO. This research report 
-is only to be circulated to "Professional Investors" as defined in the SFO. This research report has not been reviewed by the Securities and Futures Commission. You should not make investment 
-decisions solely on the basis of the information contained in this research report. Recipients of this research report are to contact HTISCL salespersons in respect of any matters arising from, or in 
-connection with, the research report. 
-Notice to U.S. investors: As described above, this research report was prepared by HTIRL, HSIPL or HTIJKK. Neither HTIRL, HSIPL, HTIJKK, nor any of the non U.S. HTISG affiliates is registered in the 
-United States and, therefore, is not subject to U.S. rules regarding the preparation of research reports and the independence of research analysts.  This research report is provided for distribution to 
-“major U.S. institutional investors” and “U.S. institutional investors” in reliance on the exemption from registration provided by Rule 15a-6 of the U.S. Securities Exchange Act of 1934, as amended. 
-When distributing research reports to “U.S. institutional investors,” HTI USA will accept the responsibilities for the content of the reports.  Any U.S. recipient of this research report wishing to effect 
-any transaction to buy or sell securities or related financial instruments based on the information provided in this research report should do so only through Haitong International Securities (USA) 
-Inc. (“HTI USA”), located at 340 Madison Avenue, 12th Floor, New York, NY 10173, USA; telephone (212) 351 6050.  HTI USA is a broker-dealer registered in the U.S. with the U.S. Securities and 
-Exchange Commission (the “SEC”) and a member of the Financial Industry Regulatory Authority, Inc. (“FINRA”).  HTI USA is not responsible for the preparation of this research report nor for the 
-analysis contained therein.  Under no circumstances should any U.S. recipient of this research report contact the analyst directly or effect any transaction to buy or sell securities or related financial 
-instruments directly through HSIPL, HTIRL or HTIJKK.  The HSIPL, HTIRL or HTIJKK analyst(s) whose name appears in this research report is not registered or qualified as a research analyst with FINRA 
-and, therefore, may not be subject to FINRA Rule 2241 restrictions on communications with a subject company, public appearances and trading securities held by a research analyst account.  Investing 
-in any non-U.S. securities or related financial instruments (including ADRs) discussed in this research report may present certain risks.  The securities of non-U.S. issuers may not be registered with, 
-or be subject to U.S. regulations.  Information on such non-U.S. securities or related financial instruments may be limited. Foreign companies may not be subject to audit and reporting standards 
-and regulatory requirements comparable to those in effect within the U.S.  The value of any investment or income from any securities or related financial instruments discussed in this research 
-report denominated in a currency other than U.S. dollars is subject to exchange rate fluctuations that may have a positive or adverse effect on the value of or income from such securities or related 
-financial instruments. All inquiries by U.S. recipients should be directed to: 
-Haitong International Securities (USA) Inc. 
-340 Madison Avenue, 12th Floor 
-New York, NY 10173 
-Attn:  Sales Desk at (212) 351 6050 
-中华人民共和国的通知事项：在中华人民共和国（下称“中国”，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用的中国法律法规而收到该材料的人
+证券或相关金融工具的投资或收益的价值受汇率波动的影响，可能对该等证券或相关金融工具的价值或收入产生正面或负面影响。美国收件人的所有问询请联系：
+Haitong International Securities (USA) Inc.
+340 Madison Avenue, 12th Floor
+DISTRIBUTION AND REGIONAL NOTICES
+Except as otherwise indicated below, any Recipient wishing to discuss this research report or effect any transaction in any security discussed in HTI's research should contact the Haitong International
+salesperson in their own country or region.
+Notice to Hong Kong investors: The research report is distributed by Haitong International Securities Company Limited ("HTISCL"), which is a licensed corporation to carry on Type 1 regulated activity
+(dealing in securities) in Hong Kong. This research report does not constitute a solicitation or an offer of securities or an invitation to the public within the meaning of the SFO. This research report
+is only to be circulated to "Professional Investors" as defined in the SFO. This research report has not been reviewed by the Securities and Futures Commission. You should not make investment
+decisions solely on the basis of the information contained in this research report. Recipients of this research report are to contact HTISCL salespersons in respect of any matters arising from, or in
+connection with, the research report.
+Notice to U.S. investors: As described above, this research report was prepared by HTIRL, HSIPL or HTIJKK. Neither HTIRL, HSIPL, HTIJKK, nor any of the non U.S. HTISG affiliates is registered in the
+United States and, therefore, is not subject to U.S. rules regarding the preparation of research reports and the independence of research analysts. This research report is provided for distribution to
+"major U.S. institutional investors" and "U.S. institutional investors" in reliance on the exemption from registration provided by Rule 15a-6 of the U.S. Securities Exchange Act of 1934, as amended.
+When distributing research reports to "U.S. institutional investors," HTI USA will accept the responsibilities for the content of the reports. Any U.S. recipient of this research report wishing to effect
+any transaction to buy or sell securities or related financial instruments based on the information provided in this research report should do so only through Haitong International Securities (USA)
+Inc. ("HTI USA"), located at 340 Madison Avenue, 12th Floor, New York, NY 10173, USA; telephone (212) 351 6050. HTI USA is a broker-dealer registered in the U.S. with the U.S. Securities and
+Exchange Commission (the "SEC") and a member of the Financial Industry Regulatory Authority, Inc. ("FINRA"). HTI USA is not responsible for the preparation of this research report nor for the
+analysis contained therein. Under no circumstances should any U.S. recipient of this research report contact the analyst directly or effect any transaction to buy or sell securities or related financial
+instruments directly through HSIPL, HTIRL or HTIJKK. The HSIPL, HTIRL or HTIJKK analyst(s) whose name appears in this research report is not registered or qualified as a research analyst with FINRA
+and, therefore, may not be subject to FINRA Rule 2241 restrictions on communications with a subject company, public appearances and trading securities held by a research analyst account. Investing
+in any non-U.S. securities or related financial instruments (including ADRs) discussed in this research report may present certain risks. The securities of non-U.S. issuers may not be registered with,
+or be subject to U.S. regulations. Information on such non-U.S. securities or related financial instruments may be limited. Foreign companies may not be subject to audit and reporting standards
+and regulatory requirements comparable to those in effect within the U.S. The value of any investment or income from any securities or related financial instruments discussed in this research
+report denominated in a currency other than U.S. dollars is subject to exchange rate fluctuations that may have a positive or adverse effect on the value of or income from such securities or related
+financial instruments. All inquiries by U.S. recipients should be directed to:
+Haitong International Securities (USA) Inc.
+340 Madison Avenue, 12th Floor
+中华人民共和国的通知事项:在中华人民共和国（下称“中国”，就本报告目的而言，不包括香港特别行政区、澳门特别行政区和台湾）只有根据适用的中国法律法规而收到该材料的人
 员方可使用该材料。并且根据相关法律法规，该材料中的信息并不构成“在中国从事生产、经营活动”。本文件在中国并不构成相关证券的公共发售或认购。无论根据法律规定或其他任
-何规定，在取得中国政府所有的批准或许可之前，任何法人或自然人均不得直接或间接地购买本材料中的任何证券或任何实益权益。接收本文件的人员须遵守上述限制性规定。 
-加拿大投资者的通知事项：在任何情况下该等材料均不得被解释为在任何加拿大的司法管辖区内出售证券的要约或认购证券的要约邀请。本材料中所述证券在加拿大的任何要约或出
-售行为均只能在豁免向有关加拿大证券监管机构提交招股说明书的前提下由Haitong International Securities (USA) Inc. （“HTI USA”）予以实施，该公司是一家根据National Instrument 31-
-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations（“NI 31-103”）的规定得到「国际交易商豁免」（“International Dealer Exemption” ）的交易商，位于艾伯塔
+何规定，在取得中国政府所有的批准或许可之前，任何法人或自然人均不得直接或间接地购买本材料中的任何证券或任何实益权益。接收本文件的人员须遵守上述限制性规定。
+加拿大投资者的通知事项: 在任何情况下该等材料均不得被解释为在任何加拿大的司法管辖区内出售证券的要约或认购证券的要约邀请。本材料中所述证券在加拿大的任何要约或出
+售行为均只能在豁免向有关加拿大证券监管机构提交招股说明书的前提下由 Haitong International Securities (USA) Inc.（“HTI USA”）予以实施，该公司是一家根据 National Instrument 31-
+103 Registration Requirements, Exemptions and Ongoing Registrant Obligations（“NI 31-103”）的规定得到 「国际交易商豁免」（“International Dealer Exemption”）的交易商，位于艾伯塔
 省、不列颠哥伦比亚省、安大略省和魁北克省。在加拿大，该等材料在任何情况下均不得被解释为任何证券的招股说明书、发行备忘录、广告或公开发行。加拿大的任何证券委员会或
 类似的监管机构均未审查或以任何方式批准该等材料、其中所载的信息或所述证券的优点，任何与此相反的声明即属违法。在收到该等材料时，每个加拿大的收件人均将被视为属于
-National Instrument 45-106 Prospectus Exemptions 第1.1 节或者Securities Act (Ontario)第73.3(1)节所规定的「认可投资者」（“Accredited Investor”），或者在适用情况下National 
-Instrument 31-103 第1.1 节所规定的「许可投资者」（“Permitted Investor”）。 
-新加坡投资者的通知事项：本研究报告由Haitong International Securities (Singapore) Pte Ltd（“HTISSPL”）[公司注册编号201311400G] 于新加坡提供。HTISSPL 是符合《财务顾问法》（第
+National Instrument 45-106 Prospectus Exemptions 第 1.1 节或者 Securities Act (Ontario)第 73.3(1)节所规定的「认可投资者」（“Accredited Investor”），或者在适用情况下 National
+Instrument 31-103 第 1.1 节所规定的「许可投资者」("Permitted Investor")。
+新加坡投資者的通知事項：本研究报告由 Haitong International Securities (Singapore) Pte Ltd（“HTISSP!”）[公司注册编号 2013114006] 于新加坡提供。HTISSPL 是符合《财务顾问法》（第
 110 章）（“FAA”）定义的豁免财务顾问，可（a）提供关于证券，集体投资计划的部分，交易所衍生品合约和场外衍生品合约的建议（b）发行或公布有关证券、交易所衍生品合约和
-场外衍生品合约的研究分析或研究报告。本研究报告仅提供给符合《证券及期货法》（第289 章）第4A 条项下规定的机构投资者。对于因本研究报告而产生的或与之相关的任何问
-题，本研究报告的收件人应通过以下信息与HTISSPL 联系： 
-Haitong International Securities (Singapore) Pte. Ltd 
-50 Raffles Place, #33-03 Singapore Land Tower, Singapore 048623 
- 
- 
- 
- 
-25 
-电话: (65) 6536 1920 
-日本投资者的通知事项：本研究报告由海通国际证券有限公司所发布，旨在分发给从事投资管理的金融服务提供商或注册金融机构（根据日本金融机构和交易法（“FIEL”））第61
-（1）条，第17-11（1）条的执行及相关条款）。 
-英国及欧盟投资者的通知事项：本报告由从事投资顾问的Haitong International Securities Company Limited 所发布，本报告只面向有投资相关经验的专业客户发布。任何投资或与本报告
-相关的投资行为只面对此类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。Haitong International Securities Company Limited 的分支机构的净长期或短期金融权益可能
-超过本研究报告中提及的实体已发行股本总额的0.5％。特别提醒有些英文报告有可能此前已经通过中文或其它语言完成发布。 
-澳大利亚投资者的通知事项：Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited 和Haitong International Securities (UK) Limited 分别根据澳
-大利亚证券和投资委员会（以下简称“ASIC”）公司（废除及过度性）文书第2016/396 号规章在澳大利亚分发本项研究，该等规章免除了根据2001 年《公司法》在澳大利亚为批发客户
-提供金融服务时海通国际需持有澳大利亚金融服务许可的要求。ASIC 的规章副本可在以下网站获取：www.legislation.gov.au。海通国际提供的金融服务受外国法律法规规定的管制，该
-等法律与在澳大利亚所适用的法律存在差异。 
-印度投资者的通知事项：本报告由从事证券交易、投资银行及证券分析及受Securities and Exchange Board of India（“SEBI”）监管的Haitong Securities India Private Limited（“HTSIPL”）所
-发布，包括制作及发布涵盖BSE Limited（“BSE”）和National Stock Exchange of India Limited（“NSE”）（统称为「印度交易所」）研究报告。 
-本项研究仅供收件人使用，未经海通国际的书面同意不得予以复制和再次分发。 
-版权所有：海通国际证券集团有限公司2019 年。保留所有权利。 
-People’s Republic of China (PRC): In the PRC, the research report is directed for the sole use of those who receive the research report in accordance with the applicable PRC laws and regulations. 
-Further, the information on the research report does not constitute "production and business activities in the PRC" under relevant PRC laws. This research report does not constitute a public offer 
-of the security, whether by sale or subscription, in the PRC. Further, no legal or natural persons of the PRC may directly or indirectly purchase any of the security or any beneficial interest therein 
-without obtaining all prior PRC government approvals or licenses that are required, whether statutorily or otherwise. Persons who come into possession of this research are required to observe 
-these restrictions. 
-Notice to Canadian Investors: Under no circumstances is this research report to be construed as an offer to sell securities or as a solicitation of an offer to buy securities in any jurisdiction of Canada. 
-Any offer or sale of the securities described herein in Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and 
-only by Haitong International Securities (USA) Inc., a dealer relying on the “international dealer exemption” under National Instrument 31-103 Registration Requirements, Exemptions and Ongoing 
-Registrant Obligations (“NI 31-103”) in Alberta, British Columbia, Ontario and Quebec. This research report is not, and under no circumstances should be construed as, a prospectus, an offering 
-memorandum, an advertisement or a public offering of any securities in Canada. No securities commission or similar regulatory authority in Canada has reviewed or in any way passed upon this 
-research report, the information contained herein or the merits of the securities described herein and any representation to the contrary is an offence. Upon receipt of this research report, each 
-Canadian recipient will be deemed to have represented that the investor is an “accredited investor” as such term is defined in section 1.1 of National Instrument 45-106 Prospectus Exemptions or, 
-in Ontario, in section 73.3(1) of the Securities Act (Ontario), as applicable, and a “permitted client” as such term is defined in section 1.1 of NI 31-103, respectively. 
-Notice to Singapore investors: This research report is provided in Singapore by or through Haitong International Securities (Singapore) Pte Ltd (“HTISSPL”) [Co Reg No 201311400G. HTISSPL is an 
-Exempt Financial Adviser under the Financial Advisers Act (Cap. 110) (“FAA”) to (a) advise on securities, units in a collective investment scheme, exchange-traded derivatives contracts and over-the-
-counter derivatives contracts and (b) issue or promulgate research analyses or research reports on securities, exchange-traded derivatives contracts and over-the-counter derivatives contracts. This 
-research report is only provided to institutional investors, within the meaning of Section 4A of the Securities and Futures Act (Cap. 289). Recipients of this research report are to contact HTISSPL via 
-the details below in respect of any matters arising from, or in connection with, the research report: 
-Haitong International Securities (Singapore) Pte. Ltd. 
-10 Collyer Quay, #19-01 - #19-05 Ocean Financial Centre, Singapore 049315 
-Telephone: (65) 6536 1920 
-Notice to Japanese investors: This research report is distributed by Haitong International Securities Company Limited and intended to be distributed to Financial Services Providers or Registered 
-Financial Institutions engaged in investment management (as defined in the Japan Financial Instruments and Exchange Act ("FIEL") Art. 61(1), Order for Enforcement of FIEL Art. 17-11(1), and related 
-articles). 
-Notice to UK and European Union investors: This research report is distributed by Haitong International Securities Company Limited. This research is directed at persons having professional 
-experience in matters relating to investments. Any investment or investment activity to which this research relates is available only to such persons or will be engaged in only with such persons. 
-Persons who do not have professional experience in matters relating to investments should not rely on this research.  Haitong International Securities Company Limited’s affiliates may have a net 
-long or short financial interest in excess of 0.5% of the total issued share capital of the entities mentioned in this research report.  Please be aware that any report in English may have been published 
-previously in Chinese or another language. 
-Notice to Australian investors: The research report is distributed in Australia by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong 
-International Securities (UK) Limited in reliance on ASIC Corporations (Repeal and Transitional) Instrument 2016/396, which exempts those HTISG entities from the requirement to hold an Australian 
-financial services license under the Corporations Act 2001 in respect of the financial services it provides to wholesale clients in Australia.  A copy of the ASIC Class Orders may be obtained at the 
-following website, www.legislation.gov.au.  Financial services provided by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong 
-International Securities (UK) Limited are regulated under foreign laws and regulatory requirements, which are different from the laws applying in Australia. 
-Notice to Indian investors: The research report is distributed by Haitong Securities India Private Limited (“HSIPL”), an Indian company and a Securities and Exchange Board of India (“SEBI”) registered 
-Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited (“BSE”) and the National Stock Exchange of 
-India Limited (“NSE”) (collectively referred to as “Indian Exchanges”).   
- 
- 
- 
- 
-26 
-This research report is intended for the recipients only and may not be reproduced or redistributed without the written consent of an authorized signatory of HTISG. 
-Copyright: Haitong International Securities Group Limited 2019. All rights reserved. 
-http://equities.htisec.com/x/legal.html 
- 
- 
-Recommendation Chart 
-Source: Company data Bloomberg, HTI estimates 
- 
+场外衍生品合约的研究分析或研究报告。本研究报告仅提供给符合《证券及期货法》（第 289 章）第 4A 条项下规定的机构投资者。对于因本研究报告而产生的或与之相关的任何问
+题,本研究报告的收件人应通过以下信息与 HTISSPL 联系:
+Haitong International Securities (Singapore) Pte. Ltd
+(1) 条, 第 17-11 (1) 条的执行及相关条款)。
+英国及欧盟投资者的通知事项：本报告由从事投资顾问的 Haitong International Securities Company Limited 所发布，本报告只面向有投资相关经验的专业客户发布。任何投资或与本报告
+相关的投资行为只面对比类专业客户。没有投资经验或相关投资经验的客户不得依赖本报告。Haitong International Securities Company Limited 的分支机构的净长期或短期金融权益可能
+超过本研究报告中提及的实体已发行股本总额的 0.5%。特别提醒有些英文报告有可能此前已经通过中文或其它语言完成发布。
+澳大利亚投资者的通知事项：Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited 和 Haitong International Securities (UK) Limited 分别根据澳
+大利亚证券和投资委员会（以下简称“ASIC”）公司（废除及过度性）文书第 2016/396 号规章在澳大利亚分发本项研究，该等规章免除了根据 2001 年《公司法》在澳大利亚为批发客户
+等法律与在澳大利亚所适用的法律存在差异。
+印度投资者的通知事项：本报告由从事证券交易、投资银行及证券分析及受 Securities and Exchange Board of India（“SEBI”）监管的 Haitong Securities India Private Limited（“HTSIPL”）所
+发布，包括制作及发布涵盖 BSE Limited（“BSE”）和 National Stock Exchange of India Limited（“NSE”）（统称为 「印度交易所」 ）研究报告。
+本项研究仅供收件人使用，未经海通国际的书面同意不得予以复制和再次分发。
+版权所有:海通国际证券集团有限公司 2019 年。保留所有权利。
+People's Republic of China (PRC): In the PRC, the research report is directed for the sole use of those who receive the research report in accordance with the applicable PRC laws and regulations.
+Further, the information on the research report does not constitute "production and business activities in the PRC" under relevant PRC laws. This research report does not constitute a public offer
+of the security, whether by sale or subscription, in the PRC. Further, no legal or natural persons of the PRC may directly or indirectly purchase any of the security or any beneficial interest therein
+without obtaining all prior PRC government approvals or licenses that are required, whether statutorily or otherwise. Persons who come into possession of this research are required to observe
+these restrictions.
+Notice to Canadian Investors: Under no circumstances is this research report to be construed as an offer to sell securities or as a solicitation of an offer to buy securities in any jurisdiction of Canada.
+Any offer or sale of the securities described herein in Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and
+only by Haitong International Securities (USA) Inc., a dealer relying on the "international dealer exemption" under National Instrument 31-103 Registration Requirements, Exemptions and Ongoing
+Registrant Obligations ("NI 31-103") in Alberta, British Columbia, Ontario and Quebec. This research report is not, and under no circumstances should be construed as, a prospectus, an offering
+memorandum, an advertisement or a public offering of any securities in Canada. No securities commission or similar regulatory authority in Canada has reviewed or in any way passed upon this
+research report, the information contained herein or the merits of the securities described herein and any representation to the contrary is an offence. Upon receipt of this research report, each
+Canadian recipient will be deemed to have represented that the investor is an "accredited investor" as such term is defined in section 1.1 of National Instrument 45-106 Prospectus Exemptions or,
+in Ontario, in section 73.3(1) of the Securities Act (Ontario), as applicable, and a "permitted client" as such term is defined in section 1.1 of NI 31-103, respectively.
+Notice to Singapore investors: This research report is provided in Singapore by or through Haitong International Securities (Singapore) Pte Ltd ("HTISSPL") [Co Reg No 201311400G. HTISSPL is an
+Exempt Financial Adviser under the Financial Advisers Act (Cap. 110) ("FAA") to (a) advise on securities, units in a collective investment scheme, exchange-traded derivatives contracts and over-the-
+counter derivatives contracts and (b) issue or promulgate research analyses or research reports on securities, exchange-traded derivatives contracts and over-the-counter derivatives contracts. This
+research report is only provided to institutional investors, within the meaning of Section 4A of the Securities and Futures Act (Cap. 289). Recipients of this research report are to contact HTISSPL via
+the details below in respect of any matters arising from, or in connection with, the research report:
+Haitong International Securities (Singapore) Pte. Ltd.
+Notice to Japanese investors: This research report is distributed by Haitong International Securities Company Limited and intended to be distributed to Financial Services Providers or Registered
+Financial Institutions engaged in investment management (as defined in the Japan Financial Instruments and Exchange Act ("FIEL") Art. 61(1), Order for Enforcement of FIEL Art. 17-11(1), and related
+articles).
+Notice to UK and European Union investors: This research report is distributed by Haitong International Securities Company Limited. This research is directed at persons having professional
+experience in matters relating to investments. Any investment or investment activity to which this research relates is available only to such persons or will be engaged in only with such persons.
+Persons who do not have professional experience in matters relating to investments should not rely on this research. Haitong International Securities Company Limited's affiliates may have a net
+long or short financial interest in excess of 0.5% of the total issued share capital of the entities mentioned in this research report. Please be aware that any report in English may have been published
+previously in Chinese or another language.
+Notice to Australian investors: The research report is distributed in Australia by Haitong International Securities (Singapore) Pte Ltd, Haitong International Securities Company Limited, and Haitong
+International Securities (UK) Limited in reliance on ASIC Corporations (Repeal and Transitional) Instrument 2016/396, which exempts those HTISG entities from the requirement to hold an Australian
+financial services license under the Corporations Act 2001 in respect of the financial services it provides to wholesale clients in Australia. A copy of the ASIC Class Orders may be obtained at the
+International Securities (UK) Limited are regulated under foreign laws and regulatory requirements, which are different from the laws applying in Australia.
+Notice to Indian investors: The research report is distributed by Haitong Securities India Private Limited ("HSIPL"), an Indian company and a Securities and Exchange Board of India ("SEBI") registered
+Stock Broker, Merchant Banker and Research Analyst that, inter alia, produces and distributes research reports covering listed entities on the BSE Limited ("BSE") and the National Stock Exchange of
+India Limited ("NSE") (collectively referred to as "Indian Exchanges").
+This research report is intended for the recipients only and may not be reproduced or redistributed without the written consent of an authorized signatory of HTISG.
+Copyright: Haitong International Securities Group Limited 2019. All rights reserved.
+Recommendation Chart
+Wuliangye Yibin - 000858 CH
+Source: Company data Bloomberg, HTI estimates

@@ -1,79 +1,106 @@
-业绩超预期，C 端业务弹性凸显
-归母净利润（百万元）
- 公司披露2020 年业绩预告：预计2020 年归属于上市公司股东的净利润
-16158157-17953508 万元，同比增长80%-100%；扣除非经常性损益
-后的净利润15045919-16717688 万元，同比增长80%-100%，非经常
-性损益为 5500-6500 万元，主要为政府补助、投资收益等。
- 预计基金销售及其他交易手续费业务在下半年增长进一步提速，低基数
-下市占率料进一步提升。根据wind 统计，2020 年全年新成立基金1395
-只，同比增长34%，共发行份额3119964 亿份，同比大幅增长110%。
-分季度来看，Q1Q2Q3Q4 新发份额同比增速分别为118%125%
-240%21%，虽然Q4 新发行份额增速有所下降，但是结构上股票型及混
-合型基金的新发份额全年均保持超高增速，四个季度增速分别为325%
-245% 368% 202%。公司2019 年基金销售及其他交易手续费实现收入
-2351670 万元，同比增长13373%，低基数及高行业景气度下，我们预
-计公司市占率在2020 年有进一步提升。
- 增值电信业务及广告互联网推广业务均受益于2020 年市场的成交额高
-增长，后续关注iFinD 业务进展。根据wind 统计，2020Q1 Q2 Q3Q4A
-股市场成交额同比增速分别为47%10%129%76%，全年成交额同比增
-长62%。公司通过加大 AI 技术应用研发、产品创新，进一步提升相关
-产品及服务品质，使得用户粘性、产品付费意愿进一步提升，同时由于
-部分券商合作业务集中在Q4 结算，导致Q4 同比增速相比前三季度进
-一步提升。我们看好iFinD 未来的成长潜力，公司的iFinD 产品已从仅
-提供数据阶段，升级演变成提供投研一体智能化解决平台，面向用户提
-供金融大数据、企业库、产业图谱、研报自动化生成、舆情监控、买方
-标签研究体系等一整套智能化解决方案，技术实力和功能处于业内领
- 预计费用率同比下降。公司前三季度销售费用率、管理费用率及研发费
-用率均同比有所下滑，我们判断公司人力、销售等成本增速料将低于收
-入增速，预计净利率提升趋势也在Q4 得到了延续，进一步带来业绩弹
- 盈利预测与投资评级：考虑到Q4 公司业绩的超预期表现，以及行业层
-面基金销售市场的高景气及第三方基金销售平台市占率的持续提升、A
-股市场仍然保持高成交等因素，上调公司盈利预测，预计公司
-202020212022 年归母净利润分别为170924623148 亿元，对应PE
-分别为372620 倍，公司当前估值相比可比公司具有较强吸引力，维持
- 风险提示：行业竞争日趋激烈风险；互联网系统及数据安全风险 监管
-流通A 股(百万股)
-1、同花顺（300033）：金融信
-息服务领域王者，掘金中国权益
-投资黄金时代2021-01-05
-资产负债表（百万元）
-2022E   利润表（百万元）
-11029   营业收入
-10348   减营业成本
-0       营业税金及附加
-0        营业费用
-680         管理费用
-1628        财务费用
-0        资产减值损失
-1408   加投资净收益
-119        其他收益
-6   加营业外净收支
-12656   利润总额
-2627   减所得税
-0        少数股东损益
-0   归属母公司净利润
-2627   EBIT
-3   EBITDA
-2630   重要财务与估值指标
-0   每股收益(元)
-10027   每股净资产(元)
-12656   发行在外股份(百万股)
-现金流量表（百万元）
-2022E   毛利率(%)
--347   资产负债率(%)
--195   收入增长率(%)
-本公司不会因接收人收到本报告而视其为客户。在任何情况下，本报告中的信息
-或所表述的意见并不构成对任何人的投资建议，本公司不对任何人因使用本报告
-司提供投资银行服务或其他服务。
-信息，本公司力求但不保证这些信息的准确性和完整性，也不保证文中观点或陈
-述不会发生任何变更，在不同时期，本公司可发出与本报告所载资料、意见及推
-本报告的版权归本公司所有，未经书面许可，任何机构和个人不得以任何形
-买入：预期未来6 个月个股涨跌幅相对大盘在15%以上；
-增持：预期未来6 个月个股涨跌幅相对大盘介于5%与15%之间；
-中性：预期未来 6 个月个股涨跌幅相对大盘介于-5%与5%之间；
-减持：预期未来 6 个月个股涨跌幅相对大盘介于-15%与-5%之间；
-卖出：预期未来 6 个月个股涨跌幅相对大盘在-15%以下。
-增持： 预期未来6 个月内，行业指数相对强于大盘5%以上；
-中性： 预期未来6 个月内，行业指数相对大盘-5%与5%；
-减持： 预期未来6 个月内，行业指数相对弱于大盘5%以上。
-苏州工业园区星阳街5 号
+a li li Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri Ri
+| 事情を開発 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電
+”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『heipel”『he
+-ï-l-l-
+- RailerPinenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de linenarian de lin
+· Bandalle në në në në në në në në në në në në në
+· Bage all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all
+ille ille
+· "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E" a" "E"
+a," "
+iliel—iliePieriel—ilie
+· Bage all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all Piere all
+。『旧·『上『旧·『上『旧·『上『旧·『上
+· "
+”『a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·』he a·『he a·』he a·『he a·』he a·『he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·
+■ Page 1. III.I n II. II. II. II. II. II. II. II. II.
+『上電子『上電子『上電子『上電子『上電子『上電子『上電子『上電子
+音いでは、では、では、では、では、では、では、では、では、では、
+音響・電子 a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Ti
+■ National Page 1. In a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a like a
+事事。『上電子』『上電子』『上電子』『上電子』
+『『『『『『『『『『『『『『『『『『『
+「『・『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』『ルピー』
+『上電子記録の『正記』『正記』
+· "E
+電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電響・電
+- Tien - "English" a Tien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en lien en
+a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+・『上電子・・・・・・・・・・・・・・・・・・・
+『Earle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Parle Par
+『上電子』『inalianalanalanalanalanalanalanalanalana
+” ——”—————————————————————————————————
+”上零台上“E”一个“E”一个“E”一个“E”一个“E”一个“E”一个“E”一个“E”一个
+a. Pa − Pi− Pi− Pi− Pi− Pi− Pi− Pi− Pi− Pi− P
+音楽であります。『hardinal arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine ari
+in an an an an an an an an an an an an an
+「・・・にルにルにルにルにルにルにルにルに
+『・『・・・・・・・・・・・・・・・・・
+事事。『上電子』『上電子』『上電子』
+『『『記事で記事では『記事で記事である。「記事で記事である。「記事である。「記事である。「記事である。「記事である。「記事である。にしにしにしにしにしにしにしにしにしに
+· Ba The Ri Pi Ba Pi Pi Ba Pi Pi Ba Pi Ba Pi Pi Ba Pi Pi Ba Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi Pi
+a.""
+「記事でに記事でに記事でに記事でに記事でにおにおにおにおにおにおにおにおにおに
+『heipelarine』『inapelarine』『inapelarine』
+『・『・に・に・に・に・に・に・に・に・
+”上零台点。Pina jina jina jina jina jina jina jina j
+- 『・・・・・・・・・・・・・・・・・・・
+”上“皇前”上“是一个”上“是一个”。“自”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”上“是一个”
+n." - "
+■ Bartina Pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina pierie ni li Bartina
+事事。『正報の『上間では『上間では『上間では『上間では『上間で『上間で『上間で『上間で『上間で『上間で『上間で『上間で
+音いでは、『ina la nie nie nie nie nie nie nie nie nie nie
+” = aniePaire1. inie
+『heileateleateleateleateleateleateleatelea
+· 『上電子』『旧で記録
+I. Papera Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine and la Pine a
+- " - " - " " " " " " " " " " " " " " "
+· Rapa a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pi
+” 『『上電子』『inel” 『『inel” 『『inel” 『『inel” 『『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel” 『inel”
+。『上『上『上『上『上『上『上『上『上『上
+『上電子』『中では『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山 『山山
+· "Bage" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a "F" a
+事事。『inelapina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina apina a
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+事事。『上記の記録を記述している。「中では、これでは、これでは、これでは、これでは、これでは、これでは、これでは、これ
+中in in in in in in in in in in in in in i
+事事。『上書中記』『中で記録の記録を記述している。「中で記録の記述といる。」「中で記載している。」「中で記載している。」「中で記載している。」「中で記載している。」「中で記載している。」
+「『『上『上『上『上『上『上『上『上『上
+” "arin arin" arin e in "e "arin" arin e "in "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin" arin e "arin e "arin e "arin" arin e "arin e "arin e "arin e "arin e "arin e "arin e
+三事では、では、では、では、では、では、では、では、では、では、
+述为写作。
+· · · · · · · · · · · · · · · · · · ·
+-ï⊩-----------------------------------
+事事・『上電子『上電子『上電子『上電子
+『『『『『『『『『『『『『『『『『『『
+第二个 电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子
+- "I" a"li"i" lie lie lie lie lie lie lie lie lie lie
+- 『上電子』『上電子』『上電子』
+言い
+・
+では
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子
+『・『・『・『・『・『に『に『に『に『に
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+『上で記録では、では、では、では、では、では、では、では、では、では、
+i.l.
+”上零名。『inea juik
+『『『『『『『『『『『『『『『『『『『
+”『head
+『・『・『上間に『上間にににににににににににににににににに
+i në like
+ē li li a
+” “星” “星” “星” “星” “星” “星” “星” “星” “星” “星

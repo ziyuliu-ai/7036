@@ -1,161 +1,69 @@
-g
-CATL
+Deutsche Bank
+Research
 Rating
+Date
+Company
+CATL
 Buy
-Valuation & Risks
-Resources
-Metals & Mining
-Price at 12 Jun 2018 (CNY)
-39.82
-Price target - 12mth (CNY)
-72.20
-52-week range (CNY)
-39.82 - 36.20
-HANG SENG INDEX
-31,064
 Initiation of Coverage
 Asia
 China
-Company
-CATL
 Reuters
 Bloomberg
 Exchange
 Ticker
+Resources
 300750.SZ
 300750 CH
 SHZ
-300750
-Date
-13 June 2018
-Deutsche Bank
-Research
+Metals & Mining
 The rising Chinese lithium power
-In pole position to power China’s EV’s; initiating with Buy
+Valuation & Risks
+Neil Sun
+In pole position to power China's EV's; initiating with Buy
+Research Analyst
 With 30% market share, demonstrable price leadership, and a clear cost
 advantage, we believe CATL is the best positioned battery maker supplying the
-EV sector in China. It is also ﬁrst to make inroads into supplying global OEM’s.
+EV sector in China. It is also first to make inroads into supplying global OEM's.
+Sharon Ding
 As such, we believe it can achieve volume growth of close to 50% annually to
-2020 with proﬁts rising at a 30% CAGR. Our valuation reﬂects that high growth
+Research Analyst
+2020 with profits rising at a 30% CAGR. Our valuation reflects that high growth
++852-2203-5716
 phase with a target multiple of 36x and 81% upside potential for the stock. We
 initiate with a BUY rating.
+James Kan
+Research Analyst
 The Chinese EV lithium battery market leader
 CATL's sales volume exhibited exponential growth at a 3-year 263% CAGR
 to 2017, thanks to its strong execution and solid manufacturing experience.
+Vincent Ha, CFA
 The company has secured the lead position in the main future growth driver
-(passenger EVs), which we expect will support its capacity from 17.1GWh in 2017
+Research Analyst
 to 54.0GWh in 2020E at a CAGR of 47%. CATL also shows up on the procurement
-roadmaps of key international auto OEMs, which makes it the ﬁrst Chinese EV
+roadmaps of key international auto OEMs, which makes it the first Chinese EV
 battery maker with a meaningful overseas presence.
 Pricing premium and competitive cost position
-Reﬂecting the company's superior product quality, our due diligence shows that
+Reflecting the company's superior product quality, our due diligence shows that
 CATL achieved an 8% battery pack pricing premium over the Chinese industry
 average in 2017. Its scale and progress in manufacturing technology also gave
 the company a 7-10% cost advantage in raw material procurement. Although unit
-gross proﬁt will likely fall from RMB0.58/wh in 2017 to RMB0.36/wh in 2020E in
+gross profit will likely fall from RMB0.58/wh in 2017 to RMB0.36/wh in 2020E in
 order to lower the cost of EV ownership, its strong volume growth should drive
 the bottom line higher in the next 3 years.
 Initiating coverage with Buy; target price set at 36x 2019E P/E; risks
 Our target price of RMB72.2 is based on 36x 2019E EPS and implies 81% upside
-potential. We believe our multiple is justiﬁed by its strong recurring income
+potential. We believe our multiple is justified by its strong recurring income
 growth at a 3-year CAGR of 30% and its leading industry position. Key risks:
 unexpected changes in EV demand and government's subsidy policy.
-Neil Sun
-Research Analyst
-+852-2203 6136
-Sharon Ding
-Research Analyst
-+852-2203-5716
-James Kan
-Research Analyst
-+852-2203 6146
-Vincent Ha, CFA
-Research Analyst
-+852-2203 6247
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be 
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider 
-this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS 
-ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE’S 
-REPUBLIC OF CHINA (“THE PRC”) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF 
+Deutsche Bank does and seeks to do business with companies covered in its res Distributed on: T2/06/2018 17:48:09 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
+this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
+ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE'S
+REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC), EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
-Distributed on: 12/06/2018 17:48:09 GMT
-7T2se3r0Ot6kwoPa
-13 June 2018
-Metals & Mining
-CATL
-Forecasts and ratios
-Year End Dec 31
-2016A
-2017A
-2018E
-2019E
-2020E
-Sales (CNYm)
-14,879.0
-19,996.9
-27,003.1
-35,515.9
-44,803.4
-EBITDA (CNYm)
-4,260.1
-6,244.9
-6,380.3
-8,427.0
-10,752.2
-Reported NPAT (CNYm)
-2,851.8
-3,878.0
-3,477.5
-4,397.1
-5,833.4
-DB EPS FD(CNY)
-4.65
-1.98
-1.60
-2.02
-2.69
-Source: Deutsche Bank estimates, company data
-Page 2
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Table Of Contents
-Investment thesis................................................................4
-Outlook................................................................................................................4
-Valuation............................................................................................................. 4
-Risks....................................................................................................................4
-Valuation..............................................................................5
-Target price of RMB72 based on 36x FY19E PE................................................5
-Earnings sensitivity analysis...............................................................................6
-The Chinese market leader................................................. 7
-Current market share leader.............................................................................. 7
-Market share leader in passenger EVs – future growth driver...........................9
-Deeper client relationship through JV and equity investments..........................9
-From China to the world..................................................................................10
-Priced at a premium......................................................... 11
-Pricing premium of 8% to industry peers in 2017........................................... 11
-Competitive cost position................................................. 14
-Lower battery costs domestically and internationally......................................14
-Procurement cost advantage thanks to industry leading position................... 15
-Higher automation level reﬂected in lower labor cost..................................... 18
-Summary of ﬁnancials......................................................19
-All segments are driven by lithium batteries................................................... 19
-CATL's product pricing trajectory.................................................................... 20
-CATL's cost per unit trajectory........................................................................ 22
-Strong sales volume should oﬀset shrinking unit proﬁtability......................... 23
-Consolidated income statement.......................................................................25
-Consolidated balance sheet............................................................................. 26
-Consolidated cash ﬂow statement...................................................................27
-Appendix........................................................................... 28
-Shareholding structure..................................................................................... 28
-Company history...............................................................................................30
-Deutsche Bank AG/Hong Kong
-Page 3
-13 June 2018
-Metals & Mining
-CATL
 Investment thesis
 Outlook
 CATL is the largest EV lithium battery player in China, with a c. 30% EV lithium
@@ -172,9 +80,9 @@ Through cooperation with more passenger EV makers, CATL should continue to
 gain market share in NCM batteries. Its new manufacturing bases in Jiangsu
 Liyang and Ningde Huxi are well prepared for rising demand.
 We expect the ASP of lithium batteries to drop faster than the company cuts
-costs, implying shrinking unit proﬁtability. ASP may drop at a CAGR of c.11%
+costs, implying shrinking unit profitability. ASP may drop at a CAGR of c.11%
 in the next three years, while we expect COGS to fall at a CAGR of c.9% in the
-same period. However, strong sales volume is likely to largely oﬀset the impact
+same period. However, strong sales volume is likely to largely offset the impact
 as CATL's strong sales volume CAGR of 48% from 2018E to 2020E should help
 recurring income to climb at a CAGR of 30% in the next three years.
 Valuation
@@ -182,19 +90,14 @@ As CATL has just listed on the A-share ChiNext market, we believe the market is
 still on the path of discovering its intrinsic value. Hence, we adopt a P/E multiple of
 36x FY19E EPS, which is linked to PEG of 1.2x. The multiple implies 20% premium
 for the company, compared to the Chinese industry peer average PEG of 1.0x.
-We believe our valuation is justiﬁed by the company's strong recurring income
+We believe our valuation is justified by the company's strong recurring income
 growth at a 3-year CAGR of 30%, its leading industry position, competitive cost
 advantage, and potential upside in the overseas market.
 Risks
-Key downside risks include: signiﬁcant changes in the Chinese government’s new
+Key downside risks include: significant changes in the Chinese government's new
 energy subsidy policy; weaker-than-expected volume growth in the next three
 years; a quicker-than-expected ASP drop or slower-than-expected cost cuts; a
 slower-than-expected ramp-up at the Ningde Huxi and Jiangsu Liyang plants.
-Page 4
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Valuation
 Target price of RMB72 based on 36x FY19E PE
 As CATL has just listed on the A-share market on 11 June 2018, we believe the
@@ -203,667 +106,36 @@ set an earnings multiple of 36x FY19E PE to value CATL, derived from a PEG of
 1.2x. Our target price is set at RMB72, implying a 81% upside potential.
 Figure 1 below shows a valuation comparison of A-share peers; A-share investors
 commonly adopt the PEG method to value the sector, which on average trades
-at 1.0x PEG. We believe that our target multiple should not only reﬂect the
+at 1.0x PEG. We believe that our target multiple should not only reflect the
 company's strong recurring earnings growth at a 3-year CAGR of 30%, but also
 consider the company's leading industry position, competitive cost advantage,
 and potential upside in the overseas market, which we discuss in the following
 sections.
 International peers listed in Korean and Japan markets are not pure battery plays,
 as the battery business tend to be only a fraction of their operations and contribute
-limited proﬁtability. However, it is worth noting that the international peers are
+limited profitability. However, it is worth noting that the international peers are
 expected to record a much milder earnings growth, pushing up the international
 peers' PEG multiple to 2.2x on average.
 In conclusion, we believe that CATL is more suitable to adopt the PEG multiple
-range of its A-share peers given its current investor proﬁle. We believe a 20%
-premium for CATL over its A-share peers is justiﬁed, resulting in a PEG of 1.2x
+range of its A-share peers given its current investor profile. We believe a 20%
+premium for CATL over its A-share peers is justified, resulting in a PEG of 1.2x
 and a FY19E PE multiple of 36x.
-Figure 1: Valuation comparison of A-share and international peers
-Company
-Bbg
-Ticker
-Rating
-Price
-local
-Target
-Price
-M. cap
-(US$m)
-3m avg.
-daiily
-traded
-value
-(US$m)
-PEG
-6/12/18
-6/12/18
-2018
-2019 2017-2020
-2018
-2018
-2019
-2018
-2019
-1 month
-3 month
-YTD
-Battery - A-shares
-BYD - A*
-002594 CH
-Hold
-49.6
-64.3
-20,241
-       
-67
-             
-24.3
-        
-20.3
-        
-0.9
-            
-2.3
-          
-33.7
-        
-19.5
-        
-9.8
-10.7
-(6)
-(26)
-(24)
-Sunwoda Electronic
-300207 CH
-Buy
-11.1
-14.5
-2,691
-         
-5
-               
-21.3
-        
-17.7
-        
-1.1
-            
-4.2
-          
-21.2
-        
-20.3
-        
-21.6
-21.5
-1
-(8)
-14
-EVE Energy
-300014 CH
-NR
-17.9
-NA
-2,391
-         
-49
-             
-28.9
-        
-21.9
-        
-1.0
-            
-8.2
-          
-52.3
-        
-65.5
-        
-17.0
-14.7
-(9)
-(7)
-(9)
-Far East Smarter Energy 
-600869 CH
-NR
-5.2
-NA
-1,785
-         
-6
-               
-36.8
-        
-36.8
-        
-NA
-4.8
-          
-(37.2)
-       
-(77.5)
-       
-NA
-NA
-(3)
-(10)
-(10)
-Camel Group
-601311 CH
-NR
-11.7
-NA
-1,545
-         
-5
-               
-15.0
-        
-13.0
-        
-0.9
-            
-4.1
-          
-(15.3)
-       
-13.6
-        
-10.6
-10.7
-(7)
-(11)
-(12)
-Shaanxi J&R Optimum Energy300116 CH
-NR
-3.1
-NA
-1,181
-         
-37
-             
-4.5
-          
-3.7
-          
-NA
-6.0
-          
-NM
-75.9
-        
-NA
-NA
-(23)
-(59)
-(59)
-Sichuan Chengfei Integration 002190 CH
-NR
-19.9
-NA
-1,115
-         
-24
-             
-NA
-NA
-NA
-8.9
-          
-58.4
-        
-(58.7)
-       
-NA
-NA
-(17)
-(15)
-(8)
-Shenzhen Desay Battery
-000049 CH
-NR
-31.4
-NA
-1,006
-         
-18
-             
-18.2
-        
-14.2
-        
-1.1
-            
-12.5
-        
-10.9
-        
-30.2
-        
-24.1
-22.1
-(10)
-(17)
-(21)
-Guangzhou Great Power
-300438 CH
-NR
-22.0
-NA
-964
-            
-13
-             
-16.9
-        
-13.5
-        
-0.7
-            
-12.6
-        
-46.0
-        
-96.4
-        
-18.3
-15.4
-(10)
-(18)
-(26)
-Average
-19.7
-        
-16.5
-        
-1.0
-            
-6.5
-          
-21.3
-        
-25.4
-        
-16.6
-        
-16.6
-        
-(10)
-(20)
-(18)
-Battery - international
-Panasonic
-6752 JP Eq
-Hold
-1,599
-      
-1,700
-     
-35,529
-       
-118
-           
-15.3
-        
-14.0
-        
-0.6
-            
-2.2
-          
-58.0
-        
-11.0
-        
-9.8
-10.7
-(2)
-(5)
-(3)
-LG Chem*
-051910 KS 
-Buy
-379,000
-  
-480,000
- 
-24,932
-       
-78
-             
-12.3
-        
-12.3
-        
-3.5
-            
-1.6
-          
-6.5
-          
-0.7
-          
-21.6
-21.5
-10
-(8)
-(6)
-SK Innovation
-096770 KS 
-NR
-213,500
-  
-NA
-18,397
-       
-44
-             
-8.9
-          
-8.4
-          
-3.8
-            
-1.0
-          
-(7.0)
-         
-6.8
-          
-11.8
-11.7
-4
-(0)
-4
-Samsung SDI
-006400 KS 
-Buy
-228,500
-  
-259,000
- 
-14,642
-       
-66
-             
-25.4
-        
-17.3
-        
-1.1
-            
-1.3
-          
-(7.7)
-         
-46.7
-        
-9.8
-10.7
-20
-13
-12
-Average
-15.5
-        
-13.0
-        
-2.2
-            
-1.5
-          
-12.5
-        
-16.3
-        
-13.3
-        
-13.6
-        
-12
-6
-8
-PE (x)
-PB (x)
-EPS Growth %
-ROE %
-Share price performance
-*2017-2019 EPS growth rate to calculate PEG multiple due to lack of 2020 estimated numbers
 Source: Blomberg Finance LP, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 5
-13 June 2018
-Metals & Mining
-CATL
 Earnings sensitivity analysis
 As CATL's earnings and margin outlook is heavily dependent on its pricing and
 cost trajectory, we present the 2019E and 2020E earnings sensitivity analysis
-based on diﬀerent inputs of 1) unit ASP decline, and 2) production eﬃciency
-improvement .
+based on different inputs of 1) unit ASP decline, and 2) production efficiency
+improvement.
 For the base case scenario, we factored in 14.5%/10.0%/7.5% of unit ASP decline
-in 2018E/2019E/2020E, and 7.0%/6.5%/2.0% production eﬃciency improvement
+in 2018E/2019E/2020E, and 7.0%/6.5%/2.0% production efficiency improvement
 in the same period. For a more detailed discussion on our ASP and cost decline
 assumptions, please refer to the "CATL's product pricing trajectory" and "CATL's
-cost per unit trajectory" in "Summary of ﬁnancials" section.
+cost per unit trajectory" in "Summary of financials" section.
 In conclusion, our analysis in Figure 2 below shows that for every additional 0.5%
 of ASP cut in 2019E/2020E, it will have a negative -6%/-8% impact to our earnings
-forecasts. Meanwhile, for every 0.5% of production eﬃciency improvement in
+forecasts. Meanwhile, for every 0.5% of production efficiency improvement in
 2019E/2020E, it will lift our earnings forecasts by 4%/5%, respectively.
-Figure 2: 2018-2019 earnings sensitivity analysis
-2019 NPAT
-2020 NPAT
--1.0%
--0.5%
-0.0%
-0.5%
-1.0%
--1.0%
--0.5%
-0.0%
-0.5%
-1.0%
--1.0%
-3,726
-         
-3,958
-         
-4,190
-         
-4,424
-         
-4,660
-         
--1.0%
-5,519
-         
-5,963
-         
-6,413
-         
-6,867
-         
-7,326
-         
--0.5%
-3,574
-         
-3,805
-         
-4,038
-         
-4,272
-         
-4,507
-         
--0.5%
-5,231
-         
-5,675
-         
-6,125
-         
-6,579
-         
-7,038
-         
-0.0%
-3,421
-         
-3,652
-         
-3,885
-         
-4,119
-         
-4,354
-         
-0.0%
-4,940
-         
-5,384
-         
-5,833
-         
-6,288
-         
-6,747
-         
-0.5%
-3,267
-         
-3,498
-         
-3,731
-         
-3,965
-         
-4,200
-         
-0.5%
-4,646
-         
-5,090
-         
-5,539
-         
-5,993
-         
-6,453
-         
-1.0%
-3,112
-         
-3,344
-         
-3,576
-         
-3,810
-         
-4,046
-         
-1.0%
-4,349
-         
-4,793
-         
-5,242
-         
-5,696
-         
-6,155
-         
-2019 NPAT impact
-2020 NPAT impact
--1.0%
--0.5%
-0.0%
-0.5%
-1.0%
--1.0%
--0.5%
-0.0%
-0.5%
-1.0%
--1.0%
--4%
-2%
-8%
-14%
-20%
--1.0%
--5%
-2%
-10%
-18%
-26%
--0.5%
--8%
--2%
-4%
-10%
-16%
--0.5%
--10%
--3%
-5%
-13%
-21%
-0.0%
--12%
--6%
-0%
-6%
-12%
-0.0%
--15%
--8%
-0%
-8%
-16%
-0.5%
--16%
--10%
--4%
-2%
-8%
-0.5%
--20%
--13%
--5%
-3%
-11%
-1.0%
--20%
--14%
--8%
--2%
-4%
-1.0%
--25%
--18%
--10%
--2%
-6%
-ASP change from base case
-ASP change from base case
-ASP change from base case
-ASP change from base case
-Efficiency chg 
-vs. base case
-Efficiency chg 
-vs. base case
-Eefficiency chg 
-vs. base case
-Efficiency chg 
-vs. base case
 Source: Deutsche Bank estimates
-Page 6
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 The Chinese market leader
 Current market share leader
 On the back of China's soaring EV demand, total EV battery installation volume
@@ -882,236 +154,36 @@ Figure 3).
 The market share gap between CATL and the rest of the pack is more obvious
 in NCM batteries, where the company was more than 4x larger in terms of
 installation volume in 2017. We believe its market share gap, particularly in NCM
-batteries, reﬂects its edge in technology and manufacturing know-how. This is
+batteries, reflects its edge in technology and manufacturing know-how. This is
 because NCM batteries answer to the pursuit of a higher energy density level on
 a wh/kg basis, a longer driving range per charge, and the ultimate goal of a lower
 total cost of ownership, which is currently driven by Chinese government policy.
 Although CATL also led in LFP battery installations in 2017, industry peers are not
 far behind in the relatively more mature technology, particularly BYD.
-Figure 3:2017 Chinese EV battery installation analysis
-EV battery Installation analysis
-Total
-Installation
-Market
-2017 Name
-⋋䢮
-LFP
-share (%)
-LMO
-LTO
-NCA
-NCM
-share (%)
-(Gwh)
-share
-1 CATL
-CATL
-5.4
-           
-33.2%
-4.6
-           
-30.4%
-10.0
-                
-29.7%
-2 BYD
-BYD
-4.4
-           
-27.1%
-0.9
-           
-6.2%
-5.4
-                  
-16.0%
-3 Optimum
-⊳⢩⧋
-2.0
-           
-12.5%
-2.0
-                  
-6.1%
-4 Guoxuan
-ഭ䖙儈、
-1.6
-           
-10.0%
-0.3
-           
-2.3%
-2.0
-                  
-5.9%
-5 Funeng
-ᆊ㜭、ᢰ
-1.1
-           
-7.3%
-1.1
-                  
-3.3%
-6 BAK
-∄ݻ
-0.0
-           
-0.0%
-1.0
-           
-7.0%
-1.0
-                  
-3.1%
-8 Guoneng
-ेӜഭ㜭
-0.6
-           
-3.4%
-0.1
-           
-0.8%
-0.7
-                  
-2.0%
-9 First
-⾿ᯟ⢩
-0.7
-           
-4.5%
-0.7
-                  
-2.0%
-10 Phylion
-㣿ᐎᱏᚂ
-0.5
-           
-0.0
-           
-0.3%
-0.6
-                  
-1.7%
-11 Lishen
-࣋⾎
-0.2
-           
-1.1%
-0.4
-           
-2.4%
-0.5
-                  
-1.6%
-12 Zhihang
-⊏㣿Ც㡚
-0.5
-           
-3.6%
-0.5
-                  
-1.6%
-13 Yinlong
-⨐⎧䬦䲶
-0.5
-             
-0.5
-                  
-1.6%
-14 DLG
-ᗧᵇ㜭
-0.3
-               
-0.1
-           
-0.9%
-0.4
-                  
-1.3%
-15 EVE
-ӯ㓜䬲㜭
-0.1
-           
-0.4%
-0.4
-           
-2.4%
-0.4
-                  
-1.2%
-Subtotal
-14.3
-         
-87.6%
-10.2
-         
-62.6%
-27.8
-                
-83.0%
 LFP = Lithium Iron Phosphate
 LMO = Lithium Manganese Oxide
 LTO = Lithium Titanium Oxide
 NCA = Lithium Nickel Cobalt Aluminum Oxide
 NCM = Lithium Nickel Cobalt Manganese Oxide
 Source: RealLi Research, Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Page 7
-13 June 2018
-Metals & Mining
-CATL
 The strong becomes stronger
-We also tracked the ﬁrst 4 months of EV battery installations this year, as shown
-in Figure 4 below, which indicated that the strong became stronger – the market
+We also tracked the first 4 months of EV battery installations this year, as shown
+in Figure 4 below, which indicated that the strong became stronger - the market
 share of CATL increased to 48% / 42% YTD in LFP / NCM, respectively, from a
 +30% level in 2017. As government subsidy policy is favorable to batteries with
 higher energy density level (ie. NCM batteries), we estimated that CATL's NCM
 batteries will reach 31GWh in 2020E, taking up 86% of its battery volume growth
 in the next 3 years thanks to the rising demand of passenger EV, which we discuss
 in the following section.
-It is worth noting that monthly market share may be volatile with ﬂuctuations in EV
+It is worth noting that monthly market share may be volatile with fluctuations in EV
 shipments, but we believe CATL's market dominance in China will likely continue,
 partly based on our analysis of future growth drivers in the following section.
-Figure 4: CATL continues to gain market share in China's EV battery industry
-1,427 
-511 
-848 
-1,512 
-2,982 
-2,118 
-729 
-1,359 
-2,868 
-5,034 
-0
-1,000
-2,000
-3,000
-4,000
-5,000
-6,000
-Jan-18
-Feb-18
-Mar-18
-Apr-18
-YTD cumulative EV battery installation 
-CATL - LFP
-Industry LFP
-CATL - NCM
-Industry NCM
-kwh
 Source: RealLi Research, Deutsche Bank
-Page 8
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Market share leader in passenger EVs – future growth
 driver
 For a good gauge of CATL's exposure to future growth drivers, we gathered the
 top 10 selling passenger car pure Battery EV (BEV) models in China and monitored
-their performance in the ﬁrst 4 months of 2018. As summarized in Figure 5 below,
+their performance in the first 4 months of 2018. As summarized in Figure 5 below,
 the top 10 passenger BEV models collectively account for a c.60% domestic
 market share in the segment and we observe a trend of gradual consolidation.
 Among our samples, CATL is the main battery supplier to 4 of the top 10 best-
@@ -1120,160 +192,6 @@ demand. The company is exposed to models with higher capacities (on a kWh
 per unit basis), including Geely's Emgrand EV and BAIC's EU series, indicating
 that CATL has a even higher market share in terms of installed battery volume
 in the segment.
-Figure 5: Analysis – top 10 pure battery EV models in China
-Passenger pure battery EV (BEV) analysis
-Auto OEM
-Model
-䖖ল
-਽〠
-Segment Capacity
-Range
-Battery
-Battery supplier
-units
-% of total
-units
-% of total
-kwh
-km
-type
-BAIC BJEV
-EC series
-े⊭ᯠ㜭Ⓚ
-े⊭EC㌫ࡇ
-78,089
-16.6%
-27,279
-19.4%
-A00
-20.3
-162
-NCM
-CATL
-Funeng
-Geely Zhidou Zhidou D2
-ਹ࡙⸕䉶
-⸕䉶D2
-42,342
-9.0%
-8,174
-5.8%
-A00
-18.0
-155
-NCM
-Tianfeng
-Chery
-eQ
-ཷ⪎
-EQ⭥ࣘ䖖
-25,784
-5.5%
-11,259
-8.0%
-A00
-23.6
-200
-NCM
-CATL
-JAC
-IEV6S/E
-⊏␞⊭䖖
-⊏␞IEV6S/E
-24,210
-5.1%
-11,435
-8.1%
-A0
-23.0
-180
-LFP
-Guoxuan
-BYD
-BYD E5
-∄ӊ䘚
-∄ӊ䘚E5
-23,601
-5.0%
-8,679
-6.2%
-A
-60.0
-400
-LFP
-BYD
-Geely
-Emgrand
-ਹ࡙⊭䖖
-ᑍ䊚EV
-23,324
-5.0%
-5,300
-3.8%
-A
-52.0
-400
-NCM
-CATL
-Zotye
-Zotye E200
-Շ⌠⊭䖖
-Շ⌠E200
-16,751
-3.6%
-3,552
-2.5%
-A00
-24.5
-165
-NCM
-BAK
-JMC
-JMC E200
-⊏䫳⊭䖖
-⊏䫳E200
-15,980
-3.4%
-9,272
-6.6%
-A00
-17.3
-152
-NCM
-First
-Chang'an
-Benni (Benben)
-䮯ᆹ⊭䖖
-྄྄
-14,549
-3.1%
-1,258
-0.9%
-A00
-27.0
-215
-NCM
-Guoneng
-BAIC BJEV
-EU series
-े⊭ᯠ㜭Ⓚ
-े⊭EU㌫ࡇ
-13,158
-2.8%
-265
-0.2%
-A
-42.0
-260
-NCM
-CATL
-277,788
-59.0%
-86,473
-61.5%
-2017 sales
-Top 10 sub total
-2018 YTD sales
 Source: CPCA, d1EV, Deutsche Bank
 Deeper client relationship through JV and equity
 investments
@@ -1293,124 +211,25 @@ manufacturing process to the complete production of battery cell. We believe the
 JVs form a stickier relationship with auto OEMs, as the structure leads to jointly
 developed battery projects, which in turn provide a more stable order outlook for
 the company.
-Deutsche Bank AG/Hong Kong
-Page 9
-13 June 2018
-Metals & Mining
-CATL
 From China to the world
-CATL was the ﬁrst battery maker in China to work with international brands
+CATL was the first battery maker in China to work with international brands
 in 2011, when the company partnered with BMW-Brilliance for the batteries of
-the ﬁrst EV model of Zinoro"1E". After the recognition of BMW-Brilliance, CATL
+the first EV model of Zinoro"1E". After the recognition of BMW-Brilliance, CATL
 continued to expand its passenger vehicle customer portfolio internationally,
 including names like Volkswagen, Daimler, Honda, Nissan and Renault.
 Figure 6 shows international auto OEMs and their EV battery procurement
-relationships before automobile model year 2022. The high-proﬁle USD48bn EV
-battery purchasing contract awarded by Volkswagen conﬁrms CATL as the sole
+relationships before automobile model year 2022. The high-profile USD48bn EV
+battery purchasing contract awarded by Volkswagen confirms CATL as the sole
 battery supplier in China and one of the main battery suppliers overseas. Among
 Japanese OEMs, Nissan adopted the company's battery in its electric version of
 Sylphy and Honda is developing an EV model with CATL that is due for launch in
 2020. We expect more collaborations with international auto OEMs to materialize
-going forward, which would make CATL the ﬁrst EV battery maker to have a
+going forward, which would make CATL the first EV battery maker to have a
 meaningful global presence.
-Figure 6: CATL will be competing at a global level
-Procurement relationships for EV lithium battery*
-Totyota
-Panasonic
-PEVE¹
-Panasonic
-Nissan
-AESC
-LGC
-CATL
-Renault
-LGC
-AESC
-CATL
-Mitsubishi
-LEJ²
-AESC
-LEJ²
-Toshiba
-Honda
-Panasonic
-Panasonic
-CATL
-Subaru
-PEVE¹
-Panasonic
-GM
-LGC
-LGC
-Ford
-Panasonic
-LGC
-VW
-SDI
-LGC
-Panasonic
-Panasonic
-SDI
-LGC
-CATL
-MEB VW EU
-LGC
-MEB 2nd
-LGC
-CATL
-SDI
-Audi
-SDI
-LGC
-Panasonic
-Panasonic
-SDI
-LGC
-CATL
-BMW
-SDI
-CATL
-SDI
-CATL
-Daimler
-SKI
-LEJ²
-LGC
-BYD
-CATL
-PSA
-CATL
-Hyundai
-LGC
-SKI
-CATL
-LGC
-SKI
-Fiat Chrysler
-LGC
-SDI
-Volvo
-LGC
-LGC
-Jaguar Landrover
-SDI
-LGC
-SDI
-LGC
-Auto OEM / platform
-PHEV
-BEV
 Note 1: Primearth EV Energy, a subsidiary of Toyota
 Note 2: Lithium Energy Japan, a JV set up by GS Yuasa, Mitsubishi, and Mitsubishi Motors
-*Procurement relationships till model year 2022 are included.
 Source: B3, Deutsche Bank
-Page 10
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Priced at a premium
-Pricing premium of 8% to industry peers in 2017
 For a clean battery pack ASP comparison between CATL and industry peers, we
 carved out the company's battery cell sales to Pride Power, which comprised
 21% of CATL's sales volume on average in 2014-2017, as implied by the unit
@@ -1423,75 +242,18 @@ industry developed along with its narrowing technology gap (see Figure 7).
 We expect the trend to continue going forward, but the company should continue
 to command a slight pricing premium of c.5% to the industry average over the
 next 3 years. We believe CATL's progress in material sciences will continue to be
-reﬂected in superior product performance and higher consistency.
-Figure 7: CATL battery pack commands a premium over industry average
-0.0
-0.1
-0.2
-0.3
-0.4
-0.5
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-CATL (LHS)
-Industry average (LHS)
-Pricing premium (RHS)
-RMB/wh
-RMB/wh
-Source: Company data, RealLi Research, Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Page 11
-13 June 2018
-Metals & Mining
-CATL
+reflected in superior product performance and higher consistency.
 Manufacturing experience and product quality set CATL apart
 We believe CATL's pricing premium results from its combined manufacturing
 experience and higher product quality. Figure 8 illustrates its gap with its industry
 peers, and we believe these two key factors enable it to surpass competitors,
 which we will elaborate on in the following section.
-Figure 8: CATL exhibits higher production yield and lower warranty provision
-than industry peers
-0%
-1%
-2%
-3%
-4%
-5%
-6%
-50%
-55%
-60%
-65%
-70%
-75%
-80%
-85%
-90%
-95%
-CATL
-Industry average
-Production yield (the higher the better, LHS)
-Warranty provision as of battery sales (the lower the better, RHS)
 Source: Company data, Deutsche Bank
-■
 Manufacturing experience: As component materials and client
-requirements diﬀer along with end-product generational changes, its
+requirements differ along with end-product generational changes, its
 accumulated manufacturing experience plays an important role in
 delivering lithium batteries in high volume and consistency, and thus
-high production yields. Following CATL's spin-oﬀ from ATL (one of
+high production yields. Following CATL's spin-off from ATL (one of
 the main suppliers of iPhone batteries), the company's engineers came
 with extensive experience in consumer electronic battery manufacturing
 given ATL's long history (it was founded in 1999). We believe ATL's
@@ -1499,13 +261,11 @@ supreme operational and management styles largely determine CATL's
 corporate DNA, which sets it apart from industry peers. In fact, its
 Chairman Zeng Yuqun had established ATL itself and managed the
 company for c. 17 years till 1Q17.
-■
 In 2015, ATL (majority owned by TDK) sold all of its 15% stake in the
 company in order to solidify CATL's position as a national champion
 in EV lithium batteries, supported by the Chinese government.
 Moreover, 2 companies were involved in IP (intellectual property)
 deals in 4Q15 and 3Q17, indicating cooperation at the R&D level.
-■
 Product quality: Interviews with industry contacts suggest that CATL
 has a high production yield rate of over 90% compared to industry
 peers in China at c.10 percentage points lower. We believe it will take
@@ -1513,15 +273,9 @@ time for competitors to catch up with it, as technology complexity is
 increasing and moving towards high-nickel-content materials to achieve
 higher energy density with each year. In addition, the company lowered
 its warranty provision from 5% to 3% of sales revenue in 2016 due to
-signiﬁcantly lower realized expense vs. the warranty provision, according
-Page 12
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
+significantly lower realized expense vs. the warranty provision, according
 to its audited reports. This indicates CATL has a higher product quality
 in warranty provision than the industry norm's c.5% of sales revenue.
-■
 CATL is now capable of achieving a 240wh/kg energy density level
 in mass production (NCM material on cell level) through technology
 development, which is not far from Panasonic's c.265wh/kg of the
@@ -1529,14 +283,9 @@ battery cell installed on the Tesla Model 3. CATL has also achieved
 a cell energy density level of 304wh/kg in over 1,000 cycles in the
 lab, according to Professor Minggao Ouyang, a leading expert in
 automobile power systems and control.
-Deutsche Bank AG/Hong Kong
-Page 13
-13 June 2018
-Metals & Mining
-CATL
 Competitive cost position
 Lower battery costs domestically and internationally
-Thanks to its signiﬁcant scale, fast volume growth, and heavy reliance on
+Thanks to its significant scale, fast volume growth, and heavy reliance on
 domestic component suppliers, CATL has a competitive cost position against
 both overseas players and domestic players. The company's battery pack cost has
 dropped to USD143/kWh, with a blended battery system priced at USD209/wh.
@@ -1546,40 +295,11 @@ CATL's cost cuts at 26% 3-year CAGR
 In 2014-2017, the company managed to cut battery costs by c.60% from
 RMB2.21/wh to RMB0.91/wh, achieving a 3-year CAGR of 26% cost down and
 still reported a healthy 36% gross margin. We believe that CATL's scale allowed
-it to leverage oﬀ domestic component suppliers and drive down its unit cost from
+it to leverage off domestic component suppliers and drive down its unit cost from
 the raw material perspective. As the industry has passed the easier phase of cost
 improvement, we expect CATL's blended battery cost to decline at a 3-year CAGR
 of 9% till 2020E (see Figure 10).
-Figure 9: CATL's COGS breakdown
-Figure 10: Historical battery pack cost trend and outlook
-84%
-4%
-12%
-CATL's cost breakdown
-Direct material
-Direct labor
-Manufacturing costs
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-RMB/wh
-Source: Company data, Deutsche Bank estimates Data as of 2017
 Source: Company data, Deutsche Bank estimates
-Page 14
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Procurement cost advantage thanks to industry leading
 position
 Our due diligence concludes that CATL has an advantage over the industry
@@ -1600,76 +320,13 @@ Deep dive into the procurement cost movements of the 4 major components
 We believe that CATL has paced itself and managed to strike a balance
 between raw material cost cuts and battery performance. As cathode is a critical
 component of a battery's materials that decides its energy density level, we saw
-that its procurement advantage allowed a signiﬁcant improvement to c.8% in
-2017 from virtually nil in 2015 (see Figure 11 ).
+that its procurement advantage allowed a significant improvement to c.8% in
+2017 from virtually nil in 2015 (see Figure 11).
 This compares with anode, which is shown in Figure 12 as a more mature
 component of battery materials and its estimated procurement cost advantage of
 c.15% occurred early in 2015 and gradually declined to c.7% in 2017.
-Figure 11:CATL's cathode unit procurement cost
-advantage
-Figure 12:CATL's anode unit procurement cost
-advantage
--2.7%
-23.7%
-12.7%
--2.2%
-24.7%
-20.9%
-0.5%
-1.0%
-8.2%
--5%
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-2015
-2016
-2017
-Cathode unit procurement cost movement
-CATL reported
-Chinese industry aveage*
-Procurement advantage
-YoY (%)
-14.9%
-11.0%
-6.9%
-0.0%
-2.0%
-4.0%
-6.0%
-8.0%
-10.0%
-12.0%
-14.0%
-16.0%
-0
-10,000
-20,000
-30,000
-40,000
-50,000
-60,000
-2015
-2016
-2017
-Anode procurement cost comparison 
-CATL*
-Chinese industry aveage
-Procurement advantage
-RMB/t
-*Industry average as the theoretical procurement cost factoring in the company's LFP/NCM split
 Source: Asian Metal, CIAPS, GBII, Company data, Deutsche Bank
-*Estimated by Deutsche Bank
 Source: CIAPS, GBII, Company data, Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Page 15
-13 June 2018
-Metals & Mining
-CATL
 A separator prevents physical contact between the cathode and the anode, and
 acts as a safety mechanism in a battery cell. We note that the company sourced
 a proportion of separators overseas, and gradually substituted with domestic
@@ -1678,240 +335,47 @@ estimated imported/domestic split on an apples-to-apples comparison, and Figure
 13 shows that CATL achieved a c.9% procurement advantage in 2017 from almost
 none in 2015.
 Its procurement advantage in electrolytes emerged in 2016, as electrolyte
-capacity is easier to ramp up provided that key ingredients are suﬃcient. We
+capacity is easier to ramp up provided that key ingredients are sufficient. We
 estimate that CATL had a procurement advantage of c.10% in 2017 based on its
 heavy reliance on key local suppliers (see Figure 14).
-Figure 13:CATL's separator unit procurement cost
-advantage
-Figure 14:CATL's electrolyte unit procurement cost
-advantage
--3.7%
-0.0%
--27.5%
--3.1%
-5.3%
--18.9%
-0.6%
-5.2%
-8.6%
--30%
--25%
--20%
--15%
--10%
--5%
-0%
-5%
-10%
-15%
-2015
-2016
-2017
-Separator unit procurement cost movement 
-CATL reported
-Industry aveage*
-Procurement advantage
-YoY (%)
--21.1%
-51.4%
--22.8%
--19.6%
-64.2%
--13.3%
-1.5%
-12.8%
-9.5%
--40%
--20%
-0%
-20%
-40%
-60%
-80%
-2015
-2016
-2017
-Electrolyte unit procurement cost movement 
-CATL reported
-Chinese industry aveage*
-Procurement advantage
-YoY (%)
-* Industry average as the theoretical procurement cost factoring in the company's imported/domestic
-split.
 Source:CIAPS, GBII, Company data, Deutsche Bank
-*Industry average as the theoretical procurement cost factoring in the company's LFP/NCM split
-Source:CIAPS, GBII, Company data, Deutsche Bank
-Page 16
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
-Figure 15:CATL's heavy reliance on the domestic supply chain
-Cathode
-Ternary
-LFP
-Anode
-Separator
-Electrolyte
-Imported
-Domestic
-Changyuan 
-Lico
-Easpring
-Shanshan
-Ronbay
-Zhenhua E-
-Chem
-Xiamen 
-Tungsten
-Dynanonic
-PuLead
-BTR
-Kaijin
-Shanshan
-Jiangxi Zichen
-Toray
-SK Innovation
-CYG Chinaly
-Semcorp
-Senior
-Capchem
-Guotai 
-Huarong
-Shanshan
-Dongguan 
-Kaixin*
-*: Kaixin is a Tinci 
-subsidiary
-Source:Company data, industry data, Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Page 17
-13 June 2018
-Metals & Mining
-CATL
-Higher automation level reﬂected in lower labor cost
+Source: Company data, industry data, Deutsche Bank
+Higher automation level reflected in lower labor cost
 We believe that increase in production line automation level also plays an
 important role in driving down unit cost for CATL. As the company has dedicated
-capex to automated formation, testing, warehousing systems over the past 3
 years, we saw direct labor as a % of COGS more than halve to 4.1% in 2017, from
 8.6% in 2015. It also puts CATL in the leading position, compared to domestic
 peers, as shown in Figure 16.
-Figure 16:CATL exhibits lower labor cost as % of COGS
-8.6%
-6.2%
-4.1%
-9.8%
-5.8%
-9.8%
-10.8%
-12.0%
-16.4%
-11.9%
-12.8%
-19.7%
-20.0%
-12.7%
-0%
-5%
-10%
-15%
-20%
-25%
-2015
-2016
-2017
-Direct labor as % of cost
-CATL
-OptimumNano
-Chengfei Integration
-Eve Battery
-Great Power
 Source: Company data, A-share annual reports, Deutsche Bank
-Page 18
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
-Summary of ﬁnancials
+Summary of financials
 All segments are driven by lithium batteries
 CATL is a pure proxy for exposure to lithium battery related businesses. As shown
 in Figure 17 and 18, the company reports revenue as follows: 1) battery systems,
 which include sales of both battery packs and battery cells; 2) battery materials,
 which mainly include sales of NCM precursor materials through its subsidiary
 Hunan Brunp; 3) others, which include battery recycling and battery R&D service
-revenue. Battery systems contributed 83%/81% of revenue/gross proﬁt in 2017,
-and we expect a rise to 86% of revenue/gross proﬁt each in 2020E, driven by
+revenue. Battery systems contributed 83%/81% of revenue/gross profit in 2017,
+and we expect a rise to 86% of revenue/gross profit each in 2020E, driven by
 strong EV battery volume growth.
 As battery materials are mainly represented by sales of NCM precursors, we
 expect unit ASP movement and volume growth will largely follow the trend of
 NCM cathode, for which we expect a 22% 3-year revenue CAGR to 2020E. The
-battery material will consist of 10%/9% of CATL's top line/gross proﬁt in 2020E,
+battery material will consist of 10%/9% of CATL's top line/gross profit in 2020E,
 similar to current levels.
 Regarding other businesses, including battery recycling and R&D services, we
 factored in similar growth rates to battery systems. Given that battery recycling
 occurs at the end of the battery product cycle, we believe that it should be highly
 linked to the company's main battery system sales. We expect to see 4%/5%
-revenue/gross proﬁt contributions from the Others segment in 2020E, which is
+revenue/gross profit contributions from the Others segment in 2020E, which is
 skewed to the conservative side, as we don't factor in the contribution from
 battery R&D services.
-Figure 17: CATL's revenue breakdown
-Figure 18: CATL's gross proﬁt breakdown
-0
-5
-10
-15
-20
-25
-30
-35
-40
-45
-50
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-CATL's revenue breakdown
-Battery system
-Battery material
-Others
-RMB bn
-0
-2
-4
-6
-8
-10
-12
-14
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-CATL's gross profit breakdown 
-Battery system
-Battery material
-Others
-RMB bn
 Source: Company data, Deutsche Bank estimates
 Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 19
-13 June 2018
-Metals & Mining
-CATL
 CATL's product pricing trajectory
-CATL's battery pack ASP (excluding VAT) has more than halved over the past 3
 years, and we estimate that ASP has declined by a 3-year CAGR of 22%, similar
 to the Chinese industry average, factoring in the company's LFP/NCM split. We
 expect battery pack ASP to decline further, responding to the phase-out of the
-government subsidy and cost-cut eﬀorts to achieve a lower EV total cost of
+government subsidy and cost-cut efforts to achieve a lower EV total cost of
 ownership.
 Currently the Chinese government targets to completely phase out the subsidy
 by end 2020 and sets the average battery cost target lower than RMB1/wh
@@ -1923,54 +387,6 @@ the industry will be fully prepared for the phase-out of the subsidy and re-entr
 of international battery players. Figure 19 below shows our estimates of CATL's
 pack ASP vs. the Chinese industry average, and Figure 20 illustrates the historical
 speed of the ASP decline and our outlook.
-Figure 19: CATL battery ASP compared to the Chinese
-industry average
-Figure 20:CATL's battery ASP trajectory
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-CATL - NCM
-Chinese industry - NCM
-CATL - LFP
-Chinese industry - LFP
-RMB/wh
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Pack ASP
-Cell ASP
-RMB/wh
-Source: RealLi Research, Company data, Deutsche Bank
-Source: Company data, Deutsche Bank estimates
-Page 20
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Direct exposure to government subsidy at c.2% of revenue
 Chinese government provides EV subsidy to individual auto OEMs directly with
 a time lag, and other subsidies along the supply chain are not directly linked to
@@ -1984,36 +400,7 @@ Industry and Information Technology (MIIT) mentioned to develop 1-2 domestic
 lithium battery players capable of competing at a global level by the time subsidy
 exits. Therefore, we expect CATL to record the direct government subsidy at lower
 than 2% in the next 3 years, which we believe is at a reasonable level.
-Figure 21:CATL's gross margin vs. subsidy as % of revenue trend
-0.0%
-1.0%
-2.0%
-3.0%
-4.0%
-5.0%
-6.0%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Gross profit margin (%, LHS)
-Non-operating government grants as of revenue (%, RHS)
 Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 21
-13 June 2018
-Metals & Mining
-CATL
 CATL's cost per unit trajectory
 CATL successfully cut costs by 60% from 2014 to RMB0.91/kWh in 2017. We
 believe the cost cuts were made possible by its progress in material sciences,
@@ -2022,2370 +409,78 @@ section.
 As shown in Figure 22 below, we built our unit cost assumption based on
 raw material, depreciation, labor, electricity, and other manufacturing costs. We
 expect costs to decline at a CAGR of 9% in the next 3 years, predominantly
-driven by raw material cost savings. The reduction in raw material usage reﬂects
+driven by raw material cost savings. The reduction in raw material usage reflects
 improving chemistry, energy density, the structural parts design of the cell and
-eﬃciency gains through scale enlargement.
+efficiency gains through scale enlargement.
 We believe the phase of massive cost cuts due to scale increase is behind us,
 and the industry, including market leader CATL, would next seek cost savings by
 perfecting manufacturing technology and increasing energy density. As a result,
-we expect energy density improvement to be reﬂected in reduced raw material
+we expect energy density improvement to be reflected in reduced raw material
 usage at a 3-year CAGR of 5% going forward, and improving manufacturing
 technology to contribute the remaining portion of cost savings.
 Let's look at the cost-cutting process another way. We estimate that in order to
 achieve a further 25% cost cut by 2020 to RMB0.7/wh from the current level, 84%
 of the cost savings will have to come from raw materials, 13% from depreciation,
 and 3% from electricity, labor, and other manufacturing costs.
-Figure 22:CATL's battery unit cost buildup
-Figure 23:CATL's battery unit cost trajectory
-2.2
-1.3
-1.1
-0.9
-0.8
-0.7
-0.7
- -
- 0.2
- 0.4
- 0.6
- 0.8
- 1.0
- 1.2
- 1.4
- 1.6
- 1.8
- 2.0
- 2.2
- 2.4
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-CATL's unit cost breakdown 
-Cathode
-Graphite/ Anode
-Separator
-Electrolyte
-Case / Board
-Other raw material
-Depreciation
-Electricity
-Other manufacturing cost
-Labor
-RMB/wh
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-RMB/wh
-Source: RealLi Research, GBII, Company data, Deutsche Bank
 Source: Company data, Deutsche Bank estimates
-Page 22
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
-Strong sales volume should oﬀset shrinking unit
-proﬁtability
+Strong sales volume should offset shrinking unit
+profitability
 We believe ASP of lithium batteries may drop faster than the company cuts costs.
 On a watt hourbasis, we expect CATL's battery ASP per unit to fall at a 3-year
 CAGR of 11%, and cost per unit to drop at a 3-year CAGR of 9%. As a result,
 margin per unit should decrease from RMB0.50/wh in 2017 to RMB0.29/wh in
 2020E, in our view (see Figure 24).
-Figure 24: CATL's unit pricing, cost and margin
-0.0
-0.5
-1.0
-1.5
-2.0
-2.5
-3.0
-3.5
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Unit ASP
-Unit cost
-Unit margin
-RMB/wh
-Source: Company data, Deutsche Bank estimates
-Nonetheless, the strong growth in capacity and sales is likely to largely oﬀset
-shrinking unit proﬁtability. We expect total sales at CATL to increase from
+Nonetheless, the strong growth in capacity and sales is likely to largely offset
+shrinking unit profitability. We expect total sales at CATL to increase from
 11.8GWh in 2017 to 19.7/29.5/41.5 GWh in 2018/2019/2020, respectively,
 representing a 62%/64%/77% utilization rate in the next three years. The lower
 utilization rates than 76% in 2017 are due to the new manufacturing plants at
 Jiangsu Liyang (10GWh) and Ningde Huxi (24GWh), which will gradually ramp up
 after 2018 and 2019. As the company is still in an expansion phase, we expect the
 Ningde Hudong and Qinghai Xining plants to reach full capacity in 2020E, while
-other factories gradually ramp up (see ﬁgure 26).
+other factories gradually ramp up (see figure 26).
 In conclusion, we believe CATL will keep its competitive edge and expand its
-market share and bottom line even as its unit proﬁtability erodes. Considering its
+market share and bottom line even as its unit profitability erodes. Considering its
 broad customer mix, higher product quality and competitive cost position, CATL
 is highly likely to grow with downstream EV makers and maintain its leading
 position.
-Deutsche Bank AG/Hong Kong
-Page 23
-13 June 2018
-Metals & Mining
-CATL
-Figure 25: Key summary of CATL's operational and ﬁnancial data
-Key Summary
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Effective Capacity
-GWh
-0.6
-2.6
-7.6
-17.1
-32.0
-46.0
-54.0
-Sales
-MWh
-247
-          
-2,187
-        
-6,798
-          
-11,844
-        
-19,741
-        
-29,516
-        
-41,491
-        
-ASP
-RMB/kWh
-2.89
-2.28
-2.06
-1.41
-1.16
-1.04
-0.97
-COGS
-RMB/kWh
-2.21
-1.33
-1.13
-0.91
-0.80
-0.73
-0.69
-Sales 
-RMB mn
-867
-          
-5,703
-        
-14,879
-        
-19,997
-        
-27,003
-        
-35,516
-        
-44,848
-        
-Battery sales
-RMB mn
-715
-          
-4,981
-        
-13,976
-        
-16,657
-        
-22,897
-        
-30,344
-        
-38,412
-        
-Gross profit
-RMB mn
-223
-          
-2,164
-        
-6,393
-          
-7,161
-          
-8,147
-          
-10,363
-        
-12,741
-        
-NPAT
-RMB mn
-54
-            
-931
-           
-2,852
-          
-3,878
-          
-3,478
-          
-4,396
-          
-5,572
-          
-GP Margin
-%
-25.7%
-37.9%
-43.0%
-35.8%
-30.2%
-29.2%
-28.4%
-NP Marign
-%
-6.3%
-16.3%
-19.2%
-19.4%
-12.9%
-12.4%
-12.4%
 Source: Company data, Deutsche Bank estimates
-Figure 26:CATL's major assets and capacity map in China
-Ningde Hudong
-15GWh in 2017
-16GWh in 2020E
-Ningde Huxi
-24GWh in 2020E
-Qinghai Xining
-2GWh in 2017
-4GWh in 2020E
-United Auto Battery 
-(JV with SAIC)
-Shandong
-Xinjiang
-Tibet
-Inner Mongolia
-Heilongjiang
-Jilin
-Gansu
-Liaoning
-Hebei
-Shanxi
-Qinghai
-Shaanxi
-Henan
-Sichuan
-Hubei
-Jiangsu
-Guangdong
-Anhui
-Zhejiang
-Jiangxi
-Hunan
-Fujian
-Guizhou
-Yunnan
-Guangxi
-Taiwan
-Ningxia
-Hainan
-Xining
-Hong Kong
-Macao
-Jiangsu Liyang
-10GWh in 2020E
-Guandong Brunp Recycling 
-Huxi
-Hudong
-Liyang
 Source: Company data, Deutsche Bank
-Page 24
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Consolidated income statement
-Figure 27: Consolidated income statement
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Rmb mn
-Revenue
-867
-          
-5,703
-       
-14,879
-     
-19,997
-       
-27,003
-         
-35,516
-         
-44,803
-      
-YoY 
-558%
-161%
-34%
-35%
-32%
-26%
-COGS
-644
-          
-3,539
-       
-8,486
-       
-12,836
-       
-18,856
-         
-25,153
-         
-31,788
-      
-COGS
-644
-          
-3,499
-       
-8,377
-       
-12,740
-       
-18,726
-         
-24,982
-         
-31,573
-      
-Surcharge tax
-0
-              
-40
-            
-109
-          
-96
-              
-130
-170
-215
-Gross proft
-223
-          
-2,164
-       
-6,393
-       
-7,161
-         
-8,147
-           
-10,363
-         
-13,015
-      
-Gross profit margin
-25.7%
-37.9%
-43.0%
-35.8%
-30.2%
-29.2%
-29.0%
-SG&A
-196
-          
-951
-          
-2,784
-       
-3,752
-         
-4,527
-           
-5,599
-           
-6,570
-        
-Other income / expense
-60
-            
-(3)
-             
-(128)
-        
-1,482
-         
-600
-              
-592
-              
-747
-           
-EBIT
-87
-            
-1,209
-       
-3,481
-       
-4,890
-         
-4,221
-           
-5,356
-           
-7,192
-        
-EBIT margin
-10.0%
-21.2%
-23.4%
-24.5%
-15.6%
-15.1%
-16.1%
-D&A
-67
-            
-189
-          
-779
-          
-1,355
-         
-2,160
-           
-3,071
-           
-3,560
-        
-EBITDA
-154
-          
-1,398
-       
-4,260
-       
-6,245
-         
-6,380
-           
-8,427
-           
-10,752
-      
-EBITDA margin
-17.8%
-24.5%
-28.6%
-31.2%
-23.6%
-23.7%
-24.0%
-Net finance cost
-25
-            
-109
-          
-80
-            
-42
-              
--127
--141
--101
-PBT
-62
-            
-1,100
-       
-3,400
-       
-4,848
-         
-4,348
-           
-5,497
-           
-7,293
-        
-Tax
-7
-              
-149
-          
-482
-          
-654
-            
-587
-742
-984
-PAT
-56
-            
-951
-          
-2,918
-       
-4,194
-         
-3,761
-           
-4,756
-           
-6,309
-        
-Minority interest
-1
-              
-20
-            
-67
-            
-316
-            
-283
-              
-358
-              
-475
-           
-NPAT attributable to sharholders
-54
-            
-931
-          
-2,852
-       
-3,878
-         
-3,478
-           
-4,397
-           
-5,833
-        
-YoY 
-1610%
-206%
-36%
--10%
-26%
-33%
-Net profit margin
-6.3%
-16.3%
-19.2%
-19.4%
-12.9%
-12.4%
-13.0%
-Disposal gain
-(0)
-             
-(1)
-             
-(152)
-        
-960
-            
-Non-operating government grants
-46
-            
-69
-            
-181
-          
-444
-            
-600
-              
-592
-              
-747
-           
-Investment income from WM products
-3
-              
-14
-            
-48
-            
-354
-            
--
-               
--
-               
--
-            
-Other non-operating income
-0
-              
-(14)
-           
-7
-              
-16
-              
-minus: income tax impact
-8
-              
-12
-            
-17
-            
-263
-            
-81
-                
-80
-                
-101
-           
-minus: minority interest impact
-0
-              
-6
-              
-2
-              
-10
-              
-Recurring NPAT attributable to sharholders
-14
-            
-880
-          
-2,786
-       
-2,376
-         
-2,958
-           
-3,885
-           
-5,187
-        
-YoY 
-6375%
-217%
--15%
-25%
-31%
-34%
-Recurring Net profit margin
-1.6%
-15.4%
-18.7%
-11.9%
-11.0%
-10.9%
-11.6%
-EPS (end of period)
-0.27
-         
-1.98
-         
-4.65
-         
-1.98
-           
-1.60
-             
-2.02
-             
-2.69
-          
-YoY
-627%
-135%
--57%
--19%
-26%
-33%
 Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 25
-13 June 2018
-Metals & Mining
-CATL
 Consolidated balance sheet
-Figure 28: Consolidated balance sheet
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-RMB mn
-Cash 
-60
-             
-1,293
-       
-2,457
-       
-14,081
-     
-15,750
-     
-14,345
-     
-17,648
-     
-Derivatives
-14
-            
-14
-            
-14
-            
-14
-            
-Account receivable
-402
-           
-2,872
-       
-8,070
-       
-12,467
-     
-16,836
-     
-22,143
-     
-27,934
-     
-Prepayment
-15
-             
-70
-            
-101
-          
-306
-          
-306
-          
-306
-          
-306
-          
-Interest receivable
--
-            
--
-          
-8
-              
-52
-            
-52
-            
-52
-            
-52
-            
-Inventory
-312
-           
-1,042
-       
-1,360
-       
-3,418
-       
-5,021
-       
-6,697
-       
-8,464
-       
-Available for sale assets
--
-            
--
-          
-5
-              
--
-          
--
-          
--
-          
--
-          
-Other current assets
-1,104
-        
-228
-          
-9,761
-       
-2,695
-       
-2,695
-       
-2,695
-       
-2,695
-       
-Total current assets
-1,893
-        
-5,504
-       
-21,761
-     
-33,033
-     
-40,674
-     
-46,253
-     
-57,113
-     
-Financial assets available for sale
-5
-               
-5
-              
-143
-          
-1,961
-       
-1,961
-       
-1,961
-       
-1,961
-       
-Long-term equity investment
-227
-           
--
-          
-170
-          
-791
-          
-791
-          
-791
-          
-791
-          
-PPE
-487
-           
-2,419
-       
-5,513
-       
-11,719
-     
-17,225
-     
-21,091
-     
-21,790
-     
-Long-term deferred expenses
-0
-               
-6
-              
-14
-            
-139
-          
-139
-          
-139
-          
-139
-          
-Intangible assets
-238
-           
-503
-          
-622
-          
-1,409
-       
-1,923
-       
-2,158
-       
-2,369
-       
-Goodwill
--
-            
-100
-          
-100
-          
-100
-          
-100
-          
-100
-          
-100
-          
-Deferred tax assets
-25
-             
-135
-          
-265
-          
-510
-          
-510
-          
-510
-          
-510
-          
-Non-current assets
-982
-           
-3,168
-       
-6,827
-       
-16,630
-     
-22,650
-     
-26,751
-     
-27,661
-     
-Total assets
-2,875
-        
-8,673
-       
-28,588
-     
-49,663
-     
-63,324
-     
-73,004
-     
-84,773
-     
-Short-term debt
-325
-           
-1,899
-       
-1,467
-       
-2,610
-       
-2,610
-       
-2,410
-       
-2,110
-       
-Account payable
-551
-           
-2,825
-       
-7,928
-       
-14,108
-     
-17,385
-     
-21,123
-     
-25,389
-     
-Advance received from customers
-9
-               
-170
-          
-88
-            
-203
-          
-274
-361
-455
-Others current liabilities
-52
-             
-455
-          
-700
-          
-969
-          
-969
-          
-969
-          
-969
-          
-Total current liabilities
-936
-           
-5,349
-       
-10,183
-     
-17,890
-     
-21,238
-     
-24,863
-     
-28,923
-     
-Long-term debt
--
-            
--
-          
-302
-          
-2,129
-       
-3,329
-       
-4,629
-       
-6,029
-       
-Provisions
-44
-             
-581
-          
-931
-          
-1,789
-       
-1,789
-       
-1,789
-       
-1,789
-       
-Long-term payable
-1,345
-        
-918
-          
-950
-          
-895
-          
-895
-          
-895
-          
-895
-          
-Others
-215
-           
-327
-          
-432
-          
-488
-          
-488
-          
-488
-          
-488
-          
-Total non-current liabilities
-1,603
-        
-1,825
-       
-2,614
-       
-5,302
-       
-6,502
-       
-7,802
-       
-9,202
-       
-Total liabilities
-2,540
-        
-7,175
-       
-12,797
-     
-23,192
-     
-27,739
-     
-32,664
-     
-38,125
-     
-Share capital
-200
-           
-471
-          
-613
-          
-1,955
-       
-2,172
-       
-2,172
-       
-2,172
-       
-Capital reserves
--
-            
-369
-          
-11,609
-     
-15,355
-     
-20,489
-     
-20,489
-     
-20,489
-     
-Other comprehensive income
-0
-               
-1
-              
-2
-              
-249
-          
-249
-          
-249
-          
-249
-          
-
-Surplus reserve
-7
-               
-37
-            
-300
-          
-638
-          
-638
-          
-638
-          
-638
-          
-Retained earnings
-50
-             
-376
-          
-2,965
-       
-6,505
-       
-9,982
-       
-14,380
-     
-20,213
-     
-Minority interest
-79
-             
-245
-          
-302
-          
-1,770
-       
-2,053
-       
-2,412
-       
-2,887
-       
-Total equities
-335
-           
-1,498
-       
-15,791
-     
-26,471
-     
-35,584
-     
-40,340
-     
-46,649
-     
-Total liabilities and total equities
-2,875
-        
-8,673
-       
-28,588
-     
-49,663
-     
-63,324
-     
-73,004
-     
-84,773
-     
 Source: Company data, Deutsche Bank estimates
-Page 26
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
-Consolidated cash ﬂow statement
-Figure 29: Consolidated cash ﬂow statement
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-RMB mn
-Cash flow from operations
-Net profit
-56
-          
-951
-        
-2,918
-        
-4,194
-        
-3,761
-     
-4,756
-     
-6,309
-     
-Depreciation
-45
-          
-164
-        
-731
-           
-1,280
-        
-1,989
-     
-2,838
-     
-3,300
-     
-Amortization
-23
-          
-25
-          
-48
-             
-75
-             
-170
-        
-232
-        
-261
-        
-Amortization of long-term deferred expenses
-0
-            
-3
-            
-5
-               
-27
-             
--
-         
--
-         
--
-         
-Decrease in inventory
-(220)
-       
-(698)
-       
-(320)
-          
-(2,290)
-       
-(1,603)
-    
-(1,677)
-    
-(1,767)
-    
-Decrease in receivables
-(314)
-       
-(2,316)
-    
-(14,762)
-     
-(5,076)
-       
-(4,368)
-    
-(5,307)
-    
-(5,790)
-    
-Increase in payables
-282
-        
-2,477
-     
-13,032
-      
-5,163
-        
-3,276
-     
-3,738
-     
-4,266
-     
-Others
-(9)
-           
-59
-          
-457
-           
-(1,032)
-       
-71
-          
-86
-          
-94
-          
-Provision for asset impairment
-3
-            
-59
-          
-234
-           
-245
-           
--
-         
--
-         
--
-         
-Cash flow from operation
-(139)
-       
-665
-        
-2,109
-        
-2,341
-        
-3,297
-     
-4,667
-     
-6,673
-     
-Cash flow from Investment
-CAPEX 
-301
-        
-1,554
-     
-2,801
-        
-7,180
-        
-8,180
-     
-7,172
-     
-4,470
-     
-Others
-979
-        
-1,265
-     
-9,782
-        
-2,875
-        
-Cash flow from Investment
-(1,273)
-    
-(641)
-       
-(12,428)
-     
-(7,636)
-       
-(8,180)
-    
-(7,172)
-    
-(4,470)
-    
-Cash flow from financing
-Borrowing
-202
-        
-831
-        
-1,931
-        
-4,477
-        
-1,700
-     
-1,500
-     
-1,400
-     
-Payback
-5
-            
-629
-        
-937
-           
-1,422
-        
-500
-        
-400
-        
-300
-        
-Equity raising
-5,352
-Dividend payment
-5
-            
-69
-          
-54
-             
-82
-             
-0
-0
-0
-Cash flow from financing
-1,466
-     
-440
-        
-10,971
-      
-8,933
-        
-6,552
-     
-1,100
-     
-1,100
-     
-FX impact
-(5)
-           
-(1)
-           
-(2)
-              
-(14)
-            
--
-         
--
-         
--
-         
-Net cash flow
-48
-          
-462
-        
-650
-           
-3,624
-        
-1,670
-     
-(1,405)
-    
-3,303
-     
-Free cash flow
-(440)
-       
-(889)
-       
-(692)
-          
-(4,840)
-       
-(4,883)
-    
-(2,505)
-    
-2,203
-     
+Consolidated cash flow statement
 Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 27
-13 June 2018
 Metals & Mining
 CATL
 Appendix
 Shareholding structure
-Page 28
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
-Figure 30: CATL's shareholding structure as of today
-Ruiting
-Investment 
-(Zeng Yuqun)
-Huang Shilin
-Li Ping
-Ningbo 
-Lianchuang
-CMB No.3
-CMB Power
-CATL
-26.31%
-Qinghai 
-Shidai
-Jiangsu 
-Shidai
-United Auto 
-Battery
-Shidai 
-Lithium
-Power
-Pingnan 
-Shidai
-Shidai
-Supply 
-Chain
-Beijing 
-Lithium
-Shidai
-Ningde 
-Runyuan
-Tibet Hongshang
-Changzhou 
-Qide Fund
-Advanced 
-Manufacturing 
-Fund
-Tibet Xuying
-Others
-Gaungdong 
-Brunp
-Hunan Brunp
-Hong Kong 
-Brunp
-France Branch
-US  Branch
-Canada 
-Branch
-Japan Branch
-Dongguan
-Runyuan
-Ningde 
-Hesheng
-Wending 
-Investment
-Ningde 
-Runfeng
-CATL 
-GmbH
-Hong Kong 
-Branch
-12.01%
-5.15%
-7.65%
-3.32%
-2.89%
-3.08%
-2.12%
-2.10%
-1.78%
-23.59%
-60.42%
-100%
-54.55%
-51%
-100%
-100%
-100%
-95%
-100%
-51%
-100%
-100%
-100%
-100%
-66.72%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-Other holders 
-of A
-Shares in 
-aggregate
-10.0%
-Sanshui Brunp
-Brunp Auto
-100%
-Source: Company data, Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Page 29
-13 June 2018
-Metals & Mining
-CATL
 Company history
-Figure 31: CATL's company milestones and history
-Year
-2011
-2012
-2013
-Acquired 35% of Guangdong Brunp Recycling Technology Limited through the company's JV
-Established Beijing Li Contemporary Amperex Technology Limited
-Purchased 22% of Finnish auto supplier Valmet Auto
-Effective capacity reached 17.1GWh, sales volume reached 11.8GWh and became the largest in the world
-2017
-Founded branches in France, USA, Canada and Japan.
-Cooperated with SAIC to found United Auto Battery Co.
-2014
-Established Contemporary Amperex Technology Limited (Jiangsu)
-2015
-Modified to a joint stock limited company
-Purchased Guangdong Brunp Recycling Technology Limited through the company's JV
-2016
-Established CATL Academicians and Specialists Workstation
-Effective capacity reached 7.6GWh
-Event
-Established Contemporary Amperex Technology Limited
-Founded from a branch of consumer electronic battery maker ATL
-Established Contemporary Amperex Technology Limited (Qinghai) with CDB development fund
-Established Contemporary Amperex Technology GmbH (Munich)
-Established Contemporary Amperex Technology Limited (Shanghai)
 Contemporary Amperex Technology
 Source: Company data, Deutsche Bank
-Page 30
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
 CATL
-Model updated: 12 June 2018
-Running the numbers
-Asia
-China
-Metals & Mining
-CATL
-Reuters: 300750.SZ
-Bloomberg: 300750 CH
+Reuters: 300750.SZ
+Bloomberg: 300750 CH
 Buy
-Price (12 Jun 18)
-CNY 39.82
-Target Price
-CNY 72.20
-52 Week range
-CNY 36.20 - 39.82
-Market cap (m)
-CNYm 86,506
- USDm 13,513
 Company Profile
 CATL operates as a battery products manufacturing company.
 The Company produces and sells power battery materials,
 energy storage battery materials, energy storage battery cells,
 battery systems, and other products. CATL also provides
 batteries recycling services.
-Price Performance
-CATL
-HANG SENG INDEX (Rebased)
-11. Jun
-12:00
-06:00
-18:00
-36
-37
-38
-39
-40
-41
-Margin Trends
-EBITDA Margin
-EBIT Margin
-15
-16
-17
-18E
-19E
-20E
-10
-15
-20
-25
-30
-35
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-15
-16
-17
-18E
-19E
-20E
-0
-200
-400
-600
-0
-50
-100
-150
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-15
-16
-17
-18E
-19E
-20E
--50
-0
-50
-100
-150
-0
-50
-100
-150
-200
 Neil Sun
-+852 2203 6136
-neil.sun@db.com
-Fiscal year end 31-Dec
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Financial Summary
-DB EPS (CNY)
-1.98
-4.65
-1.98
-1.60
-2.02
-2.69
-Reported EPS (CNY)
-1.98
-4.65
-1.98
-1.60
-2.02
-2.69
-DPS (CNY)
-0.15
-0.09
-0.04
-0.00
-0.00
-0.00
-BVPS (CNY)
-2.7
-25.3
-12.6
-15.4
-17.5
-20.1
-Weighted average shares (m)
-471
-613
-1,955
-2,172
-2,172
-2,172
-Average market cap (CNYm)
-na
-na
-na
-86,506
-86,506
-86,506
-Enterprise value (CNYm)
-na
-na
-na
-81,432
-84,296
-82,569
-Valuation Metrics
-P/E (DB) (x)
-na
-na
-na
-24.9
-19.7
-14.8
-P/E (Reported) (x)
-na
-na
-na
-24.9
-19.7
-14.8
-P/BV (x)
-0.00
-0.00
-0.00
-2.58
-2.28
-1.98
-FCF Yield (%)
-na
-na
-na
-nm
-nm
-2.5
-Dividend Yield (%)
-na
-na
-na
-0.0
-0.0
-0.0
-EV/Sales (x)
-nm
-nm
-nm
-3.0
-2.4
-1.8
-EV/EBITDA (x)
-nm
-nm
-nm
-12.8
-10.0
-7.7
-EV/EBIT (x)
-nm
-nm
-nm
-19.3
-15.7
-11.5
-Income Statement (CNYm)
-Sales revenue
-5,703
-14,879
-19,997
-27,003
-35,516
-44,803
-Gross profit
-2,164
-6,393
-7,161
-8,147
-10,363
-13,015
-EBITDA
-1,398
-4,260
-6,245
-6,380
-8,427
-10,752
-Depreciation
-189
-779
-1,355
-2,160
-3,071
-3,560
-Amortisation
-0
-0
-0
-0
-0
-0
-EBIT
-1,209
-3,481
-4,890
-4,221
-5,356
-7,192
-Net interest income(expense)
--109
--80
--42
-127
-141
-101
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
-0
-0
-0
-0
-0
-0
-Other pre-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Profit before tax
-1,100
-3,400
-4,848
-4,348
-5,497
-7,293
-Income tax expense
-149
-482
-654
-587
-742
-984
-Minorities
-20
-67
-316
-283
-358
-475
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-931
-2,852
-3,878
-3,478
-4,397
-5,833
-DB adjustments (including dilution)
-0
-0
-0
-0
-0
-0
-DB Net profit
-931
-2,852
-3,878
-3,478
-4,397
-5,833
-Cash Flow (CNYm)
-Cash flow from operations
-665
-2,109
-2,341
-3,297
-4,667
-6,673
-Net Capex
--1,554
--2,801
--7,180
--8,180
--7,172
--4,470
-Free cash flow
--889
--692
--4,840
--4,883
--2,505
-2,203
-Equity raised/(bought back)
-0
-0
-0
-5,352
-0
-0
-Dividends paid
--69
--54
--82
-0
-0
-0
-Net inc/(dec) in borrowings
-202
-993
-3,055
-1,200
-1,100
-1,100
-Other investing/financing cash flows
-1,219
-402
-5,490
-0
-0
-0
-Net cash flow
-462
-650
-3,624
-1,670
--1,405
-3,303
-Change in working capital
--537
--2,051
--2,203
--2,695
--3,246
--3,291
-Balance Sheet (CNYm)
-Cash and other liquid assets
-1,293
-2,457
-14,081
-15,750
-14,345
-17,648
-Tangible fixed assets
-2,419
-5,513
-11,719
-17,225
-21,091
-21,790
-Goodwill/intangible assets
-603
-722
-1,509
-2,023
-2,258
-2,469
-Associates/investments
-0
-0
-0
-0
-0
-0
-Other assets
-4,358
-19,897
-22,354
-28,325
-35,309
-42,866
-Total assets
-8,673
-28,588
-49,663
-63,324
-73,004
-84,773
-Interest bearing debt
-3,398
-3,650
-7,423
-8,623
-9,723
-10,823
-Other liabilities
-3,777
-9,147
-15,768
-19,116
-22,941
-27,301
-Total liabilities
-7,175
-12,797
-23,192
-27,739
-32,664
-38,125
-Shareholders' equity
-1,254
-15,489
-24,701
-33,531
-37,928
-43,762
-Minorities
-245
-302
-1,770
-2,053
-2,412
-2,887
-Total shareholders' equity
-1,498
-15,791
-26,471
-35,584
-40,340
-46,649
-Net debt
-2,105
-1,193
--6,658
--7,127
--4,622
--6,825
-Key Company Metrics
-Sales growth (%)
-557.9
-160.9
-34.4
-35.0
-31.5
-26.2
-DB EPS growth (%)
-626.7
-135.1
--57.3
--19.3
-26.4
-32.7
-EBITDA Margin (%)
-24.5
-28.6
-31.2
-23.6
-23.7
-24.0
-EBIT Margin (%)
-21.2
-23.4
-24.5
-15.6
-15.1
-16.1
-Payout ratio (%)
-7.5
-1.9
-2.1
-0.0
-0.0
-0.0
-ROE (%)
-123.2
-34.1
-19.3
-11.9
-12.3
-14.3
-Capex/sales (%)
-27.2
-18.8
-35.9
-30.3
-20.2
-10.0
-Capex/depreciation (x)
-8.2
-3.6
-5.3
-3.8
-2.3
-1.3
-Net debt/equity (%)
-140.5
-7.6
--25.2
--20.0
--11.5
--14.6
-Net interest cover (x)
-11.1
-43.3
-116.0
-nm
-nm
-nm
-Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 31
-13 June 2018
-Metals & Mining
-CATL
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-CATL
-300750.SZ
-39.82 (CNY) 12 Jun 2018
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors .
-Other information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than
-the primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at https://research.db.com/
-Research/Disclosures/CompanySearch. Aside from within this report, important risk and conﬂict disclosures can also be found at https://research.db.com/Research/Topics/Equities?
-topicId=RB0002. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Neil Sun
+compensation for providing a specific recommendation or view in this report. Neil Sun
 Historical recommendations and target price. CATL (300750.SZ)
-(as of 06/12/2018)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-11. Jun
-04:00
-08:00
-12:00
-16:00
-20:00
-0.00
-10.00
-20.00
-30.00
-40.00
-50.00
-Page 32
-Deutsche Bank AG/Hong Kong
-13 June 2018
-Metals & Mining
-CATL
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -4394,186 +489,147 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Deutsche Bank AG/Hong Kong
-Page 33
-13 June 2018
 Metals & Mining
 CATL
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of those websites.
-??
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
-??
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies, perspectives
-or otherwise. Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes
-on. Analysts are paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives
+or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes
+on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
 banking, trading and principal trading revenues.
-??
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Some trade
-ideas for equities are listed as SOLAR ideas on the Research Website ( https://research.db.com/Research/ ) , and can be
-found on the general coverage list and also on the covered company ’ s page. A SOLAR idea represents a high-conviction
-belief by an analyst that a stock will outperform or underperform the market and/or a speciﬁed sector over a time frame
+found on the general coverage list and also on the covered company 's page. A SOLAR idea represents a high-conviction
+belief by an analyst that a stock will outperform or underperform the market and/or a specified sector over a time frame
 of no less than two weeks and no more than six months. In addition to SOLAR ideas, analysts may occasionally discuss
 with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or
 events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the frequency of changes in
-market conditions and in both general and company-speciﬁc economic prospects make it diﬃcult to update research at
-deﬁned intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
+market conditions and in both general and company-specific economic prospects make it difficult to update research at
+defined intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
 and the majority of reports are published at irregular intervals. This report is provided for informational purposes only and
-does not take into account the particular investment objectives, ﬁnancial situations, or needs of individual clients. It is not
-an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments or to participate in any particular trading strategy.
-Target prices are inherently imprecise and a product of the analyst ’ s judgment. The ﬁnancial instruments discussed
+does not take into account the particular investment objectives, financial situations, or needs of individual clients. It is not
+an offer or a solicitation of an offer to buy or sell any financial instruments or to participate in any particular trading strategy.
+Target prices are inherently imprecise and a product of the analyst ’s judgment. The financial instruments discussed
 in this report may not be suitable for all investors, and investors must make their own informed investment decisions.
-Prices and availability of ﬁnancial instruments are subject to change without notice, and investment transactions can lead
-to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial instrument is denominated in a currency other
-than an investor's currency, a change in exchange rates may adversely aﬀect the investment. Past performance is not
+Prices and availability of financial instruments are subject to change without notice, and investment transactions can lead
+to losses as a result of price fluctuations and other factors. If a financial instrument is denominated in a currency other
+than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not
 necessarily indicative of future results. Performance calculations exclude transaction costs, unless otherwise indicated.
 Unless otherwise indicated, prices are current as of the end of the previous trading session and are sourced from local
 exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from Deutsche Bank, subject companies, and
 other parties.
-??
 The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
-organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect to
-our research are available on our website ( https://research.db.com/Research/ ) under Disclaimer.
-?
-Page 34
-Deutsche Bank AG/Hong Kong
-13 June 2018
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
 Metals & Mining
 CATL
-?
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed-rate instruments (thus receiving these cash
-ﬂows), increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus
-cause a loss. The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the
-higher will be the loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus
+cause a loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the
+higher will be the loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the
 most common adverse macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client
-segmentation, regulation (including changes in assets holding limits for diﬀerent types of investors), changes in tax
-policies, currency convertibility (which may constrain currency conversion, repatriation of proﬁts and/or liquidation of
-positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of ﬁxed-
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to
-FX depreciation, or to speciﬁed interest rates – these are common in emerging markets. The index ﬁxings may – by
+segmentation, regulation (including changes in assets holding limits for different types of investors), changes in tax
+policies, currency convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of
+positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by
 construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
-the proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed
-to a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. Funding in a currency that diﬀers
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed
+to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency that differs
 from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks typical to
 options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
 appropriateness of these products for use by investors depends on the investors' own circumstances, including their
 tax position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should
-take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the contents of this
+take expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
 publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
 high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
 amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not
 suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp . If you are unable to
 access the website, please contact your Deutsche Bank representative for a copy of this important document.
-??
 Participants in foreign exchange transactions may incur risks arising from several factors, including: (i) exchange rates can
-be volatile and are subject to large ﬂuctuations; (ii) the value of currencies may be aﬀected by numerous market factors,
+be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous market factors,
 including world and national economic, political and regulatory events, events in equity and debt markets and changes in
 interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls, which could
-aﬀect the value of the currency. Investors in securities such as ADRs, whose values are aﬀected by the currency of an
-underlying security, eﬀectively assume currency risk.
-??
-Deutsche Bank is not acting as a ﬁnancial adviser, consultant or ﬁduciary to you or any of your agents with respect to
+affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the currency of an
+underlying security, effectively assume currency risk.
+Deutsche Bank is not acting as a financial adviser, consultant or fiduciary to you or any of your agents with respect to
 any information provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, and
 is not acting as an impartial adviser. Information contained herein is being provided on the basis that the recipient will
 make an independent assessment of the merits of any investment decision, and is not meant for retirement accounts or
-for any speciﬁc person or account type. The information we provide is directed only to persons we believe to be ﬁnancially
+for any specific person or account type. The information we provide is directed only to persons we believe to be financially
 sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to particular
-transactions and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of
+transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of
 its products and services. If this is not the case, or if you or your agent are an IRA or other retail investor receiving this
 directly from us, we ask that you inform us immediately.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in
-the investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at
-https://research.db.com/Research/ on each company ’ s research page. Investors are strongly encouraged to review this
+the investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
 information before investing.
-?
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations,
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations,
 including those regarding contacts with issuer companies.
-??
-Deutsche Bank AG/Hong Kong
-Page 35
-13 June 2018
 Metals & Mining
 CATL
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
 Financial Supervisory Authority.
-??
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571
 shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional Information"
 section shall apply to the fullest extent permissible by local laws and regulations, including without limitation the Code of
 Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
-??
 India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
-oﬃce at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 7180
 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
 nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
 Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
 no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
 administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL
-is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its aﬃliate(s)
+is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s)
 may have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
-“Shareholdings” section in the Annual Report at: https://www.db.com/ir/en/annual-reports.htm .
-??
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
-on a 12-month forecast period..
-??
 Korea: Distributed by Deutsche Securities Korea Co.
-??
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
 Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
-Branch (One Raﬄes Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
 of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as deﬁned in the
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the
 applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
-??
-Page 36
-Deutsche Bank AG/Hong Kong
-13 June 2018
 Metals & Mining
 CATL
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
@@ -4582,100 +638,81 @@ may not be distributed to the Taiwan public media or quoted or used by the Taiwa
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within
 the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available only to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
-??
 Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
 appraisal or evaluation activity requiring a license in the Russian Federation.
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the ﬁnancial services activities that fall
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
 within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
 District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may undertake only the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may undertake only the financial services
 activities that fall within the scope of its existing DFSA license. Its principal place of business in the DIFC: Dubai
 International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
-distributed by Deutsche Bank AG. Related ﬁnancial products or services are available only to Professional Clients, as
-deﬁned by the Dubai Financial Services Authority.
-??
+distributed by Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as
+defined by the Dubai Financial Services Authority.
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the
-Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-speciﬁc
-research disclosures and related information at https://australia.db.com/australia/content/research-information.html
-Where research refers to any particular ﬁnancial product recipients of the research should consider any product disclosure
+Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific
+Where research refers to any particular financial product recipients of the research should consider any product disclosure
 statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
 the product.
-??
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2018 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 37
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Research
+Global Head of Economics
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International Production Locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500

@@ -1,591 +1,220 @@
-GF Securities Co., Ltd. (000776) 
-       Equity Research·Company Research·Securities Ⅱ  
- 
-1 / 8 
- 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
-Ride on the tailwinds of wealth management 
-Buy (Initiation) 
-Forecast & Valuation 
-2021A 
-2022E 
-2023E 
-2024E 
-Revenue (RMB mn)  
-34,250 
-25,911 
-32,943 
-39,064 
-Growth (YoY %) 
-17.48% 
--24.35% 
-27.14% 
-18.58% 
-Net profit (RMB mn) 
-10,854 
-8,006 
-10,584 
-12,761 
-Growth (YoY %) 
-8.13% 
--26.24% 
-32.19% 
-20.57% 
-EPS (RMB) 
-1.42 
-1.05 
-1.39 
-1.67 
-P/E (X) 
-12.44 
-16.95 
-12.82 
-10.64 
- 
- 
- 
-  
-Investment Thesis 
-◼ GF Securities has benefited from a market-driven governance structure and local 
-resources that have led to stable improvements in operational efficiency. The 
-company's flexible decision-making mechanism, due to its private background, has 
-enabled it to maintain market-oriented operations. Additionally, the high wealth level of 
+GF Securities Co., Ltd. (000776)
+Ride on the tailwinds of wealth management
+Buy (Initiation)
+Research Analyst
+Ruibin Chen
+Price Performance
+Investment Thesis
+■ GF Securities has benefited from a market-driven governance structure and local
+resources that have led to stable improvements in operational efficiency. The
+company's flexible decision-making mechanism, due to its private background, has
+enabled it to maintain market-oriented operations. Additionally, the high wealth level of
 Guangdong residents, combined with favorable development policies for the Guangdong-
-Hong Kong-Macao Greater Bay Area, has helped the company accumulate a strong 
-customer base. Finally, the company's performance has been consistently stable, with net 
-profit growing from RMB4.3bn to RMB10.9bn between 2018-2021 at a CAGR of 36%. 
-The company's leverage ratio has been rising since 2019, with a corresponding increase in 
-ROE. The overall capital utilization efficiency of the company has been high and stable. 
-◼ We see rapid development and sustained profitability in the wealth management 
-industry. At the industry level, we expect equity wealth management to see significant 
-growth as resident wealth gradually shifts towards financial assets. This trend is driven by 
-the increasing attractiveness of financial assets due to regulatory policies and a shift away 
-from speculative property investment. Moreover, we believe that there is still ample room 
-for resident asset allocation to move towards the equity market, given that China's equity 
-market is still underdeveloped compared to those of the US, Japan, and the UK. In fact, 
-actively managed AUM grew at a CAGR of 63% between 2019-2022Q3 and the 
-proportion of investors holding non-money market investments raised by 11.5pcts between 
-2018-20. At the company level, GF Securities is well-positioned to benefit from this trend 
-as a major shareholder of E Fund and GF Fund, both of which have dominant positions in 
-the mutual fund industry. The stable growth of their AUM has contributed to 20% or 
-RMB937mn of GF Securities' 22H1 net profit, and we expect their market share and asset 
-size to continue to grow. In addition, the company's brokerage business has been steadily 
-growing, with commission rates higher than industry average (0.0325% for GF and 
-0.0234% for industry) and steady increases in revenue (2018-2021 CAGR of 31%). The 
-company's performance in financial products sales has also been impressive. 
-◼ The company's comprehensive business layout is poised for growth, with investment 
-banking business expected to recover in the near-term (2022H1 net fee income up 5.30% 
-YoY). The company's investment research capabilities have been consistently recognized, 
-laying a strong foundation for various investment businesses. Additionally, the company's 
-capital market brokerage business has steadily grown, with a 5.20% market share in 
-financing and securities lending business as of 2022H1. 
-◼ Earnings Forecast & Rating: As a leading brokerage firm with outstanding wealth 
-management and asset management businesses, GF Securities has demonstrated steady 
-growth in its core business. We estimate that the company's net profit attributable to 
-shareholders will be RMB8.0/10.6/12.8bn for 2022-2024, with YoY growth rates of -26%, 
-+32%, and +21%, respectively, corresponding to a PE ratio of 16.95/12.82/10.64x and PB 
-ratio of 1.23x/1.15x/1.07x. We initiate at a “Buy” rating. 
-◼ Risks: Low market activities, strict regulatory policies limiting industry innovation. 
- 
-Price Performance 
- 
- 
-Market Data 
-Closing price (RMB) 
-17.78 
-52-week Range (RMB) 
-13.13/23.55 
-P/B (X) 
-1.26 
-Floating Market Cap 
-(RMB mn) 
-105,245.00 
-Market Cap (RMB mn) 
-135,502.94 
-Basic Data 
- 
-BVPS (RMB)  
-14.06 
-Liabilities/assets (%)  
-79.25 
-Total Issued Shares (mn)  
-7,621.09 
-Shares outstanding (mn)  
-5,919.29 
-  
-Related Reports 
-《广发证券(000776):广发证券：
-2017 年年报点评-投资兑现收益，
-资管、投行领先》 
-2018-03-26
-《广发证券(000776):广发证券：
+Hong Kong-Macao Greater Bay Area, has helped the company accumulate a strong
+Market Data
+customer base. Finally, the company's performance has been consistently stable, with net
+profit growing from RMB4.3bn to RMB10.9bn between 2018-2021 at a CAGR of 36%.
+The company's leverage ratio has been rising since 2019, with a corresponding increase in
+ROE. The overall capital utilization efficiency of the company has been high and stable.
+■ We see rapid development and sustained profitability in the wealth management
+industry. At the industry level, we expect equity wealth management to see significant
+growth as resident wealth gradually shifts towards financial assets. This trend is driven by
+the increasing attractiveness of financial assets due to regulatory policies and a shift away
+from speculative property investment. Moreover, we believe that there is still ample room
+Basic Data
+for resident asset allocation to move towards the equity market, given that China's equity
+market is still underdeveloped compared to those of the US, Japan, and the UK. In fact,
+actively managed AUM grew at a CAGR of 63% between 2019-2022Q3 and the
+proportion of investors holding non-money market investments raised by 11.5pcts between
+2018-20. At the company level, GF Securities is well-positioned to benefit from this trend
+as a major shareholder of E Fund and GF Fund, both of which have dominant positions in
+the mutual fund industry. The stable growth of their AUM has contributed to 20% or
+Related Reports
+RMB937mn of GF Securities' 22H1 net profit, and we expect their market share and asset
+《广发证券(000776):广发证券:
+size to continue to grow. In addition, the company's brokerage business has been steadily
+2017年年报点评-投资兑现收益,
+growing, with commission rates higher than industry average (0.0325% for GF and
+0.0234% for industry) and steady increases in revenue (2018-2021 CAGR of 31%). The
+资管、投行领先》
+company's performance in financial products sales has also been impressive.
+■ The company's comprehensive business layout is poised for growth, with investment
+《广发证券(000776):广发证券:
+banking business expected to recover in the near-term (2022H1 net fee income up 5.30%
 2016 年年报点评-业绩稳健+机制
-领先，国际化持续推进》 
-2017-03-26
- 
+YoY). The company's investment research capabilities have been consistently recognized,
+laying a strong foundation for various investment businesses. Additionally, the company's
+领先, 国际化持续推进》
+capital market brokerage business has steadily grown, with a 5.20% market share in
+financing and securities lending business as of 2022H1.
+Earnings Forecast & Rating: As a leading brokerage firm with outstanding wealth
 Soochow Securities International
+management and asset management businesses, GF Securities has demonstrated steady
 Brokerage Limited would like to
+growth in its core business. We estimate that the company's net profit attributable to
 acknowledge the contribution and
-support 
-provided 
-by 
-Soochow
+shareholders will be RMB8.0/10.6/12.8bn for 2022-2024, with YoY growth rates of -26%,
+support provided by Soochow
++32%, and +21%, respectively, corresponding to a PE ratio of 16.95/12.82/10.64x and PB
 Research Institute, and in particular
-its employees Xiang Hu， Jieyu Zhu
-and Yuxiang Ge. 
- 1 March 2023 
- 
-Research Analyst 
-Ruibin Chen 
-(852) 3982 3212 
-chenrobin@dwzq.com.hk 
- 
-广发证券（000776） 
-      证券研究报告·公司深度报告·证券Ⅱ  
- 
-2 / 8 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-驾乘财富管理东风，重整旗鼓蓄势待发 
-买入（首次） 
-盈利预测与估值 
-2021A 
-2022E 
-2023E 
-2024E 
-营业收入（百万元） 
-34,250 
-25,911 
-32,943 
-39,064 
-同比（%） 
-17.48% 
--24.35% 
-27.14% 
-18.58% 
-归母净利润（百万元） 
-10,854 
-8,006 
-10,584 
-12,761 
-同比（%） 
-8.13% 
--26.24% 
-32.19% 
-20.57% 
-每股收益（元/股） 
-1.42 
-1.05 
-1.39 
-1.67 
-P/E（倍） 
-12.44 
-16.95 
-12.82 
-10.64 
- 
- 
- 
- 
- 
-投资要点 
-◼ 市场化机制+地方资源，营运效率稳定提升：1）民营背景决定灵活机制：
-广发证券无控股股东（吉林敖东、辽宁成大、中山公用持股比例分别为
-16.43%、16.40%、9.01%，自2012 年以来基本未发生过变化），利于维
-持市场化运行机制、灵活的运营模式。2）广东经济优势赋能客群财富：
-广东省居民较高的财富水平为公司各项业务的发展奠定了基础，粤港澳
+ratio of 1.23x/1.15x/1.07x. We initiate at a "Buy" rating.
+its employees Xiang Hu, Jieyu Zhu
+■ Risks: Low market activities, strict regulatory policies limiting industry innovation.
+and Yuxiang Ge.
+广发证券（000776）
+驾乘财富管理东风，重整旗鼓蓄势待发
+2023年3月1日
+买入(首次)
+陈睿彬
+股价走势
+投资要点
+■ 市场化机制+地方资源, 普运效率稳定提升: 1)民营背景决定灵活机制:广发证券无控股股东(吉林敖东、辽宁成大、中山公用持股比例分别为16.43%、16.40%、9.01%, 自 2012 年以来基本未发生过变化), 利于维持市场化运行机制、灵活的运营模式。2)广东经济优势赋能客群财富:广东省居民较高的财富水平为公司各项业务的发展奠定及基础, 鲁港澳
 大湾区发展政策向好，且广州正在不断完善现代金融服务体系，我们预
-计公司未来业务发展将充分受益于区域内经济增长。3）公司业绩表现
-稳定：2018-2021 年，公司净利润由43 增至109 亿元，CAGR 达36%；
-自2019 年起，杠杆率呈上升态势（从3.45 至3.84），ROE 中枢抬升（从
-8.55%至10.67%），公司整体资金利用效率较高且表现稳定。 
-◼ 财富管理发展迅速，盈利能力持续领先：1）行业层面：居民财富逐步
-转移至金融资产，权益财富管理有望迎来大发展。①首次：居民资产切
-分，金融资产占比提升。传统上，我国居民资产在房地产市场、银行理
-财配置占比较高，但在“房住不炒”及资管新规下，金融资产吸引力增
-强，家庭金融资产规模及占比提升。②二次：金融资产切分，权益资产
-占比提升。权益市场是我国居民转移其资产配置的重要方向：2019-
-2022Q3 年，主动权益基金规模的复合增速高达63%）；非货币基金投资
-者大幅上升（2018-2020 年，该项占比提高11.5%）。对标美日英，我们
-认为：我国居民资产配置向权益市场的迁移空间仍然广阔。2）公司层
-面：一参一控头部公募，充分受益财富管理大发展。广发证券持股易方
-达/广发基金22.65%/54.53%，头部基金产品优势促使AUM 稳定增长，
-增厚广发证券净利润，2022H1 两者合计为广发证券贡献了9.37 亿元净
-利润，利润贡献度合计达20.14%，两家头部公募未来将充分受益于财富
-管理行业的大发展，同时头部公司的竞争优势更为显著，我们预计两家
-公司的市占率及保有量水平有望进一步提升。头部公募充分受益于居民
-资金入市以及格局优化的长期趋势，有助于广发证券熨平业绩波动。3）
-经纪业务稳定发展，产品代销实有亮点：佣金率高于行业均值（2022H1
-年公司/行业佣金率分别为0.0325%/0.0234%），经纪业务收入稳定提升
-（2018-2021 年CAGR 达31%）。金融产品代销表现亮眼（2021 年公司
-金融产品代销收入同比+85%至10.95 亿元），增速超过大部分头部券商
-（2022Q3 广发权益基金保有量排名券商系第3 位）。 
-◼ 业务布局完整，厚积薄发：1）投行业务拨云见日：经过积极整改历史
-问题，公司投行业务寒冬期或将结束（2022H1 广发证券投行业务手续
-费净收入同比+5.30%）。2）投研能力优势显著：公司专注投研能力及建
+计公司未来业务发展将充分受益于区域内经济增长。3)公司业绩表现稳定:2018-2021年,公司净利润由43增至109亿元,CAGR达36%;自2019年起,杠杆率呈上升态势(从3.45至3.84),ROE中枢抬升(从8.55%至10.67%),公司整体资金利用效率较高且表现稳定。
+市场数据
+2022Q3年,主动权益基金规模的复合增速高达63%;非货币基金投资者大幅上升(2018-2020年,该项占比提高11.5%)。对标美日英,我们
+认为: 我国居民资产配置向权益市场的迁移空间仍然广阔。2)公司层面:一参一控头部公募,充分受益财富管理大发展。广发证券持股易方
+达/广发基金 22.65%/54.53%, 头部基金产品优势促使 AUM 稳定增长,
+增厚广发证券净利润, 2022H1 两者合计为广发证券贡献了 9.37 亿元净利润, 利润贡献度合计达 20.14%, 两家头部公募未来将充分受益于财富
+管理行业的大发展，同时头部公司的竞争优势更为显著，我们预计两家公司的市占率及保有量水平有望进一步提升。头部公募充分受益于居民资金入市以及格局优化的长期趋势，有助于广发证券熨平业绩波动。3)
+相关研究
+《广发证券(000776):广发证
+年公司/行业佣金率分别为 0.0325%/0.0234%), 经纪业务收入稳定提升
+(2018-2021年 CAGR 达 31%)。金融产品代销表现亮眼 (2021年公司
+券: 2017年年报点评-投资兑现
+金融产品代销收入同比+85%至 10.95 亿元 )，增速超过大部分头部券商
+收益,资管、投行领先》
+(2022Q3广发权益基金保有量排名券商系第3位)。
+■ 业务布局完整,厚积薄发: 1)投行业务拨云见日: 经过积极整改历史问题,公司投行业务寒冬期或将结束(2022H1广发证券投行业务手续
+《广发证券(000776):广发证
+费净收入同比+5.30%)。2) 投研能力优势显著: 公司专注投研能力及建
+券: 2016 年年报点评-业绩稳健
 设，研究团队连续多年获得数项大奖，为广发证券积极开展各项投资业
-务奠定了基础。3）信用业务规模稳定：公司资本中介业务稳步发展，
-截止2022H1，融资融券业务市占率达5.20%。 
-◼ 盈利预测与投资评级：广发证券作为券商行业龙头，财富管理业务突出，
-资管业务优势显著，公司各项主营业务增长稳健，未来有较高的成长性。
-根据P/AUM 估值，我们认为易方达、广发基金助力公司价值提升，预
-计二者2023E-2024E 合计能为公司贡献市值571/775 亿元，公司市值将
-提升至1,718/1,923 亿元。预计2022E-2024E 年公司归母净利润为
-80.06/105.84/127.61 亿元，同比分别为-26.24%、+32.19%、+20.57%，对
-应PE 为16.95x、12.82x、10.64x，PB 为1.23x、1.15x、1.07x，首次覆
-盖给予“买入”评级。 
-◼ 风险提示：市场持续低迷，业务量萎缩；监管趋严抑制行业创新。 
- 
- 
-股价走势 
- 
- 
-市场数据 
-收盘价(元) 
-17.78 
-一年最低/最高价 
-13.13/23.55 
-市净率(倍) 
-1.26 
-流通A 股市值(百
-万元) 
-105,245.00 
-总市值（百万元） 
-135,502.94 
-基础数据 
- 
-每股净资产(元) 
-14.06 
-资本负债率(%) 
-79.25 
-总股本(百万股) 
-7,621.09 
-流通A 股(百万股) 
-5,919.29 
- 
-相关研究 
- 
-《广发证券(000776):广发证
-券：2017 年年报点评-投资兑现
-收益，资管、投行领先》 
-2018-03-26 
-《广发证券(000776):广发证
-券：2016 年年报点评-业绩稳健
-+机制领先，国际化持续推进》 
-2017-03-26 
- 
-特此致谢东吴证券研究所对本
-报告专业研究和分析的支持，尤
+务奠定了基础。3)信用业务规模稳定:公司资本中介业务稳步发展,
++机制领先,国际化持续推进》
+截止 2022H1, 融资融券业务市占率达 5.20%。■ 盈利预测与投资评级:广发证券作为券商行业龙头,财富管理业务突出,
+资管业务优势显著,公司各项主营业务增长稳健,未来有较高的成长性。
+根据 P/AUM 估值，我们认为易方达、广发基金助力公司价值提升，预
+计二者 2023E-2024E 合计能为公司贡献市值 571/775 亿元,公司市值将
+报告专业研究和分析的支持、尤
+提升至 1,718/1,923 亿元。预计 2022E-2024E 年公司归母净利润为
 其感谢胡翔，朱洁羽和葛玉翔的
-指导。 
- 
-2023 年3 月1 日 
- 
-分析师 
-陈睿彬 
-(852) 3982 3212  
-chenrobin@dwzq.com.hk 
- 
- 
- 
-3 / 8 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-公司深度报告 
- 
-市场化机制+地方资源，营运效率稳定提升。1）民营背景决定灵活机制。公司无控
-股股东及实际控制人，吉林敖东、辽宁成大及中山公用自2012 年以来一直为公司前三
-大股东，分别持股16.43%/16.40%/9.01%。我们认为无实际控制人且相对分散的股权机
-构，利于公司长期保持市场化的运行机制、形成更加灵活的经营模式。2）区位具优势且
+80.06/105.84/127.61 亿元,同比分别为-26.24%、+32.19%、+20.57%,对
+指导。
+应 PE 为 16.95x、12.82x、10.64x, PB 为 1.23x、1.15x、1.07x, 首次覆
+盖给予“买入”评级。
+市场化机制+地方资源,营运效率稳定提升。1)民营背景决定灵活机制。公司无控
+股股东及实际控制人,吉林敖东、辽宁成大及中山公用自 2012 年以来一直为公司前三
+大股东,分别持股 16.43%/16.40%/9.01%。我们认为无实际控制人且相对分散的股权机
+构, 利于公司长期保持市场化的运行机制、形成更加灵活的经营模式。2)区位具优势且
 盈利稳定。公司总部位于广州，地处大湾区建设规划中心，业务受益于区域经济红利。
-自2019 年起，公司归母净利润稳定增长，杠杆率呈上升态势，ROE 中枢抬升，公司整
-体资金利用效率较高且表现稳定。 
-图1：2012-2022Q3 广发证券及行业杠杆率 
- 
-图2：2012-2022Q3 广发证券归母净利润及增速 
- 
- 
- 
-数据来源：Wind，东吴证券（香港） 
- 
-数据来源：Wind，东吴证券（香港） 
- 
-图3：2012-2022Q3 广发证券及行业ROE (年化) 
- 
-图4：2021 年十大券商ROE 排名 
- 
- 
- 
-数据来源：Wind，东吴证券（香港） 
- 
-数据来源：Wind，东吴证券（香港） 
-一参一控公募龙头，驾乘财富管理东风。1）行业层面：居民财富逐步转移至金融
+自 2019 年起,公司归母净利润稳定增长,杠杆率呈上升态势,ROE 中枢抬升,公司整
+体资金利用效率较高且表现稳定。
+一参一控公募龙头, 驾乘财富管理东风。1) 行业层面: 居民财富逐步转移至金融
 资产，权益财富管理有望迎来大发展。传统上，我国居民资产在房地产市场、银行理财
-配置占比较高，但在“房住不炒”及资管新规下，金融资产吸引力增强。其中，权益市
-场是我国居民转移其资产配置的重要方向。2）公司层面：一参一控公募龙头，充分受
-益财富管理大发展。广发证券持股两大公募龙头——易方达及广发基金（持股比例分别
-为22.65%/54.53%）。头部公司的竞争优势更为显著，我们预计两家公司的市占率及保有
-量水平有望进一步提升。 
- 
-4 / 8 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-公司深度报告 
-经纪业务稳定发展，产品代销实有亮点。1）经纪业务：广发证券因佣金率始终高
-于行业均值：2022H1 年公司佣金率为0.0325%，高于行业佣金率0.0234%。主要原因系：
-①老牌头部券商积累多年客户，此类客户相对而言对佣金率不敏感，客户粘性较强；②
-公司拥有业内人数第一且经验丰富的投顾团队，平均具有八年以上的金融服务行业从业
-经验，用户愿意接受投顾差异化服务，并支付因公司成本提高而带来的较高佣金。2）产
-品代销：截至2021 年末，公司实现金融产品代销收入10.95 亿元，同比+85.28%，增速
-明显高于大部分头部券商（21 年中信证券+35.12%，招商证券+36.72%，中金公司+46.33%）
-的主要原因系：公司代销权益基金保有量为券商系第三名（截至2022Q3，广发证券权
-益基金/非货币基金保有量分别为767/979 亿元，占CR100 比重为1.34%/1.17%）。 
-图5：2012-2022H1 广发证券及行业佣金率 
- 
-图6：2013-2022H1 公司代销金融产品收入 
- 
- 
- 
-数据来源：Wind，东吴证券（香港） 
- 
-数据来源：Wind，东吴证券（香港） 
-业务布局完整，厚积薄发。1）投行业务“拨云见日”。截至2022H1，公司投行业务
-手续费净收入2.74 亿元（同比+5.30%）。股权融资业务方面，2022H1 公司完成股权融资
-主承销家数7 家，主承销金额75.34 亿元，其中IPO 主承销额14 亿元，市场份额为
-0.45%。2）投研能力优势明显。2017-2021 连续多年获得新财富最佳分析师评选“本土最
-佳研究团队”第一名；连续多年获得“中国证券业分析师金牛奖”评选“五大金牛研究团队”
-奖等奖项；公司持续推进实施公司研究品牌的国际化发展。3）信用业务规模稳定。截至
-2022 年6 月末，沪深两市融资融券余额16,033 亿元，较2021 年末下降12.49%。在市
-场环境不如人意的情况下，公司始终立足业务本源，持续坚持“客户中心导向”，融资融
-券业务规模稳步增加，市场份额稳定。截至2022H1，公司融资融券业务期末余额为833
-亿元，较2021 年末下降11.34%，市占率达5.20%。 
-盈利预测与投资评级：考虑公司各项主营业务增长稳健，我们预计2022-2024 年公
-司营业收入分别为259.11/329.43/390.64 亿元，同比分别增长-24.35%/27.14%/18.58%；归
-母净利润分别为80.06/105.84/127.61 亿元，同比分别增长-26.24%/32.19%/20.57%。预计
-2022-2024 年每股收益分别为1.05/1.39/1.67 元，每股净资产分别为14.47/15.44/16.62 元，
-对应PE 分别为16.95x/12.82x/10.64x，对应PB 分别为1.23x/1.15x/1.07x。 
-风险提示：市场持续低迷，业务量萎缩；监管趋严抑制行业创新；外资金融机构的
-竞争风险；经营管理风险。 
- 
- 
-5 / 8 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-公司深度报告 
-广发证券盈利预测（2023 年1 月16 日） 
-单位：百万元 
-2020 
-2021 
-2022E 
-2023E 
-2024E 
-营业收入 
-29,153 
-34,250 
-25,911 
-32,943 
-39,064  
-手续费及佣金净收入 
-14,114 
-18,785 
-18,821 
-22,390 
-27,374  
-   经纪业务手续费净收入 
-6,572 
-7,970 
-7,523 
-8,553 
-9,036  
-   投行业务手续费净收入 
-649 
-433 
-589 
-875 
-1,039  
-   资管业务手续费净收入 
-6,598 
-9,946 
-10,710 
-12,961 
-17,299  
-利息净收入 
-4,254 
-4,931 
-4,315 
-5,542 
-5,475  
-投资收益 
-7,147 
-6,817 
-286 
-471 
-1,377  
-公允价值变动损益 
-666 
-407 
--1,120 
-637 
-615  
-其他业务收入 
-1,770 
-2,075 
-2,283 
-2,511 
-2,762  
-营业支出 
-15,525 
-19,225 
-14,736 
-18,190 
-21,287  
-归属于母公司股东净利润 
-10,038 
-10,854 
-8,006 
-10,584 
-12,761  
-ROE 
-10.60% 
-10.60% 
-7.38% 
-9.29% 
-10.45% 
-EPS 
-1.32 
-1.42 
-1.05 
-1.39 
-1.67  
-BVPS 
-12.88 
-13.99 
-14.47 
-15.44 
-16.62  
-P/E（A） 
-13.45 
-12.44 
-16.87 
-12.76 
-10.58  
-P/B（A） 
-1.38 
-1.27 
-1.22 
-1.15 
-1.07  
- 
- 
- 
- 免责及评级说明部分 
- 
-分析师声明： 
-本人以勤勉、独立客观之态度出具本报告，报告所载所有观点均准确反映本
-人对于所述证券或发行人之个人观点；本人于本报告所载之具体建议或观点于过
+配置占比较高,但在“房住不炒”及资管新规下,金融资产吸引力增强。其中,权益市
+场是我国居民转移其资产配置的重要方向。2) 公司层面:一参一控公募龙头，充分受
+益财富管理大发展。广发证券持股两大公募龙头——易方达及广发基金(持股比例分别
+为 22.65%/54.53%)。头部公司的竞争优势更为显著, 我们预计两家公司的市占率及保有
+量水平有望进一步提升。
+经纪业务稳定发展,产品代销实有亮点。1)经纪业务:广发证券因佣金率始终高
+于行业均值: 2022H1 年公司佣金率为 0.0325%, 高于行业佣金率 0.0234%。主要原因系:
+①老牌头部券商积累多年客户,此类客户相对而言对佣金率不敏感,客户粘性较强;②
+公司拥有业内人数第一且经验丰富的投顾团队, 平均具有八年以上的金融服务行业从业
+经验,用户愿意接受投顾差异化服务,并支付因公司成本提高而带来的较高佣金。2)产
+品代销: 截至 2021 年末,公司实现金融产品代销收入 10.95 亿元,同比+85.28%,增速
+明显高于大部分头部券商(21 年中信证券+35.12%,招商证券+36.72%,中金公司+46.33%)
+的主要原因系:公司代销权益基金保有量为券商系第三名（截至 2022Q3，广发证券权
+益基金/非货币基金保有量分别为 767/979 亿元, 占 CR100 比重为 1.34%/1.17%)。
+业务布局完整,厚积薄发。1)投行业务“拨云见日”。截至2022H1,公司投行业务
+手续费净收入 2.74 亿元 (同比+5.30%)。股权融资业务方面, 2022H1 公司完成股权融资
+主承销家数 7 家,主承销金额 75.34 亿元,其中 IPO 主承销额 14 亿元,市场份额为
+奖等奖项; 公司持续推进实施公司研究品牌的国际化发展。3)信用业务规模稳定。截至
+2022 年 6 月末, 沪深两市融资融券余额 16,033 亿元, 较 2021 年末下降 12.49%。在市
+场环境不如人意的情况下,公司始终立足业务本源,持续坚持“客户中心导向”,融资融
+亿元, 较 2021 年末下降 11.34%, 市占率达 5.20%。
+盈利预测与投资评级:考虑公司各项主营业务增长稳健,我们预计 2022-2024 年公
+司营业收入分别为 259.11/329.43/390.64 亿元, 同比分别增长-24.35%/27.14%/18.58%; 归
+母净利润分别为 80.06/105.84/127.61 亿元，同比分别增长-26.24%/32.19%/20.57%。预计
+2022-2024 年每股收益分别为 1.05/1.39/1.67 元, 每股净资产分别为 14.47/15.44/16.62 元,
+对应 PE 分别为 16.95x/12.82x/10.64x, 对应 PB 分别为 1.23x/1.15x/1.07x。
+竞争风险;经营管理风险。
+广发证券盈利预测(2023年1月16日)
+本人以勤勉、独立客观之态度出具本报告,报告所载所有观点均准确反映本
+人对于所述证券或发行人之个人观点; 本人于本报告所载之具体建议或观点于过
 去、现在或将来，不论直接或间接概与本人薪酬无关。过往表现并不可视作未来
-表现之指标或保证，亦概不会对未来表现作出任何明示或暗示之声明或保证。 
- 
-利益披露事项： 
-刊发投资研究之研究分析员并不直接受投资银行或销售及交易人员监督，并
-不直接向其报告。 
-研究分析员之薪酬或酬金并不与特定之投资银行工作或研究建议挂钩。 
-研究分析员或其联系人并未从事其研究／分析／涉及范围内的任何公司之
-证券或衍生产品的买卖活动。 
-研究分析员或其联系人并未担任其研究／分析／涉及范围内的任何公司之
-董事职务或其他职务。 
+表现之指标或保证，亦概不会对未来表现作出任何明示或暗示之声明或保证。
+利益披露事项:
+刊发投资研究之研究分析员并不直接受投资银行或销售及交易人员监督,并
+不直接向其报告。
+研究分析员之薪酬或酬金并不与特定之投资银行工作或研究建议挂钩。
+研究分析员或其联系人并未从事其研究 / 分析 / 涉及范围内的任何公司之
+证券或衍生产品的买卖活动。
+研究分析员或其联系人并未担任其研究 / 分析 / 涉及范围内的任何公司之
+董事职务或其他职务。
 东吴证券国际经纪有限公司（下称「东吴证券国际」或「本公司」）或其集
-团公司并未持有本报告所评论的发行人的市场资本值的1%或以上的财务权益。 
-东吴证券国际或其集团公司并非本报告所分析之公司证券之市场庄家。 
-东吴证券国际或其集团公司与报告中提到的公司在最近的12 个月内没有任
-何投资银行业务关系。 
-东吴证券国际或其集团公司或编制该报告之分析师与上述公司没有任何利
-益关系。 
- 
-免责声明 
-本报告由东吴证券国际编写，仅供东吴证券国际的客户使用，本公司不因接
+团公司并未持有本报告所评论的发行人的市场资本值的1%或以上的财务权益。
+东吴证券国际或其集团公司并非本报告所分析之公司证券之市场庄家。
+东吴证券国际或其集团公司与报告中提到的公司在最近的 12 个月内没有任
+何投资银行业务关系。
+益关系。
+本报告由东吴证券国际编写, 仅供东吴证券国际的客户使用, 本公司不因接
 收人收到本报告而视其为客户。如任何司法管辖区的法例或条例禁止或限制东吴
-证券国际向收件人提供本报告，收件人并非本报告的目标发送对象。本研究报告
+证券国际向收件人提供本报告,收件人并非本报告的目标发送对象。本研究报告
 的编制仅供一般刊发，并不考虑接收本报告之任何特定人士之特定投资对象、财
 政状况、投资目标及特别需求，亦非拟向有意投资者作出特定证券、投资产品、
 交易策略或其他金融工具的建议。阁下须就个别投资作出独立评估，于作出任何
 投资或订立任何交易前，阁下应征求独立法律、财务、会计、商业、投资和/或
 税务意见并在做出投资决定前使其信纳有关投资符合自己的投资目标和投资界
-限。本报告应受香港法律管辖并据其解释。 
-本报告所载资料及意见均获自或源于东吴证券国际可信之数据源，但东吴证
+限。本报告应受香港法律管辖并据其解释。
+本报告所载资料及意见均获自或源于东吴证券国际可信之数据源,但东吴证
 券国际并不就其准确性或完整性作出任何形式的声明、陈述、担保及保证(不论
-明示或默示)，于法律及／或法规准许情况下，东吴证券国际概不会就本报告所
-载之资料引致之损失承担任何责任。本报告不应倚赖以取代独立判断。 
-本报告所发表之意见及预测为于本报告日的判断，并可予更改而毋须事前通
- 
- 
- 
- 免责及评级说明部分 
- 
+明示或默示),于法律及/或法规准许情况下,东吴证券国际概不会就本报告所
+载之资料引致之损失承担任何责任。本报告不应倚赖以取代独立判断。
+本报告所发表之意见及预测为于本报告日的判断,并可予更改而毋须事前通
 知。除另有说明外，本报告所引用的任何业绩数据均代表过往表现，过往表现亦
 不应作为日后表现的可靠预示。在不同时期，东吴证券国际可能基于不同假设、
 观点及分析方法发出与本报告所载意见、评估及预测不一致的研究报告。分析中
-所做的预测收益可能基于相应的假设，任何假设的改变可能会对本报告预测收益
-产生重大影响，东吴证券国际并不承诺或保证任何预测收益一定会实现。 
+所做的预测收益可能基于相应的假设,任何假设的改变可能会对本报告预测收益
+产生重大影响，东吴证券国际并不承诺或保证任何预测收益一定会实现。
 东吴证券国际的销售人员、交易人员以及其他专业人士可能会依据不同假设
 和标准、采用不同的分析方法而口头或书面表达与本报告意见及建议不一致的市
 场评论和/或交易观点，本公司没有将此意见及建议向报告所有接收者进行更新
-的义务。东吴证券国际及其集团公司的各业务部门，如有投资于本报告内所涉及
-的任何公司之证券或衍生产品时，其所作出的投资决策可能与本报告所述观点并
-不一致。 
-本报告及其所载内容均属机密，仅限指定收件人阅览。本报告版权归东吴证
+的义务。东吴证券国际及其集团公司的各业务部门, 如有投资于本报告内所涉及
+的任何公司之证券或衍生产品时,其所作出的投资决策可能与本报告所述观点并
+不一致。
+本报告及其所载内容均属机密, 仅限指定收件人阅览。本报告版权归东吴证
 券国际所有，未经本公司同意，不得以任何方式复制、分发或使用本报告中的任
-何资料。本报告仅作参考用途，任何部分不得在任何司法管辖权下的地方解释为
+何资料。本报告仅作参考用途,任何部分不得在任何司法管辖权下的地方解释为
 提呈或招揽购买或出售任何于报告或其他刊物内提述的任何证券、投资产品、交
 易策略或其他金融工具。东吴证券国际毋须承担因使用本报告所载数据而可能直
-接或间接引致之任何责任，损害或损失。 
- 
-特别声明 
+接或间接引致之任何责任,损害或损失。
+特别声明
 东吴证券国际可能在法律准许的情况下参与及投资本报告所述证券发行人
-之融资交易，也可能为有关发行人提供投资银行业务服务或招揽业务，及／或于
+之融资交易, 也可能为有关发行人提供投资银行业务服务或招揽业务, 及/或于
 有关发行人之证券或期权或其他有关投资中持仓或持有权益或其他重大权益或
 进行交易。阁下应考虑到东吴证券国际及/或其相关人员可能存在影响本报告及
-所载观点客观性的潜在利益冲突，请勿将本报告视为投资或其他决策的唯一信赖
-依据。 
+所载观点客观性的潜在利益冲突,请勿将本报告视为投资或其他决策的唯一信赖
+依据。
 本报告及其所载信息并非针对或意图发送给任何就分派、刊发、可得到或使
 用此报告而导致东吴证券国际违反当地法律或规例或可致使东吴证券国际受制
 于相关法律或规例的任何地区、国家或其他司法管辖区域的公民或居民。接收者
-须自行确保使用本报告符合当地的法律及规例。 
- 
-评级标准： 
-公司投资评级： 
-买入：预期未来6 个月个股涨跌幅相对大盘在15%以上； 
-增持：预期未来6 个月个股涨跌幅相对大盘介于5%与15%之间； 
-中性：预期未来6 个月个股涨跌幅相对大盘介于-5%与5%之间； 
-减持：预期未来6 个月个股涨跌幅相对大盘介于-15%与-5%之间； 
-卖出：预期未来6 个月个股涨跌幅相对大盘在-15%以下。 
- 
- 
- 
- 免责及评级说明部分 
- 
- 
-行业投资评级： 
-增持： 预期未来6 个月内，行业指数相对强于大盘5%以上； 
-中性： 预期未来6 个月内，行业指数相对大盘-5%与5%； 
-减持： 预期未来6 个月内，行业指数相对弱于大盘5%以上。 
- 
-东吴证券国际经纪有限公司 
-Level 17, Three Pacific Place, 1 Queen's Road East, Hong Kong 
-香港皇后大道东1 号太古广场3 座17 楼 
-Tel 电话：(852) 3983 0888(公司) (852) 3983 0808（客户服务） 
-公司网址：http://www.dwzq.com.hk/ 
- 
- 
- 
- 
+须自行确保使用本报告符合当地的法律及规例。
+评级标准:
+公司投资评级:
+买入: 预期未来6个月个股涨跌幅相对大盘在15%以上;
+增持: 预期未来6个月个股涨跌幅相对大盘介于5%与15%之间;
+中性: 预期未来6个月个股涨跌幅相对大盘介于-5%与5%之间;
+减持: 预期未来6个月个股涨跌幅相对大盘介于-15%与-5%之间;
+卖出: 预期未来6个月个股涨跌幅相对大盘在-15%以下。
+免责及评级说明部分
+行业投资评级:
+增持:
+预期未来6个月内,行业指数相对强于大盘5%以上;
+中性:
+预期未来6个月内,行业指数相对大盘-5%与5%;
+减持:
+预期未来6个月内,行业指数相对弱于大盘5%以上。
+东吴证券国际经纪有限公司
+Level 17, Three Pacific Place, 1 Queen's Road East, Hong Kong
+香港皇后大道东1号太古广场3座17楼

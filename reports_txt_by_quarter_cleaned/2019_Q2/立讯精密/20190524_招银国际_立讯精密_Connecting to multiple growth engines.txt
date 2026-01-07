@@ -1,177 +1,127 @@
-CMB International Securities  Equity Research  Company Update
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-ACCESS KEY TO OUR REPORTS ON BLOOMBERG CMBR
-China Technology Sector
-Mkt Cap (RMB mn)
-Avg 3 mths to (RMB mn)
-52w HighLow (RMB)
-Total Issued Shares (mn)
-Source Bloomberg
-Shareholding Structure
-Source Bloomberg
-Source Bloomberg
-12-mth Price Performance
-Source Bloomberg
-Auditor BDO
-SUMMARY We have met with Luxshares management recently to discuss the
-Company outlook for FY1920E and potential opportunities for 5G era Overall
-we are optimistic on Luxshares growth strategy backed by 1) rapid product
-expansion and solid execution via strategic MAalliances (acousticshaptics
-(Airpods Apple Watch smart speaker BTS antenna) and 3) accelerated
-penetration into Apple supply chain (Airpod acousticshaptics) in FY19-20E
- Consumer electronics with robust growth momentum Evolving from
-diversified product portfolio across various segments ranging from traditional
-modules (eg LCP antenna LRA wireless charging RxTx) Meanwhile
-Luxshare strives to broaden penetration into different Apple products (from
-MacbookiPad iPhone to wearables) and expand share allocation in each
-product category (eg acoustics haptics Airpods) at the expense of AAC
-(acousticshaptics) and Goertek (acousticsAirpods) We expect near-term
-hapticsacoustics in 2019-20E
- Capturing 5G opportunities in 2H19E Mgmt believed that Luxshare is
-well-positioned to capture growing 5G opportunities with an established
-product offerings including 1) high-speed copper and optical cables
-Additionally in longer term Luxshare is eyeing on fixed wireless unleashing
-a wider scope of IoT products and routers
-ValuationKey risks The stock now trades at 236x181x FY1920E PE
-earnings upside for FY19-20E on back of 1) strong growth momentum in
-network construction and 3) healthy organic growth of automotive
-interconnects and potential opportunities with NEV
-(YE 31 Dec)
-Revenue (RMB mn)
-YoY growth (%)
-YoY growth (%)
-Net gearing (%)
-Source Company data CMBIS
+CMB International Securities | Equity Research | Company Update
+行 全 资 附
+A Wholly Owned Subsidiary Of China Merchants Bank
 Luxshare (002475 CH)
+NOT RATED
 Connecting to multiple growth engines
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 1 Consumer electronics with rapid growth
-during FY14-18
-Source Company data CMBIS
-Figure 2 Luxshares margin remained stable during
-Source Company data CMBIS
-Figure 3 Luxshares revenue breakdown during FY15-18
-Automotive Interconnect
-Communication Interconnect
-Source Company data CMBIS
-Figure 4 Product expansion timeline
-Source Company data CMBIS
-Commu Interconnect
-Automotive Interconnects
-iPadiPhone
-Type-C for
-Acquire 51%
-stake in Merrys
-Lite-On LuxVision
-(under CEO family)
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 5 Peers valuation
-Source Bloomberg CMBIS
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-FY14A FY15A FY16A FY17A FY18A  YE 31 Dec (RMB mn)
-FY14A FY15A FY16A FY17A FY18A
-7546  Change in working capital
-388  Net cash from operating
-Admin exp (excl RD)
-2515  Capex
-302  Other
-Other operating exp
-147  Net cash from investing
-Other non-oper exp
-(12)  Dividend paid
-Pre-tax profit
-3282  Other
-Net cash from financing
-91  Net change in cash
-2723  Cash at beginning of the year
-Cash at the end of the year
-YE 31 Dec (RMB mn)
-FY14A FY15A FY16A FY17A FY18A  YE 31 Dec
-FY14A FY15A FY16A FY17A FY18A
-Cash  equivalents
-3820  Computer connectors
-Trade and other receivables
-7206 11216  Auto interconnect
-4735  Comm interconnect
-93  Consumer electronics
-3215  Other connectors
-Non-current assets
-9514 13363  Growth (%)
-9457  Revenue
-91  Gross profit
-Other non-current assets
-8607 11712 17179  Profitability (%)
-31  Gross Margin
-Trade and other payables
-6341 10238  Operating Margin
-161  Net margin
-Other current liabilities
-Non-current liabilities
-2588  Net debttotal equity (x)
-212  Current ratio (x)
-Deferred tax liabilities
-426  Receivable turnover days
-Other non-current liabilities
-1951  Inventory turnover days
-8825 12961 19767  Payable turnover days
-4115  Returns (%)
-1177  ROA
-Shareholders equity
-Total equity and liabilities
-Source Company data CMBIS estimates
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Disclosures  Disclaimers
+Current Price
+RMB22.45
+SUMMARY. We have met with Luxshare's management recently to discuss the
+Company outlook for FY19/20E and potential opportunities for 5G era. Overall,
+we are optimistic on Luxshare's growth strategy backed by 1) rapid product
+China Technology Sector
+expansion and solid execution via strategic M&A/alliances (acoustics/haptics,
+wireless charging, optics), 2) "component-module-system" business model
+Alex Ng
+(Airpods, Apple Watch, smart speaker, BTS antenna), and 3) accelerated
+penetration into Apple supply chain (Airpod, acoustics/haptics) in FY19-20E.
+Iris Zhang
+Consumer electronics with robust growth momentum. Evolving from
+pure component supplier to module/system providers, Luxshare now offers a
+diversified product portfolio across various segments, ranging from traditional
+components (e.g. cable, connector) to more comprehensive and integrated
+Stock Data
+modules (e.g. LCP antenna, LRA, wireless charging Rx/Tx). Meanwhile,
+Luxshare strives to broaden penetration into different Apple products (from
+Macbook/iPad, iPhone to wearables), and expand share allocation in each
+product category (e.g. acoustics, haptics, Airpods), at the expense of AAC
+(acoustics/haptics) and Goertek (acoustics/Airpods). We expect near-term
+growth drivers will come from wearables (Airpods, Apple Watch) and
+Shareholding Structure
+haptics/acoustics in 2019-20E.
+Capturing 5G opportunities in 2H19E. Mgmt. believed that Luxshare is
+well-positioned to capture growing 5G opportunities with an established
+product offerings, including 1) high-speed copper and optical cables/
+Share Performance
+connectors for 5G network, 2) massive MIMO-compatible RF/antenna on
+small-cell base stations, and 3) LCP antenna modules in upcoming iPhones.
+Additionally, in longer term, Luxshare is eyeing on fixed wireless unleashing
+a wider scope of IoT products and routers.
+Source: Bloomberg
+Valuation/Key risks. The stock now trades at 23.6x/18.1x FY19/20E P/E,
+12-mth Price Performance
+compared to 44%/31% FY19/20E EPS growth. We believe there is further
+earnings upside for FY19-20E, on back of 1) strong growth momentum in
+consumer electronics, 2) communication interconnects benefiting from 5G
+network construction, and 3) healthy organic growth of automotive
+interconnects and potential opportunities with NEV.
+Earnings Summary
+Source: Bloomberg
+Auditor: BDO
+Focus Charts
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Source: Company data, CMBIS
+Figure 5: Peers' valuation
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
 Analyst Certification
-The research analyst who is primary responsible for the content of this research report in whole or in part certifies that with respect to the securities
-or issuer that the analyst covered in this report (1) all of the views expressed accurately reflect his or her personal views about the subject securities
-in this report
-Besides the analyst confirms that neither the analyst nor hisher associates (as defined in the code of conduct issued by The Hong Kong Securities
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
 and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
-of this report (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report (3) serve
-covered in this report
- Stock with potential return of over 15% over next 12 months
- Stock with potential return of 15% to -10% over next 12 months
- Stock with potential loss of over 10% over next 12 months
- Stock is not rated by CMBIS
-OUTPERFORM                     Industry expected to outperform the relevant broad market benchmark over next 12 months
-MARKET-PERFORM             Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
-UNDERPERFORM                 Industry expected to underperform the relevant broad market benchmark over next 12 months
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
 CMB International Securities Limited
-Address 45F Champion Tower 3 Garden Road Hong Kong Tel (852) 3900 0888   Fax (852) 3900 0800
-CMB International Securities Limited (CMBIS) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
 of China Merchants Bank)
 Important Disclosures
-There are risks involved in transacting in any securities  The information contained in this report may not be suitable for the purposes of all investors
-CMBIS does not provide individually tailored investment advice This report has been prepared without regard to the individual investment objectives
-financial position or special requirements  Past performance has no indication of future performance and actual events may differ materially from
-that which is contained in the report  The value of and returns from any investments are uncertain and are not guaranteed and may fluctuate as a
-independently evaluate particular investments and strategies and encourages investors to consult with a professional financial advisor in order to
-make their own investment decisions
-This report or any information contained herein have been prepared by the CMBIS solely for the purpose of supplying information to the clients of
-CMBIS andor its affiliate(s) to whom it is distributed  This report is not and should not be construed as an offer or solicitation to buy or sell any
-security or any interest in securities or enter into any transaction  Neither CMBIS nor any of its affiliates shareholders agents consultants directors
-officers or employees shall be liable for any loss damage or expense whatsoever whether direct or consequential incurred in relying on the
-information contained in this report  Anyone making use of the information contained in this report does so entirely at their own risk
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives,
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from
+that which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a
+result of their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should
+independently evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to
+make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of
+CMBIS and/or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any
+security or any interest in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors,
+officers or employees shall be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the
+information contained in this report. Anyone making use of the information contained in this report does so entirely at their own risk.
 The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available
-CMBIS provides the information advices and forecasts on an AS IS basis  The information and contents are subject to change without notice
-CMBIS may issue other publications having information and or conclusions different from this report  These publications reflect different assumption
-andor on behalf of its clients from time to time Investors should assume that CMBIS does or seeks to have investment banking or other business
-the objectivity of this report and CMBIS will not assume any responsibility in respect thereof This report is for the use of intended recipients only
-and this publication may not be reproduced reprinted sold redistributed or published in whole or in part for any purpose without prior written
-consent of CMBIS
+and reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness.
+CMBIS provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice.
+CMBIS may issue other publications having information and/or conclusions different from this report. These publications reflect different assumption,
+point-of-view and analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent
+with the recommendations or views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself
+and/or on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business
+relationships with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect
+the objectivity of this report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only
+and this publication, may not be reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written
+consent of CMBIS.
+Additional information on recommended securities is available upon request.
 For recipients of this document in the United Kingdom
 This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion)
-Order 2005 (as amended from time to time)(The Order) or (II) are persons falling within Article 49(2) (a) to (d) (High Net Worth Companies
-Unincorporated Associations etc) of the Order and may not be provided to any other person without the prior written consent of CMBIS
-This report is intended for distribution in the United States to major US institutional investors as defined in Rule 15a-6 under the US Securities
-Exchange Act of 1934 and may not be furnished to any other person in the United States Each major US institutional investor that receives a copy
-of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person
+Order 2005 (as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies,
+Unincorporated Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities
+Exchange Act of 1934, and may not be furnished to any other person in the United States. Each major US, institutional investor that receives a copy
+of this research report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
 For recipients of this document in Singapore
-This report is distributed in Singapore by CMBI (Singapore) Pte Limited (CMBISG) (Company Regn No 201731928D) an Exempt Financial Adviser
-as defined in the Financial Advisers Act (Cap 110) of Singapore and regulated by the Monetary Authority of Singapore CMBISG may distribute
-reports produced by its respective foreign entities affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of
-the Financial Advisers Regulations Where the report is distributed in Singapore to a person who is not an Accredited Investor Expert Investor or
-an Institutional Investor as defined in the Securities and Futures Act (Cap 289) of Singapore CMBISG accepts legal responsibility for the contents
-of the report to such persons only to the extent required by law Singapore recipients should contact CMBISG at 65 6350 4400 for matters arising
-from or in connection with the report
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser
+as defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute
+reports produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of
+the Financial Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or
+an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents
+of the report to such persons only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising
+from, or in connection with the report.

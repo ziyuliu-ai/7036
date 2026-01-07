@@ -1,823 +1,608 @@
-主要数据  
-预测  
-要素概要  
-资料来源：公司数据、高盛研究预测
-市值Rmb1366bn197bn
-企业价值Rmb1670bn241bn
-3个均成交量Rmb7919mn1152mn
-ChinaChemicals
-租赁是否计净负债和企业价值No
-主营业务收(Rmbmn)
-EBITDA(Rmbmn)
-每股盈利(Rmb)
-净负债EBITDA(X)(剔除租赁)
-由现流收益率(%)
-9 19 E 1219 E
-每股盈利(Rmb)
-6003 09 SS相对于亚洲（不含本）覆盖范围
-6003 09 SS相对于China Chemica ls
-万华化学是中国领先的化工企业，核心竞争产品是聚氨酯（MDI和
+万华化学 (600309.SS)
+通过业务优化走向卓越，但估值已充分；首次覆盖评为中性（
+摘要)
+股价: Rmb43.50 上涨空间: 8.0%
+600309.SS
+Initiation
+万华化学是中国领先的化工企业、核心竞争产品是聚氨酯（MDI和
 TDI），公司是全球为数不多的具有MDI产能的生产商之一。万华化
-学向石化领域扩张，之后进军精细化工领域，由此实现了对核心业务
+学向石化领域扩张, 之后进军精细化工领域, 由此实现了对核心业务
 的优化。我们看到，万华在优化生产流程和成本结构方面出色的规划
+主要数据
 和执行能力助力公司成为了全球最大的MDI供应商。但我们认为市场
-对公司短期盈利的预测仍过于乐观。该股当前股价对应13倍的2019
-年预期市盈率和9倍的EVEBITDA，我们认为估值已经充分。我们的
-12个月目标价格人民币4700元隐含的上行空间仅为8%，因此我们首
+市值: Rmb136.6bn / $19.7bn
+对公司短期盈利的预测仍过干乐观。该股当前股价对应13倍的2019
+企业价值: Rmb167.0bn / $24.1bn
+3个月日均成交量: Rmb791.9mn / $115.2mn
+年预期市盈率和9倍的EV/EBITDA,我们认为估值已经充分。我们的
+China Chemicals
+租赁是否计入净负债和企业价值: No
 次覆盖该股评为中性。
+业务优化仍是核心竞争力
 万华化学一直侧重于通过研发和技术进步实现对工厂、生产流程和成
 本结构的优化，从而确保以最低成本进行生产。我们认为这一战略令
-万华的利润率净资产回报率稳定在40%30%，因此为投资者带来了
+万华的利润率/净资产回报率稳定在40%/30%，因此为投资者带来了
+独特的安全网。
+等待销量增长改善
+3/19
+6/19 E 9/19 E 12/19 E
+每股盈利 (Rmb)
 随着MDI和TDI价格双双降至历史均值以下，我们需要看到实际需求
+要素概要
 增长（即销量增长和产能利用率上升）才会对万华转持更积极看法。
-今年以来疲弱的宏观数据和终端应用销量（如汽车销量）增速显示，
-2019年需求增长潜力有限。另一项销量增长推动力，即新建的烟台乙
-烯工厂，直到2020年下半年才会投产，并将在2021年才开始贡献盈
- 全文翻译随后提供
-12个标价格R m b4700
-R m b4700
-股价R m b4350
-R m b4350
-上涨空间80%
-万华化学 (600309SS)
-通过业务优化走向卓越，但估值已充分；首次覆盖评为中性 (
-2019年8月5日  641PM CST
+今年以来疲弱的宏观数据和终端应用销量(如汽车销量)增速显示,
+财务回报
+2019年需求增长潜力有限。另一项销量增长推动力,即新建的烟台乙
+估值倍数
+烯工厂,直到2020年下半年才会投产,并将在2021年才开始贡献盈
+波动性
+百分位
+20th
+40h
+60t
+80th
+100th
+600309.SS相对于亚洲(不含日本)覆盖范围
+600309.SS 相对于China Chemicals
 因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告为作出投资决策的唯一
-比率和估值  
-增长率和利润率 (%)  
-股价走势图  
-资料来源：公司数据、高盛研究预测、FactSet（股价为2019年8月2日收盘价）
-由现流收益率(%)
-EVEBITDAR(X)
-EVEBITDA(X)(剔除租赁)
-净资产回报率(%)
-净负债股东权益(%)
-净负债权益(%)(剔除租赁)
-利息保障倍数(X)
-杜邦净资产回报率(%)
-总现投资，名义（剔除现）(Rmb)
-平均已动资本(Rmb)
-每股净资产(Rmb)
-6 0 0 3 0 9  SS (Rmb)
-6 0 0 3 0 9  SS (Rmb)
-沪深3 0 0 指数
-沪深3 0 0 指数
-相对于沪深300指数
-损益表 (Rmb mn)  
-资产负债表 (Rmb mn)  
-现金流量表 (Rmb mn)  
-资料来源：公司数据、高盛研究预测
-销售、般及管理费
-其它营业收(费)
-净利息收（出）
-经常性项前净利润
-经常性项前净利润
-经常性项后净利润
-经常性项后净利润
-EPS（基本，扣前）L(R mb)
-EPS（基本，扣前）L(R mb)
-EPS（摊薄，扣前）L(R mb)
-EPS（摊薄，扣前）L(R mb)
-EPS（基本，扣后）L(R mb)
-EPS（基本，扣后）L(R mb)
-EPS（摊薄，扣后）L(R mb)
-EPS（摊薄，扣后）L(R mb)
-每股股息L(Rmb)
-经营活动产的现流
-经营活动产的现流
-投资活动产的现流
-投资活动产的现流
-付的股息（普通股和优先股）
-筹资活动产的现流
-筹资活动产的现流
-万华化学 (600309SS)
+全球投资研究
+万华化学 (600309.SS)
+损益表 (Rmb mn) _____
+万华化学 (600309.SS)
 评级自2019年8月5日
-万华化学 (600309SS)
-Polyurethane market leader expanding into petrochemicals and specialty chemicalsnew materials
-MDITDI below historical averages pending further volume growth potential
-Petrochemical plants help remove limitation in feedstock
-Specialty chemical capability still needs time to take off
-Financials and valuation
-万华化学 (600309SS)
+资产负债表 (Rmb mn) _
+增长率和利润率 (%)
+股价走势图
+现金流量表 (Rmb mn) _
+2019年8月5日
+全球投资研究
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+PM summary
 We initiate on Wanhua Chemical with a Neutral rating
-fundamental (balance sheet and cash flow) and cyclical product exposure (MDI TDI and
-petrochemical demand are mostly GDP linked)
+Wanhua is one of the largest chemical companies in China, with high-quality
+fundamental (balance sheet and cash flow) and cyclical product exposure (MDI, TDI and
+petrochemical demand are mostly GDP linked).
 Product exposure remains favorable
-We note Wanhuas favorable exposure to MDI and TDI with both having a high
-industry concentration and fewer than 10 players globally are capable of producing MDI
-Leading players (including Wanhua) are expanding capacity which further increases
-industry concentration The underlying end-markets are generally growing slightly faster
-than global GDP (despite short-term volatility) We believe Wanhua is well-prepared to
-capture most of the MDI demand growth potential from China
+We note Wanhua's favorable exposure to MDI and TDI, with both having a high
+industry concentration, and fewer than 10 players globally are capable of producing MDI.
+Leading players (including Wanhua) are expanding capacity, which further increases
+industry concentration. The underlying end-markets are generally growing slightly faster
+than global GDP (despite short-term volatility). We believe Wanhua is well-prepared to
+capture most of the MDI demand growth potential from China.
 Plant optimization adding more value
-We like Wanhuas focus on cost and production optimization which put it at the low
-end of the global cost curve not only in MDI but also in polyol propylene derivatives and
-ethylene derivatives We believe Wanhuas focus on people and RD facilitates the
-optimization process incentivizing innovation and technological breakthroughs Wanhua
+We like Wanhua's focus on cost and production optimization, which put it at the low
+end of the global cost curve, not only in MDI but also in polyol, propylene derivatives and
+ethylene derivatives. We believe Wanhua's focus on people and R&D facilitates the
+optimization process, incentivizing innovation and technological breakthroughs. Wanhua
 aims to achieve plant and product synergy and risk diversification in every new
-investment
-Where are we different from the market
-entering the MDI market at least over the next three to four years We believe it will be
-suppliers which 1) have been in the market for decades 2)  have existing expansion
-plans and 3) are getting ready to capture most of the demand growth potential at
-than greenfield projects)
-We are more concerned about Wanhuas near-term earnings Year-to-date MDI and
-TDI prices have fallen significantly in both yoy and hoh terms Our 2019E earnings
-estimates are c15% below Bloomberg consensus We believe consensus is still pricing
-We agree that the margin and return profile of new petrochemical specialty chemical
-and new material businesses are likely dilutive to Wanhuas existing high-margin
-polyurethane product exposure (ie not as strong cost advantage) However we think
-the more diversified that Wanhuas business is the lower the normalized return would
-likely be  though it could deserve a higher multiple (due to a less-cyclical asset
-portfolio)
-万华化学 (600309SS)
-Valuations
-We apply 70X EVEBITDA on the 2020-2021 blended average EBITDA (vs an EBITDA
-CAGR of 13%) to derive a 12-month target price of Rmb470 The target multiple is
-slightly below its long-term historical average of 83X since listing to factor in the
-near-term weak MDITDI margin
-Product margins (-) Supply disruption () Project delays (-) Feedstock cost volatility
-(-) Operational risks (-) RD success (-)
-图表 1 We forecast Wanhua will maintain its long-term ROE
-万华化学 (600309SS)
-图表 2 Both pure and poly MDI are below the historical
-图表 3 We estimated the total cost savings of Wanhuas
-MDI could amount to Rmb2500ton
-Chlor-alkali
-(including
-plant  Aniline
-Wanhua MDI cost advantages (Rmbton)
-MDI cost curve latest
-图表 5 Volume matters more than margins for Wanhua
-图表 6 Resilient dividend return to long term investors
-图表 7 Wanhua is trading at its historical average
-Dividend yield (RHS)
-Average 83
-1 SD 109
--1 SD 56
-12-month rolling forward EVEBITDA (X)
-万华化学 (600309SS)
+investment.
+Where are we different from the market?
+We are less worried about the new competitors (e.g., Chinese domestic suppliers)
+entering the MDI market, at least over the next three to four years. We believe it will be
+difficult for new players to gain a similar cost and scale competitiveness vs. global MDI
+suppliers, which: 1) have been in the market for decades; 2) have existing expansion
+plans; and 3) are getting ready to capture most of the demand growth potential at
+competitive capex and opex (expansion projects usually have much lower capex/ton
+than greenfield projects).
+We are more concerned about Wanhua's near-term earnings. Year-to-date, MDI and
+TDI prices have fallen significantly in both yoy and hoh terms. Our 2019E earnings
+estimates are c.15% below Bloomberg consensus. We believe consensus is still pricing
+too much optimism into the company's potential MDI/TDI recovery.
+We agree that the margin and return profile of new petrochemical, specialty chemical
+and new material businesses are likely dilutive to Wanhua's existing high-margin
+polyurethane product exposure (i.e., not as strong cost advantage). However, we think
+the more diversified that Wanhua's business is, the lower the normalized return would
+though it could deserve a higher multiple (due to a less-cyclical asset
+likely be
+portfolio).
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Valuations:
+We apply 7.0X EV/EBITDA on the 2020-2021 blended average EBITDA (vs. an EBITDA
+CAGR of 13%) to derive a 12-month target price of Rmb47.0. The target multiple is
+slightly below its long-term historical average of 8.3X since listing, to factor in the
+near-term weak MDI/TDI margin.
+The key risks
+Product margins (+/-); Supply disruption (+); Project delays (-); Feedstock cost volatility
+(+/-); Operational risks (-); R&D success (+/-)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Our thesis in charts
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
 Polyurethane market leader expanding into petrochemicals and
-specialty chemicalsnew materials
-Wanhua Chemical was established in 1998 and listed on the Shanghai Stock Exchange
-in 2001 started off as a synthetic leather factory in 1978 later building its own
-polyurethane for 30 years It is now the worlds largest producer of MDI The
-Since then it has accelerated the diversification of its operations Wanhua now has
-three core business segments polyurethane petrochemicals and specialty chemicals 
-new materials
-Key driver 1 - Polyurethane (76% of gross profit 51% of revenue as of FY2018)
-Product details Polyurethane is the bread and butter of Wanhua Chemical The main
-products under this category include MDI and TDI Methylenediphenyl diisocyanate
-(MDI) a key raw material of polyurethane can be mixed with polyol to produce rigid
-polyurethane foam widely used in refrigerators coatings materials and thermal
-insulation of buildings Toluene diisocyanate (TDI) can be mixed with polyol to produce
-bedding etc
-2018) Wanhuas MDI capacity increased from 10kt in 1995 to 100kt in 2002 and to
-1800kt now Global leading MDI and TDI players include BASF Covestro and
-Huntsman Both products have a high industry concentration and most of the
-technology used is self-invented without much external licensing Product prices vary
-across different regions depending on the local supply-demand dynamics
-Key driver 2 - Petrochemical (9% of gross profit 31% of revenue)
-Product details Wanhua is exposed to the C3 propylene value chain after building its
-POAE plant (propylene oxide and acrylate ester) in 2015 It now plans to enter the C2
-图表 8 MDI is mainly used as insulating material in the white
-goods property and automotive sectors
-图表 9 Wanhua is 26% and 17% of global MDI and TDI
-Insulation 37%
-Adhesives
-Coatings 
-Elastomers
-wood products
-applications 3%
-chemicals 1%
-Automotive
-Footwear 7%
-Applicances 3%
-Furniture 6% Apparel 3%
-Global MDI downstream application (% as of 2018)
-Sadara 6%
-Hanhua 5%
-Others 12%
-Others 20%
-Global top players in MDI  TDI (% in terms of capacity as of 2018)
-Cangzhou Dahua 5%
-万华化学 (600309SS)
-ethylene value chain by building its own ethylene cracker which it is targeting to
-that to value-added ethylene and propylene derivatives These derivatives are mostly
-global market with many suppliers There are a wide range of downstream applications
-including plastics polyester fibers etc
-suppliers are still the major refiners (Sinopec and PetroChina) There is increasing
-supply from CTOMTO (coal to olefinmethanol to olefin) PDH (propane
-dehydrogenation) and ethane crackers These units help diversify the feedstock from oil
-to coalmethanolLPGethane Globally we see increasing new supply from the US
+specialty chemicals/new materials
+Wanhua Chemical, was established in 1998 and listed on the Shanghai Stock Exchange
+in 2001, started off as a synthetic leather factory in 1978, later building its own
+polyurethane and MDI plants. The company has specialized in the production of
+polyurethane for 30+ years. It is now the worlds' largest producer of MDI. The
+company renamed from Wanhua Polyurethane to Wanhua Chemical in June 2013.
+Since then, it has accelerated the diversification of its operations. Wanhua now has
+three core business segments: polyurethane, petrochemicals and specialty chemicals &
+new materials.
+Key driver 1 - Polyurethane (76% of gross profit; 51% of revenue as of FY2018)
+Product details: Polyurethane is the bread and butter of Wanhua Chemical. The main
+products under this category include MDI and TDI. Methylenediphenyl diisocyanate
+(MDI), a key raw material of polyurethane, can be mixed with polyol to produce rigid
+polyurethane foam, widely used in refrigerators, coatings materials and thermal
+insulation of buildings. Toluene diisocyanate (TDI) can be mixed with polyol to produce
+flexible polyurethane foam, widely used in shoes, furniture, automotive components,
+bedding, etc.
+Global comparison: Wanhua has the largest MDI capacity globally (26% of total as of
+2018). Wanhua’s MDI capacity increased from 10kt in 1995 to 100kt in 2002 and to
+1,800kt now. Global leading MDI and TDI players include BASF, Covestro and
+Huntsman. Both products have a high industry concentration, and most of the
+technology used is self-invented without much external licensing. Product prices vary
+across different regions depending on the local supply-demand dynamics.
+图表 9: Wanhua is 26% and 17% of global MDI and TDI
+capacity
+Key driver 2 - Petrochemical (9% of gross profit; 31% of revenue)
+Product details: Wanhua is exposed to the C3 propylene value chain after building its
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+ethylene value chain by building its own ethylene cracker, which it is targeting to
+commission in 2H2020. Both plants are taking LPG as the main feedstock and convert
+that to value-added ethylene and propylene derivatives. These derivatives are mostly
+classified as commodity chemicals because they are well-transacted and traded in the
+global market with many suppliers. There are a wide range of downstream applications,
+including plastics, polyester, fibers, etc.
+Global comparison: There are a lot of suppliers globally and domestically producing
+commoditized petrochemical products. In China, the core ethylene and propylene
+suppliers are still the major refiners (Sinopec and PetroChina). There is increasing
+supply from CTO/MTO (coal to olefin/methanol to olefin), PDH (propane
+dehydrogenation) and ethane crackers. These units help diversify the feedstock from oil
+to coal/methanol/LPG/ethane. Globally, we see increasing new supply from the US
 (taking advantages of the cheap US ethane supply) and the Middle East (using the
-cheap oilnaphtha supply)
-Key driver 3 - Specialty chemical  new material (9% of gross profit 9% of
-Product details Wanhuas specialty chemical and new material segment includes
-sales and production of surface material TPU SAP PC modified isocyanate and
-RD products specialization and end-market verification The size of these production
-plants are usually smaller in scale
-图表 10 The new Wanhua C2 ethylene cracker adding
-ethylene derivatives to its portfolio
-Product yields of Wanhuas C2 and C3 units
-图表 11 Both C2 and C3 profitability holds up very well in
-Estimated C2 and C3 price spread (both use feedstock propane)
-14% Butanol
-13% Propylene
-4% Propylene
-C2 Feedstock
-C3 Feedstock
-C2C3 facilities product yield (%)
-C2C3 facilities spread (Rmbton)
-万华化学 (600309SS)
-图表 12 Wanhua is growing capacity in MDI ethylene derivatives and select specialty chemicals
-Wanhuas capacity summary 1Q2019
-New capacity  (ktpa) Comments
-Wanhua Yantai to increase to 1100k tons by 2019
-Wanhua Ningbo to increase to 1500k tons by 2020
-US greenfield project 400k tons by 2021
-Water-borne coatings
-PC project to increase 130kt by Dec 2019
-Completed in Jan 2019
-Completed in Jan 2019
-万华化学 (600309SS)
-MDITDI below historical averages pending further volume growth
-MDITDI prices are both below their historical ranges
-Pure MDI prices fell 33% in 2018 from Rmb30000ton to Rmb20000ton mainly due to
-weak demand This weakness in MDI prices persisted for about four months before
-rebounding in March 2019 which we attribute to anticipation of US-China trade tensions
-being resolved and potential policy loosening in China However the rebound in prices
-has proven to be temporary with MDI prices declining from the peak level of
-Rmb25000ton in April to Rmb17000ton in July Current prices for pure and poly MDI
-are now 34%43% above the bottom prices of Rmb14600ton and Rmb9100ton in
-4Q2015 but 10%27% below the historical average (since 2006)
-China TDI prices fell 60% in 2018 from Rmb40000ton to Rmb16000ton The TDI
-TDI capacity (300ktpa) at end-2018 adding 36% to China capacity The current TDI
-price is about 21% above the bottom price of Rmb11300ton but 35% below the
-historical average (since 2013)
-mainly driven by its own products demand supply instead of cost-based The high
+cheap oil/naphtha supply).
+Key driver 3 - Specialty chemical & new material (9% of gross profit; 9% of
+revenue)
+Product details: Wanhua's specialty chemical and new material segment includes
+sales and production of surface material, TPU, SAP, PC, modified isocyanate, and
+specialty amines. It often takes a longer time to achieve commercial production of
+specialty chemicals compared to commodity chemicals as those products require more
+R&D, products specialization, and end-market verification. The size of these production
+plants are usually smaller in scale.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+MDI/TDI below historical averages; pending further volume growth
+potential
+MDI/TDI prices are both below their historical ranges
+Pure MDI prices fell 33% in 2018 from Rmb30,000/ton to Rmb20,000/ton, mainly due to
+weak demand. This weakness in MDI prices persisted for about four months before
+rebounding in March 2019, which we attribute to anticipation of US-China trade tensions
+being resolved and potential policy loosening in China. However, the rebound in prices
+has proven to be temporary, with MDI prices declining from the peak level of
+Rmb25,000/ton in April to Rmb17,000/ton in July. Current prices for pure and poly MDI
+are now 34%/43% above the bottom prices of Rmb14,600/ton and Rmb9,100/ton in
+4Q2015 but 10%/27% below the historical average (since 2006).
+China TDI prices fell 60% in 2018 from Rmb40,000/ton to Rmb16,000/ton. The TDI
+prices remained weak in most of 2019, particularly after the commissioning of Wanhua
+TDI capacity (300ktpa) at end-2018, adding 36% to China capacity. The current TDI
+price is about 21% above the bottom price of Rmb11,300/ton but 35% below the
+historical average (since 2013).
+We expect both MDI and TDI, unlike many other commoditized chemical products, are
+mainly driven by its own products demand supply instead of cost-based. The high
 industry concentration of the industry allows the producers to manage the pricing
-according to their own production schedule to meet the demand According to Wanhua
+according to their own production schedule to meet the demand. According to Wanhua,
 they can run at low plant utilization or go for maintenance if they see the near term
-demand is disappointing in order to hold the ASP The fluctuation in the main feedstock
-such as benzene or toluene are not affecting the MDI prices as much
-万华化学 (600309SS)
-图表 13 Both pure and poly MDI are below the historical average
-图表 14 Both pure and poly MDI prices have fallen
-significantly since 2018
-图表 15 Spread have also declined accordingly
-Pure MDI spread vs Benzene
-Poly MDI spread vs Benzene
-万华化学 (600309SS)
-图表 16 TDI price and spread went back to periods before
-图表 17 TDI prices are 35% below the historical average
-(since 2014)
-Average 21147
-TDI price in eastern China (Rmbton)
-万华化学 (600309SS)
-Global largest MDI suppliers continue to expand their capacity Wanhua (the top
-supplier) is expanding its China Yantai and Ningbo units from 6001200ktpa to
-11001500ktpa respectively in the next two years (adding in total 800ktpa equivalent
-to a 25% increase to China capacity) They are also planning to build their first MDI unit
-(400ktpa) in the United States (Louisiana) BASF (the second large supplier) is adding
-250ktpa capacity in Geismar in the US Covestro (the third large supplier) is adding
-200ktpa capacity in Germany 100kpta capacity in China and planning 300ktpa capacity
-in Baytown in the US All three players are well-prepared to capture future demand
-growth in Asia Europe and the US
-New China domestic supplier announces capacity addition plans In addition to the
-global MDI suppliers we see new Chinese players interested in entering the MDI market
-- Fujian Connell (400ktpa Wanhua recently announced the acquisition but not yet
-of success to this highly concentrated market We think it is safe to assume that these
+demand is disappointing, in order to hold the ASP. The fluctuation in the main feedstock,
+such as benzene or toluene are not affecting the MDI prices as much.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+New supply started to come in 2020; global MDI leaders are ready for demand
+pickup globally
+Global largest MDI suppliers continue to expand their capacity: Wanhua (the top
+supplier) is expanding its China Yantai and Ningbo units from 600/1,200ktpa to
+1,100/1,500ktpa, respectively, in the next two years (adding in total 800ktpa, equivalent
+to a 25% increase to China capacity). They are also planning to build their first MDI unit
+(400ktpa) in the United States (Louisiana). BASF (the second large supplier) is adding
+250ktpa capacity in Geismar in the US. Covestro (the third large supplier) is adding
+200ktpa capacity in Germany, 100kpta capacity in China and planning 300ktpa capacity
+in Baytown in the US. All three players are well-prepared to capture future demand
+growth in Asia, Europe and the US.
+New China domestic supplier announces capacity addition plans: In addition to the
+global MDI suppliers, we see new Chinese players interested in entering the MDI market
+- Fujian Connell (400ktpa, Wanhua recently announced the acquisition but not yet
+completed) and Xinjiang Juli (400ktpa). We believe it is too early to assess their chance
+of success to this highly concentrated market. We think it is safe to assume that these
 new suppliers are not likely to cause any material implications to the MDI supply in
+China in the next three to four years, given their commission time of 2021E and 2022E
 with high chance of project delay as it is their first time accessing (could easily take
-6months for ramp up)
-图表 18 We expect China MDI utilization to go lower with
-Wanhuas new supply
-China MDI demand supply
-图表 19 New MDI supply in China is mainly from Wanhua
-Utilization %
-CompanyEntity
-2019 Total
-2020 Total
-2021 Total
-Covestro - Caojing
-2022 Total
-资料来源：公司数据 Gao Hua Securities Research
-万华化学 (600309SS)
+>6months for ramp up).
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
 Demand tracker showing weaker year-to-date data points (particularly for autos)
 Utilization near term hampered by the weak demand data points
-Based on our recent channel checks with industry consultants and corporates the MDI
+Based on our recent channel checks with industry consultants and corporates, the MDI
 and TDI plants in general are not running at high utilization at the moment (just roughly
-70%) There are a couple of scheduled maintenance periods in the summer season
-Despite the low plants utilization and maintenance MDI and TDI prices are still trending
-The latest end-application demand data are not showing recovery signal yet In
-particular the monthly auto productionsales data (one core demand driver for MDITDI)
-is still trending weak We have not yet seen material policy loosening (property or
-infrastructure spending) In the weak demand environment with low plants utilization
-new TDI capacity addition (Wanhuas plant in end-2018) has caused TDI exports to
-grow materially
+70%). There are a couple of scheduled maintenance periods in the summer season.
+Despite the low plants utilization and maintenance, MDI and TDI prices are still trending
+weak.
+The latest end-application demand data are not showing recovery signal yet. In
+particular, the monthly auto production/sales data (one core demand driver for MDI/TDI)
+is still trending weak. We have not yet seen material policy loosening (property or
+infrastructure spending). In the weak demand environment with low plants utilization,
+new TDI capacity addition (Wanhua's plant in end-2018) has caused TDI exports to
+grow materially.
 Impact on demand from US China trade tension
-MDI is a highly GDP-driven chemical product The extended trade tension between
-China and the US causes concerns around a macroeconomic slowdown We expect the
-prolonged trade issue could have a negative impact on the MDI business particularly in
-poly MDI given c32% of Chinas 2018 exports went to the US Based on monthly data
-for the industry we saw a sharp decline in Chinas poly MDI exports to the US in May
-2019 According to Wanhuas management they are able to redirect the trade flow
-internally and use their MDI units in Hungary to supply poly MDI to existing customers
-图表 20 White goods property and autos are the three main
-图表 21 Weak car sales data year-to-date
-Refrigerator
-property 12%
-Adhesives 
-Coatings  11%
-Automotive
-Pipelines 7%
-containers 6%
-vehicles 2%
-wood products
-Others 2%
-China MDI downstream application (% as of 2018)
-yoy change% (RHS)
-Production (000 unit)
-万华化学 (600309SS)
-图表 22 MDI exports pick up slightly vs 2018
-Pure and Poly MDI import export
-图表 23 TDI exports have gone much higher
-Volume (ton)
-Volume (ton)
-资料来源：China Customs 万得
-资料来源：China Customs 万得
-图表 24 Poly MDI exports to US accounts for 32% of total
-Breakdown of China poly MDI exports 2018
-图表 25 Pure MDI exports to US accounts for 8% of total
-Breakdown of China pure MDI exports 2018
-万华化学 (600309SS)
-Production flow optimization Wanhua has spent 10 years optimizing the production
+MDI is a highly GDP-driven chemical product. The extended trade tension between
+China and the US causes concerns around a macroeconomic slowdown. We expect the
+prolonged trade issue could have a negative impact on the MDI business, particularly in
+poly MDI given c.32% of China's 2018 exports went to the US. Based on monthly data
+for the industry, we saw a sharp decline in China's poly MDI exports to the US in May
+2019. According to Wanhua's management, they are able to redirect the trade flow
+internally and use their MDI units in Hungary to supply poly MDI to existing customers.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Optimization is the core competence needed to stay low at the cost curve
+Production flow optimization: Wanhua has spent 10+ years optimizing the production
+flow, scale and cost structure of its assets and product portfolio. The company's MDI
 production facilities have been revamped more than 10 times to achieve the lowest cost
-possible and be environmentally friendly (eg emission controlrecycling) We estimated
+possible and be environmentally friendly (e.g., emission control/recycling). We estimated
 the total cost savings from plant integration and optimization could amount to
-Rmb2500ton after considering their internal supply of hydrogen aniline and energy a
-better recycling of resources (eg HCL) and better fixed cost sharing (lower per unit cost
-due to higher sales volume)
-Competitive return vs global peers Wanhua is one of the lowest-cost producers
-globally We expect Wanhua to remain the top MDI supplier and start to gain market
-players only Covestro and BASF are still actively expanding MDI further in other
-countries to capture domestic demand growth However we note that Covestro and
-BASF have exposure to many other chemical products while most of Wanhuas
-chemical products exposure and high concentration industries we found limited industry
-disclosure by the leading polyurethane suppliers globally There are no clear pure-play
-图表 26 We estimated the total cost savings of Wanhuas MDI could amount to Rmb2500ton
-Chlor-alkali
-(including HCL)
-Nifebenzene plant 
-Wanhua MDI costs advantages (Rmbton)
-万华化学 (600309SS)
-图表 28 In terms of ROA Wanhua ranks second behind
-MDI cost curve latest
-万华化学 (600309SS)
-Wanhuas new growth potential - volume the first step
-Expansion plan capturing most demand growth potential in China Wanhua is planning a
+>Rmb2,500/ton after considering their internal supply of hydrogen, aniline and energy, a
+better recycling of resources (e.g. HCL) and better fixed cost sharing (lower per unit cost
+due to higher sales volume).
+Competitive return vs. global peers: Wanhua is one of the lowest-cost producers
+globally. We expect Wanhua to remain the top MDI supplier and start to gain market
+share in the TDI market (after commissioning the new plant at end-2018). Among global
+players, only Covestro and BASF are still actively expanding MDI further in other
+countries to capture domestic demand growth. However, we note that Covestro and
+BASF have exposure to many other chemical products while most of Wanhua's
+earnings are still coming from its polyurethane business only. Given the wide range of
+chemical products exposure and high concentration industries, we found limited industry
+disclosure by the leading polyurethane suppliers globally. There are no clear pure-play
+chemical companies globally we could use as a proxy.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+图表 28: In terms of ROA, Wanhua ranks second behind
+Covestro
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Wanhua's new growth potential - volume the first step
+Expansion plan capturing most demand growth potential in China: Wanhua is planning a
 25% increase in China MDI supply by expanding its Yantai and Ningbo MDI at very
-Only Covestros plant and some new domestic Chinese players are expanding
-capacity in China We do not see them as a big threat to Wanhua
-Seeking overseas market growth Wanhua is expanding its presence in the overseas
-market (5-year revenue CAGR was 36% in 2013-2018) Its new MDI plant in the US is
+competitive capex and opex (enough to absorb about 4-5 years of MDI demand growth).
+Only Covestro s plant and some new domestic Chinese players are expanding
+capacity in China. We do not see them as a big threat to Wanhua.
+Seeking overseas market growth: Wanhua is expanding its presence in the overseas
+market (5-year revenue CAGR was 36% in 2013-2018). Its new MDI plant in the US is
 one of the ways Wanhua is deploying capital and diversifying its regional exposure
-(might delay due to recent trade tension) However we also note that the gross profit
+(might delay due to recent trade tension). However, we also note that the gross profit
 margin of the overseas business is generally lower than what Wanhua can achieve
-domestically (partly due to transportation cost and penetration)
-MDI price spread to remain stable with slight downside risk in 20202021 More than half
+domestically (partly due to transportation cost and penetration).
+MDI price spread to remain stable with slight downside risk in 2020/2021: More than half
+of the MDI supply addition in 2020/2021 is coming from Wanhua. According to the
+company, they do not intend to flood the market with the additional supply but to
 maintain the price (not high enough to be demand destroying and low enough to be
-negative to share prices) For the rest of the supply addition the global demand (we
-forecast about 5% on average) is enough to offset the global supply growth leading to
-our forecasts of stable MDI pricing outlook in 20202021 back to about historical
-average MDI pricing
-construction progress for its new Yantai ethylene plant Assuming the plant is
-petrochemical segment sales further It could also benefit the specialty chemical and
+negative to share prices). For the rest of the supply addition, the global demand (we
+forecast about 5% on average) is enough to offset the global supply growth, leading to
+our forecasts of stable MDI pricing outlook in 2020/2021, back to about historical
+average MDI pricing.
+New ethylene plant commissioning a catalyst in 2H2020: Wanhua has made good
+construction progress for its new Yantai ethylene plant. Assuming the plant is
+commissioned without a material delay in ramp up, we expect Wanhua could grow
+petrochemical segment sales further. It could also benefit the specialty chemical and
 new material business as ethylene is one of the key building blocks (at least for the
-production of polyol)
-图表 30 Volume matters more than margins for Wanhua
-万华化学 (600309SS)
+production of polyol).
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
 Petrochemical plants help remove limitation in feedstock
-Integrated C3 propylene value chain In 2001 Wanhua started planning the construction
-of a POAE plant (propylene oxideacrylate ester) and put the plant into operation in
-August 2015 The unit converts LPG (imported from the Middle East) into propylene
-derivatives including propylene oxide (PO) acrylic acid (AA) and acrylate ester (AE)
+Cost-competitive petrochemical supplier
+Integrated C3 propylene value chain: In 2001, Wanhua started planning the construction
+of a PO/AE plant (propylene oxide/acrylate ester), and put the plant into operation in
+August 2015. The unit converts LPG (imported from the Middle East) into propylene
+derivatives including propylene oxide (PO), acrylic acid (AA), and acrylate ester (AE).
 Wanhua has the largest China PDH capacity per unit (propane dehydrogenation) of
-750ktpa and the third-largest China AA capacity of 300ktpa The fully integrated
+750ktpa and the third-largest China AA capacity of 300ktpa. The fully integrated
 propylene value chain enables Wanhua to earn a more stable price spread and profit
-margin (regardless of price changes for intermediate chemicals)
-Unique LPG feedstock cost advantage Wanhua has a 24mn m3 underground LPG
-storage capacity (expanded from 12mn m3) that helps it manages the high seasonality
-of LPG prices throughout the year Due to the large volume of LPG it imports Wanhua
-starting in February 2016 Wanhua has also recently signed an agreement with Abu
+margin (regardless of price changes for intermediate chemicals).
+Unique LPG feedstock cost advantage: Wanhua has a 2.4mn m3 underground LPG
+storage capacity (expanded from 1.2mn m3) that helps it manages the high seasonality
+of LPG prices throughout the year. Due to the large volume of LPG it imports, Wanhua
+began recommending prices to Saudi Arabia to help set regional LPG daily prices
+starting in February 2016. Wanhua has also recently signed an agreement with Abu
 Dhabi on a 10-year LPG supply contract for the purchase of up to 1mn tonnes of LPG
-图表 31 Propane import volume has stabilized in the past
-LPG import source breakdown
-Import (mn ton)
-资料来源：China Customs 万得
-资料来源：China Customs 万得
-万华化学 (600309SS)
-Expanding into C2 ethylene value chain In August 2017 Wanhua announced it would
-build its own ethylene value chain starting with a Rmb18bn investment in building an
-ethylene unit in Yantai The plant is designed to take LPG as a main feedstock and
-convert it into ethylene derivatives (including PVC ethylene oxide styrene) Wanhua
-图表 33 Propane import volume from the US dropped to 0
-amid the recent trade tension
-LPG import from the US
-图表 34 Propane prices are correlated with oil prices
-% of total (RHS)
-China propane import from US (000 ton)
-Jan-09 Jan-10 Jan-11 Jan-12 Jan-13 Jan-14 Jan-15 Jan-16 Jan-17 Jan-18 Jan-19
-Crude oil import price
-Propane Saudi FOB
-Propane imported price
-资料来源：China Customs 万得
-资料来源：彭博 万得
-万华化学 (600309SS)
+annually.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Expanding into C2 ethylene value chain: In August 2017, Wanhua announced it would
+build its own ethylene value chain, starting with a Rmb18bn investment in building an
+ethylene unit in Yantai. The plant is designed to take LPG as a main feedstock and
+convert it into ethylene derivatives (including PVC, ethylene oxide, styrene). Wanhua
+targets completion of the project in 2H2020 and the start of commercial operations in
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
 Value-added plant integration
-Petrochemical plants are set to resolve the feedstock constraint Wanhuas existing
-POAE unit helps supply propylene oxide the core feedstock of polyol (to be mixed with
-MDITDI to produce foams) The new ethylene unit helps supply ethylene oxide (EO)
-another core feedstock to polyol Both feedstocks are flammable and explosive and
-hence are difficult to transport Plant integration can help resolve the feedstock issue
-and reduce transportation and handling fees The new ethylene plant can also utilize the
-hydrochloric acid (HCL) produced from Wanhuas Yantai polyurethane plant and
+Petrochemical plants are set to resolve the feedstock constraint: Wanhua's existing
+PO/AE unit helps supply propylene oxide, the core feedstock of polyol (to be mixed with
+MDI/TDI to produce foams). The new ethylene unit helps supply ethylene oxide (EO),
+another core feedstock to polyol. Both feedstocks are flammable and explosive and
+hence are difficult to transport. Plant integration can help resolve the feedstock issue
+and reduce transportation and handling fees. The new ethylene plant can also utilize the
+hydrochloric acid (HCL) produced from Wanhua's Yantai polyurethane plant and
 convert it into value-added PVC for sale (previously Wanhua has had to pay a cost to
-handle the acidic HCL)
-petrochemical units could provide valuable ethylenepropylene derivatives as feedstock
+handle the acidic HCL).
+Feedstock for further specialty chemical application: We expect the completion of core
+petrochemical units could provide valuable ethylene/propylene derivatives as feedstock
+for the company's future specialty chemical and new material applications. Ethylene
 and propylene derivatives are important building blocks for a number of specialty
-chemicals (eg ethylene copolymer or high purified ethylene oxide)
-Wide range of applications with high import dependence
-Import-dependent ethylene and propylene derivatives China still requires a lot of
-ethylene and propylene derivatives Multiple products along the value chains are still
-highly dependent on overseas suppliers (eg PE polyethylene 48% ethylene glycol
-58% as of 2018) The low chemical products self-sufficiency rate was partly because
-much of these products have traditionally originated from refining (was slowly developed
-given the domination of Chinese oil majors and the generally oversupplied refining
-industry)
-Diversifying production methods The existing ethylene and propylene derivatives supply
-is still dominated by the traditional oil majors with naphtha and oil as the feedstock The
-other chemical production methods (such as CTOMTO PDH and ethane cracker) has
-developed and the increase availability of the feedstock supply eg ethane supply from
-图表 35 C2 and C3 price spread are both holding up quite
-Estimated price spread for C2 and C3 plants
-图表 36 We believe Wanhuas C3 project has a higher
+chemicals (e.g., ethylene copolymer or high purified ethylene oxide).
+图表 36: We believe Wanhua’s C3 project has a higher
 return profile than its C2 project (due to generally higher
 propylene derivative prices)
-Estimated IRR and ROE of Wanhuas C2  C3 projects
-C2C3 facilities spread (Rmbton)
-万华化学 (600309SS)
-the US propane supply from the Middle East and the US etc There are an increasing
-Wide range of applications that are still growing There are a wide range of
-end-applications including consumer plastics coating materials and adhesives Most of
-Chinas ethylene and propylene derivatives demand could grow at a rate higher than
-that of China GDP growth The high rates of urbanization and the consumption upgrades
-are incentivizing more of this consumption growth According to the recent plastic report
-and global plastic demand model we expect global virgin plastics demand to grow 32%
-over next decade in our base case
-construction progress for its new Yantai ethylene plant Assuming the plant is
-petrochemical segment sales further It could also benefit the specialty chemical and
+Estimated IRR and ROE of Wanhua's C2 & C3 projects
+Wide range of applications with high import dependence
+Import-dependent ethylene and propylene derivatives: China still requires a lot of
+ethylene and propylene derivatives. Multiple products along the value chains are still
+highly dependent on overseas suppliers (e.g., PE polyethylene 48%, ethylene glycol
+58% as of 2018). The low chemical products’ self-sufficiency rate was partly because
+much of these products have traditionally originated from refining (was slowly developed
+given the domination of Chinese oil majors and the generally oversupplied refining
+industry).
+Diversifying production methods: The existing ethylene and propylene derivatives supply
+is still dominated by the traditional oil majors with naphtha and oil as the feedstock. The
+other chemical production methods (such as CTO/MTO, PDH and ethane cracker) has
+only become possible in recent few years after the economic conversion technology was
+developed and the increase availability of the feedstock supply, e.g. ethane supply from
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+the US, propane supply from the Middle East and the US, etc. There are an increasing
+portion of private companies investing into this industry.
+Wide range of applications that are still growing: There are a wide range of
+end-applications, including consumer plastics, coating materials, and adhesives. Most of
+the products are GDP-linked and are competitively priced globally. We generally believe
+China's ethylene and propylene derivatives demand could grow at a rate higher than
+that of China GDP growth. The high rates of urbanization and the consumption upgrades
+are incentivizing more of this consumption growth. According to the recent plastic report
+and global plastic demand model, we expect global virgin plastics demand to grow 3.2%
+over next decade in our base case.
+New ethylene plant commissioning a catalyst in 2H2020: Wanhua has made good
+construction progress for its new Yantai ethylene plant. Assuming the plant is
+commissioned without a material delay in ramp up, we expect Wanhua could grow
+petrochemical segment sales further. It could also benefit the specialty chemical and
 new material business as ethylene is one of the key building blocks (at least for the
-production of polyol)
-万华化学 (600309SS)
-Source China Industry Information CPCIA Modern Chemical Industry Kunlun Consulting Gao Hua Securities Research
-EOEG 24%
-Others 6%
-Consumed in the form of 
-Imported in the form of 
-2010                             2015                             2018
-Butanol  Octanol 8%
-Phenol  Acetone 4%
-Others 5%
-Consumed in the form of 
-Imported in the form of 
-2010                             2015                             2018
-Butanol  Octanol
-Phenol  Acetone
-Coal  Methanol
-by-product
-capacity %
-capacity %
- projects
- projects
-construction
-Propane dehydrogenation
-(imports from
-Middle East  US)
-(import from US)
-CoalMethanol
-(rich coal
-Refining by-product
-万华化学 (600309SS)
+production of polyol).
+2019年8月5日
+Source: China Industry Information, CPCIA, Modern Chemical Industry, Kunlun Consulting, Gao Hua Securities Research
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
 Specialty chemical capability still needs time to take off
-Steadily growing specialty chemical and new materials Wanhua has separately
+Steadily growing specialty chemical and new materials: Wanhua has separately
 disclosed the financial performance of its specialty chemical and new material business
-segment starting in 2016 The segment revenue is growing rapidly (2016-2018 CAGR of
-44%) but only contributed about 10% of Wanhuas gross profit as of FY2018 The
-gross profit margin during 2016-2018 stayed at around 30%-40% slightly lower than that
-of polyurethane but much higher than petrochemicals
-Multiple chemical branches According to Wanhuas latest reporting the specialty
-chemical and new material segment includes surface material TPU SAP PC modified
-isocyanate specialty amines etc Wanhua has set up relevant business units
-accordingly 1) performance material (eg TPU) 2) performance chemicals (eg HDI
-IPDI HMDI IPDA) and 3) surface material (eg coatings and adhesives acrylic
-Slow but sustainable high-quality earning growth High-performance functional
-to application  penetration Although we note that Wanhua is diversifying its products
+segment starting in 2016. The segment revenue is growing rapidly (2016-2018 CAGR of
+44%) but only contributed about 10% of Wanhua's gross profit as of FY2018. The
+gross profit margin during 2016-2018 stayed at around 30%-40%, slightly lower than that
+of polyurethane but much higher than petrochemicals.
+Multiple chemical branches: According to Wanhua s latest reporting, the specialty
+chemical and new material segment includes surface material, TPU, SAP, PC, modified
+isocyanate, specialty amines, etc. Wanhua has set up relevant business units
+accordingly: 1) performance material (e.g., TPU); 2) performance chemicals (e.g. HDI,
+IPDI, HMDI, IPDA); and 3) surface material (e.g., coatings and adhesives, acrylic
+emulsion, waterbourne polyurethane dispersion). The company might set up PC and
+PMMA units after the completion of new plants.
+Slow but sustainable high-quality earning growth: High-performance functional
+chemicals can take multiple years to develop, from R&D to commercial production and
+to application & penetration. Although we note that Wanhua is diversifying its products,
 we believe it is too early to count on the success of these efforts given that they are in
-the early stages of development For instance the new PC and PMMA capacity
-additions are good milestones as Wanhua moves to diversify its product offering but
-chemicals) with a high degree of specialization and low demand replacement
-图表 37 We expect the specialty chemical and new material contribution to total gross profit to
-increase further to 12% by 2021E
-GP as a % of total (RHS)
-Specialty chemical and new material
-资料来源：公司数据 Gao Hua Securities Research
-万华化学 (600309SS)
-We briefly introduce the dynamics of some core products exposure in the charts below
+the early stages of development. For instance, the new PC and PMMA capacity
+additions are good milestones as Wanhua moves to diversify its product offering, but
+those products would not be classified as real specialty chemicals if we compare them to
+other global chemical companies. By growing its functional chemical division, we expect
+Wanhua can earn a relatively high and stable return (compared to traditional commodity
+chemicals) with a high degree of specialization and low demand replacement.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+We briefly introduce the dynamics of some core products exposure in the charts below:
 Polycarbonate (PC)
-图表 38 PC is still highly dependent on imports but domestic
-production is catching up
-PC production apparent demand and import dependence
-图表 39 PC import volume is gradually increasing
-PC import export data
-Import dependence (RHS)
-资料来源：CPCIA
-资料来源：China customs 万得
-图表 40 PC price spread vs Bisphenol A (feedstock) has
-narrowed in recent months
+PC production, apparent demand and import dependence
 PC and Bisphenol A prices and their price spread
-图表 41 PC is mainly used in electronic appliances
-automobile and building materials
-China PC demand application 2017
-资料来源：CPCIA
-万华化学 (600309SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
 (Poly) methyl methacrylate (MMA and PMMA)
+图表 43: PMMA is mainly uses advertising and electronics in
+China
+PMMA production, apparent demand and its import dependence
 Thermoplastic polyurethane (TPU)
-图表 42 Domestic PMMA is growing sharply closing the gap
-PMMA production apparent demand and its import dependence
-图表 43 PMMA is mainly uses advertising and electronics in
-China PMMA demand application 2017
-资料来源：CPCIA
-资料来源：CPCIA
-图表 44 Healthy price spread between PMMA and MMA
-图表 45 A steady import volume still much
-PMMA import and export
-资料来源：China Customs 万得
-图表 46 Most TPU are used as shoe material and adhesive
-TPU global demand application 2017
-图表 47 China TPU export volume continues to grow
-TPU import export data
-资料来源：CPCIA
-资料来源：China customs 万得
-万华化学 (600309SS)
+全球投资研究
+万华化学 (600309.SS)
 Financials and valuation
-Growth Wanhua has achieved impressive revenue and earnings growth in past
+Income Statement
+Growth: Wanhua has achieved impressive revenue and earnings growth in past
 decades thanks to its continuous capacity growth (not only in MDI but also in TDI and
-petrochemicals) We expect Wanhua will continue to be the market leader in
-polyurethane and expand MDI capacity at both its Yantai and Ningbo sites based on the
-latest expansion in progress We also expect Wanhuas ethane project will be
-contributing to earnings in 2021 We forecast Wanhua to achieve a revenue CAGR of
-Margin Wanhuas 2019E margin is hit by the year-to-date weak MDI and TDI prices
-(partly due the to weak economic environment) We forecast gross profit margin to
-recover from 37% in 2019 to 41% in 2020E mainly due to a higher contribution from
-high-margin polyurethane and specialty chemical businesses
-图表 48 Weak 2019E EBITDA to reflect the year-to-date MDI
-and TDI spread (partly due to the weak economic
-environment)
-图表 49 We expect petrochemical and specialty chemicals
-earnings contribution to increase further in 2021E
-EBITDA (Rmb mn)
-yoy change (%)
-Gross profits breakdown
-万华化学 (600309SS)
-图表 50 We forecast polyurethane margins to fall in 2019
-图表 51 We expect a gradual recovery in both ROE and
-ROA into 20202021E
-GP margin by segments (%)
-万华化学 (600309SS)
-Gearing We expect Wanhuas net-debt-to-equity will increase to 63% in 2019E to fund
-the new ethylene project and the MDI expansions That gearing will decline over time as
-the operating cash flow starts to increase
-ROE We forecast ROE and ROA to dip in 2019 (weak margins) and rebound in 2020E
-and 2021E (TDI MDI and ethylene projects start to contribute to earnings)
-Capex We forecast higher capex in 2019-2020E mainly for the Yantai ethylene project
-We expect capex will start to decline in 2021E
-Dividend We expect the heavy capex cycle and weak 2019E margin will not be
-supportive of a high dividend payout We forecast Wanhuas dividend payout to be
-maintained at 52% in 2019E-2021E
-图表 52 Wanhua saw financing pressure peak in 2014-2015
-图表 53 Much stronger cash flow profile is enough to fund
-both capex and dividend
-Net-debt-to-equity (%)
-Net Cash Flow from Operations
-(Acquisitions)Divestments
-Debt Raised(Repaid)
-Cash summary (Rmb mn)
-资料来源：公司数据 Gao Hua Securities Research
-图表 54 We forecast higher 2019-2020E capex mainly for
-the new ethylene project
-图表 55 The heavy capex cycle is not supportive for a high
-dividend payout in 2019E
-yoy change % (RHS)
-CAPEX (Rmb mn)
-Dividend yield (RHS)
-资料来源：公司数据 Gao Hua Securities Research
-万华化学 (600309SS)
-Our 12-month target price of Rmb470 is based on 70X forward EVEBITDA (applied to
-a simple average of 2020E21E EBITDA) discounted back using a discount rate of 10%
-(our estimate of Wanhuas weighted average cost of capital) We use EVEBITDA as
+petrochemicals). We expect Wanhua will continue to be the market leader in
+polyurethane and expand MDI capacity at both its Yantai and Ningbo sites, based on the
+latest expansion in progress. We also expect Wanhua's ethane project will be
+commissioned near end-2020 (construction began in December 2018), and start
+contributing to earnings in 2021. We forecast Wanhua to achieve a revenue CAGR of
+17% in 2019-2021E.
+Margin: Wanhua's 2019E margin is hit by the year-to-date weak MDI and TDI prices
+(partly due the to weak economic environment). We forecast gross profit margin to
+recover from 37% in 2019 to 41% in 2020E, mainly due to a higher contribution from
+high-margin polyurethane and specialty chemical businesses.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Balance sheet
+Gearing: We expect Wanhua's net-debt-to-equity will increase to 63% in 2019E to fund
+the new ethylene project and the MDI expansions. That gearing will decline over time as
+the operating cash flow starts to increase.
+ROE: We forecast ROE and ROA to dip in 2019 (weak margins) and rebound in 2020E
+and 2021E (TDI, MDI and ethylene projects start to contribute to earnings).
+Cash flow statement
+Capex: We forecast higher capex in 2019-2020E, mainly for the Yantai ethylene project.
+We expect capex will start to decline in 2021E.
+Dividend: We expect the heavy capex cycle and weak 2019E margin will not be
+supportive of a high dividend payout. We forecast Wanhua's dividend payout to be
+maintained at 52% in 2019E-2021E.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Valuation
+Our 12-month target price of Rmb47.0 is based on 7.0X forward EV/EBITDA (applied to
+a simple average of 2020E/21E EBITDA), discounted back using a discount rate of 10%
+(our estimate of Wanhua's weighted average cost of capital). We use EV/EBITDA as
 our primary valuation methodology as we view EBITDA as a better representation of
-consistent with the valuation approach we take both globally and regionally The target
-to factor in near-term weak MDITDI margins vs the historical average
-图表 56 Wanhua is trading at its historical average
-图表 57 Wanhua is trading at its historical average PE
-Average 83
-1 SD 109
--1 SD 56
-12-month rolling forward EVEBITDA (X)
-Average 114
-1 SD 158
--1 SD 701
-12-month rolling forward PE (X)
-资料来源：公司数据 Datastream Gao Hua Securities Research
-图表 58 Wanhua is trading at its historical average PB
-图表 59 Wanhua valuation summary
-Average 28
-1 SD 44
--1 SD 12
-12-month rolling forward PB (X)
-EBITDA (Rmb mn)
-Blended 20-21E EBITDA
-Target EVEBITDA multiple (x)
-Implied EV (Nominal)
-Implied EV (Discounted)
-Implied EVEBITDA multiple
-Net debt  (cash) (as of end-2018)
-Minority interest (as of end-2018)
-Equity value (Rmb mn)
-Number of shares (mn)
-Target price (Rmbsh)
-资料来源：公司数据 Datastream Gao Hua Securities Research
-万华化学 (600309SS)
-图表 60 Wanhuas summary financial
-Profit model (Rmb mn)
-Balance sheet (Rmb mn)
-Cash  equivalents
-Other operating profit(expense)
-Depreciation  amortization
-Other long-term assets
-Short-term debt
-Other current liabilities
-Total current liabilities
-Long-term debt
-Other long-term liabilities
-Total long-term liabilities
-Post-tax exceptionals
-EPS (basic pre-except) (Rmb)
-EPS (basic post-except) (Rmb)
-EPS (diluted post-except) (Rmb)
-Total liabilities  equity
-Dividend payout ratio (%)
-BVPS (Rmb)
-Free cash flow yield (%)
-Growth  margins (%)
-Cash flow statement (Rmb mn)
-DA add-back
-Minorities interests add-back
-Net (inc)dec working capital
-Other operating cash flow
-Cash flow from operations
-Cash flow from investments
-Inc(dec) in debt
-Common stock issuance (repurchase)
-Other financing cash flows
-Cash flow from financing
-Note Last actual year may include reported and estimated data
-Source Company data Goldman Sachs Research estimates
-万华化学 (600309SS)
-What would make us more positive
-1) Street consensus turns more realistic (we are c15% below Bloomberg consensus
-estimates for 2019)
+cash-generating ability than earnings for established chemical companies, and this is
+consistent with the valuation approach we take both globally and regionally. The target
+multiple we used (7.0X) is the same as what we apply to global commodity chemical
+companies; which is below Wanhua's long-term historical average of 8.3X since listing,
+to factor in near-term weak MDI/TDI margins vs. the historical average.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+What would make us more positive?
+We could become more constructive on the shares if:
+1) Street consensus turns more realistic (we are c.15% below Bloomberg consensus
+estimates for 2019).
 2) The shares begin pricing in too much of an economic downturn and we start to expect
-goods sales etc)
+potential for a recovery in macro data points (e.g., auto sales, property completion, white
+goods sales, etc.)
+3) The volume growth story starts to come into sight (i.e., ethane cracker will be
+commissioned in 2H2020; MDI capacity expansion likely in mid-2020).
 4) Any supply disruption occurs globally (it happens in 2017 when 2 overseas plants
 were shut down for 3-6 months)
-万华化学 (600309SS)
-The key risks include
-Product margins (-) Better-worse-than-expected product margins (particularly MDI
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+Key risks
+The key risks include:
+Product margins (+/-): Better-/worse-than-expected product margins (particularly MDI,
 an easy-to-track pricing where Wanhua has the highest exposure) due to its respective
-demandsupply dynamics For instance better-than-expected product demand is
-This can be due to unscheduled maintenance operational accidents bad weather or
-feedstock shortages A high portion of the MDI facilities are more than 20 years old
-implying a higher chance of supply disruption We see this as a temporary upside risk to
-prices spreads and margins
-Project delays (-) Our estimates for Wanhua Chemical assume specific
-lower-than-expected earnings There are multiple reasons that could result in project
-delays (eg engineeringconstruction delay failure in trial production run etc)
-Feedstock cost volatility (-) While Wanhua is already benefiting from its highly
-change in feedstock cost (eg LPG and benzene)
-Operational risks (-) The chemical industry is a high-risk business that involves a lot of
-toxic and explosive materials There are occasional accidentsexplosions globally that
-RD success (-) RD is a very important element behind the growth of the
-polyurethane and specialty chemical business It is a time-consuming and expensive
-process that is difficult to time the success of We believe any breakthrough will create
-step changes to our expectation to future earnings
-万华化学 (600309SS)
-Across our global coverage we examine stocks using an MA framework considering
+demand/supply dynamics. For instance, better-than-expected product demand is
+positive for both prices and spreads and hence the company's earnings.
+Supply disruption (+): It is common to see supply disruptions for MDI plants globally.
+This can be due to unscheduled maintenance, operational accidents, bad weather, or
+feedstock shortages. A high portion of the MDI facilities are more than 20 years old,
+implying a higher chance of supply disruption. We see this as a temporary upside risk to
+prices, spreads and margins.
+Project delays (-): Our estimates for Wanhua Chemical assume specific
+ramp-up/commissioning timelines for its new ethylene cracker. Any delay in the
+commission time and slower-than-expected pace of ramp-up could lead to
+lower-than-expected earnings. There are multiple reasons that could result in project
+delays (e.g., engineering/construction delay, failure in trial production run, etc.).
+Feedstock cost volatility (+/-): While Wanhua is already benefiting from its highly
+integrated production flow, the company's earnings are still affected by any material
+change in feedstock cost (e.g., LPG and benzene).
+Operational risks (-): The chemical industry is a high-risk business that involves a lot of
+toxic and explosive materials. There are occasional accidents/explosions globally that
+can lead to plant suspension or compensation.
+R&D success (+/-): R&D is a very important element behind the growth of the
+polyurethane and specialty chemical business. It is a time-consuming and expensive
+process that is difficult to time the success of. We believe any breakthrough will create
+step changes to our expectation to future earnings.
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+M&A score
+Across our global coverage, we examine stocks using an M&A framework, considering
 both qualitative factors and quantitative factors (which may vary across sectors and
-acquisition target 2 representing medium (15%-30%) probability and 3 representing low
-rank of 3 is considered immaterial and therefore does not factor into our price target and
-may or may not be discussed in research
-Under our MA framework for the Asia Pacific Energy and Chemical sector we
-recognize a myriad of factors could influence the probability of a deal and our regional
-Regulation on ownership that prohibits or discourages acquisitions including by a
-foreign entity on grounds of national security
-realization of planned synergy and restructuring upside
-Management stance in terms of its openness to a deal (eg being the target of an
-acquisition or management buyout) especially by government appointees
-entry barrier (eg monopoly) or a low cost structure
+regions) to incorporate the potential that certain companies could be acquired. We then
+to 3, with 1 representing high (30%-50%) probability of the company becoming an
+acquisition target, 2 representing medium (15%-30%) probability and 3 representing low
+(0%-15%) probability. For companies ranked 1 or 2, in line with our standard
+departmental guidelines we incorporate an M&A component into our target price. M&A
+rank of 3 is considered immaterial and therefore does not factor into our price target, and
+may or may not be discussed in research.
+Under our M&A framework for the Asia Pacific Energy and Chemical sector, we
+recognize a myriad of factors could influence the probability of a deal, and our regional
+team sees the following as five key common denominators:
+Regulation on ownership that prohibits or discourages acquisitions, including by a
+foreign entity, on grounds of national security.
+Regulatory risks that discourage potential buyers from an acquisition and complicate
+realization of planned synergy and restructuring upside.
+Management stance in terms of its openness to a deal (e.g., being the target of an
+acquisition or management buyout), especially by government appointees.
+Strategic assets that offer the owners a strong competitive advantage due to a high
+entry barrier (e.g., monopoly) or a low cost structure.
 Industry attractiveness based on a growing profit pool as a function of asset
-expansion revenue growth or profitability improvement
-Within this context we have ranked Wanhua Chemical a 3 and weight our MA
+expansion, revenue growth, or profitability improvement.
+Within this context, we have ranked Wanhua Chemical a "3" and weight our M&A
 value by 0% (reflecting the probability implied by this ranking) within our target price
-methodology
-图表 62 Summary of MA score
-万华化学 (600309SS)
-图表 63 Wanhuas summary table
-Wanhua Chemical (600309SS)
-Before BC acquisition
-Profit  Loss (Rmb mn)
-Net interest expenses
-Pre-tax profit
-Shares outstanding (mn)
-Dividend payout ratio (%)
-Balance Sheet (Rmb mn)
-Other long-term assets
-Other Current Liabilities
-Total current liabilities
-Other long-term liabilities
-Total liabilities  equity
-Cash Flow Analysis (Rmb mn)
-Cash flow from operations
-Gross profits by division (after DDA Rmb mn)
-Other non-core business
-Valuation and key ratios
-Equity value (Rmb mn)
-EVEBITDA (x)
-Sales growth (%)
-EBITDA growth (%)
-Net profit growth (%)
-Net Debt (Rmb mn)
-Net debt EBITDA (x)
-万华化学 (600309SS)
-图表 64 Wanhuas production workflow
-Sole Material
-图表 65 Wanhuas ownership structure
-State-owned
-Employee-owned
-万华化学 (600309SS)
+methodology.
+图表 62: Summary of M&A score
+Appendix
+Publishing
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+2019年8月5日
+全球投资研究
+万华化学 (600309.SS)
+信息披露附录
+本人，朱金巧，在此申明，本报告所表述的所有观点准确反映了本人对上述公司或其证券的个人看法。此外，本人薪金的任何部分不曾与，不与，也将不
 会与本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增
 长、回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下:
 增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本
-回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EVFCF、EVEBITDA、EVDACF、市净率。 波动性根据
+回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据
 12个月的历史波动性计算并经股息调整。
+并购评分
 在我们的全球覆盖范围中，我们使用并购框架来分析股票，综合考虑定性和定量因素（各行业和地区可能会有所不同）以计入某些公司被收购的可能性。
 然后我们按照从1到3对公司进行并购评分，其中1分代表公司成为并购标的的概率较高(30%-50%)，2分代表概率为中等(15%-30%)，3分代表概率较低
-(0%-15%)。对于评分为1或2的公司，我们按照研究部统一标准将并购因素体现在我们的目标价格当中。并购评分为3被认为意义不大，因此不予体现在
+Quantum
 Quantum是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比
+GS SUSTAIN
 GS SUSTAIN是一项侧重于通过发现优质行业领先企业而实现长期超额收益的全球投资策略。GS SUSTAIN 50关注名单列出了我们认为凭借出色的资本
 回报、具有可持续性的竞争优势和对ESG（环境、社会和企业治理）风险的有效管理而有望在长期内相对于全球同业表现出色的行业领军企业。候选企
 业主要基于对企业在这三方面表现的综合量化分析筛选而出。
-朱金巧：亚洲化工行业。
-亚洲化工行业：Daoming Optics  Chemical、Hengli Petrochemical Co、Lomon Billions Group、Rongsheng Petrochemical Co、Sinopec Shanghai
-Petrochemical (A)、Sinopec Shanghai Petrochemical (H)、Tongkun Group Co、Wanhua Chemical Group、Weihai Guangwei、Yantai Tayho、
+相关的股票研究范围
+朱金巧: 亚洲化工行业。
+亚洲化工行业: Daoming Optics & Chemical、Hengli Petrochemical Co.、Lomon Billions Group、Rongsheng Petrochemical Co.、Sinopec Shanghai
+Petrochemical (A)、Sinopec Shanghai Petrochemical (H)、Tongkun Group Co.、Wanhua Chemical Group、Weihai Guangwei、Yantai Tayho、
 Zhejiang Satellite。
-高盛高华在今后3个月中预计将从下述公司获得或寻求获得投资银行服务报酬： Wanhua Chemical Group (Rmb4182)
+信息披露
+与公司有关的法定披露
+的公司之间的关系。
+高盛高华在今后3个月中预计将从下述公司获得或寻求获得投资银行服务报酬: Wanhua Chemical Group (Rmb41.82)
 公司评级、研究行业和相关定义
 回报决定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地
-区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模和或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将
-标价格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予
+区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模和/或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将
 以除去。 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票
 给予投资评级和价格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经
 暂停对该公司的研究。 没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因
-本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整
-性，客户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会
-我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们
-的资产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
-万华化学 (600309SS)
-该股的基本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
-在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到
-个别客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意
-见。本报告中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失
-某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自
-这一投资的收入产生不良影响。
-当前期权和期货的披露文件。对于包含多重期权买卖的期权策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要
-全球投资研究部提供的不同服务层级：根据您对接收沟通信息的频率和方式的个人偏好、您的风险承受能力、投资重心和视角（例如整体市场、具体行
-票评级、目标价格或盈利预测大幅调整）的改变，在被纳入研究报告、并通过电子形式发表在内部客户网上或通过其它必要方式向有权接收此类研究报告
-的所有客户大范围发布之前，不得向任何客户透露。
-市场或资产类别（包括相关服务）的研究报告、模型或其它数据，请联络您的高华销售代表。
-万华化学 (600309SS)
+此不包括在报告内。
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。

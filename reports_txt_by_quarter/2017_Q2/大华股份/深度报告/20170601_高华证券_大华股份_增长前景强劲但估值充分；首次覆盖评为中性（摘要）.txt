@@ -1,3525 +1,416 @@
- 
-2017 年5 月31 日 
- 
-首次评级 
-大华股份 (002236.SZ) 
-中性 
-证券研究报告
-增长前景强劲但估值充分；首次覆盖评为中性 (摘要) 
-投资观点 
-我们认为大华将继续在整合之中的安防行业赢得市场份额。截至2016 年，大华
+首次评级
+大华股份 (002236.SZ)
+增长前景强劲但估值充分；首次覆盖评为中性 (摘要)
+投资观点
+我们认为大华将继续在整合之中的安防行业赢得市场份额。截至 2016 年，大华
 股份是国内第二大、全球第四大视频监控设备及解决方案供应商。我们还预计
 随着竞争趋于理性，小企业利润率下降，公司的毛利率将有所改善，且转型后
-解决方案业务在收入中的占比将上升。我们预计2016-19 年公司收入年均复合
-增速将为32%，盈利年均复合增速将为24%，得益于公司对营销网络和研发实
-力的持续投入。然而，鉴于我们的12 个月目标价格为人民币19.00 元，仅意味
-着4%的上行空间，我们首次覆盖该股给予中性评级。 
- 
-主要增长动力 
-(1) 海外：未来三年，我们预计海外市场的收入对大华增长的贡献将占三分之
-二，在总收入中的占比将从2016 年的38%升至50%。大华已经从一家
-OEM/ODM 企业转型为拥有自主品牌的解决方案供应商。(2) 解决方案：在经过
-两年从侧重于分销渠道的产品供应商向整体解决方案服务提供商的转型后，
-2016 年大华股份的解决方案业务收入在其国内市场占到50%左右的份额，并向
+解决方案业务在收入中的占比将上升。我们预计 2016-19 年公司收入年均复合
+增速将为 32%, 盈利年均复合增速将为 24%, 得益于公司对营销网络和研发实
+着 4%的上行空间,我们首次覆盖该股给予中性评级。
+主要增长动力
+(1) 海外:未来三年,我们预计海外市场的收入对大华增长的贡献将占三分之
+二,在总收入中的占比将从2016年的38%升至50%。大华已经从一家
+OEM/ODM 企业转型为拥有自主品牌的解决方案供应商。(2) 解决方案: 在经过
+两年从侧重于分销渠道的产品供应商向整体解决方案服务提供商的转型后,
+2016 年大华股份的解决方案业务收入在其国内市场占到 50%左右的份额, 并向
 海外市场挺进。我们预计解决方案业务的比重将会继续上升，推动公司盈利能
-力改善。 
-风险 
-政府支出波动，竞争激烈程度改变。 
-估值 
-我们将行业平均市盈率20 倍乘以大华2018 年预期每股盈利，得出12 个月目标
-价格人民币19.0 元。 
-行业背景 
-安防行业正在经历整合，大企业将从中受益。2016 年下半年行业需求复苏，价
-格竞争缓和。 
-*全文翻译随后提供 
-所属投资名单 
-中性  
-   
-  
-行业评级： 中性 
-      
-侯雪婷     执业证书编号: S1420515060001 
-+86(21)2401-8694 tina.hou@ghsl.cn 北京高华证券有限责任公司 
-北京高华证券有限责任公司及其关联机构与其研究报告所分析的企业
-存在业务关系，并且继续寻求发展这些关系。因此，投资者应当考虑
-到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告
-为作出投资决策的唯一因素。 有关分析师的申明和其他重要信息，见
-信息披露附录，或请与您的投资代表联系。   
-        
-      
-        
-      
-        
-      
- 
- 
-北京高华证券有限责任公司 
- 
-投资研究
-增长
-回报*
-估值倍数
-波动性
-大华股份(002236.SZ)
-A股电信与科技行业平均水平
-投资摘要
-低
-高
-百分位
-20th
-40th
-60th
-80th
-100th
-* 回报- 资本回报率
-投资摘要指标的全面描述请参见本
-报告的信息披露部分。
-主要数据
-当前
-股价(Rmb)
-18.26
-12个月目标价格(Rmb)
-19.00
-市值(Rmb mn / US$ mn)
-52,943.3 / 7,716.6
-外资持股比例(%)
---
-12/16
-12/17E
-12/18E
-12/19E
-每股盈利(Rmb) 新
-0.63
-0.80
-0.97
-1.20
-每股盈利调整幅度(%)
---
---
---
---
-每股盈利增长(%)
-33.0
-27.8
-20.9
-23.0
-每股摊薄盈利(Rmb) 新
-0.63
-0.80
-0.97
-1.20
-市盈率(X)
-22.2
-22.7
-18.8
-15.3
-市净率(X)
-4.9
-5.2
-4.2
-3.4
-EV/EBITDA(X)
-24.5
-24.6
-19.2
-14.9
-股息收益率(%)
-0.7
-0.7
-0.8
-1.0
-净资产回报率(%)
-24.8
-25.3
-24.8
-24.7
-CROCI(%)
-21.6
-29.0
-26.8
-25.7
+力改善。
+政府支出波动，竞争激烈程度改变。
 股价走势图
-3,000
-3,100
-3,200
-3,300
-3,400
-3,500
-3,600
-3,700
 3,800
-12
-13
-14
-15
-16
-17
-18
-19
-20
-May-16
-Aug-16
+3,700
+我们将行业平均市盈率 20 倍乘以大华 2018 年预期每股盈利, 得出 12 个月目标
+3,600
+价格人民币 19.0 元。
+3,500
+3,400
+3,300
+行业背景
+3,200
+安防行业正在经历整合,大企业将从中受益。2016年下半年行业需求复苏,价
+3,100
+格竞争缓和。
+3,000
 Dec-16
 Mar-17
-大华股份
-(左轴)
-沪深300指数
-(右轴)
-  
-股价表现(%)
-3个月
-6个月
-12个月
-绝对
-23.0
-29.0
-42.5
-相对于沪深300指数
-22.1
-31.2
-25.6
-资料来源：公司数据、高盛研究预测、FactSet（股价为5/26/2017收盘价）
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-2 
-大华股份： 财务数据概要 
-对此报告有贡献的人员 
-侯雪婷 
-tina.hou@ghsl.cn 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-损益表(Rmb mn)
-12/16
-12/17E
-12/18E
-12/19E
-资产负债表(Rmb mn)
-12/16
-12/17E
-12/18E
-12/19E
-主营业务收入
-13,329.1
-17,968.0
-23,643.3
-30,370.0
-现金及等价物
-2,758.8
-2,432.2
-1,938.8
-1,426.8
-主营业务成本
-(8,303.3)
-(11,111.3)
-(14,483.2)
-(18,510.0)
-应收账款
-7,587.5
-10,228.1
-13,458.8
-17,287.9
-销售、一般及管理费用
-(2,129.9)
-(2,977.8)
-(4,124.7)
-(5,366.4)
-存货
-2,204.6
-2,950.2
-3,845.5
-4,914.6
-研发费用
-(1,424.9)
-(1,920.8)
-(2,527.4)
-(3,246.5)
-其它流动资产
-434.4
-434.4
-434.4
-434.4
-其它营业收入/（支出）
-0.0
-0.0
-0.0
-0.0
-流动资产
-12,985.3
-16,044.9
-19,677.4
-24,063.6
-员工股票期权费用
---
---
---
---
-固定资产净额
-980.3
-1,523.3
-2,219.7
-3,093.9
-EBITDA
-1,589.9
-2,102.5
-2,710.8
-3,523.3
-无形资产净额
-191.3
-174.8
-158.4
-142.0
-折旧和摊销
-(118.8)
-(144.3)
-(202.8)
-(276.2)
-长期投资
-776.6
-776.6
-776.6
-776.6
-EBIT
-1,471.0
-1,958.2
-2,508.0
-3,247.1
-其它长期资产
-432.9
-432.9
-432.9
-432.9
-利息收入
-81.9
-141.1
-124.4
-99.2
-资产合计
-15,366.4
-18,952.5
-23,265.1
-28,509.0
-财务费用
-0.0
-(9.9)
---
---
-联营公司
-0.0
-0.0
-0.0
-0.0
-应付账款
-4,644.9
-6,215.6
-8,101.9
-10,354.5
-其它
-459.4
-485.1
-475.2
-475.2
-短期贷款
-956.9
-956.9
-956.9
-956.9
-税前利润
-2,012.3
-2,574.5
-3,107.6
-3,821.5
-其它流动负债
-1,115.9
-1,196.5
-1,273.9
-1,376.8
-所得税
-(202.2)
-(269.2)
-(310.8)
-(382.2)
-流动负债
-6,717.7
-8,369.1
-10,332.7
-12,688.2
-少数股东损益
-15.1
-27.7
-23.3
-28.6
-长期贷款
-52.7
-52.7
-52.7
-52.7
-优先股股息前净利润
-1,825.2
-2,333.0
-2,820.1
-3,468.0
-其它长期负债
-170.2
-170.2
-170.2
-170.2
-优先股息
-0.0
-0.0
-0.0
-0.0
-长期负债
-223.0
-223.0
-223.0
-223.0
-非经常性项目前净利润
-1,825.2
-2,333.0
-2,820.1
-3,468.0
-负债合计
-6,940.6
-8,592.0
-10,555.7
-12,911.2
-税后非经常性损益
-0.0
-0.0
-0.0
-0.0
-净利润
-1,825.2
-2,333.0
-2,820.1
-3,468.0
-优先股
-0.0
-0.0
-0.0
-0.0
-普通股权益
-8,237.0
-10,199.4
-12,571.5
-15,488.6
-每股基本盈利（非经常性项目前）(Rmb)
-0.63
-0.80
-0.97
-1.20
-少数股东权益
-188.8
-161.1
-137.8
-109.2
-每股基本盈利（非经常性项目后）(Rmb)
-0.63
-0.80
-0.97
-1.20
-每股摊薄盈利（非经常性项目后）(Rmb)
-0.63
-0.80
-0.97
-1.20
-负债及股东权益合计
-15,366.4
-18,952.5
-23,265.1
-28,509.0
-不含员工股票期权费用的每股盈利(基本)
---
---
---
---
-不含员工股票期权费用的每股盈利(摊薄)
---
---
---
---
-每股净资产(Rmb)
-2.84
-3.52
-4.34
-5.34
-每股股息(Rmb)
-0.10
-0.13
-0.15
-0.19
-股息支付率(%)
-15.9
-15.9
-15.9
-15.9
-自由现金流收益率(%)
-(0.2)
-(0.1)
-(0.2)
-(0.1)
-比率
-12/16
-12/17E
-12/18E
-12/19E
-增长率和利润率(%)
-12/16
-12/17E
-12/18E
-12/19E
-CROCI(%)
-21.6
-29.0
-26.8
-25.7
-主营业务收入增长率
-32.3
-34.8
-31.6
-28.5
-净资产回报率(%)
-24.8
-25.3
-24.8
-24.7
-EBITDA增长率
-14.6
-32.2
-28.9
-30.0
-总资产回报率(%)
-13.6
-13.6
-13.4
-13.4
-EBIT增长率
-13.6
-33.1
-28.1
-29.5
-平均运用资本回报率(%)
-29.0
-28.0
-25.9
-24.9
-净利润增长率
-33.0
-27.8
-20.9
-23.0
-存货周转天数
-81.8
-84.7
-85.6
-86.4
-每股盈利增长
-33.0
-27.8
-20.9
-23.0
-应收账款周转天数
-188.5
-181.0
-182.8
-184.8
-毛利率
-37.7
-38.2
-38.7
-39.1
-应付账款周转天数
-178.7
-178.4
-180.4
-182.0
-EBITDA利润率
-11.9
-11.7
-11.5
-11.6
-净负债/股东权益(%)
-(20.8)
-(13.7)
-(7.3)
-(2.7)
-EBIT利润率
-11.0
-10.9
-10.6
-10.7
-EBIT利息保障倍数(X)
-NM
-NM
-NM
-NM
-现金流量表(Rmb mn)
-12/16
-12/17E
-12/18E
-12/19E
-估值
-12/16
-12/17E
-12/18E
-12/19E
-优先股股息前净利润
-1,825.2
-2,333.0
-2,820.1
-3,468.0
-折旧及摊销
-118.8
-144.3
-202.8
-276.2
-基本市盈率(X)
-22.2
-22.7
-18.8
-15.3
-少数股东权益
-(15.1)
-(27.7)
-(23.3)
-(28.6)
-市净率(X)
-4.9
-5.2
-4.2
-3.4
-运营资本增减
-(936.5)
-(1,815.4)
-(2,239.7)
-(2,645.7)
-EV/EBITDA(X)
-24.5
-24.6
-19.2
-14.9
-其它
-(521.7)
-0.0
-0.0
-0.0
-企业价值/总投资现金(X)
-5.7
-5.6
-4.2
-3.3
-经营活动产生的现金流
-470.7
-634.2
-760.0
-1,069.9
-股息收益率(%)
-0.7
-0.7
-0.8
-1.0
-资本开支
-(564.3)
-(670.9)
-(882.8)
-(1,133.9)
-收购
-0.0
-0.0
-0.0
-0.0
-剥离
-0.7
-0.0
-0.0
-0.0
-其它
-306.8
-0.0
-0.0
-0.0
-投资活动产生的现金流
-(256.8)
-(670.9)
-(882.8)
-(1,133.9)
-支付股息的现金（普通股和优先股）
-(232.0)
-(289.9)
-(370.6)
-(448.0)
-借款增减
-509.7
-0.0
-0.0
-0.0
-普通股发行（回购）
-138.5
-0.0
-0.0
-0.0
-其它
-(256.5)
-0.0
-0.0
-0.0
-筹资活动产生的现金流
-159.7
-(289.9)
-(370.6)
-(448.0)
-注：最后一个实际年度数据可能包括已公布和预测数据。
-总现金流
-373.7
-(326.6)
-(493.4)
-(512.0)
-资料来源：公司数据、高盛研究预测
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-3 
-Table of contents 
-Overseas and solutions business to drive growth, with R&D focus 
-4 
-Revenue and earnings drivers 
-9 
-Financials 
-13 
-Valuation and stock price drivers 
-14 
-Introducing M&A framework for Dahua 
-16 
-Key risks 
-18 
-Appendix 
-19 
-Disclosure Appendix 
-20 
- 
- 
-Prices in this report are as of the May 26, 2017 market close unless indicated otherwise. 
- 
-Exhibit 1: GS/GH global surveillance valuation comps  
- 
- 
- 
-Note: Estimates for NC companies are based on consensus. 
-Source: Datastream, Bloomberg, Wind, Gao Hua Securities Research, Goldman Sachs Global Investment Research. 
- 
-GS/GH Global Surveillance Comp Sheet
-Company
-Ticker
-Rating
-Market 
-12m 
-Target Potential Market 
-cap
-Revenue 
-(US$ mn)
-Gross 
-margin
-Net 
-margin
-PEG
-EV/ 
-Sales
-FCF 
-yield
-Div 
-yield
-P/B
-ROE
-Price
-Price
-+/-Side
-US$ mn
-2016
-2016
-2016
-2017E
-2018E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-Hikvision (Rmb)
-002415.SZ
-Neutral
-26.7
-27.3
-2%
-35,868
-29.5%
-31.2%
-29.8%
-4,657
-41.6%
-23.2%
-25.3x
-19.6x
-0.8x
-24.9x
-5.7x
-2.6%
-2.0%
-8.5x
-36.4%
-Dahua (Rmb)
-002236.SZ Neutral
-18.3
-19.0
-4%
-7,692
-33.2%
-30.6%
-24.3%
-1,944
-37.7%
-13.7%
-22.7x
-18.8x
-0.8x
-24.5x
-2.9x
--0.1%
-0.7%
-5.2x
-25.3%
-Offshore Surveillance Comp
-Honeywell (US$)
-HON
-Buy
-133.3
-140.0
-5%
-101,582
-2.0%
-6.4%
-8.4%
-39,302
-31.4%
-13.0%
-18.6x
-17.2x
-2.2x
-12.4x
-2.7x
-4.7%
-2.0%
-4.4x
-NA
-Tyco (US$)
-JCI
-NC
-42.0
-39,429
-NA
-NA
-NA
-30,382
-NA
-NA
-15.3x
-13.2x
-NA
-11.1x
-1.8x
-8.9%
-2.4%
-2.0x
-8.4%
-Safran (EUR)
-SAF.PA
-Not Rated
-79.6
- 
-NA
-35,259
-5.6%
-6.3%
-9.8%
-17,644
-NA
-10.7%
-18.6x
-16.3x
-3.3x
-10.1x
-2.1x
-4.6%
-2.2%
-4.3x
-25.1%
-Assa Abloy (SKR)
-ASSAb.ST
-Buy
-192.1
-210.0
-9%
-22,439
-9.5%
-13.0%
-11.6%
-8,205
-39.7%
-11.5%
-23.3x
-20.9x
-2.1x
-15.0x
-2.8x
-4.2%
-1.8%
-4.0x
-18.2%
-Allegion (US$)
-ALLE
-Buy
-79.4
-88
-11%
-7,564
-5.7%
-10.9%
-12.0%
-2,238
-44.0%
-14.5%
-21.1x
-18.9x
-1.7x
-15.0x
-3.6x
-4.2%
-0.8%
-16.6x
-164.0%
-FLIR Systems (US$)
-FLIR
-Buy
-37.1
-50.0
-35%
-5,056
-7.3%
-13.6%
-31.7%
-1,662
-46.2%
-10.0%
-21.5x
-17.7x
-0.5x
-12.9x
-2.8x
-5.9%
-1.6%
-2.9x
-13.0%
-NICE Systems (US$)
-NICE
-Neutral
-78.2
-77
--2%
-4,716
-17.5%
-15.8%
-8.5%
-1,030
-72.0%
-21.4%
-19.8x
-18.4x
-2.1x
-9.5x
-3.6x
-4.6%
-0.8%
-2.9x
-15.5%
-AXIS (SKR)
-AXIS.ST
-NC
-340.0
-2,718
-NA
-NA
-NA
-786
-NA
-NA
-NA
-NA
-NA
-NA
-0.0x
-NA
-NA
-NA
-NA
-Verint (US$)
-VRNT
-Buy
-41.3
-48.0
-16%
-2,588
-6.0%
-6.3%
-7.3%
-1,078
-65.2%
-15.0%
-15.2x
-13.9x
-2.9x
-11.9x
-2.5x
-6.0%
-0.0%
-2.5x
-16.8%
-Hanwha Techwin (KRW)
-012450.KS
-NC
-50,800
-2,410
-15.9%
-14.4%
--25.8%
-3,082
-22.0%
-7.8%
-21.8x
-18.1x
--0.4x
-0.0x
-0.0x
-6.4%
-0.6%
-1.1x
-NA
-TKH (EUR)
-TWEKA.AM
-NC
-44.2
-2,116
-7.4%
-12.5%
-18.4%
-1,494
-46.5%
-6.7%
-17.3x
-15.0x
-0.8x
-12.5x
-1.6x
-7.1%
-2.6%
-3.0x
-18.2%
-Average
-8.5%
-11.0%
-9.1%
-9,719
-45.9%
-12.3%
-19.3x
-17.0x
-1.7x
-11.1x
-2.1x
-5.7%
-1.5%
-4.4x
-34.9%
-Median 
-7.3%
-12.5%
-9.8%
-2,238
-45.1%
-11.5%
-19.2x
-17.5x
-2.1x
-12.2x
-2.5x
-5.3%
-1.7%
-2.9x
-17.5%
-STD
-5.1%
-3.8%
-15.1%
-13,527
-16.4%
-4.4%
-2.8x
-2.4x
-1.2x
-4.3x
-1.2x
-1.5%
-0.9%
-4.4x
-52.4%
-Onshore Surveillance Comp
-Protruly (Rmb)
-600074.SH
-NC
-12.1
-4,355
-NA
-35.6%
-42.4%
-600
-NA
-19.4%
-21.3x
-16.1x
-0.4x
-23.1x
-5.5x
-NA
-NA
-5.2x
-NA
-NetPosa (Rmb)
-300367.SZ
-NC
-20.0
-2,495
-32.2%
-30.5%
-27.3%
-216
-56.4%
-25.6%
-36.7x
-28.0x
-1.6x
-30.4x
-8.6x
-2.6%
-0.2%
-4.7x
-14.4%
-PCI - Suntek (Rmb)
-600728.SH
-NC
-7.4
-1,720
-42.6%
-23.7%
-29.6%
-389
-21.8%
-4.0%
-35.1x
-26.2x
-1.4x
-37.2x
-2.8x
-NA
-NA
-3.7x
-13.5%
-Jieshun (Rmb)
-002609.SZ
-NC
-15.0
-1,458
-22.3%
-22.5%
-20.2%
-114
-58.5%
-23.2%
-42.7x
-34.9x
-2.4x
-32.8x
-9.6x
-NA
-0.1%
-3.9x
-10.1%
-TOYOU (Rmb)
-300302.SZ
-NC
-18.1
-1,044
-63.5%
-NA
-46.3%
-69
-44.4%
-33.0%
-31.5x
-22.8x
-0.6x
-NA
-8.0x
-NA
-0.5%
-8.5x
-26.6%
-Average
-40.1%
-28.1%
-33.1%
-278
-45.3%
-21.1%
-33.5x
-25.6x
-1.3x
-30.9x
-6.9x
-2.6%
-0.3%
-5.2x
-16.2%
-Median 
-37.4%
-27.1%
-29.6%
-216
-50.4%
-23.2%
-35.1x
-26.2x
-1.4x
-31.6x
-8.0x
-2.6%
-0.2%
-4.7x
-14.0%
-STD
-17.6%
-6.1%
-10.9%
-218
-16.9%
-10.7%
-7.9x
-6.9x
-0.8x
-5.9x
-2.8x
-NM
-0.2%
-1.9x
-7.2%
-Global Surveillance Comp
-Average
-18.3%
-16.3%
-17.7%
-6,768
-45.7%
-15.4%
-24.0x
-19.8x
-1.5x
-16.7x
-3.6x
-5.4%
-1.2%
-4.6x
-28.7%
-Median 
-9.5%
-13.6%
-15.2%
-1,286
-45.3%
-13.7%
-21.3x
-18.1x
-1.7x
-12.7x
-2.8x
-4.7%
-0.8%
-3.9x
-16.1%
-STD
-18.0%
-9.3%
-17.9%
-11,934
-15.8%
-8.1%
-8.4x
-5.9x
-1.1x
-10.3x
-2.9x
-1.7%
-0.9%
-3.7x
-42.9%
-Revenue/EBITDA/EPS
-2016-2018E CAGR 
-P/E
-EV/ 
-EBITDA
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-4 
-Overseas and solutions business to drive growth, with R&D focus 
-Global branding and sales network expansion 
-The surveillance business has a dumbbell-like structure, with sales/marketing network and R&D 
-on the two ends. Dahua identifies market share as a very important focus point. As of 2016, we 
-estimate Dahua had 8.5% market share in the domestic market and 2.9% market share in the 
-overseas market, up from 4.3% and 0.5% in 2011. Currently, overseas revenue accounts for 38% 
-of the company total, and management expects to increase this to 60%-70% over the next three 
-to five years. We expect overseas revenue to reach 50% of total revenue in 2019E. 
-In terms of sales network, Dahua has over 2,000 in-house sales staff for the domestic markets, 
-covering 280 regions and 3,000 counties in China. Its distribution networks reach further into the 
-countryside. Dahua classifies its customers into three groups: 1) smart city/safe city; 2) big 
-enterprise; and 3) SME/retail customers. For city-level projects, Dahua would send in an entire 
-team to be based in the city, communicating with clients on a daily basis. For big enterprise 
-customers, Dahua uses in-house sales to cover on a consistent basis. And for SME/retail 
-customers, the distribution channel is put in play. 
-For the overseas market, Dahua is transforming itself away from being an OEM to overseas 
-surveillance product/service providers by: 1) promoting its own-branded products through 
-distributors; and 2) winning solutions project orders from country/city governments (for example, a 
-border project in Hungary, a safe city project in Mexico, a police force project in Turkey). There’re 
-over 1,000 in-house salespeople covering overseas markets for Dahua, 100 local salespeople in 
-North America facing big system integrators. So far Dahua has set up 35 subsidiaries outside 
-China, and management identifies global expansion to be a very important strategy. Management 
-is planning to further invest in and expand its global sales network in the future. 
-Exhibit 2: We expect Dahua will continue to gain market 
-share… 
-US$ 
- 
-Exhibit 3: …in both the domestic and overseas markets 
-US$ 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-4.3%
-5.9%
-7.4%
-7.8%
-8.2%
-8.5%
-9.6%
-10.5% 10.9%
-0.0%
-2.0%
-4.0%
-6.0%
-8.0%
-10.0%
-12.0%
-2011
-2012
-2013
-2014
-2015
-2016
-2017E 2018E 2019E
-Dahua domestic market share
-0.5%
-0.6%
-1.1%
-1.7%
-2.4%
-2.9%
-3.8%
-5.0%
-6.5%
-0.0%
-1.0%
-2.0%
-3.0%
-4.0%
-5.0%
-6.0%
-7.0%
-2011
-2012
-2013
-2014
-2015
-2016
-2017E 2018E 2019E
-Dahua overseas market share
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-5 
-Exhibit 4: Overseas revenue accounted for 38% of total 
-as of 2016… 
-Dahua revenue breakdown by geography (2016) 
- 
-Exhibit 5: …and we expect overseas revenue to reach 
-50% of total in 2019E 
-Dahua revenue breakdown by geography 
- 
-Source: Company data. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Exhibit 6: Dahua has the second-largest employee scale among domestic surveillance companies 
-Total employees comparison among Chinese domestic surveillance companies as of 2016 
- 
-Source: Company data. 
-Transformation from distribution to solution 
-Dahua was established in 2001 and started out selling digital control dispatch machines and 
-DVRs. Over the years, it gradually expanded its product range to front-end cameras, control 
-center equipment, and software.  
-For the first 15 years or so in China, Dahua mainly relied on distributors to sell its products. 
-Starting from 2014, Dahua ventured into the solutions market with the restructuring exercise of its 
-sales and R&D teams. The result of Dahua’s restructuring can be seen in its revenue growth and 
-margin recovery from 2014 to 2016. In the overseas market, Dahua was initially an OEM for 
-overseas surveillance brands. In 2014, the company started setting up subsidiaries in overseas 
-markets and promoting its own branded products. In 2016, Dahua entered into the solutions 
-market overseas. 
-Currently, the solutions business already accounts for over 50% of Dahua’s revenue in China, 
-with slower progress in overseas markets. In China, Dahua has been quite active in terms of 
-Domestic,  
-62% 
-Overseas,  
-38% 
-91%92%85%83%82%70% 71% 74% 73% 69% 64% 62% 60% 55% 50% 
-9% 8% 15%17%18%23% 24% 21% 24% 31% 36% 38% 40% 45% 50% 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-Domestic
-Overseas
-218 
-827 
-523 
-941 
-435 
-620 
-5,321 
-9,366 
-160 
-103 
-170 
-125 
-413 
-1,526 
-15 
-5,704 
-100 
-233 
-228 
-322 
-421 
-392 
-2,158 
-4,061 
-613 
-240 
-1,145 
-589 
-65 
-191 
-665 
-517 
-309 
-130 
-27 
-293 
- -
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
- 10,000
-Dali
-Netposa
-Infinova
-Anjubao
-Jieshun
-Protruly
-Dahua
-Hikvision
-Engineer
-Production
-Sales
-Functional
-Admin
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-6 
-participating in PPP projects, as an inroad into gaining more city-level solutions business. We 
-believe PPP projects could initially boost Dahua’s revenue growth. However, longer-term 
-profitability and cash flow levels are still uncertain. 
-Exhibit 7: Dahua’s revenue growth recovered in 
-2015/2016 relative to 2015… 
+Aug-16
+May-16
+全又翻译随后提供
+大华股份 (左轴)
+一一沪深300指数 (右轴)
+所属投资名单
+行业评级: 中性
+存在业务关系，并且继续寻求发展这些关系。因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告
+信息披露附录，或请与您的投资代表联系。
+投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+大华股份: 财务数据概要
+对此报告有贡献的人员
+侯雪婷
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+Table of contents
+Prices in this report are as of the May 26, 2017 market close unless indicated otherwise.
+Exhibit 1: GS/GH global surveillance valuation comps
+Note: Estimates for NC companies are based on consensus.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+Overseas and solutions business to drive growth, with R&D focus
+Global branding and sales network expansion
+The surveillance business has a dumbbell-like structure, with sales/marketing network and R&D
+on the two ends. Dahua identifies market share as a very important focus point. As of 2016, we
+estimate Dahua had 8.5% market share in the domestic market and 2.9% market share in the
+overseas market, up from 4.3% and 0.5% in 2011. Currently, overseas revenue accounts for 38%
+of the company total, and management expects to increase this to 60%-70% over the next three
+to five years. We expect overseas revenue to reach 50% of total revenue in 2019E.
+In terms of sales network, Dahua has over 2,000 in-house sales staff for the domestic markets,
+covering 280 regions and 3,000 counties in China. Its distribution networks reach further into the
+countryside. Dahua classifies its customers into three groups: 1) smart city/safe city; 2) big
+enterprise; and 3) SME/retail customers. For city-level projects, Dahua would send in an entire
+team to be based in the city, communicating with clients on a daily basis. For big enterprise
+customers, Dahua uses in-house sales to cover on a consistent basis. And for SME/retail
+customers, the distribution channel is put in play.
+For the overseas market, Dahua is transforming itself away from being an OEM to overseas
+surveillance product/service providers by: 1) promoting its own-branded products through
+distributors; and 2) winning solutions project orders from country/city governments (for example, a
+border project in Hungary, a safe city project in Mexico, a police force project in Turkey). There're
+over 1,000 in-house salespeople covering overseas markets for Dahua, 100 local salespeople in
+North America facing big system integrators. So far Dahua has set up 35 subsidiaries outside
+China, and management identifies global expansion to be a very important strategy. Management
+is planning to further invest in and expand its global sales network in the future.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+Exhibit 4: Overseas revenue accounted for 38% of total
+50% of total in 2019E
+Dahua revenue breakdown by geography (2016)
+Dahua revenue breakdown by geography
+Source: Company data.
+Source: Company data, Gao Hua Securities Research.
+Exhibit 6: Dahua has the second-largest employee scale among domestic surveillance companies
+Source: Company data.
+Transformation from distribution to solution
+Dahua was established in 2001 and started out selling digital control dispatch machines and
+DVRs. Over the years, it gradually expanded its product range to front-end cameras, control
+center equipment, and software.
+For the first 15 years or so in China, Dahua mainly relied on distributors to sell its products.
+Starting from 2014, Dahua ventured into the solutions market with the restructuring exercise of its
+sales and R&D teams. The result of Dahua's restructuring can be seen in its revenue growth and
+margin recovery from 2014 to 2016. In the overseas market, Dahua was initially an OEM for
+overseas surveillance brands. In 2014, the company started setting up subsidiaries in overseas
+markets and promoting its own branded products. In 2016, Dahua entered into the solutions
+market overseas.
+Currently, the solutions business already accounts for over 50% of Dahua's revenue in China,
+with slower progress in overseas markets. In China, Dahua has been quite active in terms of
+2017年5月31日
+大华股份 (002236.SZ)
+participating in PPP projects, as an inroad into gaining more city-level solutions business. We
+believe PPP projects could initially boost Dahua's revenue growth. However, longer-term
+profitability and cash flow levels are still uncertain.
+restructuring toward the solutions business
 China surveillance industry revenue growth (15 listed companies)
- 
-Exhibit 8: …and so did its gross margin post internal 
-restructuring toward the solutions business 
-China surveillance industry gross margin (15 listed companies) 
- 
-Source: Company data. 
- 
-Source: Company data. 
-  
-Focus on R&D  
-Dahua positions itself as a technology company, and it is continuously focused on R&D. As of 
-end 2016, Dahua had 5,321 employees in its R&D department (61% of total), and R&D expense 
-as a percentage of revenue has consistently increased from 5.8% in 2007 to 10.7% in 2017. 
-Going forward, management expects R&D expense as a percentage of revenue to stay above 
-10% at least. Dahua established four research institutes in 2015-2016, focusing on chip, big data, 
-artificial intelligence, and advanced applications. The surveillance front-end industry has lived 
-through two waves of technology upgrade previously: (1) from analog camera to IP camera; and 
-(2) from isolated network structure to connected network structure. Looking forward, we believe 
-we are at the initial stage of the next wave of upgrade to AI-embedded surveillance products and 
-systems. We are already seeing the change in the industry; surveillance is evolving from simply 
-being the eyes of public and private sectors to being the eyes and brains in that it not only 
-captures videos and images, but also does more and more complex analysis to help with various 
-business needs. In this new intelligent era, Dahua strives to be the intelligent IoT solutions 
-provider and service operator with a focus on video.  
- 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-Revenue growth yoy (%)
-Total - ex Hik, Dahua
-Hikvision
-Dahua
-20%
-25%
-30%
-35%
-40%
-45%
-50%
-55%
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-Gross margin (%)
-Total - ex Hik, Dahua
-Hikvision
-Dahua
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-7 
-Exhibit 9: Dahua’s R&D/technical team is the largest 
-among different divisions… 
-Dahua employee composition (2016) 
- 
-Exhibit 10: …and expanded by 19X in 2007-2016 
-Dahua’s R&D/technical team size 
- 
-Source: Company data. 
- 
-Source: Company data. 
- 
-Exhibit 11: Exhibit 8: Dahua enjoys the advantage of 
-lower engineer cost in China compared with global peers
-R&D expense per engineer comparison among global 
-surveillance companies (in US$ ‘000) 
- 
-Exhibit 12: Among domestic surveillance companies, 
-Dahua’s average engineer cost is in the high end 
-R&D expense per engineer comparison among domestic 
-surveillance companies (in Rmb ‘000) 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
- 
-Admin, 0.3%
-R&D, 61%
-Sales, 25%
-Functional, 
-13%
-Production, 
-0.2%
-283 
-323 
-375 
-794 
-1,150 
-1,792 
-2,677 
-3,602 
-4,014 
-5,321 
- -
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
-2007
-2008
-2009 2010 2011
-2012
-2013
-2014
-2015
-2016
- -
- 20
- 40
- 60
- 80
- 100
- 120
- 140
- 160
- 180
-Dahua
-Hikvision Geovision
-Mobotix
-AXIS
-Verint
-2011
-2012
-2013
-2014
-2015
-2016
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-Dahua
-Hikvision Infinova Jieshun
-Anjuba
-Dali
-Netposa
-2011
-2012
-2013
-2014
-2015
-2016
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-8 
-Exhibit 13: Dahua has much higher R&D spending in 
-absolute amount compared with smaller players 
-China video surveillance companies’ R&D comparison, 2016 
- 
-Exhibit 14: Scale economy translates into mid-range R&D 
-as a percentage of revenue 
-China video surveillance companies’ R&D comparison, 2016  
- 
-Source: Company data. 
- 
-Source: Company data. 
- 
-Exhibit 15: Dahua’s R&D spending is one of the highest 
-among global players (in US$ millions) 
-Global video surveillance companies’ R&D spending, 2016 
- 
-Exhibit 16: Dahua’s R&D as a percentage of revenue is 
-above the industry average  
-Global video surveillance companies’ R&D %, 2016 
- 
-Source: Company data, Bloomberg. 
- 
-Source: Company data, Bloomberg. 
- 
- 
-0
-500
-1,000
-1,500
-2,000
-2,500
-2% 3% 3%
-6% 6% 6% 7% 8%
-11%12%13%13%14%
-24%
-41%
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-0
-50
-100
-150
-200
-250
-300
-350
-400
-3% 4% 5% 5% 5%
-7% 7% 8%
-9%
-11% 11%
-14%
-16% 17%
-0%
-2%
-4%
-6%
-8%
-10%
-12%
-14%
-16%
-18%
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-9 
-Revenue and earnings drivers 
-Exhibit 17: We forecast Dahua will grow its EPS to Rmb1.57 in 2020E from Rmb0.04 in 2008 
-Dahua EPS walk 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Exhibit 18: Industry average net margin has declined 
-from 11% in 2015 to 8% in 2016… 
-Net margin (2015) 
- 
-Exhibit 19: …while big players like Dahua and Hikvision 
-have maintained their profitability 
-Net margin (2016) 
- 
-Source: Company data. 
- 
-Source: Company data. 
-¥0.04
-¥0.25
-¥0.76
-¥0.25
-(¥0.57)
-(¥0.24)
-¥0.01
- -
- 0.20
- 0.40
- 0.60
- 0.80
- 1.00
- 1.20
-2008 EPS
-Domestic
-Overseas
-COGS
-OPEX
-Non-op items
-2012 EPS
-(Rmb)
-Revenue growth
-¥0.25
-¥0.63
-¥1.88
-¥1.45
-(¥2.14)
-(¥0.91)
-¥0.10
- -
- 0.50
- 1.00
- 1.50
- 2.00
- 2.50
- 3.00
- 3.50
- 4.00
-2012 EPS
-Domestic
-Overseas
-COGS
-OPEX
-Non-op items
-2016 EPS
-(Rmb)
-Revenue growth
-¥0.63
-¥1.57
-¥2.94
-¥5.62
-(¥5.15)
-(¥2.36)
-(¥0.10)
- -
- 1.00
- 2.00
- 3.00
- 4.00
- 5.00
- 6.00
- 7.00
- 8.00
- 9.00
- 10.00
-2016 EPS
-Domestic
-Overseas
-COGS
-OPEX
-Non-op items
-2020E EPS
-(Rmb)
-Revenue growth
-27%
-23%22%
-16%
-14%14%
-10%10% 9%
-7% 5% 5% 4% 4% 2%
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-Net margin (2015)
-Average: 11%
-24%23%23%
-20%
-15%14%
-10% 9%
-6% 5% 4% 2% 2%
--13%
--22%
--25%
--20%
--15%
--10%
--5%
--
-5%
-10%
-15%
-20%
-25%
-30%
-Net margin (2016)
-Average: 8%
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-10 
-Revenue  
-Over the past decade, Dahua’s revenue was mainly driven by front-end products, followed by back-end 
-products. Going forward, we expect front-end products will continue to be the biggest revenue driver as 
-Dahua continues to gain market share in both domestic and overseas markets.  
-As of 2016, front-end products accounted for 49% of Dahua’s revenue, followed by 33% in back-end products. 
-In 2017E, we expect revenue growth to accelerate to 35% yoy from 32% yoy in 2016, mainly driven by 
-Dahua’s expanding market share and active participation in PPP projects.  
-In terms of geographic breakdown, we note that Dahua’s revenue contribution from overseas markets 
-expanded from 9% in 2005 to 38% in 2016. Going forward, management expects overseas revenue to 
-contribute 60%-70% of the total in three to five years’ time. In 2015, due to a higher contribution from the 
-solutions business, gross margin in the overseas market surpassed gross margin in China. Going forward, we 
-expect revenue contribution from solutions to continue rising as a percentage of the total. 
- 
-Exhibit 20: Front-end products contributed close to half 
-of Dahua’s 2016 revenue 
-Dahua revenue composition, 2016 
- 
-Exhibit 21: We expect the share of front-end products to 
-continue increasing over time 
-Dahua revenue composition, 2007-2019E 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Exhibit 22: We expect revenue growth to accelerate in 
-2017E and remain above 30% for front-end products… 
-(Rmb mn) 
- 
-Exhibit 23: …and we also see revenue acceleration in 
-back-end products and revenue growth above 20% 
-(Rmb mn) 
- 
-Source : Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Front-end 
-products, 
-49%
-Back-end 
-products, 
-33%
-Remote 
-image, 7%
-Others, 12%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-2007
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Others
-Remote image
-Back-end products
-Front-end products
-295%
-90%
-39%
-372%
-163% 150% 
-78% 
-36% 
-61% 
-37% 41% 37% 33% 
-0%
-50%
-100%
-150%
-200%
-250%
-300%
-350%
-400%
- -
- 2,000
- 4,000
- 6,000
- 8,000
- 10,000
- 12,000
- 14,000
- 16,000
- 18,000
-Front-end products
-Growth yoy
-55%
-29%
-23%
-93%
-27% 25% 
-33% 
-46% 
-20% 23% 25% 23% 20% 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
- -
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
-Back-end products
-Growth yoy
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-11 
-Exhibit 24: Remote image monitor products’ revenue 
-growth has slowed down  
-(Rmb mn) 
- 
-Exhibit 25: Revenue growth from “others” accelerated in 
-2016  
-(Rmb mn) 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Exhibit 26: Dahua’s overseas revenue rose from 9% in 
-2005 to 38% in 2016 
- 
-Exhibit 27: Gross margin of overseas business 
-surpassed domestic business in 2015 
- 
-Source: Company data. 
- 
-Source: Company data. 
-COGS 
-Both external and internal factors contributed to Dahua’s margin recovery in 2016. Externally, 
-demand picked up from the latter half of the year, and competition became more rational. Small 
-players’ margin has been compressed to near loss-making levels. Internally, after two years of 
-restructuring to better fit with the solutions business, we have started to see some results, as 
-Dahua’s domestic solutions business takes up more than half of total China revenue now. Going 
-forward, we expect Dahua’s gross margin will continue to improve before stabilizing at around 
-39%. 
-SG&A  
-As a percentage of revenue, SG&A increased to 27% in 2016 from 21% in 2005 as Dahua moves 
-from a distribution business model to a solutions model. Going forward, management is planning 
-to further invest in and expand its global sales network. We expect SG&A as a percentage of 
-revenue to continue to rise at a steady pace. 
-35%
-49%
-22%
-186%
-19% 
-75% 
-29% 28% 
-14% 7% 6% 5% 5% 
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-140%
-160%
-180%
-200%
- -
- 200
- 400
- 600
- 800
- 1,000
- 1,200
-Remote image monitor
-Growth yoy
--85%
-318%
-64%
--32%
-60% 43% 
-86% 
-6% 
-39% 66% 53% 42% 34% 
--150%
--100%
--50%
-0%
-50%
-100%
-150%
-200%
-250%
-300%
-350%
- -
- 500
- 1,000
- 1,500
- 2,000
- 2,500
- 3,000
- 3,500
- 4,000
- 4,500
- 5,000
-Others
-Growth yoy
-91% 92% 85% 83% 82% 76% 74% 78% 75% 69% 64% 62% 
-9%
-8%
-15% 17% 18% 24% 26% 22% 25% 31% 36% 38% 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
-Domestic
-Overseas
- -
- 10.0%
- 20.0%
- 30.0%
- 40.0%
- 50.0%
- 60.0%
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-Domestic
-Overseas
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-12 
-R&D  
-R&D expense as a percentage of revenue rose from 5.8% in 2005 to 10.7% in 2016, showing 
-management’s increasing focus on technology. Going forward, management expects the level to 
-stay above 10%. 
-Exhibit 28: Demand picked up in 2H16 and pricing 
-competition became more rational  
-(Rmb mn) 
- 
-Exhibit 29: We expect Dahua’s gross margin to continue 
-improving and stabilize around 39%                                     
-(Rmb mn) 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Exhibit 30: Dahua plans to continue investing in 
-expanding its salesforce 
-(Rmb mn)  
- 
-Exhibit 31: Management expects R&D expense to stay 
-above 10% of revenue 
-(Rmb mn) 
- 
-Source: Company data. 
- 
-Source: Company data. 
- 
- 
- 
- 
-59%
-61% 61%
-57%
-58% 57% 57%
-62%
-63% 62% 62% 61% 61%
-53%
-54%
-55%
-56%
-57%
-58%
-59%
-60%
-61%
-62%
-63%
-64%
- ‐
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
- 35,000
- 40,000
- 45,000
- 50,000
-COGS
-COGS as % of revenue
-41%
-39% 39%
-43%
-42% 43% 43%
-38%
-37% 38% 38% 39% 39%
-30%
-32%
-34%
-36%
-38%
-40%
-42%
-44%
- ‐
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
- 35,000
-Gross profit
-Gross margin
-25%
-30%
-22% 21% 20% 18%
-15% 14% 15% 16% 17% 17% 18%
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
- ‐
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
- 10,000
-Selling, General & Admin
-SG&A as % of revenue
-6%
-8%
-6%
-6%
-7%
-7%
-9%
-11%
-9%
-11% 11% 11% 11%
-0%
-2%
-4%
-6%
-8%
-10%
-12%
- ‐
- 500
- 1,000
- 1,500
- 2,000
- 2,500
- 3,000
- 3,500
-Research & Development
-R&D as % of revenue
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-13 
-Financials 
-Income statement 
- 
-In 2005-2016, Dahua grew its revenue by 45X from Rmb293mn to Rmb13,329mn, at a 
-CAGR of 41%, mainly driven by the growth in its front-end product suite, the share of which 
-increased from 1% of overall revenue in 2006 to 49% in 2016. This is mainly driven by the 
-rising penetration of surveillance cameras in China, as well as overseas markets. By 2020E, 
-we expect Dahua’s revenue to reach Rmb38,121mn, at a CAGR of 30% from 2016. Front-
-end products will still be a big driver of this growth with incremental as well as 
-upgrade/replacement demand for cameras, and its contribution will increase to 57% by 
-2020E, based on our estimates. 
- 
-In 2005-2016, Dahua grew its EPS by 30X from Rmb0.02 to Rmb0.63, or a CAGR of 36%. 
-We notice that EPS growth lagged Dahua’s revenue growth, mainly as a result of declining 
-gross margins due to competition. By 2020E, we expect Dahua’s EPS to reach Rmb1.57, up 
-by a CAGR of 26% from 2016, slower than the revenue CAGR as a result of rising sales and 
-marketing spend on overseas expansion. The surveillance industry has been consolidating 
-with big players such as Dahua gaining market share on a consistent basis. In 2016, gross 
-margin improved by 0.5ppt after two years of decline, and net margin improved by 0.1ppt 
-after two years of decline. On the other hand, we note small players’ profitability level 
-continues to deteriorate, with some listed companies turning negative in 2016. As a result, 
-we believe Dahua’s gross margin should continue to improve going forward. 
-Balance sheet  
- 
-Dahua has consistently operated at a net cash position over the past decade. As of 2016, its 
-net cash to EBITDA ratio was 1.1X, implying a strong balance sheet.  
- 
-ROE was 25% in 2016, an improvement from 2014/2015 post its internal restructuring, and 
-we expect it to stay relatively stable over the next three years. 
- 
-Dahua’s cash conversion cycle also improved to 101 days in 2016 from 121 days in 2014 
-and 110 days in 2015, and we expect this to stabilize over the next three years. 
-Cash flow  
- 
-Dahua’s capex as a percentage of revenue has been in a range of 2%-6% over the past ten 
-years, and has consistently had positive and growing free cash flow (EBITDA – capex), and 
-we expect the company to maintain its healthy cash flow over the next three years. 
- 
-Dahua announced a dividend of Rmb0.10 per share for FY2016, representing a payout ratio 
-of 16%. The company does not have an explicit dividend policy, and its payout ratio has been 
-in a range of 10% to 34% over the past eight years. We forecast a 16% payout ratio in 
-2017E-2019E. 
- 
- 
- 
- 
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-14 
-Valuation and stock price drivers 
-We forecast a 32% revenue CAGR and a 24% earnings CAGR for Dahua in 2016-2019E, driven 
-by continued market share expansion and stabilizing profitability levels. We apply the 20X 
-average P/E multiple for Dahua’s global and domestic peers in 2018E to Dahua’s 2018E EPS to 
-arrive at a 12-month target price of Rmb19.0, implying 4% upside. All the stocks included have 
-market caps of more than US$1 bn.  
-We believe P/E is the most important valuation metric that investors are focused on, and it is in 
-line with our valuation methodology for the A share tech space. 
- 
-Exhibit 32: GS/GH global surveillance valuation comps  
- 
-Note: Estimates for NC companies are based on consensus. 
-Source: Datastream, Bloomberg, Wind, Gao Hua Securities Research, Goldman Sachs Global Investment Research. 
- 
-Exhibit 33: GS estimates vs. consensus 
- 
-Source: Company data, Bloomberg, Gao Hua Securities Research. 
- 
-GS/GH Global Surveillance Comp Sheet
-Company
-Ticker
-Rating
-Market 
-12m 
-Target Potential Market 
-cap
-Revenue 
-(US$ mn)
-Gross 
-margin
-Net 
-margin
-PEG
-EV/ 
-Sales
-FCF 
-yield
-Div 
-yield
-P/B
-ROE
-Price
-Price
-+/-Side
-US$ mn
-2016
-2016
-2016
-2017E
-2018E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-Hikvision (Rmb)
-002415.SZ
-Neutral
-26.7
-27.3
-2%
-35,868
-29.5%
-31.2%
-29.8%
-4,657
-41.6%
-23.2%
-25.3x
-19.6x
-0.8x
-24.9x
-5.7x
-2.6%
-2.0%
-8.5x
-36.4%
-Dahua (Rmb)
-002236.SZ Neutral
-18.3
-19.0
-4%
-7,692
-33.2%
-30.6%
-24.3%
-1,944
-37.7%
-13.7%
-22.7x
-18.8x
-0.8x
-24.5x
-2.9x
--0.1%
-0.7%
-5.2x
-25.3%
-Offshore Surveillance Comp
-Honeywell (US$)
-HON
-Buy
-133.3
-140.0
-5%
-101,582
-2.0%
-6.4%
-8.4%
-39,302
-31.4%
-13.0%
-18.6x
-17.2x
-2.2x
-12.4x
-2.7x
-4.7%
-2.0%
-4.4x
-NA
-Tyco (US$)
-JCI
-NC
-42.0
-39,429
-NA
-NA
-NA
-30,382
-NA
-NA
-15.3x
-13.2x
-NA
-11.1x
-1.8x
-8.9%
-2.4%
-2.0x
-8.4%
-Safran (EUR)
-SAF.PA
-Not Rated
-79.6
- 
-NA
-35,259
-5.6%
-6.3%
-9.8%
-17,644
-NA
-10.7%
-18.6x
-16.3x
-3.3x
-10.1x
-2.1x
-4.6%
-2.2%
-4.3x
-25.1%
-Assa Abloy (SKR)
-ASSAb.ST
-Buy
-192.1
-210.0
-9%
-22,439
-9.5%
-13.0%
-11.6%
-8,205
-39.7%
-11.5%
-23.3x
-20.9x
-2.1x
-15.0x
-2.8x
-4.2%
-1.8%
-4.0x
-18.2%
-Allegion (US$)
-ALLE
-Buy
-79.4
-88
-11%
-7,564
-5.7%
-10.9%
-12.0%
-2,238
-44.0%
-14.5%
-21.1x
-18.9x
-1.7x
-15.0x
-3.6x
-4.2%
-0.8%
-16.6x
-164.0%
-FLIR Systems (US$)
-FLIR
-Buy
-37.1
-50.0
-35%
-5,056
-7.3%
-13.6%
-31.7%
-1,662
-46.2%
-10.0%
-21.5x
-17.7x
-0.5x
-12.9x
-2.8x
-5.9%
-1.6%
-2.9x
-13.0%
-NICE Systems (US$)
-NICE
-Neutral
-78.2
-77
--2%
-4,716
-17.5%
-15.8%
-8.5%
-1,030
-72.0%
-21.4%
-19.8x
-18.4x
-2.1x
-9.5x
-3.6x
-4.6%
-0.8%
-2.9x
-15.5%
-AXIS (SKR)
-AXIS.ST
-NC
-340.0
-2,718
-NA
-NA
-NA
-786
-NA
-NA
-NA
-NA
-NA
-NA
-0.0x
-NA
-NA
-NA
-NA
-Verint (US$)
-VRNT
-Buy
-41.3
-48.0
-16%
-2,588
-6.0%
-6.3%
-7.3%
-1,078
-65.2%
-15.0%
-15.2x
-13.9x
-2.9x
-11.9x
-2.5x
-6.0%
-0.0%
-2.5x
-16.8%
-Hanwha Techwin (KRW)
-012450.KS
-NC
-50,800
-2,410
-15.9%
-14.4%
--25.8%
-3,082
-22.0%
-7.8%
-21.8x
-18.1x
--0.4x
-0.0x
-0.0x
-6.4%
-0.6%
-1.1x
-NA
-TKH (EUR)
-TWEKA.AM
-NC
-44.2
-2,116
-7.4%
-12.5%
-18.4%
-1,494
-46.5%
-6.7%
-17.3x
-15.0x
-0.8x
-12.5x
-1.6x
-7.1%
-2.6%
-3.0x
-18.2%
-Average
-8.5%
-11.0%
-9.1%
-9,719
-45.9%
-12.3%
-19.3x
-17.0x
-1.7x
-11.1x
-2.1x
-5.7%
-1.5%
-4.4x
-34.9%
-Median 
-7.3%
-12.5%
-9.8%
-2,238
-45.1%
-11.5%
-19.2x
-17.5x
-2.1x
-12.2x
-2.5x
-5.3%
-1.7%
-2.9x
-17.5%
-STD
-5.1%
-3.8%
-15.1%
-13,527
-16.4%
-4.4%
-2.8x
-2.4x
-1.2x
-4.3x
-1.2x
-1.5%
-0.9%
-4.4x
-52.4%
-Onshore Surveillance Comp
-Protruly (Rmb)
-600074.SH
-NC
-12.1
-4,355
-NA
-35.6%
-42.4%
-600
-NA
-19.4%
-21.3x
-16.1x
-0.4x
-23.1x
-5.5x
-NA
-NA
-5.2x
-NA
-NetPosa (Rmb)
-300367.SZ
-NC
-20.0
-2,495
-32.2%
-30.5%
-27.3%
-216
-56.4%
-25.6%
-36.7x
-28.0x
-1.6x
-30.4x
-8.6x
-2.6%
-0.2%
-4.7x
-14.4%
-PCI - Suntek (Rmb)
-600728.SH
-NC
-7.4
-1,720
-42.6%
-23.7%
-29.6%
-389
-21.8%
-4.0%
-35.1x
-26.2x
-1.4x
-37.2x
-2.8x
-NA
-NA
-3.7x
-13.5%
-Jieshun (Rmb)
-002609.SZ
-NC
-15.0
-1,458
-22.3%
-22.5%
-20.2%
-114
-58.5%
-23.2%
-42.7x
-34.9x
-2.4x
-32.8x
-9.6x
-NA
-0.1%
-3.9x
-10.1%
-TOYOU (Rmb)
-300302.SZ
-NC
-18.1
-1,044
-63.5%
-NA
-46.3%
-69
-44.4%
-33.0%
-31.5x
-22.8x
-0.6x
-NA
-8.0x
-NA
-0.5%
-8.5x
-26.6%
-Average
-40.1%
-28.1%
-33.1%
-278
-45.3%
-21.1%
-33.5x
-25.6x
-1.3x
-30.9x
-6.9x
-2.6%
-0.3%
-5.2x
-16.2%
-Median 
-37.4%
-27.1%
-29.6%
-216
-50.4%
-23.2%
-35.1x
-26.2x
-1.4x
-31.6x
-8.0x
-2.6%
-0.2%
-4.7x
-14.0%
-STD
-17.6%
-6.1%
-10.9%
-218
-16.9%
-10.7%
-7.9x
-6.9x
-0.8x
-5.9x
-2.8x
-NM
-0.2%
-1.9x
-7.2%
-Global Surveillance Comp
-Average
-18.3%
-16.3%
-17.7%
-6,768
-45.7%
-15.4%
-24.0x
-19.8x
-1.5x
-16.7x
-3.6x
-5.4%
-1.2%
-4.6x
-28.7%
-Median 
-9.5%
-13.6%
-15.2%
-1,286
-45.3%
-13.7%
-21.3x
-18.1x
-1.7x
-12.7x
-2.8x
-4.7%
-0.8%
-3.9x
-16.1%
-STD
-18.0%
-9.3%
-17.9%
-11,934
-15.8%
-8.1%
-8.4x
-5.9x
-1.1x
-10.3x
-2.9x
-1.7%
-0.9%
-3.7x
-42.9%
-Revenue/EBITDA/EPS
-2016-2018E CAGR 
-P/E
-EV/ 
-EBITDA
-(RMB mn)
-2016
-2017E
-2018E
-2019E
-2016
-2017E
-2018E
-2019E
-2016
-2017E
-2018E
-2019E
-Dahua
+China surveillance industry gross margin (15 listed companies)
+Source: Company data.
+Source: Company data.
+Focus on R&D
+Dahua positions itself as a technology company, and it is continuously focused on R&D. As of
+end 2016, Dahua had 5,321 employees in its R&D department (61% of total), and R&D expense
+as a percentage of revenue has consistently increased from 5.8% in 2007 to 10.7% in 2017.
+Going forward, management expects R&D expense as a percentage of revenue to stay above
+10% at least. Dahua established four research institutes in 2015-2016, focusing on chip, big data,
+artificial intelligence, and advanced applications. The surveillance front-end industry has lived
+through two waves of technology upgrade previously: (1) from analog camera to IP camera; and
+(2) from isolated network structure to connected network structure. Looking forward, we believe
+we are at the initial stage of the next wave of upgrade to Al-embedded surveillance products and
+systems. We are already seeing the change in the industry; surveillance is evolving from simply
+being the eyes of public and private sectors to being the eyes and brains in that it not only
+captures videos and images, but also does more and more complex analysis to help with various
+business needs. In this new intelligent era, Dahua strives to be the intelligent IoT solutions
+provider and service operator with a focus on video.
+2017年5月31日
+大华股份 (002236.SZ)
+Dahua employee composition (2016)
+Source: Company data.
+Source: Company data.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+Exhibit 14: Scale economy translates into mid-range R&D
+as a percentage of revenue
+Source: Company data.
+Source: Company data.
+Exhibit 16: Dahua's R&D as a percentage of revenue is
+above the industry average
+Source: Company data, Bloomberg.
+Source: Company data, Bloomberg.
+2017年5月31日
+大华股份 (002236.SZ)
+Revenue and earnings drivers
+Source: Company data, Gao Hua Securities Research.
+Source: Company data.
+Source: Company data.
+2017年5月31日
+大华股份 (002236.SZ)
 Revenue
-13,329
-     
-17,968
-     
-23,643
-     
-30,370
-     
-13,329
-   
-16,920
-   
-21,721
-   
-26,175
-   
-0%
-6%
-9%
-16%
-yoy %
-32%
-35%
-32%
-28%
-32%
-27%
-28%
-21%
-Net income
-1,825
-       
-2,333
-       
-2,820
-       
-3,468
-       
-1,825
-       
-2,449
-       
-3,058
-       
-3,845
-       
-0%
-‐5%
-‐8%
-‐10%
-yoy %
-33%
-28%
-21%
-23%
-33%
-34%
-25%
-26%
-EPS (RMB)
-0.63
-         
-0.80
-         
-0.97
-         
-1.20
-         
-0.63
-       
-0.84
-       
-1.05
-       
-1.32
-       
-0%
-‐4%
-‐7%
-‐10%
-yoy %
-33%
-28%
-21%
-23%
-33%
-33%
-25%
-27%
-GSE
-Bloomberg Consensus
-GSE vs Cons
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-15 
- 
-Exhibit 34: Dahua is trading in line with its historical 
-average 12-month forward P/E  
-12-month forward P/E 
- 
-Exhibit 35: Dahua is trading in the middle of its P/E band   
-12-month forward P/E band 
- 
-Source: Bloomberg, Gao Hua Securities Research. 
- 
-Source: Bloomberg, Gao Hua Securities Research. 
- 
- 
- 
-‐20%
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-140%
-10.0x
-15.0x
-20.0x
-25.0x
-30.0x
-35.0x
-40.0x
-45.0x
-50.0x
-Dahua 12‐month forward P/E
-P/E
-EPS yoy
- ‐
- 5.0
- 10.0
- 15.0
- 20.0
- 25.0
- 30.0
-Dec‐07
-Jun‐08
-Dec‐08
-Jun‐09
-Dec‐09
-Jun‐10
-Dec‐10
-Jun‐11
-Dec‐11
-Jun‐12
-Dec‐12
-Jun‐13
-Dec‐13
-Jun‐14
-Dec‐14
-Jun‐15
-Dec‐15
-Jun‐16
-Dec‐16
-Jun‐17
-Dec‐17
+Over the past decade, Dahua's revenue was mainly driven by front-end products, followed by back-end
+products. Going forward, we expect front-end products will continue to be the biggest revenue driver as
+Dahua continues to gain market share in both domestic and overseas markets.
+As of 2016, front-end products accounted for 49% of Dahua's revenue, followed by 33% in back-end products.
+In 2017E, we expect revenue growth to accelerate to 35% yoy from 32% yoy in 2016, mainly driven by
+Dahua's expanding market share and active participation in PPP projects.
+In terms of geographic breakdown, we note that Dahua's revenue contribution from overseas markets
+expanded from 9% in 2005 to 38% in 2016. Going forward, management expects overseas revenue to
+contribute 60%-70% of the total in three to five years' time. In 2015, due to a higher contribution from the
+solutions business, gross margin in the overseas market surpassed gross margin in China. Going forward, we
+expect revenue contribution from solutions to continue rising as a percentage of the total.
+Dahua revenue composition, 2007-2019E
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+(Rmb mn)
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data.
+Source: Company data.
+COGS
+Both external and internal factors contributed to Dahua's margin recovery in 2016. Externally,
+demand picked up from the latter half of the year, and competition became more rational. Small
+players' margin has been compressed to near loss-making levels. Internally, after two years of
+restructuring to better fit with the solutions business, we have started to see some results, as
+Dahua's domestic solutions business takes up more than half of total China revenue now. Going
+forward, we expect Dahua's gross margin will continue to improve before stabilizing at around
+39%.
+SG&A
+As a percentage of revenue, SG&A increased to 27% in 2016 from 21% in 2005 as Dahua moves
+from a distribution business model to a solutions model. Going forward, management is planning
+to further invest in and expand its global sales network. We expect SG&A as a percentage of
+revenue to continue to rise at a steady pace.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+R&D
+R&D expense as a percentage of revenue rose from 5.8% in 2005 to 10.7% in 2016, showing
+management's increasing focus on technology. Going forward, management expects the level to
+stay above 10%.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+(Rmb mn)
+Source: Company data.
+Source: Company data.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+Financials
+Income statement
+In 2005-2016, Dahua grew its revenue by 45X from Rmb293mn to Rmb13,329mn, at a
+CAGR of 41%, mainly driven by the growth in its front-end product suite, the share of which
+increased from 1% of overall revenue in 2006 to 49% in 2016. This is mainly driven by the
+rising penetration of surveillance cameras in China, as well as overseas markets. By 2020E,
+we expect Dahua's revenue to reach Rmb38,121mn, at a CAGR of 30% from 2016. Front-
+end products will still be a big driver of this growth with incremental as well as
+upgrade/replacement demand for cameras, and its contribution will increase to 57% by
+2020E, based on our estimates.
+In 2005-2016, Dahua grew its EPS by 30X from Rmb0.02 to Rmb0.63, or a CAGR of 36%.
+We notice that EPS growth lagged Dahua's revenue growth, mainly as a result of declining
+gross margins due to competition. By 2020E, we expect Dahua's EPS to reach Rmb1.57, up
+by a CAGR of 26% from 2016, slower than the revenue CAGR as a result of rising sales and
+marketing spend on overseas expansion. The surveillance industry has been consolidating
+with big players such as Dahua gaining market share on a consistent basis. In 2016, gross
+margin improved by 0.5ppt after two years of decline, and net margin improved by 0.1ppt
+after two years of decline. On the other hand, we note small players' profitability level
+continues to deteriorate, with some listed companies turning negative in 2016. As a result,
+we believe Dahua's gross margin should continue to improve going forward.
+Balance sheet
+Dahua has consistently operated at a net cash position over the past decade. As of 2016, its
+net cash to EBITDA ratio was 1.1X, implying a strong balance sheet.
+ROE was 25% in 2016, an improvement from 2014/2015 post its internal restructuring, and
+we expect it to stay relatively stable over the next three years.
+and 110 days in 2015, and we expect this to stabilize over the next three years.
+Cash flow
+Dahua's capex as a percentage of revenue has been in a range of 2%-6% over the past ten
+years, and has consistently had positive and growing free cash flow (EBITDA - capex), and
+we expect the company to maintain its healthy cash flow over the next three years.
+Dahua announced a dividend of Rmb0.10 per share for FY2016, representing a payout ratio
+of 16%. The company does not have an explicit dividend policy, and its payout ratio has been
+in a range of 10% to 34% over the past eight years. We forecast a 16% payout ratio in
+2017E-2019E.
+2017年5月31日
+大华股份 (002236.SZ)
+Valuation and stock price drivers
+We forecast a 32% revenue CAGR and a 24% earnings CAGR for Dahua in 2016-2019E, driven
+by continued market share expansion and stabilizing profitability levels. We apply the 20X
+average P/E multiple for Dahua's global and domestic peers in 2018E to Dahua's 2018E EPS to
+arrive at a 12-month target price of Rmb19.0, implying 4% upside. All the stocks included have
+market caps of more than US$1 bn.
+We believe P/E is the most important valuation metric that investors are focused on, and it is in
+line with our valuation methodology for the A share tech space.
+Note: Estimates for NC companies are based on consensus.
+Source: Company data, Bloomberg, Gao Hua Securities Research.
+2017年5月31日
+大华股份 (002236.SZ)
+12-month forward P/E
+Source: Bloomberg, Gao Hua Securities Research.
+Source: Bloomberg, Gao Hua Securities Research.
+2017年5月31日
+大华股份 (002236.SZ)
+Introducing M&A framework for Dahua
+We have previously examined our Asia Pacific technology coverage using an M&A framework
+(see Navigating the noise (6): Introduce M&A framework, update roadmap, July 4, 2016). In the
+framework, we examine companies' potential as M&A targets and rank them from 1 to 4 based on
+our assessment of three key factors.
+Firstly, we look at whether there are any impediments, such as shareholder
+structure/preferences, industry regulations/government policies, and takeover defense
+strategies that could prevent a transaction from occurring. We then consider four qualitative
+factors 1) attractiveness of technology; 2) attractiveness of customers; 3) cost synergy potential;
+and 4) other/intangible value, and two quantitative factors: 1) market cap; and 2) valuations.
+For companies ranked 1 or 2, we incorporate an M&A component into our target price.
+Shareholder structure and potential impediments
+We gauge whether there are any impediments to M&A because, if there are, a company is
+unlikely to become an M&A target even if it ranks 1 or 2 on qualitative/quantitative criteria.
+When assessing potential impediments, we take into consideration:
+major shareholder preferences (we assume that shareholders with a 20% or greater
+stake have significant influence, or a blocking stake), and take into account: any
+potential actions by major shareholders in the event of a possible acquisition by a third
+party (including whether they would likely be receptive, or if they may be opposed to
+selling), or if they have announced a preference to raise their stake in the company;
+regulatory and or government policy impediments; and
+possible takeover defense measures such as a poison pill.
+We assign a "No" qualification if one or more of the three considerations above are applicable and
+a "Yes" qualification if these considerations do not apply.
+Four qualitative assessment criteria
+Technology: We look at whether or not a company has attractive technology capable of
+generating future value, as well as its technological capabilities and intellectual property
+rights. We assign a rank of "4" if its technology is unattractive, "3" if it is moderately
+attractive, "2" if it is attractive and "1" if it is very attractive.
+Customer base: We look at whether or not a company has an attractive customer base
+and product applications. We also take customer retention and end-market exposure
+(including sales channels) into account. We assign a rank of "4" if its customer base and
+product applications are unattractive, "3" if they are moderately attractive, "2" if they are
+attractive and "1" if they are very attractive.
+Cost synergies: We look at prospects for growth in business scale and scope for profit
+margin/ yield improvement via acquisition of an M&A target company. We assign a rank
+of "4" if there is low possibility of synergies, "3" if there is some possibility, "2" if there is
+high possibility, and "1" if there is a very high possibility.
+Other: We look at whether or not a target company possesses attractive assets,
+including brand strength, outstanding management/employees, and intangible assets.
+We assign a rank of "4" if they are unattractive, "3" if they are moderately attractive, "2" if
+they are attractive, and "1" if they are very attractive.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+Two quantitative assessment criteria
+Market cap: We rank the companies in four tiers, as shown below, based on the
+assumption that the smaller a company is, the easier it is to acquire. We also take
+regional qualities (such as differing market cap ranges between regions) into account.
+2) Valuation: We look at whether a target company's three-year average P/E and
+EV/DACF are below the industry/peer average for the same period, as we believe
+companies trading at a discount to peers are more likely to be acquired.
+We assign a rank of "4" if the company appears overvalued relative to its respective
+industry peer group, "3" if its valuation is in line with the peer average, "2" if its valuation
+is discounted, and "1" if its valuation is significantly discounted. We take into account
+differing valuation multiple ranges between the companies depending on their region
+and their peers.
+Within this framework, we assign an M&A rank of '3' to Dahua.
+This is mainly due to its relatively large market cap of US$7,794mn, and shareholding structure
+(41% held by founder and Chairman Fu Liguan whose shareholding has been stable over time).
+We believe the company is more likely to be an acquirer rather than a target.
+Exhibit 36: We assign an M&A rank of '3' to Dahua
 Dahua
-13.8x
-17.4x
-21.1x
-24.7x
-28.4x
-Price
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-16 
-Introducing M&A framework for Dahua 
-We have previously examined our Asia Pacific technology coverage using an M&A framework 
-(see Navigating the noise (6): Introduce M&A framework, update roadmap, July 4, 2016). In the 
-framework, we examine companies’ potential as M&A targets and rank them from 1 to 4 based on 
-our assessment of three key factors.  
-Firstly, we look at whether there are any impediments, such as shareholder 
-structure/preferences, industry regulations/government policies, and takeover defense 
-strategies that could prevent a transaction from occurring. We then consider four qualitative 
-factors 1) attractiveness of technology; 2) attractiveness of customers; 3) cost synergy potential; 
-and 4) other/intangible value, and two quantitative factors: 1) market cap; and 2) valuations. 
-For companies ranked 1 or 2, we incorporate an M&A component into our target price. 
-Shareholder structure and potential impediments 
-We gauge whether there are any impediments to M&A because, if there are, a company is 
-unlikely to become an M&A target even if it ranks 1 or 2 on qualitative/quantitative criteria. 
-When assessing potential impediments, we take into consideration:  
-1) 
-major shareholder preferences (we assume that shareholders with a 20% or greater 
-stake have significant influence, or a blocking stake), and take into account: any 
-potential actions by major shareholders in the event of a possible acquisition by a third 
-party (including whether they would likely be receptive, or if they may be opposed to 
-selling), or if they have announced a preference to raise their stake in the company;  
-2) 
-regulatory and or government policy impediments; and  
-3) 
-possible takeover defense measures such as a poison pill. 
-We assign a “No” qualification if one or more of the three considerations above are applicable and 
-a “Yes” qualification if these considerations do not apply. 
-Four qualitative assessment criteria 
-1) 
-Technology: We look at whether or not a company has attractive technology capable of 
-generating future value, as well as its technological capabilities and intellectual property 
-rights. We assign a rank of “4” if its technology is unattractive, “3” if it is moderately 
-attractive, “2” if it is attractive and “1” if it is very attractive. 
-2) 
-Customer base: We look at whether or not a company has an attractive customer base 
-and product applications. We also take customer retention and end-market exposure 
-(including sales channels) into account. We assign a rank of “4” if its customer base and 
-product applications are unattractive, “3” if they are moderately attractive, “2” if they are 
-attractive and “1” if they are very attractive. 
-3) 
-Cost synergies: We look at prospects for growth in business scale and scope for profit 
-margin/ yield improvement via acquisition of an M&A target company. We assign a rank 
-of “4” if there is low possibility of synergies, “3” if there is some possibility , “2” if there is 
-high possibility, and “1” if there is a very high possibility. 
-4) 
-Other: We look at whether or not a target company possesses attractive assets, 
-including brand strength, outstanding management/employees, and intangible assets. 
-We assign a rank of “4” if they are unattractive, “3” if they are moderately attractive, “2” if 
-they are attractive, and “1” if they are very attractive. 
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-17 
-Two quantitative assessment criteria 
-1) 
-Market cap: We rank the companies in four tiers, as shown below, based on the 
-assumption that the smaller a company is, the easier it is to acquire. We also take 
-regional qualities (such as differing market cap ranges between regions) into account. 
-2) 
-Valuation: We look at whether a target company’s three-year average P/E and 
-EV/DACF are below the industry/peer average for the same period, as we believe 
-companies trading at a discount to peers are more likely to be acquired. 
- 
-We assign a rank of “4” if the company appears overvalued relative to its respective 
-industry peer group, “3” if its valuation is in line with the peer average, “2” if its valuation 
-is discounted, and “1” if its valuation is significantly discounted. We take into account 
-differing valuation multiple ranges between the companies depending on their region 
-and their peers. 
-Within this framework, we assign an M&A rank of ‘3’ to Dahua. 
-This is mainly due to its relatively large market cap of US$7,794mn, and shareholding structure 
-(41% held by founder and Chairman Fu Liquan whose shareholding has been stable over time). 
-We believe the company is more likely to be an acquirer rather than a target.   
- 
-Exhibit 36: We assign an M&A rank of ‘3’ to Dahua                                                                                                              Dahua 
-M&A score summary 
- 
-Source: Gao Hua Securities Research. 
- 
-Company Name
-% of major 
-shareholder
-Shareholders' 
-intention
-No regulatory 
-barrier
-No anti‐
-takeover 
-measure
-Technology
-Customer base
-Cost synergy
-Other 
-intangible asset 
-Market cap
-Valuation 
-unlocking
-Total 
-score
-M&A Rank
-Zhejiang Dahua Technology Co.
-41%
-No
-Yes
-Yes
-3
-3
-3
-3
-3
-3
-3.0
-3
-Quantitative score (1‐4)
-Qualitative score (1‐4)
-Shareholders’ structure 
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-18 
-Key risks 
-1. 
-Fluctuation in government/public spending 
-As government- and public-related projects accounted for over 40% of total domestic 
-demand in 2016, we see fluctuation risks if there are any policy changes at the central 
-government level and spending delays at the local government level.  
-For example, in 2014-2015, demand in government-related projects slowed due to slowing 
-macroeconomic growth in China. This led to Hikvision’s revenue growth slowing down to 
-36% yoy and 37% yoy in 2014 and 2015, from 53% yoy in 2013. Starting in 2H16, industry 
-participants have noted a recovery in demand, and this could pose an upside risk to our 
-forecasts. 
-2. 
-Competitive intensity 
-There are over 1,500 surveillance product providers in China. Although Dahua’s size is much 
-larger than the rest, it is still not insulated from pricing competition, especially in the relatively 
-low-end, standardized distribution channels.  
-ASP for mature surveillance products generally declines by 6%-7% yoy. However, in periods 
-of weaker demand, surveillance product providers tend to cut pricing more aggressively in 
-order to protect market share and maintain revenue growth. On the other hand, products with 
-technology leadership and limited supply tend to have a high pricing premium initially. 
- 
- 
- 
- 
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-19 
-Appendix 
-Exhibit 37: Dahua management shareholding 
-Dahua management shareholding as detailed in 2016 annual report 
- 
-Source: Wind, company data. 
-Exhibit 38: Dahua employee stock ownership plans 
- 
-Source: Company data. 
-Exhibit 39: Dahua shareholding (as of March 2017) 
- 
- 
-Source: Wind. 
-Name
-Position
-No. of shares 
-(2016)
-As % of total 
-shares (2016)
-Shareholding 
-(Rmb mn)
-Liquan FU
-Vice Chairman, CEO
-1,196,158,240
-41.254%
-16363.44
-Jiangming ZHU
-Director
-193,461,490
-6.672%
-2646.55
-Ailing Chen
-Director
-95,016,502
-3.277%
-1299.83
-Jun WU
-Vice Chairman
-72,357,250
-2.496%
-989.85
-Yuqing CHEN
-VP
-1,575,951
-0.054%
-21.56
-Meizhong WEI
-CFO, VP
-1,437,802
-0.050%
-19.67
-Jian WU
-VP/Board Secretary
-1,332,335
-0.046%
-18.23
-Yong YING
-VP
-1,332,335
-0.046%
-18.23
-Xingming ZHANG
-VP
-1,251,413
-0.043%
-17.12
-Yunlong WU
-VP
-662,280
-0.023%
-9.06
-Huiliang SHEN
-VP
-585,560
-0.020%
-8.01
-Gang YAN
-VP
-368,349
-0.013%
-5.04
-Wei Zhang
-VP
-187,500
-0.006%
-2.57
-Company
-Incentive
-Date of 
-announcement
-Date of 
-grant
-Vesting 
-price 
-(restricted 
-stock)
-Number 
-of shares 
-(mn)
-% of total 
-shares at 
-granting
-Number of 
-participants
-Restricted Stock
-2013.11.9
-2014.3.17
-20.42
-27.20
-2.37%
-640
-Restricted Stock
-2010.6.03
-2010.6.26
-16.72
-6.07
-4.54%
-110
-Exercising conditions at firm level
-Granting conditions at firm level
-None of the events below occur: No auditor reports available for the latest 
-financial year's financial reports; fined by CSRC for severe violation to law & 
-regulation; CSRC does not approve the stock incentive plan
-First/Second/Third Exercising: 2010/2011/2012 ROE no less than 
-16%/17%/18%;  2010/2011/2012 Net Profit no less than Rmb 
-130/160/200 mn
-None of the events below occur: No auditor reports available for the latest 
-financial year's financial reports; fined by CSRC for severe violation to law & 
-regulation; CSRC does not approve the stock incentive plan
-First/Second/Third Exercising: 2014/2015/2016 ROE no less than 
-18%/19%/20%; revenue CAGR between the exercising year and the 
-year before granting no less than 40%/35%/30% 
-Dahua
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-20 
-信息披露附录 
-申明 
+M&A score summary
+Source: Gao Hua Securities Research.
+2017年5月31日
+大华股份 (002236.SZ)
+Key risks
+1. Fluctuation in government/public spending
+As government- and public-related projects accounted for over 40% of total domestic
+demand in 2016, we see fluctuation risks if there are any policy changes at the central
+government level and spending delays at the local government level.
+For example, in 2014-2015, demand in government-related projects slowed due to slowing
+macroeconomic growth in China. This led to Hikvision's revenue growth slowing down to
+36% yoy and 37% yoy in 2014 and 2015, from 53% yoy in 2013. Starting in 2H16, industry
+participants have noted a recovery in demand, and this could pose an upside risk to our
+forecasts.
+2. Competitive intensity
+There are over 1,500 surveillance product providers in China. Although Dahua's size is much
+larger than the rest, it is still not insulated from pricing competition, especially in the relatively
+low-end, standardized distribution channels.
+ASP for mature surveillance products generally declines by 6%-7% yoy. However, in periods
+of weaker demand, surveillance product providers tend to cut pricing more aggressively in
+order to protect market share and maintain revenue growth. On the other hand, products with
+technology leadership and limited supply tend to have a high pricing premium initially.
+2017年5月31日
+大华股份 (002236.SZ)
+Appendix
+Dahua management shareholding as detailed in 2016 annual report
+Source: Company data.
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
+信息披露附录
 本人，侯雪婷，在此申明，本报告所表述的所有观点准确反映了本人对上述公司或其证券的个人看法。此外，本人薪金的任何部分不曾与，不与，也将不会与
-本报告中的具体推荐意见或观点直接或间接相关。 
-投资摘要 
+本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增长、
-回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。  
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：  
-增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本回报率
-和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据12 个月的历史
-波动性计算并经股息调整。  
-Quantum 
-Quantum 是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比较。  
-GS SUSTAIN 
+回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化,但标准方法如下:
+增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如 CROCI、平均运用资本回报率
+和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据 12 个月的历史
+波动性计算并经股息调整。
+Quantum
+Quantum 是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比较。
+GS SUSTAIN
 GS SUSTAIN 是侧重于长期做多建议的相对稳定的全球投资策略。GS SUSTAIN 关注名单涵盖了我们认为相对于全球同业具有持续竞争优势和出色的资本回
 报、因而有望在长期内表现出色的行业领军企业。我们对领军企业的筛选基于对以下三方面的量化分析：现金投资的现金回报、行业地位和管理水平（公司管
-理层对行业面临的环境、社会和企业治理方面管理的有效性）。  
-信息披露 
-相关的股票研究范围 
-侯雪婷：A 股电信与科技、大中华电信与科技。 
-A 股电信与科技：光迅科技、中联通(A)、大华股份、烽火通信、歌尔股份、海康威视、立讯精密、欧菲光、网宿科技、中兴通讯(A)。 
-大中华电信与科技：中国通信服务、中国移动、中国移动(ADR)、中电信、中电信(ADR)、中联通(H)、中联通(ADS)、华虹半导体、联发科、谱瑞科技、矽力
-杰、中芯国际、中芯国际(ADR)、舜宇光学、台积电、台积电 (ADR)、联电、联电 (ADR)、中兴通讯(H)。 
-与公司有关的法定披露 
-以下信息披露了高盛高华证券有限责任公司（“高盛高华”）与北京高华证券有限责任公司（“高华证券”）投资研究部所研究的并在本研究报告中提及的公司之间
-的关系。 
-没有对下述公司的具体信息披露： 大华股份 (Rmb18.26) 
-公司评级、研究行业及评级和相关定义 
-买入、中性、卖出：分析师建议将评为买入或卖出的股票纳入地区投资名单。一只股票在投资名单中评为买入或卖出由其相对于所属研究行业的总体潜在回报决
+理层对行业面临的环境、社会和企业治理方面管理的有效性）。
+信息披露
+相关的股票研究范围
+侯雪婷: A 股电信与科技、大中华电信与科技。
+A 股电信与科技: 光迅科技、中联通(A)、大华股份、烽火通信、歌尔股份、海康威视、立讯精密、欧菲光、网宿科技、中兴通讯(A)。
+大中华电信与科技:中国通信服务、中国移动、中国移动(ADR)、中电信、中电信(ADR)、中联通(H)、中联通(ADS)、华虹半导体、联发科、谱瑞科技、矽力
+杰、中芯国际、中芯国际(ADR)、舜宇光学、台积电、台积电 (ADR)、联电、联电 (ADR)、中兴通讯(H)。
+与公司有关的法定披露
+的关系。
+没有对下述公司的具体信息披露: 大华股份 (Rmb18.26)
+公司评级、研究行业及评级和相关定义
 定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地区投资评估
-委员会根据25-35%的股票评级为买入、10-15%的股票评级为卖出的全球指导原则来管理该地区的投资名单；但是，在某一特定分析师所覆盖行业中买入和卖
 出评级的分布可能根据地区投资评估委员会的决定而有所不同。此外，每个地区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模
-和/或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将股票加入或移出此类强力买入或卖出名单并不意味着分析师对这些股票的投资评级发生
-了改变。 
-总体潜在回报：代表当前股价低于或高于一定时间范围内预测目标价格的幅度，包括所有已付或预期股息。分析师被要求对研究范围内的所有股票给出目标价
-格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。 
-研究行业及评级：每个行业研究的所有股票名单可登陆http://www.gs.com/research/hedge.html 通过主要分析师、股票和行业进行查询。分析师给出下列评级中
-的其中一项代表其根据行业历史基本面及／或估值对研究对象的投资前景的看法。 具吸引力(A)：未来12 个月内投资前景优于研究范围的历史基本面及／或估
-值。 中性(N)：未来12 个月内投资前景相对研究范围的历史基本面及／或估值持平。 谨慎(C)：未来12 个月内投资前景劣于研究范围的历史基本面及／或估
-值。  
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予以除去。 
+了改变。
+的其中一项代表其根据行业历史基本面及 / 或估值对研究对象的投资前景的看法。 具吸引力(A): 未来 12 个月内投资前景优于研究范围的历史基本面及 / 或估
+值。 中性(N): 未来 12 个月内投资前景相对研究范围的历史基本面及 / 或估值持平。 谨慎(C): 未来 12 个月内投资前景劣于研究范围的历史基本面及 / 或估
 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票给予投资评级和价
-格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经暂停对该公司的研究。 
-没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因此不包括在报告内。  
-一般披露 
-本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。 
+格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS): 我们已经暂停对该公司的研究。
+没有研究(NC): 我们没有对该公司进行研究。 不存在或不适用(NA): 此资料不存在或不适用。 无意义(NM): 此资料无意义, 因此不包括在报告内。
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。
 本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整性，客
 户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会适时地更新
-我们的研究，但各种规定可能会阻止我们这样做。除了一些定期出版的行业报告之外，绝大多数报告是在分析师认为适当的时候不定期地出版。 
 高盛高华为高华证券的关联机构，从事投资银行业务。高华证券、高盛高华及它们的关联机构与本报告中涉及的大部分公司保持着投资银行业务和其它业务关
-系。 
-2017 年5 月31 日 
- 
-大华股份 (002236.SZ) 
- 
-全球投资研究 
-21 
+全球投资研究
+2017年5月31日
+大华股份 (002236.SZ)
 我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们的资
-产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。 
-本报告中署名的分析师可能已经与包括高华证券销售人员和交易员在内的我们的客户讨论，或在本报告中讨论交易策略，其中提及可能会对本报告讨论的证券
-市场价格产生短期影响的推动因素或事件，该影响在方向上可能与分析师发布的股票目标价格相反。任何此类交易策略都区别于且不影响分析师对于该股的基
-本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。 
-高华证券及其关联机构、高级职员、董事和雇员，不包括股票分析师和信贷分析师，将不时地对本研究报告所涉及的证券或衍生工具持有多头或空头头寸，担
-任上述证券或衍生工具的交易对手，或买卖上述证券或衍生工具。 
-在高盛组织的会议上的第三方演讲嘉宾（包括高华证券或高盛其它部门人员）的观点不一定反映全球投资研究部的观点，也并非高华证券或高盛的正式观点。 
+产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
+本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
+任上述证券或衍生工具的交易对手,或买卖上述证券或衍生工具。
+在高盛组织的会议上的第三方演讲嘉宾（包括高华证券或高盛其它部门人员）的观点不一定反映全球投资研究部的观点，也并非高华证券或高盛的正式观点。
 在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到个别
 客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意见。本报告
-中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失本金。 
+中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失本金。
 某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自这一
-投资的收入产生不良影响。 
-投资者可以向高华销售代表取得或通过http://www.theocc.com/about/publications/character-risks.jsp 取得当前的期权披露文件。对于包含多重期权买卖的期权
-策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。  
+投资的收入产生不良影响。
+策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。
 所有研究报告均以电子出版物的形式刊登在高华客户网上并向所有客户同步提供。高华未授权任何第三方整合者转发其研究报告。有关某特定证券的研究报
-告、模型或其它数据，请联络您的销售代表。 
-北京高华证券有限责任公司版权所有 © 2017 年  
-未经北京高华证券有限责任公司事先书面同意，本材料的任何部分均不得(i)以任何方式制作任何形式的拷贝、复印件或复制品，或(ii)再次分发。   
- 
- 
+告、模型或其它数据，请联络您的销售代表。
+全球投资研究

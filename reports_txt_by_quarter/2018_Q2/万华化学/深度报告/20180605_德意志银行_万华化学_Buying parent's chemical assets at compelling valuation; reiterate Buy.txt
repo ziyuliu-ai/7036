@@ -1,44 +1,36 @@
-Wanhua Chemical
+Date
 Rating
+Company
+Wanhua Chemical
 Buy
-Valuation & Risks
-Energy
-Chemicals
-Price at 17 Jan 2018 (CNY)
-37.94
-Price target - 12mth (CNY)
-53.00
-52-week range (CNY)
-43.45 - 22.59
-Shanghai Composite
-3,075
 Company Update
 Asia
 China
-Company
-Wanhua Chemical
 Reuters
 Bloomberg
 Exchange
 Ticker
+Energy
 600309.SS
 600309 CH
 SHH
-600309
-Date
-4 June 2018
-Deutsche Bank
-Markets Research
+Chemicals
 Buying parent's chemical assets at
 compelling valuation; reiterate Buy
+Valuation & Risks
+Vitus Leung
 Value and EPS accretive acquisition; reiterate Buy with c.45% upside
+Research Analyst
 Wanhua Chemical (WHC) announced restructuring plan which to acquire Wanhua
 Ningbo, BorsoChem (BC), and others chemical related companies from parentco
 by doing shares swap, with a total consideration of RMB12.3bn; WHC will issue
+Johnson Wan
 406mn shares (c.15% of existing shares) at RMB30.43/share (16% discount to
+Research Analyst
 share price). We expect the deal is EPS accretive and would be +26%/+13%
-for 2018/19E. However, ROE would be ﬂat after completion. Moreover, the deal
+for 2018/19E. However, ROE would be flat after completion. Moreover, the deal
 implied P/E would be 2.6x/3.4x in 2018/19E, and are 71% / 58% discount to current
+Price/price relative
 WHC's 2018E/19E P/E. We reckon it is value accretive (hypothetically add RMB6/
 sh intrinsic value) and reiterate our Buy rating on WHC.
 The world No#1 MDI player; bigger balance sheet to fuel growth
@@ -46,965 +38,95 @@ WHC will become No#1 MDI producer with 2.1mntpa upon this deal completion.
 Currently WHC ranks No#2 with 1.80mntpa MDI capacity in China, shy of BASF
 (1.81mntpa), while target asset BC ranked #8 with 300ktpa in Europe. Moreover,
 WHC plans to build a new MDI capacity in US and a chemical crackers in
+Performance (%)
+3m 12m
 China. We believe the bigger balance sheet could help WHC to further expand its
+Absolute
 footprint globally. Moreover, company emphasis the deal is in line with China's
+Shanghai Composite
 One Belt One Road strategy.
-Giving a conservative guidance on BC's 2019E proﬁt
-The company expects BC's proﬁt to maintain at peak level in 2018E with
-EUR382mn while expecting 2019E proﬁt to drop by 50% yoy to EUR190mn on
+Source: Deutsche Bank
+Giving a conservative guidance on BC's 2019E profit
+The company expects BC's profit to maintain at peak level in 2018E with
+EUR382mn while expecting 2019E profit to drop by 50% yoy to EUR190mn on
 the back of softening in MDI and TDI prices in 2H18 with prediction of 2019E MDI
 and TDI to retreat back to historical average level. The management's guidance
 on BC in 2019E is conservative given MDI/TDI are in extended peak cycle, and the
-company has a proﬁt guarantee scheme which could lead to a more conservative
+company has a profit guarantee scheme which could lead to a more conservative
 stance, in our view.
 Valuation and risk
 We base our RMB53.0 TP on 8.0x 2018E EV/EBITDA, which is at a 16% discount
 to its historical average of 9.5x. Our TP implied 3.4x 2019E P/B with 30% ROE. For
 sensitivity purpose, if we assume the deal to be completed and target assets with
 the same P/B-ROE ratio, we believe the deal could represent a RMB6/sh value
-(+12% to our TP). Key risks: 1) unplanned maintenance turnaround; 2) ﬂuctuations
+(+12% to our TP). Key risks: 1) unplanned maintenance turnaround; 2) fluctuations
 in oil and chemical product prices; 3) lower-than-expected GDP growth; and 4)
 unexpected corporate actions with demanding valuations.
-Vitus Leung
-Research Analyst
-+852-2203 6158
-Johnson Wan
-Research Analyst
-+852-2203 6163
-Price/price relative
-Wanhua Chemical
-Shanghai Composite (Rebased)
-Jul '16
-Jan '17
-Jul '17
-Jan '18
-20
-40
-0
-60
-Performance (%)
-1m
-3m 12m
-Absolute
-0.0
--2.4 61.9
-Shanghai Composite
-5.5
-2.1 10.8
-Source: Deutsche Bank
-Key indicators (FY1)
-ROE (%)
-35.8
-Net debt/equity (%)
-21.3
-Book value/share (CNY)
-12.38
-Price/book (x)
-3.1
-Net interest cover (x)
-25.0
-Operating proﬁt margin (%)
-36.2
-Source: Deutsche Bank
 Deutsche Bank AG/Hong Kong
-Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, investors should be
-aware that the ﬁrm may have a conﬂict of interest that could aﬀect the objectivity of this report. Investors should consider
+Deutsche Bank does and seeks to do business with companies covered in its res Distributed on: 03/06/2018 18:39:09 GMT
+aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider
 this report as only a single factor in making their investment decision. DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1. MCI (P) 091/04/2018. THE CONTENT MAY NOT BE DISTRIBUTED IN THE PEOPLE ’ S
-REPUBLIC OF CHINA (“THE PRC”) (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
+are located in appendix 1. MCI (P) 091/04/2018. The content may not be distributed in the people ' s
+REPUBLIC OF CHINA ("THE PRC") (EXCEPT IN COMPLIANCE WITH THE APPLICABLE LAWS AND REGULATIONS OF
 PRC), EXCLUDING SPECIAL ADMINISTRATIVE REGIONS OF HONG KONG AND MACAU.
-Distributed on: 03/06/2018 18:39:09 GMT
-7T2se3r0Ot6kwoPa
-4 June 2018
-Chemicals
-Wanhua Chemical
-Forecasts and ratios
-Year End Dec 31
-2016A
-2017A
-2018E
-2019E
-2020E
-Sales (CNYm)
-30,099.9
-53,123.2
-47,474.6
-53,041.4
-54,600.3
-EBITDA (CNYm)
-8,108.0
-20,348.6
-20,732.4
-22,420.2
-23,252.1
-Reported NPAT (CNYm)
-3,681.4
-11,133.1
-10,940.3
-12,059.3
-12,716.0
-Reported EPS FD(CNY)
-1.42
-4.08
-4.00
-4.41
-4.65
-DB EPS FD(CNY)
-1.42
-4.08
-4.00
-4.41
-4.65
-DB EPS growth (%)
-128.7
-187.7
--2.0
-10.2
-5.4
-Price/Book (x)
-3.8
-3.8
-3.1
-2.5
-2.1
-PER (x)
-12.5
-7.7
-9.5
-8.6
-8.2
-EV/EBITDA (x)
-8.7
-5.3
-5.7
-5.0
-4.5
-DPS (net) (CNY)
-0.44
-1.50
-1.60
-1.76
-1.86
-Yield (net) (%)
-2.5
-4.8
-4.2
-4.7
-4.9
-Source: Deutsche Bank estimates, company data
-Page 2
-Deutsche Bank AG/Hong Kong
-4 June 2018
-Chemicals
-Wanhua Chemical
 Deal summary and guidance
 Figure 1: Sensitivity on WHC's EPS
-Source: Company data, Deutsche Bank estimates
 Figure 2: Sensitivity on WHC's ROE
 Source: Company data, Deutsche Bank estimates
-Figure 3: Valuations and appraisal of target assets
-Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 3
-4 June 2018
-Chemicals
-Wanhua Chemical
 Figure 4: Key terms of the share issuance and price adjustment
 New share issuance
-No of new shares, gross
 1,716 million
+No of new shares, gross
 No of new shares, net
 406 million, as the company will cancel the shareholding of parent, 1,310 million
-Issuance price
 RMB30.43/sh=RMB31.93/sh-RMB1.5/sh
-RMB31.93/sh is 90% of 120 days average  close price prior to the pricing date;
+RMB31.93/sh is 90% of 120 days average close price prior to the pricing date;
+Issuance price
 RMB1.5/sh is the 9M17 dividend per share including tax
-Lock-up period
 36 months
+Lock-up period
 Pricing adjustment scheme
-Adjustment target
 Issuance price of new share;
+Adjustment target
 Valuation of Wanhua Industries (i.e. the 1310 mn shares of Wanhua Chem)
 Conditions precedent
 Approval of AGM on this scheme
 Adjustable period
 From the announcement day of the AGM resolutions on this deal to the CSRC approval day
-Dec 4 2017
 The first trading day before the company's stock suspension due to this deal
 RMB36.44/sh
 The latest close price of Wanhua stock on Dec 4, 2017, excl. the 9M17 DPS
-Trigger conditions
 1) in the adjustable period, SHCOMP Index has been >10% lower than that of Dec 4, 2017 (3,309.62 points) in
 20 or more days of any continuous 30 trading dasy, AND, Wanhua stock close price dropped >20% than
 RMB36.44/sh.
+Trigger conditions
 2) in the adjustable period, the CSRC Chemicals Index (883123.WI) has been >10% lower than that of Dec 4,
 2017 (3,153.303 points) in 20 or more days of any continuous 30 trading dasy, AND, Wanhua stock close price
 dropped >20% than RMB36.44/sh.
 Adjustment benchemark day
 The day of board meeting resolutions on price adjustment
-Adjustment to issuance price
 In case of above 1) or 2), the company can choose hold board meeting in seven days post the trigger day, or
 not.
+Adjustment to issuance price
 If the board decide to adjust, new issuance price will be set 90% of 20 days average close price prior to the
 adjustment benchemark day.
 If the board decide not to adjust, the issuance price will not be revised any more in future.
-Adjustment to issuance shares nThe company can adjust no. of issuance shares, if it decides to change the pricing.
-Profit promise and compensation shceme
-Promise entities
+Adjustment to issuance shares r The company can adjust no. of issuance shares, if it decides to change the pricing.
+Profit promise and compensation sheeme
 100% of BorsodChem; 100% of Chenfeng Investment; 25.5% of Wanhua Chem (Ningbo); 8% of Yantai Wanhua
+Promise entities
 Chlor-alkali Co
 Promise period
 three years including the deal completion year and two years following it
-Benchmark
 "Asset Assessment Report" written by China United Asset Appraisal Group
-Source:Company data, Deutsche Bank
-Page 4
-Deutsche Bank AG/Hong Kong
-4 June 2018
-Chemicals
-Wanhua Chemical
-Figure 5: Shareholding structure prior to the acquisition / restructure
-Source: Company data, Deutsche Bank
-Figure 6: Shareholding structure post the acquisition / restructure
-Source: Company data, Deutsche Bank
-Deutsche Bank AG/Hong Kong
-Page 5
-4 June 2018
-Chemicals
-Wanhua Chemical
-Figure 7: Revenue and proﬁt forecast of BorsodChem
-Figure 8: 1Q18 revenue and proﬁt of BorsodChem
--60%
--50%
--40%
--30%
--20%
--10%
-0%
-10%
- -
- 300
- 600
- 900
- 1,200
- 1,500
- 1,800
- 2,100
-2017
-2018E
-2019E
-2020E
-2021E
-2022E
-(EUR mn)
-Revenue
-Net profit
-Revenue YoY (RHS)
-Net profit YoY (RHS)
-525 
-162 
-1,679 
-382 
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
- -
- 200
- 400
- 600
- 800
- 1,000
- 1,200
- 1,400
- 1,600
- 1,800
-Revenue
-Net profit
-(EUR mn)
-1Q18
-FY18E
-1Q as % of FY18E (RHS)
+Benchmark
 Source: Company data, Deutsche Bank
 Source: Company data, Deutsche Bank
-Figure 9: Valuations comps
- 
-Reuters
-DB
-Trading
-1-Jun
-Target
-Potential
-Mkt Cap
-Name
-Ticker
-Rating
-Ccy
-Price
-Price
-Upside
-(USD mn)
-FY18E FY19E FY18E FY19E FY18E FY19E FY18E FY19E FY18E FY19E
-FY18E
-FY19E
-North Asia Chemical
-Formosa Petrochemical
-6505.TW
-NR
-TWD
-122.00
-NA
-NA
-38,960
-16.8
-17.7
-3.3
-3.3
-11.0
-11.4
-19.8
-18.8
-4.5
-4.4
-6.9
-NA
-LG Chem
-051910.KS
-Buy
-KRW
-337,000
-480,000
-42%
-22,173
-11.0
-11.0
-1.4
-1.3
-5.2
-5.0
-13.5
-12.2
-1.8
-1.8
-3.6
-3.6
-Nan Ya Plastics
-1303.TW
-NR
-TWD
-85.10
-NA
-NA
-22,625
-13.4
-14.0
-1.8
-1.8
-14.9
-16.0
-13.8
-12.9
-5.5
-5.3
-1.5
-NA
-Formosa Plastics
-1301.TW
-NR
-TWD
-109.50
-NA
-NA
-23,367
-14.1
-13.5
-2.0
-1.9
-19.7
-19.6
-14.2
-13.9
-5.2
-5.2
-6.0
-NA
-Formosa C&F
-1326.TW
-NR
-TWD
-115.00
-NA
-NA
-22,596
-12.9
-13.2
-1.8
-1.8
-11.8
-11.8
-13.4
-13.0
-5.6
-5.5
-3.8
-NA
-Lotte Chemical
-011170.KS
-Hold
-KRW
-363,000
-377,000
-4%
-11,596
-5.7
-6.0
-0.9
-0.8
-2.8
-2.6
-17.5
-14.4
-1.4
-1.4
-7.4
-8.2
-SPC - H
-0338.HK
-Buy
-HKD
-5.67
-5.80
-2%
-9,094
-8.1
-8.3
-1.6
-1.5
-4.8
-4.8
-21.0
-18.8
-7.2
-7.2
-10.1
-9.3
-SPC - A
-600688.SS
-Sell
-CNY
-5.70
-4.70
--18%
-9,094
-9.9
-10.2
-2.0
-1.9
-4.8
-4.8
-21.0
-18.8
-5.8
-5.9
-8.2
-7.5
+Source: Bloomberg Financial L.P., Deutsche Bank estimates. Note: Bloomberg consensus for non-rated (NR) firms and DB estimates for others
 Wanhua Chemical
-600309.SS
+Reuters: 600309.SS
+Bloomberg: 600309 CH
 Buy
-CNY
-36.44
-53.00
-45%
-12,741
-9.5
-8.6
-3.1
-2.5
-5.7
-5.0
-35.8
-32.2
-4.2
-4.7
-15.5
-13.9
-Hanwha Chemical
-009830.KS
-Hold
-KRW
-25,850
-34,000
-32%
-3,930
-4.6
-4.5
-0.6
-0.5
-2.8
-2.2
-14.1
-12.7
-1.5
-1.5
-8.4
-8.4
-Kumho Petrochemical
-011780.KS
-Buy
-KRW
-106,500
-125,000
-17%
-3,024
-13.6
-12.7
-0.0
-0.0
-8.1
-7.1
-11.5
-11.1
-1.1
-1.3
-12.2
-13.3
-TSRC
-2103.TW
-NR
-TWD
-31.30
-NA
-NA
-866
-19.7
-15.6
-1.7
-1.6
-10.9
-9.6
-7.5
-10.3
-4.7
-5.5
-NA
-NA
-OUCC
-1710.TW
-NR
-TWD
-32.45
-NA
-NA
-963
-12.1
-13.9
-1.8
-1.7
-7.7
-8.9
-14.7
-13.1
-6.2
-5.4
-NA
-NA
-Hansol Chemical
-014680.KS
-NR
-KRW
-77,100.00
-NA
-NA
-812
-11.7
-9.9
-2.3
-1.9
-8.4
-7.3
-20.7
-20.6
-1.5
-1.6
-NA
-NA
-Weighted average
-12.5
-12.6
-2.1
-2.0
-10.2
-10.3
-17.5
-16.2
-4.4
-4.3
-6.3
-8.1
-SE Asia Chemical
-Reliance Industries
-RELI.BO
-Buy
-INR
-928.00
-1,180.00
-27%
-88,040
-13.7
-13.1
-1.8
-1.6
-9.1
-8.2
-13.9
-12.9
-0.8
-0.8
-4.1
-5.3
-Siam Cement
-SCC.BK
-Buy
-THB
-452.00
-586.00
-30%
-17,917
-10.5
-10.1
-1.9
-1.7
-7.3
-7.1
-18.8
-17.5
-3.9
-4.1
-7.2
-2.5
-Petronas Chemicals
-PCGB.KL
-NR
-MYR
-8.13
-NA
-NA
-16,309
-16.0
-15.4
-2.1
-2.0
-8.6
-8.3
-13.9
-13.4
-3.1
-3.2
-NA
-NA
-PTTGC
-PTTGC.BK
-Buy
-THB
-87.00
-116.00
-33%
-12,245
-9.2
-9.3
-1.3
-1.2
-5.7
-5.5
-14.9
-13.8
-2.7
-2.6
-7.2
-8.3
-IRPC
-IRPC.BK
-Buy
-THB
-6.50
-7.90
-22%
-3,391
-10.4
-9.1
-1.4
-1.3
-6.9
-6.2
-14.1
-14.9
-4.8
-5.5
-13.2
-11.2
-Indorama
-IVL.BK
-Buy
-THB
-57.75
-67.00
-16%
-10,003
-14.6
-12.2
-2.2
-1.9
-7.6
-6.3
-16.7
-16.9
-2.1
-2.5
-4.7
-6.0
-Chandra Asri
-TPIA.JK
-Hold
-IDR
-5,850
-5,310
--9%
-7,315
-20.1
-21.3
-4.1
-3.8
-12.1
-13.1
-21.7
-18.5
-2.5
-2.3
-1.6
--0.7
-Lotte Chemical Titan
-LOTT.KL
-NR
-MYR
-5.20
-NA
-NA
-2,964
-10.9
-9.6
-0.9
-0.9
-4.5
-4.2
-9.2
-9.8
-3.8
-4.3
-NA
-NA
-Weighted average
-13.5
-12.9
-1.9
-1.7
-8.5
-7.8
-15.0
-14.1
-1.8
-1.9
-4.9
-5.1
-Global Refining & Chemical
-DowDuPont
-DWDP.N
-Buy
-USD
-66.17
-76.00
-15%
-162,853
-16.3
-14.1
-1.5
-1.5
-9.2
-8.7
-9.3
-10.6
-0.0
-0.0
-4.3
-6.7
-BASF
-BASFn.DE
-Buy
-EUR
-84.93
-105.00
-24%
-91,301
-13.1
-11.7
-2.1
-1.9
-8.1
-7.3
-16.9
-17.3
-3.8
-4.0
-7.3
-7.3
-SABIC (SAR)
-2010.SE
-Hold
-SAR
-130.40
-100.00
--23%
-78,828
-19.3
-18.9
-2.2
-2.0
-8.7
-8.3
-11.8
-11.2
-3.4
-3.4
-6.8
-7.1
-LyondellBasell
-LYB.N
-Hold
-USD
-113.12
-116.00
-3%
-36,617
-9.9
-10.1
-4.0
-3.3
-7.3
-7.2
-44.4
-35.8
-3.8
-4.0
-6.2
-5.6
-PPG
-PPG.N
-Buy
-USD
-102.01
-128.00
-25%
-27,628
-15.8
-14.1
-5.3
-5.1
-10.7
-10.1
-30.9
-36.4
-1.9
-1.9
-6.5
-7.4
-Covestro
-1COV.DE
-Buy
-EUR
-79.00
-102.00
-29%
-16,230
-7.3
-7.5
-2.5
-2.1
-4.6
-4.7
-37.4
-30.2
-3.1
-3.4
-13.5
-10.9
-Industries Qatar (QAR)
-IQCD.QA
-Buy
-QAR
-102.51
-125.00
-22%
-16,847
-14.7
-14.6
-1.8
-1.7
-52.7
-49.9
-12.1
-11.8
-4.9
-4.9
-1.8
-1.6
-Weighted average
-14.9
-13.7
-2.4
-2.1
-9.9
-9.3
-18.7
-17.7
-3.1
-3.2
-6.2
-6.9
-FCF Yield (%)
-P/E (x)
-P/B (x)
-EV/EBITDA (x)
-ROE (%)
-Dvd yield (%)
-Source: Bloomberg Financial L.P., Deutsche Bank estimates. Note: Bloomberg consensus for non-rated (NR) ﬁrms and DB estimates for others
-Page 6
-Deutsche Bank AG/Hong Kong
-4 June 2018
-Chemicals
-Wanhua Chemical
-Model updated: 14 March 2018
-Running the numbers
-Asia
-China
-Chemicals
-Wanhua Chemical
-Reuters: 600309.SS
-Bloomberg: 600309 CH
-Buy
-Price (17 Jan 18)
-CNY 37.94
-Target Price
-CNY 53.00
-52 Week range
-CNY 22.59 - 43.45
-Market cap (m)
-CNYm 103,728
- USDm 16,167
 Company Profile
 Wanhua Chemical Group Co. Ltd (WHC) was founded in
 1998. The company engages in the production, sales, R&D
@@ -1013,610 +135,19 @@ and polyurethane. WHC is the largest MDI producer in the
 world with more than 24% market shares globally as of 2016.
 Moreover, the company started six new business segments,
 including intermediate chemicals products, polycarbonate (PC),
-Price Performance
-Wanhua Chemical
-Shanghai Composite (Rebased)
-Jan '17
-Jan '18
-Jul '16
-Jul '17
-10
-20
-30
-40
-50
-Margin Trends
-EBITDA Margin
-EBIT Margin
-15
-16
-17
-18E
-19E
-20E
-20
-30
-40
-10
-50
-Growth & Profitibility
-Sales growth (LHS)
-ROE (RHS)
-15
-16
-17
-18E
-19E
-20E
--25
-0
-25
-50
-75
-100
-10
-20
-30
-40
-50
-60
-Solvency
-Net debt/equity (LHS)
-Net interest cover (RHS)
-15
-16
-17
-18E
-19E
-20E
--50
-0
-50
-100
-150
-200
-0
-100
-25
-50
-75
-125
 Vitus Leung
-+852 2203 6158
-vitus.leung@db.com
-Fiscal year end 31-Dec
-2015
-2016
-2017
-2018E
-2019E
-2020E
-Financial Summary
-DB EPS (CNY)
-0.62
-1.42
-4.08
-4.00
-4.41
-4.65
-Reported EPS (CNY)
-0.62
-1.42
-4.08
-4.00
-4.41
-4.65
-DPS (CNY)
-0.17
-0.44
-1.50
-1.60
-1.76
-1.86
-BVPS (CNY)
-4.5
-5.7
-10.0
-12.4
-15.0
-17.8
-Weighted average shares (m)
-2,595
-2,595
-2,728
-2,734
-2,734
-2,734
-Average market cap (CNYm)
-54,994
-45,932
-86,114
-103,728
-103,728
-103,728
-Enterprise value (CNYm)
-81,640
-70,766
-107,738
-117,219
-111,097
-105,194
-Valuation Metrics
-P/E (DB) (x)
-34.2
-12.5
-7.7
-9.5
-8.6
-8.2
-P/E (Reported) (x)
-34.2
-12.5
-7.7
-9.5
-8.6
-8.2
-P/BV (x)
-3.96
-3.77
-3.79
-3.06
-2.53
-2.13
-FCF Yield (%)
-nm
-nm
-5.0
-14.9
-13.4
-13.4
-Dividend Yield (%)
-0.8
-2.5
-4.8
-4.2
-4.7
-4.9
-EV/Sales (x)
-4.2
-2.4
-2.0
-2.5
-2.1
-1.9
-EV/EBITDA (x)
-17.6
-8.7
-5.3
-5.7
-5.0
-4.5
-EV/EBIT (x)
-22.4
-10.8
-6.3
-6.8
-6.0
-5.4
-Income Statement (CNYm)
-Sales revenue
-19,492
-30,100
-53,123
-47,475
-53,041
-54,600
-Gross profit
-5,872
-9,355
-21,090
-20,576
-22,418
-23,315
-EBITDA
-4,637
-8,108
-20,349
-20,732
-22,420
-23,252
-Depreciation
-934
-1,473
-3,033
-3,361
-3,586
-3,617
-Amortisation
-55
-73
-152
-169
-185
-201
-EBIT
-3,648
-6,562
-17,163
-17,203
-18,648
-19,435
-Net interest income(expense)
--841
--890
--929
--687
--434
--233
-Associates/affiliates
-0
-0
-0
-0
-0
-0
-Exceptionals/extraordinaries
-5
--74
-598
-0
-0
-0
-Other pre-tax income/(expense)
-143
-57
--84
--57
--73
--72
-Profit before tax
-2,954
-5,655
-16,748
-16,458
-18,141
-19,129
-Income tax expense
-675
-1,105
-3,440
-3,381
-3,727
-3,930
-Minorities
-670
-869
-2,175
-2,137
-2,355
-2,484
-Other post-tax income/(expense)
-0
-0
-0
-0
-0
-0
-Net profit
-1,610
-3,681
-11,133
-10,940
-12,059
-12,716
-DB adjustments (including dilution)
-0
-0
-0
-0
-0
-0
-DB Net profit
-1,610
-3,681
-11,133
-10,940
-12,059
-12,716
-Cash Flow (CNYm)
-Cash flow from operations
-4,021
-4,602
-10,210
-19,060
-17,471
-17,448
-Net Capex
--9,050
--5,097
--5,917
--3,600
--3,600
--3,600
-Free cash flow
--5,029
--495
-4,294
-15,460
-13,871
-13,848
-Equity raised/(bought back)
-0
-0
-2,487
-0
-0
-0
-Dividends paid
--2,851
--1,866
--4,298
--5,063
--5,257
--5,319
-Net inc/(dec) in borrowings
-7,706
-3,607
-1,164
--5,584
--4,524
--1,399
-Other investing/financing cash flows
-180
--179
-445
--126
--136
--142
-Net cash flow
-6
-1,068
-4,092
-4,687
-3,954
-6,988
-Change in working capital
--1,079
--69
--7,515
-1,640
--1,285
--1,944
-Balance Sheet (CNYm)
-Cash and other liquid assets
-2,066
-1,987
-3,063
-7,750
-11,703
-18,691
-Tangible fixed assets
-20,046
-28,468
-27,610
-26,945
-26,179
-25,471
-Goodwill/intangible assets
-2,530
-2,889
-2,799
-3,087
-3,359
-3,615
-Associates/investments
-186
-363
-526
-526
-526
-526
-Other assets
-22,976
-17,058
-31,830
-31,708
-33,383
-36,040
-Total assets
-47,804
-50,765
-65,828
-70,015
-75,149
-84,344
-Interest bearing debt
-25,646
-23,672
-21,739
-16,155
-11,630
-10,232
-Other liabilities
-7,335
-8,759
-13,335
-14,406
-14,473
-14,953
-Total liabilities
-32,981
-32,431
-35,074
-30,560
-26,103
-25,185
-Shareholders' equity
-11,571
-14,822
-27,280
-33,844
-41,079
-48,709
-Minorities
-3,252
-3,512
-3,475
-5,611
-7,967
-10,451
-Total shareholders' equity
-14,823
-18,334
-30,754
-39,455
-49,046
-59,160
-Net debt
-23,580
-21,685
-18,676
-8,405
--73
--8,459
-Key Company Metrics
-Sales growth (%)
-nm
-54.4
-76.5
--10.6
-11.7
-2.9
-DB EPS growth (%)
-na
-128.7
-187.7
--2.0
-10.2
-5.4
-EBITDA Margin (%)
-23.8
-26.9
-38.3
-43.7
-42.3
-42.6
-EBIT Margin (%)
-18.7
-21.8
-32.3
-36.2
-35.2
-35.6
-Payout ratio (%)
-26.9
-30.9
-36.8
-40.0
-40.0
-40.0
-ROE (%)
-14.5
-27.9
-52.9
-35.8
-32.2
-28.3
-Capex/sales (%)
-46.4
-17.1
-11.2
-7.6
-6.8
-6.6
-Capex/depreciation (x)
-9.2
-3.3
-1.9
-1.0
-1.0
-0.9
-Net debt/equity (%)
-159.1
-118.3
-60.7
-21.3
--0.1
--14.3
-Net interest cover (x)
-4.3
-7.4
-18.5
-25.0
-43.0
-83.4
 Source: Company data, Deutsche Bank estimates
-Deutsche Bank AG/Hong Kong
-Page 7
-4 June 2018
-Chemicals
-Wanhua Chemical
-Appendix 1
 Important Disclosures
-*Other information available upon request
-Disclosure checklist
-Company
-Ticker
-Recent price*
-Disclosure
-Wanhua Chemical
-600309.SS
-37.94 (CNY) 17 Jan 2018
-NA
-*Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters, Bloomberg and other vendors .
-Other information is sourced from Deutsche Bank, subject companies, and other sources. For disclosures pertaining to recommendations or estimates made on securities other than
-the primary subject of this research, please see the most recently published company report or visit our global disclosure look-up page on our website at https://research.db.com/
-Research/Disclosures/CompanySearch. Aside from within this report, important risk and conﬂict disclosures can also be found at https://research.db.com/Research/Topics/Equities?
-topicId=RB0002. Investors are strongly encouraged to review this information before investing.
-Analyst Certiﬁcation
-The views expressed in this report accurately reﬂect the personal views of the undersigned lead analyst(s) about the
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
 subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
-compensation for providing a speciﬁc recommendation or view in this report. Vitus Leung
+compensation for providing a specific recommendation or view in this report. Vitus Leung
 Historical recommendations and target price. Wanhua Chemical (600309.SS)
-(as of 03/14/2018)
-Current Recommendations
-Buy
-Hold
-Sell
-Not Rated
-Suspended Rating
-** Analyst is no longer at
-Deutsche Bank
-Date
-Security price
-1
-2
-3
-Jan '17
-Jan '18
-Sep '16
-May '17
-Sep '17
-0.00
-10.00
-20.00
-30.00
-40.00
-50.00
-1.
-08/11/2017
-Buy, Target Price Change CNY 42.00 Vitus Leung
-3.
-03/14/2018
-Buy, Target Price Change CNY 53.00 Vitus Leung
-2.
-10/19/2017
-Buy, Target Price Change CNY 47.50 Vitus Leung
-Page 8
-Deutsche Bank AG/Hong Kong
-4 June 2018
-Chemicals
-Wanhua Chemical
 Equity Rating Key
 Equity rating dispersion and banking relationships
 Buy: Based on a current 12- month view of total share-holder
 return (TSR = percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) ,
+price to projected target price plus pro-jected dividend yield),
 we recommend that investors buy the stock.
 Sell: Based on a current 12-month view of total share-holder
 return, we recommend that investors sell the stock.
@@ -1625,186 +156,143 @@ based on this time horizon, do not recommend either a Buy
 or Sell.
 Newly issued research recommendations and target prices
 supersede previously published research.
-Deutsche Bank AG/Hong Kong
-Page 9
-4 June 2018
 Chemicals
 Wanhua Chemical
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aﬃliates (collectively
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
 "Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
 believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
 party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
 is responsible for the accuracy or security controls of those websites.
-??
 If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
 or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
 act as principal for its own account or as agent for another person.
-??
 Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
 own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
-Deutsche Bank, including strategists, sales staﬀ and other analysts, may take views that are inconsistent with those taken
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
 in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
-analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may diﬀer
-from recommendations contained in others, whether as a result of diﬀering time horizons, methodologies, perspectives
-or otherwise. Deutsche Bank and/or its aﬃliates may also be holding debt or equity securities of the issuers it writes
-on. Analysts are paid in part based on the proﬁtability of Deutsche Bank AG and its aﬃliates, which includes investment
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies, perspectives
+or otherwise. Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes
+on. Analysts are paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment
 banking, trading and principal trading revenues.
-??
 Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
-not necessarily reﬂect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
 liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
 have shorter-term trade ideas that may be inconsistent with Deutsche Bank's existing longer-term ratings. Some trade
-ideas for equities are listed as SOLAR ideas on the Research Website ( https://research.db.com/Research/ ) , and can be
-found on the general coverage list and also on the covered company ’ s page. A SOLAR idea represents a high-conviction
-belief by an analyst that a stock will outperform or underperform the market and/or a speciﬁed sector over a time frame
+found on the general coverage list and also on the covered company 's page. A SOLAR idea represents a high-conviction
+belief by an analyst that a stock will outperform or underperform the market and/or a specified sector over a time frame
 of no less than two weeks and no more than six months. In addition to SOLAR ideas, analysts may occasionally discuss
 with our clients, and with Deutsche Bank salespersons and traders, trading strategies or ideas that reference catalysts or
 events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
 which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
 described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
 thereof if an opinion, forecast or estimate changes or becomes inaccurate. Coverage and the frequency of changes in
-market conditions and in both general and company-speciﬁc economic prospects make it diﬃcult to update research at
-deﬁned intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
+market conditions and in both general and company-specific economic prospects make it difficult to update research at
+defined intervals. Updates are at the sole discretion of the coverage analyst or of the Research Department Management,
 and the majority of reports are published at irregular intervals. This report is provided for informational purposes only and
-does not take into account the particular investment objectives, ﬁnancial situations, or needs of individual clients. It is not
-an oﬀer or a solicitation of an oﬀer to buy or sell any ﬁnancial instruments or to participate in any particular trading strategy.
-Target prices are inherently imprecise and a product of the analyst ’ s judgment. The ﬁnancial instruments discussed
+does not take into account the particular investment objectives, financial situations, or needs of individual clients. It is not
+an offer or a solicitation of an offer to buy or sell any financial instruments or to participate in any particular trading strategy.
+Target prices are inherently imprecise and a product of the analyst ' s judgment. The financial instruments discussed
 in this report may not be suitable for all investors, and investors must make their own informed investment decisions.
-Prices and availability of ﬁnancial instruments are subject to change without notice, and investment transactions can lead
-to losses as a result of price ﬂuctuations and other factors. If a ﬁnancial instrument is denominated in a currency other
-than an investor's currency, a change in exchange rates may adversely aﬀect the investment. Past performance is not
+Prices and availability of financial instruments are subject to change without notice, and investment transactions can lead
+to losses as a result of price fluctuations and other factors. If a financial instrument is denominated in a currency other
+than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not
 necessarily indicative of future results. Performance calculations exclude transaction costs, unless otherwise indicated.
 Unless otherwise indicated, prices are current as of the end of the previous trading session and are sourced from local
 exchanges via Reuters, Bloomberg and other vendors. Data is also sourced from Deutsche Bank, subject companies, and
 other parties.
-??
 The Deutsche Bank Research Department is independent of other business divisions of the Bank. Details regarding our
-organizational arrangements and information barriers we have to prevent and avoid conﬂicts of interest with respect to
-our research are available on our website ( https://research.db.com/Research/ ) under Disclaimer.
-?
-Page 10
-Deutsche Bank AG/Hong Kong
-4 June 2018
-Chemicals
-Wanhua Chemical
-?
-Macroeconomic ﬂuctuations often account for most of the risks associated with exposures to instruments that promise
-to pay ﬁxed or variable interest rates. For an investor who is long ﬁxed-rate instruments (thus receiving these cash
-ﬂows), increases in interest rates naturally lift the discount factors applied to the expected cash ﬂows and thus
-cause a loss. The longer the maturity of a certain cash ﬂow and the higher the move in the discount factor, the
-higher will be the loss. Upside surprises in inﬂation, ﬁscal funding needs, and FX depreciation rates are among the
+organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect to
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed-rate instruments (thus receiving these cash
+flows), increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus
+cause a loss. The longer the maturity of a certain cash flow and the higher the move in the discount factor, the
+higher will be the loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the
 most common adverse macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client
-segmentation, regulation (including changes in assets holding limits for diﬀerent types of investors), changes in tax
-policies, currency convertibility (which may constrain currency conversion, repatriation of proﬁts and/or liquidation of
-positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of ﬁxed-
-income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash ﬂows to inﬂation, to
-FX depreciation, or to speciﬁed interest rates – these are common in emerging markets. The index ﬁxings may – by
+segmentation, regulation (including changes in assets holding limits for different types of investors), changes in tax
+policies, currency convertibility (which may constrain currency conversion, repatriation of profits and/or liquidation of
+positions), and settlement issues related to local clearing houses are also important risk factors. The sensitivity of fixed-
+income instruments to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to
+FX depreciation, or to specified interest rates – these are common in emerging markets. The index fixings may – by
 construction – lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of
-the proper ﬁxing (or metric) is particularly important in swaps markets, where ﬂoating coupon rates (i.e., coupons indexed
-to a typically short-dated interest rate reference index) are exchanged for ﬁxed coupons. Funding in a currency that diﬀers
+the proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed
+to a typically short-dated interest rate reference index) are exchanged for fixed coupons. Funding in a currency that differs
 from the currency in which coupons are denominated carries FX risk. Options on swaps (swaptions) the risks typical to
 options in addition to the risks related to rates movements.
-??
 Derivative transactions involve numerous risks including market, counterparty default and illiquidity risk. The
 appropriateness of these products for use by investors depends on the investors' own circumstances, including their
 tax position, their regulatory environment and the nature of their other assets and liabilities; as such, investors should
-take expert legal and ﬁnancial advice before entering into any transaction similar to or inspired by the contents of this
+take expert legal and financial advice before entering into any transaction similar to or inspired by the contents of this
 publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a result of the
 high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater than the
 amount of funds initially deposited – up to theoretically unlimited losses. Trading in options involves risk and is not
 suitable for all investors. Prior to buying or selling an option, investors must review the "Characteristics and Risks of
-Standardized Options”, at http://www.optionsclearing.com/about/publications/character-risks.jsp . If you are unable to
 access the website, please contact your Deutsche Bank representative for a copy of this important document.
-??
 Participants in foreign exchange transactions may incur risks arising from several factors, including: (i) exchange rates can
-be volatile and are subject to large ﬂuctuations; (ii) the value of currencies may be aﬀected by numerous market factors,
+be volatile and are subject to large fluctuations; (ii) the value of currencies may be affected by numerous market factors,
 including world and national economic, political and regulatory events, events in equity and debt markets and changes in
 interest rates; and (iii) currencies may be subject to devaluation or government-imposed exchange controls, which could
-aﬀect the value of the currency. Investors in securities such as ADRs, whose values are aﬀected by the currency of an
-underlying security, eﬀectively assume currency risk.
-??
-Deutsche Bank is not acting as a ﬁnancial adviser, consultant or ﬁduciary to you or any of your agents with respect to
+affect the value of the currency. Investors in securities such as ADRs, whose values are affected by the currency of an
+underlying security, effectively assume currency risk.
+Deutsche Bank is not acting as a financial adviser, consultant or fiduciary to you or any of your agents with respect to
 any information provided in this report. Deutsche Bank does not provide investment, legal, tax or accounting advice, and
 is not acting as an impartial adviser. Information contained herein is being provided on the basis that the recipient will
 make an independent assessment of the merits of any investment decision, and is not meant for retirement accounts or
-for any speciﬁc person or account type. The information we provide is directed only to persons we believe to be ﬁnancially
+for any specific person or account type. The information we provide is directed only to persons we believe to be financially
 sophisticated, who are capable of evaluating investment risks independently, both in general and with regard to particular
-transactions and investment strategies, and who understand that Deutsche Bank has ﬁnancial interests in the oﬀering of
+transactions and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of
 its products and services. If this is not the case, or if you or your agent are an IRA or other retail investor receiving this
 directly from us, we ask that you inform us immediately.
 Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in
-the investor's home jurisdiction. Aside from within this report, important conﬂict disclosures can also be found at
-https://research.db.com/Research/ on each company ’ s research page. Investors are strongly encouraged to review this
+the investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at
 information before investing.
-?
 United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
-Analysts located outside of the United States are employed by non-US aﬃliates that are not subject to FINRA regulations,
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations,
 including those regarding contacts with issuer companies.
-??
-Deutsche Bank AG/Hong Kong
-Page 11
-4 June 2018
-Chemicals
-Wanhua Chemical
 Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oﬃce in Frankfurt am Main. Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ’ s Federal
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany ' s Federal
 Financial Supervisory Authority.
-??
 United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
 House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
 Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
-??
 Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited (save that any
-research relating to futures contracts within the meaning of the Hong Kong Securities and Futures Ordinance Cap. 571
 shall be distributed solely by Deutsche Securities Asia Limited). The provisions set out above in the "Additional Information"
 section shall apply to the fullest extent permissible by local laws and regulations, including without limitation the Code of
 Conduct for Persons Licensed or Registered with the Securities and Futures Commission. .
-??
 India: Prepared by Deutsche Equities India Private Limited (DEIPL) having CIN: U65990MH2002PTC137431 and registered
-oﬃce at 14th Floor, The Capital, C-70, G Block, Bandra Kurla Complex Mumbai (India) 400051. Tel: + 91 22 7180
 4444. It is registered by the Securities and Exchange Board of India (SEBI) as a Stock broker bearing registration
 nos.: NSE (Capital Market Segment) - INB231196834, NSE (F&O Segment) INF231196834, NSE (Currency Derivatives
 Segment) INE231196834, BSE (Capital Market Segment) INB011196830; Merchant Banker bearing SEBI Registration
 no.: INM000010833 and Research Analyst bearing SEBI Registration no.: INH000001741. DEIPL may have received
 administrative warnings from the SEBI for breaches of Indian regulations. The transmission of research through DEIPL
-is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its aﬃliate(s)
+is Deutsche Bank's determination and will not make a recipient a client of DEIPL. Deutsche Bank and/or its affiliate(s)
 may have debt holdings or positions in the subject company. With regard to information on associates, please refer to the
-“Shareholdings” section in the Annual Report at: https://www.db.com/ir/en/annual-reports.htm .
-??
-Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a ﬁnancial
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
 instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
 II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
 in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
 transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
-of share price ﬂuctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
-foreign exchange ﬂuctuations. We may also charge commissions and fees for certain categories of investment advice,
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
 products and services. Recommended investment strategies, products and services carry the risk of losses to principal
-and other losses as a result of changes in market and/or economic trends, and/or ﬂuctuations in market value. Before
-deciding on the purchase of ﬁnancial products and/or services, customers should carefully read the relevant disclosures,
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
 prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or "Nippon" is speciﬁcally designated in the name of the entity.
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
 Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
-the coverage companies speciﬁed by DSI. Some of the foreign securities stated on this report are not disclosed according
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
 to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
-on a 12-month forecast period..
-??
 Korea: Distributed by Deutsche Securities Korea Co.
-??
 South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
 Number in South Africa: 1998/003298/10).
-??
 Singapore: This report is issued by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore
-Branch (One Raﬄes Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
+Branch (One Raffles Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect
 of any matters arising from, or in connection with, this report. Where this report is issued or promulgated by Deutsche
-Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as deﬁned in the
+Bank in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the
 applicable Singapore laws and regulations), they accept legal responsibility to such person for its contents.
-??
-Page 12
-Deutsche Bank AG/Hong Kong
-4 June 2018
 Chemicals
 Wanhua Chemical
 Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
@@ -1813,100 +301,81 @@ may not be distributed to the Taiwan public media or quoted or used by the Taiwa
 Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
 construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
 may not execute transactions for clients in these securities/instruments.
-??
 Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the ﬁnancial services activities that fall within
+Regulatory Authority. Deutsche Bank AG - QFC Branch may undertake only the financial services activities that fall within
 the scope of its existing QFCRA license. Its principal place of business in the QFC: Qatar Financial Centre, Tower, West
-Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related ﬁnancial
-products or services are only available only to Business Customers, as deﬁned by the Qatar Financial Centre Regulatory
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available only to Business Customers, as defined by the Qatar Financial Centre Regulatory
 Authority.
-??
 Russia: The information, interpretation and opinions submitted herein are not in the context of, and do not constitute, any
 appraisal or evaluation activity requiring a license in the Russian Federation.
 Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company (registered no. 07073-37) is regulated by the
-Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the ﬁnancial services activities that fall
+Capital Market Authority. Deutsche Securities Saudi Arabia may undertake only the financial services activities that fall
 within the scope of its existing CMA license. Its principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
-District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
-??
+District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Rivadh, Saudi Arabia.
 United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
-by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may undertake only the ﬁnancial services
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may undertake only the financial services
 activities that fall within the scope of its existing DFSA license. Its principal place of business in the DIFC: Dubai
 International Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been
-distributed by Deutsche Bank AG. Related ﬁnancial products or services are available only to Professional Clients, as
-deﬁned by the Dubai Financial Services Authority.
-??
+distributed by Deutsche Bank AG. Related financial products or services are available only to Professional Clients, as
+defined by the Dubai Financial Services Authority.
 Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the
-Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-speciﬁc
-research disclosures and related information at https://australia.db.com/australia/content/research-information.html
-Where research refers to any particular ﬁnancial product recipients of the research should consider any product disclosure
+Australian Corporations Act and New Zealand Financial Advisors Act, respectively. Please refer to Australia-specific
+Where research refers to any particular financial product recipients of the research should consider any product disclosure
 statement, prospectus or other applicable disclosure document before making any decision about whether to acquire
 the product.
-??
-Additional information relative to securities, other ﬁnancial products or issuers discussed in this report is available upon
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
 request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
 Copyright © 2018 Deutsche Bank AG
-Deutsche Bank AG/Hong Kong
-Page 13
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Raj Hindocha
-Global Chief Operating Oﬃcer
-Research
-Michael Spencer
-Head of APAC Research
-Global Head of Economics
 Steve Pollard
+Raj Hindocha
+Michael Spencer
+Global Chief Operating Officer
+Head of APAC Research
 Head of Americas Research
+Research
+Global Head of Economics
 Global Head of Equity Research
 Anthony Klarman
-Global Head of
-Debt Research
 Paul Reynolds
-Head of EMEA
-Equity Research
 Dave Clark
-Head of APAC
-Equity Research
 Pam Finelli
 Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
 Andreas Neubauer
-Head of Research - Germany
 Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
 and QIS Research
 International Production Locations
 Deutsche Bank AG
-Deutsche Bank Place
-Level 16
-Corner of Hunter & Phillip Streets
-Sydney, NSW 2000
-Australia
-Tel: (61) 2 8258 1234
 Deutsche Bank AG
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Germany
-Tel: (49) 69 910 00
 Deutsche Bank AG
-Filiale Hongkong
-International Commerce Centre,
-1 Austin Road West,Kowloon,
-Hong Kong
-Tel: (852) 2203 8888
 Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
+60329 Frankfurt am Main
+International Commerce Centre,
 Sanno Park Tower
-Chiyoda-ku, Tokyo 100-6171
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
 Japan
-Tel: (81) 3 5156 6770
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
+60 Wall Street
 London EC2N 2EQ
 United Kingdom
-Tel: (44) 20 7545 8000
-Deutsche Bank Securities Inc.
-60 Wall Street
-New York, NY 10005
 United States of America
-Tel: (1) 212 250 2500

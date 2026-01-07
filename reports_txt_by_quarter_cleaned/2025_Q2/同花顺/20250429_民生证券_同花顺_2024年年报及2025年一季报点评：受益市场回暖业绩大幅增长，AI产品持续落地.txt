@@ -1,78 +1,136 @@
-同花顺（300033SZ）2024 年年报及2025 年一季报点评
-受益市场回暖业绩大幅增长，AI 产品持续落地
-事件：同花顺于2025 年4 月24 日晚发布2025 年一季报，2025Q1 公司
-实现营收748 亿元，同比增长2090%；实现归母净利润120 亿元，同比增长
-1591%；实现扣非净利润113 亿元，同比增长1372%。公司在2025 年2 月
-24 日发布2024 年年报，2024 年公司实现营收4187 亿元，同比增长1747%；
-实现归母净利润1823 亿元，同比增长3000%；实现扣非净利润1765 亿元，
-同比增长2893%。
-受益于资本市场活跃，24Q4、25Q1 收入、利润快速增长。2024 年公司实
-现营收4187 亿元，同比增长1747%；实现归母净利润1823 亿元，同比增长
-3000%；实现扣非净利润1765 亿元，同比增长2893%。2025Q1 公司收入端
-同比增长21%，继续保持高速增长态势。得益于2024 年9 月24 日政策推动，
-A 股市场热度大幅回暖，2024Q4、2025Q1A 股整体成交额为111、85 万亿元
-（单边成交额），同比提升分别为125%、66%。
-费用控制稳健，利润端实现更快增长。从费用端看，2024 年公司销售、管
-理、研发费用同比变化分别为19%、8%、1%，费用投入整体保持稳健的背
-景下，利润端相较于收入增长更快。
-市场交易活跃，互联网广告推广业务快速增长。公司广告及互联网业务推广
-回暖，客户对广告及互联网业务推广需求提升，且公司产品与大模型技术深度融
-合，产品竞争力不断提高，平台活跃度上升，广告转化提升所致。
-全面拥抱AI，多个产品实现与AI 融合。公司升级了多个智能产品，推动前
-沿大模型技术应用。问财投资助手升级为原生AI 对话产品，融合多模态大模型
-技术，实现更自然、精准的交互。同创智能体平台集成大模型、低代码和实时金
-融数据，助力上百家金融机构共建超5000 个智能体，日均调用量超300 万次。
-iFind 金融数据终端构建智能化产品矩阵，AIFinD 飞研优化写作与分析能力，产
-业智绘平台提供全景产业链研究。HiPilot 智能编码助手增强跨文件、跨项目的
-代码理解与生成能力，新增慢思考问答、代码可视化、测试套件生成等功能，已
-为数千名开发人员生成超百万行代码。AIGC 文生图大模型优化了语义解析与图
-像生成能力，可应用于金融、电商、娱乐等领域。
-投资建议：预计公司25-27 年归母净利润分别为226、270、318 亿元，
-当前市值对应252627 年的PE 估值分别为61、51、43 倍，考虑到整个金融
-信息行业在2025 年有望迎来回暖，市场交易增加，AI 大模型融合已有产品，公
-司主营业务有望充分受益，维持推荐评级。
-风险提示：供应链风险；核心技术水平升级不及预期；政策推进不及预期。
-归属母公司股东净利润（百万元）
-1同花顺（300033SZ）2024 年三季报点评：
-Q3 经营稳健，期待市场回暖带来业绩拐点-2
-2同花顺（300033SZ）2023 年年报点评：
-打造AI金融的核聚变-20240303
-3同花顺（300033SZ）2023 年三季报点评：
-持续加大AI 领域投入，业绩短期承压-2023
-4同花顺（300033SZ）2023 年半年度业绩
-报告点评：业绩韧性十足，稀缺的金融ITA
-I 应用双龙头-20230804
-同花顺(300033SZ)计算机
-资产负债表（百万元）
-现金流量表（百万元）
-同花顺(300033SZ)计算机
-究方法与分析逻辑得出研究结论，独立、客观地出具本报告，并对本报告的内容和观点负责。本报告清晰准确地反映了研究人员的研
-究观点，结论不受任何第三方的授意、影响，研究人员不曾因、不因、也将不会因本报告中的具体推荐意见或观点而直接或间接收到任
-以报告发布日后的12 个月内公司股价（或行业
-指数）相对同期基准指数的涨跌幅为基准。其
-中：A 股以沪深300 指数为基准；新三板以三
-板成指或三板做市指数为基准；港股以恒生指
-数为基准；美股以纳斯达克综合指数或标普
-500 指数为基准。
-相对基准指数涨幅15%以上
-相对基准指数涨幅5%15%之间
-相对基准指数涨幅-5%5%之间
-相对基准指数跌幅5%以上
-相对基准指数涨幅5%以上
-相对基准指数涨幅-5%5%之间
-相对基准指数跌幅5%以上
-本报告仅供本公司境内客户使用。本公司不会因接收人收到本报告而视其为客户。本报告仅为参考之用，并不构成对客户的投资
-投资目的、财务状况、特殊状况、目标或需要，客户应当充分考虑自身特定状况，进行独立评估，并应同时考量自身的投资目的、财
-务状况和特定需求，必要时就法律、商业、财务、税收等方面咨询专家的意见，不应单纯依靠本报告所载的内容而取代自身的独立判
-断。在任何情况下，本公司不对任何人因使用本报告中的任何内容而导致的任何可能的损失负任何责任。
-本报告是基于已公开信息撰写，但本公司不保证该等信息的准确性或完整性。本报告所载的资料、意见及预测仅反映本公司于发
-布本报告当日的判断，且预测方法及结果存在一定程度局限性。在不同时期，本公司可发出与本报告所刊载的意见、预测不一致的报
-告，但本公司没有义务和责任及时更新本报告所涉及的内容并通知客户。
-正在争取提供投资银行、财务顾问、咨询服务等相关服务，本公司的员工可能担任本报告所提及的公司的董事。客户应充分考虑可能
-存在的利益冲突，勿将本报告作为投资决策的唯一参考依据。
-若本公司以外的金融机构发送本报告，则由该金融机构独自为此发送行为负责。该机构的客户应联系该机构以交易本报告提及的
-其他机构获得本报告而将其视为本公司客户。
-本报告的版权仅归本公司所有，未经书面许可，任何机构或个人不得以任何形式、任何目的进行翻版、转载、发表、篡改或引
-上海：上海市浦东新区浦明路8 号财富金融广场1 幢5F； 200120
-北京：北京市东城区建国门内大街28 号民生金融中心A 座18 层； 100005
-深圳：深圳市福田区中心四路1 号嘉里建设广场1 座10 层 01 室； 518048
+- "" - "" - "" " " " " " " " " " " " "
+" " " " " " " " " " " " " " " " " " "
+『上電子』『正では、『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。『上で記した。
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+- "" - "" e "" e "" e "" e "" e "" e ""
+· Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa a The Pa
+三事。『inal Parine arine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine nu erine
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+në.Pi
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子
+" a"ir" a"ir a"ir a"ir a"ir a"ir a"ir a"ir a"i
+事。『inaparine”『inaparine”
+· "
+" - " a " " " " " " " " " " " " " " " "
+" " " " " " " " " " " " " " " " " " "
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一本『上電子』『一本『上電子』『一本『一本『一本『一本『一本『
+ا "E"-"" a "i"-"" a "i"-"" "" "" "" "" "" "" "" "" "" "" "" ""
+· Baralla Piere and ne ne ne ne ne ne ne ne ne ne ne ne ne
+- " " " " " " " " " " " " " " " " " " "
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+There i n i n i n i n i n i n i n i n i n i
+· ""
+a-ir.Pa-ir.
+n.""
+· "E"-"E"-"E"-"E"-"E"-"E"-"E"-"E"-"E"-"E"
+a"⊩" a"P" = "" " " " " " " " " " " " " " " " "
+" a"in a"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e"in "e
+a"⊩"
+- " " " " " " " " " " " " " " " " " " "
+” ————————————————————————————————————
+- "I" a" " " " " " " " " " " " " " " " "
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+a """ " " " " " " " " " " " " " " " " "
+- "" a line line line line line line line line
+a.".
+a, neri⊩a, neri⊩a, neri neri neri neri neri neri neri neri
+në. "E" " " " " " " " " " " " " " " " " "
+- "I" - "B" - "E" - "" - "" - "" - "" - "" -
+”『一音”『上間”『上間”『上間”『一音”『一音”『一音”
+『『『『『『『『『『『『『『『『『『『
+.『上『中で記録』『上『中で記録』
+· "
+" arin la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la n
+- "" - "" - "" " "" " "" " "" "" "" "" "
+” “Par” “ a” “ a” “ a” “ a” “ a” “ a” “ a” “
+The line are line.
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+『『『『『『『『『『『『『『『『『『『
+· "
+————————————————————————————————————
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
+” ——”『上電子』
+『上電子』『正で記録では、『上間では、では、では、では、では、では、では、では、では、では、
+· "
+” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『Pier” 『P
+" a "le" " " " " " " " " " " " " " " " " "
+- "Rapin la "le "le "le "le "le "le "le "le "le "le
+『『『『『『『『『『『『『『『『『『『
+a "le "le "le "le "le "le "le "le "le "le
+· Bage all ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne line ne
+· "E" = "" = "" = "" = "" = "" = "" = ""
+- "E" a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time
+- ""
+事事。『上記』『記』『記』『記』『記』
+表示。Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine Termine
+”『ina Parine”『ina Parine”
+事事。『『記事で記事では「記事で記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。にりにりにりにりにりにりにりにりにりに
+- " " " " " " " " " " " " " " " " " " "
+”『hadhadhadhadhadhadhadhadhadhadhadhadhadh
+『『『記事で記事であります。『『記事で記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『と『と『とにりにりにりにりにりにりにりにりにりに
+で『上電でにににににににににににににににににに
+。『上電子』『ina
+e "le "le "le "le "le "le "le "le "le "l
+事事。『正記』『正記』
+- Signa a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a min a
+a The The The The The The The The The The
+- "" - "" - "" " " " " " " " " " " " "
+· "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin "E" a Pin
+i.l.
+- The Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thirk Thir
+事品のでは、では、では、では、では、では、では、では、では、では、
+T. T. I. I. I. I. I. I. I. I. I. I. I. I. I.
+事事。『記』『記』『記』『記』『記』『記』『記』『記』『記』
+事事。『記事事事』『記事事事』『記事事事』
+こ。『正記『上記『上記『上記『上記『上記『上記『上記『上記『上記『上
+電響を表現して、では、では、では、では、では、では、では、では、では、では
+『『『『『『『『『『『『『『『『『『『
+『上電子』『上電子』『上電子』『上電子』
+電子ででは、では、では、では、では、では、では、では、では、では
+n - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E
+” “a”。『i” “a” “i” “i” “i” “i” “i” “i” “i” “i” “i” “i
+君下。『上記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+電響・電子でである。では、では、では、では、では、では、では、では、では、では、
+.『上電子』『正『上間子』
+- The The The The The The The The The The
+用。
+・
+では
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+に
+· "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+- "
+-
+”『上電子』
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+n in la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie la nie
+- The The The The The The The The The The

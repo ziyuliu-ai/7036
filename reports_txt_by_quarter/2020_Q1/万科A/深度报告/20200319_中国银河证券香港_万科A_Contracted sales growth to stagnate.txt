@@ -1,2367 +1,406 @@
- 
- 
-Company Note 
-Property Development │ China │ March 18, 2020 
- 
- 
-IMPORTANT DISCLOSURES, INCLUDING ANY REQUIRED RESEARCH CERTIFICATIONS, ARE PROVIDED AT THE END OF THIS REPORT.  IF THIS REPORT IS DISTRIBUTED IN 
-THE UNITED STATES IT IS DISTRIBUTED BY CGS-CIMB SECURITIES (USA), INC. AND IS CONSIDERED THIRD-PARTY AFFILIATED RESEARCH.   
-Powered by the 
-EFA Platform
- 
-DOWNGRADE
-Insert   Insert     
-China Vanke-A 
-Contracted sales growth to stagnate  
-■ Though Vanke’s core net profit increased by 11% yoy in FY19, the company 
-cut DPS for FY19 which disappointed investors.  
-■ We forecast a yoy decline in its contracted sales in FY20F on the back of 
-slower sales momentum amidst the Covid-19 outbreak in China.  
-■ We downgrade Vanke-A from Add to Hold with a lower TP of Rmb29.7, based 
-on a lower 7.8x FY20F P/E. 
-Decline in FY19 DPS a disappointment to investors    
-Although Vanke reported core net profit rose 11% yoy to Rmb39bn in FY19, the DPS 
-decline to Rmb1.045 (from Rmb1.07 in FY18) disappointed investors. Management 
-explained the decline in the payout ratio to 30% (34% in FY18) was due to prudent cash 
-flow management amid the Covid-19 outbreak, and is confident of maintaining a stable 
-payout ratio in the next few years. 
-Weak contracted sales performance ahead 
-Vanke reported contracted sales only rose 4% yoy to Rmb630bn in FY19. Management 
-estimates a shortfall in contracted sales of Rmb51bn in Feb-Mar 20 on the back of 
-continued Covid-19 outbreak in China. In view of a delayed schedule for project launch, 
-we revise its FY20F contracted sales to Rmb622bn (down from Rmb740bn), translating 
-to 1% yoy decline. At end-19, it had unbooked sales of Rmb609bn, leaving sufficient 
-room to grow its topline in FY20F-21F. However, we expect its gross profit margin (GPM) 
-for recognised sales to decline gradually on the back of higher land cost. 
-Active landbanking in tier 1 and tier 2 cities to continue  
-In FY19, it acquired gross land bank GFA of 37.2m sq m at an average land cost of 
-Rmb6,252/sq m, a 15% yoy increase as it spent 79% of its total land acquisition cost on 
-tier 1 and 2 cities. The new land bank GFA acquired was lower than the contracted sales 
-GFA in FY19 (41.1m sq m); therefore we think it will continue to actively look for new land 
-bank in FY20F to avoid land bank depletion.  
-No plans for spinning off its property management unit 
-Vanke’s property management (PM) unit reported total revenue of Rmb12.7bn, up 30% 
-yoy. At end-19, its PM unit had a total contracted GFA of 640m sq m (+26% yoy), in 
-which its GFA under management amounted to 450m sq m. However, Vanke has no 
-plans for spinning off its PM unit in the near term.  
-Downgrade from Add to Hold with a lower FY20F P/E  
-We cut FY20F/21F EPS by 7%/8% to factor in a slower construction and delivery 
-schedule. We downgrade Vanke-A from Add to Hold in view of its weaker sales and profit 
-growth prospects with a lower TP of Rmb29.7, based on a lower FY20F P/E of 7.8x (9x 
-previously), which is the 5-year average 12-month forward P/E. A key upside risk is 
-stronger-than-expected contracted sales. Prolonged Covid-19 outbreak and further 
-economic slowdown in China are key downside risks.  
-           
- 
-SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS 
- 
-  China 
-HOLD (previously ADD) 
-Consensus ratings*: Buy 31 Hold 4 
-Sell 2 
-Current price: 
-Rmb28.11 
-Target price: 
-Rmb29.70 
-Previous target: 
-Rmb37.00 
-Up/downside: 
-5.7% 
-CGS-CIMB / Consensus: 
--13.6% 
- 
-Reuters: 
-000002.SZ 
-Bloomberg: 
-000002 CH 
-Market cap: 
-US$44,466m 
- 
-Rmb312,130m 
-Average daily turnover: 
-US$327.9m 
- 
-Rmb2,286m 
-Current shares o/s: 
-11,302m 
-Free float: 
-46.3% 
-*Source: Bloomberg  
-Key changes in this note 
- FY20F EPS cut by 7%.  
- FY21F EPS cut by 8%.  
- 
- 
-Source: Bloomberg
-Price performance 
-1M
-3M
-12M 
-Absolute (%) 
--7.6
--7.7
-0.1 
-Relative (%) 
--0.8
-0.3
-8.1 
-Major shareholders 
-% held
-Shenzhen Metro Group 
-29.4
-Baoneng Group 
-24.3
-Insert  
-Analyst(s) 
- 
-Raymond CHENG, CFA 
-T (852) 2539 1324  
-E raymond.cheng@cgs-cimb.com  
-Will CHU 
-T (852) 2539 1327  
-E will.chu@cgs-cimb.com  
-Jeffrey MAK  
-T (852) 2539 1328  
-E jeffrey.mak@cgs-cimb.com  
- 
-Financial Summary
-Dec-18A
-Dec-19A
-Dec-20F
-Dec-21F
-Dec-22F
-Total Net Revenues (Rmbm)
-297,679
-367,894
-442,263
-554,859
-608,496
-Operating EBITDA (Rmbm)
-69,244
-79,309
-85,179
-101,990
-107,355
-Net Profit (Rmbm)
-36,820
-39,140
-43,032
-52,624
-50,521
-Core EPS (Rmb)
-3.19
-3.49
-3.81
-4.20
-4.45
-Core EPS Growth
-28.2%
-9.5%
-9.1%
-10.4%
-5.8%
-FD Core P/E (x)
-8.81
-8.02
-7.38
-6.69
-6.32
-DPS (Rmb)
-1.07
-1.05
-1.14
-1.26
-1.31
-Dividend Yield
-3.81%
-3.72%
-4.06%
-4.48%
-4.66%
-EV/EBITDA (x)
-6.69
-6.19
-6.23
-5.41
-5.19
-P/FCFE (x)
-7.87
-11.25
-7.21
-5.83
-4.36
-Net Gearing
-30.9%
-34.3%
-39.4%
-38.8%
-34.0%
-P/BV (x)
-1.99
-1.69
-1.45
-1.25
-1.10
-ROE
-24.4%
-22.8%
-21.1%
-20.1%
-18.5%
-% Change In Core EPS Estimates
- 
- 
-(7.30%)
-(8.02%)
-CGS-CIMB/Consensus EPS (x)
- 
- 
-0.88
-0.92
-91.0
-96.0
-101.0
-106.0
-111.0
-116.0
-24.0
-26.0
-28.0
-30.0
-32.0
-34.0
-Price Close
-Relative to SHCOMP (RHS)
-50
-100
-150
-200
-Mar-19
-Jun-19
-Sep-19
-Dec-19
-Vol m
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-2 
- 
- 
- 
- 
- 
- 
-Figure 1: China Vanke-A FY19 results review   
- 
-SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS  
- 
-Figure 2: Vanke-A’s 12M forward P/E since Mar 2015  
- 
-SOURCES: CGS-CIMB RESEARCH, BLOOMBERG, COMPANY REPORTS  
- 
-Figure 3: Summary of target price changes  
- 
-SOURCE: CGS-CIMB RESEARCH  
- 
-Figure 4: End-2020F NAV breakdown  
- 
-SOURCE: CGS-CIMB RESEARCH  
-  
- 
-2018
-2019
-yoy chg %
-2019F
-var %
-Turnover 
-297,679
-367,894
-24%
-395,525
--7%
-Cost of sales (including LAT + BT)
-(209,280)
-(267,456)
-28%
-(291,649)
--8%
-Gross profit
-88,399
-100,438
-14%
-103,876
--3%
-Selling & admin expenses
-(19,155)
-(21,130)
-10%
-(25,056)
--16%
-Operating profit
-69,244
-79,309
-15%
-78,820
-1%
-Net interest (expenses)/income
-(5,999)
-(5,736)
--4%
-(5,777)
--1%
-Share of results from asso & JV
-6,280
-3,791
--40%
-6,908
--45%
-Other income/(expenses)
-(42)
-(84)
-100%
-0
-n.a.
-Profit before tax
-69,484
-77,280
-11%
-79,951
--3%
-Taxation
-(18,821)
-(21,891)
-16%
-(18,261)
-20%
-Minority interests
-(15,500)
-(16,260)
-5%
-(21,256)
--24%
-Core profit
-35,163
-39,129
-11%
-40,434
--3%
-Total one-off items
-(1,391)
-(257)
--82%
-Reported profit
-33,773
-38,872
-15%
-DPS (Rmb)
-1.07
-1.045
--2%
-1.21
--14%
-Ratios
-Gross margin (post-LAT)
-29.7%
-27.3%
--2%
-26.3%
-1%
-Gross margin (pre-LAT)
-37.0%
-35.9%
--1%
-32.8%
-3%
-Net gearing
-30.9%
-34.3%
-3%
-37.5%
--3%
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-Mar-15
-Sep-15
-Mar-16
-Sep-16
-Mar-17
-Sep-17
-Mar-18
-Sep-18
-Mar-19
-Sep-19
-Mar-20
-Vanke-A 12-month forward P/E (x)
-Average 5-year forward P/E (x)
-1 s.d below
-1 s.d. above average
-5-year average: 7.8x
-Vanke-A target price changes
-Old
-New
-Chg
-FY20F EPS (Rmb)
-4.11
-3.81
--7%
-Target P/E (x)
-9.0
-7.8
--13%
-Target price (Rmb)
-37.0
-29.7
--20%
-End-2020F NAV
-Rmb m
-Rmb/share
-Development properties
-458,339
-40.6
-                                        
-Investment properties
-62,530
-5.5
-                                          
-Net debt
-(92,857)
-(8.2)
-                                         
-NAV
-428,012
-37.9
-                                        
-9Y8VrUvXgZnUmUeXxUmMoP8OaO6MtRpPpNrRjMpPnOjMmNzQbRoPsOuOsOtQvPmMrM
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-3 
- 
- 
-Figure 5: Earnings revisions  
- 
-SOURCE: CGS-CIMB RESEARCH  
- 
-Figure 6: China property peer comparison   
- 
-SOURCES: CGS-CIMB RESEARCH, BLOOMBERG, COMPANY REPORTS  
- 
- 
- 
-Rmb m
-Old
-New
-% chg
-Old
-New
-% chg
-New
-Total revenue
-502,746
-     
-442,263
-     
--12%
-620,226
-     
-554,859
-     
--11%
-608,496
-     
-Core net profit
-46,423
-      
-43,032
-      
--7%
-51,633
-      
-47,493
-      
--8%
-50,241
-      
-EPS (Rmb)
-4.11
-          
-3.81
-          
--7%
-4.57
-          
-4.20
-          
--8%
-4.45
-          
-DPS (Rmb)
-1.38
-          
-1.14
-          
--17%
-1.53
-          
-1.26
-          
--18%
-1.31
-          
-2020F
-2021F
-2022F
-Share 
-Disc. to
-Bloomberg
-price
-TP
-Mkt cap NAV/sh
-NAV Upside
-Company
-Ticker
-(HK$)
-(HK$)
-Rating
-(US$ m)
-(HK$)
-(%)
-(%)
-2018 2019F 2020F 2021F
-2018 2019F 2020F
-2018 2019F 2020F
-2018 2019F 2020F
-COLI
-688 HK
-24.40
-38.00
-ADD
-34,429
-42.2
-42
-         
-56
-7.2
-6.2
-5.5
-5.1
-0.9
-0.8
-0.8
-3.7
-4.1
-4.7
-32
-31
-24
-CR Land
-1109 HK
-32.15
-46.90
-ADD
-29,200
-52.1
-38
-         
-46
-9.6
-7.8
-6.8
-6.0
-1.5
-1.3
-1.3
-3.6
-4.4
-5.2
-34
-38
-37
-China Vanke - H
-2202 HK
-27.15
-28.50
-HOLD
-44,509
-40.7
-33
-         
-5
-7.7
-7.0
-6.4
-5.8
-1.7
-1.5
-1.3
-4.4
-4.3
-4.6
-31
-34
-39
-CIFI
-884 HK
-4.90
-8.60
-ADD
-4,987
-14.4
-66
-         
-76
-6.1
-4.8
-4.1
-3.5
-1.2
-1.0
-0.8
-6.0
-7.6
-8.8
-67
-64
-60
-Country Garden
-2007 HK
-8.68
-13.00
-HOLD
-24,431
-16.3
-47
-         
-50
-5.2
-4.5
-3.8
-3.4
-1.4
-1.1
-0.9
-6.2
-7.7
-9.0
-50
-55
-53
-Evergrande
-3333 HK
-12.94
-27.1
-ADD
-22,064
-40.1
-68
-         
-109
-3.1
-4.1
-3.5
-3.1
-1.1
-1.1
-0.9
-9.6
-12.3
-11.1
-152
-155
-140
-Greentown
-3900 HK
-8.57
-11.70
-HOLD
-2,396
-19.5
-56
-         
-37
-8.1
-7.0
-6.3
-5.7
-0.6
-0.6
-0.5
-3.0
-3.5
-3.7
-105
-99
-89
-Guangzhou R&F
-2777 HK
-10.32
-19.80
-ADD
-4,646
-33.0
-69
-         
-92
-3.4
-2.7
-2.6
-2.3
-0.4
-0.4
-0.4
-11.9
-12.0
-13.7
-184
-177
-155
-KWG
-1813 HK
-9.64
-15.40
-ADD
-3,944
-22.0
-56
-         
-60
-8.3
-5.8
-4.2
-3.4
-0.9
-0.9
-0.8
-6.4
-6.9
-9.4
-65
-71
-66
-Longfor
-960 HK
-34.50
-44.00
-ADD
-26,594
-44.0
-22
-         
-28
-14.3
-11.3
-9.2
-7.6
-2.3
-2.1
-1.8
-3.2
-4.0
-4.9
-53
-57
-52
-Shimao Prop
-813 HK
-23.85
-40.00
-ADD
-10,626
-50.0
-52
-         
-68
-8.4
-6.5
-5.1
-4.1
-1.1
-1.0
-0.8
-4.6
-6.2
-7.5
-57
-63
-62
-Sino-Ocean
-3377 HK
-2.32
-3.10
-HOLD
-2,276
-7.7
-70
-         
-34
-8.6
-5.8
-4.4
-4.1
-0.3
-0.3
-0.3
-9.0
-7.4
-9.4
-73
-72
-70
-SOHO China
-410 HK
-3.75
-3.70
-ADD
-2,511
-5.3
-29
-         
-(1)
-48.3
-42.7
-35.1
-31.5
-0.5
-0.5
-0.5
-0.9
-1.0
-1.2
-42
-42
-41
-Sunac
-1918 HK
-35.25
-57.60
-ADD
-21,091
-64.0
-45
-         
-63
-8.3
-5.3
-3.9
-3.0
-2.5
-1.9
-1.5
-2.6
-4.9
-6.5
-170
-187
-142
-Yuzhou
-1628 HK
-3.24
-5.90
-ADD
-2,179
-11.7
-72
-         
-82
-3.7
-3.3
-2.8
-2.4
-0.7
-0.6
-0.5
-9.6
-14.0
-13.5
-67
-69
-67
-Zhongliang
-2772 HK
-5.09
-8.10
-ADD
-2,348
-18.1
-72
-         
-59
-8.8
-4.1
-3.3
-2.7
-6.4
-2.3
-1.4
-0.0
-9.6
-12.0
-58
-77
-75
-Greater Bay Area (GBA) plays
-Agile
-3383 HK
-9.13
-15.90
-ADD
-4,606
-26.5
-66
-         
-74
-4.6
-4.1
-3.6
-3.3
-0.7
-0.6
-0.5
-10.5
-12.3
-13.7
-79
-83
-76
-China Aoyuan
-3883 HK
-8.37
-16.70
-ADD
-2,900
-20.9
-60
-         
-100
-8.7
-4.7
-3.2
-2.6
-1.7
-1.2
-0.9
-4.8
-7.3
-10.7
-59
-61
-47
-Logan Property
-3380 HK
-10.90
-17.10
-ADD
-7,732
-24.4
-55
-         
-57
-7.7
-5.4
-4.5
-4.0
-2.0
-1.3
-1.0
-5.4
-9.1
-10.9
-54
-56
-55
-SZ Investment
-604 HK
-2.30
-3.20
-HOLD
-2,617
-7.1
-68
-         
-39
-5.9
-5.7
-5.1
-4.9
-0.5
-0.4
-0.4
-7.8
-8.3
-9.1
-41
-40
-38
-Times China
-1233 HK
-11.82
-22.40
-ADD
-2,956
-32.0
-63
-         
-90
-4.7
-3.7
-3.2
-2.5
-1.2
-1.1
-0.8
-6.4
-7.9
-9.3
-63
-67
-66
-GBA average
-62
-72
-6.3
-4.7
-3.9
-3.5
-1.2
-0.9
-0.7
-7.0
-9.0
-10.8
-59
-61
-56
-HK-listed developers' average
-56
-61
-7.1
-5.5
-4.6
-4.0
-1.5
-1.1
-0.9
-5.9
-7.7
-8.9
-75
-78
-71
-China Vanke - A
-000002 CH
-28.11
-29.70
-HOLD
-44,466
-37.9
-26
-         
-6
-8.8
-7.8
-6.8
-6.2
-2.0
-1.7
-1.5
-3.8
-4.3
-4.9
-31
-34
-39
-CMSK
-001979 CH
-16.77
-29.30
-ADD
-18,907
-36.1
-54
-         
-75
-8.8
-7.6
-6.2
-5.6
-1.9
-1.7
-1.4
-4.7
-5.3
-6.5
-55
-54
-48
-Seazen Holdings
-601155 CH
-29.11
-37.90
-HOLD
-9,359
-45.6
-36
-         
-30
-8.3
-6.1
-4.8
-4.4
-2.2
-1.7
-1.4
-5.2
-5.3
-6.8
-35
-37
-36
-Gemdale Corp
-600383 CH
-13.40
-20.00
-ADD
-8,618
-21.8
-39
-         
-49
-8.2
-6.7
-5.6
-5.0
-1.3
-1.1
-1.0
-4.5
-5.0
-6.0
-54
-63
-53
-Poly Developments
-600048 CH
-15.09
-18.20
-ADD
-25,652
-22.2
-32
-         
-21
-10.0
-7.9
-6.6
-5.8
-1.5
-1.3
-1.1
-3.3
-3.8
-4.5
-83
-76
-67
-A-share developers' average*
-37
-36
-8.8
-7.2
-6.0
-5.4
-1.8
-1.5
-1.3
-4.3
-4.7
-5.8
-52
-53
-49
-Small and mid-cap average (HK-listcos only)
-63
-67
-6.5
-5.0
-4.1
-3.6
-1.4
-0.9
-0.7
-6.6
-8.6
-10.1
-75
-77
-71
-Overall average
-51
-54
-7.5
-5.8
-4.9
-4.3
-1.5
-1.2
-1.0
-5.6
-7.1
-8.3
-70
-73
-66
-Share price data as of 17 Mar 2020; * A-share data stated in Rmb
-P/E (x)
-P/BV(x)
-Yield (%)
-Net Gearing (%)
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-4 
- 
- 
-BY THE NUMBERS 
- 
- 
- 
- 
- 
- 
-SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS  
-  
- 
-17.0%
-17.9%
-18.8%
-19.7%
-20.6%
-21.4%
-22.3%
-23.2%
-24.1%
-25.0%
-1.40
-1.60
-1.80
-2.00
-2.20
-2.40
-2.60
-2.80
-3.00
-3.20
-Jan-16A Jan-17A Jan-18A Jan-19A Jan-20F Jan-21F
-P/BV vs ROE
-Rolling P/BV (x) (lhs)
-ROE (rhs)
-6.0%
-10.2%
-14.3%
-18.5%
-22.7%
-26.8%
-31.0%
-6.30
-7.30
-8.30
-9.30
-10.30
-11.30
-12.30
-Jan-16A Jan-17AJan-18A Jan-19A Jan-20F Jan-21F
-12-mth Fwd FD Core P/E vs FD Core EPS 
-Growth
-12-mth Fwd Rolling FD Core P/E (x) (lhs)
-FD Core EPS Growth (rhs)
-Profit & Loss 
-(Rmbm)
-Dec-18A
-Dec-19A
-Dec-20F
-Dec-21F
-Dec-22F
-Total Net Revenues
-297,679
-367,894
-442,263
-554,859
-608,496
-Gross Profit
-88,399
-100,438
-111,464
-135,523
-144,129
-Operating EBITDA
-69,244
-79,309
-85,179
-101,990
-107,355
-Depreciation And Amortisation
-0
-0
-0
-0
-0
-Operating EBIT
-69,244
-79,309
-85,179
-101,990
-107,355
-Financial Income/(Expense)
-(4,341)
-(5,725)
-(6,415)
-(7,299)
-(8,071)
-Pretax Income/(Loss) from Assoc.
-6,280
-3,791
-4,283
-4,712
-5,042
-Non-Operating Income/(Expense)
-(42)
-(84)
-0
-0
-0
-Profit Before Tax (pre-EI)
-71,141
-77,291
-83,048
-99,403
-104,326
-Exceptional Items
-Pre-tax Profit
-71,141
-77,291
-83,048
-99,403
-104,326
-Taxation
-(18,821)
-(21,891)
-(19,691)
-(22,390)
-(24,538)
-Exceptional Income - post-tax
-Profit After Tax
-52,320
-55,400
-63,357
-77,013
-79,788
-Minority Interests
-(15,500)
-(16,260)
-(20,324)
-(24,389)
-(29,267)
-Pref. & Special Div
-0
-0
-0
-0
-0
-FX Gain/(Loss) - post tax
-Other Adjustments - post-tax
-Net Profit
-36,820
-39,140
-43,032
-52,624
-50,521
-Recurring Net Profit
-35,163
-39,129
-43,032
-47,493
-50,241
-Fully Diluted Recurring Net Profit
-35,163
-39,129
-43,032
-47,493
-50,241
-Cash Flow 
-(Rmbm)
-Dec-18A
-Dec-19A
-Dec-20F
-Dec-21F
-Dec-22F
-EBITDA
-69,244
-79,309
-85,179
-101,990
-107,355
-Cash Flow from Invt. & Assoc.
-6,280
-3,791
-4,283
-4,712
-5,042
-Change In Working Capital
-153,937
-136,134
-150,568
-166,658
-184,547
-Straight Line Adjustment
-(Incr)/Decr in Total Provisions
-Other Non-Cash (Income)/Expense
-Other Operating Cashflow
-(131,513)
-(100,840)
-(106,901)
-(123,943)
-(129,580)
-Net Interest (Paid)/Received
-(10,306)
-(11,419)
-(12,596)
-(13,695)
-(14,680)
-Tax Paid
-(54,023)
-(61,287)
-(67,416)
-(70,786)
-(74,326)
-Cashflow From Operations
-33,618
-45,687
-53,117
-64,936
-78,358
-Capex
-0
-0
-0
-0
-0
-Disposals Of FAs/subsidiaries
-3,316
-4,749
-2,582
-2,471
-2,680
-Disposals of Investment Properties
-Acq. Of Subsidiaries/investments
-(24,438)
-(15,277)
-(17,078)
-(18,931)
-(17,096)
-Other Investing Cashflow
-(46,242)
-(18,099)
-(13,855)
-(13,306)
-(10,317)
-Cash Flow From Investing
-(67,364)
-(28,627)
-(28,351)
-(29,766)
-(24,732)
-Debt Raised/(repaid)
-73,143
-10,864
-19,284
-19,284
-19,284
-Proceeds From Issue Of Shares
-0
-0
-0
-0
-0
-Shares Repurchased
-Dividends Paid
-(40,249)
-(56,016)
-(57,697)
-(59,428)
-(61,210)
-Preferred Dividends
-Other Financing Cashflow
-11,904
-11,814
-0
-0
-0
-Cash Flow From Financing
-44,798
-(33,338)
-(38,412)
-(40,143)
-(41,926)
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-5 
- 
- 
-BY THE NUMBERS… cont’d 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS  
- 
- 
-Balance Sheet 
-(Rmbm)
-Dec-18A
-Dec-19A
-Dec-20F
-Dec-21F
-Dec-22F
-Total Cash And Equivalents
-188,417
-166,195
-146,092
-141,120
-152,820
-Properties Under Development
-Total Debtors
-280,401
-277,980
-305,778
-336,356
-369,991
-Inventories
-750,303
-897,019
-986,721
-1,085,393
-1,193,932
-Total Other Current Assets
-75,951
-97,796
-86,873
-92,335
-89,604
-Total Current Assets
-1,295,072
-1,438,989
-1,525,465
-1,655,203
-1,806,347
-Fixed Assets
-67,503
-90,144
-99,159
-109,075
-119,982
-Total Investments
-0
-0
-0
-0
-0
-Intangible Assets
-0
-0
-0
-0
-0
-Total Other Non-Current Assets
-166,005
-200,796
-204,310
-208,351
-212,999
-Total Non-current Assets
-233,508
-290,940
-303,469
-317,426
-332,981
-Short-term Debt
-93,183
-95,086
-95,086
-95,086
-95,086
-Current Portion of Long-Term Debt
-Total Creditors
-229,597
-268,222
-295,044
-324,549
-357,004
-Other Current Liabilities
-799,133
-909,302
-928,256
-985,860
-1,061,323
-Total Current Liabilities
-1,121,914
-1,272,610
-1,318,386
-1,405,494
-1,513,413
-Total Long-term Debt
-168,024
-163,965
-173,250
-182,534
-191,819
-Hybrid Debt - Debt Component
-Total Other Non-Current Liabilities
-2,482
-22,492
-26,991
-32,389
-38,867
-Total Non-current Liabilities
-170,506
-186,458
-200,241
-214,923
-230,686
-Total Provisions
-539
-282
-254
-289
-316
-Total Liabilities
-1,292,959
-1,459,350
-1,518,881
-1,620,706
-1,744,415
-Shareholders' Equity
-155,764
-188,058
-219,280
-253,888
-289,036
-Minority Interests
-79,857
-82,521
-90,773
-98,035
-105,877
-Total Equity
-235,621
-270,579
-310,053
-351,923
-394,914
-Key Ratios
-Dec-18A
-Dec-19A
-Dec-20F
-Dec-21F
-Dec-22F
-Revenue Growth
-22.6%
-23.6%
-20.2%
-25.5%
-9.7%
-Operating EBITDA Growth
-44.4%
-14.5%
-7.4%
-19.7%
-5.3%
-Operating EBITDA Margin
-23.3%
-21.6%
-19.3%
-18.4%
-17.6%
-Net Cash Per Share (Rmb)
-(6.59)
-(8.22)
-(10.82)
-(12.08)
-(11.86)
-BVPS (Rmb)
-14.11
-16.64
-19.40
-22.46
-25.57
-Gross Interest Cover
-4.90
-5.31
-5.52
-6.39
-6.51
-Effective Tax Rate
-26.5%
-28.3%
-23.7%
-22.5%
-23.5%
-Net Dividend Payout Ratio
-32.1%
-30.2%
-29.9%
-27.1%
-29.3%
-Accounts Receivables Days
-277.6
-277.0
-241.5
-211.2
-211.8
-Inventory Days
-1,176
-1,124
-1,042
-902
-896
-Accounts Payables Days
-354.4
-339.7
-311.6
-269.7
-267.9
-ROIC (%)
-25.2%
-19.1%
-16.5%
-16.6%
-15.5%
-ROCE (%)
-16.7%
-16.1%
-15.9%
-17.3%
-16.6%
-Return On Average Assets
-4.13%
-3.66%
-3.83%
-4.34%
-4.18%
-Key Drivers
-Dec-18A
-Dec-19A
-Dec-20F
-Dec-21F
-Dec-22F
-Unbooked Presales (m) (Rmb)
-606,950.0
-         
-630,840.0
-       
-622,343.0
-       
-643,948.5
-       
-650,881.8
-       
-Unbooked Presales (area: m sm)
-N/A
-N/A
-N/A
-N/A
-N/A
-Unbooked Presales (units)
-N/A
-N/A
-N/A
-N/A
-N/A
-Unsold attrib. landbank (area: m sm)
-N/A
-N/A
-N/A
-N/A
-N/A
-Gross Margins (%)
-29.7%
-27.3%
-25.2%
-23.5%
-23.5%
-Contracted Sales ASP (per Sm) (Rmb)
-N/A
-N/A
-N/A
-N/A
-N/A
-Residential EBIT Margin (%)
-N/A
-N/A
-N/A
-N/A
-N/A
-Investment rev / total rev (%)
-N/A
-N/A
-N/A
-N/A
-N/A
-Residential rev / total rev (%)
-N/A
-N/A
-N/A
-N/A
-N/A
-Invt. properties rental margin (%)
-N/A
-N/A
-N/A
-N/A
-N/A
-SG&A / Sales Ratio (%)
-6.4%
-5.7%
-5.9%
-6.0%
-6.0%
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-6 
- 
- 
-DISCLAIMER 
-The content of this report (including the views and opinions expressed therein, and the information comprised therein) has been prepared by and 
-belongs to CGS-CIMB. Reports relating to a specific geographical area are produced and distributed by the corresponding CGS-CIMB entity as 
-listed in the table below.  
-This report is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality, 
-state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or regulation. 
-By accepting this report, the recipient hereof represents and warrants that he is entitled to receive such report in accordance with the restrictions set 
-forth below and agrees to be bound by the limitations contained herein (including the “Restrictions on Distributions” set out below). Any failure to 
-comply with these limitations may constitute a violation of law. This publication is being supplied to you strictly on the basis that it will remain 
-confidential. No part of this report may be  (i) copied, photocopied, duplicated, stored or reproduced in any form by any means or  (ii) redistributed or 
-passed on, directly or indirectly, to any other person in whole or in part, for any purpose without the prior written consent of CGS-CIMB. 
+China
+China Vanke-A
+HOLD (previously ADD)
+Contracted sales growth to stagnate
+Though Vanke's core net profit increased by 11% yoy in FY19, the company
+cut DPS for FY19 which disappointed investors.
+We forecast a yoy decline in its contracted sales in FY20F on the back of
+slower sales momentum amidst the Covid-19 outbreak in China.
+We downgrade Vanke-A from Add to Hold with a lower TP of Rmb29.7, based
+on a lower 7.8x FY20F P/E.
+Decline in FY19 DPS a disappointment to investors
+Although Vanke reported core net profit rose 11% yoy to Rmb39bn in FY19, the DPS
+decline to Rmb1.045 (from Rmb1.07 in FY18) disappointed investors. Management
+explained the decline in the payout ratio to 30% (34% in FY18) was due to prudent cash
+flow management amid the Covid-19 outbreak, and is confident of maintaining a stable
+payout ratio in the next few years.
+Weak contracted sales performance ahead
+Key changes in this note
+Vanke reported contracted sales only rose 4% yoy to Rmb630bn in FY19. Management
+FY20F EPS cut by 7%.
+estimates a shortfall in contracted sales of Rmb51bn in Feb-Mar 20 on the back of
+FY21F EPS cut by 8%.
+continued Covid-19 outbreak in China. In view of a delayed schedule for project launch,
+we revise its FY20F contracted sales to Rmb622bn (down from Rmb740bn), translating
+to 1% yoy decline. At end-19, it had unbooked sales of Rmb609bn, leaving sufficient
+room to grow its topline in FY20F-21F. However, we expect its gross profit margin (GPM)
+for recognised sales to decline gradually on the back of higher land cost.
+Active landbanking in tier 1 and tier 2 cities to continue
+In FY19, it acquired gross land bank GFA of 37.2m sq m at an average land cost of
+Rmb6,252/sq m, a 15% yoy increase as it spent 79% of its total land acquisition cost on
+tier 1 and 2 cities. The new land bank GFA acquired was lower than the contracted sales
+GFA in FY19 (41.1m sq m); therefore we think it will continue to actively look for new land
+bank in FY20F to avoid land bank depletion.
+No plans for spinning off its property management unit
+Vanke's property management (PM) unit reported total revenue of Rmb12.7bn, up 30%
+yoy. At end-19, its PM unit had a total contracted GFA of 640m sq m (+26% yoy), in
+which its GFA under management amounted to 450m sq m. However, Vanke has no
+plans for spinning off its PM unit in the near term.
+Downgrade from Add to Hold with a lower FY20F P/E
+We cut FY20F/21F EPS by 7%/8% to factor in a slower construction and delivery
+schedule. We downgrade Vanke-A from Add to Hold in view of its weaker sales and profit
+growth prospects with a lower TP of Rmb29.7, based on a lower FY20F P/E of 7.8x (9x
+previously), which is the 5-year average 12-month forward P/E. A key upside risk is
+stronger-than-expected contracted sales. Prolonged Covid-19 outbreak and further
+Analyst(s)
+economic slowdown in China are key downside risks.
+Raymond CHENG, CFA
+Will CHU
+Jeffrey MAK
+SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS
+BY THE NUMBERS
+SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS
+SOURCES: CGS-CIMB RESEARCH, COMPANY REPORTS
+Property Development | China
+DISCLAIMER
+The content of this report (including the views and opinions expressed therein, and the information comprised therein) has been prepared by and
+belongs to CGS-CIMB. Reports relating to a specific geographical area are produced and distributed by the corresponding CGS-CIMB entity as
+listed in the table below.
+This report is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality,
+state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or regulation.
+By accepting this report, the recipient hereof represents and warrants that he is entitled to receive such report in accordance with the restrictions set
+forth below and agrees to be bound by the limitations contained herein (including the "Restrictions on Distributions" set out below). Any failure to
+comply with these limitations may constitute a violation of law. This publication is being supplied to you strictly on the basis that it will remain
+confidential. No part of this report may be (i) copied, photocopied, duplicated, stored or reproduced in any form by any means or (ii) redistributed or
+passed on, directly or indirectly, to any other person in whole or in part, for any purpose without the prior written consent of CGS-CIMB.
 The information contained in this research report is prepared from data believed to be correct and reliable at the time of issue of this report. CGS-
-CIMB may or may not issue regular reports on the subject matter of this report at any frequency and may cease to do so or change the periodicity of 
-reports at any time. CGS-CIMB has no obligation to update this report in the event of a material change to the information contained in this report. 
-CGS-CIMB does not accept any obligation to  (i) check or ensure that the contents of this report remain current, reliable or relevant,  (ii) ensure that 
-the content of this report constitutes all the information a prospective investor may require,  (iii) ensure the adequacy, accuracy, completeness, 
-reliability or fairness of any views, opinions and information, and accordingly, CGS-CIMB, its affiliates and related persons including China Galaxy 
-International Financial Holdings Limited (“CGIFHL”) and CIMB Group Sdn. Bhd. (“CIMBG”) and their respective related corporations (and their 
-respective directors, associates, connected persons and/or employees) shall not be liable in any manner whatsoever for any consequences 
-(including but not limited to any direct, indirect or consequential losses, loss of profits and damages) of any reliance thereon or usage thereof. In 
-particular, CGS-CIMB disclaims all responsibility and liability for the views and opinions set out in this report.  
-Unless otherwise specified, this report is based upon sources which CGS-CIMB considers to be reasonable. Such sources will, unless otherwise 
-specified, for market data, be market data and prices available from the main stock exchange or market where the relevant security is listed, or, 
-where appropriate, any other market. Information on the accounts and business of company(ies) will generally be based on published statements of 
-the company(ies), information disseminated by regulatory information services, other publicly available information and information resulting from our 
-research. 
-Whilst every effort is made to ensure that statements of facts made in this report are accurate, all estimates, projections, forecasts, expressions of 
-opinion and other subjective judgments contained in this report are based on assumptions considered to be reasonable as of the date of the 
-document in which they are contained and must not be construed as a representation that the matters referred to therein will occur. Past 
-performance is not a reliable indicator of future performance. The value of investments may go down as well as up and those investing may, 
-depending on the investments in question, lose more than the initial investment. No report shall constitute an offer or an invitation by or on behalf of 
-CGS-CIMB or any of its affiliates (including CGIFHL, CIMBG and their respective related corporations) to any person to buy or sell any investments.  
-CGS-CIMB, its affiliates and related corporations (including CGIFHL, CIMBG and their respective related corporations) and/or their respective 
-directors, associates, connected parties and/or employees may own or have positions in securities of the company(ies) covered in this research 
-report or any securities related thereto and may from time to time add to or dispose of, or may be materially interested in, any such securities. 
-Further, CGS-CIMB, its affiliates and their respective related corporations (including CGIFHL, CIMBG and their respective related corporations) do 
-and seek to do business with the company(ies) covered in this research report and may from time to time act as market maker or have assumed an 
-underwriting commitment in securities of such company(ies), may sell them to or buy them from customers on a principal basis and may also 
-perform or seek to perform significant investment banking, advisory, underwriting or placement services for or relating to such company(ies) as well 
-as solicit such investment, advisory or other services from any entity mentioned in this report. 
+CIMB may or may not issue regular reports on the subject matter of this report at any frequency and may cease to do so or change the periodicity of
+reports at any time. CGS-CIMB has no obligation to update this report in the event of a material change to the information contained in this report.
+CGS-CIMB does not accept any obligation to (i) check or ensure that the contents of this report remain current, reliable or relevant, (ii) ensure that
+the content of this report constitutes all the information a prospective investor may require, (iii) ensure the adequacy, accuracy, completeness,
+reliability or fairness of any views, opinions and information, and accordingly, CGS-CIMB, its affiliates and related persons including China Galaxy
+International Financial Holdings Limited ("CGIFHL") and CIMB Group Sdn. Bhd. ("CIMBG") and their respective related corporations (and their
+respective directors, associates, connected persons and/or employees) shall not be liable in any manner whatsoever for any consequences
+(including but not limited to any direct, indirect or consequential losses, loss of profits and damages) of any reliance thereon or usage thereof. In
+particular, CGS-CIMB disclaims all responsibility and liability for the views and opinions set out in this report.
+Unless otherwise specified, this report is based upon sources which CGS-CIMB considers to be reasonable. Such sources will, unless otherwise
+specified, for market data, be market data and prices available from the main stock exchange or market where the relevant security is listed, or,
+where appropriate, any other market. Information on the accounts and business of company(ies) will generally be based on published statements of
+the company(ies), information disseminated by regulatory information services, other publicly available information and information resulting from our
+research.
+Whilst every effort is made to ensure that statements of facts made in this report are accurate, all estimates, projections, forecasts, expressions of
+opinion and other subjective judgments contained in this report are based on assumptions considered to be reasonable as of the date of the
+document in which they are contained and must not be construed as a representation that the matters referred to therein will occur. Past
+performance is not a reliable indicator of future performance. The value of investments may go down as well as up and those investing may,
+depending on the investments in question, lose more than the initial investment. No report shall constitute an offer or an invitation by or on behalf of
+CGS-CIMB or any of its affiliates (including CGIFHL, CIMBG and their respective related corporations) to any person to buy or sell any investments.
+CGS-CIMB, its affiliates and related corporations (including CGIFHL, CIMBG and their respective related corporations) and/or their respective
+directors, associates, connected parties and/or employees may own or have positions in securities of the company(ies) covered in this research
+report or any securities related thereto and may from time to time add to or dispose of, or may be materially interested in, any such securities.
+Further, CGS-CIMB, its affiliates and their respective related corporations (including CGIFHL, CIMBG and their respective related corporations) do
+and seek to do business with the company(ies) covered in this research report and may from time to time act as market maker or have assumed an
+underwriting commitment in securities of such company(ies), may sell them to or buy them from customers on a principal basis and may also
+perform or seek to perform significant investment banking, advisory, underwriting or placement services for or relating to such company(ies) as well
+as solicit such investment, advisory or other services from any entity mentioned in this report.
 CGS-CIMB or its affiliates (including CGIFHL, CIMBG and their respective related corporations) may enter into an agreement with the company(ies)
-covered in this report relating to the production of research reports. CGS-CIMB may disclose the contents of this report to the company(ies) covered 
-by it and may have amended the contents of this report following such disclosure. 
-The analyst responsible for the production of this report hereby certifies that the views expressed herein accurately and exclusively reflect his or her 
-personal views and opinions about any and all of the issuers or securities analysed in this report and were prepared independently and 
-autonomously. No part of the compensation of the analyst(s) was, is, or will be directly or indirectly related to the inclusion of specific 
-recommendations(s) or view(s) in this report. The analyst(s) who prepared this research report is prohibited from receiving any compensation, 
-incentive or bonus based on specific investment banking transactions or for providing a specific recommendation for, or view of, a particular 
-company. Information barriers and other arrangements may be established where necessary to prevent conflicts of interests arising. However, the 
-analyst(s) may receive compensation that is based on his/their coverage of company(ies) in the performance of his/their duties or the performance of 
-his/their recommendations and the research personnel involved in the preparation of this report may also participate in the solicitation of the 
-businesses as described above. In reviewing this research report, an investor should be aware that any or all of the foregoing, among other things, 
-may give rise to real or potential conflicts of interest. Additional information is, subject to the duties of confidentiality, available on request. 
-Reports relating to a specific geographical area are produced by the corresponding CGS-CIMB entity as listed in the table below. The term “CGS-
-CIMB” shall denote, where appropriate, the relevant entity distributing or disseminating the report in the particular jurisdiction referenced below, or, in 
-every other case except as otherwise stated herein, CGS-CIMB Securities International Pte. Ltd. and its affiliates, subsidiaries and related 
-corporations. 
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-7 
- 
- 
-Country 
-CGS-CIMB Entity 
-Regulated by 
-Hong Kong 
-CGS-CIMB Securities (Hong Kong) Limited 
-Securities and Futures Commission Hong Kong 
-India 
-CGS-CIMB Securities (India) Private Limited  
-Securities and Exchange Board of India (SEBI) 
-Indonesia 
-PT CGS-CIMB Sekuritas Indonesia  
-Financial Services Authority of Indonesia 
-Malaysia 
-CGS-CIMB Securities Sdn. Bhd. (formerly known as Jupiter 
-Securities Sdn. Bhd.) 
-Securities Commission Malaysia 
-Singapore 
-CGS-CIMB Research Pte. Ltd.  
-Monetary Authority of Singapore 
-South Korea 
-CGS-CIMB Securities (Hong Kong) Limited, Korea Branch  
-Financial Services Commission and Financial Supervisory Service 
-Thailand 
-CGS-CIMB Securities (Thailand) Co. Ltd.  
-Securities and Exchange Commission Thailand 
- 
-Other Significant Financial Interests: 
-(i)  As of February 29, 2020 CGS-CIMB has a proprietary position in the securities (which may include but not limited to shares, warrants, call 
-warrants and/or any other derivatives) in the following company or companies covered or recommended in this report:  
-(a)  - 
-(ii)  Analyst Disclosure: As of March 18, 2020, the analyst(s) who prepared this report, and the associate(s), has / have an interest in the securities 
-(which may include but not limited to shares, warrants, call warrants and/or any other derivatives) in the following company or companies covered or 
-recommended in this report: 
-(a)  - 
-This report does not purport to contain all the information that a prospective investor may require. Neither CGS-CIMB nor any of its affiliates 
-(including CGIFHL, CIMBG and their related corporations) make any guarantee, representation or warranty, express or implied, as to the adequacy, 
-accuracy, completeness, reliability or fairness of any such information and opinion contained in this report. Neither CGS-CIMB nor any of its affiliates 
-nor their related persons (including CGIFHL, CIMBG and their related corporations) shall be liable in any manner whatsoever for any consequences 
-(including but not limited to any direct, indirect or consequential losses, loss of profits and damages) of any reliance thereon or usage thereof.  
-This report is general in nature and has been prepared for information purposes only. It is intended for circulation amongst CGS-CIMB’s clients 
-generally and does not have regard to the specific investment objectives, financial situation and the particular needs of any specific person who may 
-receive this report. The information and opinions in this report are not and should not be construed or considered as an offer, recommendation or 
-solicitation to buy or sell the subject securities, related investments or other financial instruments or any derivative instrument, or any rights 
-pertaining thereto. 
-Investors are advised to make their own independent evaluation of the information contained in this research report, consider their own individual 
-investment objectives, financial situation and particular needs and consult their own professional and financial advisers as to the legal, business, 
-financial, tax and other aspects before participating in any transaction in respect of the securities of company(ies) covered in this research report. 
-The securities of such company(ies) may not be eligible for sale in all jurisdictions or to all categories of investors. 
-Restrictions on Distributions 
-Australia: Despite anything in this report to the contrary, this research is provided in Australia by CGS-CIMB Securities (Singapore) Pte. Ltd. and 
-CGS-CIMB Securities (Hong Kong) Limited. This research is only available in Australia to persons who are “wholesale clients” (within the meaning of 
-the Corporations Act 2001 (Cth) and is supplied solely for the use of such wholesale clients and shall not be distributed or passed on to any other 
-person. You represent and warrant that if you are in Australia, you are a “wholesale client”. This research is of a general nature only and has been 
-prepared without taking into account the objectives, financial situation or needs of the individual recipient. CGS-CIMB Securities (Singapore) Pte. 
-Ltd. and CGS-CIMB Securities (Hong Kong) Limited do not hold, and are not required to hold an Australian financial services license. CGS-CIMB 
-Securities (Singapore) Pte. Ltd. and CGS-CIMB Securities (Hong Kong) Limited rely on “passporting” exemptions for entities appropriately licensed 
-by the Monetary Authority of Singapore (under ASIC Class Order 03/1102) and the Securities and Futures Commission in Hong Kong (under ASIC 
-Class Order 03/1103).  
-Canada: This research report has not been prepared in accordance with the disclosure requirements of Dealer Member Rule 3400 – Research 
-Restrictions and Disclosure Requirements of the Investment Industry Regulatory Organization of Canada. For any research report distributed by 
-CIBC, further disclosures related to CIBC conflicts of interest can be found at https://researchcentral.cibcwm.com . 
-China: For the purpose of this report, the People’s Republic of China (“PRC”) does not include the Hong Kong Special Administrative Region, the 
-Macau Special Administrative Region or Taiwan. The distributor of this report has not been approved or licensed by the China Securities Regulatory 
-Commission or any other relevant regulatory authority or governmental agency in the PRC. This report contains only marketing information. The 
-distribution of this report is not an offer to buy or sell to any person within or outside PRC or a solicitation to any person within or outside of PRC to 
-buy or sell any instruments described herein. This report is being issued outside the PRC to a limited number of institutional investors and may not 
-be provided to any person other than the original recipient and may not be reproduced or used for any other purpose. 
-France: Only qualified investors within the meaning of French law shall have access to this report. This report shall not be considered as an offer to 
-subscribe to, or used in connection with, any offer for subscription or sale or marketing or direct or indirect distribution of financial instruments and it 
-is not intended as a solicitation for the purchase of any financial instrument. 
-Germany: This report is only directed at persons who are professional investors as defined in sec 31a(2) of the German Securities Trading Act 
-(WpHG). This publication constitutes research of a non-binding nature on the market situation and the investment instruments cited here at the time 
-of the publication of the information. 
-The current prices/yields in this issue are based upon closing prices from Bloomberg as of the day preceding publication. Please note that neither 
-the German Federal Financial Supervisory Agency (BaFin), nor any other supervisory authority exercises any control over the content of this report. 
-Hong Kong: This report is issued and distributed in Hong Kong by CGS-CIMB Securities (Hong Kong) Limited (“CHK”) which is licensed in Hong 
-Kong by the Securities and Futures Commission for Type 1 (dealing in securities), Type 4 (advising on securities) and Type 6 (advising on corporate 
-finance) activities. Any investors wishing to purchase or otherwise deal in the securities covered in this report should contact the Head of Sales at 
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-8 
- 
+covered in this report relating to the production of research reports. CGS-CIMB may disclose the contents of this report to the company(ies) covered
+by it and may have amended the contents of this report following such disclosure.
+The analyst responsible for the production of this report hereby certifies that the views expressed herein accurately and exclusively reflect his or her
+personal views and opinions about any and all of the issuers or securities analysed in this report and were prepared independently and
+autonomously. No part of the compensation of the analyst(s) was, is, or will be directly or indirectly related to the inclusion of specific
+recommendations(s) or view(s) in this report. The analyst(s) who prepared this research report is prohibited from receiving any compensation,
+incentive or bonus based on specific investment banking transactions or for providing a specific recommendation for, or view of, a particular
+company. Information barriers and other arrangements may be established where necessary to prevent conflicts of interests arising. However, the
+analyst(s) may receive compensation that is based on his/their coverage of company(ies) in the performance of his/their duties or the performance of
+his/their recommendations and the research personnel involved in the preparation of this report may also participate in the solicitation of the
+businesses as described above. In reviewing this research report, an investor should be aware that any or all of the foregoing, among other things,
+may give rise to real or potential conflicts of interest. Additional information is, subject to the duties of confidentiality, available on request.
+Reports relating to a specific geographical area are produced by the corresponding CGS-CIMB entity as listed in the table below. The term "CGS-
+CIMB" shall denote, where appropriate, the relevant entity distributing or disseminating the report in the particular jurisdiction referenced below, or, in
+every other case except as otherwise stated herein, CGS-CIMB Securities International Pte. Ltd. and its affiliates, subsidiaries and related
+corporations.
+Property Development | China
+Other Significant Financial Interests:
+(i) As of February 29, 2020 CGS-CIMB has a proprietary position in the securities (which may include but not limited to shares, warrants, call
+warrants and/or any other derivatives) in the following company or companies covered or recommended in this report:
+(a) -
+(ii) Analyst Disclosure: As of March 18, 2020, the analyst(s) who prepared this report, and the associate(s), has / have an interest in the securities
+(which may include but not limited to shares, warrants, call warrants and/or any other derivatives) in the following company or companies covered or
+recommended in this report:
+(a) -
+This report does not purport to contain all the information that a prospective investor may require. Neither CGS-CIMB nor any of its affiliates
+(including CGIFHL, CIMBG and their related corporations) make any guarantee, representation or warranty, express or implied, as to the adequacy,
+accuracy, completeness, reliability or fairness of any such information and opinion contained in this report. Neither CGS-CIMB nor any of its affiliates
+nor their related persons (including CGIFHL, CIMBG and their related corporations) shall be liable in any manner whatsoever for any consequences
+(including but not limited to any direct, indirect or consequential losses, loss of profits and damages) of any reliance thereon or usage thereof.
+This report is general in nature and has been prepared for information purposes only. It is intended for circulation amongst CGS-CIMB's clients
+generally and does not have regard to the specific investment objectives, financial situation and the particular needs of any specific person who may
+receive this report. The information and opinions in this report are not and should not be construed or considered as an offer, recommendation or
+solicitation to buy or sell the subject securities, related investments or other financial instruments or any derivative instrument, or any rights
+pertaining thereto.
+Investors are advised to make their own independent evaluation of the information contained in this research report, consider their own individual
+investment objectives, financial situation and particular needs and consult their own professional and financial advisers as to the legal, business,
+financial, tax and other aspects before participating in any transaction in respect of the securities of company(ies) covered in this research report.
+The securities of such company(ies) may not be eligible for sale in all jurisdictions or to all categories of investors.
+Restrictions on Distributions
+Australia: Despite anything in this report to the contrary, this research is provided in Australia by CGS-CIMB Securities (Singapore) Pte. Ltd. and
+CGS-CIMB Securities (Hong Kong) Limited. This research is only available in Australia to persons who are "wholesale clients" (within the meaning of
+the Corporations Act 2001 (Cth) and is supplied solely for the use of such wholesale clients and shall not be distributed or passed on to any other
+person. You represent and warrant that if you are in Australia, you are a "wholesale client". This research is of a general nature only and has been
+prepared without taking into account the objectives, financial situation or needs of the individual recipient. CGS-CIMB Securities (Singapore) Pte.
+Ltd. and CGS-CIMB Securities (Hong Kong) Limited do not hold, and are not required to hold an Australian financial services license. CGS-CIMB
+Securities (Singapore) Pte. Ltd. and CGS-CIMB Securities (Hong Kong) Limited rely on "passporting" exemptions for entities appropriately licensed
+by the Monetary Authority of Singapore (under ASIC Class Order 03/1102) and the Securities and Futures Commission in Hong Kong (under ASIC
+Class Order 03/1103).
+Canada: This research report has not been prepared in accordance with the disclosure requirements of Dealer Member Rule 3400 - Research
+Restrictions and Disclosure Requirements of the Investment Industry Regulatory Organization of Canada. For any research report distributed by
+China: For the purpose of this report, the People's Republic of China ("PRC") does not include the Hong Kong Special Administrative Region, the
+Macau Special Administrative Region or Taiwan. The distributor of this report has not been approved or licensed by the China Securities Regulatory
+Commission or any other relevant regulatory authority or governmental agency in the PRC. This report contains only marketing information. The
+distribution of this report is not an offer to buy or sell to any person within or outside PRC or a solicitation to any person within or outside of PRC to
+buy or sell any instruments described herein. This report is being issued outside the PRC to a limited number of institutional investors and may not
+be provided to any person other than the original recipient and may not be reproduced or used for any other purpose.
+France: Only qualified investors within the meaning of French law shall have access to this report. This report shall not be considered as an offer to
+subscribe to, or used in connection with, any offer for subscription or sale or marketing or direct or indirect distribution of financial instruments and it
+is not intended as a solicitation for the purchase of any financial instrument.
+Germany: This report is only directed at persons who are professional investors as defined in sec 31a(2) of the German Securities Trading Act
+(WpHG). This publication constitutes research of a non-binding nature on the market situation and the investment instruments cited here at the time
+of the publication of the information.
+The current prices/yields in this issue are based upon closing prices from Bloomberg as of the day preceding publication. Please note that neither
+the German Federal Financial Supervisory Agency (BaFin), nor any other supervisory authority exercises any control over the content of this report.
+Hong Kong: This report is issued and distributed in Hong Kong by CGS-CIMB Securities (Hong Kong) Limited ("CHK") which is licensed in Hong
+Kong by the Securities and Futures Commission for Type 1 (dealing in securities), Type 4 (advising on securities) and Type 6 (advising on corporate
+finance) activities. Any investors wishing to purchase or otherwise deal in the securities covered in this report should contact the Head of Sales at
+Property Development | China
 CGS-CIMB Securities (Hong Kong) Limited. The views and opinions in this research report are our own as of the date hereof and are subject to
-change. If the Financial Services and Markets Act of the United Kingdom or the rules of the Financial Conduct Authority apply to a recipient, our 
-obligations owed to such recipient therein are unaffected. CHK has no obligation to update its opinion or the information in this research report. 
-This publication is strictly confidential and is for private circulation only to clients of CHK. 
-CHK does not make a market on other securities mentioned in the report. 
-None of the analyst(s) or the associates serve as an officer of the listed corporation mentioned in this report. 
-CIMB does not have an officer serving in any of the listed corporation mentioned in this report 
-CIMB does not receive any compensation or other benefits from any of the listed corporation mentioned, relating to the production of research 
-reports. 
-India: This report is issued and distributed in India by CGS-CIMB Securities (India) Private Limited (“CGS-CIMB India”). CGS-CIMB India is a 
-subsidiary of CGS-CIMB Securities International Pte. Ltd. which is in turn is a 50:50 joint venture company of CGIFHL and CIMBG. The details of the 
-members 
-of 
-the 
-group 
-of 
-companies 
-of 
-CGS-CIMB 
-can 
-be 
-found 
-at 
-www.cgs-cimb.com, 
-CGIFHL 
-at 
-www.chinastock.com.hk/en/ACG/ContactUs/index.aspx and CIMBG at www.cimb.com/en/who-we-are.html. CGS-CIMB India is registered with the 
-National Stock Exchange of India Limited and BSE Limited as a trading and clearing member (Merchant Banking Number: INM000012037) under 
-the Securities and Exchange Board of India (Stock Brokers and Sub-Brokers) Regulations, 1992. In accordance with the provisions of Regulation 
-4(g) of the Securities and Exchange Board of India (Investment Advisers) Regulations, 2013, CGS-CIMB India is not required to seek registration 
-with the Securities and Exchange Board of India (“SEBI”) as an Investment Adviser. CGS-CIMB India is registered with SEBI (SEBI Registration 
-Number: INZ000157134) as a Research Analyst (INH000000669) pursuant to the SEBI (Research Analysts) Regulations, 2014 ("Regulations"). 
-This report does not take into account the particular investment objectives, financial situations, or needs of the recipients. It is not intended for and 
-does not deal with prohibitions on investment due to law/jurisdiction issues etc. which may exist for certain persons/entities. Recipients should rely 
-on their own investigations and take their own professional advice before investment.  
-The report is not a “prospectus” as defined under Indian Law, including the Companies Act, 2013, and is not, and shall not be, approved by, or filed 
-or registered with, any Indian regulator, including any Registrar of Companies in India, SEBI, any Indian stock exchange, or the Reserve Bank of 
-India. No offer, or invitation to offer, or solicitation of subscription with respect to any such securities listed or proposed to be listed in India is being 
-made, or intended to be made, to the public, or to any member or section of the public in India, through or pursuant to this report. 
-The research analysts, strategists or economists principally responsible for the preparation of this research report are segregated from the other 
+change. If the Financial Services and Markets Act of the United Kingdom or the rules of the Financial Conduct Authority apply to a recipient, our
+obligations owed to such recipient therein are unaffected. CHK has no obligation to update its opinion or the information in this research report.
+This publication is strictly confidential and is for private circulation only to clients of CHK.
+CHK does not make a market on other securities mentioned in the report.
+None of the analyst(s) or the associates serve as an officer of the listed corporation mentioned in this report.
+CIMB does not have an officer serving in any of the listed corporation mentioned in this report
+CIMB does not receive any compensation or other benefits from any of the listed corporation mentioned, relating to the production of research
+reports.
+India: This report is issued and distributed in India by CGS-CIMB Securities (India) Private Limited ("CGS-CIMB India"). CGS-CIMB India is a
+subsidiary of CGS-CIMB Securities International Pte. Ltd. which is in turn is a 50:50 joint venture company of CGIFHL and CIMBG. The details of the
+companies
+CGS-CIMB
+can
+found
+members
+the
+group
+CGIFHL
+National Stock Exchange of India Limited and BSE Limited as a trading and clearing member (Merchant Banking Number: INM000012037) under
+the Securities and Exchange Board of India (Stock Brokers and Sub-Brokers) Regulations, 1992. In accordance with the provisions of Regulation
+4(g) of the Securities and Exchange Board of India (Investment Advisers) Regulations, 2013, CGS-CIMB India is not required to seek registration
+with the Securities and Exchange Board of India ("SEBI") as an Investment Adviser. CGS-CIMB India is registered with SEBI (SEBI Registration
+Number: INZ000157134) as a Research Analyst (INH00000669) pursuant to the SEBI (Research Analysts) Regulations, 2014 ("Regulations").
+This report does not take into account the particular investment objectives, financial situations, or needs of the recipients. It is not intended for and
+does not deal with prohibitions on investment due to law/jurisdiction issues etc. which may exist for certain persons/entities. Recipients should rely
+on their own investigations and take their own professional advice before investment.
+The report is not a "prospectus" as defined under Indian Law, including the Companies Act, 2013, and is not, and shall not be, approved by, or filed
+or registered with, any Indian regulator, including any Registrar of Companies in India, SEBI, any Indian stock exchange, or the Reserve Bank of
+India. No offer, or invitation to offer, or solicitation of subscription with respect to any such securities listed or proposed to be listed in India is being
+made, or intended to be made, to the public, or to any member or section of the public in India, through or pursuant to this report.
+The research analysts, strategists or economists principally responsible for the preparation of this research report are segregated from the other
 activities of CGS-CIMB India and they have received compensation based upon various factors, including quality, accuracy and value of research,
-firm profitability or revenues, client feedback and competitive factors. Research analysts', strategists' or economists' compensation is not linked to 
-investment banking or capital markets transactions performed or proposed to be performed by CGS-CIMB India or its affiliates. 
-CGS-CIMB India does not have actual / beneficial ownership of 1% or more securities of the subject company in this research report, at the end of 
-the month immediately preceding the date of publication of this research report. However, since affiliates of CGS-CIMB India are engaged in the 
-financial services business, they might have in their normal course of business financial interests or actual / beneficial ownership of one per cent or 
-more in various companies including the subject company in this research report. 
-CGS-CIMB India or its associates, may: (a) from time to time, have long or short position in, and buy or sell the securities of the subject company in 
-this research report; or (b) be engaged in any other transaction involving such securities and earn brokerage or other compensation or act as a 
-market maker in the financial instruments of the subject company in this research report or act as an advisor or lender/borrower to such company or 
-may have any other potential conflict of interests with respect to any recommendation and other related information and opinions. 
-CGS-CIMB India, its associates and the analyst engaged in preparation of this research report have not received any compensation for investment 
-banking, merchant banking or brokerage services from the subject company mentioned in the research report in the past 12 months. 
-CGS-CIMB India, its associates and the analyst engaged in preparation of this research report have not managed or co-managed public offering of 
-securities for the subject company mentioned in the research report in the past 12 months. The analyst from CGS-CIMB India engaged in 
-preparation of this research report or his/her relative (a) do not have any financial interests in the subject company mentioned in this research report; 
-(b) do not own 1% or more of the equity securities of the subject company mentioned in the research report as of the last day of the month preceding 
-the publication of the research report; (c) do not have any material conflict of interest at the time of publication of the research report. 
-Indonesia: This report is issued and distributed by PT CGS-CIMB Sekuritas Indonesia (“CGS-CIMB Indonesia”). The views and opinions in this 
-research report are our own as of the date hereof and are subject to change. CGS-CIMB Indonesia has no obligation to update its opinion or the 
-information in this research report. This report is for private circulation only to clients of CGS-CIMB Indonesia. Neither this report nor any copy hereof 
-may be distributed in Indonesia or to any Indonesian citizens wherever they are domiciled or to Indonesian residents except in compliance with 
-applicable Indonesian capital market laws and regulations. 
-This research report is not an offer of securities in Indonesia. The securities referred to in this research report have not been registered with the 
-Financial Services Authority (Otoritas Jasa Keuangan) pursuant to relevant capital market laws and regulations, and may not be offered or sold 
-within the territory of the Republic of Indonesia or to Indonesian citizens through a public offering or in circumstances which constitute an offer within 
-the meaning of the Indonesian capital market law and regulations. 
-Ireland: CGS-CIMB is not an investment firm authorised in the Republic of Ireland and no part of this document should be construed as CGS-CIMB 
-acting as, or otherwise claiming or representing to be, an investment firm authorised in the Republic of Ireland. 
-Malaysia: This report is distributed in Malaysia by CGS-CIMB Securities Sdn. Bhd. (formerly known as Jupiter Securities Sdn. Bhd.) (“CGS-CIMB 
-Malaysia”) solely for the benefit of and for the exclusive use of our clients. Recipients of this report are to contact CGS-CIMB Malaysia, at 29th Floor 
-Menara CIMB No. 1 Jalan Stesen Sentral 2, Kuala Lumpur Sentral 50470 Kuala Lumpur, Malaysia, in respect of any matters arising from or in 
-connection with this report. CGS-CIMB Malaysia has no obligation to update, revise or reaffirm its opinion or the information in this research reports 
-after the date of this report.  
-New Zealand: In New Zealand, this report is for distribution only to persons who are wholesale clients pursuant to section 5C of the Financial 
-Advisers Act 2008. 
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-9 
- 
-Singapore: This report is issued and distributed by CGS-CIMB Research Pte Ltd (“CGS-CIMBR”). CGS-CIMBR is a financial adviser licensed under 
-the Financial Advisers Act, Cap 110 (“FAA”) for advising on investment products, by issuing or promulgating research analyses or research reports, 
-whether in electronic, print or other form. Accordingly CGS-CIMBR is a subject to the applicable rules under the FAA unless it is able to avail itself to 
-any prescribed exemptions. 
-Recipients of this report are to contact CGS-CIMB Research Pte Ltd, 50 Raffles Place, #16-02 Singapore Land Tower, Singapore in respect of any 
-matters arising from, or in connection with this report. CGS-CIMBR has no obligation to update its opinion or the information in this research report. 
-This publication is strictly confidential and is for private circulation only. If you have not been sent this report by CGS-CIMBR directly, you may not 
-rely, use or disclose to anyone else this report or its contents. 
-If the recipient of this research report is not an accredited investor, expert investor or institutional investor, CGS-CIMBR accepts legal responsibility 
+firm profitability or revenues, client feedback and competitive factors. Research analysts', strategists' or economists' compensation is not linked to
+investment banking or capital markets transactions performed or proposed to be performed by CGS-CIMB India or its affiliates.
+CGS-CIMB India does not have actual / beneficial ownership of 1% or more securities of the subject company in this research report, at the end of
+the month immediately preceding the date of publication of this research report. However, since affiliates of CGS-CIMB India are engaged in the
+financial services business, they might have in their normal course of business financial interests or actual / beneficial ownership of one per cent or
+more in various companies including the subject company in this research report.
+CGS-CIMB India or its associates, may: (a) from time to time, have long or short position in, and buy or sell the securities of the subject company in
+this research report; or (b) be engaged in any other transaction involving such securities and earn brokerage or other compensation or act as a
+market maker in the financial instruments of the subject company in this research report or act as an advisor or lender/borrower to such company or
+may have any other potential conflict of interests with respect to any recommendation and other related information and opinions.
+CGS-CIMB India, its associates and the analyst engaged in preparation of this research report have not received any compensation for investment
+banking, merchant banking or brokerage services from the subject company mentioned in the research report in the past 12 months.
+CGS-CIMB India, its associates and the analyst engaged in preparation of this research report have not managed or co-managed public offering of
+securities for the subject company mentioned in the research report in the past 12 months. The analyst from CGS-CIMB India engaged in
+preparation of this research report or his/her relative (a) do not have any financial interests in the subject company mentioned in this research report;
+(b) do not own 1% or more of the equity securities of the subject company mentioned in the research report as of the last day of the month preceding
+the publication of the research report; (c) do not have any material conflict of interest at the time of publication of the research report.
+Indonesia: This report is issued and distributed by PT CGS-CIMB Sekuritas Indonesia ("CGS-CIMB Indonesia"). The views and opinions in this
+research report are our own as of the date hereof and are subject to change. CGS-CIMB Indonesia has no obligation to update its opinion or the
+information in this research report. This report is for private circulation only to clients of CGS-CIMB Indonesia. Neither this report nor any copy hereof
+may be distributed in Indonesia or to any Indonesian citizens wherever they are domiciled or to Indonesian residents except in compliance with
+applicable Indonesian capital market laws and regulations.
+This research report is not an offer of securities in Indonesia. The securities referred to in this research report have not been registered with the
+Financial Services Authority (Otoritas Jasa Keuangan) pursuant to relevant capital market laws and regulations, and may not be offered or sold
+within the territory of the Republic of Indonesia or to Indonesian citizens through a public offering or in circumstances which constitute an offer within
+the meaning of the Indonesian capital market law and regulations.
+Ireland: CGS-CIMB is not an investment firm authorised in the Republic of Ireland and no part of this document should be construed as CGS-CIMB
+acting as, or otherwise claiming or representing to be, an investment firm authorised in the Republic of Ireland.
+Malaysia: This report is distributed in Malaysia by CGS-CIMB Securities Sdn. Bhd. (formerly known as Jupiter Securities Sdn. Bhd.) ("CGS-CIMB
+Malaysia") solely for the benefit of and for the exclusive use of our clients. Recipients of this report are to contact CGS-CIMB Malaysia, at 29th Floor
+Menara CIMB No. 1 Jalan Stesen Sentral 2, Kuala Lumpur Sentral 50470 Kuala Lumpur, Malaysia, in respect of any matters arising from or in
+connection with this report. CGS-CIMB Malaysia has no obligation to update, revise or reaffirm its opinion or the information in this research reports
+after the date of this report.
+New Zealand: In New Zealand, this report is for distribution only to persons who are wholesale clients pursuant to section 5C of the Financial
+Advisers Act 2008.
+Property Development | China
+Singapore: This report is issued and distributed by CGS-CIMB Research Pte Ltd ("CGS-CIMBR"). CGS-CIMBR is a financial adviser licensed under
+the Financial Advisers Act, Cap 110 ("FAA") for advising on investment products, by issuing or promulgating research analyses or research reports,
+whether in electronic, print or other form. Accordingly CGS-CIMBR is a subject to the applicable rules under the FAA unless it is able to avail itself to
+any prescribed exemptions.
+Recipients of this report are to contact CGS-CIMB Research Pte Ltd, 50 Raffles Place, #16-02 Singapore Land Tower, Singapore in respect of any
+matters arising from, or in connection with this report. CGS-CIMBR has no obligation to update its opinion or the information in this research report.
+This publication is strictly confidential and is for private circulation only. If you have not been sent this report by CGS-CIMBR directly, you may not
+rely, use or disclose to anyone else this report or its contents.
+If the recipient of this research report is not an accredited investor, expert investor or institutional investor, CGS-CIMBR accepts legal responsibility
 for the contents of the report without any disclaimer limiting or otherwise curtailing such legal responsibility. If the recipient is an accredited investor,
-expert investor or institutional investor, the recipient is deemed to acknowledge that CGS-CIMBR is exempt from certain requirements under the FAA 
-and its attendant regulations, and as such, is exempt from complying with the following : 
-(a)  Section 25 of the FAA (obligation to disclose product information); 
-(b)  Section 27 (duty not to make recommendation with respect to any investment product without having a reasonable basis where you may be 
-reasonably expected to rely on the recommendation) of the FAA; 
-(c)  MAS Notice on Information to Clients and Product Information Disclosure [Notice No. FAA-N03]; 
-(d)  MAS Notice on Recommendation on Investment Products [Notice No. FAA-N16]; 
-(e)  Section 36 (obligation on disclosure of interest in specified products), and 
-(f)  any other laws, regulations, notices, directive, guidelines, circulars and practice notes which are relates to the above, to the extent permitted by 
-applicable laws, as may be amended from time to time, and any other laws, regulations, notices, directive, guidelines, circulars, and practice notes 
-as we may notify you from time to time. In addition, the recipient who is an accredited investor, expert investor or institutional investor acknowledges 
-that as CGS-CIMBR is exempt from Section 27 of the FAA, the recipient will also not be able to file a civil claim against CGS-CIMBR for any loss or 
-damage arising from the recipient’s reliance on any recommendation made by CGS-CIMBR which would otherwise be a right that is available to the 
-recipient under Section 27 of the FAA, the recipient will also not be able to file a civil claim against CGS-CIMBR for any loss or damage arising from 
-the recipient’s reliance on any recommendation made by CGS-CIMBR which would otherwise be a right that is available to the recipient under 
-Section 27 of the FAA.  
-CGS-CIMBR, its affiliates and related corporations, their directors, associates, connected parties and/or employees may own or have positions in 
-specified products of the company(ies) covered in this research report or any specified products related thereto and may from time to time add to or 
-dispose of, or may be materially interested in, any such specified products. Further, CGS-CIMBR, its affiliates and its related corporations do and 
-seek to do business with the company(ies) covered in this research report and may from time to time act as market maker or have assumed an 
-underwriting commitment in specified products of such company(ies), may sell them to or buy them from customers on a principal basis and may 
-also perform or seek to perform significant investment banking, advisory, underwriting or placement services for or relating to such company(ies) as 
-well as solicit such investment, advisory or other services from any entity mentioned in this report. 
-As of March 17, 2020, CGS-CIMBR does not have a proprietary position in the recommended specified products in this report. 
-CGS-CIMBR does not make a market on the securities mentioned in the report. 
-South Korea: This report is issued and distributed in South Korea by CGS-CIMB Securities (Hong Kong) Limited, Korea Branch (“CGS-CIMB 
-Korea”) which is licensed as a cash equity broker, and regulated by the Financial Services Commission and Financial Supervisory Service of Korea. 
-In South Korea, this report is for distribution only to professional investors under Article 9(5) of the Financial Investment Services and Capital Market 
-Act of Korea (“FSCMA”). 
-Spain: This document is a research report and it is addressed to institutional investors only. The research report is of a general nature and not 
-personalised and does not constitute investment advice so, as the case may be, the recipient must seek proper advice before adopting any 
-investment decision. This document does not constitute a public offering of securities.  
-CGS-CIMB is not registered with the Spanish Comision Nacional del Mercado de Valores to provide investment services. 
-Sweden: This report contains only marketing information and has not been approved by the Swedish Financial Supervisory Authority. The 
-distribution of this report is not an offer to sell to any person in Sweden or a solicitation to any person in Sweden to buy any instruments described 
-herein and may not be forwarded to the public in Sweden. 
-Switzerland: This report has not been prepared in accordance with the recognized self-regulatory minimal standards for research reports of banks 
-issued by the Swiss Bankers’ Association (Directives on the Independence of Financial Research). 
-Thailand: This report is issued and distributed by CGS-CIMB Securities (Thailand) Co. Ltd. (“CGS-CIMB Thailand”) based upon sources believed to 
-be reliable (but their accuracy, completeness or correctness is not guaranteed). The statements or expressions of opinion herein were arrived at after 
-due and careful consideration for use as information for investment. Such opinions are subject to change without notice and CGS-CIMB Thailand 
-has no obligation to update its opinion or the information in this research report. 
-CGS-CIMB Thailand may act or acts as Market Maker, and issuer and offerer of Derivative Warrants and Structured Note which may have the 
-following securities as its underlying securities. Investors should carefully read and study the details of the derivative warrants in the prospectus 
-before making investment decisions.  
-AAV, ADVANC, AEONTS, AMATA, AOT, AWC, BANPU, BBL, BCH, BCP, BCPG, BDMS, BEC, BEM, BGC, BGRIM, BH, BJC, BPP, BTS, CBG, 
-CENTEL, CHG, CK, CKP, COM7, CPALL, CPF, CPN, DELTA, DTAC, EA, EGCO, EPG, ERW, ESSO, GFPT, GLOBAL, GPSC, GULF, GUNKUL, 
-HANA, HMPRO, INTUCH, IRPC, IVL, JAS, JMT, KBANK, KCE, KKP, KTB, KTC, LH, MAJOR, MBK, MEGA, MINT, MTC, ORI, OSP, PLANB, PRM, 
-PSH, PSL, PTG, PTT, PTTEP, PTTGC, QH, RATCH, RS, SAWAD, SCB, SCC, SGP, SPALI, SPRC, STA, STEC, STPI, SUPER, TASCO, TCAP, 
-THAI, THANI, THG, TISCO, TKN, TMB, TOA, TOP, TPIPP, TQM, TRUE, TTW, TU, VGI, WHA, BEAUTY, JMART, LPN, SISB, WORK.  
-Corporate Governance Report: 
-The disclosure of the survey result of the Thai Institute of Directors Association (“IOD”) regarding corporate governance is made pursuant to the 
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-10 
- 
-policy of the Office of the Securities and Exchange Commission. The survey of the IOD is based on the information of a company listed on the Stock 
-Exchange of Thailand and the Market for Alternative Investment disclosed to the public and able to be accessed by a general public investor. The 
-result, therefore, is from the perspective of a third party. It is not an evaluation of operation and is not based on inside information. 
-The survey result is as of the date appearing in the Corporate Governance Report of Thai Listed Companies. As a result, the survey result may be 
-changed after that date. CGS-CIMB Thailand does not confirm nor certify the accuracy of such survey result. 
-Score Range: 
-90 - 100 
-80 – 89 
-70 - 79 
-Below 70 or 
-No Survey Result 
-Description: 
-Excellent 
-Very Good 
-Good 
-N/A 
- 
-  
-United Arab Emirates: The distributor of this report has not been approved or licensed by the UAE Central Bank or any other relevant licensing 
-authorities or governmental agencies in the United Arab Emirates. This report is strictly private and confidential and has not been reviewed by, 
-deposited or registered with UAE Central Bank or any other licensing authority or governmental agencies in the United Arab Emirates. This report is 
-being issued outside the United Arab Emirates to a limited number of institutional investors and must not be provided to any person other than the 
-original recipient and may not be reproduced or used for any other purpose. Further, the information contained in this report is not intended to lead to 
-the sale of investments under any subscription agreement or the conclusion of any other contract of whatsoever nature within the territory of the 
-United Arab Emirates.  
-United Kingdom and European Economic Area (EEA): In the United Kingdom and European Economic Area, this material is also being 
-distributed by CGS-CIMB Securities (UK) Limited (“CGS-CIMB UK”). CGS-CIMB UK is authorized and regulated by the Financial Conduct Authority 
-and its registered office is at 27 Knightsbridge, London, SW1X7YB. The material distributed by CGS-CIMB UK has been prepared in accordance 
-with CGS-CIMB’s policies for managing conflicts of interest arising as a result of publication and distribution of this material. This material is for 
-distribution only to, and is solely directed at, selected persons on the basis that those persons: (a) are eligible counterparties and professional clients 
-of CGS-CIMB UK; (b) have professional experience in matters relating to investments falling within Article 19(5) of the Financial Services and 
-Markets Act 2000 (Financial Promotion) Order 2005 (as amended, the “Order”), (c)  fall within Article 49(2)(a) to (d) (“high net worth companies, 
-unincorporated associations etc”) of the Order; (d) are outside the United Kingdom subject to relevant regulation in each jurisdiction, material(all 
-such persons together being referred to as “relevant persons”). This material is directed only at relevant persons and must not be acted on or relied 
-on by persons who are not relevant persons. Any investment or investment activity to which this material relates is available only to relevant persons 
-and will be engaged in only with relevant persons. 
+expert investor or institutional investor, the recipient is deemed to acknowledge that CGS-CIMBR is exempt from certain requirements under the FAA
+and its attendant regulations, and as such, is exempt from complying with the following:
+(a) Section 25 of the FAA (obligation to disclose product information);
+(b) Section 27 (duty not to make recommendation with respect to any investment product without having a reasonable basis where you may be
+reasonably expected to rely on the recommendation) of the FAA;
+(c) MAS Notice on Information to Clients and Product Information Disclosure [Notice No. FAA-N03];
+(d) MAS Notice on Recommendation on Investment Products [Notice No. FAA-N16];
+(e) Section 36 (obligation on disclosure of interest in specified products), and
+(f) any other laws, regulations, notices, directive, guidelines, circulars and practice notes which are relates to the above, to the extent permitted by
+applicable laws, as may be amended from time to time, and any other laws, regulations, notices, directive, guidelines, circulars, and practice notes
+as we may notify you from time to time. In addition, the recipient who is an accredited investor, expert investor or institutional investor acknowledges
+that as CGS-CIMBR is exempt from Section 27 of the FAA, the recipient will also not be able to file a civil claim against CGS-CIMBR for any loss or
+damage arising from the recipient's reliance on any recommendation made by CGS-CIMBR which would otherwise be a right that is available to the
+recipient under Section 27 of the FAA, the recipient will also not be able to file a civil claim against CGS-CIMBR for any loss or damage arising from
+the recipient's reliance on any recommendation made by CGS-CIMBR which would otherwise be a right that is available to the recipient under
+Section 27 of the FAA.
+CGS-CIMBR, its affiliates and related corporations, their directors, associates, connected parties and/or employees may own or have positions in
+specified products of the company(ies) covered in this research report or any specified products related thereto and may from time to time add to or
+dispose of, or may be materially interested in, any such specified products. Further, CGS-CIMBR, its affiliates and its related corporations do and
+seek to do business with the company(ies) covered in this research report and may from time to time act as market maker or have assumed an
+underwriting commitment in specified products of such company(ies), may sell them to or buy them from customers on a principal basis and may
+also perform or seek to perform significant investment banking, advisory, underwriting or placement services for or relating to such company(ies) as
+well as solicit such investment, advisory or other services from any entity mentioned in this report.
+As of March 17, 2020, CGS-CIMBR does not have a proprietary position in the recommended specified products in this report.
+CGS-CIMBR does not make a market on the securities mentioned in the report.
+South Korea: This report is issued and distributed in South Korea by CGS-CIMB Securities (Hong Kong) Limited, Korea Branch ("CGS-CIMB
+Korea") which is licensed as a cash equity broker, and regulated by the Financial Services Commission and Financial Supervisory Service of Korea.
+In South Korea, this report is for distribution only to professional investors under Article 9(5) of the Financial Investment Services and Capital Market
+Act of Korea ("FSCMA").
+Spain: This document is a research report and it is addressed to institutional investors only. The research report is of a general nature and not
+personalised and does not constitute investment advice so, as the case may be, the recipient must seek proper advice before adopting any
+investment decision. This document does not constitute a public offering of securities.
+CGS-CIMB is not registered with the Spanish Comision Nacional del Mercado de Valores to provide investment services
+Sweden: This report contains only marketing information and has not been approved by the Swedish Financial Supervisory Authority. The
+distribution of this report is not an offer to sell to any person in Sweden or a solicitation to any person in Sweden to buy any instruments described
+herein and may not be forwarded to the public in Sweden.
+Switzerland: This report has not been prepared in accordance with the recognized self-regulatory minimal standards for research reports of banks
+issued by the Swiss Bankers' Association (Directives on the Independence of Financial Research).
+Thailand: This report is issued and distributed by CGS-CIMB Securities (Thailand) Co. Ltd. ("CGS-CIMB Thailand") based upon sources believed to
+be reliable (but their accuracy, completeness or correctness is not guaranteed). The statements or expressions of opinion herein were arrived at after
+due and careful consideration for use as information for investment. Such opinions are subject to change without notice and CGS-CIMB Thailand
+has no obligation to update its opinion or the information in this research report.
+CGS-CIMB Thailand may act or acts as Market Maker, and issuer and offerer of Derivative Warrants and Structured Note which may have the
+following securities as its underlying securities. Investors should carefully read and study the details of the derivative warrants in the prospectus
+before making investment decisions.
+AAV, ADVANC, AEONTS, AMATA, AOT, AWC, BANPU, BBL, BCH, BCP, BCPG, BDMS, BEC, BEM, BGC, BGRIM, BH, BJC, BPP, BTS, CBG,
+CENTEL, CHG, CK, CKP, COM7, CPALL, CPF, CPN, DELTA, DTAC, EA, EGCO, EPG, ERW, ESSO, GFPT, GLOBAL, GPSC, GULF, GUNKUL,
+HANA, HMPRO, INTUCH, IRPC, IVL, JAS, JMT, KBANK, KCE, KKP, KTB, KTC, LH, MAJOR, MBK, MEGA, MINT, MTC, ORI, OSP, PLANB, PRM,
+PSH, PSL, PTG, PTT, PTTEP, PTTGC, QH, RATCH, RS, SAWAD, SCB, SCC, SGP, SPALI, SPRC, STA, STEC, STPI, SUPER, TASCO, TCAP,
+THAI, THANI, THG, TISCO, TKN, TMB, TOA, TOP, TPIPP, TQM, TRUE, TTW, TU, VGI, WHA, BEAUTY, JMART, LPN, SISB, WORK.
+Corporate Governance Report:
+The disclosure of the survey result of the Thai Institute of Directors Association ("IOD") regarding corporate governance is made pursuant to the
+Property Development | China
+policy of the Office of the Securities and Exchange Commission. The survey of the IOD is based on the information of a company listed on the Stock
+Exchange of Thailand and the Market for Alternative Investment disclosed to the public and able to be accessed by a general public investor. The
+result, therefore, is from the perspective of a third party. It is not an evaluation of operation and is not based on inside information.
+The survey result is as of the date appearing in the Corporate Governance Report of Thai Listed Companies. As a result, the survey result may be
+changed after that date. CGS-CIMB Thailand does not confirm nor certify the accuracy of such survey result.
+United Arab Emirates: The distributor of this report has not been approved or licensed by the UAE Central Bank or any other relevant licensing
+authorities or governmental agencies in the United Arab Emirates. This report is strictly private and confidential and has not been reviewed by,
+deposited or registered with UAE Central Bank or any other licensing authority or governmental agencies in the United Arab Emirates. This report is
+being issued outside the United Arab Emirates to a limited number of institutional investors and must not be provided to any person other than the
+original recipient and may not be reproduced or used for any other purpose. Further, the information contained in this report is not intended to lead to
+the sale of investments under any subscription agreement or the conclusion of any other contract of whatsoever nature within the territory of the
+United Arab Emirates.
+United Kingdom and European Economic Area (EEA): In the United Kingdom and European Economic Area, this material is also being
+distributed by CGS-CIMB Securities (UK) Limited ("CGS-CIMB UK"). CGS-CIMB UK is authorized and regulated by the Financial Conduct Authority
+and its registered office is at 27 Knightsbridge, London, SW1X7YB. The material distributed by CGS-CIMB UK has been prepared in accordance
+with CGS-CIMB's policies for managing conflicts of interest arising as a result of publication and distribution of this material. This material is for
+distribution only to, and is solely directed at, selected persons on the basis that those persons: (a) are eligible counterparties and professional clients
+of CGS-CIMB UK; (b) have professional experience in matters relating to investments falling within Article 19(5) of the Financial Services and
+Markets Act 2000 (Financial Promotion) Order 2005 (as amended, the "Order"), (c) fall within Article 49(2)(a) to (d) ("high net worth companies,
+unincorporated associations etc") of the Order; (d) are outside the United Kingdom subject to relevant regulation in each jurisdiction, material(all
+such persons together being referred to as "relevant persons"). This material is directed only at relevant persons and must not be acted on or relied
+on by persons who are not relevant persons. Any investment or investment activity to which this material relates is available only to relevant persons
+and will be engaged in only with relevant persons.
 Where this material is labelled as non-independent, it does not provide an impartial or objective assessment of the subject matter and does not
-constitute independent “research” (cannot remove research from here under the applicable rules of the Financial Conduct Authority in the UK. 
-Consequently, any such non-independent material will not have been prepared in accordance with legal requirements designed to promote the 
-independence of research (cannot remove research from here) and will not subject to any prohibition on dealing ahead of the dissemination of 
-research. Any such non-independent material must be considered as a marketing communication.  
+constitute independent "research" (cannot remove research from here under the applicable rules of the Financial Conduct Authority in the UK.
+Consequently, any such non-independent material will not have been prepared in accordance with legal requirements designed to promote the
+independence of research (cannot remove research from here) and will not subject to any prohibition on dealing ahead of the dissemination of
+research. Any such non-independent material must be considered as a marketing communication.
 United States: This research report is distributed in the United States of America by CGS-CIMB Securities (USA) Inc, a U.S. registered broker-
-dealer and a related company of CGS-CIMB Securities Sdn. Bhd. (formerly known as Jupiter Securities Sdn. Bhd.), CGS-CIMB Research Pte Ltd, 
-PT CGS-CIMB Sekuritas Indonesia, CGS-CIMB Securities (Thailand) Co. Ltd, CGS-CIMB Securities (Hong Kong) Limited and CGS-CIMB Securities 
-(India) Private Limited, and is distributed solely to persons who qualify as “U.S. Institutional Investors” as defined in Rule 15a-6 under the Securities 
-and Exchange Act of 1934. This communication is only for Institutional Investors whose ordinary business activities involve investing in shares, 
-bonds, and associated securities and/or derivative securities and who have professional experience in such investments. Any person who is not a 
-U.S. Institutional Investor or Major Institutional Investor must not rely on this communication. The delivery of this research report to any person in the 
-United States of America is not a recommendation to effect any transactions in the securities discussed herein, or an endorsement of any opinion 
-expressed herein. CGS-CIMB Securities (USA) Inc, is a FINRA/SIPC member and takes responsibility for the content of this report. For further 
-information or to place an order in any of the above-mentioned securities please contact a registered representative of CGS-CIMB Securities (USA) 
-Inc. 
-CGS-CIMB Securities (USA) Inc. does not make a market on other securities mentioned in the report. 
-CGS-CIMB Securities (USA) Inc. has not managed or co-managed a public offering of any of the securities mentioned in the past 12 months. 
-CGS-CIMB Securities (USA) Inc. has not received compensation for investment banking services from any of the company mentioned in the past 12 
-months. 
-CGS-CIMB Securities (USA) Inc. neither expects to receive nor intends to seek compensation for investment banking services from any of the 
-company mentioned within the next 3 months. 
-Other jurisdictions: In any other jurisdictions, except if otherwise restricted by laws or regulations, this report is only for distribution to professional, 
-institutional or sophisticated investors as defined in the laws and regulations of such jurisdictions.  
- 
-Rating Distribution (%)
-Investment Banking clients (%)
+dealer and a related company of CGS-CIMB Securities Sdn. Bhd. (formerly known as Jupiter Securities Sdn. Bhd.), CGS-CIMB Research Pte Ltd,
+PT CGS-CIMB Sekuritas Indonesia, CGS-CIMB Securities (Thailand) Co. Ltd, CGS-CIMB Securities (Hong Kong) Limited and CGS-CIMB Securities
+(India) Private Limited, and is distributed solely to persons who qualify as "U.S. Institutional Investors" as defined in Rule 15a-6 under the Securities
+and Exchange Act of 1934. This communication is only for Institutional Investors whose ordinary business activities involve investing in shares,
+bonds, and associated securities and/or derivative securities and who have professional experience in such investments. Any person who is not a
+U.S. Institutional Investor or Major Institutional Investor must not rely on this communication. The delivery of this research report to any person in the
+United States of America is not a recommendation to effect any transactions in the securities discussed herein, or an endorsement of any opinion
+expressed herein. CGS-CIMB Securities (USA) Inc, is a FINRA/SIPC member and takes responsibility for the content of this report. For further
+information or to place an order in any of the above-mentioned securities please contact a registered representative of CGS-CIMB Securities (USA)
+Inc.
+CGS-CIMB Securities (USA) Inc. does not make a market on other securities mentioned in the report.
+CGS-CIMB Securities (USA) Inc. has not managed or co-managed a public offering of any of the securities mentioned in the past 12 months.
+months.
+CGS-CIMB Securities (USA) Inc. neither expects to receive nor intends to seek compensation for investment banking services from any of the
+company mentioned within the next 3 months.
+Other jurisdictions: In any other jurisdictions, except if otherwise restricted by laws or regulations, this report is only for distribution to professional,
+institutional or sophisticated investors as defined in the laws and regulations of such jurisdictions.
+Spitzer Chart for stock being researched (2 year data)
+Corporate Governance Report of Thai Listed Companies (CGR). CG Rating by the Thai Institute of Directors Association (Thai IOD) in
+ADVANC – Excellent, Certified, AEONTS – Good, n/a, AH – Very Good, n/a, AMATA – Excellent, Declared, ANAN – Excellent, Declared, AOT –
+Excellent, n/a, AP - Excellent, Certified, ASP - Very Good, Certified, BAM - not available, n/a, BANPU - Excellent, Certified, BAY - Excellent,
+Certified, BBL - Very Good, Certified, BCH - Good, Certified, BCP - Excellent, Certified, BCPG - Excellent, Certified, BDMS - Very Good, n/a,
+BEAUTY - Good, n/a, BEC - Very Good, n/a, BGRIM - Very Good, Declared, BH - Good, n/a, BJC - Very Good, n/a, BJCHI - Very Good,
+Certified, BLA - Very Good, Certified, BPP - Very Good, Declared, BR - Good, n/a, BTS - Excellent, Certified, CBG - Very Good, n/a, CCET -
+Good, n/a, CENTEL - Very Good, Certified, CHAYO - Good, n/a, CHG - Very Good, Declared, CK - Excellent, n/a, COL - Excellent, Declared,
+CPALL - Excellent, Certified, CPF - Excellent, Certified, CPN - Excellent, Certified, CPNREIT - not available, n/a, CRC - not available, n/a, DELTA
+- Excellent, Declared, DEMCO - Excellent, Certified, DDD - Very Good, n/a, DIF - not available, n/a, DREIT - not available, n/a, DTAC - Excellent,
+Certified, EA - Excellent, n/a, ECL - Very Good, Certified, EGCO - Excellent, Certified, EPG - Very Good, n/a, ERW - Very Good, n/a, GFPT -
+Excellent, Certified, GGC - Excellent, Certified, GLOBAL - Very Good, n/a, GLOW - Very Good, Certified, GPSC - Excellent, Certified, GULF -
+Very Good, n/a, GUNKUL - Excellent, Certified, HANA - Excellent, Certified, HMPRO - Excellent, Certified, HUMAN - Good, n/a, ICHI - Excellent,
+Declared, III - Excellent, n/a, INTUCH - Excellent, Certified, IRPC - Excellent, Certified, ITD - Very Good, n/a, IVL - Excellent, Certified, JASIF - not
+available, n/a, BJC - Very Good, n/a, JMT - Very Good, n/a, KBANK - Excellent, Certified, KCE - Excellent, Certified, KKP - Excellent, Certified,
+KSL – Excellent, Certified, KTB - Excellent, Certified, KTC – Excellent, Certified, LH - Excellent, n/a, LPN – Excellent, Certified, M – Very Good,
+Certified, MACO - Very Good, n/a, MAJOR - Very Good, n/a, MAKRO - Excellent, Certified, MALEE - Excellent, Certified, MC - Excellent,
+Certified, MCOT – Excellent, Certified, MEGA – Very Good, n/a, MINT - Excellent, Certified, MK – Very Good, n/a, MTC – Excellent, n/a, NETBAY –
+Very Good, n/a, OSP - Very Good, n/a, PLANB - Excellent, Certified, PLAT - Very Good, Certified, PR9 - Excellent, n/a, PSH - Excellent,
+Certified, PSTC - Very Good, Certified, PTT - Excellent, Certified, PTTEP - Excellent, Certified, PTTGC - Excellent, Certified, QH - Excellent,
+Certified, RATCH – Excellent, Certified, ROBINS – Excellent, Certified, RS – Excellent, n/a, RSP – not available, n/a, S – Excellent, n/a, SAPPE –
+Very Good, Declared, SAT – Excellent, Certified, SAWAD – Very Good, n/a, SC – Excellent, Certified, SCB - Excellent, Certified, SCC – Excellent,
+Certified, SCN – Excellent, Certified, SF – Good, n/a, SHR – not available, n/a, SIRI – Very Good, Certified, SPA - Good, n/a, SPALI - Excellent, n/a,
+SPRC – Excellent, Certified, STA – Very Good, Certified, STEC – Excellent, n/a, SVI – Excellent, Certified, SYNEX – Excellent, Certified, TASCO –
+Excellent, Certified, TCAP - Excellent, Certified, THANI - Excellent, Certified, TIPCO - Very Good, Certified, TISCO - Excellent, Certified, TKN -
+Very Good, n/a, TMB - Excellent, Certified, TNR - Very Good, Certified, TOP - Excellent, Certified, TPCH - Good, n/a, TPIPP - Good, n/a, TRUE -
+Excellent, Certified, TU - Excellent, Certified, TVO - Excellent, Declared, UNIQ - not available, n/a, VGI - Excellent, Certified, WHA - Excellent,
+Certified, WHART – not available, n/a, WICE – Excellent, Certified, WORK – Good, n/a.
+1 CG Score 2019 from Thai Institute of Directors Association (IOD)
+2 AGM Level 2018 from Thai Investors Association
+3 Companies participating in Thailand's Private Sector Collective Action Coalition Against Corruption programme (Thai CAC) under Thai Institute of Directors (as of November 30, 2018)
+companies that have declared their intention to join CAC, and companies certified by CAC.
+4 The Stock Exchange of Thailand: the record of listed companies with corporate sustainable development "Thai sustainability Investment 2018" included:
+SET and mai listed companies passed the assessment conducted by the Stock Exchange of Thailand: THSI (SET) and THSI (mai)
+SET listed companies passed the assessment conducted by the Dow Jones Sustainability Indices (DJSI)
+Property Development | China
+Recommendation Framework
+Definition:
+Stock Ratings
 Add
-61.4%
-0.0%
+The stock's total return is expected to exceed 10% over the next 12 months.
 Hold
-25.2%
-0.0%
+The stock's total return is expected to be between 0% and positive 10% over the next 12 months.
 Reduce
-13.4%
-0.0%
-Distribution of stock ratings and investment banking clients for quarter ended on 31 December 2019
-798 companies under coverage for quarter ended on 31 December 2019
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-11 
- 
-Spitzer Chart for stock being researched ( 2 year data ) 
-China Vanke-A (000002 CH) 
- 
-Corporate Governance Report of Thai Listed Companies (CGR). CG Rating by the Thai Institute of Directors Association (Thai IOD) in 
-2019, Anti-Corruption 2019 
-ADVANC – Excellent, Certified, AEONTS – Good, n/a, AH – Very Good, n/a, AMATA – Excellent, Declared, ANAN – Excellent, Declared, AOT – 
-Excellent, n/a, AP – Excellent, Certified, ASP – Very Good, Certified, BAM – not available, n/a, BANPU – Excellent, Certified, BAY – Excellent, 
-Certified, BBL – Very Good, Certified, BCH – Good, Certified, BCP - Excellent, Certified, BCPG – Excellent, Certified, BDMS – Very Good, n/a, 
-BEAUTY – Good, n/a, BEC – Very Good, n/a, BGRIM – Very Good, Declared, BH - Good, n/a, BJC – Very Good, n/a, BJCHI – Very Good, 
-Certified, BLA – Very Good, Certified, BPP – Very Good, Declared, BR - Good, n/a, BTS - Excellent, Certified, CBG – Very Good, n/a, CCET – 
-Good, n/a, CENTEL – Very Good, Certified, CHAYO - Good, n/a, CHG – Very Good, Declared, CK – Excellent, n/a, COL – Excellent, Declared, 
-CPALL – Excellent, Certified, CPF – Excellent, Certified, CPN - Excellent, Certified, CPNREIT – not available, n/a, CRC – not available, n/a, DELTA 
-- Excellent, Declared, DEMCO – Excellent, Certified, DDD – Very Good, n/a, DIF – not available, n/a, DREIT – not available, n/a, DTAC – Excellent, 
-Certified, EA – Excellent, n/a, ECL – Very Good, Certified, EGCO - Excellent, Certified, EPG – Very Good, n/a, ERW – Very Good, n/a, GFPT - 
-Excellent, Certified, GGC – Excellent, Certified, GLOBAL – Very Good, n/a, GLOW – Very Good, Certified, GPSC – Excellent, Certified, GULF – 
-Very Good, n/a, GUNKUL – Excellent, Certified, HANA - Excellent, Certified, HMPRO - Excellent, Certified, HUMAN – Good, n/a, ICHI – Excellent, 
-Declared, III – Excellent, n/a, INTUCH - Excellent, Certified, IRPC – Excellent, Certified, ITD – Very Good, n/a, IVL - Excellent, Certified, JASIF – not 
-available, n/a, BJC – Very Good, n/a, JMT – Very Good, n/a, KBANK - Excellent, Certified, KCE - Excellent, Certified, KKP – Excellent, Certified, 
-KSL – Excellent, Certified, KTB - Excellent, Certified, KTC – Excellent, Certified, LH - Excellent, n/a, LPN – Excellent, Certified, M – Very Good, 
-Certified, MACO – Very Good, n/a, MAJOR – Very Good, n/a, MAKRO – Excellent, Certified, MALEE – Excellent, Certified, MC – Excellent, 
-Certified, MCOT – Excellent, Certified, MEGA – Very Good, n/a, MINT - Excellent, Certified, MK – Very Good, n/a, MTC – Excellent, n/a, NETBAY – 
-Very Good, n/a, OSP – Very Good, n/a, PLANB – Excellent, Certified, PLAT – Very Good, Certified, PR9 – Excellent, n/a, PSH – Excellent, 
-Certified, PSTC – Very Good, Certified, PTT - Excellent, Certified, PTTEP - Excellent, Certified, PTTGC - Excellent, Certified, QH – Excellent, 
-Certified, RATCH – Excellent, Certified, ROBINS – Excellent, Certified, RS – Excellent, n/a, RSP – not available, n/a, S – Excellent, n/a, SAPPE – 
-Very Good, Declared, SAT – Excellent, Certified, SAWAD – Very Good, n/a, SC – Excellent, Certified, SCB - Excellent, Certified, SCC – Excellent, 
-Certified, SCN – Excellent, Certified, SF – Good, n/a, SHR – not available, n/a, SIRI – Very Good, Certified, SPA - Good, n/a, SPALI - Excellent, n/a, 
-SPRC – Excellent, Certified, STA – Very Good, Certified, STEC – Excellent, n/a, SVI – Excellent, Certified, SYNEX – Excellent, Certified, TASCO – 
-Excellent, Certified, TCAP – Excellent, Certified, THANI – Excellent, Certified, TIPCO – Very Good, Certified, TISCO - Excellent, Certified, TKN – 
-Very Good, n/a, TMB - Excellent, Certified, TNR – Very Good, Certified, TOP - Excellent, Certified, TPCH – Good, n/a, TPIPP – Good, n/a, TRUE – 
-Excellent, Certified, TU – Excellent, Certified, TVO – Excellent, Declared, UNIQ – not available, n/a, VGI – Excellent, Certified, WHA – Excellent, 
-Certified, WHART – not available, n/a, WICE – Excellent, Certified, WORK – Good, n/a. 
-1 CG Score 2019 from Thai Institute of Directors Association (IOD) 
-2 AGM Level 2018 from Thai Investors Association 
-3 Companies participating in Thailand's Private Sector Collective Action Coalition Against Corruption programme (Thai CAC) under Thai Institute of Directors (as of November 30, 2018) 
-are categorised into: 
-companies that have declared their intention to join CAC, and companies certified by CAC. 
-4 The Stock Exchange of Thailand : the record of listed companies with corporate sustainable development "Thai sustainability Investment 2018" included: 
-SET and mai listed companies passed the assessment conducted by the Stock Exchange of Thailand: THSI (SET) and THSI (mai) 
-SET listed companies passed the assessment conducted by the Dow Jones Sustainability Indices (DJSI)   
- 
-16.0
-21.0
-26.0
-31.0
-36.0
-41.0
-46.0
-Mar-17
-Sep-17
-Mar-18
-Sep-18
-Mar-19
-Sep-19
-Price Close
-22.50 
-25.00 
-28.50 
-35.00 
-35.00 
-28.80 
-29.50 
-34.40 
-32.60 
-37.00 
-Recommendations & Target Price
-Add
-Hold
-Reduce
-Not Rated
- 
- 
-Property Development │ China 
-China Vanke-A │ March 18, 2020 
- 
- 
-12 
- 
-Recommendation Framework 
-Stock Ratings 
-Definition: 
- Add 
-The stock’s total return is expected to exceed 10% over the next 12 months. 
- Hold 
-The stock’s total return is expected to be between 0% and positive 10% over the next 12 months. 
- Reduce 
-The stock’s total return is expected to fall below 0% or more over the next 12 months. 
-The total expected return of a stock is defined as the sum of the: (i) percentage difference between the target price and the current price and (ii) the forward net 
-dividend yields of the stock.  Stock price targets have an investment horizon of 12 months.  
- 
- 
-Sector Ratings 
-Definition: 
- Overweight 
-An Overweight rating means stocks in the sector have, on a market cap-weighted basis, a positive absolute recommendation. 
- Neutral 
-A Neutral rating means stocks in the sector have, on a market cap-weighted basis, a neutral absolute recommendation. 
- Underweight 
-An Underweight rating means stocks in the sector have, on a market cap-weighted basis, a negative absolute recommendation. 
- 
- 
-Country Ratings 
-Definition: 
- Overweight 
-An Overweight rating means investors should be positioned with an above-market weight in this country relative to benchmark. 
- Neutral 
-A Neutral rating means investors should be positioned with a neutral weight in this country relative to benchmark. 
- Underweight 
-An Underweight rating means investors should be positioned with a below-market weight in this country relative to benchmark. 
- 
- 
- 
-#01c 
- 
- 
- 
- 
-Insert   Insert   
+The stock's total return is expected to fall below 0% or more over the next 12 months.
+The total expected return of a stock is defined as the sum of the: (i) percentage difference between the target price and the current price and (ii) the forward net
+dividend yields of the stock. Stock price targets have an investment horizon of 12 months.
+Sector Ratings
+Definition:
+Overweight
+An Overweight rating means stocks in the sector have, on a market cap-weighted basis, a positive absolute recommendation.
+Neutral
+A Neutral rating means stocks in the sector have, on a market cap-weighted basis, a neutral absolute recommendation.
+An Underweight rating means stocks in the sector have, on a market cap-weighted basis, a negative absolute recommendation.
+Underweight
+Country Ratings
+Definition:
+Overweight
+An Overweight rating means investors should be positioned with an above-market weight in this country relative to benchmark.
+Neutral
+A Neutral rating means investors should be positioned with a neutral weight in this country relative to benchmark.
+An Underweight rating means investors should be positioned with a below-market weight in this country relative to benchmark.
+Underweight
+#01c

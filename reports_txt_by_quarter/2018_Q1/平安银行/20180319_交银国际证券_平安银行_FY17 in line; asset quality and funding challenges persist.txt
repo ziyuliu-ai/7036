@@ -1,1515 +1,187 @@
- 
-Analyst certifications, disclosures and disclaimer at the back forms part of this report and must be read.  
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
- 
-  
- 
-BOCOM Int’l Research 
-Company Update  
- 
-Banking  
-Last Close 
-Target Price 
-Upside 
- 
-16 March 2018 
-RMB11.71 
-RMB11.80 
-+0.8% 
- 
- 
-Ping An Bank (000001 CH) 
- 
-  
-    
-FY17 in line; asset quality and funding challenges persist 
- 
- 
- 
- We resume coverage on Ping An Bank (PAB) with a Neutral rating and a TP of 
-RMB11.80. We believe the improving retail banking franchise bodes well for PAB’s 
-long-term profitability. However, we see limited upside from PAB’s current valuation 
-given the funding cost and asset quality challenges. PAB’s FY17 net profit was in line 
-with Wind consensus, with lower credit cost partly offsetting the NIM contraction. 
-NPL formation rate improved, but remained at the high end among banks we cover.  
- Asset quality improved but pressure persists: PAB’s NPL ratio declined by 5bps 
-QoQ to 1.70% at end-2017, thanks to the aggressive write-off. NPL formation rate 
-declined slightly HoH in 2H17 to 2.46% under our estimation, but remained among 
-the highest of banks we cover. Provision coverage ratio declined 1ppt QoQ to 151% 
-at end-2017 and loan loss reserve was at 2.57% of total loans, down 9bps QoQ. 
-NPLs was equivalent to 70% of >90-day overdue loans. With the less prudent NPL 
-classification and high NPL formation rate, we believe provision pressure remains.  
- Lackluster NIM outlook: PAB reported NIM of 2.37% in 2017, compared with 
-2.41% in 9M17. The NIM further contracted in 4Q17 due to higher interbank 
-funding cost and lower loan yield with lower risk appetite, in our view. Given its 
-weaker deposit franchise and continuous loan structure adjustment, we believe 
-PAB’s NIM will remain under pressure amid tight liquidity. 
- Building up retail banking franchise: Retail banking made up 44% of total revenue 
-in 2017, up from 31% in 2016. Credit card loans increased by 68% YoY in 2017, and 
+Company Update
+Banking
+Last Close
+Target Price
+Upside
+RMB11.71
+RMB11.80
++0.8%
+Ping An Bank (000001 CH)
+FY17 in line; asset quality and funding challenges persist
+We resume coverage on Ping An Bank (PAB) with a Neutral rating and a TP of
+Stock Rating
+RMB11.80. We believe the improving retail banking franchise bodes well for PAB's
+NEUTRAL
+long-term profitability. However, we see limited upside from PAB's current valuation
+given the funding cost and asset quality challenges. PAB's FY17 net profit was in line
+1-year stock performance
+NPL formation rate improved, but remained at the high end among banks we cover.
+Asset quality improved but pressure persists: PAB's NPL ratio declined by 5bps
+QoQ to 1.70% at end-2017, thanks to the aggressive write-off. NPL formation rate
+declined slightly HoH in 2H17 to 2.46% under our estimation, but remained among
+the highest of banks we cover. Provision coverage ratio declined 1ppt QoQ to 151%
+at end-2017 and loan loss reserve was at 2.57% of total loans, down 9bps QoQ.
+Source: Bloomberg
+NPLs was equivalent to 70% of >90-day overdue loans. With the less prudent NPL
+Stock data
+classification and high NPL formation rate, we believe provision pressure remains.
+Lackluster NIM outlook: PAB reported NIM of 2.37% in 2017, compared with
+2.41% in 9M17. The NIM further contracted in 4Q17 due to higher interbank
+funding cost and lower loan yield with lower risk appetite, in our view. Given its
+weaker deposit franchise and continuous loan structure adjustment, we believe
+PAB's NIM will remain under pressure amid tight liquidity.
+Source: Bloomberg
+Building up retail banking franchise: Retail banking made up 44% of total revenue
+in 2017, up from 31% in 2016. Credit card loans increased by 68% YoY in 2017, and
+Jaclyn Wang
 total retail loans/deposits accounted for 50%/47% of total loans/deposits at end-
-2017. Leveraging on Ping An Group’s franchise, we expect PAB’s retail franchise to 
-improve further and support its profitability in the long term. 
- Valuation and risks: Our TP of RMB11.80 is the average of our 3-stage DDM model 
-and Gordon Growth fair P/B model, based on profit growth of 11%/7%/3% in stage 
-1/2/3 (terminal), dividend payout of 10%, sustainable ROE of 11.5%, and COE of 
-10.0%. Our TP-implied 2018E P/B is 0.90x. Key risks: Upside: better-than-expected 
-NIM and NPL. Downside: stricter-than-expected regulations on WMPs. 
-Financial highlights  
-Y/E 31 Dec  
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Revenue (RMB m) 
-107,715 
-105,786 
-115,525 
-125,636 
-133,658 
-YoY growth (%) 
-12.0 
--1.8 
-9.2 
-8.8 
-6.4 
-Net profit (RMB m) 
-22,599 
-23,189 
-25,095 
-27,880 
-31,199 
-EPS (RMB)  
-1.32 
-1.30 
-1.41 
-1.57 
-1.77 
-YoY growth (%) 
--13.9 
--1.3 
-8.5 
-11.5 
-12.3 
-P/E (x) 
-8.9 
-9.0 
-8.3 
-7.4 
-6.6 
-BVPS (RMB)  
-10.61 
-11.77 
-13.05 
-14.52 
-16.13 
-P/B (x) 
-1.10 
-0.99 
-0.90 
-0.81 
-0.73 
-Dividend yield (%) 
-1.3 
-1.2 
-1.2 
-1.4 
-1.6 
-Source: Company data, BOCOM Int’l estimates
-Stock Rating  
-NEUTRAL 
- 
-1-year stock performance 
-Source: Bloomberg 
-Stock data 
-52w high (RMB) 
-15.24 
-52w low (RMB) 
-8.54 
-Market cap (RMB m) 
-201,066 
-Avg daily vol (m) 
-116 
-YTD change (%) 
--12 
-200d MA (RMB) 
-11.69 
-Source: Bloomberg 
-Jaclyn Wang 
-Jaclyn.wang@bocomgroup.com 
-(86) 21 6065 3681 
-Hannah Han 
-hannah.han@bocomgroup.com 
-(852) 3766 1858 
--20%
--10%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-Mar-17
-Jul-17
-Nov-17
-Mar-18
-PAB
-SZCOMP
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
-  
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-2 
- 
- 
-Asset Quality Pressure Persists 
-PAB’s NPL ratio was down 4bps YoY and 5 bps QoQ in 4Q17, which may be driven by its 
-aggressive write-offs, in our view. NPL write-offs and transfers amounted to RMB37bn 
-in 2017, up 6% YoY, equivalent to around 144% of NPLs at end-2016. Overdue loan 
-balance declined 13% HoH in 2H17 and special-mention loan balance also declined by 
-5% HoH in 2H17, indicating improving asset quality.  
-However, PAB’s NPL formation rate remained at 2.46% in 2H17 under our estimation, 
-among the highest of banks we cover. We believe PAB still has to maintain relatively 
-high write-offs for stable NPL ratios. Given the 151% NPL coverage ratio, close to the 
-regulatory requirement of 150%, we believe the provision pressure remains high. 
-Figure 1: NPL formation rate, overdue ratio and 
-SML ratio declined in 2H17 
-Figure 2: Provision pressure intact  
- 
- 
-Source: Company data, BOCOM Int’l estimates 
-Source: Company data, BOCOM Int’l estimates 
-NIM Contracted due to High Interbank Funding Cost 
-PAB’s interbank liability made up around 30% of total liabilities (including NCD and 
-borrowing from PBOC) at end-2017, up from 26% at end-2016. The surge in interbank 
-market rates resulted in higher interbank funding cost and pressured PAB’s NIM. PAB’s 
-deposits only increased by 4% YoY, compared with loan growth of 15% YoY in 2017. Also, 
-given the asset quality deterioration pressure, PAB turned more cautious on risky loans 
-in our view, and some new loan pricing is lower than that in the past few years. 
-Although PAB increased its high-yield retail loans, the overall loan yield declined in 2H17, 
-by our estimates.  
-We expect PAB’s NIM to remain under pressure in the near term given the high 
-interbank market rates, risk appetite adjustments and relatively weak deposit franchise. 
- 
- 
-0.00%
-1.00%
-2.00%
-3.00%
-4.00%
-5.00%
-1H16
-2H16
-1H17
-2H17
-NPL formation
-Overdue ratio
-SML ratio
-145%
-150%
-155%
-160%
-165%
-1.00%
-1.50%
-2.00%
-2.50%
-3.00%
-1H16
-2H16
-1H17
-2H17
-NPL ratio (LHS)
-LLR/loans (LHS)
-NPL coverage (RHS)
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
- 
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-3 
- 
- 
-Figure 3: NIM further contracted in 4Q17 due to 
-higher interbank funding cost 
-Figure 4: Limited capitalization buffer 
-Source: Company data, BOCOM Int’l estimates 
-Source: Company data, BOCOM Int’l estimates 
-Limited Capital Buffer 
-PAB’s CET1 declined 4bps QoQ and 8bps YoY to 8.28% at end-2017, slightly higher than 
-regulatory requirement of 7.5%. We expect higher capitalization pressure in 2018 for 
-PAB, considering the higher risk weighting for interbank investment and credit shift 
-from off-balance-sheet to balance-sheet assets. PAB announced its plan to issue 
-RMB26bn convertible bonds (CB) in mid-2017. However, it may take some time to 
-transfer the CB into core capital after the issuance, in our view.  
-PAB adjusted its exposure to interbank investments and off-balance-sheet WMP in 
-2H17. Interbank investments balance declined 26% HoH and off-balance-sheet WMP 
-balance was down 15% HoH in 2H17.   
-Figure 5: Interbank investments at 9% of total 
-assets at end-2017, down from 13% at end-1H17 
-Figure 6: Off-balance-sheet WMPs at 15% of total 
-assets, down from 19% at end-1H17 
-Source: Company data, BOCOM Int’l 
-Source: Company data, BOCOM Int’l 
- 
- 
-2.10
-2.20
-2.30
-2.40
-2.50
-2.60
-2.70
-2.80
-2016
-1Q17
-1H17
-9M17
-2017
-NIM
-0.00%
-1.00%
-2.00%
-3.00%
-4.00%
-5.00%
-6.00%
-7.00%
-8.00%
-9.00%
-2016
-1Q17
-1H17
-9M17
-2017
-CET1
-Regulatory requirement
-0%
-20%
-40%
-60%
-80%
-100%
-2016
-1H17
-2017
-Other assets
-Interbank invt. (entrusted invt.)
-Proprietary Invt.
-Cash and Interbank placement & repo
-Net Loans
-Asset Mix FY17
-25%
-19%
-15%
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-0
-200,000
-400,000
-600,000
-800,000
-2016
-1H17
-2017
-Off-balance-sheet WMP (RMB m)
-off-balance-sheet WMP % total assets
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
- 
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-4 
- 
- 
-Building up Retail Franchise  
-The operating profit and revenue of PAB’s retail banks accounted for 67% and 44% of 
-total, respectively, in 2017. The proportion of retail loans and deposits also increased in 
-2017. In general, retail loan pricing is higher than corporate loans and the credit cost is 
-less affected by economic cycles in China.  We believe better retail banking franchise 
-may help PAB to improve its asset quality and NIM in the long term.  
-The retail franchise may also support the bank’s fee income growth. PAB’s fee income 
-increased by 10% YoY in 2017 despite the declines in WMPs and consulting fees, as its 
-bank card fees increased by 49% YoY. 
-Figure 7: Retail deposits made up 47% of total at 
-end-2017  
-Figure 8: Retail loans grew fast in 2017 
- 
-Source: Company data, BOCOM Int’l 
-Source: Company data, BOCOM Int’l 
-Figure 9: Retail banking became the largest profit driver in 2017 
- 
-Source: Company data, BOCOM Int’l 
- 
- 
- 
-0%
-20%
-40%
-60%
-80%
-100%
-2014
-2015
-2016
-2017
-Corporate
-Retail
-Others
-Deposits mix 
-0%
-20%
-40%
-60%
-80%
-100%
-2014
-2015
-2016
-2017
-Corporate
-Retail
-Loan mix 
--20%
-0%
-20%
-40%
-60%
-80%
-100%
-2014
-2015
-2016
-2017
-Corporate banking
-Retail banking
-Treasury
-Operating profit mix 
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
- 
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-5 
- 
- 
-Figure 10: PAB’s FY17 results at-a-glance 
-FYE 31 December 
-4Q16 
-1Q17 
-2Q17 
-3Q17 
-4Q17 4Q17 QoQ 4Q17 YoY 
-FY16 
-FY17 
-FY17 YoY 
- 
- 
- 
- 
- 
- (%/bps/ppt) (%/bps/ppt) 
- 
- (%/bps/ppt) 
-Profit & loss (RMB m) 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Net interest income 
-21,848 
-18,869 
-18,492 
-18,121 
-18,527 
-2.2 
--15.2 
-76,411 
-74,009 
--3.1 
-Non-interest income 
-3,899 
-8,843 
-7,869 
-7,639 
-7,426 
--2.8 
-90.5 
-31,304 
-31,777 
-1.5 
-Total operating income 
-25,747 
-27,712 
-26,361 
-25,760 
-25,953 
-0.7 
-0.8 
-107,715 
-105,786 
--1.8 
-Operating expense 
-5,610 
-7,050 
-6,839 
-8,124 
-10,625 
-30.8 
-89.4 
-31,418 
-32,638 
-3.9 
-PPOP 
-20,137 
-20,662 
-19,522 
-17,636 
-15,328 
--13.1 
--23.9 
-76,297 
-73,148 
--4.1 
-Impairment loss 
-14,903 
-12,434 
-11,282 
-9,104 
-10,105 
-11.0 
--32.2 
-46,518 
-42,925 
--7.7 
-Operating profit 
-5,234 
-8,228 
-8,240 
-8,532 
-5,223 
--38.8 
--0.2 
-29,779 
-30,223 
-1.5 
-Goodwill impairment 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-Associate profit / loss 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-Other non-operating items 
-141 
-2 
-(38) 
-(25) 
-(5) 
--80.0 
--103.5 
-156 
-(66) 
-Pre-tax profit 
-5,375 
-8,230 
-8,202 
-8,507 
-5,218 
--38.7 
--2.9 
-29,935 
-30,157 
-0.7 
-Income tax 
-1,495 
-2,016 
-1,862 
-1,908 
-1,182 
--38.1 
--20.9 
-7,336 
-6,968 
--5.0 
-Minority interest 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-Net profit att. to ord. s/h 
-3,880 
-6,214 
-6,340 
-6,599 
-4,036 
--38.8 
-4.0 
-22,599 
-23,189 
-2.6 
-EPS (RMB) 
-0.45 
-0.72 
-0.74 
-0.77 
-0.47 
--38.8 
-4.0 
-1.32 
-1.30 
--1.3 
-DPS (RMB) 
-0.16 
-0.14 
--13.9 
-Payout ratio (%) 
-12 
-10 
-Balance sheet (RMB m) 
-Loans, gross 
-1,475,801 
-1,548,162 
-1,594,281 
-1,646,824 
-1,704,230 
-3.5 
-15 
-1,475,801 
-1,704,230 
-15.5 
-Assets HFT/FV 
-57,179 
-44,044 
-49,083 
-41,327 
-39,575 
--4.2 
--30.8 
-57,179 
-39,575 
--30.8 
-Investments AFS/HTM/ Receivables 
-796,267 
-866,309 
-872,424 
-839,720 
-855,137 
-1.8 
-7.4 
-796,267 
-855,137 
-7.4 
-Total assets 
-2,953,434 
-3,006,195 
-3,092,142 
-3,137,481 
-3,248,474 
-3.5 
-10.0 
-2,953,434 
-3,248,474 
-10.0 
-Deposits, non-bank 
-1,921,835 
-1,912,082 
-1,912,333 
-1,911,741 
-2,000,420 
-4.6 
-4.1 
-1,921,835 
-2,000,420 
-4.1 
-Shareholders' equity 
-202,171 
-207,739 
-211,454 
-218,111 
-222,054 
-1.8 
-9.8 
-202,171 
-222,054 
-9.8 
-Capital (%) 
-CET1  
-8.36 
-8.28 
-8.13 
-8.32 
-8.28 
--4bps 
--8bps 
-8.36 
-8.28 
--836bps 
-Tier-1 CAR 
-9.34 
-9.23 
-9.05 
-9.23 
-9.18 
--5bps 
--17bps 
-9.34 
-9.18 
--17bps 
-Total CAR 
-10.65 
-11.48 
-11.23 
-11.28 
-9.60 
--168bps 
--105bps 
-11.53 
-11.20 
--33bps 
-Asset quality (%) 
-NPLs (RMB m) 
-25,702 
-26,927 
-28,037 
-28,796 
-28,997 
-0.7 
-12.8 
-25,702 
-28,997 
-12.8 
-NPL ratio 
-1.74 
-1.74 
-1.76 
-1.75 
-1.70 
--5bps 
--4bps 
-1.74 
-1.70 
--4bps 
-Loan loss reserve / NPL 
-155.4 
-163 
-161 
-152 
-151 
--1.0ppt 
--4.3ppt 
-155.4 
-151.1 
--4.3ppt 
-Loan loss reserve / gross loans 
-2.71 
-2.84 
-2.84 
-2.66 
-2.57 
--9bps 
--14bps 
-2.71 
-2.57 
--14bps 
-Impairment / gross loans (ann'd) 
-4.04 
-3.21 
-2.83 
-2.21 
-2.37 
-16bps 
--167bps 
-3.15 
-2.52 
--63bps 
-Others (%) 
-LDR 
-76.8 
-81.0 
-83.4 
-86.1 
-85.2 
--0.9ppt 
-8.4ppt 
-76.8 
-85.2 
-8.4ppt 
-NIM (ann'd) 
-3.13 
-2.61 
-2.50 
-2.41 
-2.42 
-1bps 
--71bps 
-2.88 
-2.49 
--40bps 
-Non-interest / total income 
-15.1 
-31.9 
-29.9 
-29.7 
-28.6 
--1.0ppt 
-13.5ppt 
-29.1 
-30.0 
-1.0ppt 
-Cost / income 
-21.8 
-25.4 
-25.9 
-31.5 
-40.9 
-9.4ppt 
-19.2ppt 
-29.2 
-30.9 
-1.7ppt 
-ROAE (ann'd) 
-7.8 
-12.1 
-12.1 
-12.3 
-7.3 
--5.0ppt 
--0.4ppt 
-13.1 
-11.6 
--1.5ppt 
-ROAA (ann'd) 
-0.54 
-0.83 
-0.83 
-0.85 
-0.51 
--34bps 
--3bps 
-0.83 
-0.75 
--8bps 
-Source: Company data, BOCOM Int’l  
- 
- 
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
- 
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-6 
- 
- 
-Financial Statements 
-Balance sheet (RMB m) 
-As of 31 Dec 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Cash & equivalent 
-4,495 
-4,226 
-4,477 
-4,760 
-5,059 
-Interbank assets 
-579,971 
-537,143 
-625,492 
-664,898 
-706,787 
-Inv. HFT & FV 
-65,909 
-55,655 
-58,966 
-62,681 
-66,630 
-Inv. AFS & HTM 
-796,267 
-855,137 
-890,167 
-901,188 
-957,963 
-Gross loans 
-1,475,801 1,704,230 1,878,061 2,038,636 2,212,939 
-   Loan loss reserve 
--39,932 
--43,810 
--45,989 
--58,611 
--61,784 
-Other assets 
-70,923 
-135,893 
-148,726 
-162,841 
-178,369 
-Total assets 
-2,953,434 3,248,474 3,559,901 3,776,393 4,065,963 
-   Interest-earning 
-2,852,039 3,096,510 3,393,721 3,604,722 3,877,689 
-   RWA 
-2,033,715 2,226,112 2,439,527 2,587,884 2,786,320 
-  
-  
-  
-  
-  
-  
-Customer deposits 
-1,921,835 2,000,420 2,119,445 2,252,970 2,394,907 
-Interbank liabilities 
-483,015 
-595,939 
-723,449 
-733,739 
-801,797 
-Debt securities 
-263,464 
-342,492 
-376,741 
-414,415 
-455,857 
-Other liabilities 
-82,949 
-87,569 
-96,326 
-105,958 
-116,554 
-Total liabilities 
-2,751,263 3,026,420 3,315,962 3,507,082 3,769,115 
-   Interest-bearing 
-2,668,314 2,938,851 3,219,636 3,401,124 3,652,561 
-  
-  
-  
-  
-  
-  
-Minority interests 
-0 
-0 
-0 
-0 
-0 
-Equity 
-202,171 
-222,054 
-243,940 
-269,311 
-296,848 
-Total equity excl. pref. shares 
-182,218 
-202,101 
-223,987 
-249,358 
-276,895 
-  
-  
-  
-  
-  
-  
-BVPS (RMB) 
-10.61 
-11.77 
-13.05 
-14.52 
-16.13 
-Shares: Period end (m) 
-17,170 
-17,170 
-17,170 
-17,170 
-17,170 
- 
-Income statement (RMB m) 
-Y/E 31 Dec 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Net interest income 
-76,411 
-74,009 
-80,377 
-86,214 
-92,347 
-Non-interest income 
-31,304 
-31,777 
-35,148 
-39,422 
-41,311 
- 
- 
- 
- 
- 
- 
-Operating income 
-107,715 
-105,786 
-115,525 
-125,636 
-133,658 
-Operating expense 
--31,418 
--32,638 
--35,716 
--38,919 
--41,627 
- 
- 
- 
- 
- 
- 
-PPOP 
-76,297 
-73,148 
-79,810 
-86,717 
-92,031 
-Loan loss provision 
--45,435 
--40,803 
--45,674 
--48,959 
--49,956 
-Other provisions 
--1,083 
--2,122 
--1,500 
--1,500 
--1,500 
- 
- 
- 
- 
- 
- 
-Operating profit 
-29,779 
-30,223 
-32,636 
-36,258 
-40,575 
-Non-operating items 
-156 
--66 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
-Pre-tax profit 
-29,935 
-30,157 
-32,636 
-36,258 
-40,575 
-Tax 
--7,336 
--6,968 
--7,541 
--8,378 
--9,375 
-Minorities 
-0 
-0 
-0 
-0 
-0 
- 
- 
- 
- 
- 
- 
-Net profit 
-22,599 
-23,189 
-25,095 
-27,880 
-31,199 
-Ordinary shares dividends 
-2,713 
-2,335 
-2,509 
-2,788 
-3,120 
-Preference shares dividends 
-0 
-874 
-874 
-874 
-874 
-  
-  
-  
-  
-  
-  
-EPS (RMB) 
-1.32 
-1.30 
-1.41 
-1.57 
-1.77 
-Effective tax rate (%) 
-25 
-23 
-23 
-23 
-23 
-  
-  
-  
-  
-  
-  
-DPS (RMB) 
-0.16 
-0.14 
-0.15 
-0.16 
-0.18 
-Dividend payout (%) 
-12 
-10 
-10 
-10 
-10 
- 
-Growth drivers (%) 
-Y/E 31 Dec 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Deposit growth 
-10.8 
-4.1 
-6.0 
-6.3 
-6.3 
-Loan growth 
-21.4 
-15.5 
-10.2 
-8.6 
-8.6 
-Interest-earning asset growth 
-16.6 
-8.6 
-9.6 
-6.2 
-7.6 
- 
- 
- 
- 
- 
- 
-Net interest margin 
-2.88 
-2.49 
-2.48 
-2.46 
-2.47 
-Net interest income growth 
-11.6 
--3.1 
-8.6 
-7.3 
-7.1 
- 
- 
- 
- 
- 
- 
-Fee income growth 
-15.7 
-10.1 
-10.0 
-10.0 
-5.0 
-Non-interest income growth 
-13.0 
-1.5 
-10.6 
-12.2 
-4.8 
-Non-interest income/Income 
-29.1 
-30.0 
-30.4 
-31.4 
-30.9 
- 
- 
- 
- 
- 
- 
-Operating income growth 
-12.0 
--1.8 
-9.2 
-8.8 
-6.4 
-Cost-to-income ratio 
-26.0 
-29.9 
-29.9 
-30.0 
-30.1 
-Opex (core) growth 
--7.1 
-13.0 
-9.3 
-8.9 
-6.9 
- 
- 
- 
- 
- 
- 
-PPOP growth 
-28.5 
--4.1 
-9.1 
-8.7 
-6.1 
-LLP/Avg. gross loans 
-3.38 
-2.57 
-2.55 
-2.50 
-2.35 
- 
- 
- 
- 
- 
- 
-Operating profit growth 
-3.1 
-1.5 
-8.0 
-11.1 
-11.9 
-Net profit growth 
-3.4 
-2.6 
-8.2 
-11.1 
-11.9 
-EPS growth 
--13.9 
--1.3 
-8.5 
-11.5 
-12.3 
-DPS growth 
--55.2 
--13.9 
-7.5 
-11.1 
-11.9 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Financial ratios 
-Y/E 31 Dec 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Capital, asset quality & liquidity (%) 
- 
- 
- 
- 
- 
-Core Tier 1 CAR 
-8.4 
-8.3 
-8.4 
-8.8 
-9.0 
-Tier 1 CAR 
-9.3 
-9.2 
-9.2 
-9.5 
-9.8 
-Total CAR 
-11.5 
-11.2 
-11.0 
-11.3 
-11.4 
-RWA growth 
-22.4 
-9.5 
-9.6 
-6.1 
-7.7 
-RoRWA 
-1.11 
-1.04 
-1.03 
-1.08 
-1.12 
- 
- 
- 
- 
- 
- 
-NPL ratio 
-1.74 
-1.70 
-1.61 
-1.91 
-1.57 
-Loan loss reserve/NPL 
-155.4 
-151.1 
-151.9 
-150.3 
-178.0 
-Loan loss reserve/Gross loans 
-2.7 
-2.6 
-2.4 
-2.9 
-2.8 
- 
- 
- 
- 
- 
- 
-Loan-deposit ratio 
-76.8 
-85.2 
-88.6 
-90.5 
-92.4 
-Deposits/Total assets 
-65.1 
-61.6 
-59.5 
-59.7 
-58.9 
-Interbank liabilities/Total assets 
-16.4 
-18.3 
-20.3 
-19.4 
-19.7 
-Debt securities/Total assets 
-8.9 
-10.5 
-10.6 
-11.0 
-11.2 
-Common equity/Total assets 
-6.8 
-6.8 
-6.9 
-7.1 
-7.3 
-Business segments 
-% of operating profit 
-2016 
-2017 
-2018E 
-2019E 
-2020E 
-Corporate banking 
-50 
-28 
-NA 
-NA 
-NA 
-Retail banking 
-41 
-67 
-NA 
-NA 
-NA 
-Treasury 
-8 
-4 
-NA 
-NA 
-NA 
- 
- 
- 
- 
- 
- 
- 
-Source: Company data, BOCOM Int’l estimates 
- 
- 
- 
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
- 
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-7 
- 
- 
-BOCOM International  
-10/F, Man Yee Building, 68 Des Voeux Road Central, Central, Hong Kong 
-Main: (852) 3766 1899      Fax: (852) 2107 4662 
-Rating System 
-Analyst Stock Ratings: 
-Analyst Industry Views: 
-Buy: The stock's total return is expected to exceed that of the 
-corresponding industry over the next 12 months.  
-Neutral: The stock's total return is expected to be in line with 
-that of the corresponding industry over the next 12 months.  
-Sell: The stock's total return is expected to be below that of the 
-corresponding industry over the next 12 months. 
-Not-Rated: The analyst does not have conviction regarding the 
-outlook of the stock's total return relative to that of the 
-corresponding industry over the next 12 months.  
- 
-Outperform: The analyst expects the industry coverage 
-universe to be attractive relative to the relevant broad market 
-benchmark over the next 12 months. 
-Market perform: The analyst expects the industry coverage 
-universe to be in line with the relevant broad market 
-benchmark over the next 12 months.  
-Underperform: The analyst expects the industry coverage 
-universe to be unattractive relative to the relevant broad 
-market benchmark over the next 12 months. 
-Broad market benchmark for Hong Kong is the Hang Seng 
-Composite Index, for China A-shares is the MSCI China A Index, 
-for US-listed Chinese companies is S&P US Listed China 50 
-(USD) Index. 
- 
- 
- 
- 
-16 March 2018 
-Ping An Bank (000001 CH) 
- 
-Download our reports from Bloomberg: BOCM or https://research.bocomgroup.com 
-8 
- 
- 
-Analyst certification 
-The authors of this report, hereby declare that: (i) all of the views expressed in this report accurately reflect their personal views about any and all of the subject 
-securities or issuers; and (ii) no part of any of their compensation was, is, or will be directly or indirectly related to the specific recommendations or views 
-expressed in this report; (iii) no insider information/ non-public price-sensitive information in relation to the subject securities or issuers which may influence the 
-recommendations were being received by the authors. 
-The authors of this report further confirm that (i) neither they nor their respective associates (as defined in the Code of Conduct issued by the Hong Kong 
-Securities and Futures Commission) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of the 
-report; (ii)) neither they nor their respective associates serve as an officer of any of the Hong Kong listed companies covered in this report; and (iii) neither they 
-nor their respective associates have any financial interests in the stock(s) covered in this report except for one coverage analyst who is holding shares of Shimao 
-Property Holdings Limited. 
-Disclosure of relevant business relationships 
-BOCOM International Securities Limited, and/or its associated companies, has investment banking relationship with Bank of Communications, Guolian Securities 
-Co. Ltd., Bank of Zhengzhou Co. Ltd.,  Human Health Holdings Limited,  COFCO Meat Holdings Limited, Hebei Yichen Industrial Group Corporation Limited, China 
-Aircraft Leasing Group Holdings Limited,  Orient Securities Company Limited, Wuxi Construction and Development Investment Co.China Development Bank 
-Financial Leasing Co., Ltd, Phoenix Healthcare Group ,Co. Ltd, Everbright Securities Company Limited, China First Capital Group Limited, Jiayuan International 
-Group Limited, Luzhou Xinglu Water (Group) Co., Ltd., Postal Savings Bank of China Co., Ltd., China Merchants Securities Co., Limited, Shandong International 
-Trust Co., Ltd, Guangdong Kanghua Healthcare Co., Ltd CSC Financial Co., Ltd, BOCOM International Holdings Company Limited, HPC Holdings Limited, Guotai 
-Junan Securities Co., Ltd, Zhongyuan Bank Co., Ltd, Sichuan Energy Investment Development Co., Ltd and Light Year Holdings Limited within the preceding 12 
-months. 
-BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Orient Securities Company Limited. 
-BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Everbright Securities Company Limited. 
-BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Guolian Securities Co., Ltd. 
-BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Guotai Junan Securities Co., Ltd.  
-BOCOM International Prosperity Investment Limited currently holds more than 1% of the equity securities of China YuHua Education Corporation Ltd. 
-Disclaimer 
-By accepting this report (which includes any attachment hereto), the recipient hereof represents and warrants that he is entitled to receive such report in 
-accordance with the restrictions set forth below and agrees to be bound by the limitations contained herein. Any failure to comply with these limitations may 
-constitute a violation of law. 
-This report is strictly confidential and is for private circulation only to clients of BOCOM International Securities Ltd. This report is being supplied to you strictly on 
-the basis that it will remain confidential. No part of this report may be (i) copied, photocopied, duplicated, stored or reproduced in any form by any means or (ii) 
-redistributed or passed on, directly or indirectly, to any other person in whole or in part, for any purpose without the prior written consent of BOCOM 
-International Securities Ltd. 
-BOCOM International Securities Ltd, its affiliates and related companies, their directors, associates, connected parties and/or employees may own or have positions in 
-securities of the company(ies) covered in this report or any securities related thereto and may from time to time add to or dispose of, or may be interested in, any such 
-securities. Further, BOCOM International Securities Ltd, its affiliates and its related companies may do and seek to do business with the company(ies) covered in this 
-report and may from time to time act as market maker or have assumed an underwriting commitment in securities of such company(ies), may sell them to or buy 
-them from customers on a principal basis and may also perform or seek to perform investment banking, advisory, underwriting, financing or other services for or 
-relating to such company(ies) as well as solicit such investment, advisory, financing or other services from any entity mentioned in this report. In reviewing this report, 
-an investor should be aware that any or all of the foregoing, among other things, may give rise to real or potential conflicts of interest. 
-The information contained in this report is prepared from data and sources believed to be correct and reliable at the time of issue of this report.  This report does 
-not purport to contain all the information that a prospective investor may require and may be subject to late delivery, interruption and interception. BOCOM 
-International Securities Ltd does not make any guarantee, representation or warranty, express or implied, as to the adequacy, accuracy, completeness, reliability 
-or fairness of any such information and opinion contained in this report and accordingly, neither BOCOM International Securities Ltd nor any of its affiliates nor its 
-related persons shall be liable in any manner whatsoever for any consequences (including but not limited to any direct, indirect or consequential losses, loss of 
-profits and damages) of any reliance thereon or usage thereof. 
-This report is general in nature and has been prepared for information purposes only. It is intended for circulation amongst BOCOM International Securities Ltd’s 
-clients generally and does not have regard to the specific investment objectives, financial situation and the particular needs of any specific person who may 
-receive this report. The information and opinions in this report are not and should not be construed or considered as an offer, recommendation or solicitation to 
-buy or sell the subject securities, related investments or other financial instruments thereof. 
-The views, recommendations, advice and opinions in this report may not necessarily reflect those of BOCOM International Securities Ltd or any of its affiliates, 
-and are subject to change without notice. BOCOM International Securities Ltd has no obligation to update its opinion or the information in this report. 
-Investors are advised to make their own independent evaluation of the information contained in this research report, consider their own individual investment 
-objectives, financial situation and particular needs and consult their own professional and financial advisers as to the legal, business, financial, tax and other 
-aspects before participating in any transaction in respect of the securities of company(ies) covered in this report. The securities of such company(ies) may not be 
-eligible for sale in all jurisdictions or to all categories of investors. 
-This report is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality, state, country 
-or other jurisdiction where such distribution, publication, availability or use would be contrary to any law, regulation, rule or other registration or licensing 
-requirement. 
-BOCOM International Securities Ltd is a subsidiary of Bank of Communications Co Ltd. 
+2017. Leveraging on Ping An Group's franchise, we expect PAB's retail franchise to
+improve further and support its profitability in the long term.
+Hannah Han
+Valuation and risks: Our TP of RMB11.80 is the average of our 3-stage DDM model
+and Gordon Growth fair P/B model, based on profit growth of 11%/7%/3% in stage
+1/2/3 (terminal), dividend payout of 10%, sustainable ROE of 11.5%, and COE of
+10.0%. Our TP-implied 2018E P/B is 0.90x. Key risks: Upside: better-than-expected
+NIM and NPL. Downside: stricter-than-expected regulations on WMPs.
+Financial highlights
+Asset Quality Pressure Persists
+PAB's NPL ratio was down 4bps YoY and 5 bps QoQ in 4Q17, which may be driven by its
+aggressive write-offs, in our view. NPL write-offs and transfers amounted to RMB37bn
+in 2017, up 6% YoY, equivalent to around 144% of NPLs at end-2016. Overdue loan
+balance declined 13% HoH in 2H17 and special-mention loan balance also declined by
+5% HoH in 2H17, indicating improving asset quality.
+However, PAB's NPL formation rate remained at 2.46% in 2H17 under our estimation,
+among the highest of banks we cover. We believe PAB still has to maintain relatively
+high write-offs for stable NPL ratios. Given the 151% NPL coverage ratio, close to the
+regulatory requirement of 150%, we believe the provision pressure remains high.
+Source: Company data, BOCOM Int'l estimates
+Source: Company data, BOCOM Int'l estimates
+NIM Contracted due to High Interbank Funding Cost
+PAB's interbank liability made up around 30% of total liabilities (including NCD and
+borrowing from PBOC) at end-2017, up from 26% at end-2016. The surge in interbank
+market rates resulted in higher interbank funding cost and pressured PAB's NIM. PAB's
+deposits only increased by 4% YoY, compared with loan growth of 15% YoY in 2017. Also,
+given the asset quality deterioration pressure, PAB turned more cautious on risky loans
+in our view, and some new loan pricing is lower than that in the past few years.
+Although PAB increased its high-yield retail loans, the overall loan yield declined in 2H17,
+by our estimates.
+We expect PAB's NIM to remain under pressure in the near term given the high
+interbank market rates, risk appetite adjustments and relatively weak deposit franchise.
+Ping An Bank (000001 CH)
+Source: Company data, BOCOM Int'l estimates
+Source: Company data, BOCOM Int'l estimates
+Limited Capital Buffer
+PAB's CET1 declined 4bps QoQ and 8bps YoY to 8.28% at end-2017, slightly higher than
+regulatory requirement of 7.5%. We expect higher capitalization pressure in 2018 for
+PAB, considering the higher risk weighting for interbank investment and credit shift
+from off-balance-sheet to balance-sheet assets. PAB announced its plan to issue
+RMB26bn convertible bonds (CB) in mid-2017. However, it may take some time to
+transfer the CB into core capital after the issuance, in our view.
+PAB adjusted its exposure to interbank investments and off-balance-sheet WMP in
+2H17. Interbank investments balance declined 26% HoH and off-balance-sheet WMP
+balance was down 15% HoH in 2H17.
+Source: Company data, BOCOM Int'l
+Source: Company data, BOCOM Int'l
+Ping An Bank (000001 CH)
+Building up Retail Franchise
+The operating profit and revenue of PAB's retail banks accounted for 67% and 44% of
+total, respectively, in 2017. The proportion of retail loans and deposits also increased in
+2017. In general, retail loan pricing is higher than corporate loans and the credit cost is
+less affected by economic cycles in China. We believe better retail banking franchise
+may help PAB to improve its asset quality and NIM in the long term.
+The retail franchise may also support the bank's fee income growth. PAB's fee income
+increased by 10% YoY in 2017 despite the declines in WMPs and consulting fees, as its
+bank card fees increased by 49% YoY.
+Source: Company data, BOCOM Int'l
+Source: Company data, BOCOM Int'l
+Source: Company data, BOCOM Int'l
+Ping An Bank (000001 CH)
+Source: Company data, BOCOM Int'l
+Ping An Bank (000001 CH)
+Financial Statements
+Ping An Bank (000001 CH)
+BOCOM International
+10/F, Man Yee Building, 68 Des Voeux Road Central, Central, Hong Kong
+Rating System
+Analyst Stock Ratings:
+Analyst Industry Views:
+Buy: The stock's total return is expected to exceed that of the
+Outperform: The analyst expects the industry coverage
+universe to be attractive relative to the relevant broad market
+corresponding industry over the next 12 months.
+benchmark over the next 12 months.
+Neutral: The stock's total return is expected to be in line with
+that of the corresponding industry over the next 12 months.
+Market perform: The analyst expects the industry coverage
+universe to be in line with the relevant broad market
+Sell: The stock's total return is expected to be below that of the
+benchmark over the next 12 months.
+corresponding industry over the next 12 months.
+Underperform: The analyst expects the industry coverage
+Not-Rated: The analyst does not have conviction regarding the
+universe to be unattractive relative to the relevant broad
+outlook of the stock's total return relative to that of the
+market benchmark over the next 12 months.
+corresponding industry over the next 12 months.
+Broad market benchmark for Hong Kong is the Hang Seng
+Composite Index, for China A-shares is the MSCI China A Index,
+(USD) Index.
+Ping An Bank (000001 CH)
+Analyst certification
+The authors of this report, hereby declare that: (i) all of the views expressed in this report accurately reflect their personal views about any and all of the subject
+securities or issuers; and (ii) no part of any of their compensation was, is, or will be directly or indirectly related to the specific recommendations or views
+expressed in this report; (iii) no insider information/ non-public price-sensitive information in relation to the subject securities or issuers which may influence the
+recommendations were being received by the authors.
+The authors of this report further confirm that (i) neither they nor their respective associates (as defined in the Code of Conduct issued by the Hong Kong
+Securities and Futures Commission) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of the
+report; (ii)) neither they nor their respective associates serve as an officer of any of the Hong Kong listed companies covered in this report; and (iii) neither they
+nor their respective associates have any financial interests in the stock(s) covered in this report except for one coverage analyst who is holding shares of Shimao
+Property Holdings Limited.
+Disclosure of relevant business relationships
+BOCOM International Securities Limited, and/or its associated companies, has investment banking relationship with Bank of Communications, Guolian Securities
+Co. Ltd., Bank of Zhengzhou Co. Ltd., Human Health Holdings Limited, COFCO Meat Holdings Limited, Hebei Yichen Industrial Group Corporation Limited, China
+Aircraft Leasing Group Holdings Limited, Orient Securities Company Limited, Wuxi Construction and Development Investment Co.China Development Bank
+Financial Leasing Co., Ltd, Phoenix Healthcare Group ,Co. Ltd, Everbright Securities Company Limited, China First Capital Group Limited, Jiayuan International
+Group Limited, Luzhou Xinglu Water (Group) Co., Ltd., Postal Savings Bank of China Co., Ltd., China Merchants Securities Co., Limited, Shandong International
+Trust Co., Ltd, Guangdong Kanghua Healthcare Co., Ltd CSC Financial Co., Ltd, BOCOM International Holdings Company Limited, HPC Holdings Limited, Guotai
+months.
+BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Orient Securities Company Limited.
+BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Everbright Securities Company Limited.
+BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Guolian Securities Co., Ltd.
+BOCOM International Global Investment Limited currently holds more than 1% of the equity securities of Guotai Junan Securities Co., Ltd.
+BOCOM International Prosperity Investment Limited currently holds more than 1% of the equity securities of China YuHua Education Corporation Ltd.
+Disclaimer
+By accepting this report (which includes any attachment hereto), the recipient hereof represents and warrants that he is entitled to receive such report in
+accordance with the restrictions set forth below and agrees to be bound by the limitations contained herein. Any failure to comply with these limitations may
+constitute a violation of law.
+This report is strictly confidential and is for private circulation only to clients of BOCOM International Securities Ltd. This report is being supplied to you strictly on
+the basis that it will remain confidential. No part of this report may be (i) copied, photocopied, duplicated, stored or reproduced in any form by any means or (ii)
+redistributed or passed on, directly or indirectly, to any other person in whole or in part, for any purpose without the prior written consent of BOCOM
+International Securities Ltd.
+BOCOM International Securities Ltd, its affiliates and related companies, their directors, associates, connected parties and/or employees may own or have positions in
+securities of the company(ies) covered in this report or any securities related thereto and may from time to time add to or dispose of, or may be interested in, any such
+securities. Further, BOCOM International Securities Ltd, its affiliates and its related companies may do and seek to do business with the company(ies) covered in this
+report and may from time to time act as market maker or have assumed an underwriting commitment in securities of such company(ies), may sell them to or buy
+them from customers on a principal basis and may also perform or seek to perform investment banking, advisory, underwriting, financing or other services for or
+relating to such company(ies) as well as solicit such investment, advisory, financing or other services from any entity mentioned in this report. In reviewing this report,
+an investor should be aware that any or all of the foregoing, among other things, may give rise to real or potential conflicts of interest.
+The information contained in this report is prepared from data and sources believed to be correct and reliable at the time of issue of this report. This report does
+not purport to contain all the information that a prospective investor may require and may be subject to late delivery, interruption and interception. BOCOM
+International Securities Ltd does not make any guarantee, representation or warranty, express or implied, as to the adequacy, accuracy, completeness, reliability
+or fairness of any such information and opinion contained in this report and accordingly, neither BOCOM International Securities Ltd nor any of its affiliates nor its
+related persons shall be liable in any manner whatsoever for any consequences (including but not limited to any direct, indirect or consequential losses, loss of
+profits and damages) of any reliance thereon or usage thereof.
+This report is general in nature and has been prepared for information purposes only. It is intended for circulation amongst BOCOM International Securities Ltd's
+clients generally and does not have regard to the specific investment objectives, financial situation and the particular needs of any specific person who may
+receive this report. The information and opinions in this report are not and should not be construed or considered as an offer, recommendation or solicitation to
+buy or sell the subject securities, related investments or other financial instruments thereof.
+The views, recommendations, advice and opinions in this report may not necessarily reflect those of BOCOM International Securities Ltd or any of its affiliates,
+and are subject to change without notice. BOCOM International Securities Ltd has no obligation to update its opinion or the information in this report.
+Investors are advised to make their own independent evaluation of the information contained in this research report, consider their own individual investment
+objectives, financial situation and particular needs and consult their own professional and financial advisers as to the legal, business, financial, tax and other
+aspects before participating in any transaction in respect of the securities of company(ies) covered in this report. The securities of such company(ies) may not be
+eligible for sale in all jurisdictions or to all categories of investors.
+This report is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality, state, country
+or other jurisdiction where such distribution, publication, availability or use would be contrary to any law, regulation, rule or other registration or licensing
+requirement.
+BOCOM International Securities Ltd is a subsidiary of Bank of Communications Co Ltd.

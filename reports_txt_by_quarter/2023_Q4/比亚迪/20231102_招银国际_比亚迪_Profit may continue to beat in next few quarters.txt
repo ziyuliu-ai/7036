@@ -1,1136 +1,135 @@
-CMB International Global Markets | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-China Auto Sector 
- 
-SHI Ji, CFA 
-(852) 3761 8728 
-shiji@cmbi.com.hk  
- 
-DOU Wenjing, CFA 
-(852) 6939 4751 
-douwenjing@cmbi.com.hk 
- 
-GU Sijie 
-jasongu@cmbi.com.hk 
- 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-712,066 
-Avg 3 mths t/o (RMB mn) 
-2,412 
-52w High/Low (RMB)   
-306.13/229.66 
-Total Issued Shares (mn) 
-2,911 
-Source: Bloomberg 
- 
-Shareholding Structure 
-Wang Chuanfu 
-17.6% 
-Lv Xiangyang 
-8.2% 
-Others 
-74.1% 
-Source: HKEx 
- 
-Share Performance 
-Absolute
-Relative 
-1-mth 
-3.3%
-6.2% 
-3-mth 
--8.7%
-1.0% 
-6-mth 
--2.7%
-8.4% 
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Bloomberg 
- 
-Auditor: Ernst & Young 
- 
-Related Report 
-“BYD Company (1211 HK) – Profit may 
-continue to beat in next few quarters” – 
-31 Oct 2023 
- 
- 
- 
- 
-0
-50
-100
-150
-200
-250
-300
-350
-2022-10
-2023-01
-2023-04
-2023-07
-2023-10
-002594 CH
-CSI 300 Index (rebased)
-(RMB)
-BUY (Upgrade) 
-Target Price 
-RMB 300.00 
-(Previous TP 
-RMB 270.00) 
-Up/Downside 
-  +21.8% 
-Current Price 
-RMB 246.20 
-1 
-     31 Oct 2023 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Upgrade to BUY. Although BYD-A’s share price has been between -15% and 
-+13% of our previous target price of RMB 270, our major concerns with a prior 
-HOLD rating were more about model cycle and margin dent from a potential 
-overcapacity. It turned out that BYD’s sales volume growth has lasted longer than 
-expected and its earnings have been more solid than our prior forecasts. We now 
-think that such trends could continue in the next few quarters, aided by premium 
-models, exports and greater economies of scale. Unlike some investors, we think 
-BYD’s catch up in intelligent connectivity may be faster than expected.   
- 3Q23 earnings beat. BYD’s 3Q23 net profit of RMB 10.4bn was in the middle 
-of its preliminary earnings range, thanks to its strong GPM and SG&A cost 
-control. Its 3Q23 GPM of 21.7% was about 1.5 ppts higher than our prior 
-forecast. GPM excluding BYDE (285 HK, BUY) reached 25.7%. SG&A ratio 
-also narrowed by 0.8 ppts QoQ. R&D expenses exceeded RMB 11bn in 3Q23, 
-or 6.8% of revenue. Net profit per vehicle (excluding BYDE) reached RMB 
-11,400, the highest in history. 
- Solid earnings outlook ahead. We expect BYD’s sales volume to rise 23% 
-YoY to 3.7mn units in FY24E, in line with our projected growth of NEV 
-wholesale volume for China. We revise up our FY24E net profit forecast by 
-29% to RMB 39.4bn (net profit of RMB 9,700 per vehicle excluding BYDE), 
-assuming that GPM in FY24E is to narrow slightly YoY to account for rising 
-competition. Yet, we believe BYD still has room to beat such profitability, 
-should its more premium new models and exports offset dent from price war. 
-Its new-generation DM technology could also help cut costs.  
- Catch-up in autonomous driving and smart cockpit could be faster than 
-expected. BYD’s R&D expenses in FY23E could be 30% higher than Li Auto 
-(LI US, BUY), NIO (NIO US, HOLD) and Xpeng (XPEV US, HOLD) combined. 
-We believe such R&D investments, along with its partnership with Momenta 
-(which also works with SAIC (600104 CH, NR)), could help BYD catch up.  
- Earnings/Valuation. We upgrade our rating of BYD-A from Hold to BUY and 
-raise target price from RMB 270 to RMB 300, based on 22x our revised FY24E 
-P/E, which reflects 10% AH premium on our BYD-H TP. We are of the view 
-that such valuation is justified, given Tesla’s (TSLA US, NR) current 40x 
-FY24E P/E and Li Auto’s 20x FY24E P/E. Key risks to our rating and target 
-price include lower NEV sales volume and margins, as well as sector de-rating. 
-Earnings Summary 
-(YE 31 Dec) 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E 
-Revenue (RMB mn) 
-216,142  
-424,061  
-603,269  
-762,779  
-868,531  
-YoY growth (%) 
-38.0  
-96.2  
-42.3  
-26.4  
-13.9  
-Net income (RMB mn) 
-3,045  
-16,622  
-31,219  
-39,391  
-47,498  
-EPS (RMB) 
-1.06  
-5.71  
-10.72  
-13.53  
-16.32  
-YoY growth (%) 
-(28.1) 
-445.9  
-87.8  
-26.2  
-20.6  
-P/E (x) 
-230.7  
-42.8  
-22.8  
-18.1  
-15.0  
-P/B (x) 
-7.5  
-6.4  
-5.1  
-4.1  
-3.4  
-Yield (%) 
-0.1  
-0.6  
-0.8  
-1.0  
-1.2  
-ROE (%) 
-4.0  
-16.1  
-25.0  
-25.3  
-24.7  
-Net gearing (%) 
-Net cash 
-Net cash 
-Net cash 
-Net cash 
-Net cash 
-Source: Company data, Bloomberg, CMBIGM estimates
-BYD Company (002594 CH) 
-Profit may continue to beat in next few quarters 
-31 Oct 2023 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Figure 1: Quarterly results 
-RMB mn 
-1Q22 
-2Q22 
-3Q22 
-4Q22 
-1Q23 
-2Q23 
-3Q23 
-YoY 
-QoQ 
-Sales volume (units) 
-291,378 
-355,021 
-538,704 
-683,440 
-552,076 
-703,561 
-824,001 
-53.0% 
-17.1% 
-Revenue 
-66,825 
-83,782 
-117,081 
-156,373 
-120,174 
-139,951 
-162,151 
-38.5% 
-15.9% 
-Gross profit 
-8,287 
-12,054 
-22,199 
-29,704 
-21,467 
-26,206 
-35,876 
-61.6% 
-36.9% 
-R&D expenses 
-(2,361) 
-(3,064) 
-(5,446) 
-(7,784) 
-(6,238) 
-(7,597) 
-(11,104) 
-103.9% 
-46.2% 
-SG&A expenses 
-(3,680) 
-(4,713) 
-(7,372) 
-(9,302) 
-(8,014) 
-(9,643) 
-(9,851) 
-33.6% 
-2.2% 
-Operating profit 
-1,061 
-3,561 
-7,460 
-9,459 
-5,299 
-8,433 
-12,906 
-73.0% 
-53.0% 
-Net profit 
-808 
-2,787 
-5,713 
-7,314 
-4,130 
-6,824 
-10,413 
-82.3% 
-52.6% 
-Gross margin 
-12.4% 
-14.4% 
-19.0% 
-19.0% 
-17.9% 
-18.7% 
-22.1% 
-3.2 ppt 
-3.4 ppt 
-Operating margin 
-1.6% 
-4.3% 
-6.4% 
-6.0% 
-4.4% 
-6.0% 
-8.0% 
-1.6 ppt 
-1.9 ppt 
-Net margin 
-1.2% 
-3.3% 
-4.9% 
-4.7% 
-3.4% 
-4.9% 
-6.4% 
-1.5 ppt 
-1.5 ppt 
-Source: Company data, CMBIGM estimates 
-Figure 2: Earnings revision 
-  
-  
-New 
-  
-Old 
-  
-Diff (%) 
-  
-RMB mn 
-FY23E 
-FY24E 
-FY25E 
-FY23E 
-FY24E 
-FY25E 
-FY23E 
-FY24E 
-FY25E 
-Revenue 
-603,269 
-762,779 
-868,531 
-611,500 
-716,548 
-789,555 
--1.3% 
-6.5% 
-10.0% 
-Gross Profit 
-122,834 
-154,702 
-174,488 
-112,724 
-130,574 
-142,199 
-9.0% 
-18.5% 
-22.7% 
-Operating Profit 
-38,898 
-49,860 
-60,271 
-36,080 
-39,668 
-42,621 
-7.8% 
-25.7% 
-41.4% 
-Net profit 
-31,219 
-39,391 
-47,498 
-28,318 
-30,574 
-32,941 
-10.2% 
-28.8% 
-44.2% 
-Gross Margin 
-20.4% 
-20.3% 
-20.1% 
-18.4% 
-18.2% 
-18.0% 
-1.9 ppt 
-2.1 ppt 
-2.1 ppt 
-Operating Margin 
-6.4% 
-6.5% 
-6.9% 
-5.9% 
-5.5% 
-5.4% 
-0.5 ppt 
-1.0 ppt 
-1.5 ppt 
-Net Margin 
-5.2% 
-5.2% 
-5.5% 
-4.6% 
-4.3% 
-4.2% 
-0.5 ppt 
-0.9 ppt 
-1.3 ppt 
-Source: CMBIGM estimates 
-Figure 3: CMBI estimates vs consensus 
-  
- 
-CMBIGM 
- 
-Consensus 
- 
-Diff (%) 
- 
-RMB mn 
-FY23E 
-FY24E 
-FY25E 
-FY23E 
-FY24E 
-FY25E 
-FY21E 
-FY22E 
-FY23E 
-Revenue 
-603,269 
-762,779 
-868,531 
-628,345 
-777,593 
-938,539 
--4.0% 
--1.9% 
--7.5% 
-Gross Profit 
-122,834 
-154,702 
-174,488 
-110,256 
-138,653 
-170,608 
-11.4% 
-11.6% 
-2.3% 
-Operating Profit 
-38,898 
-49,860 
-60,271 
-32,696 
-44,671 
-57,030 
-19.0% 
-11.6% 
-5.7% 
-Net profit 
-31,219 
-39,391 
-47,498 
-25,319 
-33,977 
-45,367 
-23.3% 
-15.9% 
-4.7% 
-Gross Margin 
-20.4% 
-20.3% 
-20.1% 
-17.5% 
-17.8% 
-18.2% 
-2.8 ppt 
-2.5 ppt 
-1.9 ppt 
-Operating Margin 
-6.4% 
-6.5% 
-6.9% 
-5.2% 
-5.7% 
-6.1% 
-1.2 ppt 
-0.8 ppt 
-0.9 ppt 
-Net Margin 
-5.2% 
-5.2% 
-5.5% 
-4.0% 
-4.4% 
-4.8% 
-1.1 ppt 
-0.8 ppt 
-0.6 ppt 
-Source: Bloomberg, CMBIGM estimates 
- 
- 
- 
-31 Oct 2023 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Financial Summary 
-Income statement 
- 
- 
- 
- 
-  Cash flow 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E  YE 31 Dec (RMB mn) 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E 
-Revenue 
-216,142 424,061 603,269 762,779 868,531  Profit before taxation 
-4,518 
-21,080 
-38,168 
-49,060 
-59,421 
-Cost of sales 
-(187,998) (351,816) (480,435) (608,077) (694,043)  Depreciation/amortization 
-14,108 
-20,370 
-42,194 
-56,153 
-66,141 
-Gross profit 
-28,145 
-72,245 122,834 154,702 174,488  Change in working capital 
-44,083 
-97,849 
-79,627 
-48,343 
-6,268 
- 
- 
- 
- 
- 
-  Others 
-2,757 
-1,539 
-(1,913) 
-(4,229) 
-(6,162) 
-Selling exp. 
-(6,082) (15,061) (23,915) (31,048) (34,705)  Net cash from operating 
-65,467 
-140,838 
-158,076 149,328 125,668 
-Admin exp. 
-(5,710) (10,007) (15,178) (19,842) (22,107)   
- 
- 
- 
- 
- 
-R&D exp. 
-(7,991) (18,654) (37,620) (44,100) (45,080)  Capex 
-(37,344) 
-(97,457) (122,630) (92,100) (66,120) 
-Others 
-(3,730) 
-(6,981) 
-(7,222) 
-(9,851) (12,324)  Others 
-(8,060) 
-(23,139) 
-(5,460) 
-(7,460) 
-(9,460) 
-Operating profit 
-4,632 
-21,542 
-38,898 
-49,860 
-60,271  Net cash from investing 
-(45,404) (120,596) (128,090) (99,560) (75,580) 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
-Non-operating income 
-338 
-527 
-670 
-700 
-700  Share issuance 
-37,314 
-- 
-- 
-- 
-- 
-Non-operating expenses 
-(452) 
-(989) 
-(1,400) 
-(1,500) 
-(1,550)  Net borrowings 
-(17,006) 
-(16,413) 
-9,076 
-3,500 
-- 
-Pre-tax profit 
-4,518 
-21,080 
-38,168 
-49,060 
-59,421  Others 
-(4,245) 
-(3,076) 
-(6,982) 
-(9,056) (10,710) 
- 
- 
- 
- 
- 
-  Net cash from financing 
-16,063 
-(19,489) 
-2,094 
-(5,556) (10,710) 
-Tax 
-(551) 
-(3,367) 
-(5,408) 
-(7,747) 
-(9,284)  
-Minority interests 
-(922) 
-(1,091) 
-(1,541) 
-(1,923) 
-(2,640)  Net change in cash 
-36,125 
-753 
-32,080 
-44,211 
-39,377 
-Net profit 
-3,045 
-16,622 
-31,219 
-39,391 
-47,498  Cash at beginning of the year 
-13,738 
-49,820 
-51,182 
-83,263 127,474 
- Exchange difference 
-(44) 
-610 
-- 
-- 
-- 
- 
- 
- 
- 
- 
- 
- Cash at end of the year 
-49,820 
-51,182 
-83,263 127,474 166,851 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E  YE 31 Dec 
-FY21A 
-FY22A 
-FY23E 
-FY24E 
-FY25E 
-Current assets 
-166,110 240,804 294,249 387,974 479,854  Sales mix (%) 
- 
- 
- 
- 
- 
-Cash & equivalents 
-50,457 
-51,471 
-84,263 128,474 167,851  Automobile 
-52.0 
-76.6 
-75.5 
-77.4 
-76.7 
-Account receivables 
-44,994 
-51,723 
-48,344 
-62,694 
-80,309  Handset 
-40.0 
-23.3 
-19.5 
-18.1 
-18.5 
-Inventories 
-43,355 
-79,107 
-98,720 124,947 152,119  Battery & others 
-8.0 
-0.1 
-5.0 
-4.5 
-4.8 
-Other current assets 
-27,304 
-58,502 
-62,922 
-71,858 
-79,574   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Growth (%) 
- 
- 
- 
- 
- 
-Non-current assets 
-129,670 253,057 344,023 391,388 404,003  Revenue 
-38.0 
-96.2 
-42.3 
-26.4 
-13.9 
-PP&E 
-61,221 131,880 215,946 249,271 260,706  Gross profit 
-(7.3) 
-156.7 
-70.0 
-25.9 
-12.8 
-Intangibles 
-17,171 
-23,289 
-25,134 
-25,151 
-23,287  Operating profit 
-(34.6) 
-365.1 
-80.6 
-28.2 
-20.9 
-Investment in JVs & assos 
-7,905 
-15,485 
-18,265 
-21,145 
-24,125  Net profit 
-(28.1) 
-445.9 
-87.8 
-26.2 
-20.6 
-Other non-current assets 
-43,373 
-82,402 
-84,678 
-95,821 
-95,884   
- 
- 
- 
- 
- 
-Total assets 
-295,780 493,861 638,272 779,362 883,857  Profit & loss ratio (%) 
- 
- 
- 
- 
- 
- Gross margin 
-13.0 
-17.0 
-20.4 
-20.3 
-20.1 
-Current liabilities 
-171,304 333,345 435,794 539,950 602,333  Operating margin 
-2.1 
-5.1 
-6.4 
-6.5 
-6.9 
-Bank borrowings 
-10,204 
-5,153 
-- 
-- 
--  Net profit margin 
-1.4 
-3.9 
-5.2 
-5.2 
-5.5 
-Account payables 
-73,160 140,437 205,337 250,478 276,667  
- 
- 
- 
- 
- 
- 
-Contract Liabilities 
-14,934 
-35,517 
-52,650 
-58,309 
-11,409  Balance sheet ratio 
- 
- 
- 
- 
- 
-Other current liabilities 
-73,006 152,238 177,807 231,163 314,258  Net cash/total equity (x) 
-0.2 
-0.3 
-0.4 
-0.5 
-0.6 
- Current ratio (x) 
-1.0 
-0.7 
-0.7 
-0.7 
-0.8 
-Non-current liabilities 
-20,232 
-39,126 
-51,646 
-53,566 
-53,510  Receivable turnover days 
-94 
-58 
-39 
-40 
-45 
-Bank borrowings 
-8,744 
-7,594 
-20,094 
-20,094 
-19,094  Inventory turnover days 
-84 
-82 
-75 
-75 
-80 
-Bond payables 
-2,046 
-- 
-- 
-1,000 
-2,000  Payable turnover days 
-156 
-149 
-160 
-155 
-150 
-Other non-current liabilities 
-9,442 
-31,533 
-31,553 
-32,473 
-32,416  
- 
- 
- 
- 
- 
- 
-Total liabilities 
-191,536 372,471 487,441 593,516 655,843  Profitability (%) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  ROE 
-4.0 
-16.1 
-25.0 
-25.3 
-24.7 
-Share capital 
-2,911 
-2,911 
-2,911 
-2,911 
-2,911  ROA 
-1.2 
-4.2 
-5.5 
-5.6 
-5.7 
-Reserves 
-92,159 108,118 136,112 169,359 209,079  
- 
- 
- 
- 
- 
- 
-Non-controlling interests 
-9,175 
-10,361 
-11,808 
-13,576 
-16,024  Per share data (RMB) 
- 
- 
- 
- 
- 
-Shareholders' equity 
-95,070 111,029 139,023 172,270 211,990  EPS 
-1.06 
-5.71 
-10.72 
-13.53 
-16.32 
-Total equity and liabilities 
-295,780 493,861 638,272 779,362 883,857  DPS 
-0.11 
-1.14 
-2.14 
-2.71 
-3.26 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
-Source: Company data, CMBIGM estimates  
- 
- 
-31 Oct 2023 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
-CMBIGM Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIGM 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Global Markets Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Global Markets Limited (“CMBIGM”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned 
-subsidiary of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIGM does 
-not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special 
-requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report.  The value 
-of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets 
-or other variable market factors.  CMBIGM recommends that investors should independently evaluate particular investments and strategies, and encourages investors 
-to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM or its 
-affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or 
-enter into any transaction.  Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss, 
-damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone making use of the information 
-contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIGM 
-has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides the information, 
-advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIGM may issue other publications having information 
-and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIGM may make 
-investment decisions or take proprietary positions that are inconsistent with the recommendations or views in this report. 
-CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf 
-of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with the companies in 
-this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report and CMBIGM will not assume 
-any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or 
-published in whole or in part for any purpose without prior written consent of CMBIGM. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended 
-from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and 
-may not be provided to any other person without the prior written consent of CMBIGM.  
- 
-For recipients of this document in the United States 
-CMBIGM is not a registered broker-dealer in the United States.  As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports and the 
-independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research 
-analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the 
-analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States 
-solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other 
-person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not 
-distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information 
-provided in this report should do so only through a U.S.-registered broker-dealer.   
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the 
-Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign 
-entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed 
-in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of 
-Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact 
-CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+A Wholly Owned Subsidiary Of China Merchants Bank
+BYD Company (002594 CH)
+BUY (Upgrade)
+Profit may continue to beat in next few quarters
+Target Price
+(Previous TP
+RMB 270.00)
+Up/Downside
++21.8%
+Upgrade to BUY. Although BYD-A's share price has been between -15% and
+Current Price
++13% of our previous target price of RMB 270, our major concerns with a prior
+China Auto Sector
+HOLD rating were more about model cycle and margin dent from a potential
+overcapacity. It turned out that BYD's sales volume growth has lasted longer than
+SHI Ji, CFA
+expected and its earnings have been more solid than our prior forecasts. We now
+think that such trends could continue in the next few quarters, aided by premium
+models, exports and greater economies of scale. Unlike some investors, we think
+BYD's catch up in intelligent connectivity may be faster than expected.
+DOU Wenjing, CFA
+3Q23 earnings beat. BYD's 3Q23 net profit of RMB 10.4bn was in the middle
+of its preliminary earnings range, thanks to its strong GPM and SG&A cost
+GU Sijie
+control. Its 3Q23 GPM of 21.7% was about 1.5 ppts higher than our prior
+forecast. GPM excluding BYDE (285 HK, BUY) reached 25.7%. SG&A ratio
+also narrowed by 0.8 ppts QoQ. R&D expenses exceeded RMB 11bn in 3Q23,
+Stock Data
+or 6.8% of revenue. Net profit per vehicle (excluding BYDE) reached RMB
+11,400, the highest in history.
+Solid earnings outlook ahead. We expect BYD's sales volume to rise 23%
+YoY to 3.7mn units in FY24E, in line with our projected growth of NEV
+wholesale volume for China. We revise up our FY24E net profit forecast by
+Shareholding Structure
+29% to RMB 39.4bn (net profit of RMB 9,700 per vehicle excluding BYDE),
+assuming that GPM in FY24E is to narrow slightly YoY to account for rising
+competition. Yet, we believe BYD still has room to beat such profitability,
+should its more premium new models and exports offset dent from price war.
+Its new-generation DM technology could also help cut costs.
+Catch-up in autonomous driving and smart cockpit could be faster than
+expected. BYD's R&D expenses in FY23E could be 30% higher than Li Auto
+(LI US, BUY), NIO (NIO US, HOLD) and Xpeng (XPEV US, HOLD) combined.
+Source: Bloomberg
+We believe such R&D investments, along with its partnership with Momenta
+(which also works with SAIC (600104 CH, NR)), could help BYD catch up.
+12-mth Price Performance
+Earnings/Valuation. We upgrade our rating of BYD-A from Hold to BUY and
+raise target price from RMB 270 to RMB 300, based on 22x our revised FY24E
+P/E, which reflects 10% AH premium on our BYD-H TP. We are of the view
+that such valuation is justified, given Tesla's (TSLA US, NR) current 40x
+FY24E P/E and Li Auto's 20x FY24E P/E. Key risks to our rating and target
+price include lower NEV sales volume and margins, as well as sector de-rating.
+Earnings Summary
+Auditor: Ernst & Young
+Related Report
+"BYD Company (1211 HK) - Profit may
+continue to beat in next few quarters" -
+Figure 1: Quarterly results
+Source: Company data, CMBIGM estimates
+Figure 2: Earnings revision
+Source: CMBIGM estimates
+Source: Bloomberg, CMBIGM estimates
+Source: Company data, CMBIGM estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIGM Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIGM
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Global Markets Limited
+CMB International Global Markets Limited ("CMBIGM") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
+subsidiary of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIGM does
+not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position or special
+requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the report. The value
+of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the performance of underlying assets
+or other variable market factors. CMBIGM recommends that investors should independently evaluate particular investments and strategies, and encourages investors
+to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM or its
+affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in securities or
+enter into any transaction. Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be liable for any loss,
+damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone making use of the information
+contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. CMBIGM
+has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides the information,
+advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIGM may issue other publications having information
+and/or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical methods when compiling. CMBIGM may make
+investment decisions or take proprietary positions that are inconsistent with the recommendations or views in this report.
+CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or on behalf
+of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with the companies in
+this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report and CMBIGM will not assume
+any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be reproduced, reprinted, sold, redistributed or
+published in whole or in part for any purpose without prior written consent of CMBIGM.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended
+from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations, etc.,) of the Order, and
+may not be provided to any other person without the prior written consent of CMBIGM.
+For recipients of this document in the United States
+CMBIGM is not a registered broker-dealer in the United States. As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports and the
+independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified as a research
+analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules intended to ensure that the
+analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is intended for distribution in the United States
+solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 1934, as amended, and may not be furnished to any other
+person in the United States. Each major US institutional investor that receives a copy of this report by its acceptance hereof represents and agrees that it shall not
+distribute or provide this report to any other person. Any U.S. recipient of this report wishing to effect any transaction to buy or sell securities based on the information
+provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined in the
+Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its respective foreign
+entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. Where the report is distributed
+in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities and Futures Act (Cap. 289) of
+Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. Singapore recipients should contact
+CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

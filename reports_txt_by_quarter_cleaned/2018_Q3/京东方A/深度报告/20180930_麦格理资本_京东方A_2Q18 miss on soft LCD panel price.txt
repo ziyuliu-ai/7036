@@ -1,534 +1,330 @@
-Please refer to page 9 for important disclosures and analyst certification or on our website
-28 August 2018
-Price (at CLOSE 27 Aug 2018)
-12-month target
-UpsideDownside
-12-month TSR
-Technology Hardware  Equipment
-30-day avg turnover
-Number shares on issue
-Investment fundamentals
-Year end 31 Dec
-Net debtequity
-000725 CH rel CSI 300 performance  rec
-Macquarie coverage at the time or there was an embargo period
-Source FactSet Macquarie Research August 2018
-(all figures in Rmb unless noted TP in CNY)
-Macquarie Capital Limited
-Allen Chang   852 3922 1136
-Verena Jeng   852 3922 3766
-Jin Guo   86 21 2412 9054
-Chris Yu   86 21 2412 9024
+China
 BOE (A-Share) (000725 CH)
 2Q18 miss on soft LCD panel price
- 2Q NI was down 49% YoY to Rmb957m leading 1H18 NI to 33% of our and the
-streets 2018 estimate (vs 1H17 tracked 57% of 2017 NI)
- 2Q GM was down to 176% (vs 208%  269% in 1Q18  2Q17) Opex ratio
-was slightly up to 126% (vs 120%  100% in 1Q18  2Q17)
- We attribute the slow 2Q to soft panel price and expect a stronger 2H driven
-by better seasonality and stabilizing LCD panel price
- 2Q miss GM at 176% (Fig 1) 2Q revenues were -4% YoY to Rmb22bn
-leading 1H18 revenues to 36%  37% of our  streets 2018 estimates (vs
-1H17 tracked 48% of 2017 revenues) We attribute the miss to soft LCD panel
-prices especially in TV which was down 26%  18%  13% in 2Q18 for 32 
-43  55 TVs 2Q GM was 176% (vs 208%  269% in 1Q18  2Q17) The
-opex ratio was slightly up to 126% (vs 120%  100% in 1Q18  2Q17) Given
-1H18 NI to 33% of our  streets 2018 estimates (vs 1H17 tracked 57% of
- Panel price trends have stopped falling but are likely to stay low We believe
-LCD panel prices have stopped falling but are likely to stay low given new capacity
-opening up and modest end demand 324355 TV panel prices are down
-24%27%15% YTD while BOE continues capacity expansion on TV panels 1)
-Gen-85 in Fuzhou reached full capacity in March 2018 with planned monthly
-capacity at 150K mother glass for 4355 TVs 2) Gen-105 in Hefei started mass
-production in March 2018 and targets to reach full capacity in 1H19 with planned
-monthly capacity at 120K mother glass for 65 TVs and 3) Gen-105 in Wuhan
-started construction in April 2018 and targets to start mass production in 2020
-with planned monthly capacity at 120K mother glass for 6575 TVs
- Flexible OLED engine 2 in 2019E We are positive on BOEs flexible OLED
-business given the largest capacity (three fabs with planned monthly capacity
+Key points
+2Q NI was down 49% YoY to Rmb957m, leading 1H18 NI to 33% of our and the
+street's 2018 estimate (vs. 1H17 tracked 57% of 2017 NI).
+2Q GM was down to 17.6% (vs. 20.8% / 26.9% in 1Q18 / 2Q17). Opex ratio
+was slightly up to 12.6% (vs. 12.0% / 10.0% in 1Q18 / 2Q17).
+We attribute the slow 2Q to soft panel price and expect a stronger 2H driven
+by better seasonality and stabilizing LCD panel price.
+Event
+2Q miss, GM at 17.6% (Fig 1): 2Q revenues were -4% YoY to Rmb22bn,
+leading 1H18 revenues to 36% / 37% of our / street's 2018 estimates (vs.
+1H17 tracked 48% of 2017 revenues). We attribute the miss to soft LCD panel
+Investment fundamentals
+prices, especially in TV, which was down 26% / 18% / 13% in 2Q18 for 32" /
+43" / 55" TVs. 2Q GM was 17.6% (vs. 20.8% / 26.9% in 1Q18 / 2Q17). The
+opex ratio was slightly up to 12.6% (vs. 12.0% / 10.0% in 1Q18 / 2Q17). Given
+the soft revenues, 2Q net income was down 49% YoY to Rmb957m, leading
+1H18 NI to 33% of our / street's 2018 estimates (vs. 1H17 tracked 57% of
+2017 NI).
+Impact
+Panel price trends have stopped falling but are likely to stay low: We believe
+LCD panel prices have stopped falling, but are likely to stay low given new capacity
+opening up and modest end demand. 32"/43"/55" TV panel prices are down
+24%/27%/15% YTD, while BOE continues capacity expansion on TV panels: 1)
+Gen-8.5 in Fuzhou reached full capacity in March 2018 with planned monthly
+capacity at 150K mother glass, for 43"/55" TVs, 2) Gen-10.5 in Hefei started mass
+production in March 2018, and targets to reach full capacity in 1H19, with planned
+000725 CH rel CSI 300 performance, & rec
+monthly capacity at 120K mother glass, for 65" TVs, and 3) Gen-10.5 in Wuhan
+history
+started construction in April 2018, and targets to start mass production in 2020,
+with planned monthly capacity at 120K mother glass, for 65"/75" TVs.
+Flexible OLED, engine #2 in 2019E: We are positive on BOE's flexible OLED
+business, given the largest capacity (three fabs with planned monthly capacity
 at 48K mother glass each) and the fastest roll-out (the Chengdu fab started
-mass production in October 2017) supporting BOE to gain market share in its
-home market China We expect rich China smartphone clients to accelerate
-the learning curve We see flexible OLED as engine 2 in 2019E with better
+mass production in October 2017), supporting BOE to gain market share in its
+home market. China. We expect rich China smartphone clients to accelerate
+the learning curve. We see flexible OLED as engine #2 in 2019E, with better
+Note: Recommendation timeline - if not a continuous line, then there was no
+price, less competition and GM upside, compared to the LCD panel market.
+Macquarie coverage at the time or there was an embargo period.
+(all figures in Rmb unless noted, TP in CNY)
 Earnings and target price revision
- We factor in 2Q18 results and thus lower our 2018E EPS by 19% We
-maintain our 2019-20E EPS No change to our PT
- 12-month price target Rmb460 based on a PER method (13x 2019E PE)
- Catalyst 3Q18 results
- Maintain Outperform
-BOE (A-Share) (000725 CH)
-28 August 2018
-Fig 1 BOE 2Q18 results snapshot
-Source Company data Bloomberg Macquarie Research August 2018
-Fig 2 Macquarie research vs Bloomberg consensus
-Source Bloomberg Macquarie Research August 2018
-Fig 3 BOE 12M forward PE ratio
-Source Bloomberg Macquarie Research August 2018
-Source Company data Macquarie Research August 2018
-BOE (A-Share) (000725 CH)
-28 August 2018
-Fig 5 LCD panel price
-Fig 6 BOE margin trend
-Source Bloomberg Macquarie Research August 2018
-Source Company data Macquarie Research August 2018
-Fig 7 BOE waterfall chart for 2018E
-Fig 8 BOE waterfall chart for 2019E
-Source Company data Macquarie Research August 2018
-Source Company data Macquarie Research August 2018
-Fig 9 BOE revenues mix in 2018E
-Fig 10 BOE gross profit mix in 2018E
-Source Company data Macquarie Research August 2018
-Source Company data Macquarie Research August 2018
-GP - Smartphone OLED
-GP - Smartphone LCD
-GP - Tablet LCD
-GP - Notebook LCD
-GP - TV LCD
-GP - Monitor
-GP - Smart system
-GP - Smart health
-GP - Others
-GP - Smartphone OLED
-GP - Smartphone LCD
-GP - Tablet LCD
-GP - Notebook LCD
-GP - TV LCD
-GP - Monitor
-GP - Smart system
-GP - Smart health
-GP - Others
-BOE (A-Share) (000725 CH)
-28 August 2018
-Fig 11 BOE revenues mix in 2019E
-Fig 12 BOE gross profit mix in 2019E
-Source Company data Macquarie Research August 2018
-Source Company data Macquarie Research August 2018
-Fig 13 BOE PL
-6257      6112      5763      5385      4479      3850      6013      6322      9869    12310    23518    20665    32521    40826
-3897      3836      3026      2212      1897      1091      2932      3112      3627      4248    12971      9032    16378    20093
-3079      2455      2612      1594      2389      1100      2504      2683      2013      2512      9741      8675    14864    19330
-2413      1890      2173      1092      2019         957      2092      2238      1636      1883      7568      7305    12297    15915
-007        005        006        003        006        003        006        006        005        005        022        021        035        046
-Source Company data Macquarie Research August 2018
-BOE (A-Share) (000725 CH)
-28 August 2018
-Fig 14 BOE balance sheet
-Cash  equivalents
-Other non-current assets
-Total non-current assets
-Other current liabilities
-Total current liabilities
-Total liabilities and equity
-Source Company data Macquarie Research August 2018
-Fig 15 BOE cash flow
-Associate share of (profits) loss
-Total gross cash flow
-Change in net working capital
-Total operating cash flow
-(Purchase) Sale of ST investment
-(Purchase) Sale of LT investment
-Total investment cash flow
-Increase (decrease) in debt
-Change in share capital
-Total financing cash flow
-Net cash flow after FX change
-Source Company data Macquarie Research August 2018
-BOE (A-Share) (000725 CH)
-28 August 2018
-Fig 16 BOE key financial ratios
-Per share data (RMB)
-Net debtEquity
-Margin (%)
-Valuation multiples (x)
-Source Company data Macquarie Research August 2018
-BOE (A-Share) (000725 CH)
-28 August 2018
+Analysts
+We factor in 2Q18 results, and thus lower our 2018E EPS by 19%. We
+Macquarie Capital Limited
+maintain our 2019-20E EPS. No change to our PT.
+Price catalyst
+12-month price target: Rmb4.60 based on a PER method (13x 2019E PE).
+Catalyst: 3Q18 results
+Action and recommendation
+Maintain Outperform.
+Macquarie Quant View
 The Quant View page below has been derived from models that are developed and maintained by Sales and Trading
-personnel at Macquarie The models are not a product of the Macquarie Research Department
+personnel at Macquarie. The models are not a product of the Macquarie Research Department.
 The quant model currently holds a reasonably negative view on BOE
-Technology (A-Share) The strongest style exposure is Growth indicating
-this stock has good historic andor forecast growth Growth metrics focus on
-both top and bottom line items The weakest style exposure is Quality
-indicating this stock is likely to have a weaker and less stable underlying
-earnings stream
+Displays where the
+Technology (A-Share). The strongest style exposure is Growth, indicating
+company's ranked based on
+this stock has good historic and/or forecast growth. Growth metrics focus on
 the fundamental consensus
-Macquaries Quantitative
-Alpha model
-Two rankings Local market
+both top and bottom line items. The weakest style exposure is Quality,
+Price Target and
+indicating this stock is likely to have a weaker and less stable underlying
+Macquarie's Quantitative
+earnings stream.
+Alpha model.
+764/930
+Two rankings: Local market
 (China) and Global sector
-(Technology Hardware 
+Global rank in
+(Technology Hardware &
+Technology Hardware & Equipment
 Equipment)
-Technology Hardware  Equipment
+% of BUY recommendations
+60% (3/5)
 Number of Price Target downgrades
 Number of Price Target upgrades
 Macquarie Alpha Model ranking
 Factors driving the Alpha Model
-(higher is better)
-contribution to the current overall Alpha score
-Macquarie Earnings Sentiment Indicator
+A list of comparable companies and their Macquarie Alpha model score
+For the comparable firms this chart shows the key underlying styles and their
+contribution to the current overall Alpha score.
+(higher is better).
 Drivers of Stock Return
+Macquarie Earnings Sentiment Indicator
 The Macquarie Sentiment Indicator is an enhanced earnings revisions
+Breakdown of 1 year total return (local currency) into returns from dividends, changes
 signal that favours analysts who have more timely and higher conviction
-revisions Current score shown below
-Breakdown of 1 year total return (local currency) into returns from dividends changes
-in forward earnings estimates and the resulting change in earnings multiple
+in forward earnings estimates and the resulting change in earnings multiple.
+revisions. Current score shown below.
 What drove this Company in the last 5 years
 How it looks on the Alpha model
-returns over the last 5 years
+Which factor score has had the greatest correlation with the company's
 A more granular view of the underlying style scores that drive the alpha (higher is
-better) and the percentile rank relative to the sector and market
-Source (all charts) FactSet Thomson Reuters and Macquarie Quant For more details on the Macquarie Alpha model or for more customised analysis and
-BOE Technology (A-Share)
-Dahua (A-Share)
-GoerTek (A-Share)
-Hikvision (A-Share)
-BOE Technology (A-Share)
-Dahua (A-Share)
-GoerTek (A-Share)
-Hikvision (A-Share)
-BOE Technology (A-Share)
-Dahua (A-Share)
-GoerTek (A-Share)
-Hikvision (A-Share)
-BOE Technology (A-Share)
-Dahua (A-Share)
-GoerTek (A-Share)
-Hikvision (A-Share)
-1Yr Total Return
- Negatives  Positives  
-Quick Ratio (Worldscope)
-Volatility 250 Day
-Turnover (USD) 250 Day
-Technicals  Trading
-Capital  Funding
-to sector(930)
-to market(429)
-BOE (A-Share) (000725 CH)
-28 August 2018
-BOE Technology (A-Share) (000725 CH Outperform Target Price Rmb460)
-Profit  Loss
-Amortisation of Goodwill
-Amortisation of Goodwill
-Forex Gains  Losses
-Forex Gains  Losses
-Pre-Tax Profit
-Pre-Tax Profit
-EPS Growth yoy (adj)
-EPS Growth (adj)
-Basic Shares Outstanding
-Diluted Shares Outstanding
-Profit and Loss Ratios
-Dividend (Ordinary)
-Net DebtEquity
-PriceBook
-Net Chg in CashDebt
-Shareholders Funds
-Total SH Equity
-Total Liab  SH Funds
-All figures in Rmb unless noted
-Source Company data Macquarie Research August 2018
-BOE (A-Share) (000725 CH)
-28 August 2018
-Important disclosures
-Macquarie - AustraliaNew Zealand
-Outperform  return 3% in excess of benchmark return
-Neutral  return within 3% of benchmark return
-Underperform  return 3% below benchmark return
-Benchmark return is determined by long term nominal
-GDP growth plus 12 month forward market dividend
-yield which is currently around 9%
-Macquarie  AsiaEurope
-Outperform  expected return 10%
-Neutral  expected return from -10% to 10%
-Underperform  expected return -10%
-Mazi Macquarie  South Africa
-Outperform  expected return 10%
-Neutral  expected return from -10% to 10%
-Underperform  expected return -10%
-Macquarie - Canada
-Outperform  return 5% in excess of benchmark return
-Neutral  return within 5% of benchmark return
-Underperform  return 5% below benchmark return
-Macquarie - USA
-Outperform (Buy)  return 5% in excess of Russell
-3000 index return
-Neutral (Hold)  return within 5% of Russell 3000 index
-Underperform (Sell) return 5% below Russell 3000
-Volatility index definition
-This is calculated from the volatility of historical
-price movements
-Very highhighest risk  Stock should be
-expected to move up or down 60100% in a year
- investors should be aware this stock is highly
-speculative
-High  stock should be expected to move up or
-down at least 4060% in a year  investors should
-be aware this stock could be speculative
-Medium  stock should be expected to move up
-or down at least 3040% in a year
-Lowmedium  stock should be expected to
-move up or down at least 2530% in a year
-Low  stock should be expected to move up or
-down at least 1525% in a year
- Applicable to AsiaAustralianNZCanada stocks
+returns over the last 5 years.
+better) and the percentile rank relative to the sector and market.
+Source (all charts): FactSet, Thomson Reuters, and Macquarie Quant. For more details on the Macquarie Alpha model or for more customised analysis and
+Important disclosures:
 Financial definitions
-All Adjusted data items have had the following
-adjustments made
-Added back  goodwill amortisation provision for
-catastrophe reserves IFRS derivatives  hedging
-IFRS impairments  IFRS interest expense
-Excluded  non recurring items asset revals property
-revals appraisal value uplift preference dividends 
-EPS  adjusted net profit  efpowa
-ROA  adjusted ebit  average total assets
-ROA BanksInsurance  adjusted net profit average
-ROE  adjusted net profit  average shareholders funds
-Gross cashflow  adjusted net profit  depreciation
-equivalent fully paid ordinary weighted average
-All Reported numbers for AustralianNZ listed stocks
+Recommendation definitions
+Volatility index definition*
+Macquarie - Australia/New Zealand
+This is calculated from the volatility of historical
+All "Adjusted" data items have had the following
+Outperform – return >3% in excess of benchmark return
+price movements.
+adjustments made:
+Neutral - return within 3% of benchmark return
+Added back: goodwill amortisation, provision for
+Underperform – return >3% below benchmark return
+Very high-highest risk – Stock should be
+catastrophe reserves, IFRS derivatives & hedging,
+expected to move up or down 60-100% in a year
+IFRS impairments & IFRS interest expense
+Benchmark return is determined by long term nominal
+investors should be aware this stock is highly
+Excluded: non recurring items, asset revals, property
+GDP growth plus 12 month forward market dividend
+speculative.
+revals, appraisal value uplift, preference dividends &
+yield, which is currently around 9%.
+minority interests
+High – stock should be expected to move up or
+Macquarie - Asia/Europe
+down at least 40-60% in a year - investors should
+EPS = adjusted net profit / efpowa*
+Outperform – expected return >+10%
+be aware this stock could be speculative.
+ROA = adjusted ebit / average total assets
+Neutral – expected return from -10% to +10%
+ROA Banks/Insurance = adjusted net profit /average
+Underperform – expected return <-10%
+Medium – stock should be expected to move up
+total assets
+Mazi Macquarie – South Africa
+or down at least 30-40% in a year.
+ROE = adjusted net profit / average shareholders funds
+Outperform - expected return >+10%
+Gross cashflow = adjusted net profit + depreciation
+Neutral – expected return from -10% to +10%
+Low-medium – stock should be expected to
+Underperform – expected return <-10%
+move up or down at least 25-30% in a year.
+number of shares
+Macquarie - Canada
+Low – stock should be expected to move up or
+All Reported numbers for Australian/NZ listed stocks
+Outperform – return >5% in excess of benchmark return
 are modelled under IFRS (International Financial
-Reporting Standards)
-(for global coverage by Macquarie 351% of stocks followed are investment banking clients)
-(for global coverage by Macquarie 210% of stocks followed are investment banking clients)
-(for global coverage by Macquarie 000% of stocks followed are investment banking clients)
-000725 CH vs CSI 300  rec history
+down at least 15–25% in a year.
+Neutral – return within 5% of benchmark return
+Reporting Standards).
+Underperform – return >5% below benchmark return
+Macquarie - USA
+Recommendations – 12 months
+Outperform (Buy) – return >5% in excess of Russell
+Note: Quant recommendations may differ from
+3000 index return
+Fundamental Analyst recommendations
+Neutral (Hold) – return within 5% of Russell 3000 index
+return
+index return
+000725 CH vs CSI 300, & rec history
 (all figures in CNY currency unless noted)
-Source FactSet Macquarie Research August 2018
+Note: Recommendation timeline - if not a continuous line, then there was no Macquarie coverage at the time or there was an embargo period.
 12-month target price methodology
-000725 CH Rmb460 based on a PER methodology
-Company-specific disclosures
-Stock Code (BBG code)
-Target price risk disclosures
-manage certain of these exposures
-Analyst certification
-including Macquarie Group Ltd total revenues a portion of which are generated by Macquarie Groups Investment Banking activities
-General disclaimers
-Macquarie Securities (Australia) Ltd Macquarie Capital (Europe) Ltd Macquarie Capital Markets Canada Ltd Macquarie Capital Markets North America
-Ltd  Macquarie Capital (USA) Inc Macquarie Capital Limited Taiwan Securities Branch Macquarie Capital Securities (Singapore) Pte Ltd Macquarie
-Securities (NZ) Ltd Mazi Macquarie Securities (RF) (Pty) Ltd Macquarie Capital Securities (India) Pvt Ltd Macquarie Capital Securities (Malaysia) Sdn
-Bhd Macquarie Securities Korea Limited and Macquarie Securities (Thailand) Ltd are not authorized deposit-taking institutions for the purposes of the
+000725 CH: Rmb4.60 based on a PER methodology
+Company-specific disclosures:
+Target price risk disclosures:
+000725 CH: Any inability to compete successfully in their markets may harm the business. This could be a result of many factors which may include
+geographic mix and introduction of improved products or service offerings by competitors. The results of operations may be materially affected by global
+economic conditions generally, including conditions in financial markets. The company is exposed to market risks, such as changes in interest rates,
+foreign exchange rates and input prices. From time to time, the company will enter into transactions, including transactions in derivative instruments, to
+manage certain of these exposures.
+Analyst certification:
+We hereby certify that all of the views expressed in this report accurately reflect our personal views about the subject company or companies and its or
+their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly, related to the specific recommendations or views
+expressed in this report. The Analysts responsible for preparing this report receive compensation from Macquarie that is based upon various factors
+including Macquarie Group Ltd total revenues, a portion of which are generated by Macquarie Group's Investment Banking activities.
+General disclaimers:
+Macquarie Securities (Australia) Ltd; Macquarie Capital (Europe) Ltd; Macquarie Capital Markets Canada Ltd; Macquarie Capital Markets North America
+Ltd; Macquarie Capital (USA) Inc; Macquarie Capital Limited, Taiwan Securities Branch; Macquarie Capital Securities (Singapore) Pte Ltd; Macquarie
+Securities (NZ) Ltd; Mazi Macquarie Securities (RF) (Pty) Ltd; Macquarie Capital Securities (India) Pvt Ltd; Macquarie Capital Securities (Malaysia) Sdn
+Bhd; Macquarie Securities Korea Limited and Macquarie Securities (Thailand) Ltd are not authorized deposit-taking institutions for the purposes of the
+Macquarie Research
 BOE (A-Share) (000725 CH)
-28 August 2018
-Banking Act 1959 (Commonwealth of Australia) and their obligations do not represent deposits or other liabilities of Macquarie Bank Limited ABN 46
-008 583 542 (MBL) or MGL  MBL does not guarantee or otherwise provide assurance in respect of the obligations of any of the above mentioned
-entities  MGL provides a guarantee to the Monetary Authority of Singapore in respect of the obligations and liabilities of Macquarie Capital Securities
-(Singapore) Pte Ltd for up to SGD 35 million  This research has been prepared for the general use of the wholesale clients of the Macquarie Group and
-must not be copied either in whole or in part or distributed to any other person If you are not the intended recipient you must not use or disclose the
-information in this research in any way If you received it in error please tell us immediately by return e-mail and delete the document We do not
-guarantee the integrity of any e-mails or attached files and are not responsible for any changes made to them by any other person MGL has
-established and implemented a conflicts policy at group level (which may be revised and updated from time to time) (the Conflicts Policy) pursuant to
-regulatory requirements (including the FCA Rules) which sets out how we must seek to identify and manage all material conflicts of interest Nothing in
-this research shall be construed as a solicitation to buy or sell any security or product or to engage in or refrain from engaging in any transaction In
-preparing this research we did not take into account your investment objectives financial situation or particular needs Macquarie salespeople traders
-opinions expressed in this research Macquarie Research produces a variety of research products including but not limited to fundamental analysis
-investment decision on the basis of this research you need to consider with or without the assistance of an adviser whether the advice is appropriate
-in light of your particular investment needs objectives and financial circumstances There are risks involved in securities trading The price of securities
-international investments such as currency fluctuations and international stock market or economic conditions which may adversely affect the value of
-the investment This research is based on information obtained from sources believed to be reliable but we do not make any representation or warranty
-to change without notice No member of the Macquarie Group accepts any liability whatsoever for any direct indirect consequential or other loss arising
-through a Macquarie Group entity in their home jurisdiction unless governing law permits otherwise The date and timestamp for above share price and
-market cap is the closed price of the price date CLOSE is the final price at which the security is traded in the relevant exchange on the date indicated
-department or subject to FINRA Rule 2241 or any other regulation regarding independence in the provision of equity research
-Country-specific disclaimers
-Australia In Australia research is issued and distributed by Macquarie Securities (Australia) Ltd (AFSL No 238947) a participating organization of the
-Australian Securities Exchange Macquarie Securities (Australia) Limited staff involved with the preparation of research have regular interaction with
-are robust information barriers in place to protect the independence of Macquarie Researchs product However recipients of Macquarie Research
-should be aware of this potential conflict of interest New Zealand In New Zealand research is issued and distributed by Macquarie Securities (NZ) Ltd
-a NZX Firm Canada In Canada research is prepared approved and distributed by Macquarie Capital Markets Canada Ltd a (i) member of the
-Investment Industry Regulatory Organization of Canada and the Canadian Investor Protection Fund and (ii) participating organisation of the Toronto
-Stock Exchange TSX Venture Exchange  Montral Exchange This research is distributed in the United States as third party research by Macquarie
-Capital Markets North America Ltd which is a registered broker-dealer and member of Financial Industry Regulatory Authority and the Securities
-Investor Protection Corporation Macquarie Capital Markets North America Ltd accepts responsibility for the contents of reports issued by Macquarie
-Capital Markets Canada Ltd in the United States and sent to US persons Any US person wishing to effect transactions in the securities described in
-the reports issued by Macquarie Capital Markets Canada Ltd should do so with Macquarie Capital Markets North America Ltd This research is
+008 583 542 (MBL) or MGL. MBL does not guarantee or otherwise provide assurance in respect of the obligations of any of the above mentioned
+entities. MGL provides a guarantee to the Monetary Authority of Singapore in respect of the obligations and liabilities of Macquarie Capital Securities
+(Singapore) Pte Ltd for up to SGD 35 million. This research has been prepared for the general use of the wholesale clients of the Macquarie Group and
+must not be copied, either in whole or in part, or distributed to any other person. If you are not the intended recipient you must not use or disclose the
+information in this research in any way. If you received it in error, please tell us immediately by return e-mail and delete the document. We do not
+guarantee the integrity of any e-mails or attached files and are not responsible for any changes made to them by any other person. MGL has
+established and implemented a conflicts policy at group level (which may be revised and updated from time to time) (the "Conflicts Policy") pursuant to
+regulatory requirements (including the FCA Rules) which sets out how we must seek to identify and manage all material conflicts of interest. Nothing in
+this research shall be construed as a solicitation to buy or sell any security or product, or to engage in or refrain from engaging in any transaction. In
+preparing this research, we did not take into account your investment objectives, financial situation or particular needs. Macquarie salespeople, traders
+and other professionals may provide oral or written market commentary or trading strategies to our clients that reflect opinions which are contrary to the
+opinions expressed in this research. Macquarie Research produces a variety of research products including, but not limited to, fundamental analysis,
+macro-economic analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of research product may differ from
+recommendations contained in other types of research, whether as a result of differing time horizons, methodologies, or otherwise. Before making an
+investment decision on the basis of this research, you need to consider, with or without the assistance of an adviser, whether the advice is appropriate
+in light of your particular investment needs, objectives and financial circumstances. There are risks involved in securities trading. The price of securities
+can and does fluctuate, and an individual security may even become valueless. International investors are reminded of the additional risks inherent in
+international investments, such as currency fluctuations and international stock market or economic conditions, which may adversely affect the value of
+the investment. This research is based on information obtained from sources believed to be reliable but we do not make any representation or warranty
+that it is accurate, complete or up to date. We accept no obligation to correct or update the information or opinions in it. Opinions expressed are subject
+to change without notice. No member of the Macquarie Group accepts any liability whatsoever for any direct, indirect, consequential or other loss arising
+from any use of this research and/or further communication in relation to this research. Clients should contact analysts at, and execute transactions
+through, a Macquarie Group entity in their home jurisdiction unless governing law permits otherwise. The date and timestamp for above share price and
+market cap is the closed price of the price date. #CLOSE is the final price at which the security is traded in the relevant exchange on the date indicated.
+Members of the Macro Strategy team are Sales & Trading personnel who provide desk commentary that is not a product of the Macquarie Research
+department or subject to FINRA Rule 2241 or any other regulation regarding independence in the provision of equity research.
+Country-specific disclaimers:
+Australia: In Australia, research is issued and distributed by Macquarie Securities (Australia) Ltd (AFSL No. 238947), a participating organization of the
+Australian Securities Exchange. Macquarie Securities (Australia) Limited staff involved with the preparation of research have regular interaction with
+companies they cover. Additionally, Macquarie Group Limited does and seeks to do business with companies covered by Macquarie Research. There
+are robust information barriers in place to protect the independence of Macquarie Research's product. However, recipients of Macquarie Research
+should be aware of this potential conflict of interest. New Zealand: In New Zealand, research is issued and distributed by Macquarie Securities (NZ) Ltd.
+a NZX Firm. Canada: In Canada, research is prepared, approved and distributed by Macquarie Capital Markets Canada Ltd., a (i) member of the
+Investment Industry Regulatory Organization of Canada and the Canadian Investor Protection Fund, and (ii) participating organisation of the Toronto
+Stock Exchange, TSX Venture Exchange & Montréal Exchange. This research is distributed in the United States, as third party research by Macquarie
+Capital Markets North America Ltd., which is a registered broker-dealer and member of Financial Industry Regulatory Authority and the Securities
+Investor Protection Corporation. Macquarie Capital Markets North America Ltd. accepts responsibility for the contents of reports issued by Macquarie
+Capital Markets Canada Ltd. in the United States and sent to US persons. Any US person wishing to effect transactions in the securities described in
+the reports issued by Macquarie Capital Markets Canada Ltd. should do so with Macquarie Capital Markets North America Ltd. This research is
 intended for distribution in the United States only to major Institutional Investors (as such term is defined in SEC 15a-6 and Section 15 of the Securities
-Exchange Act of 1934 as amended) and is not intended for the use of any person or entity that is not a major institutional investor  Research analysts
-of Macquarie Capital Markets Canada Ltd are not registeredqualified as research analysts with FINRA The Research Distribution Policy of Macquarie
-Capital Markets Canada Ltd is to allow all clients that are entitled to have equal access to our research  United Kingdom In the United Kingdom
-research is issued and distributed by Macquarie Capital (Europe) Ltd which is authorised and regulated by the Financial Conduct Authority (No
-193905) Germany In Germany this research is issued andor distributed by Macquarie Capital (Europe) Limited Niederlassung Deutschland which is
-authorised and regulated by the UK Financial Conduct Authority (No 193905) and in Germany by BaFin France In France research is issued and
-distributed by Macquarie Capital (Europe) Ltd which is authorised and regulated in the United Kingdom by the Financial Conduct Authority (No
-193905) Hong Kong  Mainland China In Hong Kong research is issued and distributed by Macquarie Capital Limited which is licensed and
-regulated by the Securities and Futures Commission In Mainland China Macquarie Securities (Australia) Limited Shanghai Representative Office only
-engages in non-business operational activities excluding issuing and distributing research Only non-A share research is distributed into Mainland China
-by Macquarie Capital Limited  Japan In Japan research is Issued and distributed by Macquarie Capital Securities (Japan) Limited a member of the
-Tokyo Stock Exchange Inc and Osaka Exchange Inc (Financial Instruments Firm Kanto Financial Bureau (kin-sho) No 231 a member of Japan
-Securities Dealers Association)  India In India research is issued and distributed by Macquarie Capital Securities (India) Pvt Ltd (CIN
-U65920MH1995PTC090696) 92 Level 9 2 North Avenue Maker Maxity Bandra Kurla Complex Bandra (East) Mumbai  400 051 India which is a
-SEBI registered Research Analyst having registration no INH000000545  Malaysia In Malaysia research is issued and distributed by Macquarie
-Capital Securities (Malaysia) Sdn Bhd (Company registration number 463469-W) which is a Participating Organisation of Bursa Malaysia Berhad and
-a holder of Capital Markets Services License issued by the Securities Commission  Taiwan In Taiwan research is issued and distributed by Macquarie
-Capital Limited Taiwan Securities Branch which is licensed and regulated by the Financial Supervisory Commission  No portion of the report may be
-reproduced or quoted by the press or any other person without authorisation from Macquarie  Nothing in this research shall be construed as a
-solicitation to buy or sell any security or product The recipient of this report shall not engage in any activities which may give rise to potential conflicts of
-interest to the report Research Associate(s) in this report who are registered as Clerks only assist in the preparation of research and are not engaged in
-writing the research Macquarie may be in past one year or now being an Issuer of Structured Warrants on securities mentioned in this report Thailand
-In Thailand research is produced issued and distributed by Macquarie Securities (Thailand) Ltd Macquarie Securities (Thailand) Ltd is a licensed
-member of the Stock Exchange of Thailand The Thai Institute of Directors Association has disclosed the Corporate Governance Report of Thai Listed
-Companies made pursuant to the policy of the Securities and Exchange Commission of Thailand Macquarie Securities (Thailand) Ltd does not endorse
-Securities Korea Limited which is regulated by the Financial Supervisory Services Information on analysts in MSKL is disclosed at
-httpdiskofiaorkrwebsquareindexjspw2xPathwqfundMgrDISFundMgrAnalystStutxmldivisionIdMDIS03002001000000serviceIdSDIS03002
-001000 South Africa In South Africa research is issued and distributed by Mazi Macquarie Securities (RF) (Pty) Ltd a member of the JSE Limited
-Singapore In Singapore research is issued and distributed by Macquarie Capital Securities (Singapore) Pte Ltd (Company Registration Number
-198702912C) a Capital Markets Services license holder under the Securities and Futures Act to deal in securities and provide custodial services in
-Singapore Pursuant to the Financial Advisers (Amendment) Regulations 2005 Macquarie Capital Securities (Singapore) Pte Ltd is exempt from
-(Europe) Limited Macquarie Capital Markets Canada Ltd Mazi Macquarie Securities (RF) (Pty) Ltd and Macquarie Capital (USA) Inc represent and
-warrant that they are institutional investors as defined in the Securities and Futures Act United States In the United States research is issued and
-distributed by Macquarie Capital (USA) Inc which is a registered broker-dealer and member of FINRA  Macquarie Capital (USA) Inc accepts
+Exchange Act of 1934, as amended) and is not intended for the use of any person or entity that is not a major institutional investor. Research analysts
+of Macquarie Capital Markets Canada Ltd. are not registered/qualified as research analysts with FINRA. The Research Distribution Policy of Macquarie
+Capital Markets Canada Ltd. is to allow all clients that are entitled to have equal access to our research. United Kingdom: In the United Kingdom,
+research is issued and distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated by the Financial Conduct Authority (No.
+193905). Germany: In Germany, this research is issued and/or distributed by Macquarie Capital (Europe) Limited, Niederlassung Deutschland, which is
+authorised and regulated by the UK Financial Conduct Authority (No. 193905), and in Germany by BaFin. France: In France, research is issued and
+distributed by Macquarie Capital (Europe) Ltd, which is authorised and regulated in the United Kingdom by the Financial Conduct Authority (No.
+193905). Hong Kong & Mainland China: In Hong Kong, research is issued and distributed by Macquarie Capital Limited, which is licensed and
+regulated by the Securities and Futures Commission. In Mainland China, Macquarie Securities (Australia) Limited Shanghai Representative Office only
+engages in non-business operational activities excluding issuing and distributing research. Only non-A share research is distributed into Mainland China
+by Macquarie Capital Limited. Japan: In Japan, research is Issued and distributed by Macquarie Capital Securities (Japan) Limited, a member of the
+Tokyo Stock Exchange, Inc. and Osaka Exchange, Inc. (Financial Instruments Firm, Kanto Financial Bureau (kin-sho) No. 231, a member of Japan
+Securities Dealers Association). India: In India, research is issued and distributed by Macquarie Capital Securities (India) Pvt. Ltd. (CIN:
+U65920MH1995PTC090696), 92, Level 9, 2 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai – 400 051, India, which is a
+SEBI registered Research Analyst having registration no. INH000000545. Malaysia: In Malaysia, research is issued and distributed by Macquarie
+Capital Securities (Malaysia) Sdn. Bhd. (Company registration number: 463469-W) which is a Participating Organisation of Bursa Malaysia Berhad and
+a holder of Capital Markets Services License issued by the Securities Commission. Taiwan: In Taiwan, research is issued and distributed by Macquarie
+Capital Limited, Taiwan Securities Branch, which is licensed and regulated by the Financial Supervisory Commission. No portion of the report may be
+reproduced or quoted by the press or any other person without authorisation from Macquarie. Nothing in this research shall be construed as a
+solicitation to buy or sell any security or product. The recipient of this report shall not engage in any activities which may give rise to potential conflicts of
+interest to the report. Research Associate(s) in this report who are registered as Clerks only assist in the preparation of research and are not engaged in
+writing the research. Macquarie may be in past one year or now being an Issuer of Structured Warrants on securities mentioned in this report. Thailand:
+In Thailand, research is produced, issued and distributed by Macquarie Securities (Thailand) Ltd. Macquarie Securities (Thailand) Ltd. is a licensed
+securities company that is authorized by the Ministry of Finance, regulated by the Securities and Exchange Commission of Thailand and is an exchange
+member of the Stock Exchange of Thailand. The Thai Institute of Directors Association has disclosed the Corporate Governance Report of Thai Listed
+Companies made pursuant to the policy of the Securities and Exchange Commission of Thailand. Macquarie Securities (Thailand) Ltd does not endorse
+iod.com/en/publications.asp?type=4. South Korea: In South Korea, unless otherwise stated, research is prepared, issued and distributed by Macquarie
+Securities Korea Limited, which is regulated by the Financial Supervisory Services. Information on analysts in MSKL is disclosed at
+001000. South Africa: In South Africa, research is issued and distributed by Mazi Macquarie Securities (RF) (Pty) Ltd, a member of the JSE Limited.
+Singapore: In Singapore, research is issued and distributed by Macquarie Capital Securities (Singapore) Pte Ltd (Company Registration Number:
+198702912C), a Capital Markets Services license holder under the Securities and Futures Act to deal in securities and provide custodial services in
+Singapore. Pursuant to the Financial Advisers (Amendment) Regulations 2005, Macquarie Capital Securities (Singapore) Pte Ltd is exempt from
+complying with sections 25, 27 and 36 of the Financial Advisers Act. All Singapore-based recipients of research produced by Macquarie Capital
+(Europe) Limited, Macquarie Capital Markets Canada Ltd, Mazi Macquarie Securities (RF) (Pty) Ltd and Macquarie Capital (USA) Inc. represent and
+warrant that they are institutional investors as defined in the Securities and Futures Act. United States: In the United States, research is issued and
+distributed by Macquarie Capital (USA) Inc., which is a registered broker-dealer and member of FINRA. Macquarie Capital (USA) Inc., accepts
 responsibility for the content of each research report prepared by one of its non-US affiliates when the research report is distributed in the United States
-by Macquarie Capital (USA) Inc Macquarie Capital (USA) Incs affiliates analysts are not registered as research analysts with FINRA may not be
-purposes only and is not a solicitation for purchases or sales of futures Any persons receiving this report directly from Macquarie Capital (USA) Inc and
+by Macquarie Capital (USA) Inc. Macquarie Capital (USA) Inc.'s affiliate's analysts are not registered as research analysts with FINRA, may not be
+associated persons of Macquarie Capital (USA) Inc., and therefore may not be subject to FINRA rule restrictions on communications with a subject
+company, public appearances, and trading securities held by a research analyst account. Information regarding futures is provided for reference
+purposes only and is not a solicitation for purchases or sales of futures. Any persons receiving this report directly from Macquarie Capital (USA) Inc. and
+Macquarie Research
 BOE (A-Share) (000725 CH)
-28 August 2018
-wishing to effect a transaction in any security described herein should do so with Macquarie Capital (USA) Inc  Important disclosure information
-representative at 1-888-MAC-STOCK or write to the Supervisory Analysts Research Department Macquarie Securities 125 W55th Street New York
- Macquarie Group
+wishing to effect a transaction in any security described herein should do so with Macquarie Capital (USA) Inc. Important disclosure information
+representative at 1-888-MAC-STOCK, or write to the Supervisory Analysts, Research Department, Macquarie Securities, 125 W.55th Street, New York,
+NÝ 10019.
+© Macquarie Group
+Equities
+Asia Research
 Head of Equity Research
-Jake Lynch (Asia  Head)
-Hiroyuki Sakaida (Japan  Head)
-Conrad Werner (ASEAN  Head)
-Automobiles Auto Parts
-Janet Lewis (China Japan)
-Allen Yuan (China)
-James Hong (Korea)
-Amit Mishra (India)
+Emerging Leaders
+Technology
+Automobiles, Auto Parts
+Infrastructure, Industrials, Transportation
+Banks and Financials
 Scott Russell (Asia)
-Dexter Hsu (China Taiwan)
+Telecoms
+Dexter Hsu (China, Taiwan)
 Keisuke Moriyama (Japan)
 Chan Hwang (Korea)
+Internet, Media and Software
 Suresh Ganapathy (India)
 Jayden Vantarakis (Indonesia)
 Anand Pathmakanthan (Malaysia)
+Utilities, Renewables
 Gilbert Lopez (Philippines)
 Ken Ang (Singapore)
 Peach Patharavanakul (Thailand)
-Basic Materials Commodities
-David Ching (China Hong Kong)
-Yasuhiro Nakada (Japan)
-Anna Park (Korea)
-Sumangal Nevatia (India)
-Jayden Vantarakis (Indonesia)
-Farrah Aqlima (Malaysia)
-David Ng (China Hong Kong)
-Gilbert Lopez (Philippines)
-Conrad Werner (Singapore)
-Consumer Gaming
+Basic Materials, Commodities
+Oil, Gas and Petrochemicals
+Strategy, Country
+Conglomerates
+Pharmaceuticals and Healthcare
+Consumer, Gaming
 Linda Huang (Asia)
-Zibo Chen (China Hong Kong)
-Terence Chang (China Hong Kong)
-Sunny Chow (China Hong Kong)
-Stella Li (China Taiwan)
+Property, REIT
+Zibo Chen (China, Hong Kong)
+Find our research at
+Terence Chang (China, Hong Kong)
+Macquarie:
+Sunny Chow (China, Hong Kong)
+Thomson:
+Reuters:
+Stella Li (China, Taiwan)
+Bloomberg:
+MAC GO
 Leon Rapp (Japan)
+Factset:
 Kwang Cho (Korea)
+CapitallQ
 Amit Sinha (India)
 Robert Pranata (Indonesia)
 Richardo Walujo (Indonesia)
 Denise Soon (Malaysia)
 Karisa Magpayo (Philippines)
 Chalinee Congmuang (Thailand)
-Jake Lynch (Asia)
-Kwang Cho (Korea)
-Corinne Jian (Greater China)
-Conrad Werner (ASEAN)
-Bo Denworalak (Thailand)
-Infrastructure Industrials Transportation
-Patrick Dai (China)
-Eric Zong (China Hong Kong)
-Kunio Sakaida (Japan)
-James Hong (Korea)
-Corinne Jian (Taiwan)
-Inderjeetsingh Bhatia (India)
-Azita Nazrene (ASEAN)
-Internet Media and Software
-Wendy Huang (Asia)
-Marcus Yang (Greater China)
-John Wang (Hong Kong)
-Ellie Jiang (Hong Kong)
-Alankar Garude (India)
-Oil Gas and Petrochemicals
-Aditya Suresh (Asia)
-Anna Park (Asia)
-Yasuhiro Nakada (Japan)
-Corinne Jian (Taiwan)
-Ben Shane Lim (Malaysia)
-Yupapan Polpornprasert (Thailand) (662) 694 7729
-Pharmaceuticals and Healthcare
-David Ng (China Hong Kong)
-Xiang Gao (China Hong Kong)
-Corinne Jian (China)
-Alankar Garude (India)
-Richardo Walujo (Indonesia)
-Property REIT
-Tuck Yin Soong (Asia Singapore)
-David Ng (China Hong Kong)
-Kelvin Tam (China)
-Keisuke Moriyama (Japan)
-Tomoyoshi Omuro (Japan)
-Abhishek Bhandari (India)
-Richard Danusaputra (Indonesia)
-Aiman Mohamad (Malaysia)
-Kervin Sisayan (Philippines)
-Bo Denworalak (Thailand)
-Damian Thong (Asia Japan)
-Allen Chang (Greater China)
-Jeffrey Ohlweiler (Greater China)
-Chris Yu (Greater China)
-Kaylin Tsai (Greater China)
-Lynn Luo (Greater China)
-Patrick Liao (Greater China)
-Verena Jeng (Greater China)
-Daniel Kim (Korea)
-Abhishek Bhandari (India)
-Farrah Aqlima (Malaysia)
-Allen Chang (Greater China)
-Prem Jearajasingam (ASEAN)
-Nathania Nurhalim (Indonesia)
-Kervin Sisayan (Philippines)
-Utilities Renewables
-Hiroyuki Sakaida (Japan)
-Patrick Dai (China)
-Inderjeetsingh Bhatia (India)
-Karisa Magpayo (Philippines)
-Strategy Country
-Viktor Shvets (Asia Global)
-David Ng (China Hong Kong)
-Hiroyuki Sakaida (Japan)
-Chan Hwang (Korea)
-Jeffrey Ohlweiler (Taiwan)
-Inderjeetsingh Bhatia (India)
-Conrad Werner (ASEAN Singapore)
-Jayden Vantarakis (Indonesia)
-Anand Pathmakanthan (Malaysia)
-Gilbert Lopez (Philippines)
-Peach Patharavanakul (Thailand)
-Macquarie
-Bloomberg
+Asia Sales
 Regional Heads of Sales
-Miki Edelman (Global)
-Amelia Mehta (Asia)
-Alan Chen (Asia)
-Sandeep Bhatia (India)
-Tim Huang (Indonesia)
-Thomas Renz (Geneva)
-Tomohiro Takahashi (Japan)
-John Jay Lee (Korea)
-Nik Hadi (Malaysia)
-Gino C Rojas (Philippines)
-Regional Heads of Sales contd
-Paul Colaco (San Francisco)
-Eric Lin (Taiwan)
-Angus Kent (Thailand)
-Mothlib Miah (UKEurope)
-Christina Lee (US)
-Mark Weekes (Asia)
-Stanley Dunda (Indonesia)
-Sales Trading contd
-Suhaida Samsudin (Malaysia)
-Michael Santos (Philippines)
-Chris Reale (New York)
-Marc Rosa (New York)
-Justin Morrison (Singapore)
-Brendan Rake (Thailand)
-Mike Keen (UKEurope)
-This publication was disseminated on 27 August 2018 at 1716 UTC
+Regional Heads of Sales cont'd
+Sales Trading cont'd
+Sales Trading

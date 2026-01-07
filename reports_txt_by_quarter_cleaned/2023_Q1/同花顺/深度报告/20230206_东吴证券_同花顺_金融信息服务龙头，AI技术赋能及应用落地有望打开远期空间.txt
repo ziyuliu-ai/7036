@@ -1,208 +1,228 @@
-金融信息服务龙头，AI 技术赋能及应用落地
-每股净资产(元LF)
-资产负债率(%LF)
-流通A 股(百万股)
-同花顺(300033)：2021 年三季
-报点评：持续获益于市场活跃，
-期待创新投资提升产品及服务
-同花顺(300033)：2021 年一季
-报点评：加大研发及营销力度，
-维持看好公司长期成长潜力
-营业总收入（百万元）
-归属母公司净利润（百万元）
-每股收益-最新股本摊薄（元股）
-PE（现价最新股本摊薄）
-关键词：新产品、新技术、新客户
- 金融信息服务龙头，具备流量规模优势。同花顺是国内领先的互联网金
-融信息服务提供商，2015 年转型互联网金融信息服务平台。截至2022
-年6 月30 日，同花顺网上行情免费客户端的DAU 约为 1452 万人，
-海量用户构建流量壁垒。
- 技术升级有望推动AI 行业进步，人工智能产业空间巨大。2022 年11
-月，对话式AI 新模型ChatGPT 的上线，意味着语言类AI 底层技术NLP
-的显著进步，同时启示AI 其他领域应用更高效率的Transformer 和产出
-更类人的RLHF 算法。AI 核心技术的突破有望引领应用端效果提升，
-加速AI 行业应用商业化落地。根据艾瑞咨询，到2026 年，人工智能核
-心产业规模将超6000 亿元，其带动相关产业规模将达21077 亿元。
- 公司深耕AI 领域多年，已具备AI 应用的持续研发能力。公司自2009
-年起即已布局人工智能领域，2017 年推出同花顺AI 开放平台。公司基
-于多年经验及流量规模积累，已具备海量数据基础。同时，对AI 的持
-续投入使得公司具有自然语言处理、语音理解等丰富技术储备。公司具
-备AI 应用的持续研发能力，有望从人工智能行业的发展中受益。
- 增值业务AI 产品及多场景AI 解决方案应用的落地，将带动公司业绩
-及估值提升。目前，公司已上线多款AI 应用产品：1）C 端应用：基于
-AI 的增值服务产品。通过算法判断买卖点等，为投资者提供投资建议。
-其中，i 问财为公司重点打造产品，是财经领域落地较成功的自然语言、
-语音问答系统。2）B 端应用：面向多行业客户提供智能语音、智能客服
-等产品，并积极拓展至生活、医疗等更多场景。在医疗领域，公司研发
-小花探影内镜助手，辅助医生实现高标准、高质量的消化道内镜诊断。
-我们认为，伴随AI 行业内语言类AI 技术的突破，公司有望继续加码
-AI 投顾、智能客服等技术投入，完善AI 产品；同时公司也将横向拓展
-AI 应用领域，带动C 端用户付费及B 端销售提升，贡献业绩增长。
- 盈利预测与投资评级：考虑到公司的互联网金融信息服务龙头地位及竞
-争力；AI 技术赋能增值服务，应用拓展至多场景，有望打开业绩增长空
-间。我们预计公司2022-2024 年实现营收364654 亿元，同比增长
-3%26%17%；实现归母净利率172225 亿元，同比变动-12%29%16%，
-对应当前股价PE 分别为393026 倍，维持买入评级。
- 风险提示：行业竞争风险，互联网系统及数据安全风险， AI 技术及应
-1 金融信息服务龙头，主业贯彻流量变现逻辑  4
-2 技术升级将推动AI 行业发展，公司应用拓展有望打开远期成长空间  4
-21 技术升级驱动AI 领域进步，人工智能产业空间巨大  4
-22 深耕AI 领域多年，产品赋能及应用落地将打开远期成长空间  5
-221 公司已具备海量数据基础及坚实AI 技术储备  6
-222 C 端应用：AI 技术赋能增值服务，有望推动用户付费提升  7
-223 B 端应用：AI 解决方案应用场景拓展，探索业绩增长点  8
-3 盈利预测与投资评级  9
-4 风险提示  9
-1   金融信息服务龙头，主业贯彻流量变现逻辑
-同花顺是国内领先的互联网金融信息服务提供商，自2015 年转型互联网金融信息
-服务平台后，形成电信增值业务、广告及互联网业务推广服务、基金代销业务、软件销
-售及维护四大业务。截至2022 年6 月30 日，同花顺网上行情免费客户端的DAU 约为
-1452 万人，大幅领先其他第三方股票行情软件和券商自有交易软件，构建起流量壁垒。
-C 端业务基于流量变现，B 端业务贡献稳定收入，业绩增长迅速。当前公司三大 C
-端业务分别为：1）增值电信服务，公司收入的主要贡献业务，2015-2021 年营收占比均
-超过45%；2）广告及互联网业务推广服务，主要为券商提供开户导流业务，2015-2021
-年，营收占比持续提升，2021 年达366%；3）基金销售及其他业务，公司利用自身流
-量优势及相关资质，提供金融电商服务；B 端业务为软件销售及维护服务，主要为iFind
-等产品销售。基于公司流量端优势及丰富产品矩阵，公司业绩增长迅速，2021 年，公司
-实现营收351 亿元，同比增长23%。
-图1：公司营收情况及营收构成（百万元）
-图2：公司周活跃用户数（万人）
-2   技术升级将推动AI 行业发展，公司应用拓展有望打开远期成
-21   技术升级驱动AI 领域进步，人工智能产业空间巨大
-ChatGPT 横空出世，代表着语言类AI 底层技术NLP 的显著进步。2022 年11 月，
-Open AI 发布对话式AI 新模型ChatGPT，只需向ChatGPT 提出文字需求，即可让其完
-成回答问题、书写代码、创作文本等指令。
-ChatGPT 是GPT-3 和GPT-4 之间的过渡版本，GPT 是解决NLP(自然语言处理)任
-务的训练模型之一，该预训练模型基于Transformer 架构(具有自注意力机制，可以捕捉
-句子中的上下文关系)，可以根据给定文本预测下一个单词的概率分布，从而生成人类可
-以理解的自然语言。ChatGPT 从GPT-35 模型微调而来，Chat 强调了其为了对话而优化，
-具有记忆能力，可以完成连续性对话。
-ChatGPT 的上线意味着语言类AI 底层技术NLP 进步显著，同时启示AI 其他领域
-应用更高效率的Transformer 和产出更类人的RLHF 算法。
-图3：AI 底层技术领域分类
-AI 技术与产业应用侧有望进一步融合，人工智能产业空间万亿可期。人工智能的
-应用能够赋能各行业生产生活流程，助力企业端降本增效。以文本生成领域来看，AI 的
-应用将显著提升效率：截止2021 年3 月，推出9 个月后的GPT-3 日均文本生成量45
-亿，而2021 年阅文集团新增文字量为360 亿，相当于GPT-3 8 天的文字内容生成量。
-AI 核心技术的突破有望引领应用端效果提升，加速AI 应用商业化落地。根据艾瑞
-咨询，到2026 年，人工智能核心产业规模将超6000 亿元，其带动相关产业规模将达
-图4：中国人工智能产业规模（亿元）
-22   深耕AI 领域多年，产品赋能及应用落地将打开远期成长空间
-公司自2009 年起即已布局人工智能领域，2017 年推出AI 开放平台。其海量数据
-及技术储备已使公司具备AI 应用的持续研发能力，有望从人工智能行业的发展中受益。
-核心产品市场规模（亿元）
-带动相关产业规模（亿元）
-在AI 行业持续发展扩容的背景下，公司增值业务AI 产品叠加多场景AI 解决方案应用
-的落地，将带动公司业绩及估值提升。
-221   公司已具备海量数据基础及坚实AI 技术储备
-公司主业积累的流量及交互行为提供AI 算法训练数据基础：公司有近30 年的金
-融信息服务行业经验，围绕同花顺股票交易APP，覆盖了约1900 万周活跃用户从开户
-入市到投资建议，再到购买使用空仓基金丰富投资组合的投资全流程。基于多年经验及
-流量规模，公司积累了庞大的数据库资源，涵盖互联网用户数据、新闻资讯、宏观经济
-数据、行业经济数据、企业研究报告、企业信息、上市公司信息披露、招投标等结构化
-和非结构化数据，为人工智能算法训练提供数据基础。
-持续研发投入，构建AI 核心技术基础及应用拓展。2021 年公司研发投入占比
-236%，同比提升31pct；研发人员达到 2915 人，员工占比 6137%。持续增加的研发
-投入夯实了公司作为互联网金融信息服务平台通过增值产品收入进行流量变现的逻辑
-基础，也意味着公司持续加大对大数据、人工智能的技术及应用研究。
-图5：公司研发费用率
-图6：公司研发人员数量（人）
-当前，公司已具备包括语音识别、语音合成、文本分析、NLU、NLP 等技术在内的
-语音、语言类AI 技术，不仅可应用至同花顺增值产品中，其AI 解决方案也可服务包括
-金融业在内的行业客户。
-图7：公司AI 核心技术
-222   C 端应用：AI 技术赋能增值服务，有望推动用户付费提升
-截至2022 年底，公司已上线多款基于AI 技术的增值服务产品，通过算法判断买卖
-点、诊断个股等，为不同类型的投资者提供投资建议。
-表1：公司增值服务中AI 技术相关产品
-AI 智能策略投资、深度诊断个股、分布式一键条件
-识别机构投资者操作行为，并给出投资参考。
-分析个股、市场估值，给出进场、离场信号，辅助选
-i 问财是同花顺旗下的AI 投顾平台，问财专业版享受
-获得龙头股票出现的逻辑，筛选即将成为龙头股的股
-在K 线图上提醒高低点，给出买入卖出参考。
-其中，智能投顾领域落地较成功，i 问财为公司重点打造产品，。公司基于大量训练
-语料及数据，运用自然语言搜索、运算和解析技术，智能对话技术，打造i 问财AI 投顾
-平台，并将其问财问答嵌入至同花顺APP 中，用户可以通过与问财机器人进行自然语言
-交互获得投资建议。i 问财目前是财经领域落地较成功的自然语言、语音问答系统。伴
-随人工智能行业内语言类AI 技术的突破，公司有望继续加码 AI 投顾相关技术，完善
-图8：同花顺问财界面及问答示例
-通过运用AI 技术的增值产品，投资者能够减少信息搜寻时间，获取更智能化的投
-资预警及建议，从而降低风险或获取更接近市场收益的投资结果。我们认为，增值业务
-中AI 应用产品的不断完善及落地，将推动用户付费率及ARPPU 提升，贡献业绩增长。
-223   B 端应用：AI 解决方案应用场景拓展，探索业绩增长点
-AI 解决方案应用场景横向拓展，覆盖包含金融业在内的众多行业：同花顺AI 应用
-不局限于增值产品，其2017 年创建的同花顺AI 开放平台目前可面向行业客户提供数字
-虚拟人、智能金融问答、智能语音、智能客服机器人、智能质检机器人、会议转写系统、
-智慧政务平台、智能医疗辅助系统等40 余项人工智能产品及服务。当前同花顺的AI 产
-品及服务正在积极拓展至生活、医疗、教育等更多领域。
-图9：同花顺AI 解决方案
-多个AI 产品已开放渠道代理销售，探索盈利增长点，打开远期空间。当前，公司
-已开放核心AI 产品的渠道代理，应用于各行各业。
-在智慧医疗领域，公司基于机器学习、计算机视觉技术，研发小花探影内镜助手，
-这是一款消化内镜辅助质量控制软件，能够辅助内镜医生操作，在胃镜、肠镜的检查中，
-实时提示当前检查部位，未检查部位及漏检部位；给出当前部位和整个胃镜肠镜检查的
-质量评估分值，从而帮助医生实现高标准、高质量的诊断。
-我们预计公司会继续探索AI 行业解决方案，横向拓展应用领域，覆盖更多行业的
-AI 技术解决方案，探索业绩增长点。
-表2：公司to B 销售的核心AI 产品
-通过智能、高效的人机互动，完成前期的线索挖掘及
-意向判断。高效率转化，低成本管理，助力企业智能
-帮助具有少量电话需求的客户解决电话沟通问题，并
-多渠道接入、智能分配，促进客户服务自动化和客服
-集营销获客、访客分析、投研数据、智慧工具为一体
-客、经营、成交、关系维护等一体化服务。
-To B 销售线索搜索引擎，提供21 亿企业信息查询和
-100数据筛选维度，为To B 销售型企业提供线索挖
-掘、客户触达、企业数据分析全流程智能销售解决方
-案，帮助企业轻松找到潜在客户，提高销售效率。
-辅助内镜操作的AI 医疗设备。辅助内镜医生的操
-作，提高病变检出率，降低漏检率。
-3   盈利预测与投资评级
-考虑到公司的互联网金融信息服务龙头地位及竞争力；AI 技术赋能增值服务，应用
-拓展至多场景，有望打开业绩增长空间。我们预计公司2022-2024 年实现营收364654
-亿元，同比增长3%26%17%；实现归母净利率172225 亿元，同比变动-12%29%16%，
-对应当前股价PE 分别为393026 倍，维持买入评级。
-行业竞争风险：互联网金融服务行业市场份额集中度不高，内部竞争激烈，竞争趋
-于复杂和严峻。激烈竞争的市场环境可能会带来产品价格下滑、服务质量要求提高、市
-场份额难以保持等风险。
-互联网系统及数据安全风险：公司现有的金融信息服务必须基于互联网提供，因此
-必须确保相关计算机系统和数据的安全。设备故障、软件漏洞、网络攻击以及自然灾害
-等因素客观存在，一旦发生将影响公司的声誉和经营业绩。
-AI 技术及应用发展不及预期：人工智能技术及应用尚处早期，若发展不及预期，则
-商业化进程或将受阻，业绩无法释放。
-资产负债表（百万元）
-2024E  利润表（百万元）
-13401  营业总收入
-营业成本(含金融类)
-15144  利润总额
-1393  归属母公司净利润
-65  每股收益-最新股本摊薄(元)
-3187  毛利率(%)
-11957  归母净利率(%)
-11957  收入增长率(%)
-15144  归母净利润增长率(%)
-现金流量表（百万元）
-2024E  重要财务与估值指标
-2877  每股净资产(元)
--230  最新发行在外股份（百万股）
-0  ROIC(%)
-2647  ROE-摊薄(%)
-36  资产负债率(%)
--230  PE（现价最新股本摊薄）
-309  PB（现价）
-本公司不会因接收人收到本报告而视其为客户。在任何情况下，本报告中的信息
-或所表述的意见并不构成对任何人的投资建议，本公司不对任何人因使用本报告
-司提供投资银行服务或其他服务。
-信息，本公司力求但不保证这些信息的准确性和完整性，也不保证文中观点或陈
-述不会发生任何变更，在不同时期，本公司可发出与本报告所载资料、意见及推
-本报告的版权归本公司所有，未经书面许可，任何机构和个人不得以任何形
-买入：预期未来6 个月个股涨跌幅相对大盘在15%以上；
-增持：预期未来6 个月个股涨跌幅相对大盘介于5%与15%之间；
-中性：预期未来 6 个月个股涨跌幅相对大盘介于-5%与5%之间；
-减持：预期未来 6 个月个股涨跌幅相对大盘介于-15%与-5%之间；
-卖出：预期未来 6 个月个股涨跌幅相对大盘在-15%以下。
-增持： 预期未来6 个月内，行业指数相对强于大盘5%以上；
-中性： 预期未来6 个月内，行业指数相对大盘-5%与5%；
-减持： 预期未来6 个月内，行业指数相对弱于大盘5%以上。
-苏州工业园区星阳街5 号
+第一次 (京都) (京都) (京都) (京都) (京都) (京都) (京都) (京都)
+音楽・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・電子・
+。『Piere”『in”『in”『in”『in”『in”『in”『in”『in
+· Parlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Barlin Bar
+『・『上ででにルにルにルにルにルにルにルにルにル
+në.Papi⊓
+e”⊩a”h.Piri⊪a”hiri⊪a”hiri⊪a”hiri⊪a”hiri⊪a
+”——8——————————————————————————————————
+『・『・『・『に『に『に『に『に『にりにりにりにりに
+。Pin - in - in - in - in - in - in - in -
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+『『『『『『『『『『『『『『『『『『『
+”上音·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·尼尔·
+ā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neīhenā neī
+”Pa
+”Pin Pin Pin Pin Pin Pin Pin Pin Pin Pin
+”————————————————————————————————————
+『上電子記録の記述表現 (記述) おおままり おおまま これ こうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう しょうしょう し
+”『a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·『he a·』he a·『he a·『he a·』he a·『he a·』he a·『he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·』he a·
+■ aFin aFin aFin aFin aFin aFin aFin aFin
+事事で表現。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事です。「記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『『『『『『『『『『『『『『『『『『『
+『上電子『上電子
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+”上零台/inapa/jinaPinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/jinapa/ji
+事事で記していまって。『旧事事では「Line』。『ine』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、「Line』では、Line』では、Line』では、Line』では、Line』では、Line』では、Line』では、Line』では、Line』では、Line』では、Line』では、Line』では
+事事。『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『
+『上で記録を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+『上ででにルマルロににににににににににににににににににに
+『上電子記憶報告記憶報報記記報報記記報報記記報報記記報報記記報記記記記記記記記記記記記
+- Tin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Barin Bari
+『・『・『・『・『・『・『・『・『・『・
+。『heada a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a
+- 『heading afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- afine- a
+■ Fallina ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na ni na
+著ります。「Paperalerierierierierierierierierierierierierie
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+！III。III。
+『『『『『『『『『『『『『『『『『『『
+· "E afin e line" afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line afin e line
+『上電子』『中で記録を対応では、『中で記録を対応できまれた。『中で記録を記述できまれた。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中で記述である。『中
+· 『上帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇帝皇
+音楽・『上電子 arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine a
+音響 ng PaPaPaPaPaPaPaPaPaPaPaPaPaP
+” Bage all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E" all "E
+· III。III。III。III。III。III。III。III
+『・『・『・『ド『ド『ド『ド『ド『ド『ド
+a.Plane The Raine a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.Plane a.P
+- 『- 『- 『- 『- 『- 『- 『- 『- 『- 『
+電子電子電子電子車ではPin in line
+事业。PinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinikaPinika
+” “皇祖” “是” “是” “是“
+『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『記事でで記事で記事で記事で記事で記事で記事で記事で記事で記
+事。『inelana line』『inelana line』
+”『上電子』『正記』
+- III-II-II-II-II-II-II-II-II-II-II-II-I
+· 『『 · · · · · · · · · · · · · · · · ·
+”————————————————————————————————————
+” = The nu nu nu nu nu nu nu nu nu nu nu nu nu
+事事。
+事。『上書記』『中国記』『中国記』
+| 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子 | 電子
+第一、では、では、では、では、では、では、では、では、では、では
+1. Fa The The The The The The The The The The
+ファイル The The The The The The The The The The
+第一条 1 mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile 3/mile
+ラー a'll a'll a'll a'll a'll a'll a'll a'l
+で『記事記事記事記事記事記事
+音・電車電車電車電車電車電車電車電車電車電車電車電車電車
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+事。『旧·
+と記に市に市に市に市に市に市に市に市にりにり
+『上電子』『inal Parine
+- "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+・『上記に加にルにルにルにルにルにルにルにルにル
+『上電子『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+ファック (Pina Time) a Time a Time) a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time
+”『arike na”in a.fin i”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arike”“arik
+『『『『『『『『『『『『『『『『『『『
+『『記事で記事である『記事で記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『記事である『とのにのにのにのに
+事物では『上で記録を記述している。「記載を記述している。」
+写。『上書の記』『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、
+- "English" | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna | Pigna |
+事事。『上電子 arine larine』『in larine』
+『『記事で記事で記事で記事である。「記事で記事である。「記事で記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「記事である。「とにしにしにしにしにしにしにしにしにしに
+” “星” “星” “星” “星” “星” “星” “星” “星” “星” “星
+a The a The Rail in a Piere a The Rail in a Piere a The Rail in a Piere a The Rail in a The Rail in a The Rail in a Rail in a Piere a The Rail in a Rail in a Rail in a Rail in a Rail in a Rail in a Rail in a Rail in a Ra
+三事 では、
+では、
+では、
+では、
+では、
+では、
+では、
+では、
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+1 「Page Page Page Page Page Page Page Page
+表 Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Tarin la Ta
+写ります。
+三番では
+では
+では
+では
+では
+では
+では
+では
+では
+では
+。『『上『上『上『上『上『上『上『上『上
+『『記事で記述『記事で記述
+· a The a The Air li a Rain a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a
+| The arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm of arm
+表 a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a
+電子Pape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a linePape a lineP
+『『『記事で記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。
+· Papa Papa Papa Papa Papa Papa Papa Pap
+| 三事 | 一事 | 一事 | 一事 | 一事 | 一事 | 一事 | 一事
+事業の表現を開発して、1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」1. 「自己」
+事事。「事事」「事事」「事事」「事事」「事事」「事事」「事事」「
+:| The mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of the mark of
+表現記事記事記事記事記事記事記事記事記事記事記事記事記事
+” = The arin = "E" = "" = "" = "" = "" = "" = "" =
+- The arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arine arin
+- 『中電社 a TikePin in line a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nire a nir
+是
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+電子
+音響・電子を見から1. 『1. 『1. 『1. 『1. 『1. 『1. 『1. 『
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+事。『正『上『上『上『上『上『上『上『上『上
+事事。『in line line line line line line line li
+in Fair.
+”『上記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記記
+a Tie na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li na li
+『『『『『『『『『『『『『『『『『『『
+書物で表現。『上電子 afine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la nine la
+電車で表現する「inenanie alinealine」。
+” ——”『上間中間上間上間上間上間上間上間上間上間上間上間上間上間上間上間上間上間上間上
+事事。『ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a-ine a
+君上『記『記『記『記に記にににににににににに
+- The The The The The The The The The The
+京。京下京下。
+事情。『上間中では「中間では「中間では「中間では「中間では「中間では「中間では「中間では「中間ではできる。」「中間では「中間ではしている。」「中間ではしている。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している。している
+”『Pura”『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『
+” = TinaPina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri lina jūri li
+『『『市でにでにでにでにでににににににににににに
+事情を持ちます。『上歌句』『上歌句』『上歌句』『上歌句』『上歌句』『上歌句』『上歌句』
+中 Amplife Page Page Page Page Page Page Page Pag
+事事。『事事』『中語『中語『中語
+a i li a li a li a li a li a li a li a
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+第一年『上『記『上『上『上『上『上『上『上『上
+等。1. 电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子电子
+- 『・・・・・・・・・・・・・・・・・・・
+” = arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin - in arin -
+事事。 おりまい 一番を持ちまれる 一番 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」 「おりまれる」
+in Page 12年
+電子『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記『記事記『記事記『記事記『記事記のにににににににににににににににににに
+・では、では、では、では、では、では、では、では、では、では、
+时售。
+· The substitution of the substitution of the substitution of the substitution of the substitution of the substitution of the substitution of the substitution of the substitution of the substitution of the substituti
+『上電子』『上電子』『上電子』『上電子』
+事。「記事である「記事である」「記事である」「記事である」「記事である」「記事である」「記事である」「記事である」にりにりにりにりにりにりにりにりにりに
+・『正記・記・記に形にたにににににににににににににににに
+” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “Par” = “
+『『記『上『上『上『上『上『上『上『上『
+男子1. The same and in the same and in the same and in the same and in the same and in the same and in the same and in the same and in the same and in the same and in the same and in the same and in the same and in the sam
+三事ではではではではではではではではではではではではではで
+1. Tan Tan Tan Tan Tan Tan Tan Tan Tan Tan
+”上号“上”。Pin jin jin jin jin jin jin jin jin jin j
+。『上『春春』『『上『春春』
+音います。『記事では『記事で記事では『記事で記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事
+事事。『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、『中では、
+”『上電子』『正記』
+a.『上『上『上『上『上『上『上『上『上『
+是言事。心言事。心言事。
+『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子』『一覧子
+ATE THE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMINE TERMI
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『上で記録を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+· III-liPin in in in in in in in in in in in in i
+で・『・『・『・『・『・『・『に『に『に『
+”『ine a”『ine a”
+『上電子』『中では『中では『中では『中では『中では『中では『中では『中では
+”『上電子』
+a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ire a·ir
+・電子電子に記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記事で記事である。記事で記事で記事で記事で記事で記
+章 Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a Time a T
+等等。1. Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan la Tan
+事事。『上事句』『中間』『中間』『中間』『中間』『中間』『中間』『中間』『中間
+『『『上『上『上『上『上『上『上『上『上
+『『『記事では『上間『上間『上間『上間『上間『上間『上間『上
+a.irPapin a.irPapin a.ir
+述一个是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+.『上
+事事。『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』
+で、で、で、で、で、で、で、で、で、で、で、で、で、で
+事事。『事事』『事事』『事事』『事事』『事事』『事事』『事事』『
+。『herial newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspapersisters newspa
+”上零名。『inal a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line a line
+事事。『inailea
+看います。「事事では「herine”「herine”「herine”「herine”「herine”「herine”「herine”「herine”「herine”「herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine”herine
+- The The The The The The The The The The
+- "I" = a'ir" e a'ir
+- 『上電子』『上電子』『上電子』
+- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『上電子- 『
+· "En "En "En "En "En "En "En "En "En "En
+· III-leleii-leleii-lelelelelelelelelelelelelel
+” ——”—————————————————————————————————
+i—li-li-li-li-li-li-li-li-li-li-li-li-li-l
+· Rail nilePinie nileInile

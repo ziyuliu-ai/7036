@@ -1,1051 +1,142 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-ACCESS KEY TO OUR REPORTS ON BLOOMBERG: CMBR 
- 
-China Airline Sector 
- 
-Hanbo Xu 
-(852) 3761 8725 
-xuhanbo@cmbi.com.hk  
- 
-Wenjie Ding, PhD 
-(852) 3900 0856 
-dingwenjie@cmbi.com.hk 
- 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-87,353 
-Avg 3 mths t/o (RMB mn) 
-602.73 
-52w High/Low (RMB)   
-12.22/6.31 
-Total Issued Shares (mn) 
-9,962 (A) 
-4,563 (H) 
-Source: Bloomberg 
- 
-Shareholding Structure 
-China National Aviation 
-Holding Corporation Limited 
-51.69% 
-Cathay Pacific 
-18.13% 
-Source: HKEx 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
--11.9% 
--4.0%
-3-mth 
--31.3% 
--23.6%
-6-mth 
--15.9% 
--14.1%
-Source: Bloomberg 
- 
-12-mth Price Performance 
- 
-Source: Bloomberg 
- 
-Auditor: Deloitte 
- 
-Related Reports 
-1. 
-“9M19 revenue in line; cautiously 
-optimistic 4Q19 outlook” – 1 Nov 
-2019 
-2. 
-“Expect demand to recover in 
-2H19” – 30 Aug 2019 
-0
-2
-4
-6
-8
-10
-12
-14
-Apr-19
-Jul-19
-Oct-19
-Jan-20
-601111.SH
-000300.SH (rebased)
-(RMB)
-HOLD (Down) 
-Target Price 
-RMB6.30 
-(Previous TP 
-RMB10.40) 
-Up/Downside 
-  -6.3% 
-Current Price 
-RMB6.73 
-1 
-     3 Apr 2020 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-The Company’s 2019 annual results was in line with our and consensus 
-estimates. Since the Company has the highest proportion of international routes, 
-we expect net loss for FY20E to be RMB 1,912mn, and BVPS to decrease to 
-RMB 6.30. Based on 1.0x P/B, we lower TP to RMB 6.30. The stock is currently 
-trading at 1.1x 2020E P/B, lower than historical average. Downgrade to HOLD. 
- 2019 annual results in line. The Company announced 2019 annual results. 
-RPK increased 5.7% YoY, lower than guidance. Passenger load factor 
-increased 0.42ppt to 81.02%. Passenger yield decreased 2.2% YoY to RMB 
-0.53 per RPK. Revenue decreased 0.5% YoY to RMB 140.2bn, in line with 
-our and consensus estimates. Impacted by the adoption of IFRS 16, interest 
-expenses increased 69.8% YoY to RMB 4.9bn. As a result, net profit 
-attributable decreased 12.7% YoY to RMB 6.4bn, in line. The Board 
-proposed cash dividend of RMB 0.04 per share for FY19. 
- Demand recovery faces great uncertainties. According to the Ministry of 
-Transport, on 31 Mar, civil aviation carried 487,600 passengers, less than 30% 
-of the same day last year. Due to insufficient air travel demand, passenger 
-load and yield both dropped. Looking forward, listed airlines generally expect 
-domestic demand to resume steady growth around May or Jun, and that 
-international demand to be more uncertain. Due to the uncertainty of 
-demand recovery, listed airlines did not give 2020E guidance. We assume: 
-domestic RPK growth in 1/2/3/4Q 20E is -50%/-5%/5%/10% YoY, 
-respectively; international and regional RPK growth in 2020E is -50% YoY; 
-passenger load factor decreases 10ppt YoY; passenger yield decreases 
-RMB 0.1 YoY. 
- The pandemic has the greatest impact on Air China. For the full year of 2019, 
-international RPK of Air China / China Eastern Airlines / China Southern Airlines 
-contributed 42.4% / 33.3% / 30.3% of total RPK. In Jan 2020, international RPK 
-of AC / CEA / CSA changed by -1.9% / 7.6% / 3.8% YoY, respectively. Since Air 
-China has the highest proportion of international routes, we believe that the 
-pandemic has the greatest impact on Air China. 
- Valuation. After oil price tumbled in 1Q20, we expect oil expenses to 
-decrease 48.3% YoY to RMB 18.6bn. We expect net loss for FY20E to be 
-RMB 1,912mn, and BVPS to decrease to RMB 6.30. Based on 1.0x P/B, we 
-lower TP to RMB 6.30. The stock is currently trading at 1.1x 2020E P/B, 
-lower than historical average. Downgrade to HOLD. 
- 
-Earnings Summary 
-(YE 31 Dec) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Traffic revenue (RMB mn) 
-131,836  
-130,257  
-82,811  
-88,354  
-94,831  
-YoY growth (%) 
-14.3  
-(1.2) 
-(36.4) 
-6.7  
-7.3  
-Net income (RMB mn) 
-7,351  
-6,420  
-(1,912) 
-360  
-3,021  
-EPS (RMB) 
-0.54  
-0.47  
-(0.13) 
-0.02  
-0.21  
-YoY growth (%) 
-(0.5) 
-(12.7) 
-(128.2) 
-(118.8) 
-738.5  
-Consensus EPS (RMB) 
-N/A 
-N/A 
-(0.12) 
-0.61 
-0.46 
-P/E (x) 
-12.6  
-14.4  
-(51.1) 
-271.3  
-32.4  
-P/B (x) 
-1.0  
-1.0  
-1.1  
-1.1  
-1.0  
-Yield (%) 
-1.5  
-0.7  
-0.0  
-0.0  
-0.3  
-ROE (%) 
-8.2  
-6.9  
-(2.1) 
-0.4  
-3.2  
-Net gearing (%) 
-89  
-129  
-93  
-91  
-84  
-Source: Company data, Bloomberg, CMBIS estimates 
- 
-Air China-A (601111 CH) 
-Winter is coming 
- 
-3 Apr 2020 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
-Figure 1: 2019 results 
-RMB mn 
-2018 
-2018 
-YoY 
-Operating revenue 
-140,240 
-140,883 
--0.5% 
-Traffic revenue 
-130,257 
-131,836 
--1.2% 
-Passenger 
-124,525 
-120,430 
-3.4% 
-Cargo and mail 
-5,732 
-11,406 
--49.7% 
-Other operating revenue 
-9,983 
-9,048 
-10.3% 
-  
-  
-  
- 
-Operating expenses 
-(125,598) 
-(126,537) 
--0.7% 
-Jet fuel costs 
-(35,965) 
-(38,481) 
--6.5% 
-Lease charges 
-(966) 
-(7,166) 
--86.5% 
-Flight personnel costs 
-(25,474) 
-(24,450) 
-4.2% 
-Depreciation & amortization 
-(21,279) 
-(14,504) 
-46.7% 
-Other operating expenses 
-(41,914) 
-(41,936) 
--0.1% 
-  
-  
-  
- 
-Other net income 
-0 
-0 
-NA 
-EBIT 
-14,642 
-14,346 
-2.1% 
-  
-  
-  
- 
-Exchange gain/(loss) 
-(1,211) 
-(2,377) 
--49.0% 
-Other non-operating profit/(loss) 
-(4,310) 
-(1,993) 
-116.3% 
-Pre-tax profit 
-9,120 
-9,977 
--8.6% 
-  
-  
-  
- 
-Income tax 
-(1,856) 
-(1,762) 
-5.4% 
-Minority interests 
-(843) 
-(864) 
--2.4% 
-Net profit 
-6,420 
-7,351 
--12.7% 
-Source: Company data, CMBIS 
- 
-Figure 2: Earnings revision 
-  
-New 
-Old 
-Diff 
-RMB mn 
-FY20E 
-FY21E 
-FY20E 
-FY21E 
-FY20E 
-FY21E 
-Traffic revenue 
-82,811  
-88,354  
-140,567  
-140,094  
--41.1% 
--36.9% 
-Passenger 
-77,910  
-84,191  
-129,695  
-129,890  
--39.9% 
--35.2% 
-Cargo and mail 
-4,901  
-4,164  
-10,872  
-10,205  
--54.9% 
--59.2% 
-Total operating revenue 
-93,792  
-100,434  
-145,593  
-145,170  
--35.6% 
--30.8% 
-EBITDAR 
-20,449  
-23,168  
-41,224  
-39,499  
--50.4% 
--41.3% 
-Net profit 
-(1,912) 
-360  
-9,757  
-7,616  
--119.6% 
--95.3% 
-Source: Company data, CMBIS estimates 
- 
- 
- 
- 
-eXdYvYpZhYmViYdUzWrRqM7N8Q6MoMqQpNoOlOnNmQlOnNpQaQqQpQxNoOsPNZrMsQ
-3 Apr 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-3 
-Financial Summary 
-Income statement 
- 
- 
- 
- 
-  Cash flow summary 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY18A FY19A FY20E FY21E FY22E  YE 31 Dec (RMB mn) 
-FY18A FY19A FY20E FY21E FY22E 
-Operating revenue 
-140,883 
-140,240 
-93,792 
-100,434 
-108,118  Pre-tax profit 
-9,977 
-9,120 
-(2,163) 
-512 
-4,292 
-Traffic revenue 
-131,836 
-130,257 
-82,811 
-88,354 
-94,831  Depreciation and amortization 
- 14,358 
- 21,279 
- 16,581 
- 18,120 
- 19,441 
-Passenger 
-120,430 
-124,525 
-77,910 
-84,191 
-91,079  Other adjustments 
- 3,599 
- 5,562 
- 5,119 
- 4,098 
- 4,016 
-Cargo and mail 
-11,406 
-5,732 
-4,901 
-4,164 
-3,752  Changes in working capital 
- 6,749 
- 1,934 
- 2,031 
- 2,132 
- 2,239 
-Other operating revenue 
-9,048 
-9,983 
-10,981 
-12,080 
-13,288  Taxation and others 
- (6,000) 
- (6,728) 
- (5,520) 
- (4,602) 
- (5,290) 
- 
- 
- 
- 
- 
-  Operating activities 
- 28,683 
- 31,168 
- 16,048 
- 20,259 
- 24,697 
-Operating expenses 
- (126,537)  (125,598) 
- (90,911) 
- (95,899) 
- (99,885)   
- 
- 
- 
- 
- 
-Jet fuel costs 
- (38,481) 
- (35,965) 
- (18,611) 
- (24,344) 
- (25,153)  Capital expenditure 
- (9,139)  (24,107)  (25,000)  (20,000)  (20,000) 
-Lease charges 
- (7,166) 
- (966) 
- (511) 
- (38) 
- (39)  Other investing activities 
- 189 
- 556 
- 584 
- 613 
- 644 
-Flight personnel costs 
- (24,450) 
- (25,474) 
- (21,494) 
- (21,632) 
- (22,385)  Investing activities 
- (8,950)  (23,551)  (24,416)  (19,387)  (19,356) 
-Depreciation & amortization 
- (14,504) 
- (21,279) 
- (16,581) 
- (18,120) 
- (19,441)   
- 
- 
- 
- 
- 
-Other operating expenses 
- (41,936) 
- (41,914) 
- (33,713) 
- (31,765) 
- (32,867)  Changes in borrowings 
- (7,929) 
- 44,023 
- (6,591) 
- (4,866) 
- (3,592) 
- 
- 
- 
- 
- 
-  Dividends paid 
- (1,873) 
- (1,500) 
- (645) 
- - 
- (36) 
-Other net income 
- - 
- - 
- - 
- - 
- -  Others 
- (8,845) 
- - 
- - 
- - 
- - 
-EBIT 
-14,346 
-14,642 
-2,882 
-4,535 
-8,233  Financing activities 
- (18,647) 
- 42,523 
- (7,236) 
- (4,866) 
- (3,628) 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
-Finance expenses, net 
-(2,742) 
-(4,786) 
-(5,520) 
-(4,498) 
-(4,417)  Net change in cash 
- 1,086 
- 50,140  (15,605) 
- (3,994) 
- 1,713 
-Exchange gain/(loss) 
-(2,377) 
-(1,211) 
-0 
-0 
-0  Cash at the beginning of the year 
- 5,563 
- 6,763 
- 56,903 
- 41,298 
- 37,305 
-Other non-operating profit/(loss) 
-749 
-475 
-475 
-475 
-475  Exchange difference 
- 114 
- - 
- - 
- - 
- - 
-Pre-tax profit 
-9,977 
-9,120 
-(2,163) 
-512 
-4,292  Cash at the end of the year 
- 6,763 
- 56,903 
- 41,298 
- 37,305 
- 39,017 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
-Income tax 
- (1,762) 
- (1,856) 
- - 
- (104) 
- (874)   
- 
- 
- 
- 
- 
-Minority interests 
- (864) 
- (843) 
- 251 
- (47) 
- (397)   
- 
- 
- 
- 
- 
-Net profit 
-7,351 
-6,420 
-(1,912) 
-360 
-3,021   
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY18A FY19A FY20E FY21E FY22E  YE 31 Dec 
-FY18A FY19A FY20E FY21E FY22E 
-Non-current assets 
- 219,931 
- 269,390 
- 275,134 
- 280,321 
- 283,183  Operating metrics 
- 
- 
- 
- 
- 
-Property, plant and equipment 
- 171,663 
- 102,158 
- 123,408 
- 128,119 
- 130,507  ASK YoY (%) 
- 10.4 
- 5.2 
- -16.2 
- 7.4 
- 7.4 
-incl. Construction in progress 
- 10,876 
- 10,568 
- 10,711 
- 9,359 
- 8,886  RPK YoY (%) 
- 9.7 
- 5.7 
- -26.1 
- 7.2 
- 7.2 
-Other non-current assets 
- 48,268 
- 167,231 
- 151,726 
- 152,202 
- 152,676  Passenger load factor (%) 
- 80.6 
- 81.0 
- 71.5 
- 71.3 
- 71.2 
-Current assets 
- 23,726 
- 24,817 
- 57,180 
- 53,186 
- 54,899  Passenger yield (RMB cents) 
- 54.6 
- 53.4 
- 45.2 
- 45.6 
- 46.0 
-Cash and cash equivalents 
- 6,763 
- 8,935 
- 41,298 
- 37,305 
- 39,017  Passenger revenue YoY (%) 
- 14.6 
- 3.4 
- -37.4 
- 8.1 
- 8.2 
-Other current assets 
- 16,963 
- 15,882 
- 15,882 
- 15,882 
- 15,882  Cargo revenue YoY (%) 
- 11.2 
- -49.7 
- -14.5 
- -15.0 
- -9.9 
-Total assets 
- 243,657 
- 294,206 
- 332,314 
- 333,507 
- 338,081   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  Operating margin 
-10.2 
-10.4 
-3.1 
-4.5 
-7.6 
-Current liabilities 
- 72,540 
- 77,973 
- 81,570 
- 81,865 
- 82,434  EBITDAR margin 
- 26.1 
- 26.6 
- 21.8 
- 23.1 
- 26.1 
-Borrowings 
- 27,195 
- 22,730 
- 21,658 
- 20,867 
- 20,283  Net profit margin 
- 5.2 
- 4.6 
- -2.0 
- 0.4 
- 2.8 
-Lease liabilities 
- 7,126 
- 13,862 
- 18,307 
- 17,824 
- 17,468   
- 
- 
- 
- 
- 
-Other current liabilities 
- 38,219 
- 41,381 
- 41,605 
- 43,174 
- 44,683  B/S ratios (%) 
- 
- 
- 
- 
- 
-Non-current liabilities 
- 70,619 
- 114,904 
- 151,487 
- 152,034 
- 153,091  Total debt / Total equity 
- 95.3 
- 137.9 
- 134.2 
- 128.8 
- 121.6 
-Borrowings 
- 15,585 
- 16,599 
- 15,816 
- 15,238 
- 14,812  Net debt / Total equity 
- 88.6 
- 129.1 
- 92.6 
- 91.4 
- 83.6 
-Lease liabilities 
- 45,848 
- 86,586 
- 117,979 
- 114,965 
- 112,740   
- 
- 
- 
- 
- 
-Other non-current liabilities 
- 9,186 
- 11,719 
- 17,692 
- 21,831 
- 25,540  Returns (%) 
- 
- 
- 
- 
- 
-Total liabilities 
- 143,159 
- 192,877 
- 233,057 
- 233,899 
- 235,525  ROE 
- 8.2 
- 6.9 
- -2.1 
- 0.4 
- 3.2 
- 
- 
- 
- 
- 
-  ROA 
- 3.1 
- 2.4 
- -0.6 
- 0.1 
- 0.9 
-Share capital 
- 11,477 
- 11,477 
- 11,477 
- 11,477 
- 11,477   
- 
- 
- 
- 
- 
-Reserves 
- 81,680 
- 81,981 
- 80,070 
- 80,394 
- 83,113  Per share (RMB) 
- 
- 
- 
- 
- 
-Shareholders' Equity 
- 93,157 
- 93,458 
- 91,547 
- 91,871 
- 94,590  EPS 
- 0.54 
- 0.47 
- -0.13 
- 0.02 
- 0.21 
-Non-controlling interests 
- 7,341 
- 7,871 
- 7,710 
- 7,737 
- 7,966  DPS 
- 0.10 
- 0.04 
- - 
- 0.00 
- 0.02 
-Total equity 
- 100,498 
- 101,329 
- 99,256 
- 99,608 
- 102,556  BVPS 
- 6.41 
- 6.43 
- 6.30 
- 6.33 
- 6.51 
-Source: Company data, CMBIS estimates  
- 
- 
-3 Apr 2020 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the 
-securities or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the 
-subject securities or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views 
-expressed by that analyst in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong 
-Securities and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the 
-date of issue of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this 
-report; (3) serve as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong 
-Kong listed companies covered in this report.  
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  
-CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, 
-financial position or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that 
-which is contained in the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of 
-their dependence on the performance of underlying assets or other variable market factors.  CMBIS recommends that investors should independently 
-evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to make their own 
-investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS 
-or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest 
-in securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall 
-be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  
-Anyone making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and 
-reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS 
-provides the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue 
-other publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and 
-analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or 
-views in this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships 
-with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this 
-report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated 
-Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange 
-Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this research 
-report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.  
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as 
-defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports 
-produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial 
-Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, 
-as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons 
-only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+CMB International Securities | Equity Research | Company Update
+A Wholly Owned Subsidiary Of China Merchants Bank
+Air China-A (601111 CH)
+HOLD (Down)
+Winter is coming
+Target Price
+RMB6.30
+(Previous TP
+RMB10.40)
+Up/Downside
+-6.3%
+The Company's 2019 annual results was in line with our and consensus
+Current Price
+RMB6.73
+estimates. Since the Company has the highest proportion of international routes,
+we expect net loss for FY20E to be RMB 1,912mn, and BVPS to decrease to
+China Airline Sector
+RMB 6.30. Based on 1.0x P/B, we lower TP to RMB 6.30. The stock is currently
+trading at 1.1x 2020E P/B, lower than historical average. Downgrade to HOLD.
+Hanbo Xu
+■ 2019 annual results in line. The Company announced 2019 annual results.
+RPK increased 5.7% YoY, lower than guidance. Passenger load factor
+increased 0.42ppt to 81.02%. Passenger yield decreased 2.2% YoY to RMB
+Wenjie Ding, PhD
+0.53 per RPK. Revenue decreased 0.5% YoY to RMB 140.2bn, in line with
+our and consensus estimates. Impacted by the adoption of IFRS 16, interest
+expenses increased 69.8% YoY to RMB 4.9bn. As a result, net profit
+attributable decreased 12.7% YoY to RMB 6.4bn, in line. The Board
+Stock Data
+proposed cash dividend of RMB 0.04 per share for FY19.
+Demand recovery faces great uncertainties. According to the Ministry of
+Transport, on 31 Mar, civil aviation carried 487,600 passengers, less than 30%
+of the same day last year. Due to insufficient air travel demand, passenger
+load and yield both dropped. Looking forward, listed airlines generally expect
+Source: Bloomberg
+domestic demand to resume steady growth around May or Jun, and that
+Shareholding Structure
+international demand to be more uncertain. Due to the uncertainty of
+China National Aviation
+51.69%
+demand recovery, listed airlines did not give 2020E guidance. We assume:
+Holding Corporation Limited
+domestic RPK growth in 1/2/3/4Q 20E is -50%/-5%/5%/10% YoY,
+Cathay Pacific
+18.13%
+respectively; international and regional RPK growth in 2020E is -50% YoY;
+Source: HKEx
+passenger load factor decreases 10ppt YoY; passenger yield decreases
+Share Performance
+RMB 0.1 YoY.
+The pandemic has the greatest impact on Air China. For the full year of 2019,
+international RPK of Air China / China Eastern Airlines / China Southern Airlines
+contributed 42.4% / 33.3% / 30.3% of total RPK. In Jan 2020, international RPK
+Source: Bloomberg
+of AC / CEA / CSA changed by -1.9% / 7.6% / 3.8% YoY, respectively. Since Air
+China has the highest proportion of international routes, we believe that the
+12-mth Price Performance
+pandemic has the greatest impact on Air China.
+Valuation. After oil price tumbled in 1Q20, we expect oil expenses to
+decrease 48.3% YoY to RMB 18.6bn. We expect net loss for FY20E to be
+RMB 1,912mn, and BVPS to decrease to RMB 6.30. Based on 1.0x P/B, we
+lower TP to RMB 6.30. The stock is currently trading at 1.1x 2020E P/B,
+lower than historical average. Downgrade to HOLD.
+Earnings Summary
+Source: Bloomberg
+Auditor: Deloitte
+Related Reports
+"9M19 revenue in line; cautiously
+optimistic 4Q19 outlook" - 1 Nov
+"Expect demand to recover in
+Source: Company data, CMBIS
+Source: Company data, CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the
+securities or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the
+subject securities or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views
+expressed by that analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong
+Securities and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the
+date of issue of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this
+report; (3) serve as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong
+Kong listed companies covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors.
+CMBIS does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives,
+financial position or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that
+which is contained in the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of
+their dependence on the performance of underlying assets or other variable market factors. CMBIS recommends that investors should independently
+evaluate particular investments and strategies, and encourages investors to consult with a professional financial advisor in order to make their own
+investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS
+or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest
+in securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall
+be liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.
+Anyone making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and
+reliable. CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS
+provides the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue
+other publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and
+analytical methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or
+views in this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships
+with the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this
+report and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated
+Associations, etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+This report is intended for distribution in the United States to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange
+Act of 1934, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this research
+report by its acceptance hereof represents and agrees that it shall not distribute or provide this research report to any other person.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as
+defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports
+produced by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial
+Advisers Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor. Expert Investor or an Institutional Investor.
+as defined in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons
+only to the extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

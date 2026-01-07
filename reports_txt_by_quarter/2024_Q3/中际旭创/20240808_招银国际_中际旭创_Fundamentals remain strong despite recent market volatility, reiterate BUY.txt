@@ -1,1218 +1,151 @@
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> OR http://www.cmbi.com.hk 
-1 
- 
-MN 
- 
-8 Aug 2024 
-CMB International Global Markets | Equity Research | Company Update 
- 
-Innolight (300308 CH) 
- 
- 
- 
-Fundamentals remain strong despite recent 
-market volatility, reiterate BUY  
- 
-CSP3 (Three Cloud Service Providers, namely Google, Microsoft and Amazon) 
-plus Meta have announced their earnings recently. The Big Four spent an 
-aggregate of US$52.9bn in capex in 2Q24 (vs. previous Bloomberg consensus 
-est. of US$50.6bn), representing a surge of 57.1% following 30.4% growth in 
-1Q24. The growth is on an already-high base after three years of growth hikes 
-in capex (38%/34%/19% YoY) from 2020-22 and reaching a nearly historical 
-peak (US$148bn) in 2023. Like Sundar Pichai said on Alphabet’s 2Q24 earning 
-call, “the risk of under-investing is dramatically greater than the risk of over-
-investing.” The Big Four confirmed that they will continue to make heavy 
-investments to meet the rising AI compute demand.   
-A number of investors have shown concern about the recent market turmoil in 
-the tech sector, which we believe was driven primarily by 1) mixed earnings 
-results, 2) fear of a US recession, and 3) uncertainty over the upcoming US 
-presidential election. Market sell-offs intensified even further after the 
-unexpected interest rate hike by the Bank of Japan as carry trades of USD and 
-yen unwind. 
-Despite those noises, we remain positive on the longer-term AI investment 
-theme as growth of major CSPs’ capex remained intact in 2Q24. As a key 
-beneficiary, Innolight remains our top pick. We think Innolight’s current 
-valuation (22.8x/15.3x 2024/25E P/E) appears attractive amid the recent market 
-pull-back (35%+ decline since peak in July). Reiterate BUY with new TP at 
-RMB150.8. Previous target price of RMB130.71 had already accounted for the 
-effects of ex-rights and ex-dividends. 
- The impact of Nvidia’s design flaws in new chips should be limited. 
-Another concern on Innolight is Nvidia’s recent design flaws on its new GPU 
-chip (link). Investors worry this may lead to delay or even cancellations of 
-Nvidia’s products, which may negatively affect the revenue outlook of 
-Innolight’s supply chain. However, the impact should be limited in our view, 
-given that this issue has been identified in the early stage and is a solvable 
-technique difficulty. The mass production of Blackwell chips will begin in 
-4Q24 and the majority of revenue contribution is expected to be in 2025. In 
-addition, any impact of new chip shipment should be offset by an extended 
-lifecycle of H series. 
- Reiterate BUY with adjusted TP at RMB150.76. We revise up revenue 
-forecasts by 6%/11% and NP forecasts by 11%/23% for 2024/25E, on 
-stronger capex outlook of cloud companies (16%/21% increase in 2024/25E 
-capex forecasts from Feb and 5%/8% increase from May). Based on recent 
-earnings calls, hyperscalers will continue to invest in AI infrastructure 
-(39%/13% capex growth for the Big Four in 2024/25E by Bloomberg 
-consensus). As a key beneficiary, Innolight‘s strong product portfolio 
-(400G/800G/1.6T coming by 2024 year-end) is well-positioned to capitalize 
-on this AI momentum. The new TP is based on the same 30x 2024E P/E, 
-which is 9% higher than 5-year historical avg. of forward P/E (27.4x), 
-implying a PEG ratio close to 1x (vs. 32% 2024-26E EPS CAGR). Therefore, 
-we think Innolight’s current valuation (22.8x/15.3x 2024/25E P/E) looks 
-attractive. Reiterate BUY. Potential risks include: 1) intensified geopolitical 
-tensions, 2) slower-than-expected new product ramp-up progress, 3) 
-slowdown in cloud capital spending and 4) supply chain bottlenecks. 
-Target Price 
+Innolight (300308 CH)
+Fundamentals remain strong despite recent
+BUY (Maintain)
+market volatility, reiterate BUY
+Target Price
 RMB150.76
-(Previous TP 
+CSP3 (Three Cloud Service Providers, namely Google, Microsoft and Amazon)
+plus Meta have announced their earnings recently. The Big Four spent an
+(Previous TP
 RMB130.71)
-Up/Downside 
+aggregate of US$52.9bn in capex in 2Q24 (vs. previous Bloomberg consensus
+Up/Downside
 31.7%
-Current Price 
+est. of US$50.6bn), representing a surge of 57.1% following 30.4% growth in
+Current Price
 RMB114.48
-China Semiconductors 
-Lily YANG, Ph.D 
-(852) 3916 3716 
-lilyyang@cmbi.com.hk 
-Kevin ZHANG 
-(852) 3761 8727 
-kevinzhang@cmbi.com.hk 
- 
-Stock Data 
-Mkt Cap (RMB mn) 
-128,355.0
-Avg 3 mths t/o (RMB mn) 
-3,175.6
-52w High/Low (RMB) 
-157.53/60.87
-Total Issued Shares (mn) 
-1121.2
-Source: FactSet 
- 
-Shareholding Structure 
-Shandong Zhongji Investment 
-Holdings Co. 
-11.3%
-Wang Weixiu 
-6.2%
-Source: Bloomberg 
- 
-Share Performance 
-Absolute
-Relative 
-1-mth 
--19.1%
--17.9% 
-3-mth 
--12.5%
-0.1% 
-6-mth 
-28.3%
-23.4% 
-Source: FactSet 
-12-mth Price Performance 
- 
- Source: FactSet 
- 
-8 Aug 2024 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-2 
- 
-Earnings Summary 
- 
- 
- 
- 
- 
-(YE 31 Dec) 
-FY22A 
-FY23A 
-FY24E 
-FY25E 
-FY26E 
-Revenue (RMB mn) 
-9,642
-10,718 
-23,877 
-34,149 
-41,026
- YoY growth (%) 
-25.3
-11.2 
-122.8 
-43.0 
-20.1
-Gross margin (%) 
-29.3
-33.0 
-33.2 
-32.3 
-31.4
-Net profit (RMB mn) 
-1,224.0
-2,173.5 
-5,462.1 
-8,127.3 
-9,497.7
- YoY growth (%) 
-39.6
-77.6 
-151.3 
-48.8 
-16.9
-EPS (Reported) (RMB) 
-1.10
-2.00 
-5.03 
-7.48 
-8.74
-P/E (x) 
-104.1
-57.2 
-22.8 
-15.3 
-13.1
-Source: Company data, Bloomberg, CMBIGM estimates 
- 
- 
-8 Aug 2024 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-3
- 
- 
- 
-Hyperscalers and Meta’s capex adjustment 
-Figure 1: Hyperscalers and Meta’s capex 
- 
-Source: Company data, Bloomberg consensus 
-Figure 2: Hyperscalers’ and Meta’s rev. adjustment 
- 
-Source: Company data, Bloomberg consensus 
-Figure 3: Microsoft’s capex adjustment 
- 
-Source: Company data, Bloomberg consensus 
-Figure 4: Meta’s capex adjustment 
- 
-Source: Company data, Bloomberg consensus 
-Figure 5: Amazon’s capex adjustment 
- 
-Source: Company data, Bloomberg consensus 
- 
-Figure 6: Google’s capex adjustment 
- 
-Source: Company data, Bloomberg consensus 
- 
- 
-  
-0%
-5%
-10%
-15%
-20%
-0
-10
-20
-30
-40
-50
-60
-70
-Hyperscaler3 + Meta capex
-Capex % rev.
-(US$bn)
-10%
-20%
-30%
-0
-20
-40
-60
-80
-100
-120
-Hyperscaler3 cloud revenue
-YoY%
-(US$bn)
-0%
-5%
-10%
-15%
-20%
-25%
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-Previous Q est. (Feb.)
-MSFT US
-MSFT Capex % rev.
-Previous est. capex/rev.
-(US$bn)
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-0
-2
-4
-6
-8
-10
-12
-14
-Previous Q est. (Feb.)
-META US
-META Capex % rev.
-Previous est. capex/rev.
-(US$bn)
-0%
-2%
-4%
-6%
-8%
-10%
-12%
-14%
-0
-5
-10
-15
-20
-25
-Previous Q est. (Feb.)
-AMZN US
-Amazon Capex % rev.
-Previous est. capex/rev.
-(US$bn)
-0%
-5%
-10%
-15%
-20%
-0
-2
-4
-6
-8
-10
-12
-14
-16
-Previous Q est. (Feb.)
-GOOGL US
-Google Capex % rev.
-Previous est. capex/rev.
-(US$bn)
- 
- 
-8 Aug 2024 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-4
-Figure 7: 1-yr forward PE band 
- 
-Source: Company data, Bloomberg  
- 
-Figure 8: PE chart 
- 
-Source: Company data, Bloomberg  
- 
- 
-Figure 9: Earnings revisions 
- 
- 
-New 
- 
- 
-Old 
- 
- 
-Diff (%) 
- 
-RMB mn 
-FY24E 
-FY25E 
-FY26E 
-FY24E 
-FY25E 
-FY26E 
-FY24E 
-FY25E 
-FY26E 
-Revenue 
-23,877 
-34,149 
-41,026 
-22,594 
-29,657 
-31,870 
-6% 
-15% 
-29% 
-Gross profit 
-7,917 
-11,016 
-12,901 
-7,636 
-9,704 
-9,993 
-4% 
-14% 
-29% 
-Net profit 
-5,462 
-8,127 
-9,498 
-4,904 
-6,319 
-6,446 
-11% 
-29% 
-47% 
-EPS (RMB) 
-5.03 
-7.48 
-8.74 
-4.36 
-5.62 
-5.74 
-15% 
-33% 
-52% 
-Gross margin 
-33.2% 
-32.3% 
-31.4% 
-33.8% 
-32.7% 
-31.4% 
--0.6 ppt 
--0.5 ppt 
-0.1 ppt 
-Net margin 
-22.9% 
-23.8% 
-23.2% 
-21.7% 
-21.3% 
-20.2% 
-1.2 ppt 
-2.5 ppt 
-2.9 ppt 
-Source: Company data, CMBIGM estimates 
- 
-Figure 10: CMBIGM estimates vs. Bloomberg consensus 
- 
- 
-CMBIGM 
- 
-Consensus 
- 
-Diff (%) 
- 
-RMB mn 
-FY24E 
-FY25E 
-FY26E 
-FY24E 
-FY25E 
-FY26E 
-FY24E 
-FY25E 
-FY26E 
-Revenue 
-23,877  
-34,149  
-41,026  
-25,754  
-38,071  
-45,003  
--7% 
--10% 
--9% 
-Gross profit 
-7,917  
-11,016  
-12,901  
-8,616  
-12,884  
-15,195  
--8% 
--15% 
--15% 
-Net profit 
-5,462 
-8,127 
-9,498 
-5,117  
-7,661 
-9,156 
-7% 
-6% 
-4% 
-EPS (RMB) 
-5.03  
-7.48  
-8.74  
-4.93  
-7.41  
-8.64  
-2% 
-1% 
-1% 
-Gross margin 
-33.2% 
-32.3% 
-31.4% 
-33.5% 
-33.8% 
-33.8% 
--0.3 ppt 
--1.6 ppt 
--2.3 ppt 
-Net margin 
-22.9% 
-23.8% 
-23.2% 
-19.9% 
-20.1% 
-20.3% 
-3 ppt 
-3.7 ppt 
-2.8 ppt 
-Source: Company data, CMBIGM estimates, Bloomberg consensus 
-0
-10
-20
-30
-40
-50
-60
-08-19
-11-19
-02-20
-05-20
-08-20
-11-20
-02-21
-05-21
-08-21
-11-21
-02-22
-05-22
-08-22
-11-22
-02-23
-05-23
-08-23
-11-23
-1-yr Forward P/E
-Mean
-Mean+1SD
-Mean-1SD
-0
-50
-100
-150
-200
-250
-300
-350
-400
-Closing Px
-1.8x
-14.6x
-27.4x
-40.2x
-53.1x
-(RMB)
- 
- 
-8 Aug 2024 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-5
-Financial Summary 
-INCOME STATEMENT 
-2021A 
-2022A 
-2023A 
-2024E 
-2025E 
-2026E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Revenue 
-7,695 
-9,642 
-10,718 
-23,877 
-34,149 
-41,026 
-Cost of goods sold 
-(5,727) 
-(6,816) 
-(7,182) 
-(15,959) 
-(23,133) 
-(28,124) 
-Gross profit 
-1,968 
-2,826 
-3,536 
-7,917 
-11,016 
-12,901 
-Operating expenses 
-(1,005) 
-(1,499) 
-(1,042) 
-(1,651) 
-(1,709) 
-(2,002) 
-Selling expense 
-(21) 
-(63) 
-(51) 
-(118) 
-(121) 
-(137) 
-SG&A expense 
-(507) 
-(598) 
-(558) 
-(608) 
-(644) 
-(679) 
-R&D expense 
-(541) 
-(767) 
-(739) 
-(1,161) 
-(1,254) 
-(1,257) 
-Others 
-64 
-(71) 
-306 
-236 
-311 
-71 
-Operating profit 
-963 
-1,327 
-2,494 
-6,266 
-9,307 
-10,899 
-Other income 
-1 
-28 
-2 
-28 
-40 
-48 
-Other expense 
-(4) 
-(4) 
-(4) 
-(0) 
-(0) 
-(0) 
-Pre-tax profit 
-960 
-1,352 
-2,492 
-6,294 
-9,346 
-10,946 
-Income tax 
-(73) 
-(118) 
-(285) 
-(732) 
-(1,070) 
-(1,272) 
-After tax profit 
-886 
-1,234 
-2,208 
-5,562 
-8,276 
-9,674 
-Minority interest  
-10 
-10 
-34 
-100 
-149 
-177 
-Net profit 
-877 
-1,224 
-2,174 
-5,462 
-8,127 
-9,498 
-BALANCE SHEET 
-2021A 
-2022A 
-2023A 
-2024E 
-2025E 
-2026E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Current assets 
-10,022 
-9,587 
-11,319 
-18,095 
-26,200 
-35,001 
-Cash & equivalents 
-3,515 
-2,831 
-3,317 
-6,332 
-10,165 
-16,643 
-Account receivables 
-1,997 
-1,509 
-2,581 
-3,699 
-5,096 
-5,694 
-Inventories 
-3,799 
-3,888 
-4,295 
-6,549 
-9,042 
-10,375 
-Prepayment 
-72 
-64 
-59 
-138 
-197 
-237 
-Other current assets 
-638 
-1,295 
-1,067 
-1,378 
-1,700 
-2,051 
-Non-current assets 
-6,543 
-6,970 
-8,687 
-10,319 
-12,072 
-13,844 
-PP&E 
-3,152 
-3,217 
-3,948 
-4,878 
-5,804 
-6,750 
-Right-of-use assets 
-21 
-11 
-27 
-313 
-677 
-1,065 
-Deferred income tax 
-46 
-48 
-82 
-116 
-157 
-200 
-Intangibles 
-382 
-322 
-401 
-476 
-546 
-602 
-Goodwill 
-1,980 
-1,949 
-1,939 
-1,929 
-1,920 
-1,910 
-Other non-current assets 
-962 
-1,422 
-2,291 
-2,606 
-2,969 
-3,318 
-Total assets 
-16,565 
-16,557 
-20,007 
-28,414 
-38,272 
-48,845 
- 
- 
- 
- 
- 
- 
-Current liabilities 
-3,166 
-3,264 
-4,360 
-6,663 
-8,872 
-10,812 
-Short-term borrowings 
-794 
-385 
-62 
-167 
-301 
-487 
-Account payables 
-1,205 
-1,136 
-1,857 
-3,390 
-4,596 
-5,575 
-Tax payable 
-68 
-93 
-213 
-302 
-407 
-519 
-Other current liabilities 
-932 
-1,349 
-2,039 
-2,511 
-3,171 
-3,725 
-Contract liabilities 
-1 
-22 
-3 
-28 
-40 
-48 
-Accrued expenses 
-166 
-279 
-187 
-266 
-358 
-457 
-Non-current liabilities 
-1,796 
-1,224 
-872 
-1,346 
-1,618 
-1,911 
-Long-term borrowings 
-1,262 
-696 
-319 
-561 
-561 
-561 
-Bond payables 
-0  
-0  
-0  
-0  
-0  
-0  
-Deferred income 
-277 
-264 
-216 
-307 
-413 
-527 
-Other non-current liabilities 
-258 
-264 
-337 
-479 
-645 
-823 
-Total liabilities 
-4,962 
-4,488 
-5,232 
-8,009 
-10,490 
-12,722 
- 
- 
- 
- 
- 
- 
-Share capital 
-800 
-801 
-803 
-803 
-803 
-803 
-Retained earnings 
-2,861 
-3,893 
-5,870 
-10,878 
-17,969 
-25,970 
-Other reserves 
-7,828 
-7,251 
-7,589 
-8,111 
-8,249 
-8,411 
-Total shareholders equity 
-11,489 
-11,945 
-14,261 
-19,792 
-27,020 
-35,184 
-Minority interest 
-114 
-124 
-513 
-613 
-762 
-938 
-Total equity and liabilities 
-16,565 
-16,557 
-20,007 
-28,414 
-38,272 
-48,845 
-  
- 
- 
- 
-8 Aug 2024 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-6
-CASH FLOW 
-2021A 
-2022A 
-2023A 
-2024E 
-2025E 
-2026E 
-YE 31 Dec (RMB mn) 
- 
- 
- 
- 
- 
- 
-Operating 
- 
- 
- 
- 
- 
- 
-Profit before taxation 
-960 
-1,352 
-2,492 
-6,294 
-9,346 
-10,946 
-Depreciation & amortization 
-436 
-493 
-525 
-550 
-710 
-921 
-Tax paid 
-(73) 
-(118) 
-(285) 
-(732) 
-(1,070) 
-(1,272) 
-Change in working capital 
-(587) 
-291 
-(830) 
-(1,585) 
-(2,138) 
-(566) 
-Others 
-77 
-432 
-(6) 
-(156) 
-(156) 
-(132) 
-Net cash from operations 
-813 
-2,449 
-1,897 
-4,371 
-6,692 
-9,897 
- 
- 
- 
- 
- 
- 
-Investing 
- 
- 
- 
- 
- 
- 
-Capital expenditure 
-(840) 
-(792) 
-(1,704) 
-(1,708) 
-(1,982) 
-(2,198) 
-Acquisition of subsidiaries/ investments 
-(1,529) 
-(5,967) 
-(3,971) 
-0  
-0  
-0  
-Net proceeds from disposal of short-term 
-investments 
-1,109 
-5,167 
-4,435 
-0  
-0  
-0  
-Others 
-42 
-40 
-65 
-(139) 
-(93) 
-(72) 
-Net cash from investing  
-(1,219) 
-(1,553) 
-(1,176) 
-(1,846) 
-(2,076) 
-(2,270) 
- 
- 
- 
- 
- 
- 
-Financing 
- 
- 
- 
- 
- 
- 
-Dividend paid 
-(168) 
-(233) 
-(207) 
-(383) 
-(925) 
-(1,364) 
-Net borrowings 
-(259) 
-(699) 
-(884) 
-391 
-134 
-187 
-Proceeds from share issues 
-2,665 
-33 
-(109) 
-433 
-0  
-0  
-Others 
-26 
-(742) 
-884 
-22 
-22 
-22 
-Net cash from financing  
-2,264 
-(1,641) 
-(316) 
-463 
-(770) 
-(1,155) 
- 
- 
- 
- 
- 
- 
-Net change in cash 
- 
- 
- 
- 
- 
- 
-Cash at the beginning of the year 
-1,648 
-3,489 
-2,809 
-3,234 
-6,245 
-10,079 
-Exchange difference 
-(17) 
-64 
-20 
-0  
-0  
-0  
-Others 
-1,859 
-(745) 
-405 
-3,011 
-3,835 
-6,478 
-Cash at the end of the year 
-3,489 
-2,809 
-3,234 
-6,245 
-10,079 
-16,557 
-Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets. 
- 
- 
-8 Aug 2024 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-7
- 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities or issuer 
-that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer; and (2) 
-no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures 
-Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will 
-deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as an officer of any of the Hong 
-Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies covered in this report.  
-CMBIGM Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIGM 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Global Markets Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
-CMB International Global Markets Limited (“CMBIGM”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned 
-subsidiary of China Merchants Bank) 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIGM 
-does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position 
-or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the 
-report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the 
-performance of underlying assets or other variable market factors.  CMBIGM recommends that investors should independently evaluate particular investments 
-and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM 
-or its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in 
-securities or enter into any transaction.  Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be 
-liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the inform ation contained in this report.  Anyone 
-making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. 
-CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides 
-the information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIGM may issue other 
-publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical 
-methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in 
-this report. 
-CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with 
-the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report 
-and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM. 
-Additional information on recommended securities is available upon request. 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, 
-etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.  
-For recipients of this document in the United States 
-CMBIGM is not a registered broker-dealer in the United States.  As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports 
-and the independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or qualified 
-as a research analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA Rules 
-intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is 
-intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 
-1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report 
-by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to 
-effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.  
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined 
-in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its 
-respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations. 
-Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities 
-and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law. 
-Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+1Q24. The growth is on an already-high base after three years of growth hikes
+China Semiconductors
+in capex (38%/34%/19% YoY) from 2020-22 and reaching a nearly historical
+peak (US$148bn) in 2023. Like Sundar Pichai said on Alphabet's 2Q24 earning
+Lily YANG, Ph.D
+call, "the risk of under-investing is dramatically greater than the risk of over-
+investing." The Big Four confirmed that they will continue to make heavy
+investments to meet the rising AI compute demand.
+Kevin ZHANG
+A number of investors have shown concern about the recent market turmoil in
+the tech sector, which we believe was driven primarily by 1) mixed earnings
+results, 2) fear of a US recession, and 3) uncertainty over the upcoming US
+Stock Data
+presidential election. Market sell-offs intensified even further after the
+unexpected interest rate hike by the Bank of Japan as carry trades of USD and
+ven unwind.
+Despite those noises, we remain positive on the longer-term AI investment
+theme as growth of major CSPs' capex remained intact in 2Q24. As a key
+beneficiary, Innolight remains our top pick. We think Innolight's current
+Shareholding Structure
+valuation (22.8x/15.3x 2024/25E P/E) appears attractive amid the recent market
+pull-back (35%+ decline since peak in July). Reiterate BUY with new TP at
+RMB150.8. Previous target price of RMB130.71 had already accounted for the
+effects of ex-rights and ex-dividends.
+Share Performance
+The impact of Nvidia's design flaws in new chips should be limited.
+Another concern on Innolight is Nvidia's recent design flaws on its new GPU
+chip (link). Investors worry this may lead to delay or even cancellations of
+Nvidia's products, which may negatively affect the revenue outlook of
+Source: FactSet
+Innolight's supply chain. However, the impact should be limited in our view,
+12-mth Price Performance
+given that this issue has been identified in the early stage and is a solvable
+technique difficulty. The mass production of Blackwell chips will begin in
+4Q24 and the majority of revenue contribution is expected to be in 2025. In
+addition, any impact of new chip shipment should be offset by an extended
+lifecycle of H series.
+Reiterate BUY with adjusted TP at RMB150.76. We revise up revenue
+forecasts by 6%/11% and NP forecasts by 11%/23% for 2024/25E, on
+Source: FactSet
+stronger capex outlook of cloud companies (16%/21% increase in 2024/25E
+capex forecasts from Feb and 5%/8% increase from May). Based on recent
+earnings calls, hyperscalers will continue to invest in AI infrastructure
+(39%/13% capex growth for the Big Four in 2024/25E by Bloomberg
+consensus). As a key beneficiary, Innolight's strong product portfolio
+(400G/800G/1.6T coming by 2024 year-end) is well-positioned to capitalize
+on this AI momentum. The new TP is based on the same 30x 2024E P/E,
+which is 9% higher than 5-year historical avg. of forward P/E (27.4x),
+implying a PEG ratio close to 1x (vs. 32% 2024-26E EPS CAGR). Therefore,
+we think Innolight's current valuation (22.8x/15.3x 2024/25E P/E) looks
+attractive. Reiterate BUY. Potential risks include: 1) intensified geopolitical
+tensions, 2) slower-than-expected new product ramp-up progress, 3)
+slowdown in cloud capital spending and 4) supply chain bottlenecks.
+Hyperscalers and Meta's capex adjustment
+Source: Company data, Bloomberg consensus
+Source: Company data, Bloomberg consensus
+Source: Company data, Bloomberg consensus
+Source: Company data, Bloomberg consensus
+Source: Company data, Bloomberg consensus
+Source: Company data, Bloomberg consensus
+Source: Company data, Bloomberg
+Source: Company data, CMBIGM estimates
+Source: Company data, CMBIGM estimates, Bloomberg consensus
+Financial Summary
+Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets.
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities or issuer
+that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer; and (2)
+no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
+Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will
+deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as an officer of any of the Hong
+Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies covered in this report.
+CMBIGM Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIGM
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Global Markets Limited
+CMB International Global Markets Limited ("CMBIGM") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
+subsidiary of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIGM
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the
+report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIGM recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM
+or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides
+the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIGM may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report
+and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc..) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.
+For recipients of this document in the United States
+CMBIGM is not a registered broker-dealer in the United States. As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports
+and the independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified
+as a research analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules
+intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is
+intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of
+1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report
+by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to
+effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined
+in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its
+respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations.
+Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities
+and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law.
+Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

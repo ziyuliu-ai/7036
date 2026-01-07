@@ -1,197 +1,152 @@
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-2 May 2024
-CMB International Global Markets  Equity Research  Company Update
 WuXi AppTec (603259 CH)
 Steady 1Q performance amid challenging environment
-WuXi AppTec reported 1Q24 revenue of RMB7982mn down 110% YoY
-attributable recurring net profit of RMB2034mn up 73% YoY and attributable
-adjusted non-IFRS net profit of RMB1913mn down 183% YoY 1Q24 revenue
-year estimates both moderately lower than historical ranges Non-IFRS gross
-profit margin deteriorated by 23ppt to 387% while non-IFRS net profit margin
-decreased by 21ppt to 240% in 1Q24 due to the decline in CDMO revenue
-its Testing and Biology segments and escalating costs in its ATU segment
-Non-COVID DM revenue (in WuXi Chemistry segment) showed positive
-growth in 1Q24 up 12% YoY Despite a challenging start of 2024 mgt has
-upheld its revenue guidance of RMB383-405bn for 2024 projecting growth of
-Furthermore mgt reiterated that the adjusted non-IFRS net profit margin would
-be align with the 2023 level
- TIDES business continued to serve as a significant growth driver In
-1Q24 TIDES revenue delivered impressive growth of 431% YoY with
-substantial 110% YoY growth in backlog Both revenue and backlog
-maintained a strong momentum from a high base in 2023 Mgt expects 60%
-revenue growth for the TIDES business in 2024 Moreover the additional
-2024 enhancing the total capacity to 32k liters Plans are in progress to
-expand new peptide production capacity in Taixing Jiangsu to meet robust
-customer demand
- Moderate recovery in clinical CROSMO business In 1Q24 revenue
-from the Clinical CROSMO segment grew by 110% YoY with SMO
-revenue increasing by 264% YoY The growth aligns with the upward
-and 1Q24 The demand in Chinas clinical stage pharmaceutical RD is
-expected to lead the recovery mirroring the recovery pattern observed in
-overseas markets since1Q23
- Solid customer relationships amid uncertainty WiXi AppTec added
-over 300 new clients in 1Q24 consistent with the level seen in 1Q23
-reached RMB27bn (34% of total revenue) indicating a YoY increase of
-that the draft of the Biosecure Act has started impacting WuXi ATU in
-acquiring new clients and orders in the US market
- Maintain BUY To factor in the uncertainties from geopolitical risks we cut
-our TP from RMB6753 to RMB5323 (based on a 10-year DCF model with
-WACC of 1073% and terminal growth of 20%) We forecast revenue to
-grow by -124% 105% 164% YoY in 2024E 25E 26E respectively
+BUY (Maintain)
+Target Price
+RMB53.23
+WuXi AppTec reported 1Q24 revenue of RMB7,982mn, down 11.0% YoY,
 (Previous TP
-UpDownside
-Jill WU CFA
-Benchen HUANG CFA
-Mkt Cap (RMB mn)
-Avg 3 mths to (RMB mn)
-52w HighLow (RMB)
-Total Issued Shares (mn)
-Source FactSet
+RMB67.53)
+attributable recurring net profit of RMB2,034mn, up 7.3% YoY, and attributable
+Up/Downside
+21.9%
+adjusted non-IFRS net profit of RMB1,913mn, down 18.3% YoY. 1Q24 revenue
+Current Price
+RMB43.67
+/ adjusted Non-IFRS net income accounted for 20.4%/ 16.8% of our 2024 full-
+China Healthcare
+year estimates, both moderately lower than historical ranges. Non-IFRS gross
+profit margin deteriorated by 2.3ppt to 38.7% while non-IFRS net profit margin
+Jill WU, CFA
+decreased by 2.1ppt to 24.0% in 1Q24, due to the decline in CDMO revenue
+from COVID commercial projects, pricing erosion, ramp-ups of new facilities in
+its Testing and Biology segments, and escalating costs in its ATU segment.
+Benchen HUANG, CFA
+Non-COVID D&M revenue (in WuXi Chemistry segment) showed positive
+growth in 1Q24, up 1.2% YoY. Despite a challenging start of 2024, mgt. has
+upheld its revenue guidance of RMB38.3-40.5bn for 2024, projecting growth of
+Stock Data
+2.7% to 8.6% YoY, excluding revenues from COVID-19 commercial projects.
+Furthermore, mgt. reiterated that the adjusted non-IFRS net profit margin would
+be align with the 2023 level.
+TIDES business continued to serve as a significant growth driver. In
+Source: FactSet
+1Q24, TIDES revenue delivered impressive growth of 43.1% YoY with
 Shareholding Structure
-Ge Li and concerted parties
-Source Company
-Source FactSet
+substantial 110% YoY growth in backlog. Both revenue and backlog
+maintained a strong momentum from a high base in 2023. Mgt. expects 60%
+revenue growth for the TIDES business in 2024. Moreover, the additional
+Source: Company
+22k-liter solid-phase peptide synthesizers commenced operation in Jan
+Share Performance
+2024, enhancing the total capacity to 32k liters. Plans are in progress to
+Absolute
+Relative
+expand new peptide production capacity in Taixing, Jiangsu, to meet robust
+1-mth
+-5.4%
+-7.4%
+3-mth
+-19.4%
+-27.6%
+customer demand.
+-49.5%
+6-mth
+-50.9%
+Moderate recovery in clinical CRO&SMO business. In 1Q24, revenue
+Source: FactSet
+from the Clinical CRO&SMO segment grew by 11.0% YoY, with SMO
 12-mth Price Performance
-Source FactSet
-(YE 31 Dec)
-Revenue (RMB mn)
-YoY growth (%)
-Adjusted net profit (RMB mn)
-YoY growth (%)
-EPS (Adjusted) (RMB)
-Consensus EPS (RMB)
-PE (x) (adjusted)
-Source Company data Bloomberg CMBIGM estimates
-2 May 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 1 Earnings revision
-Non-IFRS net profit
-Non-IFRS EPS (RMB)
-Source Company data CMBIGM estimates
-Figure 2 CMBIGM estimates vs consensus
-Non-IFRS net profit
-Non-IFRS EPS (RMB)
-Source Company data Bloomberg CMBIGM estimates
-2 May 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Figure 3 Valuation on risk-adjusted DCF valuation
-DCF Valuation (in Rmb mn)
-EBIT(1-tax rate)
-- Change in working capital
-Target Debt to Asset ratio
-Effective Corporate Tax Rate
-PV of terminal value (RMB mn)
-Total PV (RMB mn)
-Net debt (RMB mn)
-Equity value (RMB mn)
- of shares (mn)
-Price per share (RMB per share)
-Source CMBIGM estimates
-Figure 4 Sensitivity analysis of DCF model
-Source CMBIGM estimates
-2 May 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-RD expense
-Gainloss on financial assets at FVTPL
-Investment gainloss
-Pre-tax profit
-YE 31 Dec (RMB mn)
-Cash  equivalents
-Financial assets at FVTPL
-Non-current assets
-Investment in JVs  assos
-Financial assets at FVTPL
-Other non-current assets
-Short-term borrowings
-Other current liabilities
-Non-current liabilities
-Long-term borrowings
-Obligations under finance leases
-Other non-current liabilities
-Total shareholders equity
-Total equity and liabilities
-2 May 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-YE 31 Dec (RMB mn)
-Profit before taxation
-Depreciation  amortization
-Change in working capital
-Net cash from operations
-Acquisition of subsidiaries investments
-Net proceeds from disposal of short-term
-Net cash from investing
-Proceeds from share issues
-Net cash from financing
-Cash at the beginning of the year
-Cash at the end of the year
-Adj net profit
-Adj net profit margin
-Return on equity (ROE)
-GEARINGLIQUIDITYACTIVITIES
-Net debt to equity (x)
-Current ratio (x)
-Receivable turnover days
-Inventory turnover days
-Payable turnover days
-PE (adjusted)
-Div yield (%)
-Source Company data CMBIGM estimates Note The calculation of net cash includes financial assets
-2 May 2024
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE
-Disclosures  Disclaimers
+revenue increasing by 26.4% YoY. The growth aligns with the upward
+and 1Q24. The demand in China's clinical stage pharmaceutical R&D is
+expected to lead the recovery, mirroring the recovery pattern observed in
+overseas markets since1Q23.
+Solid customer relationships amid uncertainty. WiXi AppTec added
+over 300 new clients in 1Q24, consistent with the level seen in 1Q23.
+Source: FactSet
+Encouragingly, revenue from global Top 20 pharmaceutical companies
+reached RMB2.7bn (~34% of total revenue), indicating a YoY increase of
+4.2% excluding COVID-19 commercial projects. However, mgt. admitted
+that the draft of the Biosecure Act has started impacting WuXi ATU in
+acquiring new clients and orders in the US market.
+Maintain BUY. To factor in the uncertainties from geopolitical risks, we cut
+our TP from RMB67.53 to RMB53.23 (based on a 10-year DCF model with
+WACC of 10.73% and terminal growth of 2.0%). We forecast revenue to
+grow by -5.6%/ +10.0%/ +12.5% YoY and adjusted non-IFRS net income to
+grow by -12.4%/ +10.5%/ +16.4% YoY in 2024E/ 25E/ 26E, respectively.
+Earnings Summary
+Figure 1: Earnings revision
+Source: Company data, Bloomberg, CMBIGM estimates
+Source: CMBIGM estimates
+Source: CMBIGM estimates
+Financial Summary
+Source: Company data, CMBIGM estimates. Note: The calculation of net cash includes financial assets.
+Disclosures & Disclaimers
 Analyst Certification
-The research analyst who is primary responsible for the content of this research report in whole or in part certifies that with respect to the securities or issuer
-that the analyst covered in this report (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer and (2)
-Besides the analyst confirms that neither the analyst nor hisher associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
-Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report (2) will
-deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report (3) serve as an officer of any of the Hong
- Stock with potential return of over 15% over next 12 months
- Stock with potential return of 15% to -10% over next 12 months
- Stock with potential loss of over 10% over next 12 months
- Stock is not rated by CMBIGM
-OUTPERFORM                     Industry expected to outperform the relevant broad market benchmark over next 12 months
-MARKET-PERFORM             Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
-UNDERPERFORM                 Industry expected to underperform the relevant broad market benchmark over next 12 months
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities or issuer
+that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities or issuer; and (2)
+no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities and Futures
+Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue of this report; (2) will
+deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve as an officer of any of the Hong
+Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies covered in this report.
+CMBIGM Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIGM
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
 CMB International Global Markets Limited
-Address 45F Champion Tower 3 Garden Road Hong Kong Tel (852) 3900 0888   Fax (852) 3900 0800
-CMB International Global Markets Limited (CMBIGM) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
+CMB International Global Markets Limited ("CMBIGM") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned
 subsidiary of China Merchants Bank)
 Important Disclosures
-There are risks involved in transacting in any securities  The information contained in this report may not be suitable for the purposes of all investors  CMBIGM
-does not provide individually tailored investment advice This report has been prepared without regard to the individual investment objectives financial position
-or special requirements  Past performance has no indication of future performance and actual events may differ materially from that which is contained in the
-report  The value of and returns from any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
-and strategies and encourages investors to consult with a professional financial advisor in order to make their own investment decisions
-This report or any information contained herein have been prepared by the CMBIGM solely for the purpose of supplying information to the clients of CMBIGM
-or its affiliate(s) to whom it is distributed  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
-securities or enter into any transaction  Neither CMBIGM nor any of its affiliates shareholders agents consultants directors officers or employees shall be
-liable for any loss damage or expense whatsoever whether direct or consequential incurred in relying on the information contained in this report  Anyone
-making use of the information contained in this report does so entirely at their own risk
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable
-the information advices and forecasts on an AS IS basis  The information and contents are subject to change without notice CMBIGM may issue other
-publications having information and or conclusions different from this report  These publications reflect different assumption point-of-view and analytical
-this report
-on behalf of its clients from time to time Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
-and CMBIGM will not assume any responsibility in respect thereof This report is for the use of intended recipients only and this publication may not be
-reproduced reprinted sold redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIGM
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in the
+report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIGM recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIGM, solely for the purpose of supplying information to the clients of CMBIGM
+or its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIGM nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIGM has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIGM provides
+the information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIGM may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIGM may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIGM may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIGM does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIGM may have a conflict of interest that could affect the objectivity of this report
+and CMBIGM will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIGM.
+Additional information on recommended securities is available upon request.
 For recipients of this document in the United Kingdom
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005
-(as amended from time to time)(The Order) or (II) are persons falling within Article 49(2) (a) to (d) (High Net Worth Companies Unincorporated Associations
-etc) of the Order and may not be provided to any other person without the prior written consent of CMBIGM
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIGM.
 For recipients of this document in the United States
-CMBIGM is not a registered broker-dealer in the United States  As a result CMBIGM is not subject to US rules regarding the preparation of research reports
-and the independence of research analysts  The research analyst who is primary responsible for the content of this research report is not registered or qualified
-as a research analyst with the Financial Industry Regulatory Authority (FINRA)  The analyst is not subject to applicable restrictions under FINRA Rules
-intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report This report is
-intended for distribution in the United States solely to major US institutional investors as defined in Rule 15a-6 under the US Securities Exchange Act of
-1934 as amended and may not be furnished to any other person in the United States Each major US institutional investor that receives a copy of this report
-by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person Any US recipient of this report wishing to
-effect any transaction to buy or sell securities based on the information provided in this report should do so only through a US-registered broker-dealer
+CMBIGM is not a registered broker-dealer in the United States. As a result, CMBIGM is not subject to U.S. rules regarding the preparation of research reports
+and the independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or qualified
+as a research analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA Rules
+intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report is
+intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of
+1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report
+by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing to
+effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.
 For recipients of this document in Singapore
-This report is distributed in Singapore by CMBI (Singapore) Pte Limited (CMBISG) (Company Regn No 201731928D) an Exempt Financial Adviser as defined
-in the Financial Advisers Act (Cap 110) of Singapore and regulated by the Monetary Authority of Singapore CMBISG may distribute reports produced by its
-respective foreign entities affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations
-Where the report is distributed in Singapore to a person who is not an Accredited Investor Expert Investor or an Institutional Investor as defined in the Securities
-and Futures Act (Cap 289) of Singapore CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law
-Singapore recipients should contact CMBISG at 65 6350 4400 for matters arising from or in connection with the report
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as defined
+in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced by its
+respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers Regulations.
+Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined in the Securities
+and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the extent required by law.
+Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

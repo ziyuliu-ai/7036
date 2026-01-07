@@ -1,2348 +1,748 @@
-Valuation  Risks
-Pharmaceuticals 
-Price at 11 Aug 2017 (CNY)
-Price target - 12mth (CNY)
-52-week range (CNY)
-14 August 2017
-Updates on middlelate-stage pipeline
-Multiple catalysts ahead late-stage pipeline represents 17% market cap by DBe
-We update pipeline progress following the meeting with Chairman Sun Major
-catalysts are 1) approval of 19K and Abraxane generic by YE17 2) resubmission
-of retagliptin in the near term 3) clarity on pyrotinib development including
-an earlier submission of marketing approval 4) updates on clinical progress
-for camrelizumab and 5) phase 3 data release on Incytes ECHO-301 We also
+Rating
+Date
+Company
+Hengrui Medicine
+Buy
+Company Update
+Asia
+China
+Reuters
+Bloomberg
+Exchange
+Ticker
+Health Care
+600276.SS
+600276 CH
+SHH
+Pharmaceuticals /
+Biotechnology
+Updates on middle/late-stage pipeline
+Valuation & Risks
+Jack Hu, PhD
+Multiple catalysts ahead; late-stage pipeline represents 17% market cap by DBe
+We update pipeline progress following the meeting with Chairman Sun. Major
+Research Analyst
+catalysts are: 1) approval of 19K and Abraxane generic by YE17; 2) resubmission
+of retagliptin in the near term; 3) clarity on pyrotinib development, including
+an earlier submission of marketing approval; 4) updates on clinical progress
+Price/price relative
+for camrelizumab; and 5) phase 3 data release on Incyte's ECHO-301. We also
 highlight potential upside from additional US IND approval and clinical progress
-Camrelizumab as the largest driver IDO inhibitor provides signicant upside
-We have updated our peak sales for camrelizumab to RMB5-6bn in China and
-increased the probability of success to 75-85% based on the strong ORR data
-from the phase 1 study Four registration trials are being conducted at present
-We expect Hengrui to get the rst domestic PD-1 approval with safe data from
-sucient number of patients required by the CFDA Additionally we expect IND
-approval for its IDO inhibitor from CFDA in the near term following US IND
-approval in May We believe it would be signicantly positive to the IO franchise
-and we forecast RMB3-4bn peak sales for the IDO inhibitor
-DB proprietary patient-based PD-1PD-L1 model
-China Watch P263 - PD-1PD-L1 patient-
-based model for China 14 Aug 2017
-Hengrui - Take-aways from Chairman
-meeting 27 Jul 2017
-Hengrui - The PD 1 race continues 9 Jun
-Hengrui - Camrelizumab Phase 1 data
-released IDO US IND approved 18 May
-Hengrui - Revising estimates due to pipeline
-prioritization 16 Nov 2016
-Hengrui - Deep dive into late stage pipeline
-China Watch P260 - ASCO take-aways
-Physician feedback on IO Chinese trials 7
-Our model indicates that the addressable market for PD-1PD-L1 would be
-RMB19bn in China in 2017 and RMB29bn in 2030 representing a CAGR of 15%
-NSCLC and GC are likely to be the largest indications due to a large patient base
-and unmet medical need Our model is based on 14 tumor types including the
-approved indications and major indications being investigated Among domestic
-their PD-1PD-L1 with Hengrui being the leader
-Our current valuation for the late stage pipeline represents 17% of the market cap
-vs 15% as of our rst attempt in September 2016 Our TP of RMB585 is based
-on 42x 2018E EPS We believe 42x is justied as A-share peers are trading at 29x
-with 18% EPS growth in 2017 (vs the 24% we model for Hengrui) We believe
-the premium is justied given the top China pipeline major upside from exports
-and the potential earnings growth acceleration driven by blockbuster launches
-Key risks include product launch delays and price cuts
-Jack Hu PhD
-Priceprice relative
+of its novel compounds in the US. Our NPV analysis indicated the pipeline value
+is RMB9.2 per share. This comprehensive report includes key ongoing clinical
+studies for all mid/late study compounds, as well as competitors' studies.
+- Hengrui Medicine
 Shanghai Composite (Rebased)
-Performance (%)
-Source Deutsche Bank
-Deutsche Bank AGHong Kong
-aware that the rm may have a conict of interest that could aect the objectivity of this report Investors should consider
-this report as only a single factor in making their investment decision DISCLOSURES AND ANALYST CERTIFICATIONS
-ARE LOCATED IN APPENDIX 1 MCI (P) 083042017
-Distributed on 13082017 194513 GMT
-0bed7b6cf11c
-14 August 2017
-Pharmaceuticals  Biotechnology
+Camrelizumab as the largest driver; IDO inhibitor provides significant upside
+We have updated our peak sales for camrelizumab to RMB5-6bn in China and
+increased the probability of success to 75-85%, based on the strong ORR data
+from the phase 1 study. Four registration trials are being conducted at present.
+We expect Hengrui to get the first domestic PD-1 approval, with safe data from
+sufficient number of patients required by the CFDA. Additionally, we expect IND
+approval for its IDO inhibitor from CFDA in the near term, following US IND
+approval in May. We believe it would be significantly positive to the IO franchise
+and we forecast RMB3-4bn peak sales for the IDO inhibitor.
+DB proprietary patient-based PD-1/PD-L1 model
+Related Reports
+Our model indicates that the addressable market for PD-1/PD-L1 would be
+China Watch P263 - PD-1/PD-L1 patient-
+RMB19bn in China in 2017 and RMB29bn in 2030, representing a CAGR of 15%.
+NSCLC and GC are likely to be the largest indications due to a large patient base
+Hengrui - Take-aways from Chairman
+and unmet medical need. Our model is based on 14 tumor types, including the
+Hengrui - The PD 1 race continues, 9 Jun
+approved indications and major indications being investigated. Among domestic
+names, we identified six companies that are conducting late stage studies for
+Hengrui - Camrelizumab Phase 1 data
+their PD-1/PD-L1 with Hengrui being the leader.
+released; IDO US IND approved, 18 May
+Valuation and risks
+Hengrui - Revising estimates due to pipeline
+Our current valuation for the late stage pipeline represents 17% of the market cap,
+Hengrui - Deep dive into late stage pipeline,
+vs. 15% as of our first attempt in September 2016. Our TP of RMB58.5 is based
+on 42x 2018E EPS. We believe 42x is justified, as A-share peers are trading at 29x
+China Watch P260 - ASCO take-aways:
+with 18% EPS growth in 2017 (vs. the 24% we model for Hengrui). We believe
+the premium is justified, given the top China pipeline, major upside from exports
+and the potential earnings growth acceleration driven by blockbuster launches.
+Key risks include product launch delays and price cuts.
+Deutsche Bank AG/Hong Kong
 Late-stage pipeline
-Revisiting our estimates to reect recent updates
+analysis
+Revisiting our estimates to reflect recent updates
 Our updated valuation for the late-stage pipeline represents 17% of the market
-cap vs 15% when we rst attempted to value Hengruis late-stage pipeline We
-summarize the key changes to our estimates on Hengruis pipeline below
+cap, vs. 15% when we first attempted to value Hengrui's late-stage pipeline. We
+summarize the key changes to our estimates on Hengrui's pipeline below.
 We increased our peak sales estimate for camrelizumab to RMB5-6bn
-from RMB12-18bn as we expect substantial opportunities for China-
-specic unmet medical needs such as LC GC and EC Our POS is also
-four registration trials with initial encouraging data
-We added SHR9146 an IDO inhibitor to our analysis While the drug
-is pending clinical trial approval by CFDA it has already received IND
-approval from the US FDA If successful we estimate peak sales to be
-RMB3-4bn We believe this will be a signicant value driver going forward
-We increased our peak sales estimate for pyrotinib to RMB2-28bn from
-RMB12-16bn Our POS is also revised to 85-95% from 80-90% as we
-anticipate Hengrui to le production approval to the CFDA based on
-phase 2 data We expect better ecacy data vs T-DM1
-For henagliozin we revised our POS to 85-95% from 75-85% as the
-For hetrombopag olamine we increased our POS to 80-90% from 70-80%
-on public records
-We added SHR4640 to our analysis As an URAT1 inhibitor a phase 2 trial
-is being conducted for this drug in the treatment of gout
-We increased our peak sales estimate to RMB25-3bn from RMB2-25bn
-as we are more upbeat on the growth outlook on COPD therapeutics
+from RMB1.2-1.8bn as we expect substantial opportunities for China-
+specific unmet medical needs, such as LC, GC and EC. Our POS is also
+revised to 75-85% from 60-70%, as the company is already conducting
+four registration trials with initial encouraging data.
+We added SHR9146, an IDO inhibitor, to our analysis. While the drug
+is pending clinical trial approval by CFDA, it has already received IND
+approval from the US FDA. If successful, we estimate peak sales to be
+RMB3-4bn. We believe this will be a significant value driver going forward.
+We increased our peak sales estimate for pyrotinib to RMB2-2.8bn from
+RMB1.2-1.6bn, Our POS is also revised to 85-95% from 80-90% as we
+anticipate Hengrui to file production approval to the CFDA, based on
+phase 2 data. We expect better efficacy data vs. T-DM1.
+For henagliflozin, we revised our POS to 85-95% from 75-85% as the
+company initiated a phase 3 study in May 2017.
+For hetrombopag olamine, we increased our POS to 80-90% from 70-80%,
+as the company moved the drug into a phase 3 study in July 2017, based
+on public records.
+We added SHR4640 to our analysis. As an URAT1 inhibitor, a phase 2 trial
+is being conducted for this drug in the treatment of gout.
+We increased our peak sales estimate to RMB2.5-3bn from RMB2-2.5bn
+as we are more upbeat on the growth outlook on COPD therapeutics.
 We removed Exforge generic from the model as we are unable to identify
-a new BE study after the withdrawal of the application
-We now model NPV of RMB92 per share from these potential
-blockbusters vs RMB73 previously in November 2016 and RMB68 at
-rst in September 2016 We summarize our estimates in the following
-Despite the aforementioned eorts we still believe we undervalued Hengruis
+a new BE study after the withdrawal of the application.
+We now model NPV of RMB9.2 per share from these potential
+blockbusters, vs. RMB7.3 previously in November 2016 and RMB6.8 at
+first in September 2016. We summarize our estimates in the following
+exhibits.
+Despite the aforementioned efforts, we still believe we undervalued Hengrui's
+pipeline because: 1) we did not model any early stage pipeline compounds, 2)
 we did not model global opportunities for three drugs in early development in the
-IL-17 in the US 3) we did not model US ANDA generic opportunities but expect
-signicant upside as it is highly likely Hengrui would address billion-dollar market
-opportunities dominated by branded innovative drugs
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 1 Valuation of late-stage pipeline
-Probability of success
-Probability of success
-(high-end)
-Value per share (Prob
-Breast cancer NSCLC
-SHR1210 (anti-PD-1 mAb)
-Liver cancer gastric cancer
-SHR3680 (AR antagonist)
-SHR6390 (CDK46 inhibitor)
-Idiopathic thrombocytopenic purpura
-SHR9146 (IDO)
-Source Deutsche Bank
-We highlight the innovative drugs developed by Hengrui in the following exhibit
-Figure 2 Pipeline summary for Hengrui
-SHR1539 (Hedgehog inhibitor) 
-Remimazolam  (GABA receptor agonist)
-Hetrombopag Olamine (TPOR) 
-Retagliptin (DPP-4 inhibitor) 
-SHR3162 (PARP inhibitor) 
-Pyrotinib (EGFRHer2 inhibitor) 
-Apatinib (VEGFR-2 inhibitor)
-19K (long acting GCSF)
-NSCLCGastrointestinal tumor
-NSCLCLiver cancer
-SHR6390 (CDK46 inhibitor)
-SHR3680 (AR antagonist) 
-Pyrotinib (EGFRHer2 inhibitor) 
-HER2 breast cancer
-SHR7390 (MEK inhibitor)
-SHR4640 (URATI inhibitor) 
-Retagliptinmetformin
-HyperuricacidemiaGout
-SHR0534 (GPR40 agonist) 
-GLP-1 agonist
-Henagliflozin (SGLT2 inhibitor)
-SHR0302 (JAK1 inhibitor)
-SHR1210 (PD-1 mAb) 
-SHR1210 (PD-1 mAb) 
-Liver cancerGastric cancerNSCLC
-SHR-1314 (Il-17 mAb)
- US phase 1 ongoing
- Australia phase 1 ongoing
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Camrelizumab the largest value driver in the pipeline
+US, especially SHR-1314, which would be likely to become the third to market
+IL-17 in the US, 3) we did not model US ANDA generic opportunities but expect
+significant upside as it is highly likely Hengrui would address billion-dollar market
+opportunities dominated by branded innovative drugs.
+We highlight the innovative drugs developed by Hengrui in the following exhibit.
+Camrelizumab: the largest value driver in the pipeline
 We highlight camrelizumab (SHR1210) is the top priority for the pipeline of
-Hengrui There are four registration studies being conducted at present including
-a P2 study for classical Hodgkin Lymphoma (cHL) a P3 study for 1L NSCLC a P3
-study for relapsedrefractory esophageal cancer and a P23 study for relapsed
-refractory liver cancer
+Hengrui. There are four registration studies being conducted at present, including
+study for relapsed/refractory esophageal cancer, and a P2/3 study for relapsed/
+refractory liver cancer.
 These data suggest Hengrui has the largest PD-1 clinical program among all
-domestic players Recall recently that CFDA articulated a willingness to approve
-IO drugs based on a single arm P2 study however CFDA also made it clear the
-approval would also require sucient safe data from a large number of patients
-According to management Hengrui is likely to have safety data from 800-1000
-patients from all ongoing P23 studies
+domestic players. Recall recently that CFDA articulated a willingness to approve
+IO drugs based on a single arm P2 study; however, CFDA also made it clear the
+approval would also require sufficient safe data from a large number of patients.
+patients from all ongoing P2/3 studies.
+We continue to think that Hengrui is likely to be the first domestic company to
+launch PD-1 in China. Among domestic competitors, Beigene entered cHL in April
 2017 with a P2 study scheduled to enroll 68 patients (60 in China and the rest
-entered P2 in April as well as targeting 90 patients among 29 hospitals For
-nivolumab from BMS are in phase 3 while two PD-L1 mAbs atezolizumab from
-Roche and durvalumab from AZN are in phase 3 in China We summarize all
-ongoing trials of the aforementioned drugs below
-Figure 3 Ongoing trials for SHR1210 by Hengrui
-Primary endpoint Start date
-1L Non-Small Cell Lung Cancer
-Phase 3 SHR-1210chemotherapy (carboplatin  pemetrexed) vs
-chemotherapy (carboplatin  pemetrexed)
-2L Advanced Esophageal Cancer
-SHR-1210 vs Docetaxel vs Irinotecan
-2L Advanced Hepatocellular Carcinoma Phase 23
-SHR-1210 Q2W vs SHR-1210 Q3W
-18 6-month OS% ORR
-3L Non-Small Cell Lung Cancer
-Phase 2 SHR-1210 Q2W apatinib 250mgd vs SHR-1210 Q2W
-apatinib 500mgd
-AE SAE ORR
-Advanced Hepatocarcinoma
-SHR-1210Apatinib vs SHR-1210FOLFOX4 regimen
-2L Non-Small Cell Lung Cancer
-SHR-1210 Q2W
-Refractory classical Hodgkin Lymphoma
-SHR-1210 Q2W
-ORR CR PR
-1L Nasopharyngeal carcinoma
-SHR-1210 Q1WGemcitabine Hydrochloride Cisplatin
-SHR-1210 dose escalation
-Safety tolerability
-SHR-1210 dose escalation
-Safety tolerability
-SHR-1210 dose escalation
-Safety tolerability
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 4 Ongoing trials for JS001 by Shanghai Junshi
-2L Urothelial Bladder Carcinoma
-Safety tolerability ORR
-2L Advanced Gastric Adenocarcinoma Esophageal
-Cancer Nasopharyngeal Carcinoma Head and Neck
-Squamous Cell Carcinoma
-Safety tolerability DLT
-2L Advanced Triple Negative Breast Cancer
-AE ECG vital signs
-Safety tolerability DLT MDTRD
-Advanced or Recurrent Malignant Tumor
-Safety tolerability atineoplasmic activity
-2L Advanced Triple Negative Breast Cancer
-AE ECG vital signs
-2L Advanced Triple Negative Breast Cancer
-AE ECG vital signs
-Advanced Renal Carcinoma  Melanoma
-AE ECG vital signs
-Advanced Neuroendocrine Tumor
-Safety tolerability ORR
-Tolerability safety ORR
-Figure 5 Ongoing trials for BGB-A317 by BeiGene Celgene
-Primary endpoint Start date
-2L Urothelial Bladder Carcinoma Phase 2 BGB-A317
-Refractory classical Hodgkin Lymphoma Phase 2 BGB-A317
-1L Esophageal Cancer Gastric Cancer
-Gastroesophageal Junction Carcinoma
-Phase 2 BGB-A317
-AE SAE medical checkup vital signs ECG
-1L Advanced or Metastatic Non-Squamous
-Non-Small Cell Lung Cancer Squamous Cell
-Lung Cancer Extensive Small Cell Lung Cancer
-Phase 2 BGB-A317
-Advanced Solid Tumor Phase 1 BGB-A317
-Safety tolerability PK MTD RP2D ORR
-Figure 6 Ongoing trials for IBI308 by Innovent
-Primary endpoint Start date
-2L Advanced or Metastatic Squamous
-Non-Small Cell Lung Cancer
-IBI308 vs Docetaxel
-2L Esophageal Cancer Phase 2
-IBI308 vs Paclitaxel vs
-Irinotecan Hydrochloride
-Recurrent or Refractory classical
-Advanced Solid Tumor Phase 1
-Safety tolerability antineoplasmic activity
-Figure 7 Ongoing trials for GLS-010 by Gloria Pharma
-Primary endpoint Start date
-Advanced Solid Tumor (Gastric
-Cancer Esophageal Cancer)
-AE vital signs medical checkup 12-
-lead ECG ECOG SAE
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 8 Ongoing trials for KN035 by Alphamab
-Primary endpoint Start date
-Safety tolerability DLT AE SAE vital
-signs medical checkup 12-lead ECG
-Figure 9 Ongoing trials for NivolumabBMS-936558 by BMS
-1L Non-Small Cell Lung Cancer
-Nivolumab  vs Nivolumab  Ipilimumab vs
-Nivolumab  Platinum doublet chemotherapy vs
-Platinum doublet chemotherapy
-CTR20160578 2L Relapsed Small-cell Lung Cancer
-Nivolumab vs Topotecan Hydrochloride
-CTR20160605 Advanced Hepatocellular Carcinoma
-Nivolumab vs Sorafenib tosylate
-international
-Sep-16-China
-Advanced or Metastatic Non Small
-Nivolumab vs Docetaxel
-Advanced or Recurrent Gastric
-Cancer or Urothelial Bladder
-Nivolumab  Ipilimumab vs Nivolumab 
-OxaliplatinCapecitabine vs Nivolumab 
-OxaliplatinLeucovorinFluorouracil vs
-OxaliplatinCapecitabine vs
-OxaliplatinLeucovorinFluorouracil
-Extensive small cell lung cancer
-Nivolumab  Ipilimumab vs Nivolumab 
-Ipilimumab placebo vs Nivolumab placebo 
-2L Advanced or Metastatic Non
-Small Cell Lung Cancer
-Nivolumab  Pemetrexed CisplatinCarboplatin
-vs Pemetrexed CisplatinCarboplatin vs
-Nivolumab  Ipilimumab
-CTR20150755 Advanced or Recurrent Solid Tumor Phase 12
-AE SAE death
-ECG vital signs
-Figure 10 Ongoing trials for PembrolizumabMK-3475 by Merck
-CTR20160097 1L Metastatic or Advanced Non-
-Small Cell Lung Cancer
-Pembrolizumab vs Carboplatin 
-Pemetrexed Disodium for
-InjectionPaclitaxel Injection
-international
-Aug-16-China
-2L Non-Small Cell Lung Cancer
-Pembrolizumab vs Paclitaxel
-2L Advanced Esophageal
-Pembrolizumab vs Paclitaxel or
-Docetaxel or Irinotecan
-international
-Dec-16-China
-2L Advanced Gastric
-Pembrolizumab vs Paclitaxel
-international
-Feb-17 -China
-1L Metastatic Squamous Non-
-Small Cell Lung Cancer
-Pembrolizumab Carboplatin
-Paclitaxel Injection vs Carboplatin
-Paclitaxel Injection
-international
-Apr-17-China
-Local Advanced or Metastatic
-Safety tolerability efficacy
-Non-Small Cell Lung Cancer
-Safety tolerability PK
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 11 Ongoing trials for AtezolizumabMPDL3280A by Roche
-Non-Squamous or Squamous Non-Small Cell
-Atezolizumab vs Carboplatin Cisplatin 
-Pemetrexed Gemcitabine
-Myometrial Invasive Urothelial Carcinoma Phase 3
-international
-Mar-17-China
-Non-Small Cell Lung Cancer Phase 3
-MPDL3280A vs Best Supportive Care
-Non-Squamous Non-Small Cell Lung Cancer Phase 3 Atezolizumab  Carboplatin or Cisplatin 
-Pemetrexed vs Carboplatin or Cisplatin 
-Locally Advanced or Metastatic Urothelial
-Atezolizumab vs Atezolizumab 
-Gemcitabine CarboplatinCisplatin vs
-Placebo Gemcitabine 
-CarboplatinCisplatin
-Non-Small Cell Lung Cancer Phase 3
-MPDL3280A vs Docetaxel
-Extensive-Stage Small Cell Lung Cancer Phase 3
-Atezolizumab  Carboplatin  Etoposide
-vs  Placebo  Carboplatin  Etoposide
-Locally Advanced or Metastatic Solid Tumors Phase 1
-Figure 12 Ongoing trials for DurvalumabMEDI4736 by AstraZeneca
-1L Non-Small Cell Lung Cancer
-MEDI4736  vs Paclitaxel  carboplatin or
-Gemcitabine  cisplatin or Gemcitabine 
-carboplatin or Pemetrexed  cisplatin or
-Pemetrexed  carboplatin
-international
-Feb-17-China
-CTR20170135 1L Advanced Urothelial Carcinoma
-MEDI4736 vs MEDI4736  Tremelimumab
-vs Cisplatin  Gemcitabine or
-CarboplatinGemcitabine
-international
-Apr-17-China
-Non-Small Cell Lung Cancer
-MEDI4736 vs Placebo
-Advanced Malignancies
-MEDI4736 vs MEDI4736Tremelimumab
-PK AE medical
-checkupvital
-signs ECG
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-started a phase 3 study for henagliozin a SGLT2 inhibitor We believe the
-inhibitor and SGLT2 inhibitor
-Additionally according to clinicaltrialgov there are three clinical studies
-conducted by Hengrui for PEX168 a GLP-1 agonist However public records
+in South Korea) among 17 sites (14 in China), while another compound, IBI308,
+entered P2 in April, as well as targeting 90 patients among 29 hospitals. For
+global companies, we highlight two PD-1 mAbs, pembrolizumab from Merck and
+nivolumab from BMS, are in phase 3 while two PD-L1 mAbs, atezolizumab from
+Roche and durvalumab from AZN, are in phase 3 in China. We summarize all
+ongoing trials of the aforementioned drugs below.
+Figure 4: Ongoing trials for JS001 by Shanghai Junshi
+Figure 5: Ongoing trials for BGB-A317 by BeiGene/ Celgene
+Figure 6: Ongoing trials for IBI308 by Innovent
+Figure 7: Ongoing trials for GLS-010 by Gloria Pharma
+Figure 8: Ongoing trials for KN035 by Alphamab
+Source: Deutsche Bank, chinadrugtrials.org.cn
+Figure 9: Ongoing trials for Nivolumab/BMS-936558 by BMS
+Figure 10: Ongoing trials for Pembrolizumab/MK-3475 by Merck
+Figure 11: Ongoing trials for Atezolizumab/MPDL3280A by Roche
+Figure 12: Ongoing trials for Durvalumab/MEDI4736 by AstraZeneca
+Diabetes
+The company has several innovative compounds being developed for diabetes in
+its pipeline. The lead compound is retagliptin, a DPP4 inhibitor, and we expect the
+company to resubmit its application in the near term. Additionally, the company
+started a phase 3 study for henagliflozin, a SGLT2 inhibitor. We believe the
+inhibitor and SGLT2 inhibitor.
+Additionally, according to clinicaltrial gov, there are three clinical studies
+conducted by Hengrui for PEX168, a GLP-1 agonist. However, public records
 indicated that the clinical trial approval for PEX168 belongs to Jiangsu Hansoh
-and Jiangsu Hansoh is also conducting late stage trials for the drug We expect
-more clarity for the development of this program in the near term We summarize
-Figure 13 Ongoing trials for Retagliptin by Hengrui in China
-Primary endpoint Start date
-CTR20160943 Type 2 Diabetes Phase 3
-Retagliptin  Metformin vs Placebo  Metformin
-CTR20160328 Type 2 Diabetes Phase 1
-Retagliptin different dosages
-Plasma PK urinary PK
-CTR20160327 Type 2 Diabetes Phase 1
-Retagliptin different dosages
-Plasma PK AUC0-t Cmax  Tmax t12 CLF
-urinary PK urine volume
-CTR20160309 Type 2 Diabetes Phase 1
-Retagliptin  Simvastatin
-Plasma PK AUC0-24 Cmax
-CTR20160277 Type 2 Diabetes Phase 1
-Retagliptin   Metformin
-Plasma PK AUC0-24 Cmax
-CTR20160276 Type 2 Diabetes Phase 1
-Retagliptin  Valsartan
-Plasma PK AUC0-24 Cmax
-CTR20160193 Type 2 Diabetes Phase 1
-Metabolites Plasma PK AUC0-72h Cmax
-Figure 14 Ongoing trials for Henagliozin by Hengrui in China
-Primary endpoint Start date
-Henagliflozin CTR20170527 Type 2 Diabetes Phase 3
-Henagliflozin 5mgPlacebo vs Henagliflozin
-10mgPlacebo vs Placebo
-HbA1c AE vital signs medical checkup 12-lead ECG
-GLU Urine test SMBG Fingerstick
-Henagliflozin CTR20140414 Type 2 Diabetes Phase 1
-Henagliflozin vs Placebo
-AE medical checkup blood test urine test CM CK
-urine test UCAR renal tublar marker weight 12-lead
-ECG PK PD
-Henagliflozin CTR20140415 Type 2 Diabetes Phase 1
-Henagliflozin CTR20150098 Type 2 Diabetes Phase 1
-Henagliflozin vs Placebo
-Vital signs medical checkup 12-lead ECG blood
-pregnancy blood test CM urine test TSH blood CK
-UCAR renl tubular marker AE max Css min Css
-HbA1c FPG 2hPBG AUCO-2h
-Henagliflozin CTR20150099 Type 2 Diabetes Phase 1
-HenagliflozinMetformin vs Placebo
-Vital signs medical checkup 12-lead ECG blood test
-CM CK urine test TSH CKMB UCAR renal tublar
-marker AE
-Henagliflozin CTR20150155 Type 2 Diabetes Phase 1
-HenagliflozinRetagliptin
-Henagliflozin CTR20150650 Type 2 Diabetes Phase 1
-Henagliflozin CTR20150812 Type 2 Diabetes Phase 1
-Figure 15 Completed trials for GLP-1 agonist by Hengrui in China
-GLP-1 agonist
-Type 2 Diabetes
-GLP-1 agonist vs Placebo
-GLP-1 agonist
-Type 2 Diabetes
-GLP-1 agonist vs Placebo
-GLP-1 agonist
-Type 2 Diabetes
-GLP-1 agonist
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Linagliptin CTR20150659 Type 2 Diabetes
-Linagliptin vs Placebo
-international
-Mar-16-China
-Linagliptin CTR20160560 Type 2 Diabetes
-Phase 3 Linagliptin  insulin or Linagliptin  insulin Metformin
-vsLinagliptin placebo insulin or Linagliptin placebo
-insulin Metformin
-Saxagliptin CTR20140696 Type 2 Diabetes
-Saxagliptin  Metformin vs Saxagliptin placebo 
-Saxagliptin CTR20140311 Type 2 Diabetes
-Saxagliptin  insulin or Saxagliptin  insulin
-Metformin vs Saxagliptin placebo insulin or
-Saxagliptin placebo insulin Metformin
-Canagliflozin CTR20150744 Type 2 Diabetes
-Canagliflozin vs Placebo
-890 ESKD serum creatinine
-international
-Mar-16-China
-Dapagliflozin CTR20131268 Type 2 Diabetes
-Dapaglifozin Film vs Placebo for Dapaglifozin Film
-Dapagliflozin CTR20150102 Type 2 Diabetes
-Dapaglifozin Film vs Placebo for Dapaglifozin Film
-international
-Mar-15- China
-Chiglitazar CTR20140262 Type 2 Diabetes
-Chiglitazar vs Sitagliptin (Januvia)
-Teneligliptin CTR20160445 Type 2 Diabetes
-Teneligliptin Metformin vs PlaceboMetformin
-Teneligliptin CTR20160443 Type 2 Diabetes
-Teneligliptin vs Placebo
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+and Jiangsu Hansoh is also conducting late stage trials for the drug. We expect
+more clarity for the development of this program in the near term. We summarize
+the ongoing trials by Hengrui and its major competitors below.
+Figure 16: Late-stage ongoing trials by competitors in China
 TKI (tyrosine kinase inhibitor)
-We continue to expect indication expansion opportunities for apatinib including
-major cancer types such as NSCLC and liver cancer Hengrui is currently
-conducting phase 3 trials for these two indications Additionally we believe
-pyrotinib is likely to be a key focus in the next few years as a dierentiated
-therapeutics with better ecacy AE prole vs available drugs It is likely that
-and it might be the rst Chinese oncology drug approved based on P2 data We
-Figure 17 Ongoing trials for apatinib by Hengrui
-Primary endpoint Start date
-3L Advanced Gastric Cancer
-2L Advance Liver Cancer
-Apatinib vs Placebo
-3L EGFR Wild-type Advanced
-Non-Small Cell Lung Cancer
-Apatinib vs Placebo
-3L Advanced Gastric Cancer
-Apatinib different dosages
-Tmax Cmax AUC t12 Css AUCss MRT
-Apatinib MesylateItraconazole
-AUC Cmax t12
-Apatinib MesylateRifampin
-AUC Cmax t12
-Figure 18 Ongoing trials for pyrotinib by Hengrui
-Primary endpoint Start date
-3L HER2-positive Advanced Breast Cancer
-PyrotinibCapecitabine vs Placebo
-Capecitabine
-3L HER2-positive Metastatic Breast Cancer
-PyrotinibCapecitabine vs Lapatinib
-Capecitabine
-HER2 Mutation Advanced Non-Small Cell
-HER2-positive Metastatic Breast Cancer
-PyrotinibCapecitabine vs Lapatinib
-Capecitabine
-ECOG vital signs
-medical checkup UA
-CMP ECG UCG AE
-HER2-positive Advanced Breast Cancer
-Pyrotinib dose escalation
-HER2-positive Advanced Breast Cancer
-Phase 1 Pyrotinib  Capecitabine dose escalation
-HER2-positive Advanced Gastric Cancer
-Pyrotinib  Docetaxel dose escalation
-ErbB-2(HER2) over-expressed Breast Cancer
-NA Pyrotinib 80160 mg vs Pyrotinib 200mg
-AUC Tmax Umax
-ErbB-2(HER2) over-expressed Breast Cancer
-PK metabolites
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Sunitinib Malate CTR20140783
-Pancreatic neuroendocrine tumor
-Sunitinib Malate CTR20150183
-Non resectable well-differentiated
-Pancreatic Neuroendocrine Tumor
-Erlotinib CTR20140102
-1L Advanced EGFR-mutation Non-
-Small Cell Lung Cancer
-Erlotinib vs Cisplatin 
-Erlotinib CTR20140049
-Advanced Non-Small Cell Lung
-Erlotinib  Cisplatin  Gemcitabine
-vs Placebo  Cisplatin 
-international
-Nov-09-China
-Erlotinib CTR20131154
-1L Advanced Non-Small Cell Lung
-Erlotinib chemotherapy vs
-Placebo chemotherapy
-Afatinib CTR20140651
-Head and Neck Squamous Cell
-Afatinib vs Methotrexate
-Afatinib CTR20140229
-Non-Small Cell Lung Cancer
-international
-Aug-14-China
-Afatinib CTR20131407
-2L Lung Squamous Carcinoma
-Afatinib vs Erlotinib
-Afatinib CTR20131408
-EGFR-positive mutation Lung
-Afatinib vs Gefitinib
-Afatinib CTR20160453
-HER2-mutation Non-Small Cell Lung
-international
-Jan-17-China
-2L Advanced Non-Small Cell Lung
-international
-Jun-12-China
-1L Advanced Non-Small Cell Lung
-Regorafenib CTR20132928
-2L Hepatocellular Carcinoma
-Regorafenib vs Placebo
-Sorafenib CTR20132870
-HER2-negative Breast Cancer
-SorafenibCapecitabine vs
-Placebo Capecitabine
-international
-Aug-12-China
-Sorafenib CTR20131621
-international
-Aug-12-China
-Fruquintinib CTR20130967
-3L Advanced Non-squamous Non-
-Small Cell Lung Cancer
-Fruquintinib vs  placebo
-Fruquintinib CTR20161072
-2L Advanced Non-Small Cell Lung
-Fruquintinib Gefitinib
-Fruquintinib CTR20140396
-3L Advanced Non-Small Cell Lung
-Fruquintinib BSC vs placebo
-Dasatinib CTR20160921
-Dasatinibprednisone acetate
-Icotinib CTR20150304
-EGFR-sensitive Mutation Non-Small
-Icotinib vs Vinorelbine Bitartrate
-InjectionCisplatin Injection
-Alectinib CTR20160367
-Advanced ALK-positive Non-Small
-Alectinib  vs Crizotinib
-Alectinib CTR20150592
-ALK-positive Non-Small Cell Lung
-Alectinib  vs Crizotinib
-international
-Nov-15-China
-Anlotinib CTR20170146
-Small Cell Lung Cancer
-Anlotinib vs placebo
-Anlotinib CTR20140777
-Metastatic colorectal cancer
-Anlotinib vs placebo
-Anlotinib CTR20160073
-Anlotinib vs placebo
-Anlotinib CTR20150454
-Advanced Non-Small Cell Lung
-Anlotinib vs placebo
-Anlotinib CTR20150736
-Medullary thyroid carcinoma
-Anlotinib vs placebo
-Anlotinib CTR20130323
-Medullary thyroid carcinoma
-Anlotinib CTR20150735
-Differentiated thyroid carcinoma
-Anlotinib vs placebo
-Anlotinib CTR20150531
-Anlotinib vs placebo
-Anlotinib CTR20130324
-Anlotinib CTR20160078 Esophageal squamous cell carcinoma
-Anlotinib vs placebo
-Anlotinib CTR20150129
-Advanced renal cell carcinoma
-Anlotinib vs sunitinib
-Anlotinib CTR20150331
-Advanced renal cell carcinoma
-Anlotinib CTR20150333
-Dasatinib CTR20131053
-Dasatinib CTR20132365
-Dasatinib vs Imatinib
-international
-May-14-China
-Crizotinib CTR20140093
-ROS1-positive Non-Small Cell Lung
-Volitinib CTR20160581
-Locally advanced or metastatic
-ACEA Pharma Avitinib Maleate CTR20161018
-Advanced Non-Small Cell Lung
-Avitinib Maleate capsule
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+We continue to expect indication expansion opportunities for apatinib, including
+major cancer types such as NSCLC and liver cancer. Hengrui is currently
+conducting phase 3 trials for these two indications. Additionally, we believe
+pyrotinib is likely to be a key focus in the next few years as a differentiated
+therapeutics with better efficacy/ AE profile vs. available drugs. It is likely that
+the company would file production approval for pyrotinib based on phase 2 data,
+and it might be the first Chinese oncology drug approved based on P2 data. We
+summarize the ongoing trials for apatinib, pyrotinib and their key competitors
+below.
 Central Nervous System
-Remimazolam tosilate is a GABA receptor agonist applied to general anesthesia
-Both the ecacy and safety of remimazolam tosilate are expected to be prior
-to midazolam and propofol Given that the domestic analgesics drugs market in
-China is dominated by Hengrui Humanwell and NHWA we see good potential
-of remimazolam tosilate We highlight that Hengrui received phase 3 clinical
-trial approval from CFDA this June while Humanwell is doing phase 1 study for
-remimazolam
-Esketamine hydrochloride
-Esketamine hydrochloride injection vs
-Ketamine Hydrochloride Injection
-Time to resuscitation
-Remimazolam Tosilate vs Disoprofol
-Sedation success rate
-Sedation - Gastroscope
-Remimazolam Tosilate vs Disoprofol
-Sedation success rate
-hydrochloride Injection
-Dexmedetomidine hydrochloride Injection
-vs Placebo
-Average total dose of
-HSK3486 dose escalation
-Vital signs 12-ECG AE
-Sedation anesthesia
-HSK3486 dose escalation
-Vital signs 12-ECG AE
-Sedation anesthesia
-Remimazolam Tosilate vs Midazolam vs
-AE MOAAS BIS dose-
-hydrochloride Injection
-Dexmedetomidine hydrochloride Injection
-T12 Cmax Ke
-EastonSunheal
-Glycopyrrolate Bromide
-Glycopyrrolate Bromide Neostigmine vs
-Atropine Neostigmine
-Lidocaine hydrochloride
-Anesthesia for ocular surgery
-HLCT2015-1 vs Placebo
-5 Anesthesia success rate in
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+Remimazolam tosilate is a GABA receptor agonist applied to general anesthesia.
+Both the efficacy and safety of remimazolam tosilate are expected to be prior
+to midazolam and propofol. Given that the domestic analgesics drugs market in
+China is dominated by Hengrui, Humanwell and NHWA, we see good potential
+of remimazolam tosilate. We highlight that Hengrui received phase 3 clinical
+trial approval from CFDA this June, while Humanwell is doing phase 1 study for
+remimazolam.
+We summarize the major analgesics by Hengrui and competitors as follows.
+Source: Deutsche Bank, chinadrugtrials.org.cn
 We also summarize the ongoing trials for other innovative drugs from Hengrui
-below however the majority of these drugs are still in early stage trials
-Figure 21 Ongoing trials for other class 11 drugs by Hengrui
-Primary endpoint Start date
-Hyperuricacidemia Gout
-SHR4640 vs Placebo vs Benzbromarone
-Proportion of subjects with a
-serum uric level360moll
-SHR4640FebuxostatColchicine
-Advanced Castration-
-resistant Prostate Cancer
-SHR3680 dosage escalation
-DLTS MTD time to
-Olamine (TPOR) 
-CTR20140392 Idiopathic Thrombocytopenic
-Olamine (TPOR) 
-CTR20150543 Idiopathic Thrombocytopenic
-AE vital signs ECG medical
-checkup ophthalmic testing
-Olamine (TPOR) 
-CTR20150667 Idiopathic Thrombocytopenic
-AE vital signs ECG medical
-checkup ophthalmic testing
-SHR-1314 vs Placebo
-SHR1539 dosage escalation
-SHR7390SHR-1210
-Type 2 Diabetes
-SHR0534 ante cibum vs SHR0534 post cibum
-PK safety
-Type 2 Diabetes
-SHR0534 vs Placebo
-Safety tolerability PK PD
-Type 2 Diabetes
-SHR0534 vs Placebo
-Safety tolerability PK
-SHR0302 vs Methotrexate
-Phase 1 SHR0302 ante cibum - post cibum vs SHR0302
-post cibum - ante cibum
-SHR0302 vs Placebo
-1PK pSTAT3 safety tolerability
-SHR0302 vs Placebo
-Safety tolerability
-Acute Myeloid Leukemia
-HAO472 dose escalation
-M6G dose escalation
-AUC Tmax Cmax T12 CL
-Carcinoma of Colon and
-Rectum Non-Small Cell Lung
-Bevacizumab Injection vs Avastin
-AUC0-t Cmax
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-therapeutic areas We highlight the following key generic drugs
-for this drug We assign 60% probability on simultaneous approval of
-nabpaclitaxel from Hengrui and CSPC as a bear case scenario is now less
-market share and forecast peak sales of RMB10-12bn
-Advair generic we expect the drug could reach peak sales of
-technical barriers we assign a POS of 55-65% at present We also believe
-SBP might be ahead of Hengrui for this drug
-resubmission of the drug in the near term We forecast peak sales of
-RMB10-14bn
-resubmission soon We estimate peak sales to be RMB1-15bn
-Lyrica generic a phase 1 study is being conducted and we forecast peak
-sales to be RMB12-18bn
+below; however, the majority of these drugs are still in early stage trials.
+Generic drugs
+The company has a decent pipeline of generic drugs covering a number of
+therapeutic areas. We highlight the following key generic drugs.
+Abraxane generic: the company is competing with CSPC being FTM
+for this drug. We assign 60% probability on simultaneous approval of
+nabpaclitaxel from Hengrui and CSPC, as a bear case scenario is now less
+likely for either company. We expect Hengrui to grab the majority of the
+market share and forecast peak sales of RMB1.0-1.2bn.
+Advair generic: we expect the drug could reach peak sales of
+RMB2.5-3.0bn if the company is able to launch it. However, due to
+technical barriers, we assign a POS of 55-65% at present. We also believe
+SBP might be ahead of Hengrui for this drug.
+Cialis generic: the company started a BE study in Feb 2017 and we expect
+resubmission of the drug in the near term. We forecast peak sales of
+RMB1.0-1.4bn.
+Celebrex generic: a BE study was completed in June 2017 and we expect
+resubmission soon. We estimate peak sales to be RMB1-1.5bn.
+Lyrica generic: a phase 1 study is being conducted and we forecast peak
+sales to be RMB1.2-1.8bn.
 We summarize the trials of key generics from Hengrui and some of its key
-Figure 22 Ongoing trials for key generic drugs by Hengrui
-Paclitaxel for Injection
-(AlbuminBound)
-CTR20160110 Breast cancer Gastric cancer
-Non-small pancreatic cancer
-Paclitaxel for Injection
-(AlbuminBound) (Hengrui) vs
-1 AUC Tmax Cmax T12 CL
-Propionate Powder for
-50ugFluticasone Propionate 100ug
-for Inhalation vs Seretide
-Tadalafil vs Cialis
-AUC Tmax Cmax T12
-Osteoarthritis Rheumatoid
-arthritis Adult acute pain
-Ankylosing spondylitis
-Celecoxib vs Celebrex
-Cmax AUC0-t AUC0-
-Pregabalin (T1) vs Pregabalin (T3)
-vs Lyrica
-1 AUC Tmax Cmax T12 CL
-Pregabalin vs Lyrica
-1 AUC Tmax Cmax T12 CL
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Paclitaxel for Injection
-(AlbuminBound)
-Paclitaxel for Injection (AlbuminBound)
-(CSPC) vs Abraxane
-5 AUC Tmax Cmax
-T12 CL PFS
-Paclitaxel for Injection
-(AlbuminBound)
-Paclitaxel for Injection (AlbuminBound)
-(Qilu) vs Abraxane
-1 AUC Tmax Cmax
-Paclitaxel for Injection
-(AlbuminBound)
-Breast Cancer Gastric
-Paclitaxel for Injection (AlbuminBound)
-(Hisun) vs Abraxane
-AUC0t AUC0
- Cmax Tmax
-T12 Kel CL Vd F
-Propionate Powder for
-1L Bronchial asthma
-Salmeterol Xinafoate and Fluticasone
-Propionate Powder for Inhalation  Seretide
- placebo vs Salmeterol Xinafoate and
-Fluticasone Propionate Powder for
-Inhalation placebo Seretide
-Propionate Powder for
-Asthma Chronic
-Obstructive Pulmonary
-Salmeterol Xinafoate and Fluticasone
-Propionate Powder for Inhalation vs
-Tadalafil CTR20160957
-Tadalafil vs  Cialis
-Cmax AUC0-72
-AUC0-96 Tmax
-Tadalafil CTR20160979
-Tadalafil vs  Cialis
-Tadalafil CTR20170160
-Tadalafil vs  Cialis
-Tadalafil CTR20170259
-Tadalafil vs  Cialis
-Tadalafil CTR20160862
-Tadalafil vs  Cialis
-AUC0-t AUC0-
-Celecoxib CTR20160512
-Osteoarthritis
-Rheumatoid arthritis
-Adult acute pain
-Ankylosing spondylitis
-Celecoxib vs Celebrex
-AUC Cmax vital
-signs ECG AE
-Celecoxib CTR20160513
-Osteoarthritis
-Rheumatoid arthritis
-Adult acute pain
-Ankylosing spondylitis
-Celecoxib vs Celebrex
-AUC Cmax vital
-signs ECG AE
-Pregabalin CTR20130894
-Pregabalin vs Placebo
-28-Day reaction
-rate efficacy
-Pregabalin CTR20140857
-Neurological diseases
-Pregabalin vs Lyrica
-Pregabalin CTR20170487
-Postherpetic neuralgia
-Pregabalin vs Lyrica
-Cmax AUC0-t
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-We summarize the ongoing trials for other generics of Hengrui below
-Figure 24 Ongoing trials for other generic drugs by Hengrui
-Primary endpoint Start date
-Peramivir Oseltamivir Phosphate Capsules placebo
-vs Oseltamivir Phosphate Capsules Peramivir
-Duration of influenza
-Peramivir Trihydrate and Sodium Chloride Injection
-Oseltamivir Phosphate Capsules placebo vs
-Oseltamivir Phosphate Capsules Peramivir
-Trihydrate and Sodium Chloride Injection placebo
-Duration of influenza
-Peramivir Trihydrate and Sodium Chloride Injection
-Sustained-release
-Chronic Systolic Heart
-IvabRadine hemisulfate Sustained-release Tablets vs
-Sustained-release
-Chronic unstable angina
-IvabRadine hemisulfate Sustained-release Tablets vs
-Ivabradin (Procoralan)
-Tolvaptan tablet vs Placebo
-Pregabalin vs Placebo
-Postherpetic neuralgia
-Pregabalin vs Placebo
-Esketamine hydrochloride injection vs Ketamine
-Hydrochloride Injection
-Time to resuscitation
-Analgesics Phase 23
-Paracetamol Morhpine PCA  vs Sodium Chloride
-InjectionMorhpine PCA
-Paracetamol different dosages
-1 AUC Tmax Cmax T12
-Pregabalin (T1) vs Pregabalin (T3) vs Lyrica
-1 AUC Tmax Cmax T12
-Pregabalin vs Lyrica
-1 AUC Tmax Cmax T12
-Pulmonary Disease
-1 AUC Tmax Cmax T12
-Ondansetron Oral Soluble Film vs Zuplenz
-1 AUC0-t AUC0- Cmax
-Parkinsons disease
-Pramipexole Dihydrochloride Sustained Release
-Tablets vs Mirapex ER
-Tmax Cmax AUC0-t
-AUC0- zt12 VdF
-Tamsulosin Hydrochloride Sustained Release
-Capsules vs Harnal
-1 Cmax AUC0-t AUC0-
-Ambroxol Hydrochloride Tablets vs Expectorant
-1 Cmax AUC0-t AUC0-
-Hypertension heart
-Carvedilol sulfate vs Carvedilol phosphate (COREG
-Hypertension heart
-Carvedilol sulfate vs Carvedilol phosphate (COREG
-Essential hypertension
-heart failure  left
-ventricular dysfunction
-Carvedilol sulfate does escalation
-Abiraterone Acetate vs Zytiga 
-AUC0-t AUC0- Cmax
-Omega -3- acid
-ethyl ester 90
-Omega -3- acid ethyl ester 90 vs Placebo
-Dexmedetomidine hydrochloride Injection vs
-Average total dose of
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-PD-1 PD-L1 patient-based
-Summary of PD-1 PD-L1 theoretical market size
-We summarize the overall PD-1PD-L1 market in China as below Our forecast is
-based on market breakdown of rst line second line and beyond patient-based
-model of 14 cancer types
-Figure 25 PD-1 PD-L1 market size in China
-Gastric cancer (GC)
-1L patients - High PD-L1 expressors
-1L patients - nonlow PD-L1 expressors
-2L patients
-Hepatocellular carcinoma (HCC)
-1L patients
-2L patients
-Non-small cell lung cancer (NSCLC)
-1L patients - High PD-L1 expressors
-1L patients - nonlow PD-L1 expressors
-2L patients
-Small cell lung cancer (SCLC)
-1L patients (extensive disease)
-2L patients
-Ovarian cancer (OC)
-1L patients
-2L patients
-Renal cell carcinoma (RCC)
-1L patients
-2L patients
-Diffuse large B-cell lymphoma (DLBCL)
-1L patients
-2L patients
-Urothelial Cancer (UC)
-1L patients
-2L patients
-Squamous Cell Carcinoma of the Head and Neck (SCCHN)
-1L patients
-2L patients
-MSI-H colorectal cancer (CRC)
-1L patients
-2L patients
-Follicular lymphoma (FL)
-1L patients
-2L patients
-1L patients
-2L patients
-Classical Hodgkin lymphoma (cHL)
-1L patients
-2L patients
-Metastatic tiple negative breast cancer (TNBC)
-1L patients
-2L patients
-1L patients
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+competitors below.
+Figure 23: Ongoing trials by competitors for key generic drugs
+We summarize the ongoing trials for other generics of Hengrui below.
+PD-1/ PD-L1 patient-based
+model for China
+Summary of PD-1/ PD-L1 theoretical market size
+We summarize the overall PD-1/PD-L1 market in China as below. Our forecast is
+based on market breakdown of first line/ second line and beyond patient-based
+model of 14 cancer types.
+Deutsche Bank AG/Hong Kong
 Key assumptions of the model
-Assume 75% discount vs US pricing and NRDL inclusion
+Assume 75% discount vs. US pricing and NRDL inclusion
 Executives engaged in late stage PD-1 studies believe that the government is likely
 to accept a 50% price cut of PD-1 global pricing as an entry point for inclusion
-in the NRDL based on our initial discussion with them As such a listed price
-of RMB250000 per year is likely for domestic PD-1 translating into an eective
-pricing of RMB125000 for six-month therapy with additional courses for free We
-model each indication based on the aforementioned prices with RMB125000 as
-a price ceiling per patient regardless of treatment duration
-Treatment ratio and aordability
-To start we believe a treatment ratio of 20% could be reasonable as the number
-represents the entire urban population
-These assumptions are the largest variables with the highest uncertainty We do
-not claim to have a crystal ball while only listing our assumptions in the following
-so that buyside could stand on our shoulder to make dierent but appropriate
-assumptions
-We assume 20% treatment ratio for new cancer patients of each indication
-started from 14bn population and incidence ratios
+in the NRDL, based on our initial discussion with them. As such, a listed price
+of RMB250,000 per year is likely for domestic PD-1, translating into an effective
+pricing of RMB125,000 for six-month therapy with additional courses for free. We
+model each indication based on the aforementioned prices with RMB125,000 as
+a price ceiling per patient regardless of treatment duration.
+Treatment ratio and affordability
+To start, we believe a treatment ratio of 20% could be reasonable as the number
+represents the entire urban population.
+These assumptions are the largest variables with the highest uncertainty. We do
+not claim to have a crystal ball, while only listing our assumptions in the following
+so that buyside could stand on our shoulder to make different but appropriate
+assumptions.
+We assume 20% treatment ratio for new cancer patients of each indication,
+started from 1.4bn population and incidence ratios.
 We examined distribution of population covered by three main insurance
-schemes distribution of respectively funding consumed as well as the
-source of funding We highlight that urban employees which represented
-only 21% population consumed 62% of the entire insurance funding
-as such we believe a 30% treatment ratio is appropriate to start with
+schemes, distribution of respectively funding consumed, as well as the
+source of funding. We highlight that urban employees, which represented
+only 21% population, consumed 62% of the entire insurance funding,
+as such, we believe a 30% treatment ratio is appropriate to start with,
 assuming another 10% population would be covered (which would
 consume the rest 38% of the insurance funding)
-We shave o 13 of the aforementioned numbers to arrive 20% treatment
-ratio based on our belief that these pricy oncology drugs would have
-a quota system set up by the government payors Recently we have
-learned that it is likely a quota system would be introduced for those
-drugs included in the new NRDL through negotiation
-Figure 26 Breakdown of medical insurance schemes and covered population (2015)
-Funding (RMBbn)
-Population covered (mn)
-As % of total population
-As % of total insurance funding
-Source Deutsche Bank MoHRSS NBS
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-We believe 60% affordability ratio is a reasonable starting point as we assume
-patients would have to pay at least 20% out-of-pocket fees which include
-an additional RMB25000 (assume RMB125000 effective price per treatment
-A recent survey included 14594 cancer patients in China who received
-treatment between 2012-2014 The results indicated that average
-of USD8607 Assuming a USDCNY rate of 7 this represents treatment
-expense of RMB68173 per annum Additionally the survey indicated
-that self-pay is about 788% translating into out-of-pocket payment of
-RMB54000 (HY Huang et al Chin J Cancer (2017) 3641)
-We assume an additional RMB25000 price tag would reduce the
-available number of patients by 13 which ends with approximately 67%
-aordability ratio
-We took an additional 7% cut on this as the survey was based on 37
-tier 1 hospitals from 13 provinces Recall our previous assumption for
-treatment ratio include patients from rural area which may not have the
-We generally use clinical data from US pivotal studies However we adjusted key
-data based on feedback we received from physicians so far including
-We reduce duration of treatment to 8 months for 1L NSCLC from 103
-months demonstrated in KN-024 (pembrolizumab P3 study) We have
-learned that response rate is lower at EGFR- patients from PD-1chemo
-would be much dierent in PD-L1 high level patients we lower duration
+We shave off 1/3 of the aforementioned numbers to arrive 20% treatment
+ratio, based on our belief that these pricy oncology drugs would have
+a quota system set up by the government payors. Recently, we have
+learned that it is likely a quota system would be introduced, for those
+drugs included in the new NRDL through negotiation.
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+We believe 60% affordability ratio is a reasonable starting point, as we assume
+patients would have to pay at least 20% out-of-pocket fees, which include
+an additional RMB25,000 (assume RMB125,000 effective price per treatment
+course) on top of the entire expenses for a complete cancer treatment.
+A recent survey included 14,594 cancer patients in China, who received
+treatment between 2012-2014. The results indicated that average
+spending for a cancer patient is USD9,739, vs. annual household income
+of USD8,607. Assuming a USDCNY rate of 7, this represents treatment
+expense of RMB68,173 per annum. Additionally, the survey indicated
+that self-pay is about 78.8%, translating into out-of-pocket payment of
+RMB54,000. (HY Huang et al, Chin J Cancer (2017), 36:41)
+We assume an additional RMB25,000 price tag would reduce the
+available number of patients by 1/3, which ends with approximately 67%
+affordability ratio.
+tier 1 hospitals from 13 provinces. Recall our previous assumption for
+treatment ratio include patients from rural area, which may not have the
+same household income.
+Duration of therapy
+We generally use clinical data from US pivotal studies. However we adjusted key
+data based on feedback we received from physicians so far, including:
+months demonstrated in KN-024 (pembrolizumab P3 study). We have
+learned that response rate is lower at EGFR- patients from PD-1/chemo
+combo vs. US studies (for all comers). While we are not sure whether ORR
+would be much different in PD-L1 high level patients, we lower duration
 of treatment in order to be cautious
-We reduce duration of treatment to 4 months for 1L melanoma from
-61 months demonstrated from KN006 (pembrolizumab) and CM-066
-(nivolumab) We have learned that ORR ranges from 20-25% among
-Chinese melanoma patients vs 35-40% in US patients We highlight
-the dierence resides in disease histology and etiology (please see our
-reported published on June 7 ASCO take-aways physician feedback on
+We reduce duration of treatment to 4 months for 1L melanoma, from
+(nivolumab). We have learned that ORR ranges from 20-25% among
+Chinese melanoma patients, vs. 35-40% in US patients. We highlight
+the difference resides in disease histology and etiology. (please see our
+reported published on June 7, ASCO take-aways: physician feedback on
 IO Chinese studies)
-We await further clarity on key Chinese studies on GC NSCLC and HCC to further
-adjust this assumption
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Available number of patients for 1L vs 2L2L therapy
-In our view it is unlikely 100% 2L patients would receive PD-1PDL1 again after
-they receive these drugs as 1L therapy While we realize the market opportunity
-would be articially lower than actual size by assuming a fraction of 2L patients
-as available patients for IO therapy our objective is to assess a proper overall
-market size This is the largest dierence between our model vs US model
-For gastric cancer meta-analysis suggested 40-60% high PD-L1
-expressors among Asian GC patients (Liu et al Onco Targets Ther
-(2016) 9 2649-54) As such we assume 100% treatment ratio for all
-high expressors and 60% for nonlow expressors Additionally we only
-assume 44% of the patients would receive PD-1 in 2L therapy as 1)
-aforementioned assumptions leave 20% GC patients as IO nave for 2L
-2) we assume 30% patients that received 1L PD-1PD-L1 would receive
-these drugs again in 2L
-Likewise for NSCLC we assume 60% treatment ratio for nonlow PD-L1
-expressors while assuming 51% treatment ratio for 2L patients because
-1) our assumptions for 1L leave 30% patients as IO nave for 2L 2) we
-assume 30% patients that received 1L PD-1PD-L1 would receive these
-drugs again in 2L
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 27 Advanced Gastric cancer (GC)
-China population (1)
-Gastric cancer (GC)
-Incidence (2)
-Patients with advanced disease
-% with advanced disease (3)
-Patients with advanced disease receiving treatment
-% high PD-L1 expressors (4)
-Treatment ratio (5)
-Affordability ratio (6)
-1L patients - High PD-L1 expressors
-Cost per patient per month (RMB)
-Average months of therapy (7)
-Average months of payment
-Theoretical market size (RMBm)
-1L patients - nonlow PD-L1 expressors
-Patients receiving treatment
-Cost per patient per month (RMB)
-Average months of therapy (7)
-Average months of payment
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (8)
-Cost per patient per month (RMB)
-Average months of therapy (9)
-Theoretical market size (RMBm)
-Total gastric cancer market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 50% of patients have locally advanced or metastatic disease at diagnosis (SEER database)
-(4) Approximately 50% are PD-L1 high expressors Onco Targets Ther (2016) 9 2649-54
-(5) Deutsche Bank estimates
+We await further clarity on key Chinese studies on GC, NSCLC and HCC to further
+adjust this assumption.
+Available number of patients for 1L vs. 2L/2L+ therapy
+In our view, it is unlikely 100% 2L patients would receive PD-1/PDL1 again after
+they receive these drugs as 1L therapy. While we realize the market opportunity
+would be artificially lower than actual size by assuming a fraction of 2L patients
+as available patients for IO therapy, our objective is to assess a proper overall
+market size. This is the largest difference between our model vs. US model.
+expressors among Asian GC patients (Liu et al, Onco Targets Ther
+(2016) 9: 2649-54). As such, we assume 100% treatment ratio for all
+high expressors and 60% for non/low expressors. Additionally, we only
+assume 44% of the patients would receive PD-1 in 2L therapy, as 1)
+aforementioned assumptions leave 20% GC patients as IO naïve for 2L;
+2) we assume 30% patients that received 1L PD-1/PD-L1 would receive
+these drugs again in 2L.
+expressors, while assuming 51% treatment ratio for 2L patients because
+1) our assumptions for 1L leave 30% patients as IO naïve for 2L; 2) we
+assume 30% patients that received 1L PD-1/PD-L1 would receive these
+drugs again in 2L.
+(2) Concer Statistics in China, 2015
+(3) Approminable y Doby of patients have locally advanced or metastatic disease at diagnosis (SERR database)
+(4) Approminable y SON are BP-LL high expressors, Onco Targets Ther (2016)
+(7) Based on the median PFS of 6.6 months for Keytruda in KN059 cohort 2 (8) An estimated 30% of patients in the US and Europe and 70-80% in Japan
+(9) Based on the median PFS of 2.0 months for Keytruda in KN059 cohor
+Source: Deutsche Bank, Company data
 (6) Deutsche Bank estimates
-(7) Based on the median PFS of 66 months for Keytruda in KN059 cohort 2
-(8) An estimated 30% of patients in the US and Europe and 70-80% in Japan receive 2L treatment ASCO GI 2014
-(9) Based on the median PFS of 20 months for Keytruda in KN059 cohort 1
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 28 Advanced Hepatocellular carcinoma (HCC)
-China population (1)
-Hepatocellular carcinoma (HCC)
-Incidence (2)
-Patients with advanced disease
-% with advanced disease (3)
-Patients with advanced disease receiving treatment
-Treatment ratio (4)
-Affordability ratio (5)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (7)
-Cost per patient per month (RMB)
-Average months of therapy (8)
-Theoretical market size (RMBm)
-Total HCC market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 35% of patients have metastatic disease at diagnosis (SEER database)
-(4) Deutsche Bank estimates
-(5) Deutsche Bank estimates
-(6) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 1L HCC)
-(7) Approximately 30% of patients treated with 1L sorafenib discontinue treatment due to disease progression based on interim data from the GIDEON
-(8) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 2L HCC)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 29 Advanced Non-Small Cell Lung Cancer (NSCLC)
-China population (1)
-Non-small cell lung cancer (NSCLC)
-Incidence (2)
-% of NSCLC (3)
-Patients with advanced NSCLC (Stage IIIBIV)
-% with advanced NSCLC (Stage IIIBIV)  (4)
-Non-ALKEGFR expressors
-% non-ALKEGFR expressors (5)
-High PD-L1 expressors
-% high PD-L1 expressors (6)
-High PD-L1 expressors receiving treatment
-Treatment ratio (7)
-Affordability ratio (8)
-1L patients - High PD-L1 expressors
-Cost per patient per month (RMB)
-Average months of therapy (9)
-Average months of payment
-Theoretical market size (RMBm)
-1L patients - nonlow PD-L1 expressors
-Patients receiving treatment
-Cost per patient per month (RMB)
-Average months of therapy (10)
-Average months of payment
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (11)
-Cost per patient per month (RMB)
-Average months of therapy (12)
-Theoretical market size (RMBm)
-Total NSCLC market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Estimates from industry expert that 87% of all lung cancer patients are NSCLC
-(4) China Journal of Oncology June 2013 Vol 35 No6
-(5) China Journal of Oncology June 2013 Vol 35 No6
-(6) Merck estimates that 25% of patients are high PD-L1 expressors
-(7) Deutsche Bank estimates
-(8) Deutsche Bank estimates
-(10) Based on the median duration of exposure of 80 months for Keytruda in KN021G
+(9) Wedian PFS was 10.3 months for Keyrtuda in KN024, however we estimate response rate of Chinese patients from 11 NSCL PD-1/chemo-combo study in EGFR patients is much lower than reported US data, as such we reduced durat
+uda in KN010, 3.0 months for Opdivo in two trials, and 3.7 months for Tecentriq
+(12) Based on the median duration of exposure of 3.5 months for Keytn
+Source: Deutsche Bank, Company data
 (11) Deutsche Bank estimates
-(12) Based on the median duration of exposure of 35 months for Keytruda in KN010 30 months for Opdivo in two trials and 37 months for Tecentriq
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 30 Advanced Small Cell Lung Cancer (SCLC)
-China population (1)
-Small cell lung cancer (SCLC)
-Incidence (2)
-% of SCLC (3)
-Patients with extensive disease
-% with extensive disease (4)
-Patients with extensive disease receiving treatment
-Treatment ratio (5)
-Affordability ratio (6)
-1L patients (extensive disease)
-Cost per patient per month (RMB)
-Average months of therapy (7)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (8)
-Cost per patient per month (RMB)
-Average months of therapy (9)
-Theoretical market size (RMBm)
-Total SCLC market size (RMBm)
-Source Deutsche Bank
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Estimates from industry expert that 13% of all lung cancer patients are SCLC
-(4) The American Cancer Society (ACS) estimates that two-thirds of SCLC patients have extensive disease at diagnosis
-(5) Deutsche Bank estimates
-(6) Deutsche Bank estimates
-(7) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 1L SCLC)
-(8) SCLC recurs in a majority of patients after 1L treatment
-(9) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 2L SCLC)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 31 Advanced Ovarian cancer (OC)
-China population (1)
-Ovarian cancer (OC)
-Incidence (2)
-Patients with advanced disease
-% with advanced disease (3)
-Patients with advanced disease receiving treatment
-Treatment ratio (4)
-Affordability ratio (5)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (7)
-Cost per patient per month (RMB)
-Average months of therapy (8)
-Theoretical market size (RMBm)
-Total ovarian cancer market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 60% of patients have metastatic disease at diagnosis (SEER database)
-(4) Deutsche Bank estimates
-(5) Deutsche Bank estimates
-(6) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 1L OC)
-(7) An estimated 85% of patients who achieve remission following 1L treatment will develop recurrent disease (Oncology Journal 2013)
-(8) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 2L OC)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 32 Advanced Renal cell carcinoma (RCC)
-China population (1)
-Renal cell carcinoma (RCC)
-Incidence (2)
-Patients with advanced disease
-% with advanced disease (3)
-Patients with advanced disease receiving treatment
-Treatment ratio (4)
-Affordability ratio (5)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Average months of payment
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (7)
-Cost per patient per month (RMB)
-Average months of therapy (8)
-Theoretical market size (RMBm)
-Total RCC market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 32% of patients have locally advanced or metastatic disease at diagnosis (SEER database)
-(4) Deutsche Bank estimates
-(5) Deutsche Bank estimates
-(6) Based on the median PFS of 117 months for Tecentriq (Avastin) in IMmotion150
-(7) PFE estimates that 40-65% of patients receive 2L treatment
-(8) Based on the median duration of exposure of 55 months for Opdivo in CM-025
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 33 Advanced Diuse large B-cell lymphoma (DLBCL)
-China population (1)
-Diffuse large B-cell lymphoma (DLBCL)
-Incidence (2)
-Patients receiving treatment
-Treatment ratio (3)
-Affordability ratio (4)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (5)
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-Total DLBCL market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Deutsche Bank estimates
-(4) Deutsche Bank estimates
-(6) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 2L DLBCL)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 34 Advanced Urothelial cancer (UC)
-China population (1)
-Urothelial cancer (UC)
-Incidence (2)
-Patients with advanced disease
-% with advanced disease (3)
-Patients with advanced disease receiving treatment
-Treatment ratio (4)
-Affordability ratio (5)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (7)
-Cost per patient per month (RMB)
-Average months of therapy (8)
-Theoretical market size (RMBm)
-Total urothelial cancer market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 11% of patients have locally advanced or metastatic disease at diagnosis (SEER database)
-(4) Deutsche Bank estimates
-(5) Deutsche Bank estimates
-(6) Based on the median duration of exposure of 28 months for Keytruda in KN052 and 35 months for Tecentriq in IMvigor210 (cohort 1)
-(7) An estimated 20% of patients require 2L treatment (First- and second-line therapy for metastatic urothelial carcinoma of the bladder Urologic Oncology 2011)
-(8) Based on the median duration of exposure of 35 months for Keytruda in KN045 33 months for Opdivo 28 months for Tecentriq in IMvigor210 (cohort 2) and 35 months
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 35 Advanced Squamous Cell Carcinoma of the Head and Neck (SCCHN)
-China population (1)
-Squamous Cell Carcinoma of the Head and Neck (SCCHN)
-Incidence (2)
-Patients with metastatic HNC
-% with metastatic HNC (3)
-Patients with squamous cell HNC
-% with squamous cell HNC
-Patients with advanced disease receiving treatment
-Treatment ratio (4)
-Affordability ratio (5)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (7)
-Cost per patient per month (RMB)
-Average months of therapy (8)
-Theoretical market size (RMBm)
-Total SCCHN market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) An estimated 32% of patients experience distant metastasis (Clinical Cancer Research 2012)
-(4) Deutsche Bank estimates
-(5) Deutsche Bank estimates
-(6) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 1L SCCHN)
-(7) An estimated 25-50% of patients with advanced cancer experience locoregional recurrence (Magazine of European Medical Oncology 2014)
-(8) Based on the median duration of exposure of 33 months for Keytruda in KN012 and 19 months for Opdivo in CM-141
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 36 Advanced MSI-H colorectal cancer (CRC)
-China population (1)
-MSI-H colorectal cancer (CRC)
-Incidence (2)
-Patients with advanced disease
-% with advanced disease (3)
-Patients with MSI-H tumors
-% with MSI-H tumors (4)
-Patients with advanced disease receiving treatment
-Treatment ratio (5)
-Affordability ratio (6)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (7)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (8)
-Cost per patient per month (RMB)
-Average months of therapy (9)
-Theoretical market size (RMBm)
-Total MSI-H CRC market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 21% of patients have metastatic disease at diagnosis (SEER database)
-(4) An estimated 4% of advanced CRC patients have mismatch repair deficiency (Clinical Cancer Research 2016)
-(5) Deutsche Bank estimates
-(6) Deutsche Bank estimates
-(7) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 1L MSI-H CRC)
-(8) 75% of patients with metastatic CRC received 2L therapy in the FOCUS study (the UK MRC FOCUS (CR08) trial)
-(9) Based on the median PFS of 23 months for Keytruda in KN164
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 37 Advanced melanoma
-China population (1)
-Incidence (2)
-Patients with advanced disease (Stage III or IV)
-% with advanced disease (3)
-Patients with advanced disease receiving treatment
-Treatment ratio (4)
-Affordability ratio (5)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (7)
-Cost per patient per month (RMB)
-Average months of therapy (8)
-Theoretical market size (RMBm)
-Total melanoma market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 13% of patients have locally advanced or metastatic disease at diagnosis (SEER database)
-(4) Deutsche Bank estimates
-(5) Deutsche Bank estimates
-(6) Based on the median duration of exposure of 56 months for Keytruda in KN006 and 65 months for Opdivo in CM-066 however existing data from Chinese patients indicated a much lower response rate
-(7) Approximately 29% of patients received 2L treatment in a retrospective analysis of US patients with metastatic melanoma (Journal of Skin Cancer 2014)
-(8) Based on the median duration of exposure of 43 months for Keytruda in KN002 and 53 months for Opdivo in CM-037 however existing data from Chinese patients indicated a much lower response rate
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 38 Advanced Follicular lymphoma (FL)
-China population (1)
-Follicular lymphoma (FL)
-Incidence (2)
-Patients receiving treatment
-Treatment ratio (3)
-Affordability ratio (4)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (5)
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Theoretical market size (RMBm)
-Total FL market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Deutsche Bank estimates
-(4) Deutsche Bank estimates
-(5) An estimated 20% of FL patients experience progression within two years of initial chemoimmunotherapy (Journal of Clinical Oncology 2015)
-(6) Placeholder assumption (pending PFS data from PD-1PD-L1 studies for 2L FL)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 39 Advanced Classical Hodgkin lymphoma (cHL)
-China population (1)
-Classical Hodgkin lymphoma (cHL)
-Incidence (2)
-Patients receiving treatment
-Treatment ratio (3)
-Affordability ratio (4)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (5)
-Cost per patient per month (RMB)
-Average months of therapy (6)
-Average months of payment
-Theoretical market size (RMBm)
-Total cHL market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Deutsche Bank estimates
-(4) Deutsche Bank estimates
-(5) An estimated 80% of patients are cured with 1L treatment (Lymphoma Research Foundation)
-(6) Based on the median duration of exposure of 84 months for Keytruda in KN087 and 110 months for Opdivo in CM-205
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Figure 40 Advanced triple negative breast cancer (TNBC)
-China population (1)
-Metastatic triple negative breast cancer (TNBC)
-Incidence (2)
-Patients with metastatic disease
-% with metastatic disease (3)
-Patients with metastatic TNBC
-% with metastatic TNBC (4)
-Patients with advanced disease receiving treatment
-Treatment ratio (5)
-Affordability ratio (6)
-1L patients
-Cost per patient per month (RMB)
-Average months of therapy (7)
-Theoretical market size (RMBm)
-2L patients
-% 2L patients (8)
-Cost per patient per month (RMB)
-Average months of therapy (9)
-Theoretical market size (RMBm)
-Total TNBC market size (RMBm)
-(1) World Bank estimates
-(2) Cancer Statistics in China 2015
-(3) Approximately 6% of patients have metastatic disease at diagnosis (SEER database)
-(4) MRK estimates that 10-20% of diagnosed patients present with the triple negative form
-(5) Deutsche Bank estimates
-(6) Deutsche Bank estimates
-(7) Based on the median PFS of 20 months for Keytruda in KN086 cohort A
-(8) The Metastatic Breast Cancer Network estimates that 20-30% of patients experience a recurrence of disease
-(9) Based on the median PFS of 21 months for Keytruda in KN086 cohort B
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Outlook of PD-1PD-L1 treatment
-The PD-1 (programmed cell death1) receptor and ligands PD-L1PD-L2 belong to
-the family of immune checkpoint proteins which can halt or limit the development
-of the T cell response PD1PD-L1 interaction ensures that the immune system
+(8) Deutsche Bank estimates
+Source: Deutsche Bank, Company data
+in KNO22 and 3.5 months for Tecentriq in Mulgar210 (cohort 1)
+line threapy for metastatic underlial carcinoma of the bladder. Unlogic Oncology, 2011)
+in threapy for copology, 2011)
+and the same of the copology, 2011 and 3.
+(5) Deutsche Bank estimates(5) Based on the mediain duration of exposure of 2.8 months for Keytruda(7) An estimated 20% of patients require 2.1 treatment (First- and second-(8) Based on the median duration of exposure o
+Source: Deutsche Bank, Company data
+Source: Deutsche Bank, Company data
+(if Destrothe Bask estimates(§) An estimated 20% of the perfect experience progression within two years of initial chemoimmunotherapy (Journal of Clinical Oncology, 2015)(9) Restroinders assumption perfecting by State fr
+Source: Deutsche Bank, Company data
+(2) Cancer Statistics in China, 2015(3) Deutsche Bank estimates
+Source: Deutsche Bank, Company data
+Source: Deutsche Bank, Company data
+Outlook of PD-1/PD-L1 treatment
+The PD-1 (programmed cell death-1) receptor and ligands PD-L1/PD-L2 belong to
+the family of immune checkpoint proteins, which can halt or limit the development
+of the T cell response. PD1/PD-L1 interaction ensures that the immune system
 is activated only at the appropriate time in order to minimize the possibility of
-chronic autoimmune inammation
-The PD1PD-L1 pathway represents an adaptive immune resistance mechanism
-that is exerted by tumor cells in response to endogenous anti-tumor activity
+chronic autoimmune inflammation.
+The PD1/PD-L1 pathway represents an adaptive immune resistance mechanism
+that is exerted by tumor cells in response to endogenous anti-tumor activity.
 Two cancer immunotherapy agents targeting the PD-1 receptor has been
-marketed Opdivo nivolumab and Keytruda pembrolizumab Both anti-PD-1
-Three PD-L1 therapies have been approved by FDA based on signicant clinical
-benets in the immuno-oncology space
-Overall high response rate vs other therapies
-Anti-PD-1 PD-L1 therapies stands out from the traditional anti-tumor inhibitors
-on the back of superior ORR (overall response rate) duration of response and
-moderate safety prole We summarize the ORR rates for dierent tumor types
-udner PD-1PD-L1 therapies as below Notably melanoma has the highest ORR
-Figure 41 Overall response rate for PD-1PD-L1 monotherapy (%)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-PD-1 PD-L1 pathway future to IO treatments
-As of FY2016 Rituxan Revlimid and Avastin are the top 3 best-selling oncology
-drugs based on worldwide sales data Top three blockbusters achieved total
-revenue of USD74bn 70bn69bn respectively in 2016 Among the top 20
-oncology drugs three of them are from the PD-1PD-L1 class despite their relative
-new appearance and approval Evaluate Pharma projected that ve checkpoint
-inhibitors will be among top 20 best-sellers by 2022E which are Opdivo Keytruda
-Tecentriq Yervoy and Imnzi Estimated sales for Opdivo Keytruda and Yervoy
-in 2022E are USD112bn80bn27bn respectively implying CAGR 2016-22E of
-15% 34% 17%
-Figure 42 Top 20 drugs in 2016 vs 2022E based on total global sales
-Oncology Top 20
-drugs ranked 2016
-Oncology Top 20 drugs
-ranked 2022
-Source Deutsche Bank Company data Evaluate Pharma
-The overall cancer immuno-oncology market is expected to surpass USD34bn
-in 2024E with checkpoint inhibitors leading the future treatment algorithms
+agents produced high complete response or partial response in numerous tumors.
+Three PD-L1 therapies have been approved by FDA, based on significant clinical
+benefits in the immuno-oncology space.
+Overall high response rate vs. other therapies
+Anti-PD-1/ PD-L1 therapies stands out from the traditional anti-tumor inhibitors
+on the back of superior ORR (overall response rate), duration of response and
+moderate safety profile. We summarize the ORR rates for different tumor types
+udner PD-1/PD-L1 therapies as below. Notably, melanoma has the highest ORR
+with c. 43%, compared to average ORR of 20% for all tumors.
+Source: Deutsche Bank. Company data
+PD-1/ PD-L1 pathway future to IO treatments
+As of FY2016, Rituxan, Revlimid and Avastin are the top 3 best-selling oncology
+drugs based on worldwide sales data. Top three blockbusters achieved total
+oncology drugs, three of them are from the PD-1/PD-L1 class, despite their relative
+new appearance and approval. Evaluate Pharma projected that five checkpoint
+inhibitors will be among top 20 best-sellers by 2022E, which are Opdivo, Keytruda,
+Tecentriq, Yervoy and Imfinzi. Estimated sales for Opdivo, Keytruda and Yervoy
+in 2022E are USD11.2bn/8.0bn/2.7bn respectively, implying CAGR 2016-22E of
+15%, 34%, 17%.
+The overall cancer/ immuno-oncology market is expected to surpass USD34bn
+in 2024E, with checkpoint inhibitors leading the future treatment algorithms.
 We summarize below the top 6 checkpoint inhibitors based on projected
-2022E global sales Among them two PD-1 inhibitors (Opdivo and Keytruda)
-captured accounted for USD19bn market size followed by three PD-L1 inhibitors
-(Tecentriq Bavencio Imnzi) and one CTLA-4 inhibitor Yervoy We believe PD-1
+2022E global sales. Among them, two PD-1 inhibitors (Opdivo and Keytruda)
+captured accounted for USD19bn market size, followed by three PD-L1 inhibitors
+and PD-L1 inhibitors are likely to become one of the mainstream treatment
 algorithms for cancer and auto-immune diseases given its superior clinical
-ecacy and decent safety prole
-Figure 43 Top 6 checkpoint inhibitors by 2022E sales
-Sales in 2022E (USDmn)
-MerckPfizer
-Source Deutsche Bank Company data Evaluate Pharma
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-PD-1 PD-L1 ongoing trials in China
-obtaining approval Among them Hengrui Shanghai Junshi pharma and BeiGene
-(camrelizumab) JS001 and BGB-A317 respectively
-SHR-1210 camrelizumab (Hengrui)
-SHR-1210 is a humanized anti-PD-1 IgG4 antibody that blocks the binding of
-PD-L1 and PD-L2 to PD-1 According to ASCO abstract e15572 a total of 58
-patients were treated with SHR-1210 at 3 dose levels and schedules 60 mg Q2W
-(12 patients) 200 mg Q2W (34 patients) and 400 mg Q2W (12 patients) 4958
-patients received  2 cycles (each cycle was 28 days) while 3658 patients were
-receiving ongoing treatment at the time of abstract preparation
-capillary hemangiomas (793%) hypothyroidism (293%) pruritus (190%) and
-elevated transaminase (138%) Among the 46 cases of hemangiomas only
-5 patients were with grade 2 and others evaluated as grade 1 Potentially
+efficacy, and decent safety profile.
+PD-1/ PD-L1 ongoing trials in China
+As of June 2017, 6 compounds developed by domestic companies were
+undergoing clinical trials, and 1 compound yet to start patients enrollment after
+obtaining approval. Among them, Hengrui, Shanghai Junshi pharma and BeiGene
+(camrelizumab), JS001 and BGB-A317 respectively.
+SHR-1210/ camrelizumab (Hengrui)
+SHR-1210 is a humanized anti-PD-1 lgG4 antibody that blocks the binding of
+patients were treated with SHR-1210 at 3 dose levels and schedules: 60 mg Q2W
+patients received > 2 cycles (each cycle was 28 days) while 36/58 patients were
+receiving ongoing treatment at the time of abstract preparation.
+SHR-1210 displayed decent safety profile, as the most common AEs are reactive
+capillary hemangiomas (79.3%), hypothyroidism (29.3%), pruritus (19.0%) and
+elevated transaminase (13.8%). Among the 46 cases of hemangiomas, only
+5 patients were with grade 2, and others evaluated as grade 1. Potentially
 serious AEs related to camrelizumab include acute exacerbation of chronic
-obstructive pulmonary diseases elevated cardiac troponin thrombocytopenia
-and neutropenia Overall the objective response rate (ORR) stood at 310% with
-a disease control rate of 465% As for tumor response zero patients had CR
-10 esophageal squamous cell carcinoma patients (1029) three gastric cancer
-patients (38) one lung cancer patient (13) one nasopharynx cancer patient (13)
-one hepatocellular carcinoma patient (13) one colorectal carcinoma patient (13)
-and one bladder cancer patient (11)
-We summarize the ongoing trials for SHR-1210 in the following table
-Figure 44 Hengrui SHR-1210 ongoing trials
-Registration No
-1L Non-Small Cell Lung Cancer
-Phase 3 SHR-1210chemotherapy (carboplatin  pemetrexed)
-vs chemotherapy (carboplatin  pemetrexed)
-2L Advanced Esophageal Cancer
-SHR-1210 vs Docetaxel vs Irinotecan
-2L Advanced Hepatocellular Carcinoma
-SHR-1210 Q2W vs SHR-1210 Q3W
-18 6-month OS% ORR (phase
-Refractory classical Hodgkin Lymphoma
-SHR-1210 Q2W
-ORR assessed by IRC CR
-2L Non-Small Cell Lung Cancer
-SHR-1210 Q2W
-3L Non-Small Cell Lung Cancer
-SHR-1210 Q2W apatinib 250mgd vs SHR-1210
-Q2W apatinib 500mgd
-AE SAE ORR
-Advanced Hepatocarcinoma
-SHR-1210Apatinib vs SHR-1210FOLFOX4
-1L Nasopharyngeal carcinoma
-SHR-1210 Q1WGemcitabine Hydrochloride
-Cisplatin
-SHR-1210 dose escalation
-Safety tolerability
-SHR-1210 dose escalation
-Safety tolerability
-SHR-1210 dose escalation
-Safety tolerability
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+obstructive pulmonary diseases, elevated cardiac troponin, thrombocytopenia
+and neutropenia. Overall, the objective response rate (ORR) stood at 31.0%, with
+a disease control rate of 46.5%. As for tumor response, zero patients had CR
+(compete response), while eighteen patients had PR (partial response), including
+10 esophageal squamous cell carcinoma patients (10/29), three gastric cancer
+patients (3/8), one lung cancer patient (1/3), one nasopharynx cancer patient (1/3),
+one hepatocellular carcinoma patient (1/3), one colorectal carcinoma patient (1/3),
+and one bladder cancer patient (1/1).
+We summarize the ongoing trials for SHR-1210 in the following table.
 JS001 (Shanghai Junshi Pharma)
 JS001 is a humanized anti-PD-1 IgG4K antibody that blocks PD-1 interactions
-with its ligands PD-L1 and PD-L2 According to ASCO abstract 3067 a total of 36
-patients were enrolled for 3 indications (melanoma n22 UC n9 RCC n5)
-treatment-related AEs were of grade 12 including hyper-thyroidism (42%) rash
-(39%) fever (28%) leukopenia (22%) and elevation of liver enzymes (19%)
-Grade 3 AEs include proteinuria (n  1) and elevated lipase (n  2) Company
-highlighted that emergence of AEs is not dose related Its PK analysis showed
-dose-dependent exposure with the elimination half-life of 6 to 12 days Among 32
-response and 10 patients achieved stable disease registering an ORR of 23%
-and a DCR of 53% Notably two groups beneted most from JS001 treatment
-patients with high tumor-inltrating lymphocytes (TIL) (50% ORR) and subjects
-with  1% PD-L1 expression in tumor biopsy (46% ORR) Phase 1 study suggests
-that JS001 demonstrated promising anti-tumor activity especially in previously
-under-evaluated acral and mucosal melanomas
-We summarize the ongoing trials for JS001 as below
-Figure 45 Junshi JS001 ongoing trials
-Registration No
-2L Urothelial Bladder Carcinoma
-JS001 single arm
-Safety tolerability ORR
-JS001 single arm
-2L Advanced Gastric Adenocarcinoma Esophageal
-Cancer Nasopharyngeal Carcinoma Head and Neck
-Squamous Cell Carcinoma
-JS001 single arm
-Advanced Neuroendocrine Tumor
-JS001 single arm
-Safety tolerability ORR
-Advanced Renal Carcinoma  Melanoma
-JS001 single arm
-AE ECG vital signs
-2L Advanced Triple Negative Breast Cancer
-JS001 single arm
-AE ECG vital signs
-2L Advanced Triple Negative Breast Cancer
-JS001 single arm
-AE ECG vital signs
-2L Advanced Triple Negative Breast Cancer
-JS001 single arm
-AE ECG vital signs
-Advanced or Recurrent Malignant Tumor
-JS001 single arm
-Safety tolerability
-atineoplasmic activity
-JS001 single arm
-Safety tolerability DLT
-JS001 single arm
-Safety tolerability DLT
-JS001 single arm
-Tolerability safety ORR
+patients were enrolled for 3 indications (melanoma, n=22/ UC, n=9/ RCC, n=5).
+JS001 displayed superior safety and tolerability profile, as the most common
+treatment-related AEs were of grade 1/2, including hyper-thyroidism (42%), rash
+(39%), fever (28%), leukopenia (22%) and elevation of liver enzymes (19%).
+Grade 3 AEs include proteinuria (n = 1), and elevated lipase (n = 2). Company
+highlighted that emergence of AEs is not dose related. Its PK analysis showed
+evaluable patients, one melanoma patient has complete response, 7 have partial
+response, and 10 patients achieved stable disease, registering an ORR of 23%
+and a DCR of 53%. Notably, two groups benefited most from JS001 treatment,
+patients with high tumor-infiltrating lymphocytes (TIL) (50% ORR) and subjects
+with > 1% PD-L1 expression in tumor biopsy (46% ORR). Phase 1 study suggests
+that JS001 demonstrated promising anti-tumor activity, especially in previously
+under-evaluated acral and mucosal melanomas.
+We summarize the ongoing trials for JS001 as below.
 BGB-A317 (co-developed by BeiGene and Celgene)
-BGB-A317 a humanized IgG4 variant monoclonal antibody engineered to have no
-Fc gamma receptor binding targets the programmed cell death-1 (PD-1) receptor
-It is being developed in solid and hematologic malignancies with doses of 200
-therapy of BGB-A317 and BGB-290 (a potent inhibitor of PARP 12) in patients
-on indication expansion into ovarian breast prostate gastric bladder pancreatic
-were grade 3 hypophysitis (n  1) grade 34 autoimmune hepatitis (n  2) and
-grade 2 elevated ASTALT (n  1) Decreases in tumor burden have been observed
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-in 16 subjects 7 achieved PR (5 with ovarian cancer one each for uterine and
-pancreatic cancer) and one CR was observed in ovarian cancer
-We summarize the ongoing trials for BGB-A317 as below
-Figure 46 BeiGene BGB-A317 ongoing trials
-Registration No
-1L Advanced or Metastatic Non-Squamous Non-Small
-Cell Lung Cancer Squamous Cell Lung Cancer
-Extensive Small Cell Lung Cancer
-BGB-A317 single arm
-1L Esophageal Cancer Gastric Cancer
-Gastroesophageal Junction Carcinoma
-BGB-A317 single arm
-AE SAE medical checkup
-vital signs ECG
-Refractory classical Hodgkin Lymphoma
-BGB-A317 single arm
-2L Urothelial Bladder Carcinoma
-BGB-A317 single arm
-BGB-A317 single arm
-Safety tolerability PK MTD
+BGB-A317, a humanized IgG4 variant monoclonal antibody engineered to have no
+Fc gamma receptor binding, targets the programmed cell death-1 (PD-1) receptor.
+mg IV Q3W. The Phase 1/1b study is designed to evaluate the efficacy of combo
+therapy of BGB-A317 and BGB-290 (a potent inhibitor of PARP 1/2) in patients
+with advanced solid tumors. Upon completion of the trial, further investigation
+on indication expansion into ovarian, breast, prostate, gastric, bladder, pancreatic
+and small cell lung cancers is expected to commence.
+According to the ASCO abstract 3013, both compounds displayed solid safety
+profile, as the most common AEs were fatigue and nausea . Immune-related AEs
+were grade 3 hypophysitis (n = 1), grade 3/4 autoimmune hepatitis (n = 2), and
+grade 2 elevated AST/ALT (n = 1). Decreases in tumor burden have been observed
+in 16 subjects; 7 achieved PR (5 with ovarian cancer, one each for uterine and
+pancreatic cancer) and one CR was observed in ovarian cancer.
+We summarize the ongoing trials for BGB-A317 as below.
 IBI308 (Innovent Biologics)
-IBI308 is a monoclonal antibody developed for tumor immunotherapy with RD
-are being conducted in China for IBI308 with NSCLC in Phase 3 followed by
-recurrent refractory cHL and esophageal cancer in Phase 2 status We summarize
-the current clinical trials on IBI308 as below
-Figure 47 Innovent IBI308 ongoing trials
-Registration No
-2L Advanced or Metastatic Squamous Non-Small
-IBI308 vs Docetaxel
-Recurrent or Refractory classical Hodgkin
-IBI308 single arm
-2L Esophageal Cancer
-IBI308 vs Paclitaxel vs
-Irinotecan Hydrochloride
-IBI308 single arm
-Safety tolerability
-antineoplasmic activity
-We also listed the other three PD-1PD-L1 drugs undergoing clinical trials from
-targeting advanced solid tumor in open-label single arm Phase 1 trial setting
-2016 but is yet to start patient enrollment
-Registration No
-Gloria Pharma
-CTR20170433 Advanced Solid Tumor (Gastric Cancer Esophageal
-GLS-010 single arm
-AE vital signs medical
-checkup 12-lead ECG
-KN035 single arm
-Safety tolerability DLT AE
-SAE vital signs medical
-checkup 12-lead ECG
-Clinical trial pending
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-We summarize PD-1PD-L1 drug trials developed by global players as below
-Registration No
-Nivolumab
-CTR20170371 Advanced or Recurrent Gastric Cancer or Urothelial
-Nivolumab  Ipilimumab vs Nivolumab 
-OxaliplatinCapecitabine vs Nivolumab 
-OxaliplatinLeucovorinFluorouracil vs
-OxaliplatinCapecitabine vs
-OxaliplatinLeucovorinFluorouracil
-Nivolumab
-1L Non-Small Cell Lung Cancer
-Nivolumab  vs Nivolumab  Ipilimumab vs Nivolumab 
-Platinum doublet chemotherapy vs Platinum doublet
-Nivolumab
-Advanced Hepatocellular Carcinoma
-Nivolumab vs Sorafenib tosylate
-international
-Nivolumab
-2L Relapsed Small-cell Lung Cancer
-Nivolumab vs Topotecan Hydrochloride
-Nivolumab
-Advanced or Metastatic Non Small Cell Lung
-Nivolumab vs Docetaxel
-Nivolumab
-Advanced or Recurrent Solid Tumor
-AE SAE death ECG vital
-signs medical checkup
-Atezolizumab
-Non-Squamous or Squamous Non-Small Cell Lung
-Atezolizumab vs Carboplatin Cisplatin  Pemetrexed
-Atezolizumab
-Myometrial Invasive Urothelial Carcinoma
-DFS UC relapse death
-international3
-Atezolizumab
-Non-Small Cell Lung Cancer
-MPDL3280A vs Best Supportive Care
-Atezolizumab
-Non-Small Cell Lung Cancer
-MPDL3280A vs Docetaxel
-Atezolizumab
-Non-Squamous Non-Small Cell Lung Cancer
-Phase 3 Atezolizumab  Carboplatin or Cisplatin  Pemetrexed vs
-Carboplatin or Cisplatin  Pemetrexed
-Atezolizumab
-Locally Advanced or Metastatic Urothelial
-Atezolizumab vs
-AtezolizumabGemcitabineCarboplatinCisplatin vs
-PlaceboGemcitabineCarboplatinCisplatin
-Atezolizumab
-Extensive-Stage Small Cell Lung Cancer
-Atezolizumab  Carboplatin  Etoposide vs  Placebo 
-Carboplatin  Etoposide
-Atezolizumab
-Locally Advanced or Metastatic Solid Tumors
-Durvalumab
-Non-Small Cell Lung Cancer
-MEDI4736 vs Placebo
-Durvalumab
-1L Advanced Urothelial Carcinoma
-MEDI4736 vs MEDI4736  Tremelimumab vs Cisplatin
-Gemcitabine or CarboplatinGemcitabine
-international
-Durvalumab
-1L Non-Small Cell Lung Cancer
-MEDI4736  vs Paclitaxel  carboplatin or Gemcitabine 
-cisplatin or Gemcitabine  carboplatin or Pemetrexed 
-cisplatin or Pemetrexed  carboplatin
-international
-Durvalumab
-Advanced Malignancies
-MEDI4736 vs MEDI4736Tremelimumab
-3 PK AE medical checkupvital
-signs ECG
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Approved PD-1PD-L1 drugs and indications from MNCs
-corresponding tumor types and clinical trial ecacy details in the following tables
-Notably Opdivo and Keytruda has 76 approved tumor indications respectively
-as the rst two launched PD-1 inhibitors Tecentriq is the rst anti-PD-L1 agent
-with two approved cancer indications Bavancio Imnzi have 21 approved tumor
-indications respectively
-We summarize the approved ve IO treatments with corresponding indications
-and lines of therapy as below
-Figure 50 Summary of approved PD-1PD-L1 and indications
-Opdivo  (nivolumab)
-Non-Squamous NSCLC
-Classical Hodgkin lymphoma (cHL)
-Classical Hodgkin lymphoma (cHL)
-Squamous cell carcinoma of the head and neck (SCCHN)
-Urothelial carcinoma (UC)
-Microsatellite Instability-High Cancer (MSI-H cancer)
-Keytruda  (pembrolizumab)
-Non-Squamous NSCLC
-Squamous cell carcinoma of the head and neck (SCCHN)
-Classical Hodgkin lymphoma (cHL)
-Urothelial carcinoma (UC)
-Urothelial carcinoma (UC)
-Microsatellite Instability-High Cancer (MSI-H cancer)
-Tecentriq (atezolizumab)
-Urothelial carcinoma (UC)
-Urothelial carcinoma (UC)
-Bavencio (avelumab)
-Metastatic Merkel cell carcinoma (MCC)
-Urothelial carcinoma (UC)
-Imfinzi (durvalumab)
-Urothelial carcinoma (UC)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+IBI308 is a monoclonal antibody developed for tumor immunotherapy, with R&D
+and commercialization collaboration with Eli Lilly. As of July 2017, four trials
+are being conducted in China for IBI308, with NSCLC in Phase 3, followed by
+recurrent/ refractory cHL and esophageal cancer in Phase 2 status. We summarize
+the current clinical trials on IBI308 as below.
+We also listed the other three PD-1/PD-L1 drugs undergoing clinical trials, from
+domestic companies including Gloria Pharma (co-develop with Wuxi AppTec),
+Alphamab, and Gener Bio. PD-1 compounds GLS-010 and KN035 are both
+targeting advanced solid tumor, in open-label, single arm Phase 1 trial setting.
+As for GB226 from Genor Bio, the company obtained clinical trial approval in Dec
+2016, but is yet to start patient enrollment.
+We summarize PD-1/PD-L1 drug trials developed by global players as below.
+Figure 49: Summary of ongoing PD-1/PD-L1 clinical trials (global companies)
+Approved PD-1/PD-L1 drugs and indications from MNCs
+We summarize the internationally approved PD-1/PD-L1 compounds with
+corresponding tumor types and clinical trial efficacy details in the following tables.
+Notably, Opdivo and Keytruda has 7/6 approved tumor indications respectively,
+as the first two launched PD-1 inhibitors. Tecentriq is the first anti-PD-L1 agent
+with two approved cancer indications, Bavancio/Imfinzi have 2/1 approved tumor
+indications respectively.
+We summarize the approved five IO treatments with corresponding indications
+and lines of therapy as below:
 Opdivo (nivolumab)
-Opdivo is a human programmed death receptor-1 (PD-1) blocking antibody It was
-rst approved by US FDA for second line and beyond treatment in unresectable or
+Opdivo is a human programmed death receptor-1 (PD-1) blocking antibody. It was
+first approved by US FDA for second line and beyond treatment in unresectable or
+metastatic melanoma in Dec 2014. The compound received accelerated approval
 given superior overall response rate of 32% in advanced melanoma patients that
-failed Yervoy treatment previously
-Following the rst indication approval in year end 2014 Opdivo expanded
-indications to squamous and non-squamous NSCLC cHL SCCHN RCC UC and
-MSI-H cancer As of July 2017 Bristol is conducting trials in cancers including
-or chemo drugs
-Figure 51 FDA approved indications and trial results for Opdivo (as of Jul 17)
-Randomized (21)
-open-label
-OPDIVO vs chemotherapy
-responses and 34 partial responses in
-Randomized (11)
-double-blind
-OPDIVO plus Ipilimumab vs
-ORR 34% vs 9% primary OS not reached
-(111) double-
-OPDIVO plus Ipilimumab vs
-OPDIVO vs Ipilimumab
-ORR 50% vs 40% vs 14% mPFS 115m vs
-69m vs 29m
-Randomized (11)
-open-label
-OPDIVO vs docetaxel
-ORR 20% vs 9% mOS 92m vs 60m
-Non-Squamous NSCLC
-Randomized (11)
-open-label
-OPDIVO vs docetaxel
-ORR 19% vs 12% mOS 122m vs 94m
-Randomized (11)
-open-label
-OPDIVO vs everolimus
-ORR 215% vs 39% mOS 250m vs 196m
-lymphoma (cHL)
-Single arm open-
-ORR 69% in cHL after Autologous HSCT
-lymphoma (cHL)
-Single arm open-
-ORR 66% in cHL after Autologous HSCT and
-Post-transplantation Brentuximab Vedotin
-Squamous cell carcinoma
-Randomized (21)
-open-label
-OPDIVO vs cetuximab
-methotrexate docetaxel
-ORR 133% vs 58% mOS 75m vs 51m
-Urothelial carcinoma (UC)
-ORR 196% vs 151% vs 250% mDOR
-103m vs 76m vs NE
-Microsatellite Instability-
-High Cancer (MSI-H
-open-label single
-ORR 32% vs 28%
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+failed Yervoy treatment previously.
+Following the first indication approval in year end 2014, Opdivo expanded
+indications to squamous and non-squamous NSCLC, cHL, SCCHN, RCC, UC and
+MSI-H cancer. As of July 2017, Bristol is conducting trials in cancers including
+SCLC, GC, TNBC, OC, as well as combo therapy with other checkpoint inhibitors
+or chemo drugs.
 Keytruda (pembrolizumab)
-Keytruda is the rst anti-PD-1 therapy approved in the US and received FDAs
-Breakthrough Therapy designation It was rst approved by the FDA for advance
-Following the rst indication approval Keytruda successfully expanded to
-treatment for NSCLC SCCHN UC cHL and MSI-H cancer Merck is currently
-conducting clinical trials for indication expansion to tumors including SCLC RCC
-Figure 52 FDA approved indications and trial results for Keytruda (as of May 17)
-Study design Patients profile
-(111) open-
-Ipilimumab-
-KEYTRUDA every 2 weeks vs
-KEYTRUDA every 3 weeks vs
-mPFS 41m vs 55m vs 28m
-(111) open-
-Ipilimumab-
-KEYTRUDA every 2 weeks vs
-KEYTRUDA every 3 weeks vs
-mOS 134m vs 147m vs 110m
-1L Randomized (11)
-open-label
-High PD-L1
-KEYTRUDA vs chemotherapy
-mPFS 103m vs 60m OS not
-Non-Squamous NSCLC
-1L Randomized (11)
-open-label Treatment naive
-KEYTRUDA  Pemetrexed 
-Carboplatin vs Pemetrexed 
-ORR 55% vs 29%
-2L Randomized (11)
-open-label
-OS PFS               1033 KEYTRUDA 2 mgkg vs KEYTRUDA
-10 mgkg vs docetaxel
-mOS 149m vs 173m vs 82m
-for TPS above 50% group mOS
-104m vs 127m vs 85m for all
-Squamous cell carcinoma
-2L Non-randomized
-open-label
-KEYTRUDA 10 mgkg every 2
-weeks (n53) or 200 mg every 3
-weeks (n121)
-ORR 16% (95% CI 11 22) with a
-lymphoma (cHL)
-RR Non-randomized
-open-label
-ORR CRR DOR
-210 KEYTRUDA 200 mg every 3 weeks ORR 69% (62 75) mDOR 111m
-Urothelial carcinoma (UC)
-1L Open-label single-
-200 mg every 3 weeks
-ORR 29% (24 34)
-Urothelial carcinoma (UC)
-2L Randomized (11)
-open-label
-Failed platinum-
-KEYTRUDA vs chemotherapy
-mOS 103m vs 74m
-Microsatellite Instability-
-High Cancer (MSI-H
-3L Open-label single-
-149 KEYTRUDA 200 mg every 3 weeks
-or 10 mgkg every 2 weeks
-ORR 396% (317 479)
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+Keytruda is the first anti-PD-1 therapy approved in the US and received FDA's
+Breakthrough Therapy designation. It was first approved by the FDA for advance
+melanoma indication in Sep 2014. The compound demonstrated significant ORR
+of 24% among 89 patients, with one complete response and 20 partial response.
+Following the first indication approval, Keytruda successfully expanded to
+treatment for NSCLC, SCCHN, UC, cHL and MSI-H cancer. Merck is currently
+conducting clinical trials for indication expansion to tumors including SCLC, RCC,
+GC and HCC, under monotherapy or combo therapy setting.
 Tecentriq (atezolizumab)
-Tecentriq is the rst PD-L1 inhibitor approved by the US FDA under accelerated
-approval track It targets the PD-1PD-L1 pathway (proteins found on the bodys
-immune cells and some cancer cells) By blocking these interactions Tecentriq
-may help the bodys immune system ght cancer cells
-The rst indication approved for atezolizumab was urothelial carcinoma bladder
-cancer for patients that failed platinum-containing chemotherapy In April 2017
-it was then approved for rst line therapy of UC Meanwhile Tecentriq also
-received approval to second line and beyond treatment of NSCLC in October 2016
-based on signicantly enhanced ecacy from 1137 patients Roche is currently
-conducting clinical trials for indication expansion to cancers including 1L NSCLC
-Figure 53 FDA approved indications and trial results for Tecentriq (as of Apr 17)
-Study design Patients profile
-Urothelial carcinoma (UC)
-1L Open-label single-
-TECENTRIQ IV of 1200mg every 3
-ORR 235% for all patients
-218% for PD-L1 expression of 
-5% 281% for PD-L1 expression
-Urothelial carcinoma (UC)
-2L Open-label single-
-Failed platinum-
-TECENTRIQ IV of 1200mg every 3
-ORR 148% for all patients 95%
-for PD-L1 expression of  5%
-260% for PD-L1 expression over
-2L Randomized (11)
-open-label
-Failed platinum-
-TECENTRIQ vs docetaxel
-mOS 138m vs 96m
-2L Randomized (11)
-open-label
-Failed platinum-
-TECENTRIQ vs docetaxel
-mOS 126m vs 97m
-Source Deutsche Bank Company data
+Tecentrig is the first PD-L1 inhibitor approved by the US FDA, under accelerated
+approval track. It targets the PD-1/PD-L1 pathway (proteins found on the body's
+immune cells and some cancer cells). By blocking these interactions, Tecentriq
+may help the body's immune system fight cancer cells.
+The first indication approved for atezolizumab was urothelial carcinoma/ bladder
+cancer for patients that failed platinum-containing chemotherapy. In April 2017,
+it was then approved for first line therapy of UC. Meanwhile, Tecentriq also
+received approval to second line and beyond treatment of NSCLC in October 2016;
+based on significantly enhanced efficacy from 1,137 patients. Roche is currently
+conducting clinical trials for indication expansion to cancers including 1L NSCLC,
+melanoma, CRC, and TNBC, under monotherapy or combo therapy regimen.
 Bavencio (avelumab)
-Bavencio is the second approved PD-L1 inhibitor under accelerated approval
-track from the US FDA Similar to atezolizumab avelumab is also an immune
-checkpoint inhibitor that helps keep the immune system in check Studies
+Bavencio is the second approved PD-L1 inhibitor, under accelerated approval
+track from the US FDA. Similar to atezolizumab, avelumab is also an immune
+checkpoint inhibitor that helps keep the immune system in check. Studies
 suggested that Bavencio may also attack tumor cells through a second
-mechanism called antibody-dependent cell-mediated cytotoxicity
-The rst approved indication for avelumab is Metastatic Merkel cell carcinoma
-(MCC) which demonstrated statistically-signicant improved response rate with
-decent safety tolerance FDA granted Bavencio the second indication of UC
-in May 2017 in second line treatment setting The PD-L1 inhibitor is currently
-undergoing clinical trials for tumors including NSCLC GC RCC and OC under
-Figure 54 FDA approved indications and trial results for Bavencio (as of May 17)
-Metastatic Merkel cell
-carcinoma (MCC)
-2L Open-label single-
-ORR                    88 BAVENCIO IV of 10 mgkg every 2
-ORR 330% CR of 114% PR of 216%
-Urothelial carcinoma (UC)
-2L Open-label single-
-ORR                  242 BAVENCIO IV of 10 mgkg every 2
-ORR 133% for over 13 weeks ORR 161%
-for over 6 months
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Imnzi (durvalumab)
-Imnzi a human mAb directed against PD-L1 targets to block the interaction
-of PD-L1 with PD-1 and CD80 Durvalumabis currently undergoing clinical
-investigation in the Phase 3 DANUBE trial as rst-line treatment in urothelial
-is also conducting additional studies on ecacy of durvalumab in indication
-expansion to tumors including SCCHN HCC NSCLC GC and TNBC as both
-Figure 55 FDA approved indications and trial results for Imnzi (as of May 17)
-Study design Patients profile
-Urothelial carcinoma (UC)
-2L Open-label single-
-Failed platinum-
-ORR DOR                  182
-IMFINZI IV of 10 mgkg every 2
-ORR 170% for all patients ORR
-263% for PD-L1 high 41% for
-PD-L1 low groups
-Source Deutsche Bank Company data
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Model updated 29 June 2017
-Pharmaceuticals  Biotechnology
-Reuters 600276SS
-Bloomberg 600276 CH
-Price (11 Aug 17)
-52 Week range
-CNY 4267 - 6022
-Market cap (m)
-USDm 18719
-Jiangsu Hengrui Medicine Co Ltd was established in 1970
-and its headquarters is in Lianyungang Jiangsu province The
-of drugs including those for oncology muscle relaxation and
-anesthetics contrast agents electrolytes and anti-infective drugs
-Apart from its domestic business Hengrui exports drugs to the
-US Europe and other countries
-Shanghai Composite (Rebased)
-Growth  Profitibility
-Sales growth (LHS)
-Jack Hu PhD
-Fiscal year end 31-Dec
-DB EPS (CNY)
-Reported EPS (CNY)
-BVPS (CNY)
-Weighted average shares (m)
-Average market cap (CNYm)
-Enterprise value (CNYm)
-PE (DB) (x)
-PE (Reported) (x)
-FCF Yield (%)
-Dividend Yield (%)
-EVSales (x)
-EVEBITDA (x)
-EVEBIT (x)
-Associatesaffiliates
-Exceptionalsextraordinaries
-DB adjustments (including dilution)
-Cash Flow (CNYm)
-Cash flow from operations
-Equity raised(bought back)
-Net inc(dec) in borrowings
-Other investingfinancing cash flows
-Change in working capital
-Balance Sheet (CNYm)
-Cash and other liquid assets
-Tangible fixed assets
-Goodwillintangible assets
-Associatesinvestments
-Interest bearing debt
-Shareholders equity
-Total shareholders equity
-Sales growth (%)
-DB EPS growth (%)
-EBITDA Margin (%)
-EBIT Margin (%)
-Payout ratio (%)
-Capexsales (%)
-Capexdepreciation (x)
-Net debtequity (%)
-Net interest cover (x)
-Source Company data Deutsche Securities estimates
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Appendix 1
+mechanism, called antibody-dependent cell-mediated cytotoxicity.
+The first approved indication for avelumab is Metastatic Merkel cell carcinoma
+(MCC), which demonstrated statistically-significant improved response rate with
+decent safety/ tolerance. FDA granted Bavencio the second indication of UC
+in May 2017, in second line treatment setting. The PD-L1 inhibitor is currently
+undergoing clinical trials for tumors including NSCLC, GC, RCC and OC, under
+monotherapy or combo therapy setting.
+Imfinzi (durvalumab)
+Imfinzi, a human mAb directed against PD-L1, targets to block the interaction
+of PD-L1 with PD-1 and CD80. Durvalumabis currently undergoing clinical
+investigation in the Phase 3 DANUBE trial as first-line treatment in urothelial
+carcinoma as monotherapy and in combination with tremelimumab. AstraZeneca
+is also conducting additional studies on efficacy of durvalumab in indication
+expansion to tumors including SCCHN, HCC, NSCLC, GC and TNBC, as both
+monotherapy and combo therapy regimen.
+Hengrui Medicine
+Reuters: 600276.SS
+Bloomberg: 600276 CH
+Buy
+Company Profile
+and its headquarters is in Lianyungang, Jiangsu province. The
+company is primarily involved in the manufacture and R&D
+of drugs, including those for oncology, muscle relaxation and
+anesthetics, contrast agents, electrolytes, and anti-infective drugs.
+Apart from its domestic business, Hengrui exports drugs to the
+US, Europe, and other countries.
+Jack Hu, PhD
+Source: Company data, Deutsche Securities estimates
 Important Disclosures
-Other information available upon request
-Recent price
-5317 (CNY) 11 Aug 2017
-Prices are current as of the end of the previous trading session unless otherwise indicated and are sourced from local exchanges via Reuters Bloomberg and other vendors Other
-tabs Investors are strongly encouraged to review this information before investing
-Analyst Certication
-The views expressed in this report accurately reect the personal views of the undersigned lead analyst(s) about the
-subject issuer and the securities of the issuer In addition the undersigned lead analyst(s) has not and will not receive any
-(as of 08112017)
- Analyst is no longer at
-Buy Target Price Change CNY 5500 Jack Hu PhD
-Buy Target Price Change CNY 6000 Jack Hu PhD
-Buy Target Price Change CNY 6000 Jack Hu PhD
-Buy Target Price Change CNY 6350 Jack Hu PhD
-Buy Target Price Change CNY 5950 Jack Hu PhD
-Buy Target Price Change CNY 6500 Jack Hu PhD
-Buy Target Price Change CNY 4950 Jack Hu PhD
-Buy Target Price Change CNY 7000 Jack Hu PhD
-Buy Target Price Change CNY 5000 Jack Hu PhD
-Buy Target Price Change CNY 5850 Jack Hu PhD
-Buy Target Price Change CNY 5500 Jack Hu PhD
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+Analyst Certification
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive any
+compensation for providing a specific recommendation or view in this report. Jack Hu
+Historical recommendations and target price. Hengrui Medicine (600276.SS)
+(as of 08/11/2017)
+Current Recommendations
+Buy
+Hold
+Sell
+Not Rated
+Deutsche Bank
+Buy, Target Price Change CNY 60,00 Jack Hu, Ph.D.
+04/13/2017
+Buy, Target Price Change CNY 63,50 Jack Hu, Ph.D
+Buy, Target Price Change CNY 65,00 Jack Hu, Ph.D
+Buy, Target Price Change CNY 70,00 Jack Hu, Ph.D
+Buy, Target Price Change CNY 58,50 Jack Hu, Ph.D
 Equity rating dispersion and banking relationships
-Buy Based on a current 12- month view of total share-holder
-return (TSR  percentage change in share price from current
-price to projected target price plus pro-jected dividend yield ) 
-Sell Based on a current 12-month view of total share-holder
-Hold We take a neutral view on the stock 12-months out and
-supersede previously published research
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
+Equity Rating Key
+Buy: Based on a current 12- month view of total share-holder
+return (TSR = percentage change in share price from current
+price to projected target price plus pro-jected dividend yield),
+we recommend that investors buy the stock.
+Sell: Based on a current 12-month view of total share-holder
+return, we recommend that investors sell the stock.
+Hold: We take a neutral view on the stock 12-months out and,
+based on this time horizon, do not recommend either a Buy
+or Sell.
+Newly issued research recommendations and target prices
+supersede previously published research.
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
 Additional Information
-The information and opinions in this report were prepared by Deutsche Bank AG or one of its aliates (collectively
-Deutsche Bank) Though the information herein is believed to be reliable and has been obtained from public sources
-party websites in this report are provided for reader convenience only Deutsche Bank neither endorses the content nor
-is responsible for the accuracy or security controls of these websites
-If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report
-act as principal for its own account or as agent for another person
-Deutsche Bank may consider this report in deciding to trade as principal It may also engage in transactions for its
-own account or with customers in a manner inconsistent with the views taken in this research report Others within
-Deutsche Bank including strategists sales sta and other analysts may take views that are inconsistent with those taken
-in this research report Deutsche Bank issues a variety of research products including fundamental analysis equity-linked
-Deutsche Bank andor its aliates may also be holding debt or equity securities of the issuers it writes on Analysts are
-paid in part based on the protability of Deutsche Bank AG and its aliates which includes investment banking trading
-and principal trading revenues
-Opinions estimates and projections constitute the current judgment of the author as of the date of this report They do
-not necessarily reect the opinions of Deutsche Bank and are subject to change without notice Deutsche Bank provides
-have shorter-term trade ideas that are consistent or inconsistent with Deutsche Banks existing longer term ratings Trade
-by an analyst that a stock will outperform or underperform the market andor sector delineated over a time frame of no
-less than two weeks In addition to SOLAR ideas the analysts named in this report may from time to time discuss with
-our clients Deutsche Bank salespersons and Deutsche Bank traders trading strategies or ideas that reference catalysts
-or events that may have a near-term or medium-term impact on the market price of the securities discussed in this report
-which impact may be directionally counter to the analysts current 12-month view of total return or investment return as
-described herein Deutsche Bank has no obligation to update modify or amend this report or to otherwise notify a recipient
-dicult to update research at dened intervals Updates are at the sole discretion of the coverage analyst concerned or of
-the Research Department Management and as such the majority of reports are published at irregular intervals This report
-is provided for informational purposes only and does not take into account the particular investment objectives nancial
-situations or needs of individual clients It is not an oer or a solicitation of an oer to buy or sell any nancial instruments
-or to participate in any particular trading strategy Target prices are inherently imprecise and a product of the analysts
-judgment The nancial instruments discussed in this report may not be suitable for all investors and investors must make
-their own informed investment decisions Prices and availability of nancial instruments are subject to change without
-notice and investment transactions can lead to losses as a result of price uctuations and other factors If a nancial
-instrument is denominated in a currency other than an investors currency a change in exchange rates may adversely
-aect the investment Past performance is not necessarily indicative of future results Unless otherwise indicated prices
-are current as of the end of the previous trading session and are sourced from local exchanges via Reuters Bloomberg
-The Deutsche Bank Research Department is independent of other business areas divisions of the Bank Details regarding
-our organizational arrangements and information barriers we have to prevent and avoid conicts of interest with respect
-to our research is available on our website under Disclaimer found on the Legal tab
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-Macroeconomic uctuations often account for most of the risks associated with exposures to instruments that promise
-to pay xed or variable interest rates For an investor who is long xed rate instruments (thus receiving these cash ows)
-increases in interest rates naturally lift the discount factors applied to the expected cash ows and thus cause a loss
-The longer the maturity of a certain cash ow and the higher the move in the discount factor the higher will be the
-macroeconomic shocks to receivers But counterparty exposure issuer creditworthiness client segmentation regulation
-(including changes in assets holding limits for dierent types of investors) changes in tax policies currency convertibility
-(which may constrain currency conversion repatriation of prots andor the liquidation of positions) and settlement issues
-to macroeconomic shocks may be mitigated by indexing the contracted cash ows to ination to FX depreciation or to
-construction -- lag or mis-measure the actual move in the underlying variables they are intended to track The choice of the
-proper xing (or metric) is particularly important in swaps markets where oating coupon rates (ie coupons indexed to
-a typically short-dated interest rate reference index) are exchanged for xed coupons It is also important to acknowledge
-that funding in a currency that diers from the currency in which coupons are denominated carries FX risk Naturally
-options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements
-Derivative transactions involve numerous risks including among others market counterparty default and illiquidity risk
-The appropriateness or otherwise of these products for use by investors is dependent on the investors own circumstances
-including their tax position their regulatory environment and the nature of their other assets and liabilities and as such
-investors should take expert legal and nancial advice before entering into any transaction similar to or inspired by the
-contents of this publication The risk of loss in futures trading and options foreign or domestic can be substantial As a
-result of the high degree of leverage obtainable in futures and options trading losses may be incurred that are greater
-than the amount of funds initially deposited Trading in options involves risk and is not suitable for all investors Prior
-to buying or selling an option investors must review the Characteristics and Risks of Standardized Options at http
-your Deutsche Bank representative for a copy of this important document
-Participants in foreign exchange transactions may incur risks arising from several factors including the following ( i)
-exchange rates can be volatile and are subject to large uctuations ( ii) the value of currencies may be aected by
-numerous market factors including world and national economic political and regulatory events events in equity and
-debt markets and changes in interest rates and (iii) currencies may be subject to devaluation or government imposed
-exchange controls which could aect the value of the currency Investors in securities such as ADRs whose values are
-aected by the currency of an underlying security eectively assume currency risk
-Unless governing law provides otherwise all transactions should be executed through the Deutsche Bank entity in the
-investors home jurisdiction Aside from within this report important conict disclosures can also be found at https
-information before investing
-adviser consultant or duciary to you any of your agents (collectively You or Your) with respect to any information
-provided in the materials attached hereto Deutsche Bank does not provide investment legal tax or accounting advice
-as to any strategies products or any other information presented in the materials Information contained herein is being
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively
+"Deutsche Bank"). Though the information herein is believed to be reliable and has been obtained from public sources
+believed to be reliable, Deutsche Bank makes no representation as to its accuracy or completeness. Hyperlinks to third-
+party websites in this report are provided for reader convenience only. Deutsche Bank neither endorses the content nor
+is responsible for the accuracy or security controls of these websites.
+If you use the services of Deutsche Bank in connection with a purchase or sale of a security that is discussed in this report,
+or is included or discussed in another communication (oral or written) from a Deutsche Bank analyst, Deutsche Bank may
+act as principal for its own account or as agent for another person.
+Deutsche Bank may consider this report in deciding to trade as principal. It may also engage in transactions, for its
+own account or with customers, in a manner inconsistent with the views taken in this research report. Others within
+Deutsche Bank, including strategists, sales staff and other analysts, may take views that are inconsistent with those taken
+in this research report. Deutsche Bank issues a variety of research products, including fundamental analysis, equity-linked
+analysis, quantitative analysis and trade ideas. Recommendations contained in one type of communication may differ
+from recommendations contained in others, whether as a result of differing time horizons, methodologies or otherwise.
+Deutsche Bank and/or its affiliates may also be holding debt or equity securities of the issuers it writes on. Analysts are
+paid in part based on the profitability of Deutsche Bank AG and its affiliates, which includes investment banking, trading
+and principal trading revenues.
+Opinions, estimates and projections constitute the current judgment of the author as of the date of this report. They do
+not necessarily reflect the opinions of Deutsche Bank and are subject to change without notice. Deutsche Bank provides
+liquidity for buyers and sellers of securities issued by the companies it covers. Deutsche Bank research analysts sometimes
+have shorter-term trade ideas that are consistent or inconsistent with Deutsche Bank's existing longer term ratings. Trade
+by an analyst that a stock will outperform or underperform the market and/or sector delineated over a time frame of no
+less than two weeks. In addition to SOLAR ideas, the analysts named in this report may from time to time discuss with
+our clients, Deutsche Bank salespersons and Deutsche Bank traders, trading strategies or ideas that reference catalysts
+or events that may have a near-term or medium-term impact on the market price of the securities discussed in this report,
+which impact may be directionally counter to the analysts' current 12-month view of total return or investment return as
+described herein. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient
+thereof if any opinion, forecast or estimate contained herein changes or subsequently becomes inaccurate. Coverage and
+the frequency of changes in market conditions and in both general and company specific economic prospects make it
+difficult to update research at defined intervals. Updates are at the sole discretion of the coverage analyst concerned or of
+the Research Department Management and as such the majority of reports are published at irregular intervals. This report
+is provided for informational purposes only and does not take into account the particular investment objectives, financial
+situations, or needs of individual clients. It is not an offer or a solicitation of an offer to buy or sell any financial instruments
+or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst’s
+judgment. The financial instruments discussed in this report may not be suitable for all investors and investors must make
+their own informed investment decisions. Prices and availability of financial instruments are subject to change without
+notice and investment transactions can lead to losses as a result of price fluctuations and other factors. If a financial
+instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely
+affect the investment. Past performance is not necessarily indicative of future results. Unless otherwise indicated, prices
+are current as of the end of the previous trading session, and are sourced from local exchanges via Reuters, Bloomberg
+and other vendors. Data is sourced from Deutsche Bank, subject companies, and in some cases, other parties.
+The Deutsche Bank Research Department is independent of other business areas divisions of the Bank. Details regarding
+our organizational arrangements and information barriers we have to prevent and avoid conflicts of interest with respect
+to our research is available on our website under Disclaimer found on the Legal tab.
+Macroeconomic fluctuations often account for most of the risks associated with exposures to instruments that promise
+to pay fixed or variable interest rates. For an investor who is long fixed rate instruments (thus receiving these cash flows),
+increases in interest rates naturally lift the discount factors applied to the expected cash flows and thus cause a loss.
+The longer the maturity of a certain cash flow and the higher the move in the discount factor, the higher will be the
+loss. Upside surprises in inflation, fiscal funding needs, and FX depreciation rates are among the most common adverse
+macroeconomic shocks to receivers. But counterparty exposure, issuer creditworthiness, client segmentation, regulation
+(including changes in assets holding limits for different types of investors), changes in tax policies, currency convertibility
+(which may constrain currency conversion, repatriation of profits and/or the liquidation of positions), and settlement issues
+related to local clearing houses are also important risk factors to be considered. The sensitivity of fixed income instruments
+to macroeconomic shocks may be mitigated by indexing the contracted cash flows to inflation, to FX depreciation, or to
+specified interest rates - these are common in emerging markets. It is important to note that the index fixings may -- by
+construction -- lag or mis-measure the actual move in the underlying variables they are intended to track. The choice of the
+proper fixing (or metric) is particularly important in swaps markets, where floating coupon rates (i.e., coupons indexed to
+a typically short-dated interest rate reference index) are exchanged for fixed coupons. It is also important to acknowledge
+that funding in a currency that differs from the currency in which coupons are denominated carries FX risk. Naturally,
+options on swaps (swaptions) also bear the risks typical to options in addition to the risks related to rates movements.
+Derivative transactions involve numerous risks including, among others, market, counterparty default and illiquidity risk.
+The appropriateness or otherwise of these products for use by investors is dependent on the investors' own circumstances
+including their tax position, their regulatory environment and the nature of their other assets and liabilities, and as such,
+investors should take expert legal and financial advice before entering into any transaction similar to or inspired by the
+contents of this publication. The risk of loss in futures trading and options, foreign or domestic, can be substantial. As a
+result of the high degree of leverage obtainable in futures and options trading, losses may be incurred that are greater
+than the amount of funds initially deposited. Trading in options involves risk and is not suitable for all investors. Prior
+to buying or selling an option investors must review the "Characteristics and Risks of Standardized Options", at http://
+your Deutsche Bank representative for a copy of this important document.
+Participants in foreign exchange transactions may incur risks arising from several factors, including the following: ( i)
+exchange rates can be volatile and are subject to large fluctuations; ( ii) the value of currencies may be affected by
+numerous market factors, including world and national economic, political and regulatory events, events in equity and
+debt markets and changes in interest rates; and (iii) currencies may be subject to devaluation or government imposed
+exchange controls which could affect the value of the currency. Investors in securities such as ADRs, whose values are
+affected by the currency of an underlying security, effectively assume currency risk.
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the
+investor's home jurisdiction. Aside from within this report, important conflict disclosures can also be found at https://
+gm.db.com/equities under the "Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this
+information before investing.
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as a financial
+adviser, consultant or fiduciary to you, any of your agents (collectively, "You" or "Your") with respect to any information
+provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax or accounting advice,
+Deutsche Bank is not acting as Your impartial adviser, and does not express any opinion or recommendation whatsoever
+as to any strategies, products or any other information presented in the materials. Information contained herein is being
 provided solely on the basis that the recipient will make an independent assessment of the merits of any investment
-The information presented is general in nature and is not directed to retirement accounts or any specic person or account
-type and is therefore provided to You on the express basis that it is not advice and You may not rely upon it in making
-Your decision The information we provide is being directed only to persons we believe to be nancially sophisticated
-who are capable of evaluating investment risks independently both in general and with regard to particular transactions
-and investment strategies and who understand that Deutsche Bank has nancial interests in the oering of its products
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-and services If this is not the case or if You are an IRA or other retail investor receiving this directly from us we ask
-that you inform us immediately
-United States Approved andor distributed by Deutsche Bank Securities Incorporated a member of FINRA NFA and SIPC
-Analysts located outside of the United States are employed by non-US aliates that are not subject to FINRA regulations
-Germany Approved andor distributed by Deutsche Bank AG a joint stock corporation with limited liability incorporated
-in the Federal Republic of Germany with its principal oce in Frankfurt am Main Deutsche Bank AG is authorized under
-German Banking Law and is subject to supervision by the European Central Bank and by BaFin Germanys Federal
-Financial Supervisory Authority
-United Kingdom Approved andor distributed by Deutsche Bank AG acting through its London Branch at Winchester
-House 1 Great Winchester Street London EC2N 2DB Deutsche Bank AG in the United Kingdom is authorised by the
+decision, and it does not constitute a recommendation of, or express an opinion on, any product or service or any trading
+strategy.
+The information presented is general in nature and is not directed to retirement accounts or any specific person or account
+type, and is therefore provided to You on the express basis that it is not advice, and You may not rely upon it in making
+Your decision. The information we provide is being directed only to persons we believe to be financially sophisticated,
+who are capable of evaluating investment risks independently, both in general and with regard to particular transactions
+and investment strategies, and who understand that Deutsche Bank has financial interests in the offering of its products
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+and services. If this is not the case, or if You are an IRA or other retail investor receiving this directly from us, we ask
+that you inform us immediately.
+United States: Approved and/or distributed by Deutsche Bank Securities Incorporated, a member of FINRA, NFA and SIPC.
+Analysts located outside of the United States are employed by non-US affiliates that are not subject to FINRA regulations.
+Germany: Approved and/or distributed by Deutsche Bank AG, a joint stock corporation with limited liability incorporated
+in the Federal Republic of Germany with its principal office in Frankfurt am Main. Deutsche Bank AG is authorized under
+German Banking Law and is subject to supervision by the European Central Bank and by BaFin, Germany's Federal
+Financial Supervisory Authority.
+United Kingdom: Approved and/or distributed by Deutsche Bank AG acting through its London Branch at Winchester
+House, 1 Great Winchester Street, London EC2N 2DB. Deutsche Bank AG in the United Kingdom is authorised by the
 Prudential Regulation Authority and is subject to limited regulation by the Prudential Regulation Authority and Financial
-Conduct Authority Details about the extent of our authorisation and regulation are available on request
-Hong Kong Distributed by Deutsche Bank AG Hong Kong Branch or Deutsche Securities Asia Limited
-India Prepared by Deutsche Equities India Pvt Ltd which is registered by the Securities and Exchange Board of India (SEBI)
-as a stock broker Research Analyst SEBI Registration Number is INH000001741 DEIPL may have received administrative
-warnings from the SEBI for breaches of Indian regulations
-Japan Approved andor distributed by Deutsche Securities Inc(DSI) Registration number - Registered as a nancial
-instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No 117 Member of associations JSDA Type
-II Financial Instruments Firms Association and The Financial Futures Association of Japan Commissions and risks involved
-of share price uctuations and other factors Transactions in foreign stocks can lead to additional losses stemming from
-and other losses as a result of changes in market andor economic trends andor uctuations in market value Before
-deciding on the purchase of nancial products andor services customers should carefully read the relevant disclosures
-prospectuses and other documentation Moodys Standard  Poors and Fitch mentioned in this report are not
-registered credit rating agencies in Japan unless Japan or Nippon is specically designated in the name of the entity
-to the Financial Instruments and Exchange Law of Japan Target prices set by Deutsche Banks equity analysts are based
-on a 12-month forecast period
-Korea Distributed by Deutsche Securities Korea Co
-South Africa Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
-Number in South Africa 199800329810)
-Singapore by Deutsche Bank AG Singapore Branch or Deutsche Securities Asia Limited Singapore Branch (One Raes
-Quay 18-00 South Tower Singapore 048583 65 6423 8001) which may be contacted in respect of any matters arising
-from or in connection with this report Where this report is issued or promulgated in Singapore to a person who is not an
-accredited investor expert investor or institutional investor (as dened in the applicable Singapore laws and regulations)
-they accept legal responsibility to such person for its contents
-Taiwan Information on securitiesinvestments that trade in Taiwan is for your reference only Readers should
-independently evaluate investment risks and are solely responsible for their investment decisions Deutsche Bank research
-may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent
-Information on securitiesinstruments that do not trade in Taiwan is for informational purposes only and is not to be
-Deutsche Bank AGHong Kong
-14 August 2017
-Pharmaceuticals  Biotechnology
-may not execute transactions for clients in these securitiesinstruments
-Qatar Deutsche Bank AG in the Qatar Financial Centre (registered no 00032) is regulated by the Qatar Financial Centre
-Regulatory Authority Deutsche Bank AG - QFC Branch may only undertake the nancial services activities that fall within
-the scope of its existing QFCRA license Principal place of business in the QFC Qatar Financial Centre Tower West
-Bay Level 5 PO Box 14928 Doha Qatar This information has been distributed by Deutsche Bank AG Related nancial
-products or services are only available to Business Customers as dened by the Qatar Financial Centre Regulatory
-Authority
-Russia This information interpretation and opinions submitted herein are not in the context of and do not constitute
-any appraisal or evaluation activity requiring a license in the Russian Federation
-Kingdom of Saudi Arabia Deutsche Securities Saudi Arabia LLC Company (registered no 07073-37) is regulated by
-the Capital Market Authority Deutsche Securities Saudi Arabia may only undertake the nancial services activities that
-fall within the scope of its existing CMA license Principal place of business in Saudi Arabia King Fahad Road Al Olaya
-District PO Box 301809 Faisaliah Tower - 17th Floor 11372 Riyadh Saudi Arabia
-United Arab Emirates Deutsche Bank AG in the Dubai International Financial Centre (registered no 00045) is regulated
-by the Dubai Financial Services Authority Deutsche Bank AG - DIFC Branch may only undertake the nancial services
-activities that fall within the scope of its existing DFSA license Principal place of business in the DIFC Dubai International
-Financial Centre The Gate Village Building 5 PO Box 504902 Dubai UAE This information has been distributed by
-Deutsche Bank AG Related nancial products or services are only available to Professional Clients as dened by the
-Dubai Financial Services Authority
-Australia Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any nancial product
-referred to in this report and consider the PDS before making any decision about whether to acquire the product Please
-research-informationhtml
-Australia and New Zealand This research is intended only for wholesale clients within the meaning of the Australian
-Corporations Act and New Zealand Financial Advisors Act respectively
-Additional information relative to securities other nancial products or issuers discussed in this report is available upon
-request This report may not be reproduced distributed or published without Deutsche Banks prior written consent
-Copyright  2017 Deutsche Bank AG
-Deutsche Bank AGHong Kong
+Conduct Authority. Details about the extent of our authorisation and regulation are available on request.
+Hong Kong: Distributed by Deutsche Bank AG, Hong Kong Branch or Deutsche Securities Asia Limited.
+India: Prepared by Deutsche Equities India Pvt Ltd, which is registered by the Securities and Exchange Board of India (SEBI)
+as a stock broker. Research Analyst SEBI Registration Number is INH000001741. DEIPL may have received administrative
+warnings from the SEBI for breaches of Indian regulations.
+Japan: Approved and/or distributed by Deutsche Securities Inc.(DSI). Registration number - Registered as a financial
+instruments dealer by the Head of the Kanto Local Finance Bureau (Kinsho) No. 117. Member of associations: JSDA, Type
+II Financial Instruments Firms Association and The Financial Futures Association of Japan. Commissions and risks involved
+in stock transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the
+transaction amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result
+of share price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from
+foreign exchange fluctuations. We may also charge commissions and fees for certain categories of investment advice,
+products and services. Recommended investment strategies, products and services carry the risk of losses to principal
+and other losses as a result of changes in market and/or economic trends, and/or fluctuations in market value. Before
+deciding on the purchase of financial products and/or services, customers should carefully read the relevant disclosures,
+prospectuses and other documentation. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not
+registered credit rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity.
+Reports on Japanese listed companies not written by analysts of DSI are written by Deutsche Bank Group's analysts with
+the coverage companies specified by DSI. Some of the foreign securities stated on this report are not disclosed according
+to the Financial Instruments and Exchange Law of Japan. Target prices set by Deutsche Bank's equity analysts are based
+on a 12-month forecast period.
+Korea: Distributed by Deutsche Securities Korea Co.
+South Africa: Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register
+Number in South Africa: 1998/003298/10).
+Singapore: by Deutsche Bank AG, Singapore Branch or Deutsche Securities Asia Limited, Singapore Branch (One Raffles
+Quay #18-00 South Tower Singapore 048583, +65 6423 8001), which may be contacted in respect of any matters arising
+from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is not an
+accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations),
+they accept legal responsibility to such person for its contents.
+Taiwan: Information on securities/investments that trade in Taiwan is for your reference only. Readers should
+independently evaluate investment risks and are solely responsible for their investment decisions. Deutsche Bank research
+may not be distributed to the Taiwan public media or quoted or used by the Taiwan public media without written consent.
+Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be
+Pharmaceuticals / Biotechnology
+Hengrui Medicine
+construed as a recommendation to trade in such securities/instruments. Deutsche Securities Asia Limited, Taipei Branch
+may not execute transactions for clients in these securities/instruments.
+Qatar: Deutsche Bank AG in the Qatar Financial Centre (registered no. 00032) is regulated by the Qatar Financial Centre
+Regulatory Authority. Deutsche Bank AG - QFC Branch may only undertake the financial services activities that fall within
+the scope of its existing QFCRA license. Principal place of business in the QFC: Qatar Financial Centre, Tower, West
+Bay, Level 5, PO Box 14928, Doha, Qatar. This information has been distributed by Deutsche Bank AG. Related financial
+products or services are only available to Business Customers, as defined by the Qatar Financial Centre Regulatory
+Authority.
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute,
+any appraisal or evaluation activity requiring a license in the Russian Federation.
+Kingdom of Saudi Arabia: Deutsche Securities Saudi Arabia LLC Company, (registered no. 07073-37) is regulated by
+the Capital Market Authority. Deutsche Securities Saudi Arabia may only undertake the financial services activities that
+fall within the scope of its existing CMA license. Principal place of business in Saudi Arabia: King Fahad Road, Al Olaya
+District, P.O. Box 301809, Faisaliah Tower - 17th Floor, 11372 Riyadh, Saudi Arabia.
+United Arab Emirates: Deutsche Bank AG in the Dubai International Financial Centre (registered no. 00045) is regulated
+by the Dubai Financial Services Authority. Deutsche Bank AG - DIFC Branch may only undertake the financial services
+activities that fall within the scope of its existing DFSA license. Principal place of business in the DIFC: Dubai International
+Financial Centre, The Gate Village, Building 5, PO Box 504902, Dubai, U.A.E. This information has been distributed by
+Deutsche Bank AG. Related financial products or services are only available to Professional Clients, as defined by the
+Dubai Financial Services Authority.
+Australia: Retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product
+referred to in this report and consider the PDS before making any decision about whether to acquire the product. Please
+research-information.html
+Australia and New Zealand: This research is intended only for "wholesale clients" within the meaning of the Australian
+Corporations Act and New Zealand Financial Advisors Act respectively.
+Additional information relative to securities, other financial products or issuers discussed in this report is available upon
+request. This report may not be reproduced, distributed or published without Deutsche Bank's prior written consent.
+Copyright © 2017 Deutsche Bank AG
 David Folkerts-Landau
 Group Chief Economist and Global Head of Research
-Global Chief Operating Ocer
+Steve Pollard
+Raj Hindocha
+Michael Spencer
 Head of APAC Research
-Global Head of Economics
+Global Chief Operating Officer
 Head of Americas Research
+Global Head of Economics
+Research
 Global Head of Equity Research
+Anthony Klarman
+Paul Reynolds
+Dave Clark
+Pam Finelli
+Global Head of
+Head of EMEA
+Head of APAC
+Global Head of
+Debt Research
+Equity Research
+Equity Research
 Equity Derivatives Research
-Head of Research - Germany
+Andreas Neubauer
+Spyros Mesomeris
 Global Head of Quantitative
+Head of Research - Germany
+and QIS Research
 International locations
-Corner of Hunter  Phillip Streets
-Sydney NSW 2000
-Mainzer Landstrasse 11-17
-60329 Frankfurt am Main
-Tel (49) 69 910 00
-International Commerce Centre
-1 Austin Road WestKowloon
-Deutsche Securities Inc
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Bank AG
+Deutsche Securities Inc.
+Deutsche Bank Place
+Filiale Hongkong
 2-11-1 Nagatacho
-Chiyoda-ku Tokyo 100-6171
+International Commerce Centre,
+Sanno Park Tower
+60329 Frankfurt am Main
+Corner of Hunter & Phillip Streets
+1 Austin Road West, Kowloon,
+Germany
+Hong Kong
+Japan
+Australia
 Deutsche Bank AG London
+Deutsche Bank Securities Inc.
 1 Great Winchester Street
-London EC2N 2EQ
-Deutsche Bank Securities Inc
 60 Wall Street
-New York NY 10005
+London EC2N 2EQ
+United Kingdom
 United States of America

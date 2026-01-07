@@ -1,256 +1,148 @@
-服务器CPU 持续迭代，内存接口芯片有望加速
- CPU 平台迭代速度加快。
-内存接口芯片的升级需要CPU 平台的支持，此前Intel 的Sapphire
-Rapids 实质性的延期超过2 年，导致了服务器内存从DDR4 到DDR5
-的代际更换不断延后。但目前看到Intel 和AMD 的新款CPU 都已经支
-持DDR5，而且更新速率有所加快，我们认为有利于内存接口芯片的更
-自2023 年以来，Intel 的服务器CPU 迭代有所加速，2023 年初发布
-Sapphire Rapids 后，2023 年12 月发布Emerald Rapids，另外根据Intel
-的Roadmap，预计其2024 年将会发布两款服务器CPU：Sierra Forest
-和Granite Rapids，新款CPU 支持的内存速率将在2023 年5600MTs
-升级至6400MTs。
-另外，AMD 的服务器CPU 迭代处于正常节奏，2022 年底发布Genoa，
-而且在2023 年陆续发布Bergamo、Siena 两款CPU，支持的DDR5
-速率均为4800MTs，我们预计AMD 的下一代CPU 将会支持更高的内
- 内存接口迭代有望加速。
-随着服务器CPU 平台的升级，支持的DDR5 内存速率速率提升，对应
-的内存接口芯片也会升级。 根据JEDEC 的标准，DDR5 内存模组相较
-于DDR4，在RCD 的基础上增加3 颗配套芯片：SPD、TS、PMIC，
-整体芯片的价值量会随之提升，因此在DDR5 的迭代周期中，我们认为
+服务器 CPU 持续迭代，内存接口芯片有望加速
+投资评级:买入(首次)
+主要观点:
+● CPU 平台迭代速度加快。
+内存接口芯片的升级需要 CPU 平台的支持, 此前 Intel 的 Sapphire
+的代际更换不断延后。但目前看到 Intel 和 AMD 的新款 CPU 都已经支
+持 DDR5, 而且更新速率有所加快, 我们认为有利于内存接口芯片的更
+自 2023 年以来, Intel 的服务器 CPU 迭代有所加速, 2023 年初发布
+Sapphire Rapids 后, 2023 年 12 月发布 Emerald Rapids, 另外根据 Intel
+的 Roadmap, 预计其 2024 年将会发布两款服务器 CPU: Sierra Forest
+公司价格与沪深 300 走势比较
+和 Granite Rapids, 新款 CPU 支持的内存速率将在 2023 年 5600MT/s
+升级至 6400MT/s。
+另外, AMD 的服务器 CPU 迭代处于正常节奏, 2022 年底发布 Genoa,
+速率均为 4800MT/s, 我们预计 AMD 的下一代 CPU 将会支持更高的内
+存速率。
+内存接口迭代有望加速。
+随着服务器 CPU 平台的升级,支持的 DDR5 内存速率速率提升,对应
+的内存接口芯片也会升级。 根据 JEDEC 的标准, DDR5 内存模组相较
+于 DDR4, 在 RCD 的基础上增加 3 颗配套芯片: SPD、TS、PMIC,
+整体芯片的价值量会随之提升,因此在 DDR5 的迭代周期中,我们认为
 服务器内存接口芯片的市场规模会有显著的增长。澜起作为行业内可以
 提供全套解决方案的公司，有望最为受益于该过程。
-当DDR5 数据速率达到6400MTs 及以上时， PC 端内存模组需要增加
-一颗CKD 芯片，对内存模组上的时钟信号进行缓冲再驱动。根据Intel
-的roadmap，其2024 年将会发布Arrow Lake，支持的内存速率将会达
-到6400MTs，因此我们预计当新款CPU 发布时，澜起的CKD 芯片会
-随之逐渐起量，迎来01 的过程。
-另外澜起科技在PCIe Retimer 及CXL 领域也有深厚布局，且都已经有
-相应芯片发布，随着未来新技术的渗透率增长，有望为公司打开更多的
-我们预计2023-2025 年公司归母净利润分别为45、141、231 亿元，
-对应的EPS 分别为039、123、203 元，最新收盘价对应PE 分别为
-145、46、28x。首次覆盖给予公司买入评级。
-ServerPC CPU 迭代进度不及预期；DDR5 渗透率不及预期；新技术应
-用不及预期；地缘政治影响供应链稳定；市场竞争加剧。
-澜起科技（688008）
-投资评级：买入（首次）
-近12 个月最高最低（元） 76064740
-公司价格与沪深300 走势比较
-澜起科技（688008）
-澜起科技（688008）
-1CPU 平台迭代速度加快  5
-2内存接口迭代有望加速  7
-风险提示： 10
-财务报表与盈利预测  11
-澜起科技（688008）
-图表 1 数据中心服务器CPU 市占率  5
-图表 2 DDR3、DDR4 及DDR5 的传输速率对比  5
-图表 3 INTEL SAPPHIRE RAPIDS 延期情况梳理  6
-图表 4 INTEL 的服务器CPU 发布情况  6
-图表5 AMD 在服务器市场的份额 7
-图表6 AMD GENOA 在23Q3 成为其CPU 的主要出货产品  7
-图表 7 AMD 的服务器CPU 发布情况  7
-图表8 澜起互联芯片季度收入（百万元） 8
-图表9 澜起科技DDR5 内存接口芯片及配套芯片  8
-图表 10 澜起互联芯片出货量及ASP 情况  8
-图表11 澜起互联芯片季度收入（百万元）  9
-图表12 澜起科技互联芯片毛利率  9
-图表13 INTEL 下一代消费级CPU 将支持DDR5-6400  9
-图表14 澜起科技CKD 芯片示意图  9
-图表15 澜起科技PCIE RETIMER 芯片应用场景  10
-图表16 澜起科技MXC 芯片应用场景  10
-澜起科技（688008）
-1 CPU 平台迭代速度加快
-在服务器CPU 市场中，Intel 仍占到了主导地位，其产品迭代周期决定着通用服
-务器整体的升级节奏。根据咨询机构Counterpoint 的数据，Intel 的市场份额从2021
-年的80%下降到2022 年的70%，AMD 在持续获取市场份额，但从绝对量的角
-度来看，Intel 仍是Server CPU 市场的领头羊。
-图表 1 数据中心服务器CPU 市占率
-内存速率的升级需要CPU 平台的支持，我们从Intel 过往CPU 的升级情况来看，
-其在2020 年发布的服务器CPU Cooper Lake，支持的DDR4 内存速率达到了
-3200MTs，从DDR4 的子代规划看，该速率意味着DDR4 的子代更迭在当年进入
-Intel 原本规划在2021年发布首款支持DDR5内存的服务器CPU 产品Sapphire
-Rapids，但由于各自原因导致发布不断延期，最后在2023 年1 月最终发布。而根
-据Intel 法说会的交流情况，Sapphire Rapids 于23Q3 有明显的上量，带动了其ASP
-的提升。综合来看，Sapphire Rapids 实质性的延期超过2 年，因此也导致了服务器
-内存从DDR4 到DDR5 的代际更换不断延后。
-图表 2 DDR3、DDR4 及DDR5 的传输速率对比
-240 (R LR U) 204 (SODIMM)
-288 (R LR U) 260 (SODIMM)
-288 (R LR U) 260 (SODIMM)
-RDIMM LRDIMM UDIMM SODIMM
-澜起科技（688008）
-图表 3 Intel Sapphire Rapids 延期情况梳理
-但自2023 年以来，Intel 的服务器CPU 迭代有所加速，2023 年初发布Sapphire
-Rapids 后，2023 年12 月发布Emerald Rapids，另外根据Intel 的Roadmap，预计其
-2024 年将会发布两款服务器CPU：Sierra Forest 和Granite Rapids，新款CPU 支持的
-内存速率将在2023 年5600MTs 升级至6400MTs，使得DDR5 的迭代速率有所加快。
-图表 4 Intel 的服务器CPU 发布情况
-另外，AMD 的服务器CPU 迭代处于正常节奏，其支持DDR5-4800 的服务器CPU
-产品发布于2022 年底，但在上半年对服务器DDR5 内存迭代的推动不太明显，我们认
-ICE LAKE-SP
-COOPER LAKE-SP
-CASCADE LAKE-SPAP
-SKYLAKE-SP
-Intel 20A
-Intel Mountain Stream
-Intel Mountain Stream
-Intel Mountain Stream
-Intel Mountain Stream
-Lion Cove
-Crestmont
-MCP (Multi-Chip Package)
-Up To 144
-Up To 136
-Up To 288
-Up To 272
-Max L3 Cache
-385 MB L3
-385 MB L3
-385 MB L3
-Up To 12-Channel DDR6-
-Up To 12-Channel DDR5-
-Up To 8-Channel DDR5-
-Up To 8-Channel DDR5-
-Up To 8-Channel DDR5-
-Up To 8-Channel DDR4-
-Up To 6-Channel DDR4-
-DDR4-2933 6-Channel
-DDR4-2666 6-Channel
-PCIe 60 (128 Lanes)
-PCIe 50 (136 Lanes)
-PCIe 50 (TBD Lanes)
-PCIe 50 (80 Lanes)
-PCIe 50 (80 lanes)
-PCIe 40 (64 Lanes)
-PCIe 30 (48 Lanes)
-PCIe 30 (48 Lanes)
-PCIe 30 (48 Lanes)
-TDP Range (PL1)
-Up To 500W
-Up To 500W
-Up To 350W
-Up To 350W
-Up To 350W
-3D Xpoint Optane DIMM
-Donahue Pass
-AMD EPYC Zen 5C
-AMD EPYC Milan 7nm
-AMD EPYC Rome 7nm
-AMD EPYC Rome 7nm
-澜起科技（688008）
-为主要有两个原因，一是AMD 的市场份额不够高，二是因为AMD 的CPU 平台Genoa
-的主要上量节点也是发生在23Q3。此外，AMD 在2023 年陆续发布Bergamo、Siena
-两款CPU，支持的DDR5 速率均为4800MTs，我们预计AMD 的下一代CPU 将会支
-图表5 AMD 在服务器市场的份额
-图表6 AMD Genoa 在23Q3 成为其CPU 的主要出货产品
-图表 7 AMD 的服务器CPU 发布情况
-2 内存接口迭代有望加速
-根据JEDEC 标准， DDR5 内存模组上除了内存颗粒及内存接口芯片外，还需
-要三种配套芯片，分别是串行检测集线器（SPD）、温度传感器（TS）以及电源管
-理芯片（PMIC)。澜起可为DDR5 系列内存模组提供完整的内存接口及模组配套芯
+当 DDR5 数据速率达到 6400MT/s 及以上时，PC 端内存模组需要增加
+一颗 CKD 芯片,对内存模组上的时钟信号进行缓冲再驱动。根据 Intel
+的 roadmap, 其 2024 年将会发布 Arrow Lake, 支持的内存速率将会达
+到 6400MT/s, 因此我们预计当新款 CPU 发布时, 澜起的 CKD 芯片会
+随之逐渐起量,迎来0→1的过程。
+另外澜起科技在 PCIe Retimer 及 CXL 领域也有深厚布局，且都已经有
+相应芯片发布, 随着未来新技术的渗透率增长, 有望为公司打开更多的
+成长空间。
+● 投资建议
+我们预计 2023-2025 年公司归母净利润分别为 4.5、14.1、23.1 亿元,
+对应的 EPS 分别为 0.39、1.23、2.03 元, 最新收盘价对应 PE 分别为
+145、46、28x。首次覆盖给予公司“买入”评级。
+Server/PC CPU 迭代进度不及预期: DDR5 渗透率不及预期: 新技术应
+用不及预期; 地缘政治影响供应链稳定; 市场竞争加剧。
+单位:百万元
+● 重要财务指标
+正文目录
+图表目录
+1. CPU 平台迭代速度加快
+在服务器 CPU 市场中, Intel 仍占到了主导地位, 其产品迭代周期决定着通用服
+年的 80%+下降到 2022 年的 70%+, AMD 在持续获取市场份额, 但从绝对量的角
+度来看, Intel 仍是 Server CPU 市场的领头羊。
+11.74%
+19.84%
+AMD
+80.71%
+70.77%
+intel
+intel.
+4.71%
+4.62%
+Others
+Others
+( Counterpoint
+Counterpoint
+3.16%
+1.52%
+aws
+1.82% aws
+内存速率的升级需要 CPU 平台的支持, 我们从 Intel 过往 CPU 的升级情况来看,
+其在 2020 年发布的服务器 CPU Cooper Lake, 支持的 DDR4 内存速率达到了
+3200MT/s, 从 DDR4 的子代规划看, 该速率意味着 DDR4 的子代更迭在当年进入
+尾声。
+Intel 原本规划在 2021 年发布首款支持 DDR5 内存的服务器 CPU 产品 Sapphire
+Rapids, 但由于各自原因导致发布不断延期, 最后在 2023 年 1 月最终发布。而根
+据 Intel 法说会的交流情况, Sapphire Rapids 于 23Q3 有明显的上量, 带动了其 ASP
+的提升。综合来看, Sapphire Rapids 实质性的延期超过 2 年, 因此也导致了服务器
+内存从 DDR4 到 DDR5 的代际更换不断延后。
+但自 2023 年以来, Intel 的服务器 CPU 迭代有所加速, 2023 年初发布 Sapphire
+Rapids 后, 2023 年 12 月发布 Emerald Rapids, 另外根据 Intel 的 Roadmap, 预计其
+2024 年将会发布两款服务器 CPU: Sierra Forest 和 Granite Rapids, 新款 CPU 支持的
+内存速率将在 2023 年 5600MT/s 升级至 6400MT/s,使得 DDR5 的迭代速率有所加快。
+另外, AMD 的服务器 CPU 迭代处于正常节奏, 其支持 DDR5-4800 的服务器 CPU
+产品发布于 2022 年底, 但在上半年对服务器 DDR5 内存迭代的推动不太明显, 我们认
+为主要有两个原因, 一是 AMD 的市场份额不够高, 二是因为 AMD 的 CPU 平台 Genoa
+的主要上量节点也是发生在 23Q3。此外, AMD 在 2023 年陆续发布 Bergamo、Siena
+两款 CPU，支持的 DDR5 速率均为 4800MT/s，我们预计 AMD 的下一代 CPU 将会支
+持更高的内存速率。
+图表 6 AMD Genoa 在 23Q3 成为其 CPU 的主要出货产品
+图表 5 AMD 在服务器市场的份额
+Lisa Su
+Sure. So the way I would frame it is we're very pleased with our third
+quarter performance as it relates to EPYC overall. I think the 4th Gen
+EPYC, so that's Genoa Plus Bergamo actually ramped very nicely. We got
+to a crossover in the third quarter, which is a little bit ahead of what we had
+previously forecasted. And when I look underneath that, I would say with a
+strong growth in both cloud. Cloud was strong so strong double-digits. The
+adoption is pretty broad across first-party and third-party workloads and
+new instances.
+And then on the enterprise side, we've also seen some nice growth across
+our OEMs. And so from the standpoint of, is it the market recovery or is it
+share gain? I think it's some of both. From a market standpoint, I would say
+it's still mixed. I think enterprise is still a little bit mixed depending on sort of
+which region from a macroeconomic standpoint. Cloud depends a bit on
+the customer set. But overall, I think we're pleased with the progress and
+the leadership of EPYC has ended up, allowing us to grow substantially in
+the third guarter and then into the fourth guarter.
+图表 7 AMD 的服务器 CPU 发布情况
+2. 内存接口迭代有望加速
+根据 JEDEC 标准, DDR5 内存模组上除了内存颗粒及内存接口芯片外,还需
+要三种配套芯片,分别是串行检测集线器(SPD)、温度传感器(TS)以及电源管
+理芯片 (PMIC)。澜起可为 DDR5 系列内存模组提供完整的内存接口及模组配套芯
 片解决方案，是目前全球可提供全套解决方案的两家公司之一。
-AMD Server Unit Share
-TURIN-DENSE
-Zen 4 V-Cache
-14nm GloFo
-LGA 6096 (SP5) LGA 6096 (SP5)
-Max L3 Cache
-12 CCDs (1CCX
-per CCD)  1
-16 CCDs (1CCX
-per CCD)  1
-16 CCDs (1CCX
-per CCD)  1
-8 CCDs (1CCX
-per CCD)  1
-12 CCDs (1 CCX
-per CCD)  1
-12 CCDs (1 CCX
-per CCD)  1
-12 CCDs (1 CCX
-per CCD)  1
-8 CCDs (1 CCX
-per CCD)  1
-8 CCDs (1 CCX
-per CCD)  1
-8 CCDs (2 CCXs
-per CCD)  1
-4 CCDs (2 CCXs
-12 Channel
-12 Channel
-12 Channel
-12 Channel
-12 Channel
-12 Channel
-480W (cTDP
-480W (cTDP
-480W (cTDP
-320W (cTDP
-澜起科技（688008）
-图表8 澜起互联芯片季度收入（百万元）
-图表9 澜起科技DDR5 内存接口芯片及配套芯片
+图表 9 澜起科技 DDR5 内存接口芯片及配套芯片
+图表 8 澜起互联芯片季度收入(百万元)
 服务器内存速率速率的提升，对应的内存接口芯片也会升级，进而带来价值量
-的增长。2016-2020 年，DDR4 替代DDR3 成为主流内存规格，而且DDR4 的速率
-也在逐渐提升。在此期间，我们可以看到澜起的互联芯片ASP 维系在高位，且呈现
-2023 年随着支持DDR5 的CPU 逐渐上量，DDR5 内存的渗透率提升，带动
-DDR5 的内存接口芯片出货量逐渐增长。在今年去库存的背景下，因为有DDR5 内
-存接口芯片出货量占比提升的带动，澜起科技互联芯片收入连续环增2 个季度，且
-毛利率逐步提升至66%，相较Q1 提升约12pct。而且公司的DDR5 第二子代接口
-芯片开始规模出货，预计占比将继续提升。
+的增长。2016-2020 年, DDR4 替代 DDR3 成为主流内存规格, 而且 DDR4 的速率
+也在逐渐提升。在此期间, 我们可以看到澜起的互联芯片 ASP 维系在高位, 且呈现
+出上升趋势。
+2023 年随着支持 DDR5 的 CPU 逐渐上量, DDR5 内存的渗透率提升, 带动
+DDR5的内存接口芯片出货量逐渐增长。在今年去库存的背景下,因为有 DDR5内
+存接口芯片出货量占比提升的带动, 澜起科技互联芯片收入连续环增 2 个季度, 且
+毛利率逐步提升至 66%，相较 Q1 提升约 12pct。而且公司的 DDR5 第二子代接口
+芯片开始规模出货,预计占比将继续提升。
 随着去库存逐渐结束，行业整体需求有望回归正常，内存接口芯片的市场总量
-也会随之修复。因为DDR5 内存模组相较于DDR4 增加3 颗配套芯片，整体芯片的
-价值量会随之提升，因此在DDR5 的迭代周期中，我们认为服务器内存接口芯片的
-市场规模会有显著的增长。澜起作为行业内可以提供全套解决方案的公司，有望最
-图表 10 澜起互联芯片出货量及ASP 情况
-澜起科技（688008）
-图表11 澜起互联芯片季度收入（百万元）
-图表12 澜起科技互联芯片毛利率
-随着PC 端DRAM 速率的提升，澜起的CKD 芯片将迎来0 到1 过程。当DDR5
-数据速率达到6400MTs 及以上时， PC 端内存如台式机及笔记本电脑的 UDIMM、
-SODIMM 模组，须采用一颗专用的时钟驱动芯片来对内存模组上的时钟信号进行缓
-冲再驱动，才能满足高速时钟信号的完整性和可靠性要求。根据Intel 的roadmap，
-其2024 年将会发布Arrow Lake，支持的内存速率将会达到6400MTs，因此我们预
-计当新款CPU 发布时，澜起的CKD 芯片会随之逐渐起量，迎来01 的过程。
-图表13 Intel 下一代消费级CPU 将支持DDR5-6400
-图表14 澜起科技CKD 芯片示意图
-另外澜起在PCIe Retimer 及CXL 领域也有深厚布局。
-随着PCIe 的速率升级，带来了突出的信号衰减和参考时钟时序重整问题，为了
+也会随之修复。因为 DDR5 内存模组相较于 DDR4 增加 3 颗配套芯片,整体芯片的
+价值量会随之提升,因此在 DDR5 的迭代周期中,我们认为服务器内存接口芯片的
+市场规模会有显著的增长。澜起作为行业内可以提供全套解决方案的公司,有望最
+为受益于该过程。
+图表 12 澜起科技互联芯片毛利率
+图表 11 澜起互联芯片季度收入（百万元）
+数据速率达到 6400MT/s 及以上时, PC 端内存如台式机及笔记本电脑的 UDIMM、
+SODIMM 模组, 须采用一颗专用的时钟驱动芯片来对内存模组上的时钟信号进行缓
+冲再驱动,才能满足高速时钟信号的完整性和可靠性要求。根据 Intel 的 roadmap,
+其 2024 年将会发布 Arrow Lake, 支持的内存速率将会达到 6400MT/s, 因此我们预
+计当新款 CPU 发布时, 澜起的 CKD 芯片会随之逐渐起量, 迎来 0→1 的过程。
+另外澜起在 PCIe Retimer 及 CXL 领域也有深厚布局。
+随着 PCle 的速率升级, 带来了突出的信号衰减和参考时钟时序重整问题, 为了
 补偿高速信号的损耗，提升信号的质量，通常会在链路中加入超高速时序整合芯片
-（Retimer）。澜起的PCIe 50 Retimer 已经于2023 年1 月实现量产，可应用于AI
+(Retimer)。 澜起的 PCIe 5.0 Retimer 已经于 2023 年 1 月实现量产,可应用于 AI
 服务器、NVMe SSD、 Riser 卡等典型应用场景。
-MXC 芯片是一款CXL 内存扩展控制器芯片，属于CXL 协议所定义的第三种设
-备类型。该芯片可为CPU 及基于CXL 协议的设备提供高带宽、低延迟的高速互连
-解决方案，从而实现CPU 与各CXL 设备之间的内存共享，在大幅提升系统性能的
-同时，显著降低软件堆栈复杂性和数据中心总体拥有成本(TCO)。公司于2022 年5
-月发布全球首款CXL 内存扩展控制器芯片（MXC）。
-澜起科技（688008）
-图表15 澜起科技PCIe Retimer 芯片应用场景
-图表16 澜起科技MXC 芯片应用场景
-ServerPC CPU 迭代进度不及预期；DDR5 渗透率不及预期；新技术应用不及预期；地
-缘政治影响供应链稳定；市场竞争加剧。
-澜起科技（688008）
-每股经营现金流（摊薄）
-澜起科技（688008）
-发资管，博时基金投资部等，具有8 年买方投研经验
+MXC 芯片是一款 CXL 内存扩展控制器芯片,属于 CXL 协议所定义的第三种设
+备类型。该芯片可为 CPU 及基于 CXL 协议的设备提供高带宽、低延迟的高速互连
+解决方案,从而实现 CPU 与各 CXL 设备之间的内存共享,在大幅提升系统性能的
+同时,显著降低软件堆栈复杂性和数据中心总体拥有成本(TCO)。公司于2022年5
+月发布全球首款 CXL 内存扩展控制器芯片 (MXC)。
+图表 15 澜起科技 PCle Retimer 芯片应用场景
+图表 16 澜起科技 MXC 芯片应用场景
+Server/PC CPU 迭代进度不及预期; DDR5 渗透率不及预期; 新技术应用不及预期; 地
+缘政治影响供应链稳定; 市场竞争加剧。
+财务报表与盈利预测
+发资管,博时基金投资部等,具有8年买方投研经验
 使用合法合规的信息，独立、客观地出具本报告，本报告所采用的数据和信息均来自市场公开信息，本人对这些
 信息的准确性或完整性不做任何保证，也不保证所包含的信息和建议不会发生任何变更。报告中的信息和意见仅
 供参考。本人过去不曾与、现在不与、未来也将不会因本报告中的具体推荐意见或观点而直接或间接收任何形式
-的补偿，分析结论不受任何第三方的授意或影响，特此声明。
-究所力求准确、可靠，但对这些信息的准确性及完整性均不做任何保证。在任何情况下，本报告中的信息或表述
-的意见均不构成对任何人的投资建议。在任何情况下，本公司、本公司员工或者关联机构不承诺投资者一定获利，
-不与投资者分享投资收益，也不对任何人因使用本报告中的任何内容所引致的任何损失负任何责任。投资者务必
-式的拷贝、复印件或复制品，或再次分发给任何其他人，或以任何侵犯本公司版权的其他方式使用。如欲引用或
-原意的引用和删改。如未经本公司授权，私自转载或者转发本报告，所引起的一切后果及法律责任由私自转载或
-转发者承担。本公司并保留追究其法律责任的权利。
-A 股以沪深300 指数为基准；新三板市场以三板成指（针对协议转让标的）或三板做市指数（针对做市转让标的）
-为基准；香港市场以恒生指数为基准；美国市场以纳斯达克指数或标普500 指数为基准。定义如下：
-增持—未来 6 个月的投资收益率领先市场基准指数 5%以上
-中性—未来 6 个月的投资收益率与市场基准指数的变动幅度相差-5%至 5%
-减持—未来 6 个月的投资收益率落后市场基准指数 5%以上
-买入—未来6-12 个月的投资收益率领先市场基准指数15%以上；
-增持—未来6-12 个月的投资收益率领先市场基准指数5%至15%；
-中性—未来6-12 个月的投资收益率与市场基准指数的变动幅度相差-5%至5%；
-减持—未来6-12 个月的投资收益率落后市场基准指数5%至；
-卖出—未来6-12 个月的投资收益率落后市场基准指数15%以上；
-无评级—因无法获取必要的资料，或者公司面临无法预见结果的重大不确定性事件，或者其他原因，致使无
-法给出明确的投资评级。

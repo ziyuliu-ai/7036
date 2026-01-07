@@ -1,768 +1,530 @@
-主要数据  
-预测  
-要素概要  
-资料来源：公司数据、高盛研究预测
-市值Rmb282bn41bn
-企业价值Rmb321bn46bn
-3个均成交量Rmb1318mn192mn
-ChinaChemicals
-租赁是否计净负债和企业价值No
-主营业务收(Rmbmn)
-EBITDA(Rmbmn)
-每股盈利(Rmb)
-净负债EBITDA(X)(剔除租赁)
-由现流收益率(%)
-9 19 E 1219 E
-每股盈利(Rmb)
-002601SZ 相对于亚洲（不含本）覆盖范围
-002601SZ 相对于China Chemica ls
+龙蟒佰利 (002601.sz)
+中国二氧化钛龙头企业，仍处于增长阶段，首次覆盖评为买入
+(摘要)
+002601.SZ
+Initiation
 龙蟒佰利在全球二氧化钛(TiO2)市场上处于有利地位。二氧化钛是一
 种白色颜料，广泛用于涂料、塑料和釉料等。龙蟒佰利是全球第三大
 二氧化钛供应商，成本处于较低水平而利润率稳定，这将带来产量持
 续增长、市场份额上升，从而推动公司盈利。我们首次覆盖该股评为
-买入，12个月目标价格人民币190元，上行空间36%。
-低成本二氧化钛生产商，拥有原料优势：龙蟒的二氧化钛生产成本接
+主要数据
+市值: Rmb28.2bn / $4.1bn
+企业价值: Rmb32.1bn / $4.6bn
+低成本二氧化钛生产商，拥有原料优势: 龙蟒的二氧化钛生产成本接
+3个月日均成交量: Rmb131.8mn / $19.2mn
 近全球生产曲线的低端，因为公司进行了垂直整合（50%以上的原料
-来自于公司自有钛矿）、相对同业具有规模优势而且资源回收利用较
+China Chemicals
+来自干公司自有钛矿）、相对同业具有规模优势而且资源回收利用较
+租赁是否计入净负债和企业价值: No
 好。龙蟒处于受益于中国二氧化钛供应潜在整合趋势的有利地位。
-强劲的产量增长将推动盈利：公司二氧化钛生产规模不断扩张，从
-2018年的60万吨增长至目前的865万吨，2022年目标为120万吨（主
-要来自于氯化法钛白粉），将通过内生增长（5月份新增20万吨）和
+强劲的产量增长将推动盈利:公司二氧化钛生产规模不断扩张,从
+2018年的60万吨增长至目前的86.5万吨, 2022年目标为120万吨(主
+要来自于氯化法钛白粉),将通过内生增长(5月份新增20万吨)和
 外部并购（6月份收购了一家6万吨氯化法钛白粉生产商）得以实现。
 我们预计到2021年的产量年均复合增速为20%，而且由于利润率相对
 稳健，净利润年均复合增速应会达到22%。
-估值具吸引力：近期该股下跌后对应的201920年预期EVEBITDA为
-72倍58倍，而我们的目标为75倍（我们将之应用于2020-21年预期
-综合EBITDA均值）。我们认为，随着新增产能投产并在202021年开
-始贡献盈利，该股将出现估值重估。我们看到，龙蟒佰利80%的派息
+3/19
+6/19 E 9/19 E 12/19 E
+估值具吸引力: 近期该股下跌后对应的2019/20年预期EV/EBITDA为
+每股盈利 (Rmb)
+7.2倍/5.8倍, 而我们的目标为7.5倍(我们将之应用于2020-21年预期
+综合EBITDA均值）。我们认为，随着新增产能投产并在2020/21年开
+始贡献盈利, 该股将出现估值重估。我们看到, 龙蟒佰利80%的派息
 率指引隐含的预期股息收益率为7%。
- 全文翻译随后提供
-12个标价格R m b1900
-R m b1900
-股价R m b1389
-R m b1389
-上涨空间368%
-龙蟒佰利 (002601SZ)
-中国二氧化钛龙头企业，仍处于增长阶段，首次覆盖评为买入
-2019年8月3日  429AM CST
 因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告为作出投资决策的唯一
-比率和估值  
-增长率和利润率 (%)  
-股价走势图  
-资料来源：公司数据、高盛研究预测、FactSet（股价为2019年8月2日收盘价）
-由现流收益率(%)
-EVEBITDAR(X)
-EVEBITDA(X)(剔除租赁)
-净资产回报率(%)
-净负债股东权益(%)
-净负债权益(%)(剔除租赁)
-利息保障倍数(X)
-杜邦净资产回报率(%)
-总现投资，名义（剔除现）(Rmb)
-平均已动资本(Rmb)
-每股净资产(Rmb)
-0 0 2 6 0 1  SZ  (Rmb)
-0 0 2 6 0 1  SZ  (Rmb)
-沪深3 0 0 指数
-沪深3 0 0 指数
-相对于沪深300指数
-损益表 (Rmb mn)  
-资产负债表 (Rmb mn)  
-现金流量表 (Rmb mn)  
-资料来源：公司数据、高盛研究预测
-销售、般及管理费
-其它营业收(费)
-净利息收（出）
-经常性项前净利润
-经常性项前净利润
-经常性项后净利润
-经常性项后净利润
-EPS（基本，扣前）L(R mb)
-EPS（基本，扣前）L(R mb)
-EPS（摊薄，扣前）L(R mb)
-EPS（摊薄，扣前）L(R mb)
-EPS（基本，扣后）L(R mb)
-EPS（基本，扣后）L(R mb)
-EPS（摊薄，扣后）L(R mb)
-EPS（摊薄，扣后）L(R mb)
-每股股息L(Rmb)
-经营活动产的现流
-经营活动产的现流
-投资活动产的现流
-投资活动产的现流
-付的股息（普通股和优先股）
-筹资活动产的现流
-筹资活动产的现流
-龙蟒佰利 (002601SZ)
+全球投资研究
+龙蟒佰利 (002601.SZ)
+损益表 (Rmb mn) _____
+龙蟒佰利 (002601.SZ)
 评级自2019年8月3日
-龙蟒佰利 (002601SZ)
-TiO2 market outlook supply  demand broadly balanced
-Lomons cost leadership helps boost market share
-Growth potential through consolidation and integration
-Financials and valuations
-龙蟒佰利 (002601SZ)
-Lomon Billions (Lomon) was listed on the Shenzhen Stock Exchange in 2011 and is
-specialized in the production and sale of TiO2 with over 30 years of TiO2 operational
-experience Lomon is now the third-largest TiO2 producer globally in terms of capacity
-and the top producer in China (21% market share) and Asia overall It was formed by the
+比率和估值
+资产负债表 (Rmb mn) _
+增长率和利润率 (%)
+股价走势图
+现金流量表 (Rmb mn) _
+2019年8月3日
+全球投资研究
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+PM summary
+Lomon Billions (Lomon) was listed on the Shenzhen Stock Exchange in 2011, and is
+specialized in the production and sale of TiO2, with over 30 years of TiO2 operational
+experience. Lomon is now the third-largest TiO2 producer globally in terms of capacity,
+and the top producer in China (21% market share) and Asia overall. It was formed by the
 merger between Henan Billions Chemical and Sichuan Lomon Titanium Industry in
-325kt chloride process) representing c 9% of global capacity
-Balanced TiO2 outlook TiO2 contributed 89% of Lomons gross profit in 2018 and its
-share price has had a 07 correlation with TiO2 prices since listing in 2011 We see TiO2
-supply rising though new capacity will be partly offset by some smaller sulfate TiO2
-firms in China exiting the business China demand looks flat this year and should
-normalize from next year back to 3%3% growth in 20202021E Costs should be stable
-with only modest inflation risks (we expect gradual increases in ilmenite prices) Thus
-while TiO2 prices may be volatile over the short term we expect them to be relatively
-stable over our forecast period
-Cost leadership to help consolidate market Lomon is the third-largest TiO2 producer
-globally Its ASPs are above Chinese peers given its high-quality output and stable
+October 2016. The company now has 865ktpa of TiO2 capacity (540kt sulfate process;
+325kt chloride process), representing c. 9% of global capacity.
+Balanced TiO2 outlook: TiO2 contributed 89% of Lomon's gross profit in 2018, and its
+firms in China exiting the business. China demand looks flat this year, and should
+normalize from next year, back to 3%/3% growth in 2020/2021E. Costs should be stable,
+with only modest inflation risks (we expect gradual increases in ilmenite prices). Thus,
+while TiO2 prices may be volatile over the short term, we expect them to be relatively
+stable over our forecast period.
+Cost leadership to help consolidate market: Lomon is the third-largest TiO2 producer
+globally. Its ASPs are above Chinese peers, given its high-quality output and stable
 production— and with its focus on chloride TiO2 product specialization and
-differentiation we see upside for Lomons chloride TiO2 ASP over time After multiple
-years of consolidation and integration Lomon has moved down the cost curve
-through recycling of by-products 2) scale benefits vs smaller Chinese sulfate
-producers and 3) supply of titanium from its own mines (at 50%) This enables it to
-earn higher margins vs peers it is just behind Chemours the global leader
-Positive on volume growth potential After ramping up the 200kt phase 2 chloride unit in
-Henan and the 60kt chloride unit in Yunnan (just acquired) Lomon said it will start
+differentiation, we see upside for Lomon's chloride TiO2 ASP over time. After multiple
+years of consolidation and integration, Lomon has moved down the cost curve
+compared with peers. We attribute its better cost structure to: 1) better plant integration
+through recycling of by-products; 2) scale benefits vs. smaller Chinese sulfate
+producers; and 3) supply of titanium from its own mines (at >50%). This enables it to
+earn higher margins vs. peers; it is just behind Chemours, the global leader.
+Positive on volume growth potential: After ramping up the 200kt phase 2 chloride unit in
+Henan and the 60kt chloride unit in Yunnan (just acquired), Lomon said it will start
 re-configuring its existing 60kt phase 1 chloride unit in Henan (to 100kt) and might start
-a new greenfield project (100-200kt) potentially in HenanSichuanYunnan As well as
-organic growth Lomon has mentioned its interest in looking for acquisition targets given
-that some existing smaller TiO2 producers are interested in exiting the market This is in
-line with its target of growing capacity from 600kt (2018) to 1150kt within three years
+a new greenfield project (100-200kt), potentially in Henan/Sichuan/Yunnan. As well as
+organic growth, Lomon has mentioned its interest in looking for acquisition targets, given
+that some existing smaller TiO2 producers are interested in exiting the market. This is in
+line with its target of growing capacity from 600kt (2018) to 1,150kt within three years
 Lomon is also investing vertically by acquiring titanium mines (upstream feedstock) and
-investing in high-end titanium sponge and titanium alloys (downstream applications)
-Financialsvaluation We forecast revenue and EBITDA CAGRs of 18% and 20%
-respectively during 2018-2021E mainly driven by 20% sales volume CAGR with almost
-flattish price forecast supporting 8% free cashflow yield and 7% dividend yield (at 75%
-payout) in 2019E We apply 75X EVEBITDA (average since 2016) on 2020-2021
-blended average EBITDA to derive a 12-month price target of Rmb190 which implies
-36% upside
-龙蟒佰利 (002601SZ)
-Catalysts We believe the stock should re-rate as Lomons new capacity growth is
-delivered and starts contributing to earnings in 202021E Any news on supply
+investing in high-end titanium sponge and titanium alloys (downstream applications).
+Financials/valuation: We forecast revenue and EBITDA CAGRs of 18% and 20%,
+respectively, during 2018-2021E, mainly driven by 20% sales volume CAGR with almost
+flattish price forecast, supporting 8% free cashflow yield and 7% dividend yield (at 75%
+blended average EBITDA to derive a 12-month price target of Rmb19.0, which implies
+36% upside.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Catalysts: We believe the stock should re-rate as Lomon's new capacity growth is
+delivered and starts contributing to earnings in 2020/21E. Any news on supply
 consolidation would be positive for Lomon given its leading position (both in capacity
-increase (in September) might also be a near-term catalyst
-Key risks Lower-than-expected TiO2 prices worse-than-expected utilisation at new
-chloride plants insufficient feedstock supply for chloride TiO2 regulatory changes on
-environmental regulations operational risks increased free float increase and forex
-What is TiO2 and how is it made Titanium dioxide (TiO2) is a white pigment widely
-used in paints plastics paper making printing inks etc There are two main production
-technologies sulfate process (mainly in China) and chloride process (mainly outside
-feedstock plus sulfuric acid The chloride process uses rutile or purer ore (higher
-titanium concentration) as the major feedstock plus chlorine gas Rutile TiO2 has better
-weatherability and opacity making it more suitable for outdoor coatings plastics
-advanced paper coatings etc The biggest customers are paint and coatings firms such
-as PPG Nippon Paint and Akzo Nobel
-图表 1 We estimate Lomon Billions is at the low end of the cost curve
-TiO2 adjusted cost curve (USton minus price premium for overseas players)
-TiO2 Production capacity (k tons)
-Cost advantages
-龙蟒佰利 (002601SZ)
-图表 2 Global utilization to decline further but staying above
+and quality) in China. Removal of the overhang related to the upcoming free-float
+increase (in September) might also be a near-term catalyst.
+Key risks: Lower-than-expected TiO2 prices; worse-than-expected utilisation at new
+chloride plants; insufficient feedstock supply for chloride TiO2; regulatory changes on
+environmental regulations; operational risks; increased free float increase; and forex
+risks.
+What is TiO2 and how is it made? Titanium dioxide (TiO2) is a white pigment, widely
+used in paints, plastics, paper making, printing inks, etc. There are two main production
+technologies: sulfate process (mainly in China) and chloride process (mainly outside
+China). The sulfate process uses ilmenite (a common iron-titanium oxide) as the major
+feedstock, plus sulfuric acid. The chloride process uses rutile or purer ore (higher
+titanium concentration) as the major feedstock, plus chlorine gas. Rutile TiO2 has better
+weatherability and opacity, making it more suitable for outdoor coatings, plastics,
+advanced paper coatings, etc. The biggest customers are paint and coatings firms, such
+as PPG, Nippon Paint and Akzo Nobel.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Our thesis in charts
 Global TiO2 demand and supply
-图表 3 China planned capacity additions
-Spare capacity (kT)
-Demand (kT)
-Utilization rate (RHS)
-资料来源：TZMI Gao Hua Securities Research
-Note The sulfate TiO2 plants listed above were approved before the ban was
-announced
-资料来源：Baiinfo Gao Hua Securities Research
-图表 4 Lomons share price tracks closely with TiO2 prices
-vs global peers
-Lomons relative price perf (LHS)
-Tio2 (RHS)
-Price movements (rebased to 1 since July 2011)
-Correlation 07
-since July 2011
-EBITDA margin (%)
-资料来源：Datastream 万得
-图表 6 Lomon Generous dividend payouts
-图表 7 Lomon Trading below the historical average
-Dividend payout ratio (RHS)
-Average 75
-1 SD 93
--1 SD 58
-12-month rolling forward EVEBITDA (X)
-资料来源：公司数据 Datastream Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-TiO2 market outlook supply  demand broadly balanced
-Overall we see Ti02 supply rising though new capacity will be partly offset by some
-smaller firms who are using sulfate technology exiting the business Demand looks flat
-this year and should normalize from next year back to 3%3% growth in 20202021E
-Costs should be stable with only modest inflation risks (we expect gradual increases in
-ilmenite prices) Thus while prices may be volatile over the short term we expect them
-to be relatively stable over our forecast period
+Note: The sulfate TiO2 plants listed above were approved before the ban was
+announced.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+TiO2 market outlook: supply / demand broadly balanced
+Overall, we see Ti02 supply rising, though new capacity will be partly offset by some
+smaller firms who are using sulfate technology exiting the business. Demand looks flat
+this year, and should normalize from next year, back to 3%/3% growth in 2020/2021E.
+Costs should be stable, with only modest inflation risks (we expect gradual increases in
+ilmenite prices). Thus while prices may be volatile over the short term, we expect them
+to be relatively stable over our forecast period.
 Supply — China is adding new TiO2 supplies
-China Most are chloride TiO2 units since China has banned new project approvals for
-smaller plants first for testing before making further larger investments Moreover there
-relatively new technology in China) We forecast Chinas TiO2 capacity will grow by
-About 10% of Chinas capacity has per-unit capacity below 50kt and over 10 years of
-operations This portion of supply in our view is subject to closure as we see the
-tightening of emissions standards (particularly for solid waste and waste acid disposal)
-which smaller operations might find difficult or uneconomic to meet
-Outside of China some global TiO2 producers have mentioned targets for
-de-bottlenecking — for instance Chemours said it targets to increase its capacity by
-10% by 2021
-Since most of Chinas titanium reserves are in the form of ilmenite (lower grade and
-cheaper titanium ores) instead of rutile (higher concentration) China has so far focused
-图表 8 Market is concentrated - top-five global players
-contribute 66% of global capacity
-Global capacity breakdown (%) 2018
-图表 9 China planned capacity additions
-Chemours 19%
-Tronox 16%
-Lomon 13%
-Venator 10%
-Kronos 8%
-Global capacity breakdown (%)
-资料来源：公司数据 Gao Hua Securities Research
-Note The sulfate TiO2 plants listed above were approved before the ban on
-new approvals
-资料来源：Baiinfo Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-on the TiO2 sulfate production process (it now accounts for c90% of Chinas
-capacity) There are only a few chloride-process TiO2 plants operating in China with
-only two (at Lomon Billions and Jinzhou Titanium) running at normal utilisation rates
-The others are either in production suspension or running at low utilization
-Demand — stable pending further recovery
-Most TiO2 is used in paints and coating materials and demand is therefore highly
-dependent on the property cycle and coating demand Globally we assume TiO2
-demand will see a c2% CAGR over 2019-21E tracking slightly lower than global GDP
-growth (GSe 3% in the same period) For China we assume TiO2 demand for 2019 to
-be flat yoy to account for the year-to-date weak TiO2 demand and lower property GFA
-sold vs last year We forecast demand growth could normalize from next year back to
-3%3% growth in 20202021E c 3% below our China GDP forecasts
-图表 10 Ore volumes (in TiO2 units) for finished pigment
-图表 11 Rutile (higher concentration) has the highest price
-mn mT (TiO2 equivalent units)
-Ore price (FOB China Rmbton)
-资料来源：公司数据 高盛全球投资研究
-资料来源：VNTR TZMI
-图表 12 Chinas TiO2 is exported to a wide range of
-China TiO2 exports by country (2018)
-图表 13 China TiO2 production mainly used for coating and
+There are a number of new plants planned to come online this year and next year in
+China. Most are chloride TiO2 units, since China has banned new project approvals for
+sulfate TiO2 plants. However, delays to chloride TiO2 plant commission times and
+ramp-up schedules have been common in the past. New-comers have tended to build
+smaller plants first for testing, before making further larger investments. Moreover, there
+have been multiple failures at companies looking to set up chloride TiO2 plants (which is
+relatively new technology in China). We forecast China s TiO2 capacity will grow by
+250/100/100ktpa in 2019/2020/2021E.
+About 10% of China's capacity has per-unit capacity below 50kt and over 10 years of
+operations. This portion of supply, in our view, is subject to closure, as we see the
+tightening of emissions standards (particularly for solid waste and waste acid disposal),
+which smaller operations might find difficult or uneconomic to meet.
+Outside of China, some global TiO2 producers have mentioned targets for
+de-bottlenecking — for instance, Chemours said it targets to increase its capacity by
+10% by 2021.
+Note: The sulfate TiO2 plants listed above were approved before the ban on
+new approvals.
+Since most of China's titanium reserves are in the form of ilmenite (lower grade and
+cheaper titanium ores) instead of rutile (higher concentration), China has so far focused
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+on the TiO2 sulfate production process (it now accounts for c.90% of China's
+capacity). There are only a few chloride-process TiO2 plants operating in China, with
+only two (at Lomon Billions and Jinzhou Titanium) running at normal utilisation rates.
+The others are either in production suspension or running at low utilization.
+Demand — stable, pending further recovery
+Most TiO2 is used in paints and coating materials, and demand is therefore highly
+demand will see a c.2% CAGR over 2019-21E, tracking slightly lower than global GDP
+growth (GSe: 3% in the same period). For China, we assume TiO2 demand for 2019 to
+be flat yoy, to account for the year-to-date weak TiO2 demand and lower property GFA
+sold vs. last year. We forecast demand growth could normalize from next year, back to
+3%/3% growth in 2020/2021E, c. 3% below our China GDP forecasts.
+图表 13: China TiO2 production mainly used for coating and
+plastic applications
 China TiO2 downstream applications (as of 2017)
-Brazil 6%
-Turkey 5%
-Indonesia 5%
-Vietnam 5%
-Malaysia 3%
-Others 46%
-Coatings 56%
-Plastic 25%
-资料来源：Baiinfo
-龙蟒佰利 (002601SZ)
-图表 14 Property segment in China a key driver given paint
-demand Recent monthly GFA sales data still weak
-China residential property GFA sold
-yoy change% (RHS)
-yoy change% (RHS)
-资料来源：国家统计局 万得
-资料来源：国家统计局 万得
-图表 16 Quarterly sales data for paint in China are about flat
-图表 17 China paint plants utilization at historical average
-yoy change% (RHS)
-Quarterly sales (000 tons)
-Utilization (%)
-资料来源：国家统计局
-资料来源：Oilchem
-图表 18 Chinas TiO2 is exported to a wide range of
-China TiO2 exports by country (2018)
-图表 19 China still importing high-end TiO2 but starting to
-export its excess capacity around the region
-Brazil 6%
-Turkey 5%
-Indonesia 5%
-Vietnam 5%
-Malaysia 3%
-Others 46%
-Annual (ton)
-资料来源：Baiinfo
-资料来源：China Customs 万得
-龙蟒佰利 (002601SZ)
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+India,
+10%
+US,
+Brazil, 6%
+Others, 46%
+Korea, 6%
+Turkey, 5%
+全球投资研究
+龙蟒佰利 (002601.SZ)
 Costs — under control
-Titanium ore (mainly ilmenite) accounts for about 15% of Lomons TiO2s production
-costs (the rest being energy costs and other raw materials) There have been no
+Titanium ore (mainly ilmenite) accounts for about 15% of Lomon's TiO2's production
+costs (the rest being energy costs and other raw materials). There have been no
 material changes in global titanium ore prices in recent years (at roughly
-US150-200ton) Hence the cost structure at Lomon remains fairly stable for both
-chloride and sulfate TiO2 According to Lomon they are able to control the cost of
-making sulfate TiO2 at around Rmb12-13kton with chloride TiO2 generally Rmb1-2k
-more expensive ie at Rmb13k-14kton
+US$150-200/ton). Hence, the cost structure at Lomon remains fairly stable for both
+chloride and sulfate TiO2. According to Lomon, they are able to control the cost of
+making sulfate TiO2 at around Rmb12-13k/ton, with chloride TiO2 generally Rmb1-2k
+more expensive, i.e. at Rmb13k-14k/ton.
 Our Australia resources analyst Paul Young expects prices for titanium ores (both rutile
-and ilmenite) to go up modestly in 20202021E Rutile refers to high-concentration
-titanium ores (95-97%) feedstock for chloride TiO2 plants Ilmenite has a low
-concentration of TiO2 (50-60%) and is feedstock for sulfate TiO2 plants Lomon mainly
+and ilmenite) to go up modestly in 2020/2021E. Rutile refers to high-concentration
+titanium ores (95-97%), feedstock for chloride TiO2 plants. Ilmenite has a low
+concentration of TiO2 (50-60%), and is feedstock for sulfate TiO2 plants. Lomon mainly
 imports chloride slag for the chloride TiO2 unit if there are insufficient supplies
-domestically in China Paul Young forecasts a gradual increase in ilmenite prices at
-图表 20 Imported TiO2 is priced higher than domestic products
-Price (USton)
-资料来源：China Customs 万得
-龙蟒佰利 (002601SZ)
+domestically in China. Paul Young forecasts a gradual increase in ilmenite prices, at
+US$180/180/200/ton for 2019/2020/2021E.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
 Prices — China outlook remains challenging in near term
-Chinas domestic TiO2 prices have fallen by 8% year-to-date from c Rmb17000ton
-at the start of the year to c Rmb15300ton now There was some demand recovery in
-March but sentiment shifted quickly and inventory re-stocking appeared to be temporary
-only The weak demand in 2Q (consistent with the broader economic slowdown and
+China's domestic TiO2 prices have fallen by 8% year-to-date, from c. Rmb17,000/ton
+at the start of the year to c. Rmb15,300/ton now. There was some demand recovery in
+March, but sentiment shifted quickly and inventory re-stocking appeared to be temporary
+only. The weak demand in 2Q (consistent with the broader economic slowdown and
+property completions) caused China TiO2 prices to fall.
 We expect the 2H19 outlook to remain challenging given additional supply from new
-plants and still-sluggish demand growth On the supply side we will see new TiO2
-up production (and will account for c 80kt incremental supply in 2019 based on the
-the corporates inventory for TiO2 is slightly higher than normal and we have not yet
+supply coming from Lomon Billions' new 200kt chloride unit, which has started to ramp
+up production (and will account for c. 80kt incremental supply in 2019 based on the
+company's guidance of c.40% utilization). Based on our recent channel checks with
+the corporates, inventory for TiO2 is slightly higher than normal, and we have not yet
 seen any signals of demand recovery or a repeat of the restocking that we saw in March
-this year
+this year.
 A potential boost in price might occur around September this year due to a seasonal
 pick-up in demand (with seasonally better economic activities in areas such as property
-and infrastructure)
-For the rest of this year we expect volatility in prices with the slighter weaker
-supplydemand outlook set against a seasonally stronger September — but overall we
-expect relatively stable prices over our forecast period
-图表 21 We forecast a modest increase in rutile prices
-Historic rutile prices (FOB Australia) and GSe forecasts
-图表 22 Similar trend for chloride ilmenite prices
-Historic chloride Ilmenite prices (FOB Australia) and GSe
-龙蟒佰利 (002601SZ)
-图表 23 Overseas TiO2 prices are more resilient than China
-图表 24 Chloride TiO2 pricing at a premium vs Sulfate TiO2
-Domestic TiO2 price
-Price (Rmbton)
-Spread (RHS)
-Chloride TiO2
-Sulfate TiO2
-资料来源：China Customs 万得
-资料来源：Baiinfo
-图表 25 Current TiO2 prices are below the long-term
-图表 26 Global utilization to decline further but staying above
+and infrastructure).
+For the rest of this year, we expect volatility in prices, with the slighter weaker
+supply/demand outlook set against a seasonally stronger September — but overall we
+expect relatively stable prices over our forecast period.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
 Global TiO2 demand and supply
-Min Nov-15
-Max Jul-11
-Average 16449
-TiO2 price (Rutile Rmbton)
-Spare capacity (kT)
-Demand (kT)
-Utilization rate (RHS)
-资料来源：TZMI Gao Hua Securities Research
-图表 27 We forecast a gradual pick-up in utilization starting 2019
-China TiO2 demand  supply model
-China demand  supply
-yoy change (%)
-Utilization (%)
-yoy change (%)
-Note Apparent demand  production - net exports
-龙蟒佰利 (002601SZ)
-Lomons cost leadership helps boost market share
-Lomon is a leading global operator in Ti02 with a high-end client base Its ASPs are
-above Chinese peers given its high-quality output — and with its focus on chloride TiO2
-product specialization and differentiation we see upside for Lomons chloride TiO2
-ASP over time After multiple years of consolidation and integration Lomon has moved
-peers it is just behind Chemours the global leader
-Lomon was listed on the Shenzhen Stock Exchange in 2011 and is specialized in the
-production and sale of TiO2 with over 30 years of TiO2 operational experience — we
-note TiO2 accounted for 84% of revenue and 89% of gross profit in FY18 It was formed
+Note: Apparent demand = production - net exports
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Lomon'
+s cost leadership helps boost market share
+Lomon is a leading global operator in Ti02, with a high-end client base. Its ASPs are
+ASP over time. After multiple years of consolidation and integration, Lomon has moved
+down the cost curve compared with peers. This enables it to earn higher margins vs.
+peers; it is just behind Chemours, the global leader.
+Lomon was listed on the Shenzhen Stock Exchange in 2011, and is specialized in the
+production and sale of TiO2, with over 30 years of TiO2 operational experience — we
+note TiO2 accounted for 84% of revenue and 89% of gross profit in FY18. It was formed
 by the merger between Henan Billions Chemical and Sichuan Lomon Titanium Industry
-in October 2016
-Capacity Lomon is now the third-largest TiO2 producer globally in terms of capacity
-and the top producer in China (21% market share) and Asia overall It has four main
-production hubs Henan Jiaozuo Sichuan Deyang Hubei Xiangyang and Yunnan Xinli
-of TiO2 capacity (540kt sulfate process 325kt chloride process) representing c 9% of
-global capacity
-Lomon owns an ilmenite mine in Sichuan and titanium smelters to supply 50% of the
-Australia and Africa
-For the newly acquired Yunnan Xinli TiO2 plant it could take some time (easily over six
-months) to re-start the production process for a stable supply of chloride TiO2 That
-图表 28 Lomons capacity summary
-New capacity  (ktpa)
-Sulfate TiO2
-Chloride TiO2
-Phase 2 started production in May 2019
-Sulfate TiO2
-Sulfate TiO2
-Chloride TiO2
-Acquired in June 2019
-Acquired in June 2019
-Ilmenite upgrade project
-(Chloride slag 300)
-Acquired in June 2019
-Acquired in June 2019
-资料来源：公司数据 Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
+in October 2016.
+Capacity: Lomon is now the third-largest TiO2 producer globally in terms of capacity,
+and the top producer in China (21% market share) and Asia overall. It has four main
+production hubs: Henan Jiaozuo, Sichuan Deyang, Hubei Xiangyang and Yunnan Xinli
+(Lomon acquired 98.39% of Yunnan Xinli in June 2019). The company now has 865ktpa
+of TiO2 capacity (540kt sulfate process; 325kt chloride process), representing c. 9% of
+global capacity.
+Lomon owns an ilmenite mine in Sichuan and titanium smelters to supply >50% of the
+feedstock for its TiO2 production, with the rest coming mainly from other parts of China,
+Australia and Africa.
+For the newly acquired Yunnan Xinli TiO2 plant, it could take some time (easily over six
+months) to re-start the production process for a stable supply of chloride TiO2. That
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
 plant has suspended production previously due to economic and technology issues
-(unstable production and low utilization) Lomon will apply their successful operational
-experience in Henan phase 1 unit to this Yunnan unit
-Competitive ASP vs Chinese peers Lomon has delivered consistent and stable TiO2
+(unstable production and low utilization). Lomon will apply their successful operational
+experience in Henan phase 1 unit to this Yunnan unit.
+supplies, and counts the world's major paint companies among its clients. For
+instance, PPG, a leading global paint and coatings company, announced in November
 2018 an expanded multi-year TiO2 supply agreement with Lomon to take additional
-TiO2 volumes (both chloride and sulfate)
-The ASP of Lomons TiO2 is generally higher than at Chinese peers Its chloride TiO2
-has an ASP about Rmb1000-2000ton more than its sulfate TiO2 But those prices are
-still c20% below imported prices given the differentials in quality We believe as Lomon
+TiO2 volumes (both chloride and sulfate).
+has an ASP about Rmb1000-2000/ton more than its sulfate TiO2. But those prices are
+still c.20% below imported prices, given the differentials in quality. We believe as Lomon
 continues to focus on chloride TiO2 product specialization and differentiation (more
-products and more customers) there is upside for its chloride TiO2 ASP over time
-Staying low on the cost curve After multiple years of consolidation and integration
-higher margins vs peers just behind Chemours and Tronox the global TiO2 leader
-Based on the reported gross profit margin Lomon ranks just behind among global
-图表 29 Lomons share price tracks closely with TiO2 prices
-Lomons relative price perf (LHS)
-Tio2 (RHS)
-Price movements (rebased to 1 since July 2011)
-Correlation 07
-since July 2011
-资料来源：Datastream 万得
-图表 31 Lomon can deliver high gross margins mainly due
-TiO2 ASP (USDton as of 2018)
-TiO2 gross margin (USDton as of 2018)
-龙蟒佰利 (002601SZ)
-peers We note that even in a tough TiO2 cycle eg over 2013-14 Lomon Billions
-(pre-merger) still achieved gross margins of about 22%
-We attribute its better cost structure to 1) better plant integration through recycling of
-by-products 2) scale benefits vs smaller Chinese sulfate producers and 3) supply of
-titanium from its own mines (at 50%) For instance the recycled waste acid produced
+products and more customers), there is upside for its chloride TiO2 ASP over time.
+Staying low on the cost curve: After multiple years of consolidation and integration,
+Lomon has moved down the cost curve compared with peers. This enables it to earn
+higher margins vs. peers; just behind Chemours and Tronox, the global TiO2 leader.
+Based on the reported gross profit margin, Lomon ranks just behind among global
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+peers. We note that even in a tough TiO2 cycle e.g. over 2013-14, Lomon Billions
+(pre-merger) still achieved gross margins of about 22%.
+We attribute its better cost structure to: 1) better plant integration through recycling of
+by-products; 2) scale benefits vs. smaller Chinese sulfate producers; and 3) supply of
+titanium from its own mines (at 50%). For instance, the recycled waste acid produced
 from the sulfate TiO2 production process can be resold to neighboring plants (other
-costs that Lomon find difficult to manage down including energy costs such as
-electricity natural gas and steam These account for about 18% of its total TiO2
-production costs
-图表 32 Raw materials the largest production cost of TiO2
-TiO2 production cost breakdown 2018
-vs global peers
-Raw materials
-Energy  1815%
-Labor 468%
-Depreciation
-Lomons TiO2 production cost breakdown (% as of 2018)
-EBITDA margin (%)
-资料来源：Baiinfo
-图表 34 Lomon Billions is at the low end of the cost curve
-TiO2 adjusted cost curve latest
-TiO2 adjusted cost curve (USton minus price premium for overseas players)
-TiO2 Production capacity (k tons)
-Cost advantages
-资料来源：公司数据 Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
+competitors might need to pay for firms to handle their waste acid). There are some
+costs that Lomon find difficult to manage down, including energy costs such as
+production costs.
+图表 33: Lomon's TiO2 EBITDA margin (2018) comes third
+vs. global peers
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
 Growth potential through consolidation and integration
-Lomon is taking market share given its low cost base It is growing its own capacity and
-also in the market for consolidation opportunities It is also looking to own more of its
-feedstock while also diversifying its applications
+Lomon is taking market share, given its low cost base. It is growing its own capacity, and
+also in the market for consolidation opportunities. It is also looking to own more of its
+feedstock, while also diversifying its applications.
 Organic growth to gain market share
-Lomon has delivered strong operational performance at its phase 1 Henan chloride TiO2
-plant (running at c100% utilization in 20172018) The chloride pigments have earned a
-customers including PPG and Nippon Paint
-ramp up utilization in 20192020 (achieving 80kt production in 2019) Lomons success
+plant (running at c.100% utilization in 2017/2018). The chloride pigments have earned a
+good reputation, according to the company, among global leading paint and coating
+customers including PPG and Nippon Paint.
+Lomon commissioned the phase 2 chloride plant (200ktpa) in May 2019 and targets to
+ramp up utilization in 2019/2020 (achieving 80kt production in 2019). Lomon's success
 in developing and operating chloride TiO2 technology (not new to the global players)
-helps it gain market share and first-mover advantage in China
+helps it gain market share and first-mover advantage in China.
 This could accelerate the phase-out of the China sub-scale sulfate TiO2 plants that were
 built over 10 years ago (some are already at their break-even level due to scale and cost
-constraints) According to our channel checks with the local TiO2 suppliers there are
-environment and stricter environmental regulations
+constraints). According to our channel checks with the local TiO2 suppliers, there are
+companies interested in exiting the market due to the more challenging competitive
+environment and stricter environmental regulations.
 Inorganic growth for market consolidation
-Lomon has mentioned their interest in looking for acquisition targets given that some
-existing TiO2 producers are interested in exiting the market On the chloride side
-opportunities globally On the sulfate side Lomon mentioned that it could be difficult to
+Lomon has mentioned their interest in looking for acquisition targets, given that some
+existing TiO2 producers are interested in exiting the market. On the chloride side,
+Lomon has already completed the acquisition of Yunnan Xinli in June this year, adding
+60kt of chloride TiO2 capacity to its asset portfolio. The company is also looking at
+opportunities globally. On the sulfate side, Lomon mentioned that it could be difficult to
 acquire existing players unless there is high certainty of being able to run the plant
-waste and waste acid disposal regulations
-A lot to achieve in 2020
-In order to achieve its production targets in line with guidance Lomon needs to ramp up
+without risks of being shut down. For instance, emissions have to comply with the solid
+waste and waste acid disposal regulations.
+In order to achieve its production targets in line with guidance, Lomon needs to ramp up
 its new Henan phase 2 200kt chloride TiO2 unit and the acquired Yunnan 60kt chloride
+TiO2 unit in 2H19 and 1H20. The company is also planning to debottleneck the existing
 Henan phase 1 60kt chloride TiO2 unit to 100kt and build new production sites totalling
-capacity of 200kt of chloride TiO2 They have assessed the coastal areas for their new
+capacity of 200kt of chloride TiO2. They have assessed the coastal areas for their new
 production sites but found it still more economical to be close to the feedstock sources
-instead As such if they were to expand it would likely to be in Sichuan or Yunnan
-areas where most of Chinas titanium ore is located
-龙蟒佰利 (002601SZ)
+instead. As such, if they were to expand, it would likely to be in Sichuan or Yunnan
+areas, where most of China's titanium ore is located.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
 Owning more of its feedstock
-Lomon owns some titanium ore assets in Sichuan with annual production of 800ktpa
-feedstock for its TiO2 plants Lomon is focused on its feedstock bottlenecks (most China
-resources are low-grade ilmenite) by converting ilmenite to titanium slag  synthetic
-rutile Having its own mines and converters can minimize feedstock cost volatility and
-new 30ktpa ilmenite-to-titanium-slag converter in 2021E
+Lomon owns some titanium ore assets in Sichuan, with annual production of 800ktpa.
+The company has been actively looking to buy titanium ore assets globally to provide
+feedstock for its TiO2 plants. Lomon is focused on its feedstock bottlenecks (most China
+resources are low-grade ilmenite) by converting ilmenite to titanium slag / synthetic
+rutile. Having its own mines and converters can minimize feedstock cost volatility and
+expand gross margin by about Rmb1000-2000/ton. Lomon targets to commission its
+new 30ktpa ilmenite-to-titanium-slag converter in 2021E.
 Diversifying applications
-We think Lomons expansion into titanium sponge and titanium alloy is a rational
-move but not an easy one (announced in May 2019) The move looks rational because
+We think Lomon's expansion into titanium sponge and titanium alloy is a rational
+move, but not an easy one (announced in May 2019). The move looks rational because
 it helps diversify the downstream applications to offer more flexibility in the production
-planning process However the titanium alloy market (medium to low end) is full of
-titanium mine players and margins are low
-We think the market for high-end titanium alloy (eg used in aerospace industries) is
-where the opportunities  margins are — but this also presents further difficulties for new
-entrants due to the need for RD and lengthy end-market verification processes It is
-likely a longer-term revenue growth driver for Lomon in our view
-龙蟒佰利 (002601SZ)
+planning process. However, the titanium alloy market (medium to low end) is full of
+titanium mine players, and margins are low.
+We think the market for high-end titanium alloy (e.g. used in aerospace industries) is
+where the opportunities / margins are — but this also presents further difficulties for new
+entrants, due to the need for R&D and lengthy end-market verification processes. It is
+likely a longer-term revenue growth driver for Lomon, in our view.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
 Financials and valuations
-Growth We forecast Lomon will post revenue and EBITDA CAGRs of 18% and 20%
-respectively during 2019-2021E mainly driven by the 20% sales volume CAGR after
-Margins We expect the TiO2 market to be largely balanced with utilization improving
-slightly in 2020E and 2021E (based on the China TiO2 supply  demand outlook)
-图表 35  We expect Lomons earnings to grow along with
-图表 36 TiO2 contributes a majority of Lomons revenue
-Titanium dioxide (TiO2)
-Gross profits breakdown (Rmb mn)
-dioxide (TiO2)
-Other non-
-2018 revenue breakdown (%)
-图表 37 Generally stable quarterly EBIT trend OCF is more
-volatile but no clear trend of seasonality
-图表 38 We forecast Lomons return profile will further
-EBIT vs OCF (Rmb mn)
-资料来源：公司数据 Gao Hua Securities Research
-资料来源：公司数据 Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-Gearing Lomon Billions has a solid balance sheet with what we see as healthy
-leverage (c 20% net debt to equity) We forecast a gradual decline in gearing as the
-cash returns start to improve and capex stabilizes at Rmb1bn pa in 20202021E
-projects in 2019 and a generally higher utilisation for TiO2 plants
-Capex We forecast Lomons capex at Rmb15bn in 2019E (to include the acquisition
+Income statement
+Growth: We forecast Lomon will post revenue and EBITDA CAGRs of 18% and 20%,
+respectively, during 2019-2021E, mainly driven by the 20% sales volume CAGR after
+commissioning the new TiO2 units.
+Margins: We expect the TiO2 market to be largely balanced, with utilization improving
+slightly in 2020E and 2021E (based on the China TiO2 supply / demand outlook).
+Hence, we forecast the company should maintain its EBIT margin at c.30% during
+2019-2021E.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Balance sheet
+Gearing: Lomon Billions has a solid balance sheet, with what we see as healthy
+leverage (c. 20% net debt to equity). We forecast a gradual decline in gearing as the
+cash returns start to improve and capex stabilizes at Rmb1bn pa in 2020/2021E.
+ROE: We expect a gradual pick-up in ROE to factor in the commissioning of new
+projects in 2019 and a generally higher utilisation for TiO2 plants.
+Cashflow statement
+Capex: We forecast Lomon's capex at Rmb1.5bn in 2019E (to include the acquisition
 of the Yunnan chloride TiO2 business in June) and then to stay at Rmb1bn pa during
-2020-21E to fund new chloride TiO2 plants
-Dividend We forecast Lomons strong cashflow profile and balance sheet should be
-supportive for its c 80% dividend payout as per guidance This gives yields much
-higher than most firms in the chemicals space We also think the high payout is a
-function of the difficulties faced by the industry in getting new spending plans approved
-considering the stringent environment regulations
-图表 39 Cashflow generated is enough to fund dividends and
-图表 40 Healthy leverage
-Net Cash Flow from Operations
-(Acquisitions)Divestments
-Debt Raised(Repaid)
-Cash summary (Rmb mn)
-Net-debt-to-equity (%)
-资料来源：公司数据 Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-图表 41 Generous dividend payouts
-图表 42 Competitive FCF and dividend yields
-Dividend payout ratio (RHS)
-2019E FCF yield (%)
-2019E Dividend yield (%)
-Note Tronox and Kronos numbers are based on Bloomberg consensus
-龙蟒佰利 (002601SZ)
-图表 43 Lomon Billions summary financials
-Profit model (Rmb mn)
-Balance sheet (Rmb mn)
-Cash  equivalents
-Other operating profit(expense)
-Depreciation  amortization
-Other long-term assets
-Short-term debt
-Other current liabilities
-Total current liabilities
-Long-term debt
-Other long-term liabilities
-Total long-term liabilities
-Post-tax exceptionals
-EPS (basic pre-except) (Rmb)
-EPS (basic post-except) (Rmb)
-EPS (diluted post-except) (Rmb)
-Total liabilities  equity
-Dividend payout ratio (%)
-BVPS (Rmb)
-Free cash flow yield (%)
-Growth  margins (%)
-Cash flow statement (Rmb mn)
-DA add-back
-Minorities interests add-back
-Net (inc)dec working capital
-Other operating cash flow
-Cash flow from operations
-Cash flow from investments
-Inc(dec) in debt
-Common stock issuance (repurchase)
-Other financing cash flows
-Cash flow from financing
-Note Last actual year may include reported and estimated data
-Source Company data Goldman Sachs Research estimates
-龙蟒佰利 (002601SZ)
-Our 12-month price target of Rmb190 is based on 75X forward EVEBITDA (applied to
-a simple average of 2020E21E EBITDA) discounted back by one year at 10% (our
-estimate of Lomons WACC) We use EVEBITDA as our primary valuation
+2020-21E to fund new chloride TiO2 plants.
+Dividend: We forecast Lomon's strong cashflow profile and balance sheet should be
+supportive for its c. 80% dividend payout, as per guidance. This gives yields much
+higher than most firms in the chemicals space. We also think the high payout is a
+function of the difficulties faced by the industry in getting new spending plans approved,
+considering the stringent environment regulations.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Note: Tronox and Kronos numbers are based on Bloomberg consensus
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Valuations
+Our 12-month price target of Rmb19.0 is based on 7.5X forward EV/EBITDA (applied to
+a simple average of 2020E/21E EBITDA), discounted back by one year at 10% (our
+estimate of Lomon's WACC). We use EV/EBITDA as our primary valuation
 methodology as we think it is a better way to value the cash-generating ability for
-Our target multiple of 75X is consistent with the average EVEBITDA since 2016 the
-year of the merger between Lomon and Billions We apply the average multiple as we
-note the current TiO2 price is at the median level since 2016
-The stock is trading below average EVEBITDA PE and PB levels since 2016 in our
+established chemicals companies, consistent with our global and regional methodology.
+Our target multiple of 7.5X is consistent with the average EV/EBITDA since 2016, the
+year of the merger between Lomon and Billions. We apply the average multiple as we
+note the current TiO2 price is at the median level since 2016.
+The stock is trading below average EV/EBITDA, P/E and P/B levels since 2016, in our
 view partly because the market lacks confidence Lomon can successfully ramp up their
-new chloride TiO2 capacity on time There are also concerns around the property
-market recovery signals in recent months based on GFA sold data points
-图表 44 Lomon is trading below the historical average
-图表 45 Lomon is trading below the historical average PE
-Average 75
-1 SD 93
--1 SD 58
-12-month rolling forward EVEBITDA (X)
-Average 132
-1 SD 162
--1 SD 102
-12-month rolling forward PE (X)
-资料来源：公司数据 Datastream Gao Hua Securities Research
-图表 46 Lomon is trading below the historical average PB
-图表 47 Lomons valuation summary
-Average 24
-1 SD 28
--1 SD 20
-12-month rolling forward PB (X)
-EBITDA (Rmb mn)
-Blended 20-21E EBITDA
-Target EVEBITDA multiple (x)
-Implied EV (Nominal)
-Implied EV (Discounted)
-Net debt  (cash) (as of end-2018)
-Minority interest (as of end-2018)
-Equity value (Rmb mn)
-Number of shares (mn)
-Target price (Rmbsh)
-资料来源：公司数据 Datastream Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-资料来源：Datastream 高盛全球投资研究 Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-TiO2 prices (-) Lower-  higher-than-expected TiO2 prices due to supply  demand
-dynamics are large risk factors A key downside risk is weaker-than-expected TiO2
-demand (driven mainly by the property cycle) Upside risks would include
-slower-than-expected ramp of new China TiO2 supplies and further supply
-consolidation due to stringent environmental controls
-Worse-than-expected utilisation at new chloride plants (-) Lomons new chloride
-capacity additions might face potential delays and production issues which are very
+new chloride TiO2 capacity on time. There are also concerns around the property
+market recovery signals in recent months based on GFA sold data points.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+图表 48: Lomon’s local and global peers comparison
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Key risk factors
+TiO2 prices (-/+): Lower- / higher-than-expected TiO2 prices due to supply / demand
+demand (driven mainly by the property cycle). Upside risks would include
+slower-than-expected ramp of new China TiO2 supplies, and further supply
+consolidation due to stringent environmental controls.
+Worse-than-expected utilisation at new chloride plants (-): Lomon s new chloride
+capacity additions might face potential delays and production issues, which are very
+common in China, given that the chloride technology is still relatively new. Lomon's
 generally conservative corporate operational management in terms of safety and project
-planning could mean the ramp-up of capacity additions may be slower than expected
-Insufficient feedstock supplies for chloride TiO2 (-) Chloride TiO2 requires
-high-concentration titanium ores as feedstock Lomon is building a new
+planning could mean the ramp-up of capacity additions may be slower than expected.
+Insufficient feedstock supplies for chloride TiO2 (-): Chloride TiO2 requires
+high-concentration titanium ores as feedstock. Lomon is building a new
+ilmenite-to-titanium-slag conversion unit, to be completed in 2021, that will help supply
+the required feedstock for its chloride TiO2 plant. Any delay in project commissioning
 could mean Lomon has to source its feedstock from external suppliers for a longer
-Regulatory changes (-) The TiO2 production process is highly polluting For instance
-sulfate TiO2 produces a large amount of sulfuric acid which is converted into solid
-waste for disposal Any changes to government policy preferences on new supplies of
+period.
+Regulatory changes (-): The TiO2 production process is highly polluting. For instance,
+sulfate TiO2 produces a large amount of sulfuric acid, which is converted into solid
+waste for disposal. Any changes to government policy preferences on new supplies of
 TiO2 or future supply consolidation (particularly in the sulfate TiO2 segment) will be
-critical in the demand  supply balance Based on the recent rounds of government
-supervisions across provinces on plant emissions we saw no pull-back in government
-moves to be more environmentally friendly
-Operational risks (-) The chemicals industry is a high-risk business handling lots of
-toxic and explosive materials There are occasionally accidents  explosions that could
+critical in the demand / supply balance. Based on the recent rounds of government
+supervisions across provinces on plant emissions, we saw no pull-back in government
+moves to be more environmentally friendly.
+Operational risks (-): The chemicals industry is a high-risk business, handling lots of
+toxic and explosive materials. There are occasionally accidents / explosions that could
+lead to plant suspensions or result in compensation payouts. More frequent supervision
 on Chinese chemicals plants to monitor emissions and safety would also count as
-potential risks
-图表 49 EPS sensitivity to TiO2 prices
-3% change in TiO2 price results in c3% change in EPS
--1000 (-7% change)
-vs Base case
--500 (-3% change)
-vs Base case
-500 (3% change)
-vs Base case
-1000 (7% change)
-vs Base case
-TiO2 price (Rmbton)
-资料来源：Gao Hua Securities Research
-龙蟒佰利 (002601SZ)
-post the merger) will see their lock-up period expire on September 20 2019 The free
-float (including major shareholders) will increase by about 1322mn shares out of a total
-outstanding of 2032mn shares We believe this could be a near-term downside risk
-unless there are any strategic investors interested in the blocks There have been no
-material changes in shareholder structure in the past few years
-Foreign exchange risk (-) About 50% of Lomons revenue is from TiO2 overseas
-sales (as of 2018) Similar to total China TiO2 exports it supplies to a wide range of
-countries According to Lomon any Rmb appreciation  depreciation would be
-negativepositive to Lomon because it would lower  increase export sales
-龙蟒佰利 (002601SZ)
-Across our global coverage we examine stocks using an MA framework considering
+potential risks.
+2019年8月3日
+全球投资研究
+Free float increase (-): The company's core shareholders (introduced back in 2016,
+post the merger) will see their lock-up period expire on September 20, 2019. The free
+float (including major shareholders) will increase by about 1,322mn shares, out of a total
+outstanding of 2,032mn shares. We believe this could be a near-term downside risk
+unless there are any strategic investors interested in the blocks. There have been no
+material changes in shareholder structure in the past few years.
+Foreign exchange risk (-/+): About 50% of Lomon's revenue is from TiO2 overseas
+sales (as of 2018). Similar to total China TiO2 exports, it supplies to a wide range of
+countries. According to Lomon, any Rmb appreciation / depreciation would be
+negative/positive to Lomon because it would lower / increase export sales.
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+M&A score
+Across our global coverage, we examine stocks using an M&A framework, considering
 both qualitative and quantitative factors (which may vary across sectors and regions) to
-target 2 representing medium (15%-30%) probability and 3 representing low (0%-15%)
-considered immaterial and therefore does not factor into our price target and may or
-may not be discussed in research
-Under our MA framework for the Asia-Pacific Energy and Chemical sector we
-recognize a myriad of factors could influence the probability of a deal and our regional
-Regulation on ownership that prohibits or discourages acquisitions including by a
-foreign entity on grounds of national security
-realization of planned synergy and restructuring upside
-Management stance in terms of openness to a deal (eg being a target of
-acquisition management buyout) especially by government appointees
-entry barrier (eg monopoly) or a low-cost structure
+incorporate the potential that certain companies could be acquired. We then assign an
+M&A rank as a means of scoring companies under our rated coverage from 1 to 3, with
+1 representing high (30%-50%) probability of the company becoming an acquisition
+target, 2 representing medium (15%-30%) probability and 3 representing low (0%-15%)
+probability. For companies ranked 1 or 2, in line with our standard departmental
+guidelines we incorporate an M&A component into our target price. An M&A rank of 3 is
+considered immaterial and therefore does not factor into our price target, and may or
+may not be discussed in research.
+Under our M&A framework for the Asia-Pacific Energy and Chemical sector, we
+recognize a myriad of factors could influence the probability of a deal, and our regional
+team see the following as five key common issues:
+Regulation on ownership that prohibits or discourages acquisitions, including by a
+foreign entity, on grounds of national security.
+Regulatory risks that discourage potential buyers from an acquisition and complicate
+realization of planned synergy and restructuring upside.
+Management stance in terms of openness to a deal (e.g., being a target of
+acquisition, management buyout), especially by government appointees.
+Strategic assets that offer the owners a strong competitive advantage due to a high
+entry barrier (e.g., monopoly) or a low-cost structure.
 Industry attractiveness based on a growing profit pool as a function of asset
-expansion revenue growth or profitability improvement
-Within this context we have ranked Lomon Billions a 3 and weight our MA value
+expansion, revenue growth, or profitability improvement.
+Within this context, we have ranked Lomon Billions a "3" and weight our M&A value
 by 0% (reflecting the probability implied by this ranking) within our price target
-methodology
-图表 50 Summary of MA score
-龙蟒佰利 (002601SZ)
-What is TiO2
-Titanium Dioxide (TiO2) is a white pigment widely used in paints plastics paper making
-printing inks etc The global TiO2 industry has been developed for more than a hundred
-years while Chinas TiO2 industry began in 1956 Pigment-grade TiO2 production only
-started in China in the 1980s and 1990s China now plays an important role in the global
-TiO2 market (at c 50% of global capacity)
-There are two main production technologies for TiO2 sulfate process (mainly in China)
-and chloride process (mainly outside China) The sulfate process uses ilmenite (a
-sulfur) The chloride process uses rutile or purer ore (higher titanium concentration at
-80% or above) as the major feedstock plus chlorine gas Rutile TiO2 has better
-weatherability and opacity making it more suitable for outdoor coatings plastics
-advanced paper coatings etc The biggest customers are the paint and coating
-Since most of Chinas titanium reserves are in the form of ilmenite (lower grade and
-cheaper titanium ores) instead of rutile (higher concentration) China has so far focused
-on the TiO2 sulfate production process (it now accounts for c90% of Chinas
-capacity) There are only a few chloride-process TiO2 plants operating in China with
-only two (Lomon Billions and Jinzhou Titanium) running at normal operating rates The
-others are either in production suspension or running at low utilization
-图表 51 Coatings (mainly used in paints for interior and
-exterior walls) are the largest consumer
-Global TiO2 demand breakdown 2018
-图表 52 Most of Chinas imported titanium ores are
-sourced from Mozambique and Australia
-Source of titanium ores 2018
-Coatings 69%
-Plastic 15%
-China 59%
-Australia 15%
-Mozambique
-Vietnam 11%
-Korea 10%
-Gambia 0%
-资料来源：Company data
-资料来源：China Customs
-龙蟒佰利 (002601SZ)
-图表 53 Ownership structure
-(Chairman
-Founder of Billions)
-(Lomon founder
-family member)
-(Vice Chairman)
-图表 54 TiO2 flow chart
-Crude TiO2
-Iron(II) sulfate
-Hydrolization 
-By-Product
-龙蟒佰利 (002601SZ)
+methodology.
+图表 50: Summary of M&A score
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Appendix
+What is TiO2?
+Titanium Dioxide (TiO2) is a white pigment widely used in paints, plastics, paper making,
+printing inks, etc. The global TiO2 industry has been developed for more than a hundred
+years, while China's TiO2 industry began in 1956. Pigment-grade TiO2 production only
+started in China in the 1980s and 1990s. China now plays an important role in the global
+TiO2 market (at c. 50% of global capacity).
+There are two main production technologies for TiO2: sulfate process (mainly in China)
+and chloride process (mainly outside China). The sulfate process uses ilmenite (a
+common iron-titanium oxide) as the major feedstock, plus sulfuric acid (converted from
+sulfur). The chloride process uses rutile or purer ore (higher titanium concentration, at
+80% or above) as the major feedstock, plus chlorine gas. Rutile TiO2 has better
+weatherability and opacity, making it more suitable for outdoor coatings, plastics,
+advanced paper coatings, etc. The biggest customers are the paint and coating
+companies, such as PPG, Nippon Paint, and Akzo Nobel.
+Since most of China's titanium reserves are in the form of ilmenite (lower grade and
+cheaper titanium ores) instead of rutile (higher concentration), China has so far focused
+on the TiO2 sulfate production process (it now accounts for c.90% of China's
+capacity). There are only a few chloride-process TiO2 plants operating in China, with
+only two (Lomon Billions and Jinzhou Titanium) running at normal operating rates. The
+others are either in production suspension or running at low utilization.
+Coatings, 69%
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+Company ownership
+2019年8月3日
+全球投资研究
+龙蟒佰利 (002601.SZ)
+信息披露附录
+本人，朱金巧，在此申明，本报告所表述的所有观点准确反映了本人对上述公司或其证券的个人看法。此外，本人薪金的任何部分不曾与，不与，也将不
 会与本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增
 长、回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下:
 增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本
-回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EVFCF、EVEBITDA、EVDACF、市净率。 波动性根据
+回报率和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据
 12个月的历史波动性计算并经股息调整。
+并购评分
 在我们的全球覆盖范围中，我们使用并购框架来分析股票，综合考虑定性和定量因素（各行业和地区可能会有所不同）以计入某些公司被收购的可能性。
 然后我们按照从1到3对公司进行并购评分，其中1分代表公司成为并购标的的概率较高(30%-50%)，2分代表概率为中等(15%-30%)，3分代表概率较低
-(0%-15%)。对于评分为1或2的公司，我们按照研究部统一标准将并购因素体现在我们的目标价格当中。并购评分为3被认为意义不大，因此不予体现在
+Quantum
 Quantum是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比
+GS SUSTAIN
 GS SUSTAIN是一项侧重于通过发现优质行业领先企业而实现长期超额收益的全球投资策略。GS SUSTAIN 50关注名单列出了我们认为凭借出色的资本
 回报、具有可持续性的竞争优势和对ESG（环境、社会和企业治理）风险的有效管理而有望在长期内相对于全球同业表现出色的行业领军企业。候选企
 业主要基于对企业在这三方面表现的综合量化分析筛选而出。
-朱金巧：亚洲化工行业。
-亚洲化工行业：Daoming Optics  Chemical、Hengli Petrochemical Co、Lomon Billions Group、Rongsheng Petrochemical Co、Sinopec Shanghai
-Petrochemical (A)、Sinopec Shanghai Petrochemical (H)、Tongkun Group Co、Wanhua Chemical Group、Weihai Guangwei、Yantai Tayho、
+相关的股票研究范围
+朱金巧: 亚洲化工行业。
+亚洲化工行业: Daoming Optics & Chemical、Hengli Petrochemical Co.、Lomon Billions Group、Rongsheng Petrochemical Co.、Sinopec Shanghai
+Petrochemical (A)、Sinopec Shanghai Petrochemical (H)、Tongkun Group Co.、Wanhua Chemical Group、Weihai Guangwei、Yantai Tayho、
 Zhejiang Satellite。
-没有对下述公司的具体信息披露： Lomon Billions Group (Rmb1409)
+信息披露
+与公司有关的法定披露
+的公司之间的关系。
+没有对下述公司的具体信息披露: Lomon Billions Group (Rmb14.09)
 公司评级、研究行业和相关定义
 回报决定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地
-区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模和或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将
-标价格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予
+区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模和/或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将
 以除去。 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票
 给予投资评级和价格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经
 暂停对该公司的研究。 没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因
-本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整
-性，客户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会
-我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们
-的资产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
-龙蟒佰利 (002601SZ)
-该股的基本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
-在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到
-个别客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意
-见。本报告中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失
-某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自
-这一投资的收入产生不良影响。
-当前期权和期货的披露文件。对于包含多重期权买卖的期权策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要
-全球投资研究部提供的不同服务层级：根据您对接收沟通信息的频率和方式的个人偏好、您的风险承受能力、投资重心和视角（例如整体市场、具体行
-票评级、目标价格或盈利预测大幅调整）的改变，在被纳入研究报告、并通过电子形式发表在内部客户网上或通过其它必要方式向有权接收此类研究报告
-的所有客户大范围发布之前，不得向任何客户透露。
-市场或资产类别（包括相关服务）的研究报告、模型或其它数据，请联络您的高华销售代表。
-龙蟒佰利 (002601SZ)
+此不包括在报告内。
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。

@@ -1,2469 +1,368 @@
-Key Data  __________________________________ 
- 
-GS Forecast  ________________________________ 
- 
-GS Factor Proﬁle  ____________________________ 
- 
-Source: Company data, Goldman Sachs Research estimates. 
-See disclosures for details.
+Focus Media Information Tech (002027.SZ)
+Slowdown in both revenue growth and network expansion
+Xufa Liao, CFA
+002027.SZ
+Upside: 40.7%
+Beijing Gao Hua Securities Company Limited
+We revisit the competition dynamics and macro headwinds faced by
+Focus Media. We think the cyclical impact on advertisement might
+be more serious than expected and revenue growth might further
+slow down to the low teens level after 4Q18, in line with that
+observed during 2013-15. Meanwhile, the slowing down of Focus
+Media's network expansion, as well as the new round of financing
+that its rival Xinchao Media has secured from Baidu and others,
+Key Data
 Market cap: Rmb82.3bn / $11.9bn
+might lead to a longer-than-expected price war. Hence, we cut our
 Enterprise value: Rmb78.6bn / $11.4bn
+2018E-21E EPS by 1.6%-20% to reflect lower revenue as well as
 3m ADTV: Rmb791.8mn / $114.4mn
 China
+lower margins. We expect 2019E NI to decline by 8% yoy to
 A-share Media
-M&A Rank: 3
-12/17
-12/18E
-12/19E
-12/20E
-Revenue (Rmb mn) New
-12,013.6
-14,575.0
-16,068.9
-18,219.4
-Revenue (Rmb mn) Old
-12,013.6
-14,762.7
-17,487.6
-20,465.2
-EBITDA (Rmb mn)
-5,767.3
-6,462.3
-6,052.4
-6,569.0
-EPS (Rmb) New
-0.49
-0.41
-0.38
-0.43
-EPS (Rmb) Old
-0.49
-0.42
-0.43
-0.50
-P/E (X)
-17.0
-13.6
-14.8
-13.2
-P/B (X)
-9.8
-5.6
-4.7
-4.4
-Dividend yield (%)
-1.2
-2.2
-3.4
-6.1
-CROCI (%)
-14.4
-16.0
-13.0
-12.1
-6/18
-9/18E
-12/18E
-3/19E
-EPS (Rmb)
-0.15
-0.10
-0.08
-0.06
+Rmb5.58bn due to lower ASP and higher cost per screen. According
+GS Forecast
+to our estimates, 4Q18 and 1Q19 should be the growth rate trough.
+We cut our 12-month target price to Rmb7.89 (was Rmb11.67), but
+maintain Buy on attractive valuation (the stock is trading at 14x
+2019E P/E vs. an average of 20x for global outdoor advertising
+peers, and 18x average for domestic media peers).
+Macro headwinds intensify
+Macro headwinds have begun to impact advertising expenditure.
+According to CTR, China advertisement expenditure on traditional
+GS Factor Profile
+media (ex-internet media) was down 2.8% in October, declining
+further from a 1.5% yoy fall in 3Q18, after a 9.3% yoy rise in 1H18.
+Thanks to the Singles Day advertising campaign of Alibaba and other
+e-commerce platforms, Elevator LCD screen ads and Elevator
+Poster ads maintained relatively stable growth, increasing
+23.9%/23.6% yoy in Oct, respectively, vs. 26%/25% in Sept.
 002027.SZ relative to Asia ex. Japan Coverage
 002027.SZ relative to A-share Media
-Growth
-Financial Returns
-Multiple
-Integrated
-Percentile
-20th
-40th
-60th
-80th
-100th
- 
-We revisit the competition dynamics and macro headwinds faced by 
-Focus Media. We think the cyclical impact on advertisement might 
-be more serious than expected and revenue growth might further 
-slow down to the low teens level after 4Q18, in line with that 
-observed during 2013-15. Meanwhile, the slowing down of Focus 
-Media’s network expansion, as well as the new round of ﬁnancing 
-that its rival Xinchao Media has secured from Baidu and others, 
-might lead to a longer-than-expected price war. Hence, we cut our 
-2018E-21E EPS by 1.6%-20% to reﬂect lower revenue as well as 
-lower margins. We expect 2019E NI to decline by 8% yoy to 
-Rmb5.58bn due to lower ASP and higher cost per screen. According 
-to our estimates, 4Q18 and 1Q19 should be the growth rate trough. 
-We cut our 12-month target price to Rmb7.89 (was Rmb11.67), but 
-maintain Buy on attractive valuation (the stock is trading at 14x 
-2019E P/E vs. an average of 20x for global outdoor advertising 
-peers, and 18x average for domestic media peers). 
-Macro headwinds intensify 
-Macro headwinds have begun to impact advertising expenditure. 
-According to CTR, China advertisement expenditure on traditional 
-media (ex-internet media) was down 2.8% in October, declining 
-further from a 1.5% yoy fall in 3Q18, after a 9.3% yoy rise in 1H18. 
-Thanks to the Singles Day advertising campaign of Alibaba and other 
-e-commerce platforms, Elevator LCD screen ads and Elevator 
-Poster ads maintained relatively stable growth, increasing 
-23.9%/23.6% yoy in Oct, respectively, vs. 26%/25% in Sept. 
-However, we think the impact from macro headwinds might further 
-expand to inner building advertisement expenditure, and notably 
-brand advertising at the low end is the ad basket most likely to be 
-cut, in our view due to the limited targeting ability of inner building 
-002027.SZ
-12m Price Target: Rmb7.89
-Price: Rmb5.61
-Upside: 40.7%
-Focus Media Information Tech (002027.SZ) 
-Slowdown in both revenue growth and network expansion
-27 December 2018 | 3:05PM CST
- 
-Goldman Sachs does and seeks to do business with companies covered in its research reports. As a result, 
-investors should be aware that the ﬁrm may have a conﬂict of interest that could affect the objectivity of this 
-report. Investors should consider this report as only a single factor in making their investment decision. For Reg AC 
-certiﬁcation and other important disclosures, see the Disclosure Appendix, or go to 
-www.gs.com/research/hedge.html. Analysts employed by non-US afﬁliates are not registered/qualiﬁed as research 
-analysts with FINRA in the U.S. 
-Xufa Liao, CFA 
-+86(21)2401-8902 | xufa.liao@ghsl.cn 
-Beijing Gao Hua Securities Company Limited
-Buy
-Ratios & Valuation  _______________________________________ 
- 
-Growth & Margins (%)  ____________________________________ 
- 
-Price Performance  _______________________________________ 
- 
- 
-Source: FactSet. Price as of 26 Dec 2018 close. 
-Income Statement (Rmb mn)  _______________________________ 
- 
-12/17
-12/18E
-12/19E
-12/20E
-P/E (X)
-17.0
-13.6
-14.8
-13.2
-P/B (X)
-9.8
-5.6
-4.7
-4.4
-FCF yield (%)
-3.8
-3.6
-6.7
-7.7
-EV/EBITDA (X)
-13.8
-12.2
-12.5
-11.1
-CROCI (%)
-14.4
-16.0
-13.0
-12.1
-ROE (%)
-65.4
-48.4
-34.9
-34.7
-Net debt/equity (%)
-(29.2)
-(26.1)
-(37.8)
-(49.1)
-Interest cover (X)
-254.7
-238.4
-220.9
-240.4
-Days inventory outst, sales
-0.1
-0.1
---
---
-Receivable days
-94.2
-109.5
-121.5
-115.1
-Days payable outstanding
-350.0
-236.6
-171.8
-165.2
-DuPont ROE (%)
-56.9
-40.9
-31.9
-33.4
-Turnover (X)
-0.8
-0.7
-0.7
-0.7
-Leverage (X)
-1.5
-1.3
-1.4
-1.5
-12/17
-12/18E
-12/19E
-12/20E
-Total revenue growth
-17.6
-21.3
-10.2
-13.4
-EBITDA growth
-34.4
-12.1
-(6.3)
-8.5
-EPS growth
-(3.6)
-(16.2)
-(7.6)
-12.1
-DPS growth
-(75.5)
-23.4
-54.0
-79.4
-EBIT margin
-46.9
-41.7
-35.0
-33.6
-EBITDA margin
-48.0
-44.3
-37.7
-36.1
-Net income margin
-50.0
-41.4
-34.7
-34.3
-002027.SZ (Rmb)
-Shanghai - Shenzhen 300
-Jan-18
-Apr-18
-Jul-18
-Oct-18
-4
-6
-8
-10
-12
-14
-2,500
-3,000
-3,500
-4,000
-4,500
-5,000
-3m
-6m
-12m
-Absolute
-(32.2)%
-(43.2)%
-(50.7)%
-Rel. to the Shanghai - Shenzhen 300
-(22.8)%
-(33.2)%
-(33.5)%
-12/17
-12/18E
-12/19E
-12/20E
-Total revenue
-12,013.6
-14,575.0
-16,068.9
-18,219.4
-Cost of goods sold
-(3,276.7)
-(5,038.5)
-(6,778.1)
-(8,116.5)
-SG&A
-(2,860.0)
-(3,192.7)
-(3,396.1)
-(3,710.4)
-R&D
-(61.7)
-(67.6)
-(66.5)
-(66.2)
-Other operating inc./(exp.)
-(181.0)
-(200.0)
-(200.0)
-(200.0)
-EBITDA
-5,767.3
-6,462.3
-6,052.4
-6,569.0
-Depreciation & amortization
-(133.2)
-(386.0)
-(424.2)
-(442.7)
-EBIT
-5,634.1
-6,076.3
-5,628.2
-6,126.3
-Net interest inc./(exp.)
-128.3
-108.1
-134.4
-228.2
-Income/(loss) from associates
-(5.3)
-230.0
-80.0
-96.0
-Pre-tax profit
-7,231.7
-7,146.2
-6,622.3
-7,428.2
-Provision for taxes
-(1,258.3)
-(1,141.2)
-(1,079.5)
-(1,209.8)
-Minority interest
-31.3
-32.9
-34.5
-36.2
-Preferred dividends
---
---
---
---
-Net inc. (pre-exceptionals)
-6,004.7
-6,037.9
-5,577.3
-6,254.6
-Post-tax exceptionals
---
---
---
---
-Net inc. (post-exceptionals)
-6,004.7
-6,037.9
-5,577.3
-6,254.6
-EPS (basic, pre-except) (Rmb)
-0.49
-0.41
-0.38
-0.43
-EPS (diluted, pre-except) (Rmb)
-0.49
-0.41
-0.38
-0.43
-EPS (basic, post-except) (Rmb)
-0.49
-0.41
-0.38
-0.43
-EPS (diluted, post-except) (Rmb)
-0.49
-0.41
-0.38
-0.43
-DPS (Rmb)
-0.10
-0.12
-0.19
-0.34
-Div. payout ratio (%)
-20.4
-30.0
-50.0
-80.0
-27 December 2018
-  2
-Goldman Sachs
-Balance Sheet (Rmb mn)  __________________________________ 
- 
-Cash Flow (Rmb mn)  ______________________________________ 
- 
+However, we think the impact from macro headwinds might further
+expand to inner building advertisement expenditure, and notably
 Source: Company data, Goldman Sachs Research estimates.
-12/17
-12/18E
-12/19E
-12/20E
-Cash & cash equivalents
-3,930.3
-4,702.7
-7,459.9
-10,043.8
-Accounts receivable
-3,550.3
-5,191.1
-5,503.0
-5,989.9
-Inventory
-7.0
---
---
---
-Other current assets
-3,676.8
-3,696.8
-3,716.8
-3,736.8
-Total current assets
-11,164.3
-13,590.5
-16,679.7
-19,770.5
-Net PP&E
-358.1
-1,027.1
-896.9
-801.7
-Net intangibles
-182.6
-182.6
-182.6
-182.6
-Total investments
-2,802.8
-3,981.0
-5,009.1
-6,053.3
-Other long-term assets
-1,046.8
-1,096.8
-1,146.8
-1,196.8
-Total assets
-15,554.6
-19,878.0
-23,915.1
-28,004.9
-Accounts payable
-3,495.4
-3,036.9
-3,342.6
-4,002.7
-Short-term debt
-0.0
-0.0
-0.0
-0.0
-Other current liabilities
-419.9
-1,008.1
-1,985.4
-4,200.4
-Total current liabilities
-3,915.3
-4,045.0
-5,328.0
-8,203.1
-Long-term debt
-849.4
-849.4
-849.4
-849.4
-Other long-term liabilities
-232.0
-232.0
-232.0
-232.0
-Total long-term liabilities
-1,081.4
-1,081.4
-1,081.4
-1,081.4
-Total liabilities
-4,996.7
-5,126.5
-6,409.5
-9,284.5
-Preferred shares
---
---
---
---
-Total common equity
-10,372.6
-14,599.1
-17,387.8
-18,638.7
-Minority interest
-185.3
-152.4
-117.9
-81.7
-Total liabilities & equity
-15,554.6
-19,878.0
-23,915.1
-28,004.9
-Gross cash invested (ex cash)
-47,266.0
-64,352.1
-83,922.7
-97,912.2
-Net debt, adjusted
-(3,080.8)
-(3,853.2)
-(6,610.5)
-(9,194.3)
-Average capital employed
-5,918.6
-9,187.7
-10,896.7
-10,210.6
-BVPS (Rmb)
-0.85
-0.99
-1.18
-1.27
-12/17
-12/18E
-12/19E
-12/20E
-Net income
-6,004.7
-6,037.9
-5,577.3
-6,254.6
-D&A add-back
-133.2
-386.0
-424.2
-442.7
-Minority interest add-back
-(31.3)
-(32.9)
-(34.5)
-(36.2)
-Net (inc)/dec working capital
-(197.7)
-(2,092.3)
-(6.2)
-173.1
-Other operating cash flow
-(1,752.6)
-(300.0)
-(150.0)
-(166.0)
-Cash flow from operations
-4,156.3
-3,998.7
-5,810.8
-6,668.2
-Capital expenditures
-(263.3)
-(1,055.0)
-(294.0)
-(347.5)
-Acquisitions
---
---
---
---
-Divestitures
-0.8
---
---
---
-Others
-(1,888.4)
-(948.2)
-(948.2)
-(948.2)
-Cash flow from investing
-(2,150.9)
-(2,003.2)
-(1,242.2)
-(1,295.7)
-Dividends paid (common & pref)
-(3,587.0)
-(1,223.2)
-(1,811.4)
-(2,788.7)
-Inc/(dec) in debt
-1,013.1
---
---
---
-Other financing cash flows
-6.4
-0.0
-0.0
-0.0
-Cash flow from financing
-(2,567.5)
-(1,223.2)
-(1,811.4)
-(2,788.7)
-Total cash flow
-(565.2)
-772.4
-2,757.3
-2,583.9
-Free cash flow
-3,892.9
-2,943.7
-5,516.8
-6,320.7
-Focus Media Information Tech (002027.SZ) 
-Rating since May 31, 2017
- 
-Buy
+See disclosures for details.
+brand advertising at the low end is the ad basket most likely to be
+cut, in our view due to the limited targeting ability of inner building
+Goldman Sachs does and seeks to do business with companies covered in its research reports. As a result,
+investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this
+report. Investors should consider this report as only a single factor in making their investment decision. For Reg AC
+certification and other important disclosures, see the Disclosure Appendix, or go to
+analysts with FINRA in the U.S.
 Focus Media Information Tech (002027.SZ)
-ad formats. During the investor meeting at the GS China Conference held on Nov 16, 
-management also expressed concerns about the impact from the economic slowdown, 
-and expected revenue growth in 4Q18 to further slow down to the mid-teen level. 
-Currently, the biggest contribution of advertisement revenue is from FMCG products, 
-which grew 57% yoy in 1H18 and contributed 24% of total ad revenue for Focus Media. 
-Excluding FMCG, other sectors grew at 16% yoy in 1H18. Given that FMCG usually has 
-6-9 months time lag in the advertisement cycle vs. macroeconomic growth, we think 
-2019 growth might see a drag from a deceleration in FMCG advertising. Furthermore, 
-internet advertising might continue its single-digit growth in inner building media given 
-that trafﬁc advertising growth of internet companies is becoming more muted as it 
-enters a matured stage of penetration. 
- 
- 
- 
-Exhibit 1: Growth momentum of China inner building advertisement expenditure 
-13% 
-18% 
-24% 
-20% 
-26% 
-9% 
-9% 
-22% 
-19% 
-14% 
-18% 
-22% 
-22% 
-30% 
-33% 
-27% 
-21% 
-17% 
-31% 
-26% 25% 
-29% 
-23% 
-25% 
-23% 
-22% 
-0%
-10%
-20%
-30%
-40%
-Weighted average ad revenue growth
- 
- 
+Ratios & Valuation
+Growth & Margins (%) _
+Price Performance
+Income Statement (Rmb mn)
+Source: Company data, Goldman Sachs Research estimates.
+ad formats. During the investor meeting at the GS China Conference held on Nov 16,
+management also expressed concerns about the impact from the economic slowdown,
+and expected revenue growth in 4Q18 to further slow down to the mid-teen level.
+Currently, the biggest contribution of advertisement revenue is from FMCG products,
+which grew 57% yoy in 1H18 and contributed 24% of total ad revenue for Focus Media.
+Excluding FMCG, other sectors grew at 16% yoy in 1H18. Given that FMCG usually has
+6-9 months time lag in the advertisement cycle vs. macroeconomic growth, we think
+2019 growth might see a drag from a deceleration in FMCG advertising. Furthermore,
+internet advertising might continue its single-digit growth in inner building media given
+that traffic advertising growth of internet companies is becoming more muted as it
+enters a matured stage of penetration.
 Source: CTR, Gao Hua Securities Research
- 
-Exhibit 2: Sector breakdown of Focus Media revenue in 2018E 
-Internet
- 
-18%  
-FMCG  
-24%  
-Autos & 
-Transportations
- 
-14%  
-Communications 
-14%  
-Real estate & 
-furniture
- 
-8%  
-Services 
-6%  
-Entertainment
- 
-7%  
-Others 
-9%  
- 
- 
 Source: Gao Hua Securities Research
-27 December 2018
-  3
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
-Competition remains a concern but screen roll out might slow down 
-With Xinchao Media, the aggressive competitor shaking Focus Media’s dominant 
-position in the industry, securing another round of ﬁnancing of Rmb2.1bn (led by Baidu), 
-competition remains a pressure for Focus Media. Although the CEO of Xinchao recently 
-said that the company would slow the pace of its network expansion after reaching 
-coverage of 700k elevators because of the macroeconomic uncertainties, competition 
-alarm is still not disarmed from Focus Media’s perspective. According to the CEO of 
-Xinchao (as per media report dated December 10 from wallstreetcn.com), the company 
-will realize revenue of Rmb1bn in 2018 (which is far less than its April 2018 announced 
-target of Rmb1.5bn), but is still running at a loss and would like to monetize the 
-operation of the current network. We see this as a signal of alleviation of the elevator 
-resources war. Meanwhile, Focus Media also sent out similar signals. During the 
-investor meeting at the November GS China Conference, Focus Media management 
-indicated that terminal expansion in 2019 might slow down and trend at the low end of 
-its latest 500k-1mn increase target if competition pressure eases up, and the company 
-might focus more on the monetization of new screens. We think the trimming of the 
-screen roll-out plan for 2019 is due to several factors: 1) the macro headwinds bring less 
-visibility of ad expenditure for 2019, 2) the slow down of competitors’ network 
-expansion, and 3) Focus Media will have developed 1.1-1.2mn new screens as of end 
-2018, much more than the previous target of 1mn set in April, and the company has 
-secured most incremental prime locations in 2018. There is no need to further expand 
-aggressively in 2019, in our view. 
-On the other hand, as of end 2018 the combined penetration rate of Focus Media 
-(1.1mn coverage of elevators, according to our estimate) and Xinchao Media (700k 
-elevators, according to the company) would be close to 30% of total elevators in China. 
-Including the other smaller players in lower tier cities, the penetration of elevators with 
-advertising media would be even higher than 50%. Therefore, we think the network 
-expansion of Focus Media and Xinchao Media would be more determined by the growth 
-rate of elevators in China, which we estimate at 10%-12% in the next couple of years. 
-Given the macroeconomic slowdown and reduced competition, we now expect the total 
-number of ad terminals in elevators to reach 2.95mn/3.42mn in 2019/20 (down from 
-3.71mn/4.92mn for 2019/20 previously), implying 14% and 16% growth, in line with the 
-average growth rate between 2014-17. Still, we expect the ASP (average revenue per 
-terminal) growth to continue to decline by 2%-3% during 2019-20 as demand growth 
-might still lag that of supply growth and competition will continue to weight on pricing 
-power. 
-While this supply slowdown could ease the cost pressures, we think the intense price 
-competition between Focus Media and Xinchao Media might last longer than expected, 
-with less likelihood that Xinchao is squeezed out of the market given that Baidu, the 
-largest online ad company in China, is now a strategic investor, and as Focus Media has 
-decided to slow its network expansion. With its much smaller size (Xinchao’s 2018 
-revenue will likely be only about 6%-7% of Focus Media’s), we think Xinchao Media will 
-continue to lose money for a while until it proactively stops its price war and focuses 
-more on proﬁtability and monetization. Chances of a co-existing dual oligarchic market 
-27 December 2018
-  4
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
-structure in the long run are increasing, in our view, and if that happens we expect 
-Focus Media’s proﬁtability to stabilize in the next 2-3 years. 
- 
-Estimate and valuation 
-We cut our 2018E-2021E revenue for Focus Media by 1.3%-13.7% mainly to reﬂect 
-lower advertising spend on the back of macroeconomic uncertainties. We now expect 
-21%/10%/13%/15% revenue growth in 2018E-21E. For the inner building media 
-business (the largest business, contributing 80% of total revenue), we expect revenue 
-growth to slow down to the mid-teen level in 4Q18 and then signiﬁcantly slow further to 
-10% yoy in 2019, similar to what happened during 2013-14 when China GDP growth also 
-faced strong headwinds. After 2019, we expect growth to recover moderately to 14% 
-and 15% on the back of the economy stabilizing and monetization of the new screen 
-format—the vertical screen customized for LBS (Location-based) local advertisers. 
-We think COGS will continue to grow rapidly (at 35% yoy in 2019 and 20% in 2020), 
-largely due to the rising rental per terminal due to higher competition, as well as 
-increased supply. 
-We also cut 2018E-21E EPS by 1.6%-20% to reﬂect lower revenue as well as lower 
-margins. We think COGS will continue to outgrow revenue in the next two years, due to 
-increasing rental cost per screen, lower ad upload and lower ASP. We expect overall GP 
-margin to continue to go down from 65% in 2018E to 58% in 2019 until it stabilizes at 
-55% in 2020. We expect EBIT margin to decline from 42% in 2018E to 34% in 2020E, 
-and stabilize at 34% in 2021E due to alleviated competition and slower screen roll out. 
-We expect NI to decline by 8% yoy in 2019E to Rmb5.58bn due to lower ASP and higher 
-cost per screen. 
- 
-Exhibit 3: Key assumptions about inner building media business 
-Inner building media
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-2021E
-Revenue
-6,156
-       
-6,945
-      
-7,847
-     
-9,384
-      
-11,648
-    
-12,812
-    
-14,606
-       
-16,860
-    
-yoy
-10%
-13%
-13%
-20%
-24%
-10%
-14%
-15%
-Media in Tier1 Cities
-4,205
-     
-5,173
-      
-5,723
-      
-6,268
-      
-7,024
-         
-8,000
-      
-Media in Tier2 Cities
-3,212
-     
-3,519
-      
-3,914
-      
-4,274
-      
-4,785
-         
-5,466
-      
-Media in Tier3-4 Cities
-429
-         
-692
-         
-2,011
-      
-2,270
-      
-2,797
-         
-3,395
-      
-Total number of ad terminals (10k)
-109
-          
-127
-         
-138
-         
-152
-         
-260
-         
-295
-         
-342
-            
-388
-         
-yoy
-23%
-16%
-9%
-10%
-71%
-14%
-16%
-14%
-Number of elevators covered (10k)
-46
-            
-53
-           
-58
-           
-64
-           
-111
-         
-126
-         
-146
-            
-166
-         
-Total elevators in China (10k)
-360
-          
-426
-         
-494
-         
-560
-         
-630
-         
-700
-         
-765
-            
-825
-         
-penetration rate
-13%
-12%
-12%
-11%
-18%
-18%
-19%
-20%
-Average revenue per terminal
-5,627
-       
-5,456
-      
-5,674
-     
-6,194
-      
-4,488
-      
-4,347
-      
-4,276
-         
-4,342
-      
-yoy
--10%
--3%
-4%
-9%
--28%
--3%
--2%
-2%
- 
- 
+Competition remains a concern but screen roll out might slow down
+With Xinchao Media, the aggressive competitor shaking Focus Media's dominant
+position in the industry, securing another round of financing of Rmb2.1bn (led by Baidu),
+competition remains a pressure for Focus Media. Although the CEO of Xinchao recently
+said that the company would slow the pace of its network expansion after reaching
+coverage of 700k elevators because of the macroeconomic uncertainties, competition
+alarm is still not disarmed from Focus Media's perspective. According to the CEO of
+Xinchao (as per media report dated December 10 from wallstreetcn.com), the company
+will realize revenue of Rmb1bn in 2018 (which is far less than its April 2018 announced
+target of Rmb1.5bn), but is still running at a loss and would like to monetize the
+operation of the current network. We see this as a signal of alleviation of the elevator
+resources war. Meanwhile, Focus Media also sent out similar signals. During the
+investor meeting at the November GS China Conference, Focus Media management
+indicated that terminal expansion in 2019 might slow down and trend at the low end of
+its latest 500k-1mn increase target if competition pressure eases up, and the company
+might focus more on the monetization of new screens. We think the trimming of the
+screen roll-out plan for 2019 is due to several factors: 1) the macro headwinds bring less
+visibility of ad expenditure for 2019, 2) the slow down of competitors' network
+expansion, and 3) Focus Media will have developed 1.1-1.2mn new screens as of end
+2018, much more than the previous target of 1mn set in April, and the company has
+secured most incremental prime locations in 2018. There is no need to further expand
+aggressively in 2019, in our view.
+On the other hand, as of end 2018 the combined penetration rate of Focus Media
+(1.1mn coverage of elevators, according to our estimate) and Xinchao Media (700k
+elevators, according to the company) would be close to 30% of total elevators in China.
+Including the other smaller players in lower tier cities, the penetration of elevators with
+advertising media would be even higher than 50%. Therefore, we think the network
+expansion of Focus Media and Xinchao Media would be more determined by the growth
+rate of elevators in China, which we estimate at 10%-12% in the next couple of years.
+Given the macroeconomic slowdown and reduced competition, we now expect the total
+number of ad terminals in elevators to reach 2.95mn/3.42mn in 2019/20 (down from
+3.71mn/4.92mn for 2019/20 previously), implying 14% and 16% growth, in line with the
+average growth rate between 2014-17. Still, we expect the ASP (average revenue per
+terminal) growth to continue to decline by 2%-3% during 2019-20 as demand growth
+might still lag that of supply growth and competition will continue to weight on pricing
+power.
+While this supply slowdown could ease the cost pressures, we think the intense price
+competition between Focus Media and Xinchao Media might last longer than expected,
+with less likelihood that Xinchao is squeezed out of the market given that Baidu, the
+largest online ad company in China, is now a strategic investor, and as Focus Media has
+revenue will likely be only about 6%-7% of Focus Media's), we think Xinchao Media will
+continue to lose money for a while until it proactively stops its price war and focuses
+more on profitability and monetization. Chances of a co-existing dual oligarchic market
+structure in the long run are increasing, in our view, and if that happens we expect
+Focus Media's profitability to stabilize in the next 2-3 years.
 Source: Company data, Gao Hua Securities Research
-27 December 2018
-  5
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
- 
-Due to high base in 2H17 and 1H18, we think NI growth will turn negative in 4Q18 
-(-41% yoy) and 1H19 (-22% yoy) before stabilizing in 2H19.  We expect 4Q18 and 1Q19 
-will be the trough of the NI growth rate. 
- 
-Exhibit 4: Key drivers and ﬁnancial highlights of Focus Media 
-Rmb mn
-2014
-2015
-2016
-2017
-2018E
-2019E
-2020E
-2021E
-Total revenue
-7,497
-       
-8,627
-      
-10,213
-   
-12,014
-    
-14,575
-    
-16,069
-    
-18,219
-       
-20,922
-    
-Inner building media
-6,156
-       
-6,945
-      
-7,847
-     
-9,384
-      
-11,648
-    
-12,812
-    
-14,606
-       
-16,860
-    
-Cinema media
-956
-          
-1,353
-      
-2,044
-     
-2,333
-      
-2,571
-      
-2,793
-      
-3,011
-         
-3,279
-      
-Other media & business
-385
-          
-329
-         
-322
-        
-297
-         
-356
-         
-463
-         
-602
-            
-783
-         
-yoy growth
-12%
-15%
-18%
-18%
-21%
-10%
-13%
-15%
-Inner building media
-10%
-13%
-13%
-20%
-24%
-10%
-14%
-15%
-Cinema media
-65%
-42%
-51%
-14%
-10%
-9%
-8%
-9%
-Other media
--23%
--15%
--2%
-10%
-20%
-30%
-30%
-30%
-COGS
-2,234
-       
-2,540
-      
-3,019
-     
-3,277
-      
-5,039
-      
-6,778
-      
-8,117
-         
-9,348
-      
-Inner building media
-1,621
-       
-1,808
-      
-2,001
-     
-2,186
-      
-3,647
-      
-5,188
-      
-6,305
-         
-7,358
-      
-LCD display
-635
-          
-697
-         
-822
-        
-1,099
-      
-2,011
-      
-2,862
-      
-3,496
-         
-4,106
-      
-Poster frame
-985
-          
-1,111
-      
-1,180
-     
-1,087
-      
-1,637
-      
-2,326
-      
-2,809
-         
-3,252
-      
-Cinema media
-394
-          
-512
-         
-806
-        
-989
-         
-1,157
-      
-1,285
-      
-1,415
-         
-1,476
-      
-Other media
-220
-          
-220
-         
-212
-        
-195
-         
-234
-         
-305
-         
-396
-            
-515
-         
-Gross profit
-5,263
-       
-6,088
-      
-7,194
-     
-8,737
-      
-9,537
-      
-9,291
-      
-10,103
-       
-11,574
-    
-Gross margin
-70%
-71%
-70%
-73%
-65%
-58%
-55%
-55%
-Inner building media
-73.7%
-74.0%
-74.5%
-76.7%
-69%
-60%
-57%
-56%
-Cinema media
-59%
-62%
-61%
-58%
-55%
-54%
-53%
-55%
-Other media
-43%
-33%
-34%
-34%
-34%
-34%
-34%
-34%
-Business tax and add-ons
-270
-          
-310
-         
-359
-        
-398
-         
-437
-         
-482
-         
-547
-            
-628
-         
-As % of sales
-4%
-4%
-4%
-3%
-3%
-3%
-3%
-3%
-Sales expense
-1,902
-       
-1,729
-      
-1,944
-     
-1,998
-      
-2,239
-      
-2,372
-      
-2,580
-         
-2,837
-      
-As % of sales
-25%
-20%
-19%
-17%
-15%
-15%
-14%
-14%
-Administrative expense
-539
-          
-407
-         
-469
-        
-526
-         
-584
-         
-609
-         
-650
-            
-701
-         
-As % of sales
-7%
-5%
-5%
-4%
-4%
-4%
-4%
-3%
-EBIT  (operating profit)
-2,398
-       
-3,369
-      
-4,160
-     
-5,634
-      
-6,076
-      
-5,628
-      
-6,126
-         
-7,208
-      
-yoy
-19%
-40%
-23%
-35%
-8%
--7%
-9%
-18%
-EBIT margin
-32%
-39%
-41%
-47%
-42%
-35%
-34%
-34%
-Interest income
-185
-          
-125
-         
-148
-        
-154
-         
-134
-         
-160
-         
-254
-            
-341
-         
-Investment gains
--
-              
-(1)
-            
-0
-            
-749
-         
-230
-         
-80
-           
-96
-              
-115
-         
-Non-operating revenue
-384
-          
-477
-         
-1,040
-     
-737
-         
-750
-         
-800
-         
-1,000
-         
-1,300
-      
-Profit before tax
-2,948
-       
-3,968
-      
-5,316
-     
-7,232
-      
-7,146
-      
-6,622
-      
-7,428
-         
-8,915
-      
-Income tax
-531
-          
-582
-         
-868
-        
-1,258
-      
-1,141
-      
-1,079
-      
-1,210
-         
-1,452
-      
-Minority interest
-2
-             
-(3)
-            
-(3)
-           
-(31)
-          
-(33)
-          
-(35)
-          
-(36)
-             
-(38)
-          
-Net income to shareholders
-2,415
-       
-3,389
-      
-4,451
-     
-6,005
-      
-6,038
-      
-5,577
-      
-6,255
-         
-7,501
-      
-yoy
-16%
-40%
-31%
-35%
-1%
--8%
-12%
-20%
-EPS (Rmb)
-0.82
-        
-0.51
-       
-0.49
-        
-0.41
-        
-0.38
-        
-0.43
-           
-0.51
-        
- 
- 
+Estimate and valuation
+We cut our 2018E-2021E revenue for Focus Media by 1.3%-13.7% mainly to reflect
+lower advertising spend on the back of macroeconomic uncertainties. We now expect
+21%/10%/13%/15% revenue growth in 2018E-21E. For the inner building media
+business (the largest business, contributing 80% of total revenue), we expect revenue
+growth to slow down to the mid-teen level in 4Q18 and then significantly slow further to
+10% yoy in 2019, similar to what happened during 2013-14 when China GDP growth also
+faced strong headwinds. After 2019, we expect growth to recover moderately to 14%
+and 15% on the back of the economy stabilizing and monetization of the new screen
+format—the vertical screen customized for LBS (Location-based) local advertisers.
+We think COGS will continue to grow rapidly (at 35% yoy in 2019 and 20% in 2020),
+largely due to the rising rental per terminal due to higher competition, as well as
+increased supply.
+We also cut 2018E-21E EPS by 1.6%-20% to reflect lower revenue as well as lower
+margins. We think COGS will continue to outgrow revenue in the next two years, due to
+increasing rental cost per screen, lower ad upload and lower ASP. We expect overall GP
+margin to continue to go down from 65% in 2018E to 58% in 2019 until it stabilizes at
+55% in 2020. We expect EBIT margin to decline from 42% in 2018E to 34% in 2020E,
+and stabilize at 34% in 2021E due to alleviated competition and slower screen roll out.
+We expect NI to decline by 8% yoy in 2019E to Rmb5.58bn due to lower ASP and higher
+cost per screen.
 Source: Company data, Gao Hua Securities Research
-27 December 2018
-  6
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
- 
-Following the cut to our estimates, we lower our 12-m TP  to Rmb7.89 (was Rmb11.67). 
-Our TP methodology is still based on P/E, but we roll back the target year from 2021 to 
-2020, to better reﬂect near-term growth momentum, and we now apply a multiple of 
-20x (was 23x) as we benchmark to global peers’ current 12m forward P/E levels. We 
-continue to discount back to 2019 using 8% COE. We maintain a Buy rating on 
-unchanged long-term competitive advantages and a dominant position, as well attractive 
-valuation. 
-Key risks 
-Economic slowdown could impact overall ad expenditure: Focus Media’s ad revenue is 
-highly correlated with advertising market growth, which is largely driven by economic 
-growth. If economic growth further slows, advertisers tend to cut their ad budgets, thus 
-hurting Focus Media’s revenue growth. 
-Competition gets tougher: If Xinchao Media adopts a more aggressive expansion 
-strategy and launch another round of price war on advertisement and elevator rental, 
-Focus Media might have to ﬁght back ﬁercely by reaccelerating network expansion or 
-via a price war, which would further weigh on margins. 
-Sell-off of unlocked shares: On 31 December 2018, 53% of the company’s shares will 
-be unlocked, including 23% from the founder of Focus Media and 30% from a group of 
-domestic PE funds that had bought Focus Media’s shares before the company’s 
-backdoor listing. If these potential unlocked shares were sold off, it might pose material 
-pressure on the share price. 
- 
-Exhibit 5: Quarterly forecast of Focus Media 
-Unit: Rmb, million 
-QoQ analysis
-1Q17
-2Q17
-3Q17
-4Q17
-1Q18
-2Q18
-3Q18
-4Q18E
-1Q19E
-2Q19E
-3Q19E
-4Q19E
-Revenue
-2,420
-          
-3,220
-          
-3,089
-          
-3,284
-          
-2,960
-          
-4,150
-          
-3,767
-          
-3,698
-          
-3,255.54
-     
-4,482.42
-     
-4,143
-          
-4,188
-          
-YoY
-15%
-14%
-22%
-19%
-22%
-29%
-22%
-13%
-10%
-8%
-10%
-13%
-QoQ
-(12%)
-33%
-(4%)
-6%
-(10%)
-40%
-(9%)
-(2%)
-(12%)
-38%
-(8%)
-1%
-COGS
-784
-             
-862
-             
-773
-             
-857
-             
-919
-             
-1,085
-          
-1,342
-          
-1,693
-          
-1,530
-          
-1,793
-          
-1,699
-          
-1,756
-          
-Gross profit
-1,636
-          
-2,358
-          
-2,316
-          
-2,427
-          
-2,040
-          
-3,066
-          
-2,425
-          
-2,006
-          
-1,725
-          
-2,689
-          
-2,445
-          
-2,431
-          
-YoY
-19%
-15%
-31%
-21%
-25%
-30%
-5%
-(17%)
-(15%)
-(12%)
-1%
-21%
-Gross margin
-68%
-73%
-75%
-74%
-69%
-74%
-64%
-54%
-53%
-60%
-59%
-58%
-Sales tax and other
-80
-               
-102
-             
-103
-             
-112
-             
-101
-             
-117
-             
-94
-               
-125
-             
-98
-               
-134
-             
-124
-             
-126
-             
-% of revenue
-3%
-3%
-3%
-3%
-3.4%
-2.8%
-2.5%
-3.4%
-3.0%
-3.0%
-3.0%
-3.0%
-Sales expense
-435
-             
-581
-             
-508
-             
-475
-             
-518
-             
-678
-             
-501
-             
-542
-             
-521
-             
-650
-             
-636
-             
-565
-             
-% of revenue
-18%
-18%
-16%
-14%
-18%
-16%
-13%
-15%
-16%
-15%
-15%
-13%
-Administrative expense
-119
-             
-125
-             
-148
-             
-135
-             
-138
-             
-155
-             
-149
-             
-142
-             
-130
-             
-166
-             
-153
-             
-159
-             
-% of revenue
-5%
-4%
-5%
-4%
-5%
-4%
-4%
-4%
-4%
-4%
-4%
-4%
-SG&A ratio
-26.2%
-25.1%
-24.6%
-22.0%
-25.6%
-22.9%
-19.7%
-21.9%
-23%
-21%
-22%
-20%
-Other operating expenses
-47
-               
-58
-               
-39
-               
-38
-               
-27
-               
-36
-               
-58
-               
-80
-               
-60
-               
-50
-               
-50
-               
-40
-               
-EBIT
-956
-             
-1,493
-          
-1,519
-          
-1,667
-          
-1,256
-          
-2,080
-          
-1,624
-          
-1,116
-          
-917
-             
-1,689
-          
-1,481
-          
-1,542
-          
-YoY
-33%
-37%
-60%
-18%
-31%
-39%
-7%
-(33%)
-(27%)
-(19%)
-(9%)
-38%
-EBIT Margin
-39%
-46%
-49%
-51%
-42%
-50%
-43%
-30%
-28%
-38%
-36%
-37%
-Finance expense
-(49)
-               
-(64)
-               
-(36)
-               
-20
-               
-(28)
-               
-(28)
-               
-(25)
-               
-(28)
-               
-(60)
-               
-(60)
-               
-(60)
-               
-46
-               
-Investment gains
--
-                  
-5
-                 
-(1)
-                 
-745
-             
-1
-                 
-149
-             
-20
-               
-60
-               
-20
-               
-20
-               
-20
-               
-20
-               
-Non-operating revenue
-416
-             
-112
-             
-122
-             
-90
-               
-170
-             
-353
-             
-86
-               
-141
-             
-100
-             
-250
-             
-150
-             
-300
-             
-Non-operating expense
-7
-                 
-10
-               
-2
-                 
-(2)
-                 
-6
-                 
-2
-                 
-2
-                 
-8
-                 
-5
-                 
-5
-                 
-5
-                 
-6
-                 
-Earnings before tax
-1,414
-          
-1,664
-          
-1,674
-          
-2,480
-          
-1,450
-          
-2,608
-          
-1,752
-          
-1,336
-          
-1,092
-          
-2,014
-          
-1,706
-          
-1,811
-          
-Tax
-313
-             
-242
-             
-296
-             
-407
-             
-250
-             
-474
-             
-297
-             
-120
-             
-178
-             
-328
-             
-278
-             
-295
-             
-Net income
-1,101
-          
-1,422
-          
-1,377
-          
-2,073
-          
-1,200
-          
-2,134
-          
-1,455
-          
-1,216
-          
-914
-             
-1,686
-          
-1,428
-          
-1,515
-          
-% of revenue
-45.5%
-44.2%
-44.6%
-63.1%
-40.5%
-51.4%
-38.6%
-32.9%
-28.1%
-37.6%
-34%
-36%
-Minority interest
-(6)
-                 
-(4)
-                 
-(7)
-                 
-(15)
-               
-(8)
-                 
-(5)
-                 
-(8)
-                 
-(12)
-               
-(6)
-                
-(10)
-              
-(9)
-                
-(9)
-                 
-Net income attributable to majority shareholders
-1,107
-          
-1,426
-          
-1,384
-          
-2,088
-          
-1,207
-          
-2,139
-          
-1,463
-          
-1,228
-          
-919
-             
-1,696
-          
-1,437
-          
-1,525
-          
-YoY
-70%
-14%
-11%
-60%
-9%
-50%
-6%
-(41%)
-(24%)
-(21%)
-(2%)
-24%
-QoQ
-(15%)
-29%
-(3%)
-51%
-(42%)
-77%
-(32%)
-(16%)
-(25%)
-85%
-(15%)
-6%
-Net margin
-46%
-44%
-45%
-64%
-41%
-52%
-39%
-33%
-28%
-38%
-35%
-36%
-Basic EPS
-0.09
-            
-0.12
-            
-0.11
-            
-0.17
-            
-0.08
-            
-0.15
-            
-0.10
-            
-0.08
-            
-0.06
-            
-0.12
-            
-0.10
-            
-0.10
-            
- 
- 
+will be the trough of the NI growth rate.
+Exhibit 5: Quarterly forecast of Focus Media
+Unit: Rmb, million
 Source: Company data, Gao Hua Securities Research
-27 December 2018
-  7
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
- 
-Exhibit 6: Forward P/E of four global peers 
- 
-Exhibit 7: Average forward P/E of global peers 
-5.00
-10.00
-15.00
-20.00
-25.00
-30.00
-35.00
-40.00
-JCDXF US
-OUT US
-LAMR US
-APO AU
-5.00
-15.00
-25.00
-35.00
-45.00
-55.00
-65.00
-9-Jul-2015
-9-Jul-2016
-9-Jul-2017
-9-Jul-2018
-Global average PE
-Avg Forward PE = 25 
- 
- 
+Following the cut to our estimates, we lower our 12-m TP to Rmb7.89 (was Rmb11.67).
+Our TP methodology is still based on P/E, but we roll back the target year from 2021 to
+2020, to better reflect near-term growth momentum, and we now apply a multiple of
+20x (was 23x) as we benchmark to global peers' current 12m forward P/E levels. We
+continue to discount back to 2019 using 8% COE. We maintain a Buy rating on
+unchanged long-term competitive advantages and a dominant position, as well attractive
+valuation.
+Key risks
+Economic slowdown could impact overall ad expenditure: Focus Media's ad revenue is
+highly correlated with advertising market growth, which is largely driven by economic
+growth. If economic growth further slows, advertisers tend to cut their ad budgets, thus
+hurting Focus Media's revenue growth.
+Competition gets tougher: If Xinchao Media adopts a more aggressive expansion
+strategy and launch another round of price war on advertisement and elevator rental,
+Focus Media might have to fight back fiercely by reaccelerating network expansion or
+via a price war, which would further weigh on margins.
+Sell-off of unlocked shares: On 31 December 2018, 53% of the company's shares will
+be unlocked, including 23% from the founder of Focus Media and 30% from a group of
+domestic PE funds that had bought Focus Media's shares before the company's
+backdoor listing. If these potential unlocked shares were sold off, it might pose material
+pressure on the share price.
+Exhibit 6: Forward P/E of four global peers
 Source: Bloomberg, Gao Hua Securities Research
- 
- 
 Source: Bloomberg, Gao Hua Securities Research
-27 December 2018
-  8
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
-Disclosure Appendix 
- 
- 
-Reg AC 
-I, Xufa Liao, CFA, hereby certify that all of the views expressed in this report accurately reﬂect my personal views about the subject company or 
-companies and its or their securities. I also certify that no part of my compensation was, is or will be, directly or indirectly, related to the speciﬁc 
-recommendations or views expressed in this report. 
-GS Factor Proﬁle 
-The Goldman Sachs Factor Proﬁle provides investment context for a stock by comparing key attributes to the market (i.e. our coverage universe) and its 
-sector peers. The four key attributes depicted are: Growth, Financial Returns, Multiple (e.g. valuation) and Integrated (a composite of Growth, Financial 
-Returns and Multiple). Growth, Financial Returns and Multiple are calculated by using normalized ranks for speciﬁc metrics for each stock. The 
-normalized ranks for the metrics are then averaged and converted into percentiles for the relevant attribute. The precise calculation of each metric may 
-vary depending on the ﬁscal year, industry and region, but the standard approach is as follows: 
-Growth is based on a stock’s forward-looking sales growth, EBITDA growth and EPS growth (for ﬁnancial stocks, only EPS and sales growth), with a 
-higher percentile indicating a higher growth company. Financial Returns is based on a stock’s forward-looking ROE, ROCE and CROCI (for ﬁnancial 
-stocks, only ROE), with a higher percentile indicating a company with higher ﬁnancial returns. Multiple is based on a stock’s forward-looking P/E, P/B, 
-price/dividend (P/D), EV/EBITDA, EV/FCF and EV/Debt Adjusted Cash Flow (DACF) (for ﬁnancial stocks, only P/E, P/B and P/D), with a higher percentile 
-indicating a stock trading at a higher multiple. The Integrated percentile is calculated as the average of the Growth percentile, Financial Returns 
-percentile and (100% - Multiple percentile). 
-Financial Returns and Multiple use the Goldman Sachs analyst forecasts at the ﬁscal year-end at least three quarters in the future. Growth uses inputs 
-for the ﬁscal year at least seven quarters in the future compared with the year at least three quarters in the future (on a per-share basis for all metrics). 
-For a more detailed description of how we calculate the GS Factor Proﬁle, please contact your GS representative.  
-M&A Rank 
-Across our global coverage, we examine stocks using an M&A framework, considering both qualitative factors and quantitative factors (which may vary 
-across sectors and regions) to incorporate the potential that certain companies could be acquired. We then assign a M&A rank as a means of scoring 
-companies under our rated coverage from 1 to 3, with 1 representing high (30%-50%) probability of the company becoming an acquisition target, 2 
-representing medium (15%-30%) probability and 3 representing low (0%-15%) probability. For companies ranked 1 or 2, in line with our standard 
-departmental guidelines we incorporate an M&A component into our target price. M&A rank of 3 is considered immaterial and therefore does not 
-factor into our price target, and may or may not be discussed in research. 
-Quantum 
-Quantum is Goldman Sachs’ proprietary database providing access to detailed ﬁnancial statement histories, forecasts and ratios. It can be used for 
-in-depth analysis of a single company, or to make comparisons between companies in different sectors and markets.  
-GS SUSTAIN 
-GS SUSTAIN is a global investment strategy focused on the generation of long-term alpha through identifying high quality industry leaders. The GS 
-SUSTAIN 50 list includes leaders we believe to be well positioned to deliver long-term outperformance through superior returns on capital, sustainable 
-competitive advantage and effective management of ESG risks vs. global industry peers. Candidates are selected largely on a combination of 
-quantiﬁable analysis of these three aspects of corporate performance. 
-Disclosures 
-Coverage group(s) of stocks by primary analyst(s) 
-Xufa Liao, CFA: A-share Food & Beverage, A-share Media. 
-A-share Food & Beverage: Anhui Gujing Distillery Co., Jiangsu King’s Luck Brewery, Jiangsu Yanghe, Kweichow Moutai, Luzhou Laojiao, Qinghai Huzhu 
-Barley Wine Co., Shanxi Xinghuacun Fen Wine, Sichuan Swellfun Co., Tsingtao Brewery (A), Wuliangye Yibin.  
-A-share Media: Alpha Group, Beijing Enlight Media Co., Beijing Gehua CATV, Beijing Hualubaina Film & TV Co., BlueFocus Communication, China South 
-Publishing & Media, Focus Media Information Tech, Guangdong Advertising, Huayi Brothers Media, IMAX China Holding, Jiangsu Phoenix, Oriental 
-Pearl, Ourpalm Co., Wanda Film, Zhejiang Huace Film & TV.  
-Company-speciﬁc regulatory disclosures 
-The following disclosures relate to relationships between The Goldman Sachs Group, Inc. (with its afﬁliates, “Goldman Sachs”) and companies covered 
-by the Global Investment Research Division of Goldman Sachs and referred to in this research. 
-Goldman Sachs has received compensation for investment banking services in the past 12 months: Focus Media Information Tech (Rmb5.61) 
-Goldman Sachs had an investment banking services client relationship during the past 12 months with: Focus Media Information Tech (Rmb5.61) 
-Goldman Sachs had a non-securities services client relationship during the past 12 months with: Focus Media Information Tech (Rmb5.61) 
-Distribution of ratings/investment banking relationships 
-Goldman Sachs Investment Research global Equity coverage universe 
- 
-As of October 1, 2018, Goldman Sachs Global Investment Research had investment ratings on 2,814 equity securities. Goldman Sachs assigns stocks 
-as Buys and Sells on various regional Investment Lists; stocks not so assigned are deemed Neutral. Such assignments equate to Buy, Hold and Sell for 
-Rating Distribution
-Investment Banking Relationships
-Buy
-Hold
-Sell
-Buy
-Hold
-Sell
-Global
-35%
-54%
-11%
-64%
-57%
-55%
-27 December 2018
-  9
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
-the purposes of the above disclosure required by the FINRA Rules. See ‘Ratings, Coverage groups and views and related deﬁnitions’ below. The 
-Investment Banking Relationships chart reﬂects the percentage of subject companies within each rating category for whom Goldman Sachs has 
-provided investment banking services within the previous twelve months.     
-Price target and rating history chart(s) 
- 
-Regulatory disclosures 
-Disclosures required by United States laws and regulations 
-See company-speciﬁc regulatory disclosures above for any of the following disclosures required as to companies referred to in this report: manager or 
-co-manager in a pending transaction; 1% or other ownership; compensation for certain services; types of client relationships; managed/co-managed 
-public offerings in prior periods; directorships; for equity securities, market making and/or specialist role. Goldman Sachs trades or may trade as a 
-principal in debt securities (or in related derivatives) of issuers discussed in this report.  
-The following are additional required disclosures: Ownership and material conﬂicts of interest: Goldman Sachs policy prohibits its analysts, 
-professionals reporting to analysts and members of their households from owning securities of any company in the analyst’s area of coverage.  
-Analyst compensation:  Analysts are paid in part based on the proﬁtability of Goldman Sachs, which includes investment banking revenues.  Analyst 
-as ofﬁcer or director: Goldman Sachs policy generally prohibits its analysts, persons reporting to analysts or members of their households from 
-serving as an ofﬁcer, director or advisor of any company in the analyst’s area of coverage.  Non-U.S. Analysts:  Non-U.S. analysts may not be 
-associated persons of Goldman Sachs & Co. LLC and therefore may not be subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on 
-communications with subject company, public appearances and trading securities held by the analysts.  
-Distribution of ratings: See the distribution of ratings disclosure above.  Price chart: See the price chart, with changes of ratings and price targets in 
-prior periods, above, or, if electronic format or if with respect to multiple companies which are the subject of this report, on the Goldman Sachs 
-website at http://www.gs.com/research/hedge.html.   
-Additional disclosures required under the laws and regulations of jurisdictions other than the United States 
-The following disclosures are those required by the jurisdiction indicated, except to the extent already made above pursuant to United States laws and 
-regulations. Australia: Goldman Sachs Australia Pty Ltd and its afﬁliates are not authorised deposit-taking institutions (as that term is deﬁned in the 
-Banking Act 1959 (Cth)) in Australia and do not provide banking services, nor carry on a banking business, in Australia. This research, and any access to 
-it, is intended only for “wholesale clients” within the meaning of the Australian Corporations Act, unless otherwise agreed by Goldman Sachs. In 
-producing research reports, members of the Global Investment Research Division of Goldman Sachs Australia may attend site visits and other 
-meetings hosted by the companies and other entities which are the subject of its research reports. In some instances the costs of such site visits or 
-meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate and reasonable in the speciﬁc 
-circumstances relating to the site visit or meeting. To the extent that the contents of this document contains any ﬁnancial product advice, it is general 
-advice only and has been prepared by Goldman Sachs without taking into account a client’s objectives, ﬁnancial situation or needs. A client should, 
-before acting on any such advice, consider the appropriateness of the advice having regard to the client’s own objectives, ﬁnancial situation and needs.  
-Brazil: Disclosure information in relation to CVM Instruction 598 is available at http://www.gs.com/worldwide/brazil/area/gir/index.html. Where 
-applicable, the Brazil-registered analyst primarily responsible for the content of this research report, as deﬁned in Article 20 of CVM Instruction 598, is 
-the ﬁrst author named at the beginning of this report, unless indicated otherwise at the end of the text.  Canada: Goldman Sachs Canada Inc. is an 
-afﬁliate of The Goldman Sachs Group Inc. and therefore is included in the company speciﬁc disclosures relating to Goldman Sachs (as deﬁned above). 
-Goldman Sachs Canada Inc. has approved of, and agreed to take responsibility for, this research report in Canada if and to the extent that Goldman 
-Sachs Canada Inc. disseminates this research report to its clients.  Hong Kong: Further information on the securities of covered companies referred to 
-in this research may be obtained on request from Goldman Sachs (Asia) L.L.C.  India: Further information on the subject company or companies 
-referred to in this research may be obtained from Goldman Sachs (India) Securities Private Limited, Research Analyst - SEBI Registration Number 
-INH000001493, 951-A, Rational House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400 025, India, Corporate Identity Number 
-U74140MH2006FTC160634, Phone +91 22 6616 9000, Fax +91 22 6616 9001. Goldman Sachs may beneﬁcially own 1% or more of the securities (as 
-such term is deﬁned in clause 2 (h) the Indian Securities Contracts (Regulation) Act, 1956) of the subject company or companies referred to in this 
-research report.  Japan: See below.  Korea: This research, and any access to it, is intended only for “professional investors” within the meaning of the 
-Financial Services and Capital Markets Act, unless otherwise agreed by Goldman Sachs. Further information on the subject company or companies 
-referred to in this research may be obtained from Goldman Sachs (Asia) L.L.C., Seoul Branch.  New Zealand: Goldman Sachs New Zealand Limited and 
-its afﬁliates are neither “registered banks” nor “deposit takers” (as deﬁned in the Reserve Bank of New Zealand Act 1989) in New Zealand. This 
-research, and any access to it, is intended for “wholesale clients” (as deﬁned in the Financial Advisers Act 2008) unless otherwise agreed by Goldman 
-Sachs.  Russia: Research reports distributed in the Russian Federation are not advertising as deﬁned in the Russian legislation, but are information and 
-analysis not having product promotion as their main purpose and do not provide appraisal within the meaning of the Russian legislation on appraisal 
-activity.  Singapore: Further information on the covered companies referred to in this research may be obtained from Goldman Sachs (Singapore) Pte. 
-(Company Number: 198602165W).  Taiwan: This material is for reference only and must not be reprinted without permission. Investors should 
-27 December 2018
-  10
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
-carefully consider their own investment risk. Investment results are the responsibility of the individual investor.  United Kingdom: Persons who would 
-be categorized as retail clients in the United Kingdom, as such term is deﬁned in the rules of the Financial Conduct Authority, should read this research 
-in conjunction with prior Goldman Sachs research on the covered companies referred to herein and should refer to the risk warnings that have been 
-sent to them by Goldman Sachs International. A copy of these risks warnings, and a glossary of certain ﬁnancial terms used in this report, are available 
-from Goldman Sachs International on request.   
-European Union: Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) (2016/958) supplementing 
-Regulation (EU) No 596/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the technical 
-arrangements for objective presentation of investment recommendations or other information recommending or suggesting an investment strategy 
-and for disclosure of particular interests or indications of conﬂicts of interest is available at http://www.gs.com/disclosures/europeanpolicy.html which 
-states the European Policy for Managing Conﬂicts of Interest in Connection with Investment Research.   
-Japan: Goldman Sachs Japan Co., Ltd. is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho 
-69, and a member of Japan Securities Dealers Association, Financial Futures Association of Japan and Type II Financial Instruments Firms Association. 
-Sales and purchase of equities are subject to commission pre-determined with clients plus consumption tax. See company-speciﬁc disclosures as to 
-any applicable disclosures required by Japanese stock exchanges, the Japanese Securities Dealers Association or the Japanese Securities Finance 
-Company.   
-Ratings, coverage groups and views and related deﬁnitions 
-Buy (B), Neutral (N), Sell (S) -Analysts recommend stocks as Buys or Sells for inclusion on various regional Investment Lists. Being assigned a Buy or 
-Sell on an Investment List is determined by a stock’s total return potential relative to its coverage. Any stock not assigned as a Buy or a Sell on an 
-Investment List with an active rating (i.e., a  stock that is not Rating Suspended, Not Rated, Coverage Suspended or Not Covered), is deemed Neutral. 
-Each regional Investment Review Committee manages various regional Investment Lists to a global guideline of 25%-35% of stocks as Buy and 
-10%-15% of stocks as Sell; however, the distribution of Buys and Sells in any particular analyst’s coverage group may vary as determined by the 
-regional Investment Review Committee. Additionally, each Investment Review Committee manages Regional Conviction lists, which represent 
-investment recommendations focused on the size of the total return potential and/or the likelihood of the realization of the return across their 
-respective areas of coverage.  The addition or removal of stocks from such Conviction lists do not represent a change in the analysts’ investment rating 
-for such stocks.    
-Total return potential represents the upside or downside differential between the current share price and the price target, including all paid or 
-anticipated dividends, expected during the time horizon associated with the price target. Price targets are required for all covered stocks. The total 
-return potential, price target and associated time horizon are stated in each report adding or reiterating an Investment List membership.  
-Coverage groups and views: A list of all stocks in each coverage group is available by primary analyst, stock and coverage group at 
-http://www.gs.com/research/hedge.html. The analyst assigns one of the following coverage views which represents the analyst’s investment outlook 
-on the coverage group relative to the group’s historical fundamentals and/or valuation.  Attractive (A). The investment outlook over the following 12 
-months is favorable relative to the coverage group’s historical fundamentals and/or valuation.  Neutral (N). The investment outlook over the following 
-12 months is neutral relative to the coverage group’s historical fundamentals and/or valuation.  Cautious (C). The investment outlook over the following 
-12 months is unfavorable relative to the coverage group’s historical fundamentals and/or valuation.   
-Not Rated (NR). The investment rating and target price have been removed pursuant to Goldman Sachs policy when Goldman Sachs is acting in an 
-advisory capacity in a merger or strategic transaction involving this company and in certain other circumstances.  Rating Suspended (RS). Goldman 
-Sachs Research has suspended the investment rating and price target for this stock, because there is not a sufﬁcient fundamental basis for 
-determining, or there are legal, regulatory or policy constraints around publishing, an investment rating or target. The previous investment rating and 
-price target, if any, are no longer in effect for this stock and should not be relied upon.  Coverage Suspended (CS). Goldman Sachs has suspended 
-coverage of this company.  Not Covered (NC). Goldman Sachs does not cover this company.  Not Available or Not Applicable (NA). The information 
-is not available for display or is not applicable.  Not Meaningful (NM). The information is not meaningful and is therefore excluded.   
-Global product; distributing entities 
-The Global Investment Research Division of Goldman Sachs produces and distributes research products for clients of Goldman Sachs on a global basis. 
-Analysts based in Goldman Sachs ofﬁces around the world produce equity research on industries and companies, and research on macroeconomics, 
-currencies, commodities and portfolio strategy. This research is disseminated in Australia by Goldman Sachs Australia Pty Ltd (ABN 21 006 797 897); in 
-Brazil by Goldman Sachs do Brasil Corretora de Títulos e Valores Mobiliários S.A.; Ombudsman Goldman Sachs Brazil: 0800 727 5764 and / or 
-ouvidoriagoldmansachs@gs.com. Available Weekdays (except holidays), from 9am to 6pm. Ouvidoria Goldman Sachs Brasil: 0800 727 5764 e/ou 
-ouvidoriagoldmansachs@gs.com. Horário de funcionamento: segunda-feira à sexta-feira (exceto feriados), das 9h às 18h; in Canada by either Goldman 
-Sachs Canada Inc. or Goldman Sachs & Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in India by Goldman Sachs (India) Securities Private 
-Ltd.; in Japan by Goldman Sachs Japan Co., Ltd.; in the Republic of Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in New Zealand by Goldman 
-Sachs New Zealand Limited; in Russia by OOO Goldman Sachs; in Singapore by Goldman Sachs (Singapore) Pte. (Company Number: 198602165W); 
-and in the United States of America by Goldman Sachs & Co. LLC. Goldman Sachs International has approved this research in connection with its 
-distribution in the United Kingdom and European Union.  
-European Union: Goldman Sachs International authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and 
-the Prudential Regulation Authority, has approved this research in connection with its distribution in the European Union and United Kingdom; Goldman 
-Sachs AG and Goldman Sachs International Zweigniederlassung Frankfurt, regulated by the Bundesanstalt für Finanzdienstleistungsaufsicht, may also 
-distribute research in Germany.  
-General disclosures 
-This research is for our clients only. Other than disclosures relating to Goldman Sachs, this research is based on current public information that we 
-consider reliable, but we do not represent it is accurate or complete, and it should not be relied on as such. The information, opinions, estimates and 
-forecasts contained herein are as of the date hereof and are subject to change without prior notiﬁcation. We seek to update our research as 
-appropriate, but various regulations may prevent us from doing so. Other than certain industry reports published on a periodic basis, the large majority 
-of reports are published at irregular intervals as appropriate in the analyst’s judgment. 
-Goldman Sachs conducts a global full-service, integrated investment banking, investment management, and brokerage business. We have investment 
-banking and other business relationships with a substantial percentage of the companies covered by our Global Investment Research Division. 
-Goldman Sachs & Co. LLC, the United States broker dealer, is a member of SIPC (http://www.sipc.org).  
-Our salespeople, traders, and other professionals may provide oral or written market commentary or trading strategies to our clients and principal 
-trading desks that reﬂect opinions that are contrary to the opinions expressed in this research. Our asset management area, principal trading desks and 
-investing businesses may make investment decisions that are inconsistent with the recommendations or views expressed in this research. 
-27 December 2018
-  11
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
-The analysts named in this report may have from time to time discussed with our clients, including Goldman Sachs salespersons and traders, or may 
-discuss in this report, trading strategies that reference catalysts or events that may have a near-term impact on the market price of the equity securities 
-discussed in this report, which impact may be directionally counter to the analyst’s published price target expectations for such stocks. Any such 
-trading strategies are distinct from and do not affect the analyst’s fundamental equity rating for such stocks, which rating reﬂects a stock’s return 
-potential relative to its coverage group as described herein. 
-We and our afﬁliates, ofﬁcers, directors, and employees, excluding equity and credit analysts, will from time to time have long or short positions in, act 
-as principal in, and buy or sell, the securities or derivatives, if any, referred to in this research.  
-The views attributed to third party presenters at Goldman Sachs arranged conferences, including individuals from other parts of Goldman Sachs, do not 
-necessarily reﬂect those of Global Investment Research and are not an ofﬁcial view of Goldman Sachs. 
-Any third party referenced herein, including any salespeople, traders and other professionals or members of their household, may have positions in the 
-products mentioned that are inconsistent with the views expressed by analysts named in this report. 
-This research is not an offer to sell or the solicitation of an offer to buy any security in any jurisdiction where such an offer or solicitation would be 
-illegal. It does not constitute a personal recommendation or take into account the particular investment objectives, ﬁnancial situations, or needs of 
-individual clients. Clients should consider whether any advice or recommendation in this research is suitable for their particular circumstances and, if 
-appropriate, seek professional advice, including tax advice. The price and value of investments referred to in this research and the income from them 
-may ﬂuctuate. Past performance is not a guide to future performance, future returns are not guaranteed, and a loss of original capital may occur. 
-Fluctuations in exchange rates could have adverse effects on the value or price of, or income derived from, certain investments.  
-Certain transactions, including those involving futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors. 
-Investors should review current options disclosure documents which are available from Goldman Sachs sales representatives or at 
-http://www.theocc.com/about/publications/character-risks.jsp. Transaction costs may be signiﬁcant in option strategies calling for multiple purchase and 
-sales of options such as spreads. Supporting documentation will be supplied upon request.  
-Differing Levels of Service provided by Global Investment Research: The level and types of services provided to you by the Global Investment 
-Research division of GS may vary as compared to that provided to internal and other external clients of GS, depending on various factors including your 
-individual preferences as to the frequency and manner of receiving communication, your risk proﬁle and investment focus and perspective (e.g., 
-marketwide, sector speciﬁc, long term, short term), the size and scope of your overall client relationship with GS, and legal and regulatory constraints.  
-As an example, certain clients may request to receive notiﬁcations when research on speciﬁc securities is published, and certain clients may request 
-that speciﬁc data underlying analysts’ fundamental analysis available on our internal client websites be delivered to them electronically through data 
-feeds or otherwise. No change to an analyst’s fundamental research views (e.g., ratings, price targets, or material changes to earnings estimates for 
-equity securities), will be communicated to any client prior to inclusion of such information in a research report broadly disseminated through electronic 
-publication to our internal client websites or through other means, as necessary, to all clients who are entitled to receive such reports. 
-All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites. Not all 
-research content is redistributed to our clients or available to third-party aggregators, nor is Goldman Sachs responsible for the redistribution of our 
-research by third party aggregators. For research, models or other data related to one or more securities, markets or asset classes (including related 
-services) that may be available to you, please contact your GS representative or go to http://research.gs.com. 
-Disclosure information is also available at http://www.gs.com/research/hedge.html or from Research Compliance, 200 West Street, New York, NY 
-10282. 
-© 2018 Goldman Sachs.  
-No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without the prior written 
-consent of The Goldman Sachs Group, Inc.  
-27 December 2018
-  12
-Goldman Sachs
-Focus Media Information Tech (002027.SZ)
+Disclosure Appendix
+Reg AC
+I, Xufa Liao, CFA, hereby certify that all of the views expressed in this report accurately reflect my personal views about the subject company or
+companies and its or their securities. I also certify that no part of my compensation was, is or will be, directly or indirectly, related to the specific
+recommendations or views expressed in this report.
+GS Factor Profile
+The Goldman Sachs Factor Profile provides investment context for a stock by comparing key attributes to the market (i.e. our coverage universe) and its
+sector peers. The four key attributes depicted are: Growth, Financial Returns, Multiple (e.g. valuation) and Integrated (a composite of Growth, Financial
+Returns and Multiple). Growth, Financial Returns and Multiple are calculated by using normalized ranks for specific metrics for each stock. The
+normalized ranks for the metrics are then averaged and converted into percentiles for the relevant attribute. The precise calculation of each metric may
+vary depending on the fiscal year, industry and region, but the standard approach is as follows:
+Growth is based on a stock's forward-looking sales growth, EBITDA growth and EPS growth (for financial stocks, only EPS and sales growth), with a
+higher percentile indicating a higher growth company. Financial Returns is based on a stock's forward-looking ROE, ROCE and CROCI (for financial
+stocks, only ROE), with a higher percentile indicating a company with higher financial returns. Multiple is based on a stock's forward-looking P/E, P/B,
+price/dividend (P/D), EV/EBITDA, EV/FCF and EV/Debt Adjusted Cash Flow (DACF) (for financial stocks, only P/E, P/B and P/D), with a higher percentile
+indicating a stock trading at a higher multiple. The Integrated percentile is calculated as the average of the Growth percentile, Financial Returns
+percentile and (100% - Multiple percentile).
+Financial Returns and Multiple use the Goldman Sachs analyst forecasts at the fiscal year-end at least three guarters in the future. Growth uses inputs
+for the fiscal year at least seven quarters in the future compared with the year at least three quarters in the future (on a per-share basis for all metrics).
+For a more detailed description of how we calculate the GS Factor Profile, please contact your GS representative.
+M&A Rank
+Across our global coverage, we examine stocks using an M&A framework, considering both qualitative factors and quantitative factors (which may vary
+across sectors and regions) to incorporate the potential that certain companies could be acquired. We then assign a M&A rank as a means of scoring
+representing medium (15%-30%) probability and 3 representing low (0%-15%) probability. For companies ranked 1 or 2, in line with our standard
+departmental guidelines we incorporate an M&A component into our target price. M&A rank of 3 is considered immaterial and therefore does not
+factor into our price target, and may or may not be discussed in research.
+Quantum
+Quantum is Goldman Sachs' proprietary database providing access to detailed financial statement histories, forecasts and ratios. It can be used for
+in-depth analysis of a single company, or to make comparisons between companies in different sectors and markets.
+GS SUSTAIN
+GS SUSTAIN is a global investment strategy focused on the generation of long-term alpha through identifying high quality industry leaders. The GS
+SUSTAIN 50 list includes leaders we believe to be well positioned to deliver long-term outperformance through superior returns on capital, sustainable
+competitive advantage and effective management of ESG risks vs. global industry peers. Candidates are selected largely on a combination of
+quantifiable analysis of these three aspects of corporate performance.
+Disclosures
+Coverage group(s) of stocks by primary analyst(s)
+Xufa Liao, CFA: A-share Food & Beverage, A-share Media.
+A-share Food & Beverage: Anhui Gujing Distillery Co., Jiangsu King's Luck Brewery, Jiangsu Yanghe, Kweichow Moutai, Luzhou Laojiao, Qinghai Huzhu
+Barley Wine Co., Shanxi Xinghuacun Fen Wine, Sichuan Swellfun Co., Tsingtao Brewery (A), Wuliangye Yibin.
+A-share Media: Alpha Group, Beijing Enlight Media Co., Beijing Gehua CATV, Beijing Hualubaina Film & TV Co., BlueFocus Communication, China South
+Publishing & Media, Focus Media Information Tech, Guangdong Advertising, Huayi Brothers Media, IMAX China Holding, Jiangsu Phoenix, Oriental
+Pearl, Ourpalm Co., Wanda Film, Zhejiang Huace Film & TV.
+Company-specific regulatory disclosures
+The following disclosures relate to relationships between The Goldman Sachs Group, Inc. (with its affiliates, “Goldman Sachs”) and companies covered
+by the Global Investment Research Division of Goldman Sachs and referred to in this research.
+Goldman Sachs has received compensation for investment banking services in the past 12 months: Focus Media Information Tech (Rmb5.61)
+Goldman Sachs had an investment banking services client relationship during the past 12 months with: Focus Media Information Tech (Rmb5.61)
+Goldman Sachs had a non-securities services client relationship during the past 12 months with: Focus Media Information Tech (Rmb5.61)
+Distribution of ratings/investment banking relationships
+Goldman Sachs Investment Research global Equity coverage universe
+As of October 1, 2018, Goldman Sachs Global Investment Research had investment ratings on 2,814 equity securities. Goldman Sachs assigns stocks
+as Buys and Sells on various regional Investment Lists; stocks not so assigned are deemed Neutral. Such assignments equate to Buy, Hold and Sell for
+the purposes of the above disclosure required by the FINRA Rules. See 'Ratings, Coverage groups and views and related definitions' below. The
+Investment Banking Relationships chart reflects the percentage of subject companies within each rating category for whom Goldman Sachs has
+provided investment banking services within the previous twelve months.
+Price target and rating history chart(s)
+The price targets shown should be considered in the context of all prior published Goldman Sachs research, which may or
+may not have included price targets, as well as developments relating to the company, its industry and financial markets.
+Regulatory disclosures
+Disclosures required by United States laws and regulations
+See company-specific regulatory disclosures above for any of the following disclosures required as to companies referred to in this report: manager or
+co-manager in a pending transaction; 1% or other ownership; compensation for certain services; types of client relationships; managed/co-managed
+public offerings in prior periods; directorships; for equity securities, market making and/or specialist role. Goldman Sachs trades or may trade as a
+principal in debt securities (or in related derivatives) of issuers discussed in this report.
+The following are additional required disclosures: Ownership and material conflicts of interest: Goldman Sachs policy prohibits its analysts,
+professionals reporting to analysts and members of their households from owning securities of any company in the analyst's area of coverage.
+Analyst compensation: Analysts are paid in part based on the profitability of Goldman Sachs, which includes investment banking revenues. Analyst
+as officer or director: Goldman Sachs policy generally prohibits its analysts, persons reporting to analysts or members of their households from
+serving as an officer, director or advisor of any company in the analyst's area of coverage. Non-U.S. Analysts: Non-U.S. analysts may not be
+associated persons of Goldman Sachs & Co. LLC and therefore may not be subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on
+communications with subject company, public appearances and trading securities held by the analysts.
+Distribution of ratings: See the distribution of ratings disclosure above. Price chart: See the price chart, with changes of ratings and price targets in
+prior periods, above, or, if electronic format or if with respect to multiple companies which are the subject of this report, on the Goldman Sachs
+Additional disclosures required under the laws and requlations of jurisdictions other than the United States
+The following disclosures are those required by the jurisdiction indicated, except to the extent already made above pursuant to United States laws and
+regulations. Australia: Goldman Sachs Australia Pty Ltd and its affiliates are not authorised deposit-taking institutions (as that term is defined in the
+Banking Act 1959 (Cth)) in Australia and do not provide banking services, nor carry on a banking business, in Australia. This research, and any access to
+it, is intended only for "wholesale clients" within the meaning of the Australian Corporations Act, unless otherwise agreed by Goldman Sachs. In
+producing research reports, members of the Global Investment Research Division of Goldman Sachs Australia may attend site visits and other
+meetings hosted by the companies and other entities which are the subject of its research reports. In some instances the costs of such site visits or
+meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate and reasonable in the specific
+circumstances relating to the site visit or meeting. To the extent that the contents of this document contains any financial product advice, it is general
+advice only and has been prepared by Goldman Sachs without taking into account a client's objectives, financial situation or needs. A client should,
+before acting on any such advice, consider the appropriateness of the advice having regard to the client's own objectives, financial situation and needs.
+applicable, the Brazil-registered analyst primarily responsible for the content of this research report, as defined in Article 20 of CVM Instruction 598, is
+the first author named at the beginning of this report, unless indicated otherwise at the end of the text. Canada: Goldman Sachs Canada Inc. is an
+affiliate of The Goldman Sachs Group Inc. and therefore is included in the company specific disclosures relating to Goldman Sachs (as defined above).
+Goldman Sachs Canada Inc. has approved of, and agreed to take responsibility for, this research report in Canada if and to the extent that Goldman
+Sachs Canada Inc. disseminates this research report to its clients. Hong Kong: Further information on the securities of covered companies referred to
+in this research may be obtained on request from Goldman Sachs (Asia) L.L.C. India: Further information on the subject company or companies
+referred to in this research may be obtained from Goldman Sachs (India) Securities Private Limited, Research Analyst - SEBI Registration Number
+INH000001493, 951-A, Rational House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400 025, India, Corporate Identity Number
+U74140MH2006FTC160634, Phone +91 22 6616 9000, Fax +91 22 6616 9001. Goldman Sachs may beneficially own 1% or more of the securities (as
+such term is defined in clause 2 (h) the Indian Securities Contracts (Regulation) Act, 1956) of the subject company or companies referred to in this
+research report. Japan: See below. Korea: This research, and any access to it, is intended only for "professional investors" within the meaning of the
+Financial Services and Capital Markets Act, unless otherwise agreed by Goldman Sachs. Further information on the subject company or companies
+referred to in this research may be obtained from Goldman Sachs (Asia) L.L.C., Seoul Branch. New Zealand: Goldman Sachs New Zealand Limited and
+its affiliates are neither "registered banks" nor "deposit takers" (as defined in the Reserve Bank of New Zealand Act 1989) in New Zealand. This
+research, and any access to it, is intended for "wholesale clients" (as defined in the Financial Advisers Act 2008) unless otherwise agreed by Goldman
+Sachs. Russia: Research reports distributed in the Russian Federation are not advertising as defined in the Russian legislation, but are information and
+analysis not having product promotion as their main purpose and do not provide appraisal within the meaning of the Russian legislation on appraisal
+activity. Singapore: Further information on the covered companies referred to in this research may be obtained from Goldman Sachs (Singapore) Pte.
+(Company Number: 198602165W). Taiwan: This material is for reference only and must not be reprinted without permission. Investors should
+carefully consider their own investment risk. Investment results are the responsibility of the individual investor. United Kingdom: Persons who would
+be categorized as retail clients in the United Kingdom, as such term is defined in the rules of the Financial Conduct Authority, should read this research
+in conjunction with prior Goldman Sachs research on the covered companies referred to herein and should refer to the risk warnings that have been
+sent to them by Goldman Sachs International. A copy of these risks warnings, and a glossary of certain financial terms used in this report, are available
+from Goldman Sachs International on request.
+European Union: Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) (2016/958) supplementing
+Regulation (EU) No 596/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the technical
+arrangements for objective presentation of investment recommendations or other information recommending or suggesting an investment strategy
+states the European Policy for Managing Conflicts of Interest in Connection with Investment Research.
+Japan: Goldman Sachs Japan Co., Ltd. is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho
+69, and a member of Japan Securities Dealers Association, Financial Futures Association of Japan and Type II Financial Instruments Firms Association.
+Sales and purchase of equities are subject to commission pre-determined with clients plus consumption tax. See company-specific disclosures as to
+any applicable disclosures required by Japanese stock exchanges, the Japanese Securities Dealers Association or the Japanese Securities Finance
+Company.
+Ratings, coverage groups and views and related definitions
+Buy (B), Neutral (N), Sell (S) - Analysts recommend stocks as Buys or Sells for inclusion on various regional Investment Lists. Being assigned a Buy or
+Sell on an Investment List is determined by a stock's total return potential relative to its coverage. Any stock not assigned as a Buy or a Sell on an
+Investment List with an active rating (i.e., a stock that is not Rating Suspended, Not Rated, Coverage Suspended or Not Covered), is deemed Neutral.
+Each regional Investment Review Committee manages various regional Investment Lists to a global guideline of 25%-35% of stocks as Buy and
+10%-15% of stocks as Sell; however, the distribution of Buys and Sells in any particular analyst's coverage group may vary as determined by the
+regional Investment Review Committee. Additionally, each Investment Review Committee manages Regional Conviction lists, which represent
+investment recommendations focused on the size of the total return potential and/or the likelihood of the realization of the return across their
+respective areas of coverage. The addition or removal of stocks from such Conviction lists do not represent a change in the analysts' investment rating
+for such stocks.
+Total return potential represents the upside or downside differential between the current share price and the price target, including all paid or
+anticipated dividends, expected during the time horizon associated with the price target. Price targets are required for all covered stocks. The total
+return potential, price target and associated time horizon are stated in each report adding or reiterating an Investment List membership.
+Coverage groups and views: A list of all stocks in each coverage group is available by primary analyst, stock and coverage group at
+months is favorable relative to the coverage group's historical fundamentals and/or valuation. Neutral (N). The investment outlook over the following
+12 months is neutral relative to the coverage group's historical fundamentals and/or valuation. Cautious (C). The investment outlook over the following
+12 months is unfavorable relative to the coverage group's historical fundamentals and/or valuation.
+Not Rated (NR). The investment rating and target price have been removed pursuant to Goldman Sachs policy when Goldman Sachs is acting in an
+advisory capacity in a merger or strategic transaction involving this company and in certain other circumstances. Rating Suspended (RS). Goldman
+Sachs Research has suspended the investment rating and price target for this stock, because there is not a sufficient fundamental basis for
+determining, or there are legal, regulatory or policy constraints around publishing, an investment rating or target. The previous investment rating and
+price target, if any, are no longer in effect for this stock and should not be relied upon. Coverage Suspended (CS). Goldman Sachs has suspended
+coverage of this company. Not Covered (NC). Goldman Sachs does not cover this company. Not Available or Not Applicable (NA). The information
+is not available for display or is not applicable. Not Meaningful (NM). The information is not meaningful and is therefore excluded.
+Global product; distributing entities
+The Global Investment Research Division of Goldman Sachs produces and distributes research products for clients of Goldman Sachs on a global basis.
+Analysts based in Goldman Sachs offices around the world produce equity research on industries and companies, and research on macroeconomics,
+currencies, commodities and portfolio strategy. This research is disseminated in Australia by Goldman Sachs Australia Pty Ltd (ABN 21 006 797 897); in
+Brazil by Goldman Sachs do Brasil Corretora de Títulos e Valores Mobiliários S.A.; Ombudsman Goldman Sachs Brazil: 0800 727 5764 and / or
+Sachs Canada Inc. or Goldman Sachs & Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in India by Goldman Sachs (India) Securities Private
+Ltd.; in Japan by Goldman Sachs Japan Co., Ltd.; in the Republic of Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in New Zealand by Goldman
+Sachs New Zealand Limited; in Russia by OOO Goldman Sachs; in Singapore by Goldman Sachs (Singapore) Pte. (Company Number: 198602165W);
+and in the United States of America by Goldman Sachs & Co. LLC. Goldman Sachs International has approved this research in connection with its
+distribution in the United Kingdom and European Union.
+European Union: Goldman Sachs International authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and
+the Prudential Regulation Authority, has approved this research in connection with its distribution in the European Union and United Kingdom; Goldman
+Sachs AG and Goldman Sachs International Zweigniederlassung Frankfurt, regulated by the Bundesanstalt für Finanzdienstleistungsaufsicht, may also
+distribute research in Germany.
+General disclosures
+This research is for our clients only. Other than disclosures relating to Goldman Sachs, this research is based on current public information that we
+consider reliable, but we do not represent it is accurate or complete, and it should not be relied on as such. The information, opinions, estimates and
+forecasts contained herein are as of the date hereof and are subject to change without prior notification. We seek to update our research as
+appropriate, but various regulations may prevent us from doing so. Other than certain industry reports published on a periodic basis, the large majority
+of reports are published at irregular intervals as appropriate in the analyst's judgment.
+Goldman Sachs conducts a global full-service, integrated investment banking, investment management, and brokerage business. We have investment
+banking and other business relationships with a substantial percentage of the companies covered by our Global Investment Research Division.
+Our salespeople, traders, and other professionals may provide oral or written market commentary or trading strategies to our clients and principal
+trading desks that reflect opinions that are contrary to the opinions expressed in this research. Our asset management area, principal trading desks and
+investing businesses may make investment decisions that are inconsistent with the recommendations or views expressed in this research.
+The analysts named in this report may have from time to time discussed with our clients, including Goldman Sachs salespersons and traders, or may
+discuss in this report, trading strategies that reference catalysts or events that may have a near-term impact on the market price of the equity securities
+discussed in this report, which impact may be directionally counter to the analyst's published price target expectations for such stocks. Any such
+trading strategies are distinct from and do not affect the analyst's fundamental equity rating for such stocks, which rating reflects a stock's return
+potential relative to its coverage group as described herein.
+We and our affiliates, officers, directors, and employees, excluding equity and credit analysts, will from time to time have long or short positions in, act
+as principal in, and buy or sell, the securities or derivatives, if any, referred to in this research.
+The views attributed to third party presenters at Goldman Sachs arranged conferences, including individuals from other parts of Goldman Sachs, do not
+necessarily reflect those of Global Investment Research and are not an official view of Goldman Sachs.
+Any third party referenced herein, including any salespeople, traders and other professionals or members of their household, may have positions in the
+products mentioned that are inconsistent with the views expressed by analysts named in this report.
+This research is not an offer to sell or the solicitation of an offer to buy any security in any jurisdiction where such an offer or solicitation would be
+illegal. It does not constitute a personal recommendation or take into account the particular investment objectives, financial situations, or needs of
+individual clients. Clients should consider whether any advice or recommendation in this research is suitable for their particular circumstances and, if
+appropriate, seek professional advice, including tax advice. The price and value of investments referred to in this research and the income from them
+may fluctuate. Past performance is not a guide to future performance, future returns are not guaranteed, and a loss of original capital may occur.
+Fluctuations in exchange rates could have adverse effects on the value or price of, or income derived from, certain investments.
+Certain transactions, including those involving futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors.
+Investors should review current options disclosure documents which are available from Goldman Sachs sales representatives or at
+sales of options such as spreads. Supporting documentation will be supplied upon request.
+Differing Levels of Service provided by Global Investment Research: The level and types of services provided to you by the Global Investment
+Research division of GS may vary as compared to that provided to internal and other external clients of GS, depending on various factors including your
+individual preferences as to the frequency and manner of receiving communication, your risk profile and investment focus and perspective (e.g.,
+marketwide, sector specific, long term, short term), the size and scope of your overall client relationship with GS, and legal and regulatory constraints.
+As an example, certain clients may request to receive notifications when research on specific securities is published, and certain clients may request
+that specific data underlying analysts' fundamental analysis available on our internal client websites be delivered to them electronically through data
+feeds or otherwise. No change to an analyst’s fundamental research views (e.g., ratings, price targets, or material changes to earnings estimates for
+equity securities), will be communicated to any client prior to inclusion of such information in a research report broadly disseminated through electronic
+publication to our internal client websites or through other means, as necessary, to all clients who are entitled to receive such reports.
+All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites. Not all
+research content is redistributed to our clients or available to third-party aggregators, nor is Goldman Sachs responsible for the redistribution of our
+research by third party aggregators. For research, models or other data related to one or more securities, markets or asset classes (including related
+© 2018 Goldman Sachs.
+No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without the prior written
+consent of The Goldman Sachs Group, Inc.

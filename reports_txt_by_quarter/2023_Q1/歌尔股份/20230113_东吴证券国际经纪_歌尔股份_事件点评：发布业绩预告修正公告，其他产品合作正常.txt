@@ -1,829 +1,180 @@
-Goertek (002241.SZ) 
-       Equity Research·Company Research·Consumer Electronics 
- 
-1 / 5 
- 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
-Goertek 
-announced 
-the 
-revision 
-of 
-performance 
-forecast, 
-indicating 
-other 
-cooperative products is in normal operation 
-Buy (Maintain) 
-Forecast & Valuation 
-2021A 
-2022E 
-2023E 
-2024E 
-Revenue (RMB mn)  
-78,221 
-93,964 
-103,950 
-119,196 
-Growth (YoY %) 
-35% 
-20% 
-11% 
-15% 
-Non-GAAP net profit (RMB mn) 
-4,275 
-1,911 
-3,302 
-4,503 
-Growth (YoY %) 
-50% 
--55% 
-73% 
-36% 
-Diluted EPS (RMB, Non-GAAP) 
-1.25 
-0.56 
-0.97 
-1.32 
-P/E (X, Non-GAAP) 
-14.31 
-32.02 
-18.53 
-13.59 
- 
- 
- 
- 
- 
-Key words：#The second curve #Lower-than-expected earnings results  
-#Integration 
-Event: Goertek disclosed the " Risk warning announcements" on November 
-9, 2022, and released the "Announcement on the revision of performance 
-forecast for 2022" on December 3, 2022. 
-◼ The reason for the change in Goertek's performance is that one of the 
-intelligent acoustic complete machine products of a major overseas 
-customer suspended production. Affected by this, the company's operating 
-income decreased by no more than RMB3.3 bn this year, and the related direct 
-loss was approximately RMB0.9 bn (including the decrease in direct profit and 
-the loss of shutdown, etc.). The company intends to increase the provision for 
-impairment of assets and confirm the impairment loss of assets based on the 
-principle of prudence. The impairment loss is expected to be RMB1.1-1.5 bn 
-(including inventory falling price loss of approximately RMB0.7-0.9 bn and 
-fixed assets impairment loss of approximately RMB0.4-0.6 bn). 
-◼ Goertek promoted the follow-up solution of relevant matters, and other 
-cooperative products is in normal operation. After the above matters, the 
-company's management team actively responded, maintained close 
-communication with customers. At the same time, the company actively 
-performs the relevant information disclosure obligations.  
-◼ We continue to be firmly optimistic about the company's long-term trends. 
-1) In 2023, Chinese, Japanese and American customers will release new VR 
-products, which is expected to drive the growth of shipments in 2023. Based on 
-different factors in the long-run, VR/AR hardware shipments are expected to 
-continue to grow in the next few years; 2) Game console shipments and 
-company share Sustained growth and major domestic customers adding smart 
-wearables will bring incremental contributions to future revenue and profits. 
-◼ Earnings Forecast & Rating: Based on the calculation of direct losses and 
-asset impairment losses, we lowered the profit forecast for 2022. The adjusted 
-net profit for 2022-2024 is RMB1.9/3.3/4.5 bn respectively. The VR/AR 
-industry is entering a period of rapid growth, and the company is expected to 
-fully benefit from the growth with its profound technology and customer 
-advantages. We maintain the “buy” rating. 
-◼ Risks: Lower-than-expected VR/AR industry development; Sales of other 
-products miss expectations. 
- 
- 
-Price Movement 
- 
- 
-Market Data 
-Closing price (RMB) 
-17.89 
-52-week Range (RMB) 
-16.76/58.43 
-P/B (X) 
-1.94 
-Market Cap (RMB mn) 
-53,815.90 
- 
-Basic Data 
- 
-BVPS(RMB, LF)  
-9.24 
-Liabilities/assets (%)  
-59.61 
-Total Issued Shares 
-(mn)  
-3,420.40 
-Shares outstanding (mn) 
-3,008.16 
- 
-Related reports 
- 
-《歌尔股份(002241)：2022Q3 季报点
-评：下半年承压，长期趋势不变》 
-2022-10-28
-《歌尔股份(002241)：综合核心竞争
-力带来持续成长信心》 
-2022-09-19
- 
-Soochow 
-Securities 
-International 
-Brokerage Limited would like to 
-acknowledge the contribution and 
-support 
-provided 
-by 
-Soochow 
-Research Institute, and in particular 
-its employees Tianyi Ma(马天翼), 
-and Jing Jin(金晶). 
- 
- 13 January 2023 
- 
-Research Analyst 
-Ruibin Chen 
-(852) 3982 3212 
-chenrobin@dwzq.com.hk 
-  
--39%
--32%
--25%
--18%
--11%
--4%
-3%
-10%
-17%
-24%
-2021/09/22
-2022/01/19
-2022/05/18
-2022/09/14
+Goertek (002241.SZ)
+revision
 Goertek
-CSI300
-歌尔股份（002241.SZ） 
-         证券研究报告·公司点评报告·电子 
- 
-2 / 5 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-事件点评：发布业绩预告修正公告，其他产
-品合作正常 
-买入（维持） 
-盈利预测与估值 
-2021A 
-2022E 
-2023E 
-2024E 
-营业总收入（百万元） 
-78,221 
-93,964 
-103,950 
-119,196 
-同比 
-35% 
-20% 
-11% 
-15% 
-归属母公司净利润（百万元） 
-4,275 
-1,911 
-3,302 
-4,503 
-同比 
-50% 
--55% 
-73% 
-36% 
-每股收益-最新股本摊薄（元/股） 
-1.25 
-0.56 
-0.97 
-1.32 
-P/E（现价&最新股本摊薄） 
-14.31 
-32.02 
-18.53 
-13.59 
- 
- 
- 
-  
-关键词：#第二曲线 #业绩不及预期 #一体化 
-事件：公司22 年11 月9 日披露《风险提示性公告》，并于22 年12 月3
-日发布《2022 年度业绩预告修正公告》。 
-◼ 境外大客户特定项目暂停影响2022 年业绩：境外某大客户通知公司暂
-停生产其一款智能声学整机产品，基于当前该产品预计无法于2022 年
-内恢复生产的影响，本年度营收减少不超过33 亿元，直接损失约9 亿
-元（直接利润减少、停工造成的产线及员工工资等成本损耗），并基于
-谨慎性原则充分考虑影响拟增加计提资产减值损失11-15 亿元（其中存
-货跌价损失约7-9 亿元，固定资产减值损失约4-6 亿元），综上直接损失
-和资产减值损失约20-24 亿元，对2022 年度经营业绩产生显著影响。 
-◼ 积极推动后续解决，大客户其他产品合作正常：公司在积极履行相关信
+announced
+the
+forecast,
+performance
+indicating
+other
+Research Analyst
+cooperative products is in normal operation
+Ruibin Chen
+Buy (Maintain)
+Price Movement
+Key words: #The second curve #Lower-than-expected earnings results
+#Integration
+Event: Goertek disclosed the "Risk warning announcements" on November
+9, 2022, and released the "Announcement on the revision of performance
+forecast for 2022" on December 3, 2022.
+Market Data
+■ The reason for the change in Goertek's performance is that one of the
+intelligent acoustic complete machine products of a major overseas
+customer suspended production. Affected by this, the company's operating
+income decreased by no more than RMB3.3 bn this year, and the related direct
+loss was approximately RMB0.9 bn (including the decrease in direct profit and
+the loss of shutdown, etc.). The company intends to increase the provision for
+impairment of assets and confirm the impairment loss of assets based on the
+principle of prudence. The impairment loss is expected to be RMB1.1-1.5 bn
+Basic Data
+(including inventory falling price loss of approximately RMB0.7-0.9 bn and
+fixed assets impairment loss of approximately RMB0.4-0.6 bn).
+■ Goertek promoted the follow-up solution of relevant matters, and other
+cooperative products is in normal operation. After the above matters, the
+company's management team actively responded, maintained close
+communication with customers. At the same time, the company actively
+performs the relevant information disclosure obligations.
+Related reports
+■ We continue to be firmly optimistic about the company's long-term trends.
+《歌尔股份(002241): 2022Q3 季报点
+1) In 2023, Chinese, Japanese and American customers will release new VR
+products, which is expected to drive the growth of shipments in 2023. Based on
+评:下半年承压,长期趋势不变》
+different factors in the long-run, VR/AR hardware shipments are expected to
+continue to grow in the next few years; 2) Game console shipments and
+《歌尔股份(002241): 综合核心竞争
+company share Sustained growth and major domestic customers adding smart
+力带来持续成长信心》
+wearables will bring incremental contributions to future revenue and profits.
+Earnings Forecast & Rating: Based on the calculation of direct losses and
+asset impairment losses, we lowered the profit forecast for 2022. The adjusted
+Soochow Securities International
+net profit for 2022-2024 is RMB1.9/3.3/4.5 bn respectively. The VR/AR
+Brokerage Limited would like to
+industry is entering a period of rapid growth, and the company is expected to
+acknowledge the contribution and
+fully benefit from the growth with its profound technology and customer
+support provided by Soochow
+advantages. We maintain the "buy" rating.
+Research Institute, and in particular
+its employees Tianyi Ma(马天翼),
+Risks: Lower-than-expected VR/AR industry development; Sales of other
+and Jing Jin(金晶).
+products miss expectations.
+歌尔股份（002241.SZ）
+事件点评:发布业绩预告修正公告,其他产
+2023年01月13日
+品合作正常
+买入(维持)
+陈睿彬
+股价走势
+关键词: #第二曲线 #业绩不及预期 #一体化
+日发布《2022年度业绩预告修正公告》。
+■ 境外大客户特定项目暂停影响 2022 年业绩:境外某大客户通知公司暂
+停生产其一款智能声学整机产品,基于当前该产品预计无法于 2022 年
+市场数据
+内恢复生产的影响,本年度营收减少不超过33亿元,直接损失约9亿
+元(直接利润减少、停工造成的产线及员工工资等成本损耗),并基于
+谨慎性原则充分考虑影响拟增加计提资产减值损失 11-15 亿元 (其中存
+货跌价损失约 7-9 亿元, 固定资产减值损失约 4-6 亿元), 综上直接损失
+和资产减值损失约 20-24 亿元,对 2022 年度经营业绩产生显著影响。
+■ 积极推动后续解决，大客户其他产品合作正常: 公司在积极履行相关信
 息披露义务的同时，管理团队积极应对，与客户保持紧密沟通，推动相
-关事项的后续解决；该事项仅涉及某一特定智能声学整机产品，公司与
-该客户除该款产品之外的其他零组件（声学、微电子、精密件等）和整
-机业务（耳机、音箱等）合作均在正常开展中，并凭借多年深入的合作
-和技术积累形成深厚的竞争优势和壁垒。 
-◼ 我们继续坚定看好公司长期趋势：公司深耕4+4+n 零整协同战略，在
+关事项的后续解决;该事项仅涉及某一特定智能声学整机产品,公司与
+基础数据
+该客户除该款产品之外的其他零组件(声学、微电子、精密件等)和整
+机业务(耳机、音箱等)合作均在正常开展中,并凭借多年深入的合作
+和技术积累形成深厚的竞争优势和壁垒。
+■ 我们继续坚定看好公司长期趋势:公司深耕 4+4+n 零整协同战略,在
 Viewable、Wearable、Hearable、Home 等新兴智能硬件领域不断夯实自
-身核心竞争力，未来依旧可期！1）VR 逻辑有望持续兑现：未来一年内
-中日美客户密集发布VR 新品（P 与S 客户高增长确定性强、M 期待消
-费级新品迭代）有望拉动明年出货量保持增长，长期基于国内外VR 生
-态完善、应用场景拓展以及更多科技巨头入局等多方面的因素，VR/AR
-硬件出货量未来几年仍有望持续增长；2）其他产品线仍有确定性增量
-单品：游戏机出货量及公司份额持续增长、国内大客户加注智能穿戴，
-未来营收和利润都会带来增量贡献。 
-◼ 盈利预测与投资评级：公司短期业绩修正源于大客户耳机项目暂停的一
-次性影响，我们基于直接损失及资产减值损失测算调整2022 年盈利预
+相关研究
+身核心竞争力,未来依旧可期! 1) VR 逻辑有望持续兑现:未来一年内
+中日美客户密集发布 VR 新品 (P与 S客户高增长确定性强、M 期待消
+《歌尔股份(002241): 2022Q3 季报点
+费级新品迭代) 有望拉动明年出货量保持增长，长期基于国内外 VR 生
+评:下半年承压,长期趋势不变》
+态完善、应用场景拓展以及更多科技巨头入局等多方面的因素, VR/AR
+硬件出货量未来几年仍有望持续增长; 2) 其他产品线仍有确定性增量
+单品:游戏机出货量及公司份额持续增长、国内大客户加注智能穿戴,
+《歌尔股份(002241): 综合核心竞争
+未来营收和利润都会带来增量贡献。
+力带来持续成长信心》
+■ 盈利预测与投资评级: 公司短期业绩修正源于大客户耳机项目暂停的一
+次性影响,我们基于直接损失及资产减值损失测算调整 2022 年盈利预
 测，并依谨慎性原则调整未来两年耳机项目份额及整理毛利率假设，调
-整后2022-2024 年归母净利润分别为19、33 和45 亿元。基于我们对VR
+整后 2022-2024 年归母净利润分别为 19、33 和 45 亿元。基于我们对 VR
 产业长期趋势的看好以及公司在各类新型智能硬件领域充分积累的核
-心竞争力，我们继续看好公司未来成长趋势，维持“买入”评级。 
-◼ 风险提示：VR/AR 产业发展不达预期，其他产品销量不达预期。 
- 
- 
- 
- 
-股价走势 
- 
- 
- 
-市场数据 
-收盘价(元) 
-17.89 
-一年最低/最高价 
-16.76/58.43 
-市净率(倍) 
-1.94 
-流通A 股市值(百
-万元) 
-53,815.90 
-基础数据 
-           
- 
-每股净资产(元,LF) 
-9.24 
-资产负债率(%,LF) 
-59.61 
-总股本(百万股) 
-3,420.40 
-流通股(百万股) 
-3,008.16 
- 
-相关研究 
- 
-《歌尔股份(002241)：2022Q3 季报点
-评：下半年承压，长期趋势不变》 
-2022-10-28
-《歌尔股份(002241)：综合核心竞争
-力带来持续成长信心》 
-2022-09-19
- 
- 
-特此致谢东吴证券研究所对本
-报告专业研究和分析的支持，
+报告专业研究和分析的支持,
+心竞争力, 我们继续看好公司未来成长趋势, 维持“买入”评级。
 尤其感谢马天翼和金晶的指
-导。 
- 
-2023 年01 月13 日 
- 
-证券分析师 
-陈睿彬 
- (852) 3982 3212 
-chenrobin@dwzq.com.hk 
- 
- 
--67%
--59%
--51%
--43%
--35%
--27%
--19%
--11%
--3%
-5%
-2021/12/6
-2022/4/5
-2022/8/3
-2022/12/1
-歌尔股份
-沪深300
- 
- 
- 
- 
-       3 / 5 
- 
- 
- 
-公司点评                                         
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
-歌尔股份三大财务预测表 
- 
-资产负债表（百万元） 
-2021A 
-2022E 
-2023E 
-2024E  利润表（百万元） 
-2021A 
-2022E 
-2023E 
-2024E 
-流动资产 
-35,162 
-43,422 
-49,339 
-66,231  营业总收入 
-78,221 
-93,964 
-103,950 
-119,196 
-货币资金及交易性金融资产 
-10,168 
-17,217 
-21,224 
-28,043  
-营业成本(含金融类) 
-67,168 
-81,542 
-90,438 
-103,669 
-经营性应收款项 
-12,061 
-14,345 
-15,054 
-20,451  
-税金及附加 
-222 
-235 
-260 
-298 
-存货 
-12,082 
-11,018 
-12,201 
-16,745  
-销售费用 
-445 
-470 
-832 
-596 
-合同资产 
-0 
-0 
-0 
-0  
-管理费用 
-1,952 
-2,443 
-3,119 
-3,218 
-其他流动资产 
-850 
-842 
-860 
-992  
-研发费用 
-4,170 
-4,886 
-5,198 
-5,960 
-非流动资产 
-25,917 
-24,056 
-22,194 
-20,333  
-财务费用 
-167 
-195 
-151 
-111 
-长期股权投资 
-437 
-437 
-437 
-437  
-加:其他收益 
-467 
-291 
-260 
-262 
-固定资产及使用权资产 
-18,454 
-16,593 
-14,732 
-12,870  
-投资净收益 
-469 
-282 
-52 
-60 
-在建工程 
-2,127 
-2,127 
-2,127 
-2,127  
-公允价值变动 
--49 
-0 
-0 
-0 
-无形资产 
-2,763 
-2,763 
-2,763 
-2,763  
-减值损失 
--271 
--2,520 
--320 
--320 
-商誉 
-17 
-17 
-17 
-17  
-资产处置收益 
--31 
--19 
--21 
--24 
-长期待摊费用 
-207 
-207 
-207 
-207  营业利润 
-4,683 
-2,227 
-3,925 
-5,321 
-其他非流动资产 
-1,912 
-1,912 
-1,912 
-1,912  
-营业外净收支  
--77 
--5 
--85 
--85 
-资产总计 
-61,079 
-67,477 
-71,533 
-86,564  利润总额 
-4,606 
-2,222 
-3,840 
-5,236 
-流动负债 
-29,803 
-35,259 
-36,013 
-46,540  
-减:所得税 
-299 
-311 
-538 
-733 
-短期借款及一年内到期的非流动负债 
-4,786 
-5,586 
-5,586 
-5,586  净利润 
-4,307 
-1,911 
-3,302 
-4,503 
-经营性应付款项 
-21,272 
-25,773 
-26,481 
-36,435  
-减:少数股东损益 
-32 
-0 
-0 
-0 
-合同负债 
-2,211 
-2,446 
-2,713 
-3,110  归属母公司净利润 
-4,275 
-1,911 
-3,302 
-4,503 
-其他流动负债 
-1,533 
-1,454 
-1,233 
-1,409   
- 
- 
- 
- 
-非流动负债 
-3,345 
-1,545 
-1,545 
-1,545  每股收益-最新股本摊薄(元) 
-1.25 
-0.56 
-0.97 
-1.32 
-长期借款 
-2,204 
-404 
-404 
-404   
- 
- 
- 
- 
-应付债券 
-0 
-0 
-0 
-0  EBIT 
-4,461 
-4,699 
-4,384 
-5,737 
-租赁负债 
-210 
-210 
-210 
-210  EBITDA 
-7,379 
-6,560 
-6,246 
-7,598 
-其他非流动负债 
-930 
-930 
-930 
-930   
- 
- 
- 
- 
-负债合计 
-33,148 
-36,803 
-37,557 
-48,085  毛利率(%) 
-14.13 
-13.22 
-13.00 
-13.03 
-归属母公司股东权益 
-27,328 
-30,070 
-33,372 
-37,876  归母净利率(%) 
-5.46 
-2.03 
-3.18 
-3.78 
-少数股东权益 
-604 
-604 
-604 
-604   
- 
- 
- 
- 
-所有者权益合计 
-27,931 
-30,674 
-33,976 
-38,479  收入增长率(%) 
-35.47 
-20.13 
-10.63 
-14.67 
-负债和股东权益 
-61,079 
-67,477 
-71,533 
-86,564  归母净利润增长率(%) 
-50.09 
--55.29 
-72.79 
-36.38 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
-现金流量表（百万元） 
-2021A 
-2022E 
-2023E 
-2024E  重要财务与估值指标 
-2021A 
-2022E 
-2023E 
-2024E 
-经营活动现金流 
-8,598 
-8,755 
-4,382 
-7,189  每股净资产(元) 
-8.00 
-8.79 
-9.76 
-11.07 
-投资活动现金流 
--6,768 
-158 
--104 
--49  最新发行在外股份（百万股） 
-3,420 
-3,420 
-3,420 
-3,420 
-筹资活动现金流 
-387 
--1,964 
--321 
--321  ROIC(%) 
-13.07 
-11.22 
-9.79 
-11.63 
-现金净增加额 
-2,225 
-6,949 
-3,957 
-6,819  ROE-摊薄(%) 
-15.64 
-6.36 
-9.89 
-11.89 
-折旧和摊销 
-2,918 
-1,861 
-1,861 
-1,861  资产负债率(%) 
-54.27 
-54.54 
-52.50 
-55.55 
-资本开支 
--6,840 
--24 
--106 
--109  P/E（现价&最新股本摊薄） 
-14.31 
-32.02 
-18.53 
-13.59 
-营运资本变动 
-1,339 
-2,425 
--1,476 
-135  P/B（现价） 
-2.24 
-2.03 
-1.83 
-1.62 
-数据来源:Wind,东吴证券（香港），全文如无特殊注明，相关数据的货币单位均为人民币，预测均为东吴证券（香港）预测。 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       4 / 5 
- 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-免责及评级说明部分                               
- 
-分析师声明： 
-本人以勤勉、独立客观之态度出具本报告，报告所载所有观点均准确反映本人对于所
-述证券或发行人之个人观点；本人于本报告所载之具体建议或观点于过去、现在或将来，不
+歌尔股份三大财务预测表
+本人以勤勉、独立客观之态度出具本报告,报告所载所有观点均准确反映本人对于所
+述证券或发行人之个人观点; 本人于本报告所载之具体建议或观点于过去、现在或将来, 不
 论直接或间接概与本人薪酬无关。过往表现并不可视作未来表现之指标或保证，亦概不会对
-未来表现作出任何明示或暗示之声明或保证。 
- 
-利益披露事项： 
+未来表现作出任何明示或暗示之声明或保证。
+利益披露事项:
 刊发投资研究之研究分析员并不直接受投资银行或销售及交易人员监督，并不直接向
-其报告。 
-研究分析员之薪酬或酬金并不与特定之投资银行工作或研究建议挂钩。 
-研究分析员或其联系人并未从事其研究／分析／涉及范围内的任何公司之证券或衍生
-产品的买卖活动。 
-研究分析员或其联系人并未担任其研究／分析／涉及范围内的任何公司之董事职务或
-其他职务。 
-东吴证券国际经纪有限公司（下称「东吴证券国际」或「本公司」）或其集团公司并未
-持有本报告所评论的发行人的市场资本值的1%或以上的财务权益。 
-东吴证券国际或其集团公司并非本报告所分析之公司证券之市场庄家。 
-东吴证券国际或其集团公司与报告中提到的公司在最近的12 个月内没有任何投资银
-行业务关系。 
-东吴证券国际或其集团公司或编制该报告之分析师与上述公司没有任何利益关系。 
- 
-免责声明 
+其报告。
+研究分析员之薪酬或酬金并不与特定之投资银行工作或研究建议挂钩。
+研究分析员或其联系人并未从事其研究/分析/涉及范围内的任何公司之证券或衍生
+产品的买卖活动。
+研究分析员或其联系人并未担任其研究/分析/涉及范围内的任何公司之董事职务或
+其他职务。
+东吴证券国际经纪有限公司(下称「东吴证券国际」或「本公司」)或其集团公司并未
+持有本报告所评论的发行人的市场资本值的 1%或以上的财务权益。
+东吴证券国际或其集团公司并非本报告所分析之公司证券之市场庄家。
+东吴证券国际或其集团公司与报告中提到的公司在最近的 12 个月内没有任何投资银
+行业务关系。
 本报告由东吴证券国际编写，仅供东吴证券国际的客户使用，本公司不因接收人收到
 本报告而视其为客户。如任何司法管辖区的法例或条例禁止或限制东吴证券国际向收件人提
 供本报告，收件人并非本报告的目标发送对象。本研究报告的编制仅供一般刊发，并不考虑
 接收本报告之任何特定人士之特定投资对象、财政状况、投资目标及特别需求，亦非拟向有
 意投资者作出特定证券、投资产品、交易策略或其他金融工具的建议。阁下须就个别投资作
-出独立评估，于作出任何投资或订立任何交易前，阁下应征求独立法律、财务、会计、商业、
+出独立评估,于作出任何投资或订立任何交易前,阁下应征求独立法律、财务、会计、商业、
 投资和/或税务意见并在做出投资决定前使其信纳有关投资符合自己的投资目标和投资界限。
-本报告应受香港法律管辖并据其解释。 
+本报告应受香港法律管辖并据其解释。
 本报告所载资料及意见均获自或源于东吴证券国际可信之数据源，但东吴证券国际并
-不就其准确性或完整性作出任何形式的声明、陈述、担保及保证(不论明示或默示)，于法律
-及／或法规准许情况下，东吴证券国际概不会就本报告所载之资料引致之损失承担任何责
-任。本报告不应倚赖以取代独立判断。 
+不就其准确性或完整性作出任何形式的声明、陈述、担保及保证(不论明示或默示),于法律
+及/或法规准许情况下, 东吴证券国际概不会就本报告所载之资料引致之损失承担任何责
+任。本报告不应倚赖以取代独立判断。
 本报告所发表之意见及预测为于本报告日的判断，并可予更改而毋须事前通知。除另
-有说明外，本报告所引用的任何业绩数据均代表过往表现，过往表现亦不应作为日后表现的
+有说明外,本报告所引用的任何业绩数据均代表过往表现,过往表现亦不应作为日后表现的
 可靠预示。在不同时期，东吴证券国际可能基于不同假设、观点及分析方法发出与本报告所
 载意见、评估及预测不一致的研究报告。分析中所做的预测收益可能基于相应的假设，任何
-假设的改变可能会对本报告预测收益产生重大影响，东吴证券国际并不承诺或保证任何预测
-收益一定会实现。 
+假设的改变可能会对本报告预测收益产生重大影响,东吴证券国际并不承诺或保证任何预测
+收益一定会实现。
 东吴证券国际的销售人员、交易人员以及其他专业人士可能会依据不同假设和标准、
 采用不同的分析方法而口头或书面表达与本报告意见及建议不一致的市场评论和/或交易观
- 
- 
- 
- 
-       5 / 5 
- 
- 
-东吴证券（香港） 
-请务必阅读正文之后的免责声明部分 
- 
-免责及评级说明部分                               
- 
-点，本公司没有将此意见及建议向报告所有接收者进行更新的义务。东吴证券国际及其集团
-公司的各业务部门，如有投资于本报告内所涉及的任何公司之证券或衍生产品时，其所作出
-的投资决策可能与本报告所述观点并不一致。 
+点,本公司没有将此意见及建议向报告所有接收者进行更新的义务。东吴证券国际及其集团
+公司的各业务部门,如有投资于本报告内所涉及的任何公司之证券或衍生产品时,其所作出
+的投资决策可能与本报告所述观点并不一致。
 本报告及其所载内容均属机密，仅限指定收件人阅览。本报告版权归东吴证券国际所
 有，未经本公司同意，不得以任何方式复制、分发或使用本报告中的任何资料。本报告仅作
-参考用途，任何部分不得在任何司法管辖权下的地方解释为提呈或招揽购买或出售任何于报
+参考用途,任何部分不得在任何司法管辖权下的地方解释为提呈或招揽购买或出售任何于报
 告或其他刊物内提述的任何证券、投资产品、交易策略或其他金融工具。东吴证券国际毋须
-承担因使用本报告所载数据而可能直接或间接引致之任何责任，损害或损失。 
- 
-特别声明 
-东吴证券国际可能在法律准许的情况下参与及投资本报告所述证券发行人之融资交易，
-也可能为有关发行人提供投资银行业务服务或招揽业务，及／或于有关发行人之证券或期权
+承担因使用本报告所载数据而可能直接或间接引致之任何责任，损害或损失。
+特别声明
+东吴证券国际可能在法律准许的情况下参与及投资本报告所述证券发行人之融资交易,
+也可能为有关发行人提供投资银行业务服务或招揽业务,及/或于有关发行人之证券或期权
 或其他有关投资中持仓或持有权益或其他重大权益或进行交易。阁下应考虑到东吴证券国际
-及/或其相关人员可能存在影响本报告及所载观点客观性的潜在利益冲突，请勿将本报告视
-为投资或其他决策的唯一信赖依据。 
+及/或其相关人员可能存在影响本报告及所载观点客观性的潜在利益冲突,请勿将本报告视
+为投资或其他决策的唯一信赖依据。
 本报告及其所载信息并非针对或意图发送给任何就分派、刊发、可得到或使用此报告
 而导致东吴证券国际违反当地法律或规例或可致使东吴证券国际受制于相关法律或规例的
 任何地区、国家或其他司法管辖区域的公民或居民。接收者须自行确保使用本报告符合当地
-的法律及规例。 
- 
-评级标准： 
-公司投资评级： 
-买入：预期未来6 个月个股涨跌幅相对大盘在15%以上； 
-增持：预期未来6 个月个股涨跌幅相对大盘介于5%与15%之间； 
-中性：预期未来 6 个月个股涨跌幅相对大盘介于-5%与5%之间； 
-减持：预期未来 6 个月个股涨跌幅相对大盘介于-15%与-5%之间； 
-卖出：预期未来 6 个月个股涨跌幅相对大盘在-15%以下。 
- 
-行业投资评级： 
-增持： 预期未来6 个月内，行业指数相对强于大盘5%以上； 
-中性： 预期未来6 个月内，行业指数相对大盘-5%与5%； 
-减持： 预期未来6 个月内，行业指数相对弱于大盘5%以上。 
- 
-东吴证券国际经纪有限公司 
-Level 17, Three Pacific Place, 1 Queen's Road East, Hong Kong 
-香港皇后大道东1 号太古广场3 座17 楼 
-Tel 电话：(852) 3983 0888(公司) (852) 3983 0808（客户服务） 
-公司网址：http://www.dwzq.com.hk/ 
- 
- 
- 
- 
+的法律及规例。
+评级标准:
+公司投资评级:
+买入: 预期未来 6 个月个股涨跌幅相对大盘在 15%以上;
+增持: 预期未来6个月个股涨跌幅相对大盘介于5%与15%之间;
+中性: 预期未来 6个月个股涨跌幅相对大盘介于-5%与 5%之间;
+减持: 预期未来 6 个月个股涨跌幅相对大盘介于-15%与-5%之间;
+卖出: 预期未来 6 个月个股涨跌幅相对大盘在-15%以下。
+行业投资评级:
+增持: 预期未来6个月内,行业指数相对强于大盘5%以上;
+中性: 预期未来 6 个月内，行业指数相对大盘-5%与 5%;
+预期未来6个月内,行业指数相对弱于大盘5%以上。
+减持:
+东吴证券国际经纪有限公司
+Level 17, Three Pacific Place, 1 Queen's Road East, Hong Kong
+香港皇后大道东1号太古广场3座17楼

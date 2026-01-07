@@ -1,4490 +1,665 @@
- 
-2017 年5 月15 日 
- 
-首次评级 
-海康威视 (002415.SZ) 
-中性 
-证券研究报告
-人工智能业务前景明朗，但估值已合理；首次覆盖评为中性 (摘要) 
-投资观点 
-我们认为，全球最大的监控产品供应商——海康威视在人工智能产品领域较同
+首次评级
+海康威视 (002415.SZ)
+人工智能业务前景明朗，但估值已合理；首次覆盖评为中性 (摘要)
+投资观点
+我们认为,全球最大的监控产品供应商——海康威视在人工智能产品领域较同
 业拥有显著的竞争优势。海康威视可从其规模庞大的客户群当中获取大量数据
-集，这对于训练深度学习算法至关重要。此外，海康威视的规模优势和雄厚的
-国企背景有望为稳定的毛利率提供支撑。但今年以来该股股价已上涨了62%，
-当前市盈率位于19 倍的12 个月历史均值附近，而且与全球同业相符。我们首
+集,这对于训练深度学习算法至关重要。此外,海康威视的规模优势和雄厚的
+国企背景有望为稳定的毛利率提供支撑。但今年以来该股股价已上涨了62%,
+当前市盈率位于 19 倍的 12 个月历史均值附近，而且与全球同业相符。我们首
 次覆盖该股评为中性，因为我们认为其当前估值已充分体现了公司坚实的基本
-面。 
- 
-主要增长动力 
-我们预计，到2020 年海康威视的人工智能产品对总收入和总毛利的贡献将分别
-达到12%和17%（2016 年为0.3%和0.5%）。除人工智能外，我们认为公司
-凭借其解决方案业务和高质量产品的规模优势和专业实力将继续实现市场份额
-增长。鉴于2016 年下半年以来行业竞争趋于理性、管理层侧重于提升盈利能
-力，我们预计2017-2019 年毛利率将稳定在42%左右（2016 年为41.6%）。 
-风险 
-政府/公共支出波动，竞争激烈程度发生变化。 
-估值 
-我们预计2016-2019 年收入/盈利年均复合增速为29%，受到市场份额持续扩张
-和盈利水平企稳的推动。我们对2018 年预期每股盈利应用20 倍的行业平均市
-盈率，计算得出12 个月目标价格人民币41.0 元，隐含5%的上行空间。 
-行业背景 
-监控行业正在经历的整合对大企业有利。2016 年下半年行业需求复苏，价格竞
-争缓解。 
- 
-* 全文翻译随后提供 
-所属投资名单 
-中性  
-   
-  
-行业评级： 中性 
-      
-侯雪婷     执业证书编号: S1420515060001 
-+86(21)2401-8694 tina.hou@ghsl.cn 北京高华证券有限责任公司 
-北京高华证券有限责任公司及其关联机构与其研究报告所分析的企业
-存在业务关系，并且继续寻求发展这些关系。因此，投资者应当考虑
-到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告
-为作出投资决策的唯一因素。 有关分析师的申明和其他重要信息，见
-信息披露附录，或请与您的投资代表联系。   
-        
-      
-        
-      
-        
-      
- 
- 
-北京高华证券有限责任公司 
- 
-投资研究
-增长
-回报*
-估值倍数
-波动性
-海康威视(002415.SZ)
-A股电信与科技行业平均水平
-投资摘要
-低
-高
-百分位
-20th
-40th
-60th
-80th
-100th
-* 回报- 资本回报率
-投资摘要指标的全面描述请参见本
-报告的信息披露部分。
 主要数据
-当前
+主要增长动力
 股价(Rmb)
-40.16
-12个月目标价格(Rmb)
-41.00
+我们预计,到 2020 年海康威视的人工智能产品对总收入和总毛利的贡献将分别
 市值(Rmb mn / US$ mn)
-247,186.2 / 35,809.0
+达到 12%和 17%(2016年为 0.3%和 0.5%)。除人工智能外, 我们认为公司
 外资持股比例(%)
---
-12/16
-12/17E
-12/18E
-12/19E
-每股盈利(Rmb) 新
-1.22
-1.58
-2.05
-2.59
-每股盈利调整幅度(%)
---
---
---
---
-每股盈利增长(%)
-26.5
-30.2
-29.3
-26.4
-每股摊薄盈利(Rmb) 新
-1.22
-1.58
-2.05
-2.59
-市盈率(X)
-18.4
-25.4
-19.6
-15.5
-市净率(X)
-5.6
-8.5
-7.0
-5.7
-EV/EBITDA(X)
-17.9
-25.0
-18.9
-14.6
-股息收益率(%)
-2.7
-2.0
-2.5
-3.2
-净资产回报率(%)
-34.1
-36.4
-39.0
-40.3
-CROCI(%)
-33.9
-36.4
-38.7
-39.9
-股价走势图
-3,000
-3,200
-3,400
-3,600
-3,800
-4,000
-20
-25
-30
-35
-40
-45
-May-16
-Aug-16
-Nov-16
-Feb-17
-海康威视
-(左轴)
-沪深300指数
-(右轴)
-  
-股价表现(%)
-3个月
-6个月
-12个月
-绝对
-48.1
-65.0
-89.7
-相对于沪深300指数
-49.1
-66.5
-71.6
-资料来源：公司数据、高盛研究预测、FactSet（股价为5/15/2017收盘价）
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-2 
-海康威视： 财务数据概要 
-对此报告有贡献的人员 
-侯雪婷 
-tina.hou@ghsl.cn 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-损益表(Rmb mn)
-12/16
-12/17E
-12/18E
-12/19E
-资产负债表(Rmb mn)
-12/16
-12/17E
-12/18E
-12/19E
-主营业务收入
-31,924.0
-41,148.0
-53,551.7
-68,788.6
-现金及等价物
-13,635.0
-16,247.8
-19,510.2
-23,700.9
-主营业务成本
-(18,649.7)
-(23,832.0)
-(30,945.8)
-(39,918.2)
-应收账款
-14,614.8
-18,837.6
-24,516.0
-31,491.4
-销售、一般及管理费用
-(3,919.7)
-(4,960.2)
-(6,447.7)
-(8,282.4)
-存货
-3,825.2
-4,888.1
-6,347.2
-8,187.5
-研发费用
-(2,433.4)
-(3,201.4)
-(4,166.5)
-(5,352.0)
-其它流动资产
-4,448.5
-4,448.5
-4,448.5
-4,448.5
-其它营业收入/（支出）
-0.0
-0.0
-0.0
-0.0
-流动资产
-36,523.5
-44,422.0
-54,821.8
-67,828.3
-员工股票期权费用
---
---
---
---
-固定资产净额
-3,170.2
-3,955.1
-4,936.1
-6,139.7
-EBITDA
-7,161.9
-9,434.4
-12,332.2
-15,650.7
-无形资产净额
-658.6
-622.4
-586.3
-550.1
-折旧和摊销
-(240.7)
-(280.0)
-(340.5)
-(414.7)
-长期投资
-570.4
-570.4
-570.4
-570.4
-EBIT
-6,921.2
-9,154.4
-11,991.7
-15,236.0
-其它长期资产
-416.3
-416.3
-416.3
-416.3
-利息收入
-226.1
-275.6
-328.4
-394.4
-资产合计
-41,339.0
-49,986.2
-61,330.9
-75,504.8
-财务费用
-0.0
-(21.6)
-(21.6)
-(21.6)
-联营公司
-0.0
-0.0
-0.0
-0.0
-应付账款
-9,388.0
-11,996.7
-15,577.7
-20,094.3
-其它
-1,162.9
-1,535.3
-1,874.7
-2,299.9
-短期贷款
-47.6
-47.6
-47.6
-47.6
-税前利润
-8,310.2
-10,943.6
-14,173.2
-17,908.7
-其它流动负债
-2,680.3
-3,828.9
-5,258.2
-6,910.9
-所得税
-(889.9)
-(1,213.6)
-(1,569.4)
-(1,981.9)
-流动负债
-12,115.9
-15,873.2
-20,883.5
-27,052.8
-少数股东损益
-2.0
-1.6
-1.6
-1.6
-长期贷款
-4,676.7
-4,676.7
-4,676.7
-4,676.7
-优先股股息前净利润
-7,422.3
-9,731.7
-12,605.5
-15,928.4
-其它长期负债
-59.8
-59.8
-59.8
-59.8
-优先股息
-0.0
-0.0
-0.0
-0.0
-长期负债
-4,736.4
-4,736.4
-4,736.4
-4,736.4
-非经常性项目前净利润
-7,422.3
-9,731.7
-12,605.5
-15,928.4
-负债合计
-16,852.3
-20,609.7
-25,619.9
-31,789.2
-税后非经常性损益
-0.0
-0.0
-0.0
-0.0
-净利润
-7,422.3
-9,731.7
-12,605.5
-15,928.4
-优先股
-0.0
-0.0
-0.0
-0.0
-普通股权益
-24,288.6
-29,180.2
-35,516.1
-43,522.4
-每股基本盈利（非经常性项目前）(Rmb)
-1.22
-1.58
-2.05
-2.59
-少数股东权益
-198.0
-196.4
-194.8
-193.2
-每股基本盈利（非经常性项目后）(Rmb)
-1.22
-1.58
-2.05
-2.59
-每股摊薄盈利（非经常性项目后）(Rmb)
-1.22
-1.58
-2.05
-2.59
-负债及股东权益合计
-41,339.0
-49,986.2
-61,330.9
-75,504.8
-不含员工股票期权费用的每股盈利(基本)
---
---
---
---
-不含员工股票期权费用的每股盈利(摊薄)
---
---
---
---
-每股净资产(Rmb)
-3.98
-4.74
-5.77
-7.07
-每股股息(Rmb)
-0.60
-0.79
-1.02
-1.29
-股息支付率(%)
-49.7
-49.7
-49.7
-49.7
-自由现金流收益率(%)
-3.9
-2.6
-3.3
-4.2
-比率
-12/16
-12/17E
-12/18E
-12/19E
-增长率和利润率(%)
-12/16
-12/17E
-12/18E
-12/19E
-CROCI(%)
-33.9
-36.4
-38.7
-39.9
-主营业务收入增长率
-26.3
-28.9
-30.1
-28.5
-净资产回报率(%)
-34.1
-36.4
-39.0
-40.3
-EBITDA增长率
-25.6
-31.7
-30.7
-26.9
-总资产回报率(%)
-20.7
-21.3
-22.6
-23.3
-EBIT增长率
-24.8
-32.3
-31.0
-27.1
-平均运用资本回报率(%)
-53.7
-56.9
-63.6
-68.3
-净利润增长率
-26.5
-31.1
-29.5
-26.4
-存货周转天数
-65.0
-66.7
-66.3
-66.5
-每股盈利增长
-26.5
-30.2
-29.3
-26.4
-应收账款周转天数
-149.3
-148.4
-147.7
-148.6
-毛利率
-41.6
-42.1
-42.2
-42.0
-应付账款周转天数
-156.8
-163.8
-162.6
-163.1
-EBITDA利润率
-22.4
-22.9
-23.0
-22.8
-净负债/股东权益(%)
-(36.4)
-(39.2)
-(41.4)
-(43.4)
-EBIT利润率
-21.7
-22.2
-22.4
-22.1
-EBIT利息保障倍数(X)
-NM
-NM
-NM
-NM
-现金流量表(Rmb mn)
-12/16
-12/17E
-12/18E
-12/19E
-估值
-12/16
-12/17E
-12/18E
-12/19E
-优先股股息前净利润
-7,422.3
-9,731.7
-12,605.5
-15,928.4
-折旧及摊销
-240.7
-280.0
-340.5
-414.7
-基本市盈率(X)
-18.4
-25.4
-19.6
-15.5
-少数股东权益
-(2.0)
-(1.6)
-(1.6)
-(1.6)
-市净率(X)
-5.6
-8.5
-7.0
-5.7
-运营资本增减
-(1,362.8)
-(2,677.0)
-(3,556.5)
-(4,299.1)
-EV/EBITDA(X)
-17.9
-25.0
-18.9
-14.6
-其它
-(84.4)
-0.0
-0.0
-0.0
-企业价值/总投资现金(X)
-5.2
-7.9
-6.4
-5.1
-经营活动产生的现金流
-6,213.7
-7,333.1
-9,387.8
-12,042.3
-股息收益率(%)
-2.7
-2.0
-2.5
-3.2
-资本开支
-(911.4)
-(1,028.7)
-(1,285.2)
-(1,582.1)
-收购
-0.0
-0.0
-0.0
-0.0
-剥离
-19.4
-0.0
-0.0
-0.0
-其它
-(2,491.2)
-0.0
-0.0
-0.0
-投资活动产生的现金流
-(3,383.1)
-(1,028.7)
-(1,285.2)
-(1,582.1)
-支付股息的现金（普通股和优先股）
-(2,848.1)
-(3,691.5)
-(4,840.2)
-(6,269.5)
-借款增减
-2,467.2
-0.0
-0.0
-0.0
-普通股发行（回购）
-247.3
-0.0
-0.0
-0.0
-其它
-789.4
-0.0
-0.0
-0.0
-筹资活动产生的现金流
-655.7
-(3,691.5)
-(4,840.2)
-(6,269.5)
-注：最后一个实际年度数据可能包括已公布和预测数据。
-总现金流
-3,486.2
-2,612.8
-3,262.4
-4,190.7
-资料来源：公司数据、高盛研究预测
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-3 
-Table of contents 
-Executive Summary: Strong fundamentals priced in; Neutral 
-4 
-Valuation fair: Our 12-m P/E-based target price is Rmb41 
-7 
-Key risks 
-9 
-Scale and SOE background set Hikvision apart 
-9 
-Core drivers of revenue/earnings growth 
-16 
-Financials 
-21 
-Introducing M&A framework for Hikvision 
-23 
-Appendix 
-25 
-Disclosure Appendix 
-28 
- 
-The prices in the report are as of the market close of May 13, 2017, unless stated otherwise. 
- 
-The author would like to thank Stephy Xu and Wei Chen for their invaluable contribution to the report. 
- 
-Exhibit 1: GS/GH global surveillance valuation comps   
- 
-Source:  Datastream, Bloomberg, Wind, Gao Hua Securities Research, Goldman Sachs Global Investment Research. 
- 
- 
- 
- 
- 
-GS/GH Global Surveillance Comp Sheet
-Company
-Ticker
-Rating
-Market 
-12m 
-Target Potential Market 
-cap
-Revenue 
-(US$ mn)
-Gross 
-margin
-Net 
-margin
-PEG
-EV/ 
-Sales
-FCF 
-yield
-Div 
-yield
-P/B
-ROE
-Price
-Price
-+/-Side
-US$ mn
-2016
-2016
-2016
-2017E
-2018E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-Hikvision (Rmb)
-002415.SZ Neutral
-38.9
-41.0
-5%
-34,786
-29.5%
-31.2%
-29.8%
-4,627
-41.6%
-23.2%
-24.6x
-19.0x
-0.8x
-24.2x
-5.5x
-2.6%
-2.0%
-8.2x
-36.4%
-Offshore Surveillance Comp
-Honeywell (US$)
-HON
-Buy
-131.5
-140.0
-6%
-100,240
-2.0%
-6.4%
-8.4%
-39,302
-31.4%
-13.0%
-18.4x
-17.0x
-2.2x
-12.3x
-2.7x
-4.8%
-2.0%
-4.4x
-NA
-Tyco (US$)
-JCI
-NC
-42.0
-39,438
-NA
-NA
-NA
-30,372
-NA
-NA
-15.3x
-13.2x
-NA
-11.1x
-1.8x
-9.0%
-2.4%
-2.0x
-8.4%
-Safran (EUR)
-SAF.PA
-Not Rated
-77.0
- 
-NA
-34,133
-5.6%
-6.3%
-9.8%
-17,245
-NA
-10.7%
-18.0x
-15.7x
-3.2x
-9.8x
-2.0x
-4.7%
-2.2%
-4.2x
-25.1%
-Assa Abloy (SKR)
-ASSAb.ST
-Buy
-194.9
-215.0
-10%
-22,766
-9.7%
-13.4%
-11.9%
-8,054
-39.7%
-11.5%
-23.5x
-21.0x
-2.0x
-15.1x
-2.8x
-4.2%
-1.8%
-4.1x
-18.4%
-Allegion (US$)
-ALLE
-Buy
-76.7
-88
-0
-7,311
-5.7%
-10.9%
-12.0%
-2,238
-44.0%
-14.5%
-20.4x
-18.3x
-1.7x
-14.6x
-3.5x
-4.4%
-0.8%
-16.0x
-164.0%
-FLIR Systems (US$)
-FLIR
-Buy
-37.5
-45.0
-20%
-5,116
-7.3%
-13.6%
-31.6%
-1,662
-46.2%
-10.0%
-21.8x
-18.0x
-0.5x
-13.0x
-2.9x
-5.8%
-1.6%
-2.9x
-13.0%
-NICE Systems (US$)
-NICE
-Neutral
-74.6
-77
-0
-4,480
-17.5%
-15.8%
-8.5%
-1,030
-72.0%
-21.4%
-18.9x
-17.5x
-2.0x
-9.1x
-3.4x
-4.9%
-0.8%
-2.9x
-15.5%
-AXIS (SKR)
-AXIS.ST
-NC
-340.1
-2,669
-NA
-NA
-NA
-772
-NA
-NA
-NA
-NA
-NA
-NA
-0.0x
-NA
-NA
-NA
-NA
-Verint (US$)
-VRNT
-Buy
-39.9
-48.0
-20%
-2,501
-6.0%
-6.3%
-7.3%
-1,078
-65.2%
-15.0%
-14.7x
-13.4x
-2.8x
-11.6x
-2.5x
-6.2%
-0.0%
-2.4x
-16.8%
-Hanwha Techwin (KRW)
-012450.KS
-NC
-51,400
-2,433
-16.3%
-15.2%
--24.4%
-3,066
-22.0%
-7.8%
-21.4x
-17.7x
--0.4x
-NA
-0.0x
-6.4%
-0.6%
-1.1x
-NA
-TKH (EUR)
-TWEKA.AM
-NC
-44.6
-2,088
-6.9%
-12.0%
-18.1%
-1,460
-46.5%
-6.7%
-17.6x
-15.2x
-0.9x
-12.5x
-1.6x
-6.9%
-2.6%
-3.0x
-18.0%
-Average
-8.5%
-11.1%
-9.2%
-9,662
-45.9%
-12.3%
-19.0x
-16.7x
-1.7x
-12.1x
-2.1x
-5.7%
-1.5%
-4.3x
-34.9%
-Median 
-6.9%
-12.0%
-9.8%
-2,238
-45.1%
-11.5%
-18.6x
-17.3x
-2.0x
-12.3x
-2.5x
-5.4%
-1.7%
-3.0x
-17.4%
-STD
-5.2%
-3.9%
-14.7%
-13,508
-16.4%
-4.4%
-2.8x
-2.4x
-1.1x
-2.0x
-1.2x
-1.5%
-0.9%
-4.2x
-52.4%
-Onshore Surveillance Comp
-Dahua (Rmb)
-002236.SZ
-NC
-17.0
-7,140
-28.6%
-33.2%
-28.5%
-1,903
-NA
-13.9%
-20.2x
-16.2x
-0.6x
-20.3x
-2.8x
-3.9%
-0.7%
-4.7x
-25.3%
-Protruly (Rmb)
-600074.SH
-NC
-12.1
-4,272
-NA
-35.6%
-42.4%
-596
-NA
-19.4%
-21.3x
-16.1x
-0.4x
-23.1x
-5.5x
-NA
-NA
-5.2x
-NA
-NetPosa (Rmb)
-300367.SZ
-NC
-20.0
-2,485
-32.2%
-30.5%
-27.3%
-215
-56.4%
-25.6%
-36.7x
-28.0x
-1.6x
-30.4x
-8.6x
-2.6%
-0.2%
-4.7x
-14.4%
-PCI - Suntek (Rmb)
-600728.SH
-NC
-7.4
-1,703
-42.6%
-23.7%
-29.6%
-387
-21.8%
-4.0%
-35.1x
-26.2x
-1.4x
-37.2x
-2.8x
-NA
-NA
-3.7x
-13.5%
-Jieshun (Rmb)
-002609.SZ
-NC
-15.0
-1,449
-22.3%
-22.5%
-20.2%
-114
-58.5%
-23.2%
-42.7x
-34.9x
-2.4x
-32.8x
-9.6x
-NA
-0.1%
-3.9x
-10.1%
-TOYOU (Rmb)
-300302.SZ
-NC
-18.1
-1,103
-63.5%
-NA
-46.3%
-68
-44.4%
-33.0%
-31.5x
-22.8x
-0.6x
-NA
-8.0x
-NA
-0.5%
-8.5x
-26.6%
-Average
-37.8%
-29.1%
-32.4%
-547
-45.3%
-19.9%
-31.3x
-24.0x
-1.2x
-28.8x
-6.2x
-3.2%
-0.4%
-5.1x
-18.0%
-Median 
-32.2%
-30.5%
-29.1%
-301
-50.4%
-21.3%
-33.3x
-24.5x
-1.0x
-30.4x
-6.8x
-3.2%
-0.4%
-4.7x
-14.4%
-STD
-16.1%
-5.8%
-9.9%
-692
-16.9%
-10.0%
-8.9x
-7.3x
-0.8x
-7.0x
-3.0x
-0.9%
-0.3%
-1.7x
-7.5%
-Global Surveillance Comp
-Average
-19.0%
-17.5%
-18.5%
-6,445
-45.7%
-15.3%
-23.6x
-19.8x
-1.5x
-18.1x
-3.6x
-5.3%
-1.2%
-4.6x
-28.4%
-Median 
-13.0%
-14.4%
-18.1%
-1,460
-45.3%
-13.9%
-20.9x
-17.6x
-1.6x
-13.8x
-2.8x
-4.8%
-0.8%
-4.0x
-16.8%
-STD
-17.6%
-10.0%
-17.2%
-11,591
-15.8%
-7.9%
-8.3x
-5.9x
-1.0x
-9.3x
-2.8x
-1.7%
-0.9%
-3.5x
-41.1%
-Revenue/EBITDA/EPS
-2016-2018E CAGR 
-P/E
-EV/ 
-EBITDA
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-4 
-Executive Summary: Strong fundamentals priced in; Neutral 
-Hikvision has grown and consolidated its position as a global surveillance industry leader over the 
-past decade, with its focus on R&D, growing scale advantage, and leveraging its SOE 
-background effectively to win projects from public sector clients. We believe this has also been 
-underpinned by the last two waves of technology upgrades from: (1) analog camera to IP camera, 
-and (2) isolated network structure to connected network structure.  
- 
-Looking forward, we expect the next wave of upgrades to AI-embedded surveillance products 
-and systems to further expand Hikvision’s market share and raise/stabilize its gross margin. 
-Hikvision has been the leader in introducing AI surveillance products into the market since 
-2015, from cameras to network video recorder (NVR) to servers. For example, its products 
-have been adopted by Nanchang City’s SkyNet project, effectively improving the accuracy 
-and speed of identifying potential suspects and security breaches.  
- 
-In the AI era, we believe Hikvision has a strong competitive advantage with significant access 
-to relevant data sets from its large customer base. Our global AI report (Artificial Intelligence: 
-AI, Machine Learning and Data Fuel the Future of Productivity, dated Nov 14, 2016) identifies 
-four key inputs for profit pool creation as we move towards an AI-centric world: data, talent, 
-infrastructure and silicon; and ranks large differentiated data sets as the most likely driver of 
-growth.  
-Valuations fair, initiate with Neutral 
-We initiate on Hikvision with Neutral and a 12-month target price of RMB41.0, implying 5% 
-potential upside. We apply 20X industry average P/E multiple to Hikvision’s 2018E EPS to arrive 
-at our target price. 20X is the average P/E multiple of Hikvision’s global and domestic peers in 
-2018E. All the stocks included have above US$1bn market cap.  
-We rate Hikvision Neutral on valuation grounds. Post a 62% rally in its stock price ytd, the 
-stock is now trading around its 12-month historical average P/E multiple of 19X, and in line with 
-its global peers. Key risks to our view and target price include fluctuations in government/public 
-spending and changing competitive intensity. 
-Competitive edge: Scale advantage and SOE background 
-Being the largest surveillance provider in the world, Hikvision has scale advantage in terms of 
-its: (1) sales force and distribution network, (2) R&D team and spending, (3) economies of scale 
-in SG&A, (4) pricing power with its suppliers, and (5) data sets. These scale advantages reflect in 
-its above-average gross margin and industry leading net margin among Chinese surveillance 
-companies. As we move towards an AI-centric world, scale advantage has gained an incremental 
-aspect of interpretation – data – which is critical for training deep learning algorithms, in our view. 
-Leveraging its SOE background and relationship with the public sector (i.e. public security, 
-transportation, judicial, etc.), we believe Hikvision is in a strong position to provide surveillance 
-solutions to these customers. Public security (i.e., police force) and transportation segments have 
-the strongest incentive to adopt state-of-the-art surveillance solutions, in our view. 
-Earnings growth to catch up with revenue growth by 2020E 
- 
-We expect Hikvision’s revenue to reach RMB83,231mn in 2020E, at a CAGR of 27% from 
-2016. Front-end products will still be a big driver for this growth with incremental as well as 
-upgrade/replacement demand for cameras. On the other hand, we see control center 
-equipment’s share of revenue to increase from 12% in 2016 to 29% in 2020E as we believe, 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-5 
-in the AI era, with growing focus on big data and intelligent analysis of these data sets, the 
-bulk of the computing will be done by servers in the control/data centers. 
- 
-We expect Hikvision’s EPS to reach RMB3.14 in 2020E, at a CAGR of 27%, same as the 
-revenue CAGR. The surveillance industry has been going through consolidation with big 
-players such as Hikvision gaining market share on a consistent basis. In 2016, Hikvision’s 
-gross margin improved for the first time over the past seven years, and net margin stabilized 
-after three years of decline. Going forward, we expect its gross margin to stabilize/improve, 
-leading to earnings growth catching up with revenue growth. 
-Exhibit 1: How Hikvision grows its EPS from Rmb0.10 in 2008 to Rmb3.14 in 2020E 
-Hikvision EPS walk  
- 
-Source:  Company data, Gao Hua Securities Research. 
-AI to contribute 12%/17% of revenue/gross profit by 2020E 
- 
-2017 onwards, we expect Hikvision’s main revenue driver to be its suite of AI 
-products. These advanced products have higher ASP and thus are able to help Hikvision 
-sustain its profitability going forward, in our view, together with management’s focus on 
-margins and more rational market competition since second half of last year. 
- 
-In 2016, Hikvision had over RMB100mn in revenue from its AI products, which according to 
-management was above their expectations. These products are generally sold for more than 
-RMB10,000 a piece, and gross margins are at least 10% higher than other products. Going 
-forward, we expect ASP to decline by 9%-25% from 2017E-2020E, and sales volume to grow 
-significantly based on historical industry trends during the last round of analog to IP camera 
-upgrade cycle.  
-¥0.10
-¥0.36
-¥0.52
-¥0.15
-¥0.05
-¥0.16
-(¥0.45)
-(¥0.20)
-¥0.03
- -
- 0.20
- 0.40
- 0.60
- 0.80
- 1.00
- 1.20
-2008 EPS
-Front-end
-products
-Back-end
-products
-Engineering
-Others
-COGS
-OPEX
-Non-op items
-2012 EPS
-(Rmb)
-Revenue growth
-¥0.36
-¥1.22
-¥2.07
-¥0.40
-¥0.65
-¥0.19
-¥0.11
-¥0.61
-(¥2.45)
-(¥0.78)
-¥0.05
- -
- 0.50
- 1.00
- 1.50
- 2.00
- 2.50
- 3.00
- 3.50
- 4.00
- 4.50
- 5.00
-2012 EPS
-Front-end
-products
-Back-end
-products
-Control
-center
-equipment
-Engineering
-Innovative
-business
-Others
-COGS
-OPEX
-Non-op
-items
-2016 EPS
-(Rmb)
-Revenue growth
-¥1.22
-¥3.14
-¥2.05
-¥0.67
-¥3.25
-(¥0.24)
-¥0.76
-¥1.80
-(¥4.80)
-(¥1.68)
-¥0.11
- -
- 1.00
- 2.00
- 3.00
- 4.00
- 5.00
- 6.00
- 7.00
- 8.00
- 9.00
- 10.00
-2016 EPS
-Front-end
-products
-Back-end
-products
-Control
-center
-equipment
-Engineering
-Innovative
-business
-Others
-COGS
-OPEX
-Non-op
-items
-2020E EPS
-(Rmb)
-Revenue growth
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-6 
- 
-We expect revenue from Hikvision’s AI products to reach close to RMB10bn in 2020E 
-(CAGR of 214% over 2016-2020E), accounting for 12% of overall revenues, and gross profit 
-to reach close to RMB6bn, accounting for 17% of overall. 
-Exhibit 2: We forecast Hikvision’s AI products to account for 12% of revenue and 17% of gross profit by 2020E 
-Hikvision AI model 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Hikvision AI model
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-2020E
-Total revenue (RMB mn)
-7,214
-           
-10,746
-           
-17,233
-         
-25,271
-         
-31,924
-         
-41,148
-           
-53,552
-             
-68,789
-            
-83,231
-           
-Revenue ‐ video related
-5,925
-           
-9,301
-             
-14,217
-         
-20,028
-         
-25,068
-         
-32,485
-           
-41,574
-             
-52,261
-            
-62,054
-           
-AI products
-100
-              
-825
-                 
-2,042
-                
-4,659
-               
-9,711
-              
-% yoy
-725%
-148%
-128%
-108%
-% of total
-0%
-2%
-4%
-7%
-12%
-Non‐AI products
-24,968
-         
-31,660
-           
-39,532
-             
-47,602
-            
-52,343
-           
-% yoy
-27%
-25%
-20%
-10%
-% of total
-78%
-77%
-74%
-69%
-63%
-Sales volume ‐ video related (unit)
-5,711,587
-   
-13,148,133
-   
-28,906,868
- 
-47,778,446
- 
-68,801,020
- 
-99,319,607
-    
-139,311,404
-   
-186,353,398
-   
-225,611,870
- 
-% yoy
-95%
-130%
-120%
-65%
-44%
-44%
-40%
-34%
-21%
-AI products
-10,000
-         
-110,000
-         
-330,000
-           
-858,000
-          
-1,956,240
-      
-% yoy
-1000%
-200%
-160%
-128%
-Penetration %
-0.0%
-0.1%
-0.2%
-0.5%
-0.9%
-Non‐AI products
-68,791,020
- 
-99,209,607
-    
-138,981,404
-   
-185,495,398
-   
-223,655,630
- 
-% yoy
-44%
-40%
-33%
-21%
-ASP ‐ video related (RMB)
-1,037
-           
-707
-                
-492
-              
-419
-              
-364
-              
-327
-                 
-298
-                   
-280
-                  
-275
-                 
-% yoy
-‐34%
-‐32%
-‐30%
-‐15%
-‐13%
-‐10%
-‐9%
-‐6%
-‐2%
-AI products
-10,000
-         
-7,500
-              
-6,188
-                
-5,430
-               
-4,964
-              
-% yoy
-‐25%
-‐18%
-‐12%
-‐9%
-Non‐AI products
-363
-              
-319
-                 
-284
-                   
-257
-                  
-234
-                 
-% yoy
-‐13%
-‐12%
-‐11%
-‐10%
-‐9%
-Total gross profit (RMB mn)
-3,549
-           
-5,117
-             
-7,655
-           
-10,080
-         
-13,274
-         
-17,198
-           
-22,606
-             
-28,870
-            
-34,867
-           
-Gross profit ‐ video related
-3,183
-           
-4,802
-             
-7,149
-           
-9,414
-           
-12,107
-         
-15,523
-           
-20,069
-             
-25,221
-            
-29,940
-           
-Gross margin %
-54%
-52%
-50%
-47%
-48%
-48%
-48%
-48%
-48%
-AI products
-60
-                 
-495
-                 
-1,225
-                
-2,795
-               
-5,826
-              
-Gross margin %
-60%
-60%
-60%
-60%
-60%
-% of total
-0%
-3%
-5%
-10%
-17%
-Non‐AI products
-12,047
-         
-15,028
-           
-18,843
-             
-22,426
-            
-24,114
-           
-Gross margin %
-48%
-47%
-48%
-47%
-46%
-% of total
-91%
-87%
-83%
-78%
-69%
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-7 
-Valuation fair: Our 12-m P/E-based target price is Rmb41 
-We forecast 29% revenue CAGR and 29% earnings CAGR for Hikvision over 2016-2019E, driven 
-by continued market share expansion and stabilizing profitability levels. We apply 20X industry 
-average P/E multiple to Hikvision’s 2018E EPS to arrive at our 12-month target price of RMB41.0, 
-implying 5% potential upside. 20X is the average P/E multiple of Hikvision’s global and domestic 
-peers in 2018E. All the stocks included have above US$1bn market cap. Our Neutral rating is 
-largely a result of valuation. Post a 62% rally in stock price ytd, Hikvision is now trading around its 
-12-month historical average P/E multiple of 19X, and in line with its global peers. 
-Exhibit 3: GS/GH global surveillance valuation comps  
- 
-Source:  Datastream, Bloomberg, Wind, Gao Hua Securities Research, Goldman Sachs Global Investment Research. 
-Our 2017E estimates are in line with Bloomberg consensus, but 2018E/2019E revenue estimates 
-are 5%/11% above, and 2018E/2019E EPS estimates are 5%/8% above Bloomberg consensus. 
-We believe the street hasn’t fully factored in the upside from Hikvision’s AI leadership, which will 
-drive revenue growth and margin recovery. 
-Exhibit 4: GSe vs. Consensus 
- 
-Source:  Company data, Bloomberg, Gao Hua Securities Research. 
- 
-GS/GH Global Surveillance Comp Sheet
-Company
-Ticker
-Rating
-Market 
-12m 
-Target Potential Market 
-cap
-Revenue 
-(US$ mn)
-Gross 
-margin
-Net 
-margin
-PEG
-EV/ 
-Sales
-FCF 
-yield
-Div 
-yield
-P/B
-ROE
-Price
-Price
-+/-Side
-US$ mn
-2016
-2016
-2016
-2017E
-2018E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-2017E
-Hikvision (Rmb)
-002415.SZ Neutral
-38.9
-41.0
-5%
-34,786
-29.5%
-31.2%
-29.8%
-4,627
-41.6%
-23.2%
-24.6x
-19.0x
-0.8x
-24.2x
-5.5x
-2.6%
-2.0%
-8.2x
-36.4%
-Offshore Surveillance Comp
-Honeywell (US$)
-HON
-Buy
-131.5
-140.0
-6%
-100,240
-2.0%
-6.4%
-8.4%
-39,302
-31.4%
-13.0%
-18.4x
-17.0x
-2.2x
-12.3x
-2.7x
-4.8%
-2.0%
-4.4x
-NA
-Tyco (US$)
-JCI
-NC
-42.0
-39,438
-NA
-NA
-NA
-30,372
-NA
-NA
-15.3x
-13.2x
-NA
-11.1x
-1.8x
-9.0%
-2.4%
-2.0x
-8.4%
-Safran (EUR)
-SAF.PA
-Not Rated
-77.0
- 
-NA
-34,133
-5.6%
-6.3%
-9.8%
-17,245
-NA
-10.7%
-18.0x
-15.7x
-3.2x
-9.8x
-2.0x
-4.7%
-2.2%
-4.2x
-25.1%
-Assa Abloy (SKR)
-ASSAb.ST
-Buy
-194.9
-215.0
-10%
-22,766
-9.7%
-13.4%
-11.9%
-8,054
-39.7%
-11.5%
-23.5x
-21.0x
-2.0x
-15.1x
-2.8x
-4.2%
-1.8%
-4.1x
-18.4%
-Allegion (US$)
-ALLE
-Buy
-76.7
-88
-0
-7,311
-5.7%
-10.9%
-12.0%
-2,238
-44.0%
-14.5%
-20.4x
-18.3x
-1.7x
-14.6x
-3.5x
-4.4%
-0.8%
-16.0x
-164.0%
-FLIR Systems (US$)
-FLIR
-Buy
-37.5
-45.0
-20%
-5,116
-7.3%
-13.6%
-31.6%
-1,662
-46.2%
-10.0%
-21.8x
-18.0x
-0.5x
-13.0x
-2.9x
-5.8%
-1.6%
-2.9x
-13.0%
-NICE Systems (US$)
-NICE
-Neutral
-74.6
-77
-0
-4,480
-17.5%
-15.8%
-8.5%
-1,030
-72.0%
-21.4%
-18.9x
-17.5x
-2.0x
-9.1x
-3.4x
-4.9%
-0.8%
-2.9x
-15.5%
-AXIS (SKR)
-AXIS.ST
-NC
-340.1
-2,669
-NA
-NA
-NA
-772
-NA
-NA
-NA
-NA
-NA
-NA
-0.0x
-NA
-NA
-NA
-NA
-Verint (US$)
-VRNT
-Buy
-39.9
-48.0
-20%
-2,501
-6.0%
-6.3%
-7.3%
-1,078
-65.2%
-15.0%
-14.7x
-13.4x
-2.8x
-11.6x
-2.5x
-6.2%
-0.0%
-2.4x
-16.8%
-Hanwha Techwin (KRW)
-012450.KS
-NC
-51,400
-2,433
-16.3%
-15.2%
--24.4%
-3,066
-22.0%
-7.8%
-21.4x
-17.7x
--0.4x
-NA
-0.0x
-6.4%
-0.6%
-1.1x
-NA
-TKH (EUR)
-TWEKA.AM
-NC
-44.6
-2,088
-6.9%
-12.0%
-18.1%
-1,460
-46.5%
-6.7%
-17.6x
-15.2x
-0.9x
-12.5x
-1.6x
-6.9%
-2.6%
-3.0x
-18.0%
-Average
-8.5%
-11.1%
-9.2%
-9,662
-45.9%
-12.3%
-19.0x
-16.7x
-1.7x
-12.1x
-2.1x
-5.7%
-1.5%
-4.3x
-34.9%
-Median 
-6.9%
-12.0%
-9.8%
-2,238
-45.1%
-11.5%
-18.6x
-17.3x
-2.0x
-12.3x
-2.5x
-5.4%
-1.7%
-3.0x
-17.4%
-STD
-5.2%
-3.9%
-14.7%
-13,508
-16.4%
-4.4%
-2.8x
-2.4x
-1.1x
-2.0x
-1.2x
-1.5%
-0.9%
-4.2x
-52.4%
-Onshore Surveillance Comp
-Dahua (Rmb)
-002236.SZ
-NC
-17.0
-7,140
-28.6%
-33.2%
-28.5%
-1,903
-NA
-13.9%
-20.2x
-16.2x
-0.6x
-20.3x
-2.8x
-3.9%
-0.7%
-4.7x
-25.3%
-Protruly (Rmb)
-600074.SH
-NC
-12.1
-4,272
-NA
-35.6%
-42.4%
-596
-NA
-19.4%
-21.3x
-16.1x
-0.4x
-23.1x
-5.5x
-NA
-NA
-5.2x
-NA
-NetPosa (Rmb)
-300367.SZ
-NC
-20.0
-2,485
-32.2%
-30.5%
-27.3%
-215
-56.4%
-25.6%
-36.7x
-28.0x
-1.6x
-30.4x
-8.6x
-2.6%
-0.2%
-4.7x
-14.4%
-PCI - Suntek (Rmb)
-600728.SH
-NC
-7.4
-1,703
-42.6%
-23.7%
-29.6%
-387
-21.8%
-4.0%
-35.1x
-26.2x
-1.4x
-37.2x
-2.8x
-NA
-NA
-3.7x
-13.5%
-Jieshun (Rmb)
-002609.SZ
-NC
-15.0
-1,449
-22.3%
-22.5%
-20.2%
-114
-58.5%
-23.2%
-42.7x
-34.9x
-2.4x
-32.8x
-9.6x
-NA
-0.1%
-3.9x
-10.1%
-TOYOU (Rmb)
-300302.SZ
-NC
-18.1
-1,103
-63.5%
-NA
-46.3%
-68
-44.4%
-33.0%
-31.5x
-22.8x
-0.6x
-NA
-8.0x
-NA
-0.5%
-8.5x
-26.6%
-Average
-37.8%
-29.1%
-32.4%
-547
-45.3%
-19.9%
-31.3x
-24.0x
-1.2x
-28.8x
-6.2x
-3.2%
-0.4%
-5.1x
-18.0%
-Median 
-32.2%
-30.5%
-29.1%
-301
-50.4%
-21.3%
-33.3x
-24.5x
-1.0x
-30.4x
-6.8x
-3.2%
-0.4%
-4.7x
-14.4%
-STD
-16.1%
-5.8%
-9.9%
-692
-16.9%
-10.0%
-8.9x
-7.3x
-0.8x
-7.0x
-3.0x
-0.9%
-0.3%
-1.7x
-7.5%
-Global Surveillance Comp
-Average
-19.0%
-17.5%
-18.5%
-6,445
-45.7%
-15.3%
-23.6x
-19.8x
-1.5x
-18.1x
-3.6x
-5.3%
-1.2%
-4.6x
-28.4%
-Median 
-13.0%
-14.4%
-18.1%
-1,460
-45.3%
-13.9%
-20.9x
-17.6x
-1.6x
-13.8x
-2.8x
-4.8%
-0.8%
-4.0x
-16.8%
-STD
-17.6%
-10.0%
-17.2%
-11,591
-15.8%
-7.9%
-8.3x
-5.9x
-1.0x
-9.3x
-2.8x
-1.7%
-0.9%
-3.5x
-41.1%
-Revenue/EBITDA/EPS
-2016-2018E CAGR 
-P/E
-EV/ 
-EBITDA
-(RMB mn)
-2016
-2017E
-2018E
-2019E
-2016
-2017E
-2018E
-2019E
-2016
-2017E
-2018E
-2019E
-Hikvision
-Revenue
-31,924
-     
-41,148
-     
-53,552
-     
-68,789
-     
-31,924
-   
-40,689
-   
-50,793
-   
-61,722
-   
-0%
-1%
-5%
-11%
-yoy %
-26%
-29%
-30%
-28%
-26%
-27%
-25%
-22%
-Net income
-7,422
-       
-9,732
-       
-12,605
-     
-15,928
-     
-7,422
-     
-9,717
-     
-11,999
-   
-14,683
-   
-0%
-0%
-5%
-8%
-yoy %
-26%
-31%
-30%
-26%
-26%
-31%
-23%
-22%
-EPS (RMB)
-1.22
-         
-1.58
-         
-2.05
-         
-2.59
-         
-1.22
-         
-1.59
-         
-1.96
-         
-2.40
-         
-0%
-0%
-5%
-8%
-yoy %
-26%
-30%
-29%
-26%
-26%
-30%
-23%
-23%
-GSE
-Bloomberg Consensus
-GSE vs Cons
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-8 
-We believe Hikvision will be able to expand its market leadership in the AI-era, leveraging its 
-access to comprehensive datasets from a large customer base, and introducing products with 
+凭借其解决方案业务和高质量产品的规模优势和专业实力将继续实现市场份额
+增长。鉴于 2016 年下半年以来行业竞争趋于理性、管理层侧重于提升盈利能
+力,我们预计 2017-2019 年毛利率将稳定在 42%左右(2016 年为 41.6%)。
+政府/公共支出波动,竞争激烈程度发生变化。
+我们预计 2016-2019 年收入/盈利年均复合增速为 29%，受到市场份额持续扩张
+和盈利水平企稳的推动。我们对 2018 年预期每股盈利应用 20 倍的行业平均市
+行业背景
+监控行业正在经历的整合对大企业有利。2016 年下半年行业需求复苏,价格竞
+争缓解。
+所属投资名单
+行业评级: 中性
+存在业务关系，并且继续寻求发展这些关系。因此，投资者应当考虑到本公司可能存在可能影响本报告客观性的利益冲突，不应视本报告
+信息披露附录，或请与您的投资代表联系。
+投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+海康威视: 财务数据概要
+对此报告有贡献的人员
+侯雪婷
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Table of contents
+The prices in the report are as of the market close of May 13, 2017, unless stated otherwise.
+The author would like to thank Stephy Xu and Wei Chen for their invaluable contribution to the report.
+Exhibit 1: GS/GH global surveillance valuation comps
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Executive Summary: Strong fundamentals priced in; Neutral
+Hikvision has grown and consolidated its position as a global surveillance industry leader over the
+past decade, with its focus on R&D, growing scale advantage, and leveraging its SOE
+background effectively to win projects from public sector clients. We believe this has also been
+underpinned by the last two waves of technology upgrades from: (1) analog camera to IP camera,
+and (2) isolated network structure to connected network structure.
+Looking forward, we expect the next wave of upgrades to Al-embedded surveillance products
+and systems to further expand Hikvision's market share and raise/stabilize its gross margin.
+Hikvision has been the leader in introducing AI surveillance products into the market since
+2015, from cameras to network video recorder (NVR) to servers. For example, its products
+have been adopted by Nanchang City's SkyNet project, effectively improving the accuracy
+and speed of identifying potential suspects and security breaches.
+In the AI era, we believe Hikvision has a strong competitive advantage with significant access
+to relevant data sets from its large customer base. Our global AI report (Artificial Intelligence:
+Al, Machine Learning and Data Fuel the Future of Productivity, dated Nov 14, 2016) identifies
+four key inputs for profit pool creation as we move towards an Al-centric world: data, talent,
+infrastructure and silicon; and ranks large differentiated data sets as the most likely driver of
+growth.
+Valuations fair, initiate with Neutral
+We initiate on Hikvision with Neutral and a 12-month target price of RMB41.0, implying 5%
+potential upside. We apply 20X industry average P/E multiple to Hikvision's 2018E EPS to arrive
+at our target price. 20X is the average P/E multiple of Hikvision's global and domestic peers in
+2018E. All the stocks included have above US$1bn market cap.
+We rate Hikvision Neutral on valuation grounds. Post a 62% rally in its stock price ytd, the
+stock is now trading around its 12-month historical average P/E multiple of 19X, and in line with
+its global peers. Key risks to our view and target price include fluctuations in government/public
+spending and changing competitive intensity.
+Competitive edge: Scale advantage and SOE background
+Being the largest surveillance provider in the world, Hikvision has scale advantage in terms of
+its: (1) sales force and distribution network, (2) R&D team and spending, (3) economies of scale
+in SG&A, (4) pricing power with its suppliers, and (5) data sets. These scale advantages reflect in
+its above-average gross margin and industry leading net margin among Chinese surveillance
+companies. As we move towards an Al-centric world, scale advantage has gained an incremental
+aspect of interpretation – data – which is critical for training deep learning algorithms, in our view.
+Leveraging its SOE background and relationship with the public sector (i.e. public security,
+transportation, judicial, etc.), we believe Hikvision is in a strong position to provide surveillance
+solutions to these customers. Public security (i.e., police force) and transportation segments have
+the strongest incentive to adopt state-of-the-art surveillance solutions, in our view.
+Earnings growth to catch up with revenue growth by 2020E
+We expect Hikvision's revenue to reach RMB83,231mn in 2020E, at a CAGR of 27% from
+2016. Front-end products will still be a big driver for this growth with incremental as well as
+upgrade/replacement demand for cameras. On the other hand, we see control center
+equipment's share of revenue to increase from 12% in 2016 to 29% in 2020E as we believe,
+2017年5月15日
+海康威视 (002415.SZ)
+in the AI era, with growing focus on big data and intelligent analysis of these data sets, the
+bulk of the computing will be done by servers in the control/data centers.
+We expect Hikvision's EPS to reach RMB3.14 in 2020E, at a CAGR of 27%, same as the
+revenue CAGR. The surveillance industry has been going through consolidation with big
+players such as Hikvision gaining market share on a consistent basis. In 2016, Hikvision's
+gross margin improved for the first time over the past seven years, and net margin stabilized
+after three years of decline. Going forward, we expect its gross margin to stabilize/improve,
+leading to earnings growth catching up with revenue growth.
+Source: Company data, Gao Hua Securities Research.
+Al to contribute 12%/17% of revenue/gross profit by 2020E
+2017 onwards, we expect Hikvision's main revenue driver to be its suite of Al
+products. These advanced products have higher ASP and thus are able to help Hikvision
+sustain its profitability going forward, in our view, together with management's focus on
+margins and more rational market competition since second half of last year.
+In 2016, Hikvision had over RMB100mn in revenue from its AI products, which according to
+management was above their expectations. These products are generally sold for more than
+RMB10,000 a piece, and gross margins are at least 10% higher than other products. Going
+forward, we expect ASP to decline by 9%-25% from 2017E-2020E, and sales volume to grow
+significantly based on historical industry trends during the last round of analog to IP camera
+upgrade cycle.
+2017年5月15日
+海康威视 (002415.SZ)
+We expect revenue from Hikvision's AI products to reach close to RMB10bn in 2020E
+(CAGR of 214% over 2016-2020E), accounting for 12% of overall revenues, and gross profit
+to reach close to RMB6bn, accounting for 17% of overall.
+Source: Company data, Gao Hua Securities Research.
+2017年5月15日
+海康威视 (002415.SZ)
+We forecast 29% revenue CAGR and 29% earnings CAGR for Hikvision over 2016-2019E, driven
+by continued market share expansion and stabilizing profitability levels. We apply 20X industry
+average P/E multiple to Hikvision's 2018E EPS to arrive at our 12-month target price of RMB41.0,
+implying 5% potential upside. 20X is the average P/E multiple of Hikvision's global and domestic
+peers in 2018E. All the stocks included have above US$1bn market cap. Our Neutral rating is
+largely a result of valuation. Post a 62% rally in stock price ytd, Hikvision is now trading around its
+12-month historical average P/E multiple of 19X, and in line with its global peers.
+Our 2017E estimates are in line with Bloomberg consensus, but 2018E/2019E revenue estimates
+are 5%/11% above, and 2018E/2019E EPS estimates are 5%/8% above Bloomberg consensus.
+We believe the street hasn't fully factored in the upside from Hikvision's Al leadership, which will
+drive revenue growth and margin recovery.
+Source: Company data, Bloomberg, Gao Hua Securities Research.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+We believe Hikvision will be able to expand its market leadership in the Al-era, leveraging its
+access to comprehensive datasets from a large customer base, and introducing products with
 superior quality into the market. Hikvision is currently trading close to its historical average 12-
-month forward P/E of 19X. We forecast 2017E revenue and earnings growth to rise to 29%/31% 
-yoy, from 26%/26% yoy in 2016, driven by further adoption of Hikvision’s AI-imbedded products 
-(cameras, NVR, servers) and further margin recovery from more rational market competition as 
-well as higher margin contribution from AI products. 
-Exhibit 5: Hikvision is trading in line with its historical 
-average 12-month forward P/E 
-12-month forward P/E 
- 
-Exhibit 6: Hikvision is trading in the middle of its P/E 
-band                                                                                        
-12-month forward P/E band 
- 
-Source:  Bloomberg, Gao Hua Securities Research. 
- 
-Source:  Bloomberg, Gao Hua Securities Research. 
- 
- 
-Exhibit 7: Hikvision’s historical share price, revenue path 
-– Bloomberg consensus 
- 
-Exhibit 8: Hikvision’s historical share price, EPS path – 
-Bloomberg consensus 
- 
-Source:  Bloomberg, Gao Hua Securities Research. 
- 
-Source:  Bloomberg, Gao Hua Securities Research. 
- 
- 
- 
- 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-10.0x
-15.0x
-20.0x
-25.0x
-30.0x
-35.0x
-40.0x
-May‐10
-May‐11
-May‐12
-May‐13
-May‐14
-May‐15
-May‐16
-May‐17
-Hikvision 12‐month forward P/E
-P/E
-EPS yoy
- ‐
- 10.0
- 20.0
- 30.0
- 40.0
- 50.0
-Jun‐09
-Dec‐09
-Jun‐10
-Dec‐10
-Jun‐11
-Dec‐11
-Jun‐12
-Dec‐12
-Jun‐13
-Dec‐13
-Jun‐14
-Dec‐14
-Jun‐15
-Dec‐15
-Jun‐16
-Dec‐16
-Jun‐17
-Dec‐17
-Hikvision
-14.9x
-17.1x
-19.4x
-21.6x
-23.8x
-Price
- ‐
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
- 35,000
- 40,000
- 45,000
- ‐
- 5.00
- 10.00
- 15.00
- 20.00
- 25.00
- 30.00
- 35.00
- 40.00
-Jan‐14
-Apr‐14
-Jul‐14
-Oct‐14
-Jan‐15
-Apr‐15
-Jul‐15
-Oct‐15
-Jan‐16
-Apr‐16
-Jul‐16
-Oct‐16
-Jan‐17
-Apr‐17
-Price
-BEst Standard Revenue
-Correlation: 0.80
-(Rmb)
-(Rmb mn)
- ‐
- 0.20
- 0.40
- 0.60
- 0.80
- 1.00
- 1.20
- 1.40
- 1.60
- 1.80
- ‐
- 5.00
- 10.00
- 15.00
- 20.00
- 25.00
- 30.00
- 35.00
- 40.00
-Jan‐14
-Apr‐14
-Jul‐14
-Oct‐14
-Jan‐15
-Apr‐15
-Jul‐15
-Oct‐15
-Jan‐16
-Apr‐16
-Jul‐16
-Oct‐16
-Jan‐17
-Apr‐17
-Price
-BEst Standard EPS, Adj+
-Correlation: 0.81
-(Rmb)
-(Rmb)
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-9 
-Key risks 
-1. 
-Fluctuation in government/public spending 
-As government and public-related projects accounted for over 40% of total domestic demand 
-in 2016, we see fluctuation risks if there are any policy changes at the central government 
-level and spending delays at local government level.  
-For example, during 2015-2016, demand in government related projects slowed due to 
-slowing macro economic growth in China. This led to Hikvision’s revenue growth slowing 
-down to 47% yoy and 26% yoy in 2015 and 2016, from 60% yoy in 2014. Starting 2H16, 
-industry participants have noted a recovery in demand, and this could pose an upside risk to 
-our forecasts. 
-2. 
-Competitive intensity 
-There are over 1,500 surveillance product providers in China. Although Hikvision’s size is 
-much larger than the rest, this still not insulate it from pricing competition, especially in the 
-relatively low-end, standardized distribution channels.  
-ASP for mature surveillance products generally declines at a rate of 6%-7% yoy. However, in 
-periods of weaker demand, surveillance product providers tend to cut pricing more 
-aggressively in order to protect market share and maintain revenue growth. On the other 
-hand, products with technology leadership and limited supply tend to have a high pricing 
-premium initially. 
-Scale and SOE background set Hikvision apart 
-Over the past 16 years, Hikvision has established a strong competitive advantage that sets itself 
-part from competitors in both the domestic as well as overseas markets. In China, Hikvision was 
+month forward P/E of 19X. We forecast 2017E revenue and earnings growth to rise to 29%/31%
+yoy, from 26%/26% yoy in 2016, driven by further adoption of Hikvision's Al-imbedded products
+(cameras, NVR, servers) and further margin recovery from more rational market competition as
+well as higher margin contribution from Al products.
+Exhibit 6: Hikvision is trading in the middle of its P/E
+band
+12-month forward P/E
+12-month forward P/E band
+Source: Bloomberg, Gao Hua Securities Research.
+Source: Bloomberg, Gao Hua Securities Research.
+Source: Bloomberg, Gao Hua Securities Research.
+Source: Bloomberg, Gao Hua Securities Research.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Key risks
+1. Fluctuation in government/public spending
+As government and public-related projects accounted for over 40% of total domestic demand
+in 2016, we see fluctuation risks if there are any policy changes at the central government
+level and spending delays at local government level.
+For example, during 2015-2016, demand in government related projects slowed due to
+slowing macro economic growth in China. This led to Hikvision's revenue growth slowing
+down to 47% yoy and 26% yoy in 2015 and 2016, from 60% yoy in 2014. Starting 2H16,
+industry participants have noted a recovery in demand, and this could pose an upside risk to
+our forecasts.
+Competitive intensity
+There are over 1,500 surveillance product providers in China. Although Hikvision's size is
+much larger than the rest, this still not insulate it from pricing competition, especially in the
+relatively low-end, standardized distribution channels.
+ASP for mature surveillance products generally declines at a rate of 6%-7% yoy. However, in
+periods of weaker demand, surveillance product providers tend to cut pricing more
+aggressively in order to protect market share and maintain revenue growth. On the other
+hand, products with technology leadership and limited supply tend to have a high pricing
+premium initially.
+Scale and SOE background set Hikvision apart
+Over the past 16 years, Hikvision has established a strong competitive advantage that sets itself
+part from competitors in both the domestic as well as overseas markets. In China, Hikvision was
 initially able to leverage its SOE background and public sector relationships to supply into high-
-demand sectors such as police and transportation. Then with its product/service experience and 
-expertise, it expanded into enterprise sectors such as financials, property, and energy. In overseas 
-markets, it started out from the distribution channels with high-quality products and competitive pricing, 
-and later entered into solutions service.  
-16 years later, it has grown to the No.1 surveillance company globally. Going forward, we believe 
-Hikvision could leverage its scale advantage to provide advanced high-quality products and 
-services and continue to gain market share worldwide. As we advance into the AI era, scale 
-advantage has gained an incremental aspect of interpretation – data – which is paramount for 
-training deep learning algorithms.  
-Our global AI report (Artificial Intelligence: AI, Machine Learning and Data Fuel the Future of 
-Productivity, dated Nov 14, 2016) identifies four key inputs for profit pool creation as we move 
-towards an AI-centric world: data, talent, infrastructure and silicon; and ranks “large 
-differentiated data sets” as the most likely driver of growth. Hikvision’s large customer base 
-gives it a headstart vs peers on the AI front, in our view. 
-Scale provides competitive advantage 
-Being the largest surveillance provider in the world, Hikvision has scale advantage in terms of its 
-sales force and distribution network, R&D team and spending, economies of scale in SG&A, and 
-pricing power with its suppliers. 
-Hikvision is the world’s largest video surveillance provider, with about 10% global market share in 
-2016. It has 35 offices/branches throughout China, and 28 offices around the world. Leveraging 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-10 
-its large platform, Hikvision enjoys economies of scale in R&D as well as SG&A, and has pricing 
-power with its suppliers. These scale advantages reflect in its above-average gross margin and 
-industry leading net margin among Chinese surveillance companies. As we move towards an 
-AI-centric world, scale advantage has gained an incremental aspect of interpretation – 
-data – which is critical for training deep learning algorithms, in our view. 
-Exhibit 9: Hikvision has above industry average gross 
-margins with a broad product portfolio… 
-Gross margin comparison among domestic surveillance 
-companies (2016) 
- 
-Exhibit 10: … and industry leading net margin from 
-economies of scale in R&D and SG&A 
-Net margin comparison among domestic surveillance companies 
-(2016)  
- 
-Source:  Company data, Bloomberg, Gao Hua Securities Research. 
- 
-Source:  Company data, Bloomberg, Gao Hua Securities Research. 
- 
-1. Sales network 
- 
-As of end 2016, Hikvision had 20,013 employees in total, and 4,061 (20%) of these were 
-from sales. There are in total 661 cities in China as of 2016, which means, on an 
-average, Hikvision has over 6 sales people in every city. Hikvision’s in-house sales force 
-is 1.9X that of Dahua, the number two surveillance provider in China (No. 4 globally 
-according to Asmag), and over 10 times that of Uniview, the number three surveillance 
-provider in China (No.8 globally according to IHS).  
- 
-In addition to its internal sales force, Hikvision has over 10,000 distributors throughout the 
-country, or 15+ per city on average. These deep coverage/channels give Hikvision more 
-muscle to flex when it comes to detecting customer demand and developing new clients, 
-which in turn translates into R&D and product/service improvement. Over the past ten years, 
-Hikvision grew its sales force from 707 in 2009 to 4,061 in 2016 (28% CAGR); going forward, 
-we expect this trend to continue as it expands global presence. 
- 
-In the overseas market, Hikvison has 25 overseas subsidiaries, sales in 150+ countries and 
-regions, and partnership with 140+ distribution partners as of 2016. During the past year, 
-Hikvision opened three new offices in Kazakhstan, Turkey, Columbia; and in 2017, the 
-company plans to continue expanding its overseas presence and focus on the solutions 
-business after success in markets such as Singapore and the US. 
-58%54%52%48%
-43%42%40%39%38%37%
-32%
-27%
-22%22%
-16%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-24%23%23%
-20%
-15%14%
-10% 9%
-6% 5% 4% 2% 2%
--13%
--22%
--25%
--20%
--15%
--10%
--5%
--
-5%
-10%
-15%
-20%
-25%
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-11 
-Exhibit 11: Hikvision significantly higher vs domestic competitors in terms of employee scale 
-Total employees comparison among domestic surveillance companies (2016) 
- 
-Source:  Company data. 
-Exhibit 12: Hikvision’s products and solutions have been adopted in 150+ 
-countries/regions 
-Hikvision’s global operations (2017) 
- 
-Source:  Company data. 
- 
-2. R&D  
- 
-As of 2016, Hikvision had 9,366 engineers in its R&D department (1.8X that of Dahua), 
-accounting for 47% of its total employee strength. Over the past decade, Hikvision grew 
-its R&D team by 16X, with dedicated teams in video image processing, video and audio 
-codec, video content analysis, streaming media network transmission and control, video 
-and audio data storage, cloud computing, big data, deep learning, video structuralization, 
-etc.   
- 
-In terms of R&D spending, Hikvision is ahead of both global and local competitors by 
-consistently allocating 7%-8% of its revenue to technology advancement over the past 
-10 years. Hikvision’s focus and investment in technology has created a high entry barrier 
-for small players in the market (especially in the solutions business), and has given it the 
-advantage of being the first to introduce new products into the market. Leveraging its 
-comprehensive product portfolio from front-end and back-end to control center 
-equipment and software, Hikvision has been able to achieve R&D synergy across 
-different categories and industries. 
-218 
-827 
-523 
-941 
-435 
-620 
-5,321 
-9,366 
-160 
-103 
-170 
-125 
-413 
-1,526 
-15 
-5,704 
-100 
-233 
-228 
-322 
-421 
-392 
-2,158 
-4,061 
-613 
-240 
-1,145 
-589 
-65 
-191 
-665 
-517 
-309 
-130 
-27 
-293 
- -
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
- 10,000
-Dali
-Netposa
-Infinova
-Anjubao
-Jieshun
-Protruly
-Dahua
-Hikvision
-Engineer
-Production
-Sales
-Functional
-Admin
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-12 
- 
-Thanks to relatively lower labor cost in China, Hikvision’s average engineer cost has been 
-well below global peers. On the other hand, when compared with local competitors, 
-Hikvision offers premium salaries to attract the best talent in the domestic market. 
- 
-Starting from 2015, Hikvision introduced a new business model for incubating start-ups 
-within the company, by having its core staff (40%) co-invest with Hikvison (60%) in 
-innovative business projects such as robotics, automotive electronics, etc. In 2016, 
-Hikvision set up two new innovative business entities focusing on uncooled infrared 
-sensor and SSD (solid state drive) storage technology. We believe this investing 
-structure links key employee interest with the company and effectively promotes 
-ownership, thus keeping Hikvision alert in terms of new/emerging trends in technology. 
-Exhibit 13: Hikvision’s R&D team is the largest among 
-different divisions… 
-Hikvision employee composition, 2016 
- 
-Exhibit 14: … and has expanded by over 15X from 2009 to 
-2016 
-Hikvision R&D employee 
- 
-Source:  Company data. 
- 
-Source:  Company data. 
- 
-Exhibit 15: Exhibit 8: Hikvision enjoys the advantage of 
-lower engineer cost in China compared with global peers
-R&D expense per engineer comparison among global 
-surveillance companies 
- 
-Exhibit 16: Among domestic surveillance companies, 
-Hikvision’s average engineer cost is in the mid-range  
-R&D expense per engineer comparison among domestic 
-surveillance companies 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Source:  Company data, Gao Hua Securities Research. 
-Admin, 1%
-Technical, 
-47%
-Sales, 20%
-Functional, 
-3%
-Production, 
-29%
-600 
-1,099 
-1,943 
-3,450 
-4,569 
-5,333 
-7,181 
-9,366 
- -
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
- 10,000
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
- -
- 20
- 40
- 60
- 80
- 100
- 120
- 140
- 160
- 180
-Dahua
-Hikvision
-Geovision
-Mobotix
-AXIS
-Verint
-USD, '000
-2011
-2012
-2013
-2014
-2015
-2016
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-Hikvision
-Dahua
-Netposa Infinova Jieshun
-Anjuba
-Dali
-2011
-2012
-2013
-2014
-2015
-2016
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-13 
-Exhibit 17: Hikvision has much higher R&D spending in 
-absolute amount compared with smaller players 
-China video surveillance companies’ R&D comparison, 2016 
- 
-Exhibit 18: Scale economy translates into mid-range R&D 
-as % of revenue 
-China video surveillance companies’ R&D comparison, 2016  
- 
-Source:  Company data. 
- 
-Source:  Company data. 
-Exhibit 19: Hikvision’s R&D spending is the highest 
-among global players 
-Global video surveillance companies’ R&D spending, 2016 
- 
-Exhibit 20: Hikvision’s R&D as % of revenue is in line with 
-industry average as economies of scale materialize 
-Global video surveillance companies’ R&D%, 2016 
- 
-Source:  Company data, Bloomberg. 
- 
-Source:  Company data, Bloomberg. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-0
-500
-1,000
-1,500
-2,000
-2,500
-3,000
-(Rmb mn)
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-0
-50
-100
-150
-200
-250
-300
-350
-400
-R&D ($mn)
-0%
-2%
-4%
-6%
-8%
-10%
-12%
-14%
-16%
-18%
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-14 
-3. SG&A 
-Hikvision has below industry average SG&A to revenue ratio compared with both domestic 
-as well as overseas peers, thanks to its economies of scale. 
-Exhibit 21: Scale economy is also exhibited in Hikvision’s 
-SG&A as % of revenue vs. smaller domestic players… 
-China video surveillance companies’ SG&A% comparison, 2016 
-H1 
- 
-Exhibit 22: … and even more so with global peers thanks 
-to competitive labor cost in China 
-Global video surveillance companies’ SG&A%, 2016 
- 
-Source:  Company data, Bloomberg. 
- 
-Source:  Company data, Bloomberg. 
-4. Pricing power with suppliers 
-Being the largest surveillance provider in the world with over 70 mn video surveillance 
-product output volume in 2016, Hikvision paid its top five suppliers a total of RMB7bn and its 
-top one supplier RMB3.4bn last year. Such large purchase amounts put Hikvision in a strong 
-position to negotiate favorable pricing with its vendors. Hikvision also sometimes books a 
-supplier’s entire capacity for the next six to twelve months before any of its competitors could 
-get the same product. 
-Exhibit 23: Top 5 suppliers accounted for 33% of 
-Hikvision’s total purchase amount in 2016  
-Hikvision  
- 
-Exhibit 24: Hikvision contributed RMB3.4bn to its biggest 
-supplier’s revenue in 2016 
-(in RMB millions) 
- 
-Source:  Company data. 
- 
-Source:  Company data. 
- 
- 
- 
- 
- 
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-45%
-50%
-0%
-5%
-10%
-15%
-20%
-25%
-30%
-35%
-40%
-18.40%
-5.83%
-3.69%
-2.98%
-2.53%
-66.57%
-Supplier 1
-Supplier 2
-Supplier 3
-Supplier 4
-Supplier 5
-The rest
-3,399 
-1,076 
-683 
-550 
-468 
- -
- 500
- 1,000
- 1,500
- 2,000
- 2,500
- 3,000
- 3,500
- 4,000
-Supplier 1
-Supplier 2
-Supplier 3
-Supplier 4
-Supplier 5
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-15 
-5. Data sets – critical for AI 
-Our global AI report (Artificial Intelligence: AI, Machine Learning and Data Fuel the Future of 
-Productivity, dated Nov 14, 2016) identifies four key inputs for profit pool creation as we move 
-towards an AI-centric world: data, talent, infrastructure and silicon; and ranks “large 
-differentiated data sets” as the most likely driver of growth. Being the largest company in the 
-surveillance industry, Hikvision has an industry leading customer base across seven 
-broad sectors: public security, transportation, civil, judicial, financial, energy, and building. With 
-its broad customer base comes large amounts of data sets — these highly relevant data sets 
-could be used in training Hikvision’s deep learning algorithms with high performance computers 
-using Nvidia GPUs. We note that the more data a training algorithm “learns”, the more intelligent it 
-will become when conducting analysis with live data sets. As Andrew Ng – founder of Coursera 
-and former Chief Scientist at Baidu – puts it: “Deep learning is (almost) always about scale.” 
-SOE background  
-Hikvision was established in 2001 by the No.52 Research Institute of China Electronics 
-Technology Group Corporation (CETC), which is under the State-owned Assets Supervision and 
-Administration Commission (SASAC). CETC is mainly involved in the research, development, and 
-production of large-scale electronic information systems, communication and electronic 
-equipment, software and key components for major national military and civilian applications.  
-Leveraging its SOE background and relationship with the public sector (i.e. public security, 
-transportation, judicial, etc.), Hikvision is in a strong position to provide surveillance solutions to 
-these customers, in our view. We believe the public security (i.e. police force) and transportation 
-segments have the strongest incentive to adopt state-of-the-art surveillance solutions as the 
-outcome could be immediate, i.e. helping the police department catch alleged suspects more 
-efficiently and effectively, and helping the transportation department identify vehicles breaking the 
-law and issue fines. As a result, these government-related projects focus more on technology and 
-delivery rather than pricing, hence we see weaker pricing competition in the solutions business.  
-Exhibit 25: Hikvision corporate structure (March 2017)  
- 
- 
-Source:  Company data. 
- 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-16 
-Core drivers of revenue/earnings growth 
-Revenue drivers 
- 
-Front-end products 
-As of 2016, 50% of Hikvision’s revenues was from front-end products, i.e., cameras, access cards, 
-video intercom and burglary alarm products. Over the past decade, front-end products have been 
-the biggest revenue driver for Hikvision, growing at a CAGR of 126% (2007-2016) and overtaking 
-back-end products as the largest revenue contributor in 2012. Along with technology upgrade 
-from analog to digital and now to AI cameras, Hikvision expanded its market share and 
-consolidated its dominance, supported by high quality products and time-to-market advantage.  
-Front-end AI products: In 2016, Hikvision launched DeepInview camera series based on 
-GPU/VPU and deep learning technology, enabling much more complicated facial, traffic, vehicle 
-recognition and analysis. It is the first and only AI-enabled front-end product in the market. 
-Hikvision also launched Super Defog, Darkfighter+ and DarkfighterX3 camera series in 2016, 
-leading the industry in terms of capturing clearer, cleaner and brighter color images in foggy, 
-starlight and darker environments. Going forward, we expect front-end products to continue to be 
-a big revenue contributor and grow at a CAGR of 18% over 2016-2019E. 
-Exhibit 26: Front-end products contribute to half of 
-Hikvision’s 2016 revenue 
-Hikvision revenue composition, 2016 
- 
-Exhibit 27: We expect the share of control center 
-equipment and new business to increase over time 
-Hikvision revenue composition, 2007-2020E 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Back-end products 
-Revenue from back-end products grew 19% yoy in 2016 and accounted for 16% of Hikvision’s 
-total revenue; these include storage products such as XVR (Hybrid Video Recorder), NVR 
-(Network Video Recorder), CVR (Central Storage Video Recorder), cloud storage system 
-products, SD memory card and SSD (Solid State Disk), as well as some transmission products 
-such as video encoders, video decoders, video optical transceivers, network optical transceivers, 
-and network switches. Revenue growth for back-end products has been relatively slower than 
-front-end products, partly due to the small base of the latter in the earlier years, and partly due to 
-relatively longer depreciable life of back-end products, in our view. 
- 
-Back-end AI products: In 2016, Hikvision launched DeepInmind NVR with embedded deep learning 
-algorithms, enabling more accuracy in facial recognition and analysis. We expect revenue from back-
-Front-end 
-products, 
-50%
-Back-end 
-products, 
-16%
-Control 
-center 
-equipment, 
-12%
-Engineering, 
-5%
-Innovative 
-business, 2%
-Other major 
-business, 
-15%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-2007
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017E
-2018E
-2019E
-Others
-Other major business
-Innovative business
-Engineering
-Control center
-equipment
-Back-end products
-Front-end products
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-17 
-end products to grow at a CAGR of 18% over 2016-2019E, driven by Hikvision’s market share gain, 
-replacement demand, and upgrade to more advanced products. 
-Exhibit 28: We expect revenue growth to remain above 
-15% for the next three years for front-end products… 
-(in RMB mn) 
- 
-Exhibit 29: …as well as for back-end products 
-(in RMB mn) 
- 
-Source: Company data, Gao Hua Securities Research. 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Control center equipment 
-Control center equipment revenue grew 69% yoy to account for 12% of total revenue in 2016. 
-Products include servers, multi-function video center, large screens, controlling keyboards, other 
-controller products and software. 
-Control center AI products: The strong revenue growth was mainly driven by server products 
-with AI capabilities launched in 2015-2016 and big screens. Hikvision launched video structuring 
-server “Falcon” and vehicle image structuring server “Blade” in 2015, both based on GPU and 
-deep learning technology. In 2016, Hikvision launched intelligent traffic product group “Divine 
-Captor” and facial analytics server “Hikface”. Falcon, Blade, and Hikface are all used in the 
-Nanchang Sky Net project. Over the next several years, we expect control center equipment to 
-become the main revenue driver with its AI product suites, as the heaving lifting of data analysis 
-will happen at the server side. We forecast 2016-2019E revenue CAGR of 64%. 
-Exhibit 30: We expect control center equipment to 
-become the main growth driver over the next three years
-(in RMB mn) 
- 
-Exhibit 31: Management expects innovative business 
-revenue to at least double in 2017E 
-(in RMB mn) 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Innovative business 
-46%
-62%
-73%
-47%
-19%21% 18% 15% 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
- -
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
-Front-end products
-Growth yoy
-65%
-40%
-0%
-36%
-9%
-14%13%15%
-24%
-19%21% 18% 15% 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
- -
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
-Back-end products
-Growth yoy
-60%
-44%
-69%
-75% 
-65% 
-54% 
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
- -
- 2,000
- 4,000
- 6,000
- 8,000
- 10,000
- 12,000
- 14,000
- 16,000
- 18,000
- 20,000
-Control center equipment
-Growth yoy
-192%
-99% 
-72% 
-59% 
-0%
-20%
-40%
-60%
-80%
-100%
-120%
-140%
-160%
-180%
-200%
- -
- 500
- 1,000
- 1,500
- 2,000
- 2,500
- 3,000
- 3,500
- 4,000
-Innovative business
-Growth yoy
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-18 
-Revenue from Hikvision’s innovative businesses almost trebled in 2016, although only accounting 
-for 2% of overall revenues. Products are composed of EZVIZ, robotics, and automotive 
-electronics, with the majority being EZVIZ, according to management.  
-B2C 
-EZVIZ is Hikvision’s B2C brand offering products for home security and SME security. It also 
-provides a cloud-based service for monthly subscription. By end 2016, there were over 10mn 
-subscribers on EZVIZ’s cloud platform, and management expects this business to start making 
-profit in 2017E after it achieved break-even in 2016. 
-Robotics 
-Hikvision introduced the 'Qianmo' intelligent warehouse storage system in early 2016 and 
-expanded its business line into robotics including AGV (automatic guided vehicle), intelligent 
-sorting robots and intelligent parking robots. The system aims to enhance current warehouse 
-storage conditions and improve efficiency through automation and Big Data technology. The 
-system is composed of three main parts: Intelligent Warehouse Robot, RCS (Robots Control 
-System) and iWMS (Intelligent Warehouse Management System). 
-Automotive electronics 
-Hikvision sets Mobileye as benchmark for its automotive electronics business in the long run, and 
-has introduced related products such as dashcam, intelligent rearview mirrors, vehicle-mounted 
-monitoring camera and related accessories. Existing customers include domestic EV companies 
-and some JV companies, according to management. 
-We expect Hikvision’s innovative business to grow at a CAGR of 76% over 2016-2019E and 
-gross margin to gradually improve as scale comes up. 
-Exhibit 32: Hikvision’s ‘Qianmo’ logistic robot 
- 
- 
-Exhibit 33: Hikvision’s ‘Qianmo’ warehouse logistic 
-system 
- 
-Source:  Company data. 
- 
-Source:  Company data. 
- 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-19 
-Exhibit 34: Hikvision’s Robots Control System 
- 
- 
-Exhibit 35: Hikvision’s iWMS, Intelligent Warehouse 
-Management System  
- 
-Source:  Company data. 
- 
-Source:  Company data. 
- 
-Earnings drivers 
- 
- 
-COGS 
-2016 is the first year that Hikvsion’s gross margin turned around since 2010. During 2007 to 2015, 
-gross margin declined from 49% to 40%, due to competition and dilution from distribution 
-channels. In 2016, both external and internal factors helped with the margin recovery. Externally, 
-demand picked up from the latter half of the year, and competition became more rational. Small 
-players’ margins have compressed significantly. Internally, Hikvision’s AI products contributed to 
-higher margins, and management added the profit index into the company’s KPI system. Going 
-forward, we expect Hikvision’s gross margin to continue to improve before stabilizing at around 
-42% from 2017E to 2019E vs. 41.6% in 2016.  
- 
- 
-SG&A 
-SG&A as % of revenue declined from 20% in 2007 to 11% in 2013, and stabilized at 11%-12% 
-thereafter. In 2017, Hikvision plans to continue investing in its people with added employees and 
-increasing salary. We expect SG&A as % of revenue to keep stable at 12% from 2017E to 2019E. 
- 
- 
-R&D 
-Hikvision’s R&D as a % of revenues grew from 5% in 2007 to 8% in 2016, indicating 
-management’s increasing focus on technology leadership. Going forward, we expect the level to 
-stay at 8% from 2017E to 2019E. 
- 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-20 
-Exhibit 36: From 2016, Hikvision added profitability 
-measures into management and sales KPI… 
-(in RMB mn) 
- 
-Exhibit 37: … and we expect gross margin to remain 
-stable over the next few years                                                
-(in RMB mn) 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
-Exhibit 38: Hikvision will continue to expand its sales 
-force with growing business size… 
-(in RMB mn)  
- 
-Exhibit 39: … and keep focusing on R&D investment to 
-maintain and enhance its technology leadership 
-(in RMB mn) 
- 
-Source:  Company data. 
- 
-Source:  Company data. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-51%
-49% 48% 48%
-50% 51%
-52%
-56%
-60%
-58% 58% 58% 58%
-40%
-45%
-50%
-55%
-60%
-65%
- ‐
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
- 35,000
- 40,000
- 45,000
- 50,000
-COGS
-COGS as % of revenue
-49%
-51% 52% 52%
-50% 49%
-48%
-44%
-40%
-42% 42% 42% 42%
-30%
-35%
-40%
-45%
-50%
-55%
- ‐
- 5,000
- 10,000
- 15,000
- 20,000
- 25,000
- 30,000
- 35,000
-Gross profit
-Gross margin
-20%
-22%
-14%
-17% 16%
-14%
-11% 12% 11% 12% 12% 12% 12%
-0%
-5%
-10%
-15%
-20%
-25%
- ‐
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
- 7,000
- 8,000
- 9,000
- 10,000
-Selling, General & Admin
-SG&A as % of revenue
-5%
-5%
-7%
-7%
-7%
-8%
-9%
-8%
-7%
-8%
-8%
-8%
-8%
-0%
-1%
-2%
-3%
-4%
-5%
-6%
-7%
-8%
-9%
-10%
- ‐
- 1,000
- 2,000
- 3,000
- 4,000
- 5,000
- 6,000
-Research & Development
-R&D as % of revenue
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-21 
-Financials 
-Income statement 
- 
-From 2008 to 2016, Hikvision grew its revenue by 18X from RMB1,742mn to RMB31,924mn, 
-at a CAGR of 44%, mainly driven by the growth in its front-end product suite, the share of 
-which increased from 7% of overall revenue in 2008 to 50% in 2016. This is mainly driven by 
-the rising penetration of surveillance cameras in China, as well as overseas markets. By 
-2020E, we expect Hikvision’s revenue to reach RMB83.231mn, at a CAGR of 27% form 2016. 
-Front-end products will still be a big driver for this growth with incremental as well as 
-upgrade/replacement demand for cameras. On the other hand, we see control center 
-equipment’s share of revenue to increase from 12% in 2016 to 29% in 2020E as we believe, 
-in the AI era, with growing focus on big data and intelligent analysis of these data sets, the 
-bulk of the computing will be done by servers in the control/data centers. 
- 
-From 2008 to 2016, Hikvision grew its EPS by 12X from RMB0.10 to RMB1.22, or a CAGR of 
-36%. We notice that EPS growth lagged Hikvision’s revenue growth, mainly as a result of 
-declining gross margins, from 51% to 42%. The gross margin pressure was from: (1) market 
-competition, and (2) distribution channel business. By 2020E, we expect Hikvision’s EPS to 
-reach RMB3.14, at a CAGR of 29%, same as the revenue CAGR. The surveillance industry 
-has been going through consolidation with big players such as Hikvision gaining market 
-share on a consistent basis. In 2016, gross margin improved for the first time over the past 
-seven years for Hikvision, and net margin stabilized after three years of decline. On the other 
-hand, we note small players’ profitability level continuing to deteriorate, with some listed 
-companies turning negative in 2016. As a result, we think Hikvision’s gross margin should 
-stabilize/improve going forward, leading to earnings growth catching up with revenue growth. 
-Balance sheet 
- 
-Hikvision has consistently operated at a net cash position over the past decade. As of 2016, 
-its net cash to EBITDA ratio was 1.24X, implying a strong balance sheet.  
- 
-ROE was 34% in 2016, relatively stable since 2010, and we expect it to increase to 40% in 
-2019E with improving asset turn. 
- 
-Cash conversion cycle also improved to 58 days in 2016 from 94 days in 2010, and we 
-expect this to stabilize over the next three years. 
-Cash flow 
- 
-In Sept 2014, Hikvision announced its intent to establish an internet surveillance industry 
-base in Hangzhou for daily business and R&D purposes with the total capex not exceeding 
-RMB1.6bn. As of end 2016, a total of RMB238mn has been invested and the project 
-progress stood at 24%. In Oct 2014, Hikvision announced its plan to build a surveillance 
-industry base in Tonglu in three phases, in which the total investment would not exceed 
-RMB2.2bn. By the end of 2016, around RMB635mn was invested in its phase one project, 
-and RMB2.7mn in phase two. We forecast capex of RMB1,029mn/RMB1,285mn/ 
-RMB1,582mn from 2017E to 2019E, accounting for 2.5%/2.4%/2.3% of total revenue. 
- 
-Hikvision announced a dividend of RMB0.60 per share for financial year 2016, representing a 
-payout ratio of 50%. Although the company does not have an explicit dividend policy, its 
-payout ratio has increased from 29% in 2010 to 50% in 2016, and we forecast 50% payout 
-ratio from 2017E to 2019E. 
- 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-22 
-Exhibit 40: How Hikvision grows its EPS from Rmb0.10 in 2008 to Rmb3.14 in 2020E 
-Hikvision EPS walk  
- 
-Source:  Company data, Gao Hua Securities Research. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-¥0.10
-¥0.36
-¥0.52
-¥0.15
-¥0.05
-¥0.16
-(¥0.45)
-(¥0.20)
-¥0.03
- -
- 0.20
- 0.40
- 0.60
- 0.80
- 1.00
- 1.20
-2008 EPS
-Front-end
-products
-Back-end
-products
-Engineering
-Others
-COGS
-OPEX
-Non-op items
-2012 EPS
-(Rmb)
-Revenue growth
-¥0.36
-¥1.22
-¥2.07
-¥0.40
-¥0.65
-¥0.19
-¥0.11
-¥0.61
-(¥2.45)
-(¥0.78)
-¥0.05
- -
- 0.50
- 1.00
- 1.50
- 2.00
- 2.50
- 3.00
- 3.50
- 4.00
- 4.50
- 5.00
-2012 EPS
-Front-end
-products
-Back-end
-products
-Control
-center
-equipment
-Engineering
-Innovative
-business
-Others
-COGS
-OPEX
-Non-op
-items
-2016 EPS
-(Rmb)
-Revenue growth
-¥1.22
-¥3.14
-¥2.05
-¥0.67
-¥3.25
-(¥0.24)
-¥0.76
-¥1.80
-(¥4.80)
-(¥1.68)
-¥0.11
- -
- 1.00
- 2.00
- 3.00
- 4.00
- 5.00
- 6.00
- 7.00
- 8.00
- 9.00
- 10.00
-2016 EPS
-Front-end
-products
-Back-end
-products
-Control
-center
-equipment
-Engineering
-Innovative
-business
-Others
-COGS
-OPEX
-Non-op
-items
-2020E EPS
-(Rmb)
-Revenue growth
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-23 
-Introducing M&A framework for Hikvision 
-In our report Navigating the noise (6): Introduce M&A framework, update roadmap, dated July 4, 
-2016), we examined stocks in our Asia Pacific technology coverage using our M&A framework — 
-considering impediments that could prevent a transaction from occurring as well as qualitative 
-and quantitative factors — to incorporate the potential that certain companies could be acquired 
-at a premium to current share prices.  
-We then assign a M&A score as a means of ranking companies under coverage from 1 to 4, with 
-1 representing high (30%-50%) probability of M&A activity, 2 representing medium (15%-30%) 
-probability, 3 representing low (10%-15%) probability and 4 representing minimal to no probability 
-(0%-10%). For companies ranked 1 or 2, in line with our standard departmental guidelines we 
-incorporate an M&A component into our target price. 
-Firstly, we look at whether there are any impediments, such as shareholder 
-structure/preferences, industry regulations/government policies, and takeover defense that 
-could prevent a transaction from occurring. We then consider four qualitative factors, including: 
-1) attractiveness of technology, 2) attractiveness of customers, 3) cost synergy potential, 4) 
-other/intangible value; and two quantitative factors, 1) market cap, and 2) valuations. 
-Shareholder structure and potential impediments 
-We gauge whether there are any impediments to M&A, because if there are, a company is 
-unlikely to become an M&A target even if it ranks 1 or 2 on qualitative/quantitative criteria. 
-When assessing potential impediments we take into consideration:  
-(1) major shareholder preferences (we assume that shareholders with a 20% or greater stake 
-have significant influence, or a blocking stake), and take into account: any potential actions by 
-major shareholders in the event of a possible acquisition by a third party (including whether they 
-would likely be receptive, or if they may be opposed to selling), or if they have announced a 
-preference to raise their stake in the company;  
-(2) regulatory and or government policy impediments; and  
-(3) possible takeover defense measures such as a poison pill. 
-We assign a “No” qualification if one or more of the three considerations above are applicable and 
-a “Yes” qualification if these considerations do not apply. 
- 
-Four qualitative assessment criteria 
-1) Technology: We look at whether or not a company has attractive technology capable of 
-generating future value, as well as its technological capabilities and intellectual property rights. 
-We assign a rank of “4” if its technology is unattractive, “3” if it is moderately attractive, “2” if it is 
-attractive and “1” if it is very attractive. 
-2) Customer base: We look at whether or not a company has an attractive customer base and 
-product applications. We also take customer retention and end-market exposure (including sales 
-channels) into account. We assign a rank of “4” if its customer base and product applications are 
-unattractive, “3” if they are moderately attractive, “2” if they are attractive and “1” if they are very 
-attractive. 
-3) Cost synergies: We look at prospects for growth in business scale and scope for profit 
-margin/ yield improvement via acquisition of an M&A target company. We assign a rank of “4” if 
-there is low possibility of synergies, “3” if there is some possibility , “2” if there is high possibility, 
-and “1” if there is very high possibility. 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-24 
-4) Other: We look at whether or not a target company possesses attractive assets, including 
-brand strength, outstanding management/employees, and intangible assets. We assign a rank of 
-“4” if they are unattractive, “3” if they are moderately attractive, “2” if they are attractive, and “1” if 
-they are very attractive. 
-Two quantitative assessment criteria 
-1) Market cap: We rank the companies in four tiers based on the assumption that the smaller a 
-company is, the easier it is to acquire. We also take regional qualities (such as differing market 
-cap ranges between regions) into account. 
-2) Valuation: We look at whether a target company’s three-year average P/E and EV/DACF are 
-below the industry/peer average for the same period, as we believe companies trading at a 
-discount to peers are more likely to be acquired.  
-We assign a rank of “4” if the company appears overvalued relative to its respective industry peer 
-group, “3” if its valuation is in line with the peer average, “2” if its valuation is discounted, and “1” if 
-its valuation is significantly discounted. We take into account differing valuation multiple ranges 
-between the companies depending on their region and their peers. 
-Within this framework, we assign an M&A rank of ‘3’ to Hikvision. 
-This is mainly due to its relatively large market cap of US$33,983mn, SOE background and 
-shareholding structure (40% held by the Zhejiang Haikang Group whose shareholding has been 
-stable over time). We believe the company is more likely to be an acquirer rather than a target.  
- 
- 
- 
-Exhibit 41: We assign an M&A rank of ‘3’ to Hikvision                                                                                                           
-Hikvision M&A score summary 
- 
-Source:  Gao Hua Securities Research. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Company Name
-% of major 
-shareholder
-Shareholders' 
-intention
-No regulatory 
-barrier
-No anti‐
-takeover 
-measure
-Technology
-Customer base
-Cost synergy
-Other 
-intangible asset 
-Market cap
-Valuation 
-unlocking
-Total 
-score
-M&A Rank
-Hangzhou Hikvision
-40%
-No
-Yes
-Yes
-2
-2
-3
-2
-4
-2
-2.5
-3
-Quantitative score (1‐4)
-Qualitative score (1‐4)
-Shareholders’ structure 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-25 
-Appendix 
-AI improving analysis speed and accuracy significantly 
-Hikvision’s Falcon AI server is capable of creating structured data of vehicles and suspects in the 
-event of a security breach, i.e., labeling of the image by vehicle type, vehicle brand, license plate, 
-color of clothes etc. Falcon also helps in searching for images of the alleged suspects over a 
-period of time around a particular area.  
-We note that public sector clients could benefit from Hikvision’s technology with improved speed 
-and accuracy of data analysis. For example, in a recent event of a security breach Hikvision 
-stated that Falcon cut down the time for data analysis significantly (i.e., to a few seconds, 
-according to the company, for video footage from 500 cameras and spanning 250 hours that 
-could have otherwise taken days to analyze). Previously, facial recognition accuracy was 100-200 
-out of 1,000 people; now with deep learning, the accuracy rate has improved to 10 out of 1,000 
-people, according to Hikvision. 
-Exhibit 42: Vehicle detection with traditional algorithm 
- 
- 
-Exhibit 43: Vehicle detection with deep learning algorithm
- 
-Source:  Hikvision Research Institute. 
- 
-Source:  Hikvision Research Institute. 
- 
-Exhibit 44: Vehicle feature accuracy increased by Deep 
-learning 
-Vehicle feature accuracy rate comparison 
- 
-Exhibit 45: Deep learning noticeably improves pedestrian 
-detection recall rate in multiple scenarios              
-Pedestrian detection recall rate, fppi=0.1 
- 
-Source:  Hikvision Research Institute. 
- 
-Source:  Hikvision Research Institute. 
-70%
-75%
-80%
-85%
-90%
-95%
-100%
-Vehicle
-colour
-Brand
-Model
-Sun Blade Safe Belt
-Phone
-Calling
-Traditional algorithm
-Deep-learning
-50%
-55%
-60%
-65%
-70%
-75%
-80%
-85%
-90%
-95%
-100%
-Traditional algorithm
-Deep-learning
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-26 
-Exhibit 46: Deep learning improves face recognition rank 
-in one million enrolled dataset 
-Face recognition rank comparison 
- 
-Exhibit 47: Vehicle image retrieval rate is improved 
-significantly by deep learning as well 
-Vehicle image retrieval rate comparison 
- 
-Source:  Hikvision Research Institute. 
- 
-Source:  Hikvision Research Institute. 
- 
-Exhibit 48: Hikvision Blade server has high performance 
-and low power consumption 
-Performance/Power ratio comparison (2016) 
- 
-Exhibit 49: Deep learning enables multiple video 
-structured description  
- 
-Source:  Hikvision Research Institute. 
- 
-Source:  Hikvision Research Institute. 
- 
- -
- 0.1
- 0.2
- 0.3
- 0.4
- 0.5
- 0.6
- 0.7
- 0.8
- 0.9
- 1.0
-Rank 1
-Rank 10
-Rank 20
-Rank 30
-Rank 40
-Rank 50
-Traditional algorithm
-Deep-learning
- -
- 0.1
- 0.2
- 0.3
- 0.4
- 0.5
- 0.6
- 0.7
- 0.8
- 0.9
- 1.0
-Rank 10
-Rank 25
-Rank 50
-Rank 100
-Traditional
-Deep Learning
-16,000 
-14,000 
-14,000 
-300 
-550 
-8,050 
- -
- 2,000
- 4,000
- 6,000
- 8,000
- 10,000
- 12,000
- 14,000
- 16,000
- 18,000
-Blade
-Tesla M40*2
-General Server
-Performance (Gflops)
-Power (W)
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-27 
-Management shareholding 
-Exhibit 50: Hikvision management shareholding 
-Hikvision management shareholding as reported in 2016 annual report 
- 
-Source:  WIND, Company data. 
-Employee stock ownership plans 
-Exhibit 51: Hikvision employee stock ownership plans 
- 
-Source:  Company data. 
-Name
-Position
-No. of shares 
+demand sectors such as police and transportation. Then with its product/service experience and
+expertise, it expanded into enterprise sectors such as financials, property, and energy. In overseas
+markets, it started out from the distribution channels with high-quality products and competitive pricing,
+and later entered into solutions service.
+16 years later, it has grown to the No.1 surveillance company globally. Going forward, we believe
+Hikvision could leverage its scale advantage to provide advanced high-quality products and
+services and continue to gain market share worldwide. As we advance into the AI era, scale
+advantage has gained an incremental aspect of interpretation – data – which is paramount for
+training deep learning algorithms.
+Our global AI report (Artificial Intelligence: AI, Machine Learning and Data Fuel the Future of
+Productivity, dated Nov 14, 2016) identifies four key inputs for profit pool creation as we move
+towards an Al-centric world: data, talent, infrastructure and silicon; and ranks "large
+differentiated data sets" as the most likely driver of growth. Hikvision's large customer base
+gives it a headstart vs peers on the Al front, in our view.
+Scale provides competitive advantage
+Being the largest surveillance provider in the world, Hikvision has scale advantage in terms of its
+sales force and distribution network, R&D team and spending, economies of scale in SG&A, and
+pricing power with its suppliers.
+Hikvision is the world's largest video surveillance provider, with about 10% global market share in
+2016. It has 35 offices/branches throughout China, and 28 offices around the world. Leveraging
+2017年5月15日
+海康威视 (002415.SZ)
+its large platform, Hikvision enjoys economies of scale in R&D as well as SG&A, and has pricing
+power with its suppliers. These scale advantages reflect in its above-average gross margin and
+industry leading net margin among Chinese surveillance companies. As we move towards an
+Al-centric world, scale advantage has gained an incremental aspect of interpretation –
+data – which is critical for training deep learning algorithms, in our view.
+economies of scale in R&D and SG&A
+Gross margin comparison among domestic surveillance
+Net margin comparison among domestic surveillance companies
+companies (2016)
 (2016)
-As % of total 
-shares (2016)
-Shareholding 
-(Rmb mn)
-Hongjia GONG
-Vice Chairman
-994,500,000
-16.295%
-23679.05
-Yangzhong HU
-CEO
-81,750,651
-1.340%
-1946.48
-Weiqi WU 
-Executive VP
-7,481,926
-0.123%
-178.14
-Haiqing JIANG
-VP
-7,458,588
-0.122%
-177.59
-Zhiping ZHOU
-VP
-4,863,584
-0.080%
-115.80
-Yonghua JIA
-VP
-3,661,163
-0.060%
-87.17
-Pan LI
-VP
-3,593,712
-0.059%
-85.57
-Fanghong HUANG
-VP/Board Secretary
-195,000
-0.003%
-4.64
-Hongli HE
-VP
-129,000
-0.002%
-3.07
-Bojun FU
-VP
-129,000
-0.002%
-3.07
-Yufeng JIANG
-VP
-135,000
-0.002%
-3.21
-Dinguo CAI
-VP
-135,000
-0.002%
-3.21
-Yibo ZHENG
-VP
-135,000
-0.002%
-3.21
-Lirong XU
-VP
-129,000
-0.002%
-3.07
-Company
-Incentive
-Date of 
-announcement
-Date of 
-grant
-Vesting 
-price 
-(restricted 
-stock)
-Number 
-of shares 
-(mn)
-% of total 
-shares at 
-granting
-Number of 
-participants
-Restricted 
-Stock
-2016.12.6
-2016.12.23
-12.63
-53.57
-0.88%
-2990
-Restricted 
-Stock
-2014.9.30
-2014.10.27
-9.25
-52.91
-1.32%
-1128
-Restricted 
-Stock
-2012.7.25
-2012.8.28
-10.65
-8.61
-0.46%
-590
-Exercising conditions at firm level
-First/Second/Third Exercising: ROE for 
-the year before granting year no less 
-than 20%/20%/20%; revenue CAGR 
-between the exercising year and the 
-year before granting no less than 
-35%/30%/26% and no less than the 
-75/75/75 percentile of peer 
-companies'growth rate
-First/Second/Third Exercising: ROE for 
-the year before granting year no less 
-than 15%/16%/17%; revenue CAGR 
-between the exercising year and the 
-year before granting no less than 
-30%/30%/30% and no less than the 
-75/75/75 percentile of peer 
-companies'growth rate
-First/Second/Third Exercising: ROE for 
-the year before granting year no less 
-than 20%/20%/20%; revenue CAGR 
-between the exercising year and the 
-year before granting no less than 
-25%/23%/21% and no less than the 
-75/75/75 percentile of peer 
-companies'growth rate
-Granting conditions at firm level
-ROE for the year before granting year no 
-less than the highest among: 1) 20%; 2) 
-50 percentile of peer companies'growth 
-rate in the year before; 3) 50 percentile 
-of peer companies' average growth rate 
-in the past 3 years;  YoY/3‐yr CAGR for 
-revenue growth for the year before 
-granting year no less than the highest 
-among: 1) 20%; 2) 50 percentile of peer 
-companies'growth rate in the year 
-before; 3) 50 percentile of peer 
-companies' average growth rate in the 
-past 3 years
-ROE for the year before granting year no 
-less than the highest among: 1) 20%; 2) 
-50 percentile of peer companies'growth 
-rate in the year before; 3) 50 percentile 
-of peer companies' average growth rate 
-in the past 3 years;  YoY/3‐yr CAGR for 
-revenue growth for the year before 
-granting year no less than the highest 
-among: 1) 30%; 2) 50 percentile of peer 
-companies'growth rate in the year 
-before; 3) 50 percentile of peer 
-companies' average growth rate in the 
-past 3 years
-ROE for the year before granting year no 
-less than the highest among: 1) 15%; 2) 
-50 percentile of peer companies'growth 
-rate in the year before; 3) 50 percentile 
-of peer companies' average growth rate 
-in the past 3 years;  YoY/3‐yr CAGR for 
-revenue growth for the year before 
-granting year no less than the highest 
-among: 1) 30%; 2) 50 percentile of peer 
-companies' average growth rate in the 
-past 3 years
-Hikvision
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-28 
-信息披露附录 
-申明 
+58% 54% 52% 48%
+Source: Company data, Bloomberg, Gao Hua Securities Research.
+Source: Company data, Bloomberg, Gao Hua Securities Research.
+Sales network
+As of end 2016, Hikvision had 20,013 employees in total, and 4,061 (20%) of these were
+from sales. There are in total 661 cities in China as of 2016, which means, on an
+average, Hikvision has over 6 sales people in every city. Hikvision's in-house sales force
+is 1.9X that of Dahua, the number two surveillance provider in China (No. 4 globally
+according to Asmag), and over 10 times that of Uniview, the number three surveillance
+provider in China (No.8 globally according to IHS).
+In addition to its internal sales force, Hikvision has over 10,000 distributors throughout the
+country, or 15+ per city on average. These deep coverage/channels give Hikvision more
+muscle to flex when it comes to detecting customer demand and developing new clients,
+which in turn translates into R&D and product/service improvement. Over the past ten years,
+Hikvision grew its sales force from 707 in 2009 to 4,061 in 2016 (28% CAGR); going forward,
+we expect this trend to continue as it expands global presence.
+In the overseas market, Hikvison has 25 overseas subsidiaries, sales in 150+ countries and
+regions, and partnership with 140+ distribution partners as of 2016. During the past year,
+Hikvision opened three new offices in Kazakhstan, Turkey, Columbia; and in 2017, the
+company plans to continue expanding its overseas presence and focus on the solutions
+business after success in markets such as Singapore and the US.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Total employees comparison among domestic surveillance companies (2016)
+Source: Company data.
+Hikvision's global operations (2017)
+Source: Company data.
+R&D
+As of 2016, Hikvision had 9,366 engineers in its R&D department (1.8X that of Dahua),
+accounting for 47% of its total employee strength. Over the past decade, Hikvision grew
+its R&D team by 16X, with dedicated teams in video image processing, video and audio
+codec, video content analysis, streaming media network transmission and control, video
+and audio data storage, cloud computing, big data, deep learning, video structuralization,
+etc.
+In terms of R&D spending, Hikvision is ahead of both global and local competitors by
+consistently allocating 7%-8% of its revenue to technology advancement over the past
+10 years. Hikvision's focus and investment in technology has created a high entry barrier
+for small players in the market (especially in the solutions business), and has given it the
+advantage of being the first to introduce new products into the market. Leveraging its
+comprehensive product portfolio from front-end and back-end to control center
+equipment and software, Hikvision has been able to achieve R&D synergy across
+different categories and industries.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Thanks to relatively lower labor cost in China, Hikvision's average engineer cost has been
+well below global peers. On the other hand, when compared with local competitors,
+Hikvision offers premium salaries to attract the best talent in the domestic market.
+Starting from 2015, Hikvision introduced a new business model for incubating start-ups
+within the company, by having its core staff (40%) co-invest with Hikvison (60%) in
+innovative business projects such as robotics, automotive electronics, etc. In 2016,
+Hikvision set up two new innovative business entities focusing on uncooled infrared
+sensor and SSD (solid state drive) storage technology. We believe this investing
+structure links key employee interest with the company and effectively promotes
+ownership, thus keeping Hikvision alert in terms of new/emerging trends in technology.
+Hikvision R&D employee
+Source: Company data.
+Source: Company data.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Exhibit 17: Hikvision has much higher R&D spending in
+Exhibit 18: Scale economy translates into mid-range R&D
+absolute amount compared with smaller players
+as % of revenue
+Source: Company data.
+Source: Company data.
+Exhibit 20: Hikvision's R&D as % of revenue is in line with
+Exhibit 19: Hikvision's R&D spending is the highest
+among global players
+industry average as economies of scale materialize
+Source: Company data, Bloomberg.
+Source: Company data, Bloomberg.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+SG&A
+Hikvision has below industry average SG&A to revenue ratio compared with both domestic
+as well as overseas peers, thanks to its economies of scale.
+to competitive labor cost in China
+Source: Company data, Bloomberg.
+Source: Company data, Bloomberg.
+4. Pricing power with suppliers
+Being the largest surveillance provider in the world with over 70 mn video surveillance
+product output volume in 2016, Hikvision paid its top five suppliers a total of RMB7bn and its
+top one supplier RMB3.4bn last year. Such large purchase amounts put Hikvision in a strong
+position to negotiate favorable pricing with its vendors. Hikvision also sometimes books a
+supplier's entire capacity for the next six to twelve months before any of its competitors could
+get the same product.
+Source: Company data.
+Source: Company data.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Data sets – critical for Al
+Our global AI report (Artificial Intelligence: AI, Machine Learning and Data Fuel the Future of
+Productivity, dated Nov 14, 2016) identifies four key inputs for profit pool creation as we move
+towards an Al-centric world: data, talent, infrastructure and silicon; and ranks "large
+differentiated data sets" as the most likely driver of growth. Being the largest company in the
+surveillance industry, Hikvision has an industry leading customer base across seven
+broad sectors: public security, transportation, civil, judicial, financial, energy, and building. With
+its broad customer base comes large amounts of data sets — these highly relevant data sets
+could be used in training Hikvision's deep learning algorithms with high performance computers
+using Nvidia GPUs. We note that the more data a training algorithm "learns", the more intelligent it
+will become when conducting analysis with live data sets. As Andrew Ng – founder of Coursera
+and former Chief Scientist at Baidu – puts it: "Deep learning is (almost) always about scale."
+SOE background
+Hikvision was established in 2001 by the No.52 Research Institute of China Electronics
+Technology Group Corporation (CETC), which is under the State-owned Assets Supervision and
+production of large-scale electronic information systems, communication and electronic
+equipment, software and key components for major national military and civilian applications.
+Leveraging its SOE background and relationship with the public sector (i.e. public security,
+transportation, judicial, etc.), Hikvision is in a strong position to provide surveillance solutions to
+these customers, in our view. We believe the public security (i.e. police force) and transportation
+segments have the strongest incentive to adopt state-of-the-art surveillance solutions as the
+outcome could be immediate, i.e. helping the police department catch alleged suspects more
+efficiently and effectively, and helping the transportation department identify vehicles breaking the
+law and issue fines. As a result, these government-related projects focus more on technology and
+delivery rather than pricing, hence we see weaker pricing competition in the solutions business.
+Source: Company data.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Core drivers of revenue/earnings growth
+Revenue drivers
+Front-end products
+As of 2016, 50% of Hikvision's revenues was from front-end products, i.e., cameras, access cards,
+video intercom and burglary alarm products. Over the past decade, front-end products have been
+the biggest revenue driver for Hikvision, growing at a CAGR of 126% (2007-2016) and overtaking
+back-end products as the largest revenue contributor in 2012. Along with technology upgrade
+from analog to digital and now to Al cameras, Hikvision expanded its market share and
+consolidated its dominance, supported by high quality products and time-to-market advantage.
+Front-end Al products: In 2016, Hikvision launched Deeplnview camera series based on
+GPU/VPU and deep learning technology, enabling much more complicated facial, traffic, vehicle
+recognition and analysis. It is the first and only Al-enabled front-end product in the market.
+Hikvision also launched Super Defog, Darkfighter+ and DarkfighterX3 camera series in 2016,
+leading the industry in terms of capturing clearer, cleaner and brighter color images in foggy,
+starlight and darker environments. Going forward, we expect front-end products to continue to be
+a big revenue contributor and grow at a CAGR of 18% over 2016-2019E.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Back-end products
+Revenue from back-end products grew 19% yoy in 2016 and accounted for 16% of Hikvision's
+total revenue; these include storage products such as XVR (Hybrid Video Recorder), NVR
+(Network Video Recorder), CVR (Central Storage Video Recorder), cloud storage system
+products, SD memory card and SSD (Solid State Disk), as well as some transmission products
+such as video encoders, video decoders, video optical transceivers, network optical transceivers,
+and network switches. Revenue growth for back-end products has been relatively slower than
+front-end products, partly due to the small base of the latter in the earlier years, and partly due to
+relatively longer depreciable life of back-end products, in our view.
+Back-end Al products: In 2016, Hikvision launched DeepInmind NVR with embedded deep learning
+algorithms, enabling more accuracy in facial recognition and analysis. We expect revenue from back-
+2017年5月15日
+海康威视 (002415.SZ)
+end products to grow at a CAGR of 18% over 2016-2019E, driven by Hikvision's market share gain,
+replacement demand, and upgrade to more advanced products.
+(in RMB mn)
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Control center equipment
+Control center equipment revenue grew 69% yoy to account for 12% of total revenue in 2016.
+Products include servers, multi-function video center, large screens, controlling keyboards, other
+controller products and software.
+Control center Al products: The strong revenue growth was mainly driven by server products
+with AI capabilities launched in 2015-2016 and big screens. Hikvision launched video structuring
+server "Falcon" and vehicle image structuring server "Blade" in 2015, both based on GPU and
+deep learning technology. In 2016, Hikvision launched intelligent traffic product group "Divine
+Captor" and facial analytics server "Hikface". Falcon, Blade, and Hikface are all used in the
+Nanchang Sky Net project. Over the next several years, we expect control center equipment to
+become the main revenue driver with its AI product suites, as the heaving lifting of data analysis
+will happen at the server side. We forecast 2016-2019E revenue CAGR of 64%.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Innovative business
+2017年5月15日
+海康威视 (002415.SZ)
+Revenue from Hikvision's innovative businesses almost trebled in 2016, although only accounting
+for 2% of overall revenues. Products are composed of EZVIZ, robotics, and automotive
+electronics, with the majority being EZVIZ, according to management.
+B2C
+EZVIZ is Hikvision's B2C brand offering products for home security and SME security. It also
+provides a cloud-based service for monthly subscription. By end 2016, there were over 10mn
+subscribers on EZVIZ's cloud platform, and management expects this business to start making
+profit in 2017E after it achieved break-even in 2016.
+Robotics
+Hikvision introduced the 'Qianmo' intelligent warehouse storage system in early 2016 and
+expanded its business line into robotics including AGV (automatic guided vehicle), intelligent
+sorting robots and intelligent parking robots. The system aims to enhance current warehouse
+storage conditions and improve efficiency through automation and Big Data technology. The
+system is composed of three main parts: Intelligent Warehouse Robot, RCS (Robots Control
+System) and iWMS (Intelligent Warehouse Management System).
+Automotive electronics
+Hikvision sets Mobileye as benchmark for its automotive electronics business in the long run, and
+has introduced related products such as dashcam, intelligent rearview mirrors, vehicle-mounted
+monitoring camera and related accessories. Existing customers include domestic EV companies
+and some JV companies, according to management.
+We expect Hikvision's innovative business to grow at a CAGR of 76% over 2016-2019E and
+gross margin to gradually improve as scale comes up.
+Source: Company data.
+Source: Company data.
+2017年5月15日
+海康威视 (002415.SZ)
+Exhibit 35: Hikvision's iWMS, Intelligent Warehouse
+Management System
+Source: Company data.
+Source: Company data.
+Earnings drivers
+COGS
+2016 is the first year that Hikvsion's gross margin turned around since 2010. During 2007 to 2015,
+gross margin declined from 49% to 40%, due to competition and dilution from distribution
+channels. In 2016, both external and internal factors helped with the margin recovery. Externally,
+demand picked up from the latter half of the year, and competition became more rational. Small
+players' margins have compressed significantly. Internally, Hikvision's AI products contributed to
+higher margins, and management added the profit index into the company's KPI system. Going
+forward, we expect Hikvision's gross margin to continue to improve before stabilizing at around
+42% from 2017E to 2019E vs. 41.6% in 2016.
+SG&A
+SG&A as % of revenue declined from 20% in 2007 to 11% in 2013, and stabilized at 11%-12%
+thereafter. In 2017, Hikvision plans to continue investing in its people with added employees and
+increasing salary. We expect SG&A as % of revenue to keep stable at 12% from 2017E to 2019E.
+R&D
+Hikvision's R&D as a % of revenues grew from 5% in 2007 to 8% in 2016, indicating
+management's increasing focus on technology leadership. Going forward, we expect the level to
+stay at 8% from 2017E to 2019E.
+2017年5月15日
+海康威视 (002415.SZ)
+Source: Company data, Gao Hua Securities Research.
+Source: Company data, Gao Hua Securities Research.
+Source: Company data.
+Source: Company data.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Financials
+Income statement
+From 2008 to 2016, Hikvision grew its revenue by 18X from RMB1,742mn to RMB31,924mn,
+at a CAGR of 44%, mainly driven by the growth in its front-end product suite, the share of
+which increased from 7% of overall revenue in 2008 to 50% in 2016. This is mainly driven by
+the rising penetration of surveillance cameras in China, as well as overseas markets. By
+2020E, we expect Hikvision's revenue to reach RMB83.231mn, at a CAGR of 27% form 2016.
+Front-end products will still be a big driver for this growth with incremental as well as
+upgrade/replacement demand for cameras. On the other hand, we see control center
+equipment's share of revenue to increase from 12% in 2016 to 29% in 2020E as we believe,
+in the AI era, with growing focus on big data and intelligent analysis of these data sets, the
+bulk of the computing will be done by servers in the control/data centers.
+From 2008 to 2016, Hikvision grew its EPS by 12X from RMB0.10 to RMB1.22, or a CAGR of
+36%. We notice that EPS growth lagged Hikvision's revenue growth, mainly as a result of
+declining gross margins, from 51% to 42%. The gross margin pressure was from: (1) market
+competition, and (2) distribution channel business. By 2020E, we expect Hikvision's EPS to
+reach RMB3.14, at a CAGR of 29%, same as the revenue CAGR. The surveillance industry
+has been going through consolidation with big players such as Hikvision gaining market
+share on a consistent basis. In 2016, gross margin improved for the first time over the past
+seven years for Hikvision, and net margin stabilized after three years of decline. On the other
+hand, we note small players' profitability level continuing to deteriorate, with some listed
+companies turning negative in 2016. As a result, we think Hikvision's gross margin should
+stabilize/improve going forward, leading to earnings growth catching up with revenue growth.
+Balance sheet
+Hikvision has consistently operated at a net cash position over the past decade. As of 2016,
+its net cash to EBITDA ratio was 1.24X, implying a strong balance sheet.
+ROE was 34% in 2016, relatively stable since 2010, and we expect it to increase to 40% in
+2019E with improving asset turn.
+Cash conversion cycle also improved to 58 days in 2016 from 94 days in 2010, and we
+expect this to stabilize over the next three years.
+Cash flow
+In Sept 2014, Hikvision announced its intent to establish an internet surveillance industry
+base in Hangzhou for daily business and R&D purposes with the total capex not exceeding
+RMB1.6bn. As of end 2016, a total of RMB238mn has been invested and the project
+progress stood at 24%. In Oct 2014, Hikvision announced its plan to build a surveillance
+industry base in Tonglu in three phases, in which the total investment would not exceed
+RMB2.2bn. By the end of 2016, around RMB635mn was invested in its phase one project,
+and RMB2.7mn in phase two. We forecast capex of RMB1,029mn/RMB1,285mn/
+RMB1,582mn from 2017E to 2019E, accounting for 2.5%/2.4%/2.3% of total revenue.
+Hikvision announced a dividend of RMB0.60 per share for financial year 2016, representing a
+payout ratio of 50%. Although the company does not have an explicit dividend policy, its
+payout ratio has increased from 29% in 2010 to 50% in 2016, and we forecast 50% payout
+ratio from 2017E to 2019E.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Source: Company data, Gao Hua Securities Research.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Introducing M&A framework for Hikvision
+In our report Navigating the noise (6): Introduce M&A framework, update roadmap, dated July 4,
+2016), we examined stocks in our Asia Pacific technology coverage using our M&A framework —
+considering impediments that could prevent a transaction from occurring as well as qualitative
+and quantitative factors — to incorporate the potential that certain companies could be acquired
+at a premium to current share prices.
+We then assign a M&A score as a means of ranking companies under coverage from 1 to 4, with
+1 representing high (30%-50%) probability of M&A activity, 2 representing medium (15%-30%)
+probability, 3 representing low (10%-15%) probability and 4 representing minimal to no probability
+(0%-10%). For companies ranked 1 or 2, in line with our standard departmental guidelines we
+incorporate an M&A component into our target price.
+Firstly, we look at whether there are any impediments, such as shareholder
+structure/preferences, industry regulations/government policies, and takeover defense that
+could prevent a transaction from occurring. We then consider four qualitative factors, including:
+1) attractiveness of technology, 2) attractiveness of customers, 3) cost synergy potential, 4)
+other/intangible value; and two quantitative factors, 1) market cap, and 2) valuations.
+Shareholder structure and potential impediments
+We gauge whether there are any impediments to M&A, because if there are, a company is
+unlikely to become an M&A target even if it ranks 1 or 2 on qualitative/quantitative criteria.
+When assessing potential impediments we take into consideration:
+(1) major shareholder preferences (we assume that shareholders with a 20% or greater stake
+have significant influence, or a blocking stake), and take into account: any potential actions by
+major shareholders in the event of a possible acquisition by a third party (including whether they
+would likely be receptive, or if they may be opposed to selling), or if they have announced a
+preference to raise their stake in the company;
+(2) regulatory and or government policy impediments; and
+(3) possible takeover defense measures such as a poison pill.
+We assign a "No" qualification if one or more of the three considerations above are applicable and
+a "Yes" qualification if these considerations do not apply.
+Four qualitative assessment criteria
+Technology: We look at whether or not a company has attractive technology capable of
+generating future value, as well as its technological capabilities and intellectual property rights.
+We assign a rank of "4" if its technology is unattractive, "3" if it is moderately attractive, "2" if it is
+attractive and "1" if it is very attractive.
+2) Customer base: We look at whether or not a company has an attractive customer base and
+product applications. We also take customer retention and end-market exposure (including sales
+channels) into account. We assign a rank of "4" if its customer base and product applications are
+unattractive, "3" if they are moderately attractive, "2" if they are attractive and "1" if they are very
+attractive.
+3) Cost synergies: We look at prospects for growth in business scale and scope for profit
+margin/ yield improvement via acquisition of an M&A target company. We assign a rank of "4" if
+there is low possibility of synergies, "3" if there is some possibility, "2" if there is high possibility,
+and "1" if there is very high possibility.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+4) Other: We look at whether or not a target company possesses attractive assets, including
+brand strength, outstanding management/employees, and intangible assets. We assign a rank of
+"4" if they are unattractive, "3" if they are moderately attractive, "2" if they are attractive, and "1" if
+they are very attractive.
+Two quantitative assessment criteria
+1) Market cap: We rank the companies in four tiers based on the assumption that the smaller a
+company is, the easier it is to acquire. We also take regional qualities (such as differing market
+cap ranges between regions) into account.
+2) Valuation: We look at whether a target company's three-year average P/E and EV/DACF are
+below the industry/peer average for the same period, as we believe companies trading at a
+discount to peers are more likely to be acquired.
+We assign a rank of "4" if the company appears overvalued relative to its respective industry peer
+group, "3" if its valuation is in line with the peer average, "2" if its valuation is discounted, and "1" if
+its valuation is significantly discounted. We take into account differing valuation multiple ranges
+between the companies depending on their region and their peers.
+Within this framework, we assign an M&A rank of '3' to Hikvision.
+This is mainly due to its relatively large market cap of US$33,983mn, SOE background and
+shareholding structure (40% held by the Zhejiang Haikang Group whose shareholding has been
+stable over time). We believe the company is more likely to be an acquirer rather than a target.
+Exhibit 41: We assign an M&A rank of '3' to Hikvision
+Hikvision M&A score summary
+Source: Gao Hua Securities Research.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Appendix
+Al improving analysis speed and accuracy significantly
+Hikvision's Falcon Al server is capable of creating structured data of vehicles and suspects in the
+event of a security breach, i.e., labeling of the image by vehicle type, vehicle brand, license plate,
+color of clothes etc. Falcon also helps in searching for images of the alleged suspects over a
+period of time around a particular area.
+We note that public sector clients could benefit from Hikvision's technology with improved speed
+and accuracy of data analysis. For example, in a recent event of a security breach Hikvision
+stated that Falcon cut down the time for data analysis significantly (i.e., to a few seconds,
+according to the company, for video footage from 500 cameras and spanning 250 hours that
+people, according to Hikvision.
+Source: Hikvision Research Institute.
+Source: Hikvision Research Institute.
+Vehicle feature accuracy rate comparison
+Source: Hikvision Research Institute.
+Source: Hikvision Research Institute.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Exhibit 47: Vehicle image retrieval rate is improved
+significantly by deep learning as well
+Vehicle image retrieval rate comparison
+Face recognition rank comparison
+Source: Hikvision Research Institute.
+Source: Hikvision Research Institute.
+Exhibit 48: Hikvision Blade server has high performance
+Exhibit 49: Deep learning enables multiple video
+and low power consumption
+structured description
+Performance/Power ratio comparison (2016)
+Video structured description
+HIKVISION
+Source: Hikvision Research Institute.
+Source: Hikvision Research Institute.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+Management shareholding
+Exhibit 50: Hikvision management shareholding
+Hikvision management shareholding as reported in 2016 annual report
+Employee stock ownership plans
+Source: Company data.
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
+信息披露附录
 本人，侯雪婷，在此申明，本报告所表述的所有观点准确反映了本人对上述公司或其证券的个人看法。此外，本人薪金的任何部分不曾与，不与，也将不会与
-本报告中的具体推荐意见或观点直接或间接相关。 
-投资摘要 
+本报告中的具体推荐意见或观点直接或间接相关。
+投资摘要
 投资摘要部分通过将一只股票的主要指标与其行业和市场相比较来评价该股的投资环境。所描述的四个主要指标包括增长、回报、估值倍数和波动性。增长、
-回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。  
-每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化，但标准方法如下：  
-增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如CROCI、平均运用资本回报率
-和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据12 个月的历史
-波动性计算并经股息调整。  
-Quantum 
-Quantum 是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比较。  
-GS SUSTAIN 
+回报和估值倍数都是运用数种方法综合计算而成，以确定该股在地区研究行业内所处的百分位排名。
+每项指标的准确计算方式可能随着财务年度、行业和所属地区的不同而有所变化,但标准方法如下:
+增长是下一年预测与当前年度预测的综合比较，如每股盈利、EBITDA 和收入等。 回报是各项资本回报指标一年预测的加总，如 CROCI、平均运用资本回报率
+和净资产回报率。 估值倍数根据一年预期估值比率综合计算，如市盈率、股息收益率、EV/FCF、EV/EBITDA、EV/DACF、市净率。 波动性根据 12 个月的历史
+波动性计算并经股息调整。
+Quantum
+Quantum 是提供具体财务报表数据历史、预测和比率的高盛专有数据库，它可以用于对单一公司的深入分析，或在不同行业和市场的公司之间进行比较。
+GS SUSTAIN
 GS SUSTAIN 是侧重于长期做多建议的相对稳定的全球投资策略。GS SUSTAIN 关注名单涵盖了我们认为相对于全球同业具有持续竞争优势和出色的资本回
 报、因而有望在长期内表现出色的行业领军企业。我们对领军企业的筛选基于对以下三方面的量化分析：现金投资的现金回报、行业地位和管理水平（公司管
-理层对行业面临的环境、社会和企业治理方面管理的有效性）。  
-信息披露 
-相关的股票研究范围 
-侯雪婷：A 股电信与科技、大中华电信与科技。 
-A 股电信与科技：光迅科技、中联通(A)、烽火通信、歌尔股份、海康威视、立讯精密、欧菲光、网宿科技、中兴通讯(A)。 
-大中华电信与科技：中国通信服务、中国移动、中国移动(ADR)、中电信、中电信(ADR)、中联通(H)、中联通(ADS)、华虹半导体、联发科、谱瑞科技、矽力
-杰、中芯国际、中芯国际(ADR)、舜宇光学、台积电、台积电 (ADR)、联电、联电 (ADR)、中兴通讯(H)。 
-与公司有关的法定披露 
-以下信息披露了高盛高华证券有限责任公司（“高盛高华”）与北京高华证券有限责任公司（“高华证券”）投资研究部所研究的并在本研究报告中提及的公司之间
-的关系。 
-没有对下述公司的具体信息披露： 海康威视 (Rmb26.77) 
-公司评级、研究行业及评级和相关定义 
-买入、中性、卖出：分析师建议将评为买入或卖出的股票纳入地区投资名单。一只股票在投资名单中评为买入或卖出由其相对于所属研究行业的总体潜在回报决
+理层对行业面临的环境、社会和企业治理方面管理的有效性）。
+信息披露
+相关的股票研究范围
+侯雪婷: A 股电信与科技、大中华电信与科技。
+A 股电信与科技: 光迅科技、中联通(A)、烽火通信、歌尔股份、海康威视、立讯精密、欧菲光、网宿科技、中兴通讯(A)。
+大中华电信与科技:中国通信服务、中国移动、中国移动(ADR)、中电信、中电信(ADR)、中联通(H)、中联通(ADS)、华虹半导体、联发科、谱瑞科技、矽力
+杰、中芯国际、中芯国际(ADR)、舜宇光学、台积电、台积电 (ADR)、联电、联电 (ADR)、中兴通讯(H)。
+与公司有关的法定披露
+的关系。
+没有对下述公司的具体信息披露： 海康威视 (Rmb26.77)
+公司评级、研究行业及评级和相关定义
 定。任何未获得买入或卖出评级且拥有活跃评级（即不属于暂停评级、暂无评级、暂停研究或没有研究的股票）的股票均被视为中性评级。每个地区投资评估
-委员会根据25-35%的股票评级为买入、10-15%的股票评级为卖出的全球指导原则来管理该地区的投资名单；但是，在某一特定分析师所覆盖行业中买入和卖
 出评级的分布可能根据地区投资评估委员会的决定而有所不同。此外，每个地区投资评估委员会管理着地区强力买入或卖出名单，该名单以总体潜在回报规模
-和/或实现回报的可能性为主要依据确立各自研究范围内的投资建议。将股票加入或移出此类强力买入或卖出名单并不意味着分析师对这些股票的投资评级发生
-了改变。 
-总体潜在回报：代表当前股价低于或高于一定时间范围内预测目标价格的幅度，包括所有已付或预期股息。分析师被要求对研究范围内的所有股票给出目标价
-格。总体潜在回报、目标价格及相关时间范围在每份加入投资名单或重申维持在投资名单的研究报告中都有注明。 
-研究行业及评级：每个行业研究的所有股票名单可登陆http://www.gs.com/research/hedge.html 通过主要分析师、股票和行业进行查询。分析师给出下列评级中
-的其中一项代表其根据行业历史基本面及／或估值对研究对象的投资前景的看法。 具吸引力(A)：未来12 个月内投资前景优于研究范围的历史基本面及／或估
-值。 中性(N)：未来12 个月内投资前景相对研究范围的历史基本面及／或估值持平。 谨慎(C)：未来12 个月内投资前景劣于研究范围的历史基本面及／或估
-值。  
-暂无评级(NR)：在高盛于涉及该公司的一项合并交易或战略性交易中担任咨询顾问时并在某些其他情况下，投资评级和目标价格已经根据高盛的政策予以除去。 
+了改变。
+的其中一项代表其根据行业历史基本面及 / 或估值对研究对象的投资前景的看法。 具吸引力(A): 未来 12 个月内投资前景优于研究范围的历史基本面及 / 或估
+值。 中性(N): 未来 12 个月内投资前景相对研究范围的历史基本面及 / 或估值持平。 谨慎(C): 未来 12 个月内投资前景劣于研究范围的历史基本面及 / 或估
 暂停评级(RS)：由于缺乏足够的基础去确定投资评级或价格目标，或在发表报告方面存在法律、监管或政策的限制，我们已经暂停对这种股票给予投资评级和价
-格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS)：我们已经暂停对该公司的研究。 
-没有研究(NC)：我们没有对该公司进行研究。 不存在或不适用(NA)：此资料不存在或不适用。 无意义(NM)：此资料无意义，因此不包括在报告内。  
-一般披露 
-本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。 
+格目标。此前对这种股票作出的投资评级和价格目标(如有的话)将不再有效，因此投资者不应依赖该等资料。 暂停研究(CS): 我们已经暂停对该公司的研究。
+没有研究(NC): 我们没有对该公司进行研究。 不存在或不适用(NA): 此资料不存在或不适用。 无意义(NM): 此资料无意义, 因此不包括在报告内。
+一般披露
+本报告在中国由高华证券分发。高华证券具备证券投资咨询业务资格。
 本研究报告仅供我们的客户使用。除了与高盛相关的披露，本研究报告是基于我们认为可靠的目前已公开的信息，但我们不保证该信息的准确性和完整性，客
 户也不应该依赖该信息是准确和完整的。报告中的信息、观点、估算和预测均截至报告的发表日，且可能在不事先通知的情况下进行调整。我们会适时地更新
-我们的研究，但各种规定可能会阻止我们这样做。除了一些定期出版的行业报告之外，绝大多数报告是在分析师认为适当的时候不定期地出版。 
 高盛高华为高华证券的关联机构，从事投资银行业务。高华证券、高盛高华及它们的关联机构与本报告中涉及的大部分公司保持着投资银行业务和其它业务关
-系。 
-2017 年5 月15 日 
- 
-海康威视 (002415.SZ) 
- 
-全球投资研究 
-29 
+全球投资研究
+2017年5月15日
+海康威视 (002415.SZ)
 我们的销售人员、交易员和其它专业人员可能会向我们的客户及自营交易部提供与本研究报告中的观点截然相反的口头或书面市场评论或交易策略。我们的资
-产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。 
-本报告中署名的分析师可能已经与包括高华证券销售人员和交易员在内的我们的客户讨论，或在本报告中讨论交易策略，其中提及可能会对本报告讨论的证券
-市场价格产生短期影响的推动因素或事件，该影响在方向上可能与分析师发布的股票目标价格相反。任何此类交易策略都区别于且不影响分析师对于该股的基
-本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。 
-高华证券及其关联机构、高级职员、董事和雇员，不包括股票分析师和信贷分析师，将不时地对本研究报告所涉及的证券或衍生工具持有多头或空头头寸，担
-任上述证券或衍生工具的交易对手，或买卖上述证券或衍生工具。 
-在高盛组织的会议上的第三方演讲嘉宾（包括高华证券或高盛其它部门人员）的观点不一定反映全球投资研究部的观点，也并非高华证券或高盛的正式观点。 
+产管理部门、自营交易部和投资业务部可能会做出与本报告的建议或表达的意见不一致的投资决策。
+本评级，此类评级反映了某只股票相对于报告中描述的研究范围内股票的回报潜力。
+任上述证券或衍生工具的交易对手,或买卖上述证券或衍生工具。
+在高盛组织的会议上的第三方演讲嘉宾（包括高华证券或高盛其它部门人员）的观点不一定反映全球投资研究部的观点，也并非高华证券或高盛的正式观点。
 在任何要约出售股票或征求购买股票要约的行为为非法的地区，本报告不构成该等出售要约或征求购买要约。本报告不构成个人投资建议，也没有考虑到个别
 客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，以及(若有必要)寻求专家的意见，包括税务意见。本报告
-中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失本金。 
+中提及的投资价格和价值以及这些投资带来的收入可能会波动。过去的表现并不代表未来的表现，未来的回报也无法保证，投资者可能会损失本金。
 某些交易，包括牵涉期货、期权和其它衍生工具的交易，有很大的风险，因此并不适合所有投资者。外汇汇率波动有可能对某些投资的价值或价格或来自这一
-投资的收入产生不良影响。 
-投资者可以向高华销售代表取得或通过http://www.theocc.com/about/publications/character-risks.jsp 取得当前的期权披露文件。对于包含多重期权买卖的期权
-策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。  
+投资的收入产生不良影响。
+策略结构产品，例如，期权差价结构产品，其交易成本可能较高。与交易相关的文件将根据要求提供。
 所有研究报告均以电子出版物的形式刊登在高华客户网上并向所有客户同步提供。高华未授权任何第三方整合者转发其研究报告。有关某特定证券的研究报
-告、模型或其它数据，请联络您的销售代表。 
-北京高华证券有限责任公司版权所有 © 2017 年  
-未经北京高华证券有限责任公司事先书面同意，本材料的任何部分均不得(i)以任何方式制作任何形式的拷贝、复印件或复制品，或(ii)再次分发。   
- 
- 
+告、模型或其它数据，请联络您的销售代表。
+全球投资研究

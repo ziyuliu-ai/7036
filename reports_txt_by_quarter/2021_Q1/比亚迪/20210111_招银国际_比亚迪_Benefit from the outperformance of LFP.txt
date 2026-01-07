@@ -1,1669 +1,230 @@
-CMB International Securities | Equity Research | Company Update 
- 
- 
-  
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-MORE REPORTS FROM BLOOMBERG: RESP CMBR <GO> AND http://www.cmbi.com.hk  
- 
-China NEV Sector 
- 
-Jack Bai 
-(852) 3900 0835 
-jackbai@cmbi.com.hk 
- 
-Robin Xiao 
-(852) 3900 0849 
-robinxiao@cmbi.com.hk 
- 
-Stock Data 
-Mkt Cap (HK$ mn) 
-       595,932
-Avg 3 mths t/o (HK$ mn) 
-7,996.01
-52-week high/low 
-234.32/46.58
-Total Issued Shares (mn) 
-915 (H)
- 
-1,813 (A)
-Source: Bloomberg 
- 
-Shareholding Structure 
-Wang Chuanfu 
-18.83% 
-Lv Xiangyang 
-8.77% 
-Bershire Hathaway Energy 
-8.25% 
-Source: Company announcement 
- 
-Share Performance 
-Absolute 
-Relative
-1-mth 
-34.2% 
-20.7%
-3-mth 
-89.0% 
-61.0%
-6-mth 
-155.8% 
-121.3%
-Source: Bloomberg 
- 
-12-mth Price Performance 
-Source: Wind 
- 
-Auditor: Ernst & Young 
- 
-Related Report 
-1. 
-“BYD (002594 CH) – Momentum to 
-maintain with NEV sales” – 6 Nov 2020
-2. 
-“BYD (002594 CH) – Upside 
-remains as bottom-line revised up” 
-– 15 Oct 2020 
-3. 
-BYD (002594 CH) – A shining 
-monthly delivery of model “Han” – 
-8 Sep 2020  
-0
-50
-100
-150
-200
-250
-Jan-20
-Apr-20
-Jul-20
-Oct-20
-002594.SZ
-000300.SH (rebased)
-(RMB)
-BUY (Maintain) 
-Target Price 
-RMB293.2 
-(Previous TP 
-RMB223.8) 
-Up/Downside 
-  +28.9% 
-Current Price 
-RMB227.5 
-1 
-     11 Jan 2021 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-BYD delivered outstanding auto sales in Dec. NEV sales reached 29K with 
-flagship Han EV shipment exceeded 12k units in Dec. NEV sales volume had 
-accounted for 44% of total auto sales in 2020. Looking ahead in 2021E, we still 
-see several positive catalysts for BYD from 1) new DM EV model to boost sales; 
-2) cooperation with DiDi to take the lead in the ride-hailing renewable cycle; 3) 
-power battery capacity expansion to support EV sales; and 4) semiconductor 
-segment spin-off to release business value. We revised up BYD’s TP by 31% to 
-RMB293.2. Reiterate BUY rating.  
- NEV sales speeded up in Dec. BYD announced that total auto sales volume 
-achieved 56K units in Dec, +30% YoY/+4%MoM.In Dec, NEV reached 29K, 
-+120%YoY (NEPV 28K/+157%YoY, NECV 1K/-48%YoY). Delivery of Han 
-continued to climb with a total of 12K units in Dec, up 19.6%MoM. The annual 
-cumulative sales volume was 427K units/-7%YoY, in line with CMBI 
-expectation. 
- China NEV sales growth to accelerate in 2021E. We expect that the sales 
-volume of NEV in China will continue to rise at a high speed in 2021E. Given 
-1) the strong NEV pipeline among all major OEMs; 2) the product recognition 
-from retail consumers; 3) the beginning of the first round of replacement cycle 
-in ride-hailing business; 4) the gradual introduction of LFP version for existing 
-models, we expect the penetration rate of NEV will exceed market 
-expectations. Specifically, we expect the penetration rate of NEV to reach 7% 
-in 2021E, with a corresponding sales volume of 1.92mn units, representing an 
-increase of 57% (1.66mn NEPV/260K NECV). 
- NEV sales volume to increase 99% in 2021E. We estimate BYD’s NEV 
-market share declined to 15% in 2020, due to epidemic impacts and late 
-release of new vehicle model. Starting from 2021, BYD will use a brand new 
-logo and launch several new models including Qin Plus (based on the latest 
-super hybrid DM-i platform), Song Pro DM, etc. We expect those measures 
-will boost its NEV sales. At the to-B end, we expect the cooperation model D1 
-between BYD and DiDi to take lead in the ride-hailing renewable cycle. We 
-estimate D1 to have 66K units shipment in 2021E. As we believe the 
-Company’s NEV sector to maintain strong recovery, we expect BYD's market 
-share in NEPV to continue to rebound to 20%, and that will boost NEV sales 
-volume to 364K units in 2021E, +99%YoY. We think BYD will gradually shift 
-its business focus to NEV from ICE (61% vs 39% in 2021E), and maintain 
-relatively 
-stable 
-ICE 
-vehicle 
-sales 
-at 
-244K 
-units, 
-+3% 
-YoY. 
- 
-Earnings Summary 
-(YE 31 Dec) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Revenue (RMB mn) 
-130,055 
-127,739 
-157,047 
-215,856 
-273,037 
-YoY growth (%) 
-22.79% 
--1.78% 
-22.94% 
-37.45% 
-26.49% 
-Net income (RMB mn) 
-2,780 
-1,614 
-5,256 
-7,659 
-10,719 
-EPS (RMB) 
-0.93 
-0.50 
-1.83 
-2.71 
-3.83 
-YoY growth (%) 
--34% 
--47% 
-268% 
-48% 
-41% 
-Consensus EPS(RMB) 
-N/A 
-N/A 
-1.61 
-1.97 
-2.56 
-P/E (x) 
-          244.19           457.51            124.31              83.92              59.36 
-P/B (x) 
-           11.24            10.93               9.91               8.74                7.49 
-Yield (%) 
-0.10% 
-0.03% 
-0.10% 
-0.14% 
-0.19% 
-ROE (%) 
-5.05% 
-2.88% 
-8.80% 
-11.46% 
-13.93% 
-Net gearing (%) 
-64% 
-79% 
-86% 
-79% 
-72% 
-Source: Company data, Bloomberg, CMBIS estimates 
- 
-BYD (002594 CH) 
-Benefit from the outperformance of LFP 
-11 Jan 2021 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-2 
- 2020E earnings to reach RMB5.3bn. Given the updated sales volume and 
-sales mix, we revised our net profit forecast by +1% to RMB5.3bn in 2020E. 
-At the same time, we expect a more optimistic sales forecast of NEPV in 
-2021E, from 300K units to 364K units. As a result, we raised our 2021E 
-bottom-line by 11% to RMB7.7bn. 
- Strong LFP battery demand boost segment valuation. We revised the 
-2025E P/E multiple for the power battery segment from the previous 25x to 
-35x. We observe a gradual increase in the market share of the LFP battery. 
-The main reasons are from two aspects: 1) driven by a sharp price cut by 
-Tesla, the NEV industry has a strong demand for cost reduction, and domestic 
-NEV players are facing the pressure of continuous cost reduction which lead 
-to increasing LFP battery installation for new EV models; 2) BYD’s blade 
-battery, taking advantage of high volume density, can reduce the cost while 
-making up for the short mile range to a certain extent, which can make up for 
-the shortcoming for traditional LFP’s less power density compared with 
-NCM/NCA. We believe blade battery is expected to become the first choice in 
-the subdivision of LFP. At present, BYD's blade battery is still in the ramp-up 
-period of production capacity while accumulating certain potential demand as 
-state above. We, therefore, raise the valuation multiple of the power battery 
-segment to reflect a more optimistic shipment expectation. We adopted 2025E 
-35x PE (compared with the previous 2025E 25x PE) to get the corresponding 
-valuation of the battery sector at RMB189bn. 
- BYD semiconductor to spin off in 2021E. On 31 Dec 2020, BYD announced 
-that it plans to spin off and list its holding subsidiary, BYD semiconductor. The 
-main products of BYD semiconductor are IGBT modules and 3rd-generation 
-semiconductor products (SiC). At present, BYD is planning to build its own 
-SiC production line, which is expected to be completed in 2021E. In addition, 
-BYD SiC will fully replace IGBT to increase vehicle mileage by about 10% in 
-2023E. We are optimistic about BYD's technology accumulation in the field of 
-vehicle-grade semiconductors. The third-generation semiconductors (GaN 
-and SiC) are very suitable for high voltage devices due to their wide bandgap 
-characteristics. The electronic saturation speed of GaN is high, which is 
-suitable for making microwave devices. It is applied to RF front-end amplifiers 
-of mobile phones, 5G base stations, and microwave radars. The main 
-application areas of SiC focused on by BYD are still in the field of electronic 
-control and charging piles of NEV. At the same time, with the construction of 
-the 5G base station entering the accelerating stage, the demand for small 
-base stations (micro base stations) is gradually released. In the future, 
-equipment suppliers will adopt the design of GaN-on-SiC based on silicon 
-carbide substrate as the power supply module, which can achieve higher 
-power density (to avoid the large amount of heat management hardware 
-required by LDMOS, thus reducing the size of the base station) to meet the 
-high frequency/high power requirements of their base stations. We believe 
-that after the spin-off of BYD semiconductor, it is expected to achieve further 
-independent operation, so as to expand the product matrix to adapt to different 
-downstream needs and open up the valuation space. 
- 
- 
- 
- 
- 
-11 Jan 2021 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
- 
-3 
- Pending to have H-share placement. BYD submitted application materials 
-for issuing additional H-share to CSRC. With reference to listing rules of both 
-the H and A-share market, we think H-share issuance will have the highest 
-funding raising efficiency. Boosted by current thrilling market sentiment, the 
-H-A discount is at a close level. We expect BYD’s new share placement to 
-have a limited pricing discount and dilution impact to EPS, and rapid 
-fundraising will help BYD accelerate power battery capacity expansion to meet 
-surging market demand for blade battery. We think the placement will further 
-enhance BYD’s leading position in the power battery segment and boost the 
-business external shipment pace, which will likely release the segment’s 
-value.  
- Revise valuation; maintain BUY.  We estimate BYD is currently trading at 
-2021E 6.6x NEV P/S, and 30x 2025E power battery P/E according to our 
-SOTP valuation model. We think both sector’s current valuation is far behind 
-corresponding peers. Based on our revised NEV sales outlook and optimistic 
-NEV sales mix in total auto sales volume, we lifted 2021E NEV P/S to 9x, and 
-boost power batter valuation slightly from 25x to 35x then discount back. Our 
-segment valuation for Auto/power battery/semi-conductor business is 
-RMB656.7/189.3/16.0bn. Applying 15% conglomerate discount, we derived 
-BYD’s valuation at RMB799.9bn with TP of RMB293.2 for A-share (HK$300.0 
-for H-share). Maintain BUY rating.  
-11 Jan 2021 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-4 
-Focus chart 
-Figure 1: NEV Sales volume forecast: BYD 
- 
-Source: Company data, CMBIS estimates 
-Figure 2: Bottom-line forecast 
- 
-Source: Company data, CMBIS estimates 
- 
- 
-Figure 3: Monthly sales review: by NEV/ICE 
- 
-Source: Company data 
-Figure 4: BEV vs PHEV 
- 
-Source: Company data 
- 
- 
-Figure 5: Valuation proportion in 2021E 
- 
-Source: Company data, CMBIS estimates 
-Figure 6: Valuation by segment in 2021E 
- 
-Source: Company data, CMBIS estimates 
- 
- 
-11 Jan 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-5 
-Earnings Revision 
-Figure 7: Earnings revision 
-(RMB mn) 
-New 
-Old 
-Change (%) 
-FY20E 
-FY21E 
-FY20E 
-FY21E 
-FY20E 
-FY21E 
-Revenue 
-157,047 
-215,856 
-156,971 
-208,657 
-0% 
-3% 
-Gross profit 
-28,172 
-37,953 
-28,095 
-36,039 
-0% 
-5% 
-Operating profit 
-7,452 
-11,255 
-7,383 
-10,097 
-1% 
-11% 
-Net profit 
-5,256 
-7,659 
-5,210 
-6,884 
-1% 
-11% 
-EPS (RMB) 
-1.83 
-           2.71  
-1.81 
-2.43 
-1% 
-12% 
-GPM 
-17.94% 
-17.58% 
-17.90% 
-17.27% 
-0.0 ppt 
-0.3 ppt 
-OPM 
-4.75% 
-5.21% 
-4.70% 
-4.84% 
-0.0 ppt 
-0.4 ppt 
-NPM 
-3.35% 
-3.55% 
-3.32% 
-3.30% 
-0.0 ppt 
-0.2 ppt 
-Source: CMBIS estimates 
-Figure 8: CMBIS estimates vs consensus 
-(RMB mn) 
-New 
-Consensus 
-Diff (%) 
-FY20E 
-FY21E 
-FY20E 
-FY21E 
-FY20E 
-FY21E 
-Revenue 
-157,047 
-215,856 
-148,041 
-175,338 
-6% 
-23% 
-Gross profit 
-28,172 
-37,953 
-23,981 
-27,177 
-17% 
-40% 
-Operating profit 
-7,452 
-11,255 
-8,991 
-10,170 
--17% 
-11% 
-Net profit 
-5,256 
-7,659 
-3,939 
-4,226 
-33% 
-81% 
-EPS (RMB) 
-1.83 
-   
-2.71  
-1.64 
-   
-1.94  
-12% 
-40% 
-GPM 
-17.94% 
-17.58% 
-16.20% 
-15.50% 
-1.7 ppt 
-2.1 ppt 
-OPM 
-4.75% 
-5.21% 
-6.07% 
-5.80% 
--1.3 ppt 
-0.6 ppt 
-NPM 
-3.35% 
-3.55% 
-2.66% 
-2.41% 
-0.7 ppt 
-1.1 ppt 
- 
-Source: Bloomberg, CMBIS estimates 
-Figure 9: Revenue breakdown 
- 
-(RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Automobiles and Related Products 
-76,007 
-63,266 
-62,230 
-98,095 
-124,374 
-…YoY 
-34% 
--17% 
--2% 
-58% 
-27% 
-Handset Components and Assembly Services 
-42,230 
-53,380 
-81,565 
-101,466 
-117,092 
-…YoY 
-4% 
-26% 
-53% 
-24% 
-15% 
-Rechargeable Batteries and Photovoltaic 
-8,950 
-10,506 
-12,607 
-14,498 
-16,238 
-…YoY 
-2% 
-17% 
-20% 
-15% 
-12% 
-Other business 
-2,868 
-587 
-646 
-807 
-969 
-…YoY 
-5524% 
--80% 
-10% 
-25% 
-20% 
-Total Explicit revenue 
-130,055 
-127,739 
-157,047 
-214,867 
-258,673 
-…YoY 
-23% 
--2% 
-23% 
-37% 
-20% 
-Power battery 
-  
-  
-  
-643 
-13,588 
-…YoY 
-  
-  
-  
-  
-2014% 
-IGBT 
-  
-  
-  
-346 
-776 
-…YoY 
-  
-  
-  
-  
-124% 
-Total 
-130,055 
-127,739 
-157,047 
-215,856 
-273,037 
-…YoY 
-23% 
--2% 
-23% 
-37% 
-26% 
-Source: Company data, CMBIS estimates 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-11 Jan 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-6 
- 
- 
- 
- 
-Figure 10: P&L breakdown 
- 
-(RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Revenue 
-130,055 
-127,739 
-157,047 
-215,856 
-273,037 
-…YoY 
-22.79% 
--1.78% 
-22.94% 
-37.45% 
-26.49% 
-Cost of sales 
-(108,725) 
-(106,924) 
-(128,875) 
-(177,902) 
-(226,001) 
-Gross profit 
-21,330 
-20,814 
-28,172 
-37,953 
-47,036 
-GPM (%) 
-16.40% 
-16.29% 
-17.94% 
-17.58% 
-17.23% 
-…YoY 
-5.91% 
--2.42% 
-35.35% 
-34.72% 
-23.93% 
-  
-  
-  
-  
-  
-  
-Selling Exp 
-(4,729) 
-(4,346) 
-(5,183) 
-(7,339) 
-(9,556) 
-…% of rev 
--3.64% 
--3.40% 
--3.30% 
--3.40% 
--3.50% 
-Admin Exp 
-(4,989) 
-(5,629) 
-(6,282) 
-(8,203) 
-(9,010) 
-…% of rev 
--3.84% 
--4.41% 
--4.00% 
--3.80% 
--3.30% 
-Operating profit 
-4,241 
-2,312 
-7,452 
-11,255 
-15,467 
-OPM (%) 
-3.26% 
-1.81% 
-4.75% 
-5.21% 
-5.66% 
-…YoY 
--21.62% 
--45.48% 
-222.28% 
-51.03% 
-37.42% 
-  
-  
-  
-  
-  
-  
-Net profit 
-2,780 
-1,614 
-5,256 
-7,659 
-10,719 
-NPM (%) 
-2.14% 
-1.26% 
-3.35% 
-3.55% 
-3.93% 
-…YoY 
--31.64% 
--41.93% 
-225.58% 
-45.71% 
-39.96% 
-Source: Company data, CMBIS estimates 
- 
-Figure 11: Valuation comparison vs major NEV players 
-Ticker 
-Major 
-NEV Sales in China 
-Market Cap 
-2021E Sales 
-revenue 
-P/S multiple 
-  
-model 
-Oct 
-Nov 
-Dec 
-2020 
-（US$, mn) 
-（US$, mn) 
-FY21E 
-TSLA US 
-Model 3 
-12,143 
-21,604 
->22,000 
->135,655 
-773,525 
-46,616 
-16.6 
-NIO US 
-ES6, EC6, 
-ES8 
-5,055 
-5,291 
-7,007 
-43,728 
-85,374 
-4,037 
-21.1 
-LI US 
-ONE 
-3,692 
-4,646 
-6,126 
-32,624 
-31,497 
-2,523 
-12.5 
-XPEV US 
-G3, P7 
-3,040 
-4,224 
-5,700 
-27,041 
-35,538 
-1,967 
-18.1 
-N/A 
-EX5, EX6 
-3,003 
-5,291 
-2,588 
-22,495 
-N/A 
-N/A 
-N/A 
-1211 HK/ 002594 CH  
-Han* 
-7,545 
-10,105 
-12,089 
-40,556** 
-69,104* 
-10,153 
-6.6 
-Other EVs 
-15,672 
-16,585 
-16,752 
-149,133 
-Source: Company data, Bloomberg, CMBIS estimates 
-Note:  
-*BYD NEV segment’s market cap and sales estimates are estimated by CMBIS; 
- 
-**BYD Han’s sales data is based on BYD’s disclosure through its official Weibo;  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-11 Jan 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-7 
- 
- 
- 
-Figure 12: Valuation comparison vs major power battery players 
-  
-  
-  
-2021E 
-NEV Company 
-Ticker 
-Market Cap 
-Net profit  
-P/E 
-BVPS 
-P/B 
-P/S 
-  
-  
-(RMB, mn) 
-(RMB, mn) 
-  
-  
-  
-  
-CATL 
-300750 CH 
-942,272  
-7,184  
-131.2  
-27.2  
-14.9  
-13.7  
-BYD' power battery* 
-1211 HK/002594 
-CH 
-162,286  
-N/A 
-N/A 
-N/A 
-N/A 
-N/A 
-EVE Energy 
-300014 CH 
-183,900  
-2,842  
-64.7  
-6.9  
-14.2  
-13.4  
-Guoxuan High-Tech 
-002074 CH 
-55,051  
-435  
-126.6  
-10.2  
-4.2  
-7.2  
-Source: Company data, Bloomberg, CMBIS estimates 
- 
-Figure 13: SOTP valuation summary 
-Business Segment  
-Valuation 
-method 
-Valuation 
-multiple 
-2021E 
-Valuation 
-Implied share price  
-  
-  
-  
-(RMB mn) 
-(RMB) 
-Automobiles and Related products 
-  
-  
-656,716 
-240.7 
-ICE 
-PS 
-0.50 
-13,302 
-4.9 
-NEV 
-PS 
-9.00 
-643,414 
-235.8 
-Handset Components and Assembly Services 
-PE 
-12.00 
-65,517 
-24.0 
-Rechargeable Batteries and Photovoltaic 
-PS 
-0.85 
-12,323 
-4.5 
-Power battery 
-2025E/PE 
-35.00 
-189,338 
-69.4 
-IGBT 
-2025E/PE 
-35.00 
-15,995 
-5.9 
-Cloud rail 
-PS 
-1.50 
-1,211 
-0.4 
-Total valuation 
-  
-  
-941,100 
-345.0 
-  
-  
-  
-  
-  
-Valuation @ conglomerate discount 
-  
-0.85 
-799,935 
-293.2 
-A share TP (RMB) 
-  
-  
-  
-293.2 
-A-H discount (multiple) 
-  
-0.9 
-  
-  
-FX assumption（RMB/HK￥) 
-  
-0.8430 
-  
-  
-H share TP (HK$) 
-  
-  
-  
-300.0 
-Source: Company data, CMBIS estimates 
- 
- 
-11 Jan 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-8 
-Financial Summary 
-Income statement 
- 
- 
- 
- 
-  Cash flow 
-  
- 
- 
- 
- 
-YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E  YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Revenue 
-130,055 127,739 157,047 215,856 273,037  Net income 
-2,780 
-1,614 
-5,256 
-7,659 
-10,719 
-Cost of sales 
-(108,725) (106,924) (128,875) (177,902) (226,001)  D&A 
-9,995 
-9,933 
-10,035 
-12,193 
-14,571 
-Gross profit 
-21,330 
-20,814 
-28,172 
-37,953 
-47,036  Change in working capital 
-(291) 
-3,233 
-4,511 
-9,250 
-(1,677) 
- 
- 
- 
- 
- 
-  Others 
-(543) 
-6,427 
-- 
-- 
-- 
-Taxes and levies 
-(2,146) (1,561) (1,885) (2,590) (3,276)  Net cash from operating 
-12,523 
-14,741 
-11,933 
-12,432 
-29,139 
-S&D exp 
-(4,729) (4,346) (5,183) (7,339) (9,556)  
- 
- 
- 
- 
- 
-R&D exp 
-(3,760) (4,141) (4,523) (6,195) (7,782)  Capex & investments 
-(6,076) (12,040) (12,992) (13,608) (14,961) 
-Admin exp 
-(4,989) (5,629) (6,282) (8,203) (9,010)  Associated companies 
-(496) 
-(499) 
-(406) 
-(447) 
-(491) 
-Finance costs 
-(2,997) (3,014) (3,635) (4,167) (4,020)  Others 
-(7,659) 
-(8,342) 
-(4,539) 
-(5,933) 
-(5,483) 
-Impairment losses 
-(1,020) 
-(636) 
-(792) (1,079) (1,367)  Net cash from investing 
-(14,231) (20,881) (17,937) (19,988) (20,936) 
-Other income 
-2,328 
-1,724 
-2,261 
-3,295 
-3,927  
-Investment income 
-248 
-(809) 
-(550) 
-(324) 
-(273)  Equity raised 
-- 
-- 
-- 
-- 
-- 
-GL from changes in FV 
-(5) 
-10 
-(56) 
-4 
-(39)  Change of  Debts 
-5,076 
-10,535 
-13,569 
-14,835 
-264 
-GL on disposal  
-(19) 
-(100) 
-(76) 
-(100) 
-(172)  Dividend paid 
-(557) 
-(164) 
-(526) 
-(766) 
-(1,072) 
-Operating profit/(loss) 
-4,241 
-2,312 
-7,452 
-11,255 
-15,467  Others 
-(603) 
-(3,761) 
-7,222 
-8,010 
-9,831 
-Non-operating income 
-230 
-226 
-471 
-432 
-491  Net cash from financing 
-3,917 
-6,610 
-8,687 
-9,493 
-(6,359) 
-Non-operating expense 
-(86) 
-(107) 
-(118) 
-(162) 
-(217)  
-Profit before income tax 
-4,385 
-2,431 
-7,806 
-11,525 
-15,741  Net change in cash 
-2,209 
-470 
-2,682 
-1,936 
-1,844 
-Income tax expense 
-(829) 
-(312) (1,152) (1,830) (2,173)  Cash at the beginning 
-9,903 
-13,052 
-12,650 
-15,332 
-17,268 
-Profit for the year 
-3,556 
-2,119 
-6,654 
-9,695 
-13,569  Others 
-941 
-(872) 
-0 
-0 
-0 
-Non-controlling interests 
-776 
-504 
-1,397 
-2,036 
-2,849  Cash at the end 
-13,052 
-12,650 
-15,332 
-17,268 
-19,113 
-NP 
-2,780 
-1,614 
-5,256 
-7,659 
-10,719  Less: pledged cash 
-- 
-- 
-- 
-- 
-- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-Balance sheet 
-  
-  
-  
-  
-  
- Key ratios 
-  
-  
-  
-  
-  
-YE 31 Dec (RMB mn) 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E  YE 31 Dec 
-FY18A 
-FY19A 
-FY20E 
-FY21E 
-FY22E 
-Non-current assets 
-79,361 
-88,675 102,177 116,777 131,273  Sales mix (%) 
-Fixed asset 
-43,679 
-49,443 
-58,001 
-66,220 
-74,742  
-Automobiles 
-58% 
-50% 
-40% 
-45% 
-46% 
-Intangible assets 
-11,314 
-12,650 
-14,840 
-16,943 
-19,123  
-Handset Components 
-32% 
-42% 
-52% 
-47% 
-43% 
-Interest in joint 
-3,561 
-4,060 
-4,466 
-4,913 
-5,404  
-Rechargeable Batteries 
-7% 
-8% 
-8% 
-7% 
-6% 
-Other non-current assets 
-20,807 
-22,521 
-24,870 
-28,701 
-32,004  
-Other business 
-2% 
-0% 
-0% 
-0% 
-0% 
-  
- 
-Power battery 
-0% 
-0% 
-0% 
-0% 
-5% 
-Current assets 
-115,211 106,967 127,246 165,524 191,351  
-IGBT 
-0% 
-0% 
-0% 
-0% 
-0% 
-Cash 
-13,052 
-12,650 
-15,332 
-17,268 
-19,113  Total 
-100% 
-100% 
-100% 
-100% 
-100% 
-Account receivable 
-49,284 
-43,934 
-52,349 
-69,631 
-78,010  
-  
- 
- 
- 
- 
- 
-Inventory 
-26,330 
-25,572 
-31,280 
-42,358 
-50,222  P&L ratios (%) 
- 
- 
- 
- 
- 
-Other current assets 
-26,545 
-24,811 
-28,284 
-36,267 
-44,006  
-Gross profit margin 
-16% 
-16% 
-18% 
-18% 
-17% 
-  
- 
-Pre-tax margin 
-3% 
-2% 
-5% 
-5% 
-6% 
-Current liabilities 
-116,569 108,029 131,064 171,667 195,488  
-Net margin 
-3% 
-2% 
-4% 
-4% 
-5% 
-Borrowings 
-37,789 
-40,332 
-50,307 
-63,819 
-61,979  
-Effective tax rate 
-19% 
-13% 
-15% 
-16% 
-14% 
-Account payables 
-46,283 
-36,168 
-42,958 
-57,388 
-70,625  Balance sheet ratios 
- 
- 
- 
- 
- 
-Other payables 
-13,568 
-11,217 
-13,532 
-18,680 
-23,730  
-Current ratio (x) 
-0.99 
-0.99 
-0.97 
-0.96 
-0.98 
-Tax payables 
-18,930 
-20,311 
-24,266 
-31,781 
-39,153  
-Quick ratio (x) 
-0.59 
-0.59 
-0.57 
-0.55 
-0.53 
-  
- 
-Cash ratio (x) 
-0.11 
-0.12 
-0.12 
-0.10 
-0.10 
-Non-current liabilities 
-17,308 
-25,011 
-29,609 
-32,486 
-36,076  
-Debtors turnover days 
-138 
-126 
-122 
-118 
-104 
-Borrowings 
-13,924 
-21,916 
-25,511 
-26,834 
-28,937  
-Total debt / total equity 
-221% 
-213% 
-234% 
-261% 
-254% 
-Deferred income tax 
-66 
-103 
-92 
-146 
-174  
-Net debt / equity ratio 
-64% 
-79% 
-86% 
-79% 
-72% 
-Provisions 
-- 
-- 
-- 
-- 
--  Returns (%) 
- 
- 
- 
- 
- 
-Others 
-3,317 
-2,992 
-4,006 
-5,506 
-6,965  
-ROE 
-5% 
-3% 
-9% 
-11% 
-14% 
- 
- 
- 
- 
- 
-  
-ROA 
-4% 
-3% 
-5% 
-6% 
-7% 
-Total equity 
-60,694 
-62,601 
-68,750 
-78,147 
-91,061  Per share 
- 
- 
- 
- 
- 
-Minority Interest 
-5,496 
-5,839 
-6,107 
-7,103 
-8,183  
-EPS (RMB) 
-0.93 
-0.50 
-1.83 
-2.71 
-3.83 
-Shareholders' equity 
-55,198 
-56,762 
-62,643 
-71,044 
-82,878 
-DPS (RMB) 
-0.20 
-0.06 
-0.19 
-0.28 
-0.39 
- 
- 
- 
- 
- 
-  
-BVPS (RMB) 
-20.23 
-20.81 
-22.96 
-26.04 
-30.38 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-Source: Company data, CMBIS estimates  
-Note: *All numbers are based on A share financial statement 
- 
-11 Jan 2021 
- 
- 
- 
- 
-PLEASE READ THE ANALYST CERTIFICATION AND IMPORTANT DISCLOSURES ON LAST PAGE 
-9 
-Disclosures & Disclaimers  
-Analyst Certification 
-The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities 
-or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities 
-or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst 
-in this report. 
-Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities 
-and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue 
-of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve 
-as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies 
-covered in this report.  
- 
- 
-CMBIS Ratings 
-BUY 
-: Stock with potential return of over 15% over next 12 months 
-HOLD 
-: Stock with potential return of +15% to -10% over next 12 months 
-SELL 
-: Stock with potential loss of over 10% over next 12 months 
-NOT RATED 
-: Stock is not rated by CMBIS 
- 
-OUTPERFORM                    : Industry expected to outperform the relevant broad market benchmark over next 12 months 
-MARKET-PERFORM            : Industry expected to perform in-line with the relevant broad market benchmark over next 12 months 
-UNDERPERFORM                : Industry expected to underperform the relevant broad market benchmark over next 12 months 
-CMB International Securities Limited 
-Address: 45/F, Champion Tower, 3 Garden Road, Hong Kong, Tel: (852) 3900 0888   Fax: (852) 3900 0800 
- 
- 
-CMB International Securities Limited (“CMBIS”) is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary 
-of China Merchants Bank)  
- 
- 
-Important Disclosures 
-There are risks involved in transacting in any securities.  The information contained in this report may not be suitable for the purposes of all investors.  CMBIS 
-does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position 
-or special requirements.  Past performance has no indication of future performance, and actual events may differ materially from that which is contained in 
-the report.  The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the 
-performance of underlying assets or other variable market factors.  CMBIS recommends that investors should independently evaluate particular investments 
-and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions. 
-This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or 
-its affiliate(s) to whom it is distributed.  This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in 
-securities or enter into any transaction.  Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be 
-liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report.  Anyone 
-making use of the information contained in this report does so entirely at their own risk. 
-The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable. 
-CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the 
-information, advices and forecasts on an "AS IS" basis.  The information and contents are subject to change without notice. CMBIS may issue other 
-publications having information and/ or conclusions different from this report.  These publications reflect different assumption, point-of-view and analytical 
-methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in 
-this report. 
-CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or 
-on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with 
-the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report 
-and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be 
-reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS. 
-Additional information on recommended securities is available upon request. 
- 
- 
-For recipients of this document in the United Kingdom 
-This report has been provided only to persons (I)falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 
-(as amended from time to time)(“The Order”) or (II) are persons falling within Article 49(2) (a) to (d) (“High Net Worth Companies, Unincorporated Associations, 
-etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.  
- 
-For recipients of this document in the United States 
-CMBIS is not a registered broker-dealer in the United States.  As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports 
-and the independence of research analysts.  The research analyst who is primary responsible for the content of this research report is not registered or 
-qualified as a research analyst with the Financial Industry Regulatory Authority (“FINRA”).  The analyst is not subject to applicable restrictions under FINRA 
-Rules intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report 
-is intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of 
-1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report 
-by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing 
-to effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.   
- 
-For recipients of this document in Singapore 
-This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as 
-defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced 
-by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers 
-Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined 
-in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the 
-extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report. 
- 
+CMB International Securities | Equity Research | Company Update
+A Wholly Owned Subsidiary Of China Merchants Bank
+BYD (002594 CH)
+BUY (Maintain)
+Benefit from the outperformance of LFP
+Target Price
+RMB293.2
+(Previous TP
+RMB223.8)
+Up/Downside
++28.9%
+BYD delivered outstanding auto sales in Dec. NEV sales reached 29K with
+Current Price
+RMB227.5
+flagship Han EV shipment exceeded 12k units in Dec. NEV sales volume had
+accounted for 44% of total auto sales in 2020. Looking ahead in 2021E, we still
+see several positive catalysts for BYD from 1) new DM EV model to boost sales;
+China NEV Sector
+2) cooperation with DiDi to take the lead in the ride-hailing renewable cycle; 3)
+power battery capacity expansion to support EV sales; and 4) semiconductor
+Jack Bai
+segment spin-off to release business value. We revised up BYD's TP by 31% to
+RMB293.2. Reiterate BUY rating.
+Robin Xiao
+NEV sales speeded up in Dec. BYD announced that total auto sales volume
+achieved 56K units in Dec, +30% YoY/+4%MoM.In Dec, NEV reached 29K,
++120%YoY (NEPV 28K/+157%YoY, NECV 1K/-48%YoY). Delivery of Han
+continued to climb with a total of 12K units in Dec, up 19.6%MoM. The annual
+Stock Data
+cumulative sales volume was 427K units/-7%YoY, in line with CMBI
+expectation.
+China NEV sales growth to accelerate in 2021E. We expect that the sales
+volume of NEV in China will continue to rise at a high speed in 2021E. Given
+1) the strong NEV pipeline among all major OEMs; 2) the product recognition
+Source: Bloomberg
+from retail consumers; 3) the beginning of the first round of replacement cycle
+in ride-hailing business; 4) the gradual introduction of LFP version for existing
+Shareholding Structure
+models, we expect the penetration rate of NEV will exceed market
+expectations. Specifically, we expect the penetration rate of NEV to reach 7%
+in 2021E, with a corresponding sales volume of 1.92mn units, representing an
+Source: Company announcement
+increase of 57% (1.66mn NEPV/260K NECV).
+Share Performance
+NEV sales volume to increase 99% in 2021E. We estimate BYD's NEV
+market share declined to 15% in 2020, due to epidemic impacts and late
+release of new vehicle model. Starting from 2021, BYD will use a brand new
+logo and launch several new models including Qin Plus (based on the latest
+super hybrid DM-i platform), Song Pro DM, etc. We expect those measures
+Source: Bloomberg
+12-mth Price Performance
+between BYD and DiDi to take lead in the ride-hailing renewable cycle. We
+estimate D1 to have 66K units shipment in 2021E. As we believe the
+Company's NEV sector to maintain strong recovery, we expect BYD's market
+share in NEPV to continue to rebound to 20%, and that will boost NEV sales
+volume to 364K units in 2021E, +99%YoY. We think BYD will gradually shift
+its business focus to NEV from ICE (61% vs 39% in 2021E), and maintain
+ICE vehicle sales at 244K units,
+relatively
+stable
++3%
+YoY.
+Earnings Summary
+Auditor: Ernst & Young
+Related Report
+"BYD (002594 CH) - Momentum to
+"BYD (002594 CH) - Upside
+remains as bottom-line revised up"
+BYD (002594 CH) - A shining
+monthly delivery of model "Han" -
+Source: Company data, Bloomberg, CMBIS estimates
+2020E earnings to reach RMB5.3bn. Given the updated sales volume and
+sales mix, we revised our net profit forecast by +1% to RMB5.3bn in 2020E.
+At the same time, we expect a more optimistic sales forecast of NEPV in
+2021E, from 300K units to 364K units. As a result, we raised our 2021E
+bottom-line by 11% to RMB7.7bn.
+Strong LFP battery demand boost segment valuation. We revised the
+2025E P/E multiple for the power battery segment from the previous 25x to
+35x. We observe a gradual increase in the market share of the LFP battery.
+The main reasons are from two aspects: 1) driven by a sharp price cut by
+Tesla, the NEV industry has a strong demand for cost reduction, and domestic
+NEV players are facing the pressure of continuous cost reduction which lead
+to increasing LFP battery installation for new EV models; 2) BYD's blade
+battery, taking advantage of high volume density, can reduce the cost while
+making up for the short mile range to a certain extent, which can make up for
+the shortcoming for traditional LFP's less power density compared with
+NCM/NCA. We believe blade battery is expected to become the first choice in
+the subdivision of LFP. At present, BYD's blade battery is still in the ramp-up
+period of production capacity while accumulating certain potential demand as
+state above. We, therefore, raise the valuation multiple of the power battery
+segment to reflect a more optimistic shipment expectation. We adopted 2025E
+35x PE (compared with the previous 2025E 25x PE) to get the corresponding
+valuation of the battery sector at RMB189bn.
+■ BYD semiconductor to spin off in 2021E. On 31 Dec 2020, BYD announced
+that it plans to spin off and list its holding subsidiary, BYD semiconductor. The
+main products of BYD semiconductor are IGBT modules and 3rd-generation
+semiconductor products (SiC). At present, BYD is planning to build its own
+SiC production line, which is expected to be completed in 2021E. In addition,
+BYD SiC will fully replace IGBT to increase vehicle mileage by about 10% in
+2023E. We are optimistic about BYD's technology accumulation in the field of
+vehicle-grade semiconductors. The third-generation semiconductors (GaN
+and SiC) are very suitable for high voltage devices due to their wide bandgap
+characteristics. The electronic saturation speed of GaN is high, which is
+suitable for making microwave devices. It is applied to RF front-end amplifiers
+of mobile phones, 5G base stations, and microwave radars. The main
+application areas of SiC focused on by BYD are still in the field of electronic
+control and charging piles of NEV. At the same time, with the construction of
+the 5G base station entering the accelerating stage, the demand for small
+base stations (micro base stations) is gradually released. In the future,
+equipment suppliers will adopt the design of GaN-on-SiC based on silicon
+carbide substrate as the power supply module, which can achieve higher
+power density (to avoid the large amount of heat management hardware
+required by LDMOS, thus reducing the size of the base station) to meet the
+high frequency/high power requirements of their base stations. We believe
+that after the spin-off of BYD semiconductor, it is expected to achieve further
+independent operation, so as to expand the product matrix to adapt to different
+downstream needs and open up the valuation space.
+■ Pending to have H-share placement. BYD submitted application materials
+for issuing additional H-share to CSRC. With reference to listing rules of both
+the H and A-share market, we think H-share issuance will have the highest
+funding raising efficiency. Boosted by current thrilling market sentiment, the
+H-A discount is at a close level. We expect BYD's new share placement to
+have a limited pricing discount and dilution impact to EPS, and rapid
+fundraising will help BYD accelerate power battery capacity expansion to meet
+surging market demand for blade battery. We think the placement will further
+enhance BYD's leading position in the power battery segment and boost the
+business external shipment pace, which will likely release the segment's
+value.
+■ Revise valuation; maintain BUY. We estimate BYD is currently trading at
+2021E 6.6x NEV P/S, and 30x 2025E power battery P/E according to our
+SOTP valuation model. We think both sector's current valuation is far behind
+corresponding peers. Based on our revised NEV sales outlook and optimistic
+NEV sales mix in total auto sales volume, we lifted 2021E NEV P/S to 9x, and
+boost power batter valuation slightly from 25x to 35x then discount back. Our
+segment valuation for Auto/power battery/semi-conductor business is
+RMB656.7/189.3/16.0bn. Applying 15% conglomerate discount, we derived
+for H-share). Maintain BUY rating.
+Focus chart
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Source: Company data
+Source: Company data
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Earnings Revision
+Figure 7: Earnings revision
+Source: CMBIS estimates
+Source: Bloomberg, CMBIS estimates
+Figure 9: Revenue breakdown
+Source: Company data, CMBIS estimates
+Source: Company data, CMBIS estimates
+Figure 11: Valuation comparison vs major NEV players
+Source: Company data, Bloomberg, CMBIS estimates
+Note:
+Source: Company data, CMBIS estimates
+Financial Summary
+Source: Company data, CMBIS estimates
+Note: *All numbers are based on A share financial statement
+Disclosures & Disclaimers
+Analyst Certification
+The research analyst who is primary responsible for the content of this research report, in whole or in part, certifies that with respect to the securities
+or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about the subject securities
+or issuer; and (2) no part of his or her compensation was, is, or will be, directly or indirectly, related to the specific views expressed by that analyst
+in this report.
+Besides, the analyst confirms that neither the analyst nor his/her associates (as defined in the code of conduct issued by The Hong Kong Securities
+and Futures Commission) (1) have dealt in or traded in the stock(s) covered in this research report within 30 calendar days prior to the date of issue
+of this report; (2) will deal in or trade in the stock(s) covered in this research report 3 business days after the date of issue of this report; (3) serve
+as an officer of any of the Hong Kong listed companies covered in this report; and (4) have any financial interests in the Hong Kong listed companies
+covered in this report.
+CMBIS Ratings
+BUY
+: Stock with potential return of over 15% over next 12 months
+HOLD
+: Stock with potential return of +15% to -10% over next 12 months
+SELL
+: Stock with potential loss of over 10% over next 12 months
+NOT RATED
+: Stock is not rated by CMBIS
+OUTPERFORM
+: Industry expected to outperform the relevant broad market benchmark over next 12 months
+MARKET-PERFORM
+: Industry expected to perform in-line with the relevant broad market benchmark over next 12 months
+UNDERPERFORM
+: Industry expected to underperform the relevant broad market benchmark over next 12 months
+CMB International Securities Limited
+CMB International Securities Limited ("CMBIS") is a wholly owned subsidiary of CMB International Capital Corporation Limited (a wholly owned subsidiary
+of China Merchants Bank)
+Important Disclosures
+There are risks involved in transacting in any securities. The information contained in this report may not be suitable for the purposes of all investors. CMBIS
+does not provide individually tailored investment advice. This report has been prepared without regard to the individual investment objectives, financial position
+or special requirements. Past performance has no indication of future performance, and actual events may differ materially from that which is contained in
+the report. The value of, and returns from, any investments are uncertain and are not guaranteed and may fluctuate as a result of their dependence on the
+performance of underlying assets or other variable market factors. CMBIS recommends that investors should independently evaluate particular investments
+and strategies, and encourages investors to consult with a professional financial advisor in order to make their own investment decisions.
+This report or any information contained herein, have been prepared by the CMBIS, solely for the purpose of supplying information to the clients of CMBIS or
+its affiliate(s) to whom it is distributed. This report is not and should not be construed as an offer or solicitation to buy or sell any security or any interest in
+securities or enter into any transaction. Neither CMBIS nor any of its affiliates, shareholders, agents, consultants, directors, officers or employees shall be
+liable for any loss, damage or expense whatsoever, whether direct or consequential, incurred in relying on the information contained in this report. Anyone
+making use of the information contained in this report does so entirely at their own risk.
+The information and contents contained in this report are based on the analyses and interpretations of information believed to be publicly available and reliable.
+CMBIS has exerted every effort in its capacity to ensure, but not to guarantee, their accuracy, completeness, timeliness or correctness. CMBIS provides the
+information, advices and forecasts on an "AS IS" basis. The information and contents are subject to change without notice. CMBIS may issue other
+publications having information and/ or conclusions different from this report. These publications reflect different assumption, point-of-view and analytical
+methods when compiling. CMBIS may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in
+this report.
+CMBIS may have a position, make markets or act as principal or engage in transactions in securities of companies referred to in this report for itself and/or
+on behalf of its clients from time to time. Investors should assume that CMBIS does or seeks to have investment banking or other business relationships with
+the companies in this report. As a result, recipients should be aware that CMBIS may have a conflict of interest that could affect the objectivity of this report
+and CMBIS will not assume any responsibility in respect thereof. This report is for the use of intended recipients only and this publication, may not be
+reproduced, reprinted, sold, redistributed or published in whole or in part for any purpose without prior written consent of CMBIS.
+Additional information on recommended securities is available upon request.
+For recipients of this document in the United Kingdom
+(as amended from time to time) ("The Order") or (II) are persons falling within Article 49(2) (a) to (d) ("High Net Worth Companies, Unincorporated Associations,
+etc.,) of the Order, and may not be provided to any other person without the prior written consent of CMBIS.
+For recipients of this document in the United States
+CMBIS is not a registered broker-dealer in the United States. As a result, CMBIS is not subject to U.S. rules regarding the preparation of research reports
+and the independence of research analysts. The research analyst who is primary responsible for the content of this research report is not registered or
+qualified as a research analyst with the Financial Industry Regulatory Authority ("FINRA"). The analyst is not subject to applicable restrictions under FINRA
+Rules intended to ensure that the analyst is not affected by potential conflicts of interest that could bear upon the reliability of the research report. This report
+is intended for distribution in the United States solely to "major US institutional investors", as defined in Rule 15a-6 under the US, Securities Exchange Act of
+1934, as amended, and may not be furnished to any other person in the United States. Each major US institutional investor that receives a copy of this report
+by its acceptance hereof represents and agrees that it shall not distribute or provide this report to any other person. Any U.S. recipient of this report wishing
+to effect any transaction to buy or sell securities based on the information provided in this report should do so only through a U.S.-registered broker-dealer.
+For recipients of this document in Singapore
+This report is distributed in Singapore by CMBI (Singapore) Pte. Limited (CMBISG) (Company Regn. No. 201731928D), an Exempt Financial Adviser as
+defined in the Financial Advisers Act (Cap. 110) of Singapore and regulated by the Monetary Authority of Singapore. CMBISG may distribute reports produced
+by its respective foreign entities, affiliates or other foreign research houses pursuant to an arrangement under Regulation 32C of the Financial Advisers
+Regulations. Where the report is distributed in Singapore to a person who is not an Accredited Investor, Expert Investor or an Institutional Investor, as defined
+in the Securities and Futures Act (Cap. 289) of Singapore, CMBISG accepts legal responsibility for the contents of the report to such persons only to the
+extent required by law. Singapore recipients should contact CMBISG at +65 6350 4400 for matters arising from, or in connection with the report.

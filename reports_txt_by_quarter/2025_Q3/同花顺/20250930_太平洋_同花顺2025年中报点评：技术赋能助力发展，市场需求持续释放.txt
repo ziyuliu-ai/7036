@@ -1,209 +1,122 @@
- 
-请务必阅读正文之后的免责条款部分 
-守正 出奇 宁静 致远 
-公
-司
-研
-究
- 
-太
-平
-洋
-证
-券
-股
-份
-有
-限
-公
-司
-证
-券
-研
-究
-报
-告
- 
-2025 年09 月29 日 
-公司点评 
-买入/
- 
-维持  
-同花顺(300033) 
-目标价: 
-昨收盘:379.60  
-非银金融 
-同花顺2025 年中报点评：技术赋能助力发展，市场需求持续释放 
-◼ 
-走势比较 
- 
-◼ 
-股票数据 
-总股本/流通(亿股) 
-5.38/2.76 
-总市值/流通(亿元) 
-2,040.73/1,04
-5.82 
-12 个月内最高/最低价
-(元) 
-426.88/171.98 
-相关研究报告 
-<<受益交易回暖，基金销售表现尤为
-突出>>--2020-08-25 
-<<金融信息服务能力持续领先>>--
-2017-03-22 
- 
-证券分析师：夏芈卬 
-电话：010-88695119 
-E-MAIL：xiama@tpyzq.com 
-分析师登记编号：S1190523030003 
-研究助理：王子钦 
-E-MAIL：wangziqin@tpyzq.com 
-一般证券业务登记编号：S1190124010010 
-事件：同花顺发布2025 年半年报。报告期内，公司实现营业收入17.79
-亿元，同比+28.07%；实现归母净利润5.02 亿元，同比+38.29%；ROE（加
-权）为6.77%，同比+1.52pct。 
-市场β 驱动需求，行业增势显著。2025 年上半年，上交所A 股累计
-新开户1,260 万户，与去年同期（949 万户）相比，增长32.79%，证券市
-场活跃度进一步提升。2025 年上半年，我国软件和信息技术服务收入达
-到70,585 亿元，同比增长11.9%，利润总额8,581 亿元，同比增长12.0%。
-受益于资本市场活跃度提升，及AI 技术赋能下金融信息服务业务的强劲
-表现，2025 上半年公司实现营业总收入17.79 亿元，同比增长28.07%，
-环比增长37.83%。其中，25Q2 单季营收达10.31 亿元，归母净利润为3.82
-亿元，表现强劲。业务端：公司2025 年上半年增值电信业务，广告及互
-联网业务推广服务，软件销售及维护营收分别为8.60、6.41、1.11 亿元，
-同比分别+11.85%、+83.20%、+7.66%。其中广告及互联网业务成为公司核
-心增长引擎，为公司收入结构的多元化提供了有力支持。成本端：2025 年
-上半年销售费用、管理费用、财务费用分别为3.35、1.24、-0.72 亿元，
-同比+38.15%、+8.79%、+54.18%，研发费用为5.81 亿元，同比-1.94%。
-财务费用率的下降显示出公司在费用控制方面的努力，在2025 年上半年，
-公司通过优化费用结构和提升运营效率，实现毛利率86.95%和净利率
-28.21%，增长显著。 
-“AI+金融”战略持续深化，C 端增值服务与B 端软件销售协同发展。
-公司围绕人工智能大模型、AIAgent 等关键技术深度攻坚，探索技术在金
-融信息服务领域的创新应用，巩固行业领先地位，持续优化升级问财
-HithinkGPT 大模型，同时建立并开源了大语言模型评估基准
-BizFinBench。截至2025 年6 月30 日，公司已累计获得自主研发的软件
-著作权556 项，发明专利授权127 项（其中美国市场专利28 项），技术优
-势显著。公司主要客户包括证券公司、基金公司、银行等机构，客户集中
-度较高，行业竞争力强。2025 上半年，公司C 端增值电信业务营收8.60
-亿元，同比+11.85%，营收占比达43.33%。B 端软件销售及维护营收1.11
-亿元，同比+7.66%，增速稳健。同时，公司上半年合同负债达23.14 亿元，
-同比+92.45%，为下半年营收保障稳定。随新一轮产业政策促进技术创新
-和产业升级，公司营收有望进一步发展。 
-投资建议：公司前瞻产业布局优势显现，受益于资本市场回暖，有望
-延续增长。预测2025-2027 年营收为55.09、66.03、76.12 亿元，归母净
-利润为25.94、31.89、37.06 亿元，EPS 为4.82、5.93、6.89 元，对应9
-月29 日收盘价的PE 估值为78.69、63.99、55.07 倍。维持“买入”评
-级。 
-风险提示：资本市场大幅波动、证券业务发展不及预期 
- 
- 
- 
-(20%)
-8%
-36%
-64%
-92%
-120%
-24/9/30
-24/12/11
-25/2/21
-25/5/4
-25/7/15
-25/9/25
-同花顺
-沪深300
- 
-请务必阅读正文之后的免责条款部分 
-守正 出奇 宁静 致远 
-公司点评 P2 
-同花顺2025 年中报点评：技术赋能助力发展，市场需求持续释
-放 
-◼ 
-盈利预测和财务指标 
- 
-2024 
-2025E 
-2026E 
-2027E 
-营业收入（百万元） 
-4,186.79 
-5,508.85 
-6,603.08 
-7,611.92 
-营业收入增长率(%) 
-17.47% 
-31.58% 
-19.86% 
-15.28% 
-归母净利（百万元） 
-1,823.27 
-2,593.53 
-3,189.11 
-3,705.70 
-净利润增长率(%) 
-30.00% 
-42.25% 
-22.96% 
-16.20% 
-摊薄每股收益（元） 
-3.39 
-4.82 
-5.93 
-6.89 
-市盈率（PE） 
-84.81 
-78.69 
-63.99 
-55.07 
-资料来源：携宁，太平洋证券，注：摊薄每股收益按最新总股本计算 
- 
-请务必阅读正文之后的免责条款部分 
-守正 出奇 宁静 致远 
-公司点评 P3 
-同花顺2025 年中报点评：技术赋能助力发展，市场需求持续释
-放 
-投资评级说明 
-1、行业评级 
-看好：预计未来6 个月内，行业整体回报高于沪深300 指数5%以上； 
-中性：预计未来6 个月内，行业整体回报介于沪深300 指数-5%与5%之间； 
-看淡：预计未来6 个月内，行业整体回报低于沪深300 指数5%以下。 
-2、公司评级 
-买入：预计未来6 个月内，个股相对沪深300 指数涨幅在15%以上； 
-增持：预计未来6 个月内，个股相对沪深300 指数涨幅介于5%与15%之间； 
-持有：预计未来6 个月内，个股相对沪深300 指数涨幅介于-5%与5%之间； 
-减持：预计未来6 个月内，个股相对沪深300 指数涨幅介于-5%与-15%之间； 
-卖出：预计未来6 个月内，个股相对沪深300 指数涨幅低于-15%以下。 
- 
-太平洋证券股份有限公司 
- 
-云南省昆明市盘龙区北京路926 号同德广场写字楼31 楼 
- 
- 
- 
- 
-研究院 
-中国北京 100044 
-北京市西城区北展北街九号 
-华远·企业号D 座 
-投诉电话： 95397 
-投诉邮箱： kefu@tpyzq.com 
- 
-免责声明 
-太平洋证券股份有限公司（以下简称“我公司”或“太平洋证券”）具备中国证券监督管理委员
-会核准的证券投资咨询业务资格。 
-本报告仅向与太平洋证券签署服务协议的签约客户发布，为太平洋证券签约客户的专属研究产
-品，若您并非太平洋证券签约客户，请取消接收、订阅或使用本报告中的任何信息；太平洋证券不会
-因接收人收到、阅读或关注媒体推送本报告中的内容而视其为太平洋证券的客户。在任何情况下，本
-报告中的信息或所表述的意见并不构成对任何机构和个人的投资建议，投资者应自主作出投资决策并
-自行承担投资风险，任何形式的分享证券投资收益或者分担证券投资损失的书面或口头承诺均为无
-效。 
-本报告信息均来源于公开资料，我公司对这些信息的准确性和完整性不作任何保证。负责准备本
-报告以及撰写本报告的所有研究分析师或工作人员在此保证，本研究报告中关于任何发行商或证券所
-发表的观点均如实反映研究人员的个人观点。报告中的内容和意见仅供参考，并不构成对所述证券买
-卖的出价或询价。我公司及其雇员对使用本报告及其内容所引发的任何直接或间接损失概不负责。我
-公司或关联机构可能会持有报告中所提到的公司所发行的证券头寸并进行交易，还可能为这些公司提
-供或争取提供投资银行业务服务。本报告版权归太平洋证券股份有限公司所有，未经书面许可任何机 
-构和个人不得以任何形式翻版、复制、刊登。任何人使用本报告，视为同意以上声明。 
- 
+a-"E-" a-"E-" a-"" a-"" a-"" a-"" a-"" a
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+n." – ""
+· 『上電子』『正記』
+· ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+ë.Pinenënënënënënënënënënënënënënënënënënën
+" " " " " " " " " " " " " " " " " " "
+事事に『『記事では「
+”——『here”———————————————————————————————————
+”——R
+”上零台。“in a lu nu lu nu lu nu nu nu nu nu nu nu nu nu nu nu nu nu
+· Bille Tille në në në në në në në në në në në në në
+事事。『in la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la
+a”⊩a”−a”⊩a”−a”⊩a”−a”⊩a”−a”⊩a”−a”⊢a”i—a”⊢a”i—a”⊢a”i—a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a”⊢a
+音・『・『・『・『・『・『・『に『に『に『
+- 『arika na na na na na na na na na na na na na
+『『『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記事で記
+『headle nike aline nike nike nike nike nike nike nike n
+『『『『『『『『『『『『『『『『『『『
+· 『上電子』『上電子』『上電子』
+音響・電子 a/iP = The Air li aPin in in in in in in in in in in in in i
+”——8-in—18-e”——8-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-in—18-
+ille
+で、『上電子』『正では『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上
+工。
+1. The strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the strain and the
+i.l.
+事事。『inea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea lawedinea
+· Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Page 1. Pag
+- "" a"" - "" a"" - "" a"" - "" a"" a
+a.""
+音・『上電子 nine line nine nine nine nine nine nine
+”『inal Parine
+。『旧『旧『旧『旧『旧『旧『旧『旧『にのにりにりにりにりにりにりにりにりにり
+『記事で記載を記事で記載を記事で記載を記事で記載を記事で記載を記事で記載を記事で記載を記事で記載を記載を記載を記載を記載を記載を記載を記載を記載を記載を
+a.""
+”『上『春』『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『『
+音楽号・『正皇『正皇『正皇『正皇『正皇『正皇『正皇『正皇『正皇『正皇
+・『・『・『上間『上間『上間『上間『上間『上間
+『『『『『『『『『『『『『『『『『『『
+『『『上『上『上『上『上『上『上『上『上
+音楽であった。『正学 arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arike arik
+『上電子
+” “arile” afin [arile” afin [arile” afin [arile” afin [arile” afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin [arile”] afin
+· lina ninapin alina nina pin alina nina pin alina nina nina nina nina nina nina n
+『『『記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事で記事で記事である。「記事で記事で記事で記事で記事で記事である。」「記事で記事で記事で記事で記事である。」「記事で記事で記事で記事である。」「記事で記事である。」「記事で記事である。
+· Pa n n n n n n n n n n n n n n n n n n
+『上電子記録を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を記述を
+号 neinenelenenenenenenenenenenenenenenenen
+。『旧事で記載を記載を記載を記載を記載を記載を記載を記載を記載します。『記載記載を記載を記載を記載を記載を記載されます。
+” ——”“in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in” a”in”
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+a The The The The The The The The The The
+。『hardia a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe a Tibe
+事事。『正十二年』『正十二年』『正十二年』『正十二年』
+「『『上『上『上『上『上『上『上『上『上
+· 『上市学『上市学『上市学『上市学
+『・『上『上『上『上『上『上『上『上『上
+音響・電子車等。Pin Pin Pin Pin Pin Pin Pin Pin Pin Pin
+· 『上電子』『上電子』
+『『記事で記事で記事で記事で記事で記事で記事である。『記事で記事で記事で記事で記事で記事で記事で記事で記事で記事である。『『記事で記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事であ
+『『『記事で記事で記事で記事である。『記事で記事である。『記事で記事である。『記事で記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。『記事である。
+『『記『記『記『記『記『記『記『記『記『
+月
+- The line line line line line line line lin
+a Pie Pie Pie Pie Pie Pie Pie Pie Pie Pie
+『『『記事で記事であります。『『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『記事であります。『
+inelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelapinelap
+· ""
+· Papa a Thi Rain a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin a Pin
+e l'i-l'i-l'i-l'i-l'i-l'i-l'i-l'i-l'i-l'i-
+·官业
+e”E⊸?₽1°E”E
+· III。『in la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir la nir
+『・『・『上『上『上『上『上『上『上『上
+『上電子』『正で記録のでは、では、では、では、では、では、では、では、では、では、
+· 『
+『・『・『・『上『ト『ト『ト『ト『ト『ト『ト『ト『ト
+音いでは、『in la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni la ni
+『・『・『・『・『に『に『に『に『に『に
+『上帝母語・『中華』『中華』『中華』『中華』『中華』『中華』
+『福子』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』『記事記』
+· Pa · Pa · Pa · Pa · Pa · Pa · Pa · Pa
+a Tie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafie Rafi
+i „B
+”『Para”『『hera”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『Para”『
+-i-li--
+- "I"- "E"- "E"- "E"- "E"- "E"- "E"- "E"
+in."E" – ""
+a.""
+· "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E" - "E"
+。『正『上『上『上『上『上『上『上『上『上
+。『上電子記録『上電子記録
+事事。『inariamana” nariamana” nariamana” nariamanananananananananananananananananana
+音楽号・『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『上電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』『一電子』
+事。『中間·『中間·『中間·『中間·『中間·『中間·『中間·『中間·
+，于是一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个一个
+| 国際の表現の表現の表現の表現の表現の表現の表現の表現の表現の表現の表現の表現の表現の
+a The The The The The The The The The The
+表情を表現。『中間 nu nu nu nu nu nu nu nu nu nu nu nu nu
+a.""
+電車。電車。ででは、では、では、では、では、では、では、では、では、では
+n arin a na arin an arin an arin arin ar
+事。『正記』『正記』『正記』『正記』『正記』
+電子 a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire a Tire
+n. Tarinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin arinin
+事事。『正十二年』『正十二年』
+aTile Tile Tile Tile Tile Tile Tile Tile
