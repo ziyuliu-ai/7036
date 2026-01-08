@@ -47,7 +47,7 @@ def fetch_jsonp_data(page_no=1):
     :param page_no: Page number
     :return: Parsed data dictionary
     """
-    # 计算日期
+    # calculate date range
     today = datetime.today()
     end_time = today.strftime('%Y-%m-%d')
     begin_time = (today - timedelta(days=365*YEARS_AGO)).strftime('%Y-%m-%d')
