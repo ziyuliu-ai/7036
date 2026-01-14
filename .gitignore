@@ -6,3 +6,7 @@ reports_txt_by_quarter_cleaned_done/
 reports_txt_by_quarter_cleaned/
 reports_txt/
 reports_txt_by_quarter/
+train.csv
+train_timeseries.csv
+finbert_timeseries/
+finbert_finetuned/

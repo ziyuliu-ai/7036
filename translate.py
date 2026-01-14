@@ -86,32 +86,6 @@ def batch_translate(input_dir: str, output_dir: str, merge_lines: int = 3, batch
         # Wrap all paragraphs in a Dataset for batch processing
         dataset = Dataset.from_dict({"text": paragraphs})
 
-        # Batch translation function
-        def translate_batch(batch):
-            texts = batch["text"]
-            # Mark empty lines to preserve them as-is
-            mask_empty = [not t.strip() for t in texts]
-            to_translate = [t[:max_length] if t else "" for t in texts]
-
-            # Translate non-empty texts
-            try:
-                results = translator(
-                    to_translate,
-                    batch_size=batch_size,
-                    truncation=True,      # Let tokenizer truncate to avoid length errors
-                    max_length=max_length # Control generation length
-                )
-                translated = [remove_chinese(r["translation_text"]) if r and "translation_text" in r else "" for r in results]
-            except Exception as e:
-                print(f"Batch translation failed: {e}")
-                translated = to_translate  # Keep original text on error
-
-            # Restore empty lines to empty strings
-            for i, is_empty in enumerate(mask_empty):
-                if is_empty:
-                    translated[i] = ""
-
-            return {"translation": translated}
 
         # Apply batch translation (true batched processing)
         dataset = dataset.map(translate_batch, batched=True, batch_size=batch_size)
@@ -123,6 +97,32 @@ def batch_translate(input_dir: str, output_dir: str, merge_lines: int = 3, batch
 
     print("All translations complete!")
 
+    # Batch translation function
+    def translate_batch(batch):
+        texts = batch["text"]
+        # Mark empty lines to preserve them as-is
+        mask_empty = [not t.strip() for t in texts]
+        to_translate = [t[:max_length] if t else "" for t in texts]
+
+        # Translate non-empty texts
+        try:
+            results = translator(
+                to_translate,
+                batch_size=batch_size,
+                truncation=True,      # Let tokenizer truncate to avoid length errors
+                max_length=max_length # Control generation length
+            )
+            translated = [remove_chinese(r["translation_text"]) if r and "translation_text" in r else "" for r in results]
+        except Exception as e:
+            print(f"Batch translation failed: {e}")
+            translated = to_translate  # Keep original text on error
+
+        # Restore empty lines to empty strings
+        for i, is_empty in enumerate(mask_empty):
+            if is_empty:
+                translated[i] = ""
+
+            return {"translation": translated}
 
 if __name__ == "__main__":
     # Directory containing cleaned Chinese research reports

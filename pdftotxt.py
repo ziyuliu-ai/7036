@@ -1,7 +1,7 @@
 import os
 import re
 
-import fitz  # PyMuPDF
+import fitz 
 from PIL import Image
 
 from surya.foundation import FoundationPredictor
@@ -24,7 +24,7 @@ layout_predictor = LayoutPredictor(
 )
 
 # =========================
-# 2. PDF rendering (PyMuPDF)
+# 2. PDF rendering
 # =========================
 
 def pdf_to_images_fast(pdf_path, dpi=150):
@@ -195,7 +195,7 @@ def clean_text_strict(text: str):
     if is_fragment(text): return None
     if is_meta_info(text): return None
     if is_short_fragment(text): return None
-    return False
+    return text
 
 # =========================
 # 7. Full PDF processing (page OCR → Layout → blank + table + cleaning)
