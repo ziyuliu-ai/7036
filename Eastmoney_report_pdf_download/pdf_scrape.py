@@ -21,8 +21,10 @@ BASE_URL = "https://reportapi.eastmoney.com/report/list"
 DETAIL_BASE_URL = "https://data.eastmoney.com/report/info/"
 
 # Read settings from `config.json` (stock code can be set dynamically)
-with open('config.json', 'r', encoding='utf-8') as f:
+config_path = os.path.join(os.path.dirname(__file__), 'config.json')
+with open(config_path, 'r', encoding='utf-8') as f:
     config = json.load(f)
+
 # STOCK_CODE = config.get('stock_code', '600519')
 MIN_PAGES = config.get('min_pages', 2)
 DOWNLOAD_DIR = config.get('download_dir', "reports_pdf")
@@ -373,11 +375,14 @@ def process_all_reports():
             sleep(1)
 
 
-if __name__ == "__main__":
+
+def main():
     start_time = time.time()
 
-    # 1. read HS300 stock list
-    df = pd.read_csv('HS300.csv', dtype=str)
+    base_dir = os.path.dirname(__file__)
+    csv_path = os.path.join(base_dir, "HS300.csv")
+
+    df = pd.read_csv(csv_path, dtype=str)
     code_list = list(df['股票代码'])
     name_lst = list(df['股票简称'])
     stock_list = list(zip(code_list, name_lst))
@@ -389,10 +394,13 @@ if __name__ == "__main__":
         print(f"==============================")
 
         set_stock_code(code)
-        process_all_reports()  
+        process_all_reports()
 
         print(f"finish {code} {name} downloading\n")
         time.sleep(1)  # delay between stocks
 
     end_time = time.time()
-    print(f"\n download finished in: {end_time - start_time:.2f}seconds")
+    print(f"\n download finished in: {end_time - start_time:.2f} seconds")
+
+if __name__ == "__main__":
+    main()

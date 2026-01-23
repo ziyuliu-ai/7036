@@ -345,8 +345,11 @@ def batch_convert(pdf_dir: str, txt_dir: str):
             f.write(text)
 
     print("All conversions complete!")
-
-if __name__ == "__main__":
+    
+def main():
     pdf_root = r"Eastmoney_report_pdf_download\reports_pdf"
     txt_root = r"reports_txt"
     batch_convert(pdf_root, txt_root)
+
+if __name__ == "__main__":
+    main()

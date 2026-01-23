@@ -230,7 +230,7 @@ def clean_file(input_path, output_path):
         for label, line in zip(labels, lines):
             out_f.write(f"{label}\t{line}\n")
 
-    print("File cleaned!")
+    print("File labeled!")
 # ============================================================
 # 3. Main program
 # ============================================================
