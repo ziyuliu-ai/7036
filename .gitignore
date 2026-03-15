@@ -28,6 +28,8 @@ report_label_errors.txt
 
 # Raw PDF / report downloads
 Eastmoney_report_pdf_download/
+# But keep the scraping script
+!Eastmoney_report_pdf_download/pdf_scrape.py
 
 # Converted text / markdown reports
 pdf2md/
