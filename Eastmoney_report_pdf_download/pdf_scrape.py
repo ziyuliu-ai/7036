@@ -20,15 +20,9 @@ def set_stock_code(code):
 BASE_URL = "https://reportapi.eastmoney.com/report/list"
 DETAIL_BASE_URL = "https://data.eastmoney.com/report/info/"
 
-# Read settings from `config.json` (stock code can be set dynamically)
-config_path = os.path.join(os.path.dirname(__file__), 'config.json')
-with open(config_path, 'r', encoding='utf-8') as f:
-    config = json.load(f)
-
-# STOCK_CODE = config.get('stock_code', '600519')
-MIN_PAGES = config.get('min_pages', 2)
-DOWNLOAD_DIR = config.get('download_dir', "reports_pdf")
-YEARS_AGO = config.get('years_ago', 10)
+MIN_PAGES = 2
+DOWNLOAD_DIR = "reports_pdf"
+YEARS_AGO = 10
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
 # List of User-Agent strings to rotate
