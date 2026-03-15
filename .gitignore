@@ -1,38 +1,79 @@
-Eastmoney_report_pdf_download/reports_pdf/
-Eastmoney_report_pdf_download/detail_data/
-Eastmoney_report_pdf_download/raw_data/
-reports_txt_by_quarter_cleaned_labeled/
-reports_txt_by_quarter_cleaned_done/
-reports_txt_by_quarter_cleaned/
+# ============================================================
+# Data files — NOT uploaded to GitHub
+# ============================================================
+
+# Tabular data
+*.csv
+
+# Database files
+*.duckdb
+
+# Images / word clouds
+*.png
+*.jpg
+*.jpeg
+
+# Executables / installers
+*.exe
+
+# Plain-text data / label error reports
+report_label_errors.txt
+
+# Chinese planning / notes documents (non-code)
+新老路线执行总结.md
+
+# ============================================================
+# Data / report / model directories
+# ============================================================
+
+# Raw PDF / report downloads
+Eastmoney_report_pdf_download/
+
+# Converted text / markdown reports
+pdf2md/
+md2txt/
 reports_txt/
 reports_txt_by_quarter/
-train.csv
-train_timeseries.csv
+reports_txt_by_quarter_cleaned/
+reports_txt_by_quarter_cleaned_done/
+reports_txt_by_quarter_cleaned_en/
+reports_txt_by_quarter_cleaned_labeled/
+reports_txt_translation_failed/
+reports_txt_by_day/
+reports_txt_by_day_md/
+
+# Sentiment / NLP score caches
+daily_sentiment_scores/
+sentiment_scores_by_day/
+sentiment_scores_by_quarter_cleaned_en/
+md_summary_en_512/
+
+# Fine-tuned model checkpoints
 finbert_timeseries/
 finbert_finetuned/
-reports_txt_translation_failed
-finbert_finetuned_3class
-finbert_finetuned_5class
-finbert_finetuned_regression
-finbert_finetuned_timeseries_3class
-finbert_finetuned_timeseries_5class
-finbert_finetuned_timeseries_regression
-draft.ipynb
-labels_3class.csv
-labels_5class.csv
-labels_regression.csv
-report_label_errors.txt
-train_3class.csv
-train_5class.csv
-train_regression.csv
-train_timeseries_3class.csv
-train_timeseries_5class.csv
-train_timeseries_regression.csv
-val_3class.csv
-val_5class.csv
-val_regression.csv
-val_timeseries_3class.csv
-val_timeseries_5class.csv
-val_timeseries_regression.csv
-val_timeseries.csv
-val.csv
+finbert_finetuned_3class/
+finbert_finetuned_5class/
+finbert_finetuned_regression/
+finbert_finetuned_daily_regression/
+finbert_finetuned_timeseries_3class/
+finbert_finetuned_timeseries_5class/
+finbert_finetuned_timeseries_regression/
+
+# Inference / generated output directories
+inference_outputs_regression/
+output/
+test_output/
+rolling_windows/
+datalab/
+
+# Raw input data directories
+detail_data/
+trading_data/
+test_pdfs/
+
+# ============================================================
+# Python cache
+# ============================================================
+__pycache__/
+*.pyc
+*.pyo

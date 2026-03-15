@@ -69,14 +69,14 @@ class LabelGenerator:
             folder: Path to folder containing trading data CSV files
             
         Returns:
-            DataFrame with trading date as index and price changes as values,
+            DataFrame with trading date as index and daily returns (decimal if HS300),
             or None if file not found
         """
         if code == '沪深300':
             codes_padded = code
         else:
             codes_padded = str(code).zfill(6)  # Pad to 6 digits
-        
+
         path = Path(folder) / f"{codes_padded}.csv"
 
         if not path.exists():
@@ -85,13 +85,21 @@ class LabelGenerator:
 
         temp = pd.read_csv(path, encoding='utf-8')
         temp = temp[['交易日期', '涨跌幅(%)']]
-        # Remove duplicates based on trading date
         temp = temp.drop_duplicates(subset=['交易日期'])
-        # Rename return percentage column to stock code
         temp = temp.rename(columns={'涨跌幅(%)': codes_padded})
-        temp = temp.set_index('交易日期')
 
+        # === 如果是沪深300，去掉百分号并转成小数 ===
+        if code == '沪深300':
+            temp[codes_padded] = (
+                temp[codes_padded]
+                .astype(str)
+                .str.replace('%', '', regex=False)
+            )
+            temp[codes_padded] = pd.to_numeric(temp[codes_padded], errors='coerce')
+
+        temp = temp.set_index('交易日期')
         return temp
+
 
     def load_and_aggregate_returns(self, trading_data_folder: str = "trading_data",
                                    output_csv: str = "all_stock_returns.csv") -> pd.DataFrame:
