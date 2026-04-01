@@ -92,10 +92,25 @@ __pycache__/
 _tmp*.py
 temp*.py
 temp.ipynb
+_cleanup_scan.py
+_data_diff_check.py
+_query_duckdb_summary.py
+cleanup_short_folders.py
+count_md_headings.py
+restore_files.py
+restructure.py
+cleanup_candidates_report.md
 
 # Large serialized artifacts
 *.pkl
 *.npy
+
+# Local docs / models not part of core upload
+Willcong_TEXTASFACTORS.pdf
+Willcong_TEXTASFACTORS/
+finbert_finetuned_3class_model/
+finbert_finetuned_regression_model/
+md_summary_en_512_split_copy/
 
 # Keep Chinese logic note
 !Stage3_逻辑说明.md
