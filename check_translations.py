@@ -63,8 +63,8 @@ def check_and_move_files(input_dir: str, bad_dir: str):
                     print(f"✅ OK: {file_path}")
 
 def main():
-    input_dir = "reports_txt_by_quarter_cleaned_en"
-    bad_dir = "reports_txt_translation_failed"
+    input_dir = "old_version/reports_txt_by_day_en"
+    bad_dir = "old_version/reports_txt_translation_failed"
     check_and_move_files(input_dir, bad_dir)
 
 if __name__ == "__main__":

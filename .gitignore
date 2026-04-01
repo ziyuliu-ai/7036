@@ -79,3 +79,23 @@ test_pdfs/
 __pycache__/
 *.pyc
 *.pyo
+
+# ============================================================
+# Workspace / temporary files
+# ============================================================
+.vscode/
+logs/
+old_version/
+__pycache__/
+
+# Temporary scripts / notebooks
+_tmp*.py
+temp*.py
+temp.ipynb
+
+# Large serialized artifacts
+*.pkl
+*.npy
+
+# Keep Chinese logic note
+!Stage3_逻辑说明.md

@@ -1,9 +1,8 @@
-import os
 from pathlib import Path
 import re
+
 import torch
 from transformers import pipeline
-from datasets import Dataset
 
 def remove_chinese(text: str) -> str:
     """Remove residual Chinese characters from translated text."""
@@ -17,9 +16,8 @@ def pre_clean(text: str) -> str:
     text = re.sub(r'[\x00-\x08\x0B-\x1F\x7F]', ' ', text)
     return text
 
-def translate_batch(batch, translator, batch_size, max_length):
-    """Translate a batch of text paragraphs."""
-    texts = batch["text"]
+def translate_batch(texts, translator, batch_size, max_length):
+    """Translate a list of text paragraphs."""
     mask_empty = [not t.strip() for t in texts]
     to_translate = [t[:max_length] if t else "" for t in texts]
 
@@ -42,7 +40,7 @@ def translate_batch(batch, translator, batch_size, max_length):
         if is_empty:
             translated[i] = ""
 
-    return {"translation": translated}
+    return translated
 
 def batch_translate(input_dir: str, output_dir: str, merge_lines: int = 3, batch_size: int = 16, max_length: int = 512):
     """Batch-translate Chinese text files to English using the Helsinki-NLP OPUS model."""
@@ -96,17 +94,12 @@ def batch_translate(input_dir: str, output_dir: str, merge_lines: int = 3, batch
         # Pre-cleaning
         paragraphs = [pre_clean(p) for p in paragraphs]
 
-        # Wrap paragraphs in a Dataset
-        dataset = Dataset.from_dict({"text": paragraphs})
-
-        # Apply batch translation
-        dataset = dataset.map(
-            lambda batch: translate_batch(batch, translator, batch_size, max_length),
-            batched=True,
-            batch_size=batch_size
-        )
-
-        translated_paragraphs = dataset["translation"]
+        translated_paragraphs = []
+        for i in range(0, len(paragraphs), batch_size):
+            chunk = paragraphs[i:i + batch_size]
+            translated_paragraphs.extend(
+                translate_batch(chunk, translator, batch_size, max_length)
+            )
 
         with open(out_path, "w", encoding="utf-8") as f:
             f.write("\n".join(translated_paragraphs))
@@ -114,8 +107,8 @@ def batch_translate(input_dir: str, output_dir: str, merge_lines: int = 3, batch
     print("All translations complete!")
 
 def main():
-    input_dir = "reports_txt_by_quarter_cleaned_done"
-    output_dir = "reports_txt_by_quarter_cleaned_en"
+    input_dir = "old_version/reports_txt_by_day"
+    output_dir = "old_version/reports_txt_by_day_en"
     batch_translate(input_dir, output_dir, merge_lines=3, batch_size=16, max_length=512)    
 
 if __name__ == "__main__":

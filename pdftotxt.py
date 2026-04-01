@@ -275,8 +275,8 @@ def pdf_to_text_fast(pdf_path: str) -> str:
 def build_output_path(pdf_path: str, pdf_dir: str, txt_dir: str) -> str:
     """Construct the output text file path from a PDF path.
 
-    Preserves the stock ticker structure and detects whether a PDF is in the
-    DeepReports folder.
+    All output txt files are flattened into one layer under `txt_dir`.
+    If a filename collision occurs, appends `__dupN` suffix.
 
     Args:
         pdf_path (str): Full path to input PDF.
@@ -286,26 +286,21 @@ def build_output_path(pdf_path: str, pdf_dir: str, txt_dir: str) -> str:
     Returns:
         str: Output text file path.
     """
-    rel = os.path.relpath(pdf_path, pdf_dir)
-    parts = rel.split(os.sep)
+    _ = pdf_dir
+    os.makedirs(txt_dir, exist_ok=True)
 
-    # Check if PDF is in a DeepReports subfolder
-    is_deep = "DeepReports" in parts or "深度报告" in parts
+    base_name = os.path.splitext(os.path.basename(pdf_path))[0]
+    txt_path = os.path.join(txt_dir, f"{base_name}.txt")
 
-    if is_deep:
-        # For deep reports: .../stock_name/DeepReports/report.pdf
-        deep_label = "DeepReports" if "DeepReports" in parts else "深度报告"
-        idx = parts.index(deep_label)
-        stock = parts[idx - 1]
-        out_dir = os.path.join(txt_dir, stock, "DeepReports")
-    else:
-        # For regular reports: .../stock_name/report.pdf
-        stock = parts[0]
-        out_dir = os.path.join(txt_dir, stock)
+    if not os.path.exists(txt_path):
+        return txt_path
 
-    os.makedirs(out_dir, exist_ok=True)
-    txt_filename = os.path.splitext(os.path.basename(pdf_path))[0] + ".txt"
-    return os.path.join(out_dir, txt_filename)
+    dup_idx = 1
+    while True:
+        candidate = os.path.join(txt_dir, f"{base_name}__dup{dup_idx}.txt")
+        if not os.path.exists(candidate):
+            return candidate
+        dup_idx += 1
 
 
 def batch_convert(pdf_dir: str, txt_dir: str):
@@ -327,13 +322,28 @@ def batch_convert(pdf_dir: str, txt_dir: str):
 
     print(f"Found {len(pdf_paths)} PDFs; processing sequentially.")
 
+    def has_valid_output(txt_path: str) -> bool:
+        if not os.path.exists(txt_path):
+            return False
+        try:
+            if os.path.getsize(txt_path) == 0:
+                return False
+            with open(txt_path, "r", encoding="utf-8") as f:
+                sample = f.read(512)
+            return sample.strip() != ""
+        except Exception:
+            return False
+
     for pdf_path in pdf_paths:
         txt_path = build_output_path(pdf_path, pdf_dir, txt_dir)
 
-        # If output text already exists, skip this PDF
-        if os.path.exists(txt_path):
-            print(f"Skipped (already exists): {txt_path}")
+        # If output text already exists and is valid, skip this PDF
+        if has_valid_output(txt_path):
+            print(f"Skipped (already converted): {txt_path}")
             continue
+
+        if os.path.exists(txt_path):
+            print(f"Re-converting (invalid/empty output): {txt_path}")
 
         print(f"Converting: {pdf_path} → {txt_path}")
         text = pdf_to_text_fast(pdf_path)
@@ -348,7 +358,7 @@ def batch_convert(pdf_dir: str, txt_dir: str):
     
 def main():
     pdf_root = r"Eastmoney_report_pdf_download\reports_pdf"
-    txt_root = r"reports_txt"
+    txt_root = r"old_version\reports_txt"
     batch_convert(pdf_root, txt_root)
 
 if __name__ == "__main__":
